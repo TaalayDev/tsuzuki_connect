@@ -1,20 +1,20 @@
 import 'dart:async';
 import 'dart:io';
 
-import 'package:firebase_analytics/firebase_analytics.dart';
-import 'package:firebase_core/firebase_core.dart';
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:flutter/foundation.dart';
+import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:tsuzuki_connect/app.dart';
-import 'package:tsuzuki_connect/core/services/settings_service.dart';
-import 'package:tsuzuki_connect/core/utils/app_logger.dart';
-import 'package:tsuzuki_connect/firebase_options.dart';
 import 'package:window_manager/window_manager.dart';
+import 'package:firebase_core/firebase_core.dart';
 
+import 'core/services/settings_service.dart';
+import 'core/utils/app_logger.dart';
 import 'providers/database_provider.dart';
-//import 'package:tsuzuki_connect/utils/firebase_options.dart';
+import 'app.dart';
+
+import 'firebase_options.dart';
 
 final ProviderContainer _container = ProviderContainer(observers: [if (kDebugMode) _ProviderObserver()]);
 

@@ -12,6 +12,8 @@ import 'package:tsuzuki_connect/presentation/screens/splash_screen.dart';
 import 'package:tsuzuki_connect/core/utils/app_logger.dart';
 import 'package:tsuzuki_connect/core/utils/constants.dart';
 
+import '../../presentation/screens/placement_test_screen.dart';
+
 /// Provider for the app router
 final appRouterProvider = Provider<GoRouter>((ref) {
   return GoRouter(
@@ -61,6 +63,12 @@ final appRouterProvider = Provider<GoRouter>((ref) {
           ),
           transitionsBuilder: fadeTransition,
         ),
+      ),
+
+      GoRoute(
+        path: '/placement-test',
+        name: 'placement-test',
+        builder: (context, state) => const PlacementTestScreen(),
       ),
 
       // Kotoba log (vocabulary)

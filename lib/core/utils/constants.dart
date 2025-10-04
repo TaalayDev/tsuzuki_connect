@@ -12,6 +12,7 @@ class AppConstants {
   static const String routeKotobaLog = '/kotoba';
   static const String routeCultureNotes = '/culture';
   static const String onboardingRoute = '/onboarding';
+  static const String routePlacementTest = '/placement-test';
 
   // Animation durations
   static const Duration animFast = Duration(milliseconds: 250);
