@@ -114,7 +114,7 @@ class GameScreenController extends StateNotifier<GameScreenState> {
 
   GameScreenController(this.ref, this.screenshotController) : super(const GameScreenState());
 
-  void initialize({String? chapterId, String? saveId}) async {
+  Future<void> initialize({String? chapterId, String? saveId}) async {
     try {
       ref.read(isLoadingDialogueProvider.notifier).state = true;
       state = state.copyWith(isInitializing: true);
@@ -156,8 +156,7 @@ class GameScreenController extends StateNotifier<GameScreenState> {
         ref.read(currentPlayTimeProvider.notifier).state = saveGame.playTimeSeconds;
 
         state = state.copyWith(elapsedPlayTime: saveGame.playTimeSeconds);
-
-        AppLogger.info('Loaded save game: $saveId');
+        AppLogger.info('Loaded save game: $saveId, chapter: ${saveGame.currentChapter}');
       } else {
         AppLogger.warning('Save game not found: $saveId');
         await _initializeNewGame(null);
@@ -189,7 +188,7 @@ class GameScreenController extends StateNotifier<GameScreenState> {
         final saveId = await gameRepository.createSaveGame(newSaveGame);
         await ref.read(activeSaveIdProvider.notifier).setActiveSaveId(saveId);
 
-        AppLogger.info('New game initialized: $targetChapterId');
+        AppLogger.info('New game initialized: chapter $targetChapterId, scene ${chapter.startSceneId}');
       }
     } catch (e, stack) {
       AppLogger.error('Error initializing new game', error: e, stackTrace: stack);
@@ -201,7 +200,7 @@ class GameScreenController extends StateNotifier<GameScreenState> {
       final gameRepository = ref.read(gameRepositoryProvider);
       final characters = await gameRepository.getAllCharacters();
 
-      Map<String, CharacterModel> characterMap = {};
+      final characterMap = <String, CharacterModel>{};
       for (var character in characters) {
         characterMap[character.id.toString()] = character;
       }
@@ -215,7 +214,7 @@ class GameScreenController extends StateNotifier<GameScreenState> {
 
   void _startPlayTimeTimer() {
     _playTimeTimer?.cancel();
-    _playTimeTimer = Timer.periodic(const Duration(seconds: 1), (timer) {
+    _playTimeTimer = Timer.periodic(const Duration(seconds: 1), (_) {
       final newTime = state.elapsedPlayTime + 1;
       state = state.copyWith(elapsedPlayTime: newTime);
       ref.read(currentPlayTimeProvider.notifier).state = newTime;
@@ -227,24 +226,38 @@ class GameScreenController extends StateNotifier<GameScreenState> {
     state = state.copyWith(isMenuOpen: !state.isMenuOpen);
   }
 
+  void closeMenu() {
+    state = state.copyWith(isMenuOpen: false);
+  }
+
   void closePopups() {
     state = state.copyWith(
       showVocabPopup: false,
       showGrammarPopup: false,
       showCulturalNotePopup: false,
+      showJournalNotification: false,
     );
   }
 
   void showVocabPopup() {
-    state = state.copyWith(showVocabPopup: true);
+    state = state.copyWith(
+      showVocabPopup: true,
+      showJournalNotification: false,
+    );
   }
 
   void showGrammarPopup() {
-    state = state.copyWith(showGrammarPopup: true);
+    state = state.copyWith(
+      showGrammarPopup: true,
+      showJournalNotification: false,
+    );
   }
 
   void showCulturalNotePopup() {
-    state = state.copyWith(showCulturalNotePopup: true);
+    state = state.copyWith(
+      showCulturalNotePopup: true,
+      showJournalNotification: false,
+    );
   }
 
   void toggleAutoMode() {
@@ -269,19 +282,11 @@ class GameScreenController extends StateNotifier<GameScreenState> {
     _autoModeTimer = Timer.periodic(
       Duration(milliseconds: autoDelay),
       (timer) {
-        final currentDialogue = ref.read(currentDialogueProvider).valueOrNull;
-
-        if (state.isTextComplete && !state.showChoices) {
-          if (_isEndOfScene(currentDialogue)) {
-            timer.cancel();
-            Future.delayed(const Duration(seconds: 2), () {
-              if (state.isAutoMode) {
-                // Call advance dialogue through controller
-                _startAutoMode();
-              }
-            });
-          }
+        if (!mounted) {
+          timer.cancel();
+          return;
         }
+        // Auto advance logic would be handled by the screen
       },
     );
   }
@@ -306,12 +311,11 @@ class GameScreenController extends StateNotifier<GameScreenState> {
     _autoModeTimer = Timer.periodic(
       const Duration(milliseconds: 300),
       (timer) {
-        if (!state.showChoices) {
-          // Advance dialogue
-        } else {
-          state = state.copyWith(isSkipping: false);
-          _autoModeTimer?.cancel();
+        if (!mounted) {
+          timer.cancel();
+          return;
         }
+        // Skip logic would be handled by the screen
       },
     );
   }
@@ -328,13 +332,6 @@ class GameScreenController extends StateNotifier<GameScreenState> {
     state = state.copyWith(showChoices: false, isTextComplete: false);
   }
 
-  bool _isEndOfScene(DialogueNode? dialogueNode) {
-    if (dialogueNode == null) return false;
-    if (dialogueNode.isChoiceNode) return false;
-    if (dialogueNode.line.nextId != null) return false;
-    return true;
-  }
-
   Future<void> updateCharacterSprites(DialogueLine? currentLine, BuildContext context) async {
     if (currentLine == null) return;
 
@@ -343,7 +340,7 @@ class GameScreenController extends StateNotifier<GameScreenState> {
       await captureBackgroundScreenshot(context);
     }
 
-    List<Widget> sprites = [];
+    final sprites = <Widget>[];
     if (currentLine.characterId != null && currentLine.sprite != null) {
       final character = state.characters[currentLine.characterId];
       final position = currentLine.position ?? 'center';
@@ -426,7 +423,7 @@ class GameScreenController extends StateNotifier<GameScreenState> {
       final activeSaveId = ref.read(activeSaveIdProvider);
       if (path != null && activeSaveId != null) {
         final gameRepository = ref.read(gameRepositoryProvider);
-        gameRepository.createQuickSave(currentSaveId: activeSaveId, thumbnailPath: path);
+        await gameRepository.createQuickSave(currentSaveId: activeSaveId, thumbnailPath: path);
       }
     } catch (e, stack) {
       AppLogger.error('Error capturing background screenshot', error: e, stackTrace: stack);
@@ -473,7 +470,6 @@ class GameScreenController extends StateNotifier<GameScreenState> {
   Future<void> _unlockVocabularyItems(List<String> vocabIds) async {
     final gameRepository = ref.read(gameRepositoryProvider);
     final activeSaveId = ref.read(activeSaveIdProvider);
-
     if (activeSaveId == null) return;
 
     try {
@@ -491,7 +487,6 @@ class GameScreenController extends StateNotifier<GameScreenState> {
   Future<void> _unlockGrammarPoints(List<String> grammarIds) async {
     final gameRepository = ref.read(gameRepositoryProvider);
     final activeSaveId = ref.read(activeSaveIdProvider);
-
     if (activeSaveId == null) return;
 
     try {
@@ -509,7 +504,6 @@ class GameScreenController extends StateNotifier<GameScreenState> {
   Future<void> _unlockCulturalNotes(List<String> noteIds) async {
     final gameRepository = ref.read(gameRepositoryProvider);
     final activeSaveId = ref.read(activeSaveIdProvider);
-
     if (activeSaveId == null) return;
 
     try {
@@ -522,6 +516,34 @@ class GameScreenController extends StateNotifier<GameScreenState> {
     } catch (e, stack) {
       AppLogger.error('Error unlocking cultural notes', error: e, stackTrace: stack);
     }
+  }
+
+  void startSceneTransition() {
+    state = state.copyWith(isSceneTransitioning: true);
+  }
+
+  void endSceneTransition() {
+    state = state.copyWith(
+      isSceneTransitioning: false,
+      characterSprites: [],
+      currentBackground: '',
+    );
+  }
+
+  void startChapterTransition(String chapterTitle) {
+    state = state.copyWith(
+      isChapterTransitioning: true,
+      nextChapterTitle: chapterTitle,
+    );
+  }
+
+  void endChapterTransition() {
+    state = state.copyWith(
+      isChapterTransitioning: false,
+      nextChapterTitle: '',
+      characterSprites: [],
+      currentBackground: '',
+    );
   }
 
   @override
