@@ -1,13 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
-import 'package:tsuzuki_connect/config/router/app_router.dart';
-import 'package:tsuzuki_connect/config/theme/app_theme.dart';
-import 'package:tsuzuki_connect/providers/sound_controller.dart';
-import 'package:tsuzuki_connect/providers/theme_providers.dart';
-import 'package:tsuzuki_connect/core/utils/constants.dart';
 
+import 'config/router/app_router.dart';
 import 'providers/app_providers.dart';
+import 'providers/theme_providers.dart';
 
 /// The main application widget for Tsuzuki Connect.
 class TsuzukiConnectApp extends ConsumerStatefulWidget {
@@ -23,7 +20,6 @@ class _TsuzukiConnectAppState extends ConsumerState<TsuzukiConnectApp> with Widg
     super.initState();
     WidgetsBinding.instance.addObserver(this);
 
-    ref.read(soundControllerProvider.notifier).playBgm();
     _incrementSessionCount();
   }
 
@@ -47,48 +43,27 @@ class _TsuzukiConnectAppState extends ConsumerState<TsuzukiConnectApp> with Widg
 
   @override
   Widget build(BuildContext context) {
-    // Get the current theme mode from provider
     final themeMode = ref.watch(themeModeProvider);
-
-    // Get the router configuration
     final router = ref.watch(appRouterProvider);
 
     return MaterialApp.router(
-      // App info
-      title: AppConstants.appName,
+      title: 'Tsuzuki Connect',
       debugShowCheckedModeBanner: false,
-
-      // Routing
       routerConfig: router,
-
-      // Analytics (Firebase)
       // navigatorObservers: [
       //   FirebaseAnalyticsObserver(analytics: FirebaseAnalytics.instance),
       // ],
-
-      // Theme configuration
-      theme: AppTheme.lightTheme,
-      darkTheme: AppTheme.darkTheme,
+      theme: ThemeData(),
       themeMode: themeMode,
 
-      // Localization support
       localizationsDelegates: const [
         GlobalMaterialLocalizations.delegate,
         GlobalWidgetsLocalizations.delegate,
         GlobalCupertinoLocalizations.delegate,
       ],
-      supportedLocales: const [
-        Locale('en', 'US'), // English
-        Locale('ja', 'JP'), // Japanese
-      ],
 
-      // Builder for custom overlay styling
       builder: (context, child) {
-        return MediaQuery(
-          // Prevent UI from resizing when keyboard appears
-          data: MediaQuery.of(context).copyWith(textScaleFactor: 1.0),
-          child: child!,
-        );
+        return MediaQuery(data: MediaQuery.of(context).copyWith(textScaleFactor: 1.0), child: child!);
       },
     );
   }

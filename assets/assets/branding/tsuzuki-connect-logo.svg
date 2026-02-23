@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2400" height="800" viewBox="0 0 2400 800" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tsuzuki Connect logo">
+  <defs>
+    <linearGradient id="petalGrad" x1="320" y1="190" x2="520" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFB7C5"/>
+      <stop offset="0.55" stop-color="#FF91A4"/>
+      <stop offset="1" stop-color="#E57373"/>
+    </linearGradient>
+    <linearGradient id="loopGrad" x1="180" y1="400" x2="580" y2="400" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#98D8C8"/>
+      <stop offset="1" stop-color="#FF91A4"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#3E2723" flood-opacity="0.14"/>
+    </filter>
+  </defs>
+
+  <!-- Mark -->
+  <g transform="translate(0,0)" filter="url(#softShadow)">
+    <path
+      d="M220 400C220 308 322 308 400 400C478 492 580 492 580 400C580 308 478 308 400 400C322 492 220 492 220 400Z"
+      stroke="url(#loopGrad)"
+      stroke-width="34"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      fill="none"
+    />
+
+    <g>
+      <path
+        d="M400 195C363 211 335 245 347 287C361 337 400 379 400 379C400 379 439 337 453 287C465 245 437 211 400 195Z"
+        fill="url(#petalGrad)"
+        stroke="#3E2723"
+        stroke-opacity="0.22"
+        stroke-width="3"
+      />
+      <g transform="rotate(72 400 400)">
+        <path
+          d="M400 195C363 211 335 245 347 287C361 337 400 379 400 379C400 379 439 337 453 287C465 245 437 211 400 195Z"
+          fill="url(#petalGrad)"
+          stroke="#3E2723"
+          stroke-opacity="0.22"
+          stroke-width="3"
+        />
+      </g>
+      <g transform="rotate(144 400 400)">
+        <path
+          d="M400 195C363 211 335 245 347 287C361 337 400 379 400 379C400 379 439 337 453 287C465 245 437 211 400 195Z"
+          fill="url(#petalGrad)"
+          stroke="#3E2723"
+          stroke-opacity="0.22"
+          stroke-width="3"
+        />
+      </g>
+      <g transform="rotate(216 400 400)">
+        <path
+          d="M400 195C363 211 335 245 347 287C361 337 400 379 400 379C400 379 439 337 453 287C465 245 437 211 400 195Z"
+          fill="url(#petalGrad)"
+          stroke="#3E2723"
+          stroke-opacity="0.22"
+          stroke-width="3"
+        />
+      </g>
+      <g transform="rotate(288 400 400)">
+        <path
+          d="M400 195C363 211 335 245 347 287C361 337 400 379 400 379C400 379 439 337 453 287C465 245 437 211 400 195Z"
+          fill="url(#petalGrad)"
+          stroke="#3E2723"
+          stroke-opacity="0.22"
+          stroke-width="3"
+        />
+      </g>
+    </g>
+
+    <circle cx="400" cy="400" r="54" fill="#FDF8F9" stroke="#3E2723" stroke-opacity="0.28" stroke-width="4"/>
+    <circle cx="400" cy="400" r="18" fill="#3E2723" fill-opacity="0.78"/>
+    <circle cx="376" cy="384" r="6" fill="#3E2723" fill-opacity="0.55"/>
+    <circle cx="426" cy="382" r="6" fill="#3E2723" fill-opacity="0.55"/>
+    <circle cx="400" cy="430" r="6" fill="#3E2723" fill-opacity="0.55"/>
+  </g>
+
+  <!-- Wordmark -->
+  <g transform="translate(760, 0)">
+    <text
+      x="0"
+      y="360"
+      font-family="Nunito, system-ui, -apple-system, Segoe UI, sans-serif"
+      font-size="156"
+      font-weight="800"
+      letter-spacing="10"
+      fill="#3E2723"
+    >TSUZUKI CONNECT</text>
+
+    <text
+      x="4"
+      y="470"
+      font-family="Noto Sans JP, system-ui, -apple-system, Segoe UI, sans-serif"
+      font-size="64"
+      font-weight="500"
+      letter-spacing="6"
+      fill="#795548"
+      opacity="0.95"
+    >言葉でつながる場所</text>
+
+    <path d="M0 520H1380" stroke="#FF91A4" stroke-opacity="0.55" stroke-width="6" stroke-linecap="round"/>
+  </g>
+</svg>
+

@@ -27,13 +27,11 @@ class SettingsService {
   static const String _keyDeviceId = 'device_id';
   static const String _keyOnboardingCompleted = 'onboarding_completed';
   static const String _keyActiveSaveId = 'active_save_id';
-  static const String _keyGameplaySettings = 'gameplay_settings';
 
   /// Initialize the settings service
   static Future<void> initialize() async {
     try {
       _prefs = await SharedPreferences.getInstance();
-      AppLogger.info('Settings service initialized');
     } catch (e, stack) {
       AppLogger.error('Failed to initialize settings service', error: e, stackTrace: stack);
       rethrow;
@@ -85,8 +83,8 @@ class SettingsService {
 
       // Get all keys except those we want to preserve
       final keys = _prefs.getKeys().where(
-            (key) => key != _keyFirstLaunch && key != _keyDeviceId && key != _keyActiveSaveId,
-          );
+        (key) => key != _keyFirstLaunch && key != _keyDeviceId && key != _keyActiveSaveId,
+      );
 
       // Remove all other keys
       for (final key in keys) {
@@ -138,10 +136,7 @@ class SettingsService {
 
     try {
       final localeMap = jsonDecode(localeString) as Map<String, dynamic>;
-      return Locale(
-        localeMap['languageCode'] as String,
-        localeMap['countryCode'] as String?,
-      );
+      return Locale(localeMap['languageCode'] as String, localeMap['countryCode'] as String?);
     } catch (e) {
       AppLogger.warning('Failed to parse locale: $localeString');
       return null;
@@ -150,10 +145,7 @@ class SettingsService {
 
   /// Set the app locale
   static Future<void> setLocale(Locale locale) async {
-    final localeMap = {
-      'languageCode': locale.languageCode,
-      'countryCode': locale.countryCode,
-    };
+    final localeMap = {'languageCode': locale.languageCode, 'countryCode': locale.countryCode};
     await _prefs.setString(_keyAppLocale, jsonEncode(localeMap));
   }
 
@@ -291,54 +283,5 @@ class SettingsService {
   /// Set the SFX volume
   static Future<void> setSfxVolume(double volume) async {
     await _prefs.setDouble(_keySfxVolume, volume);
-  }
-
-  /// Get gameplay settings as a Map
-  static Map<String, dynamic> getGameplaySettings() {
-    final jsonString = _prefs.getString(_keyGameplaySettings);
-    if (jsonString == null) return {};
-
-    try {
-      return jsonDecode(jsonString) as Map<String, dynamic>;
-    } catch (e) {
-      AppLogger.warning('Failed to parse gameplay settings: $jsonString');
-      return {};
-    }
-  }
-
-  /// Get a specific gameplay setting
-  static dynamic getGameplaySetting(String key) {
-    final settings = getGameplaySettings();
-    return settings[key];
-  }
-
-  /// Set a specific gameplay setting
-  static Future<void> setGameplaySetting(String key, dynamic value) async {
-    final settings = getGameplaySettings();
-    settings[key] = value;
-    await _prefs.setString(_keyGameplaySettings, jsonEncode(settings));
-    AppLogger.info('Gameplay setting updated: $key = $value');
-  }
-
-  /// Set multiple gameplay settings at once
-  static Future<void> setGameplaySettings(Map<String, dynamic> settings) async {
-    final currentSettings = getGameplaySettings();
-    currentSettings.addAll(settings);
-    await _prefs.setString(_keyGameplaySettings, jsonEncode(currentSettings));
-    AppLogger.info('Multiple gameplay settings updated');
-  }
-
-  /// Remove a specific gameplay setting
-  static Future<void> removeGameplaySetting(String key) async {
-    final settings = getGameplaySettings();
-    settings.remove(key);
-    await _prefs.setString(_keyGameplaySettings, jsonEncode(settings));
-    AppLogger.info('Gameplay setting removed: $key');
-  }
-
-  /// Clear all gameplay settings
-  static Future<void> clearGameplaySettings() async {
-    await _prefs.remove(_keyGameplaySettings);
-    AppLogger.info('All gameplay settings cleared');
   }
 }

@@ -6,26 +6,23 @@ import 'package:flutter/services.dart';
 import 'package:flutter/foundation.dart';
 import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:tsuzuki_connect/core/services/settings_service.dart';
 import 'package:window_manager/window_manager.dart';
 import 'package:firebase_core/firebase_core.dart';
 
-import 'core/services/settings_service.dart';
 import 'core/utils/app_logger.dart';
-import 'providers/database_provider.dart';
 import 'app.dart';
 
 import 'firebase_options.dart';
 
-final ProviderContainer _container = ProviderContainer(observers: [if (kDebugMode) _ProviderObserver()]);
-
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
-  await SystemChrome.setPreferredOrientations([DeviceOrientation.landscapeLeft, DeviceOrientation.landscapeRight]);
-
   SystemChrome.setEnabledSystemUIMode(SystemUiMode.edgeToEdge, overlays: [SystemUiOverlay.top]);
+  SystemChrome.setPreferredOrientations([DeviceOrientation.landscapeLeft, DeviceOrientation.landscapeRight]);
 
-  await initWindowManager();
+  // await initWindowManager();
+  await SettingsService.initialize();
 
   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
   if (!kIsWeb) {
@@ -45,48 +42,7 @@ void main() async {
     }
   }
 
-  await SettingsService.initialize();
-
-  runApp(UncontrolledProviderScope(container: _container, child: const TsuzukiConnectApp()));
-
-  _initializeActiveSaveId();
-}
-
-Future<void> _initializeActiveSaveId() async {
-  try {
-    final activeSaveId = SettingsService.getActiveSaveId();
-    if (activeSaveId != null) {
-      final gameRepository = _container.read(gameRepositoryProvider);
-      final saveGame = await gameRepository.getSaveGameById(activeSaveId);
-
-      if (saveGame != null) {
-        await _container.read(activeSaveIdProvider.notifier).setActiveSaveId(activeSaveId);
-        AppLogger.info('Restored active save game: ${saveGame.playerName} (ID: $activeSaveId)');
-      } else {
-        await SettingsService.setActiveSaveId(null);
-        AppLogger.warning('Saved game ID $activeSaveId no longer exists, clearing active save');
-      }
-    }
-  } catch (e, stack) {
-    AppLogger.error('Error initializing active save ID', error: e, stackTrace: stack);
-  }
-}
-
-class _ProviderObserver extends ProviderObserver {
-  @override
-  void didUpdateProvider(
-    ProviderBase<Object?> provider,
-    Object? previousValue,
-    Object? newValue,
-    ProviderContainer container,
-  ) {
-    if (kDebugMode && previousValue != newValue) {
-      // debugPrint(
-      //   '[Provider Updated] ${provider.name ?? provider.runtimeType} '
-      //   '- Value: $newValue',
-      // );
-    }
-  }
+  runApp(ProviderScope(child: const TsuzukiConnectApp()));
 }
 
 Future<void> initWindowManager() async {
