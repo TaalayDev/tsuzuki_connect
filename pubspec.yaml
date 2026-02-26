@@ -1,0 +1,91 @@
+name: tsuzuki_connect
+description: "A visual novel language learning adventure."
+publish_to: 'none' # Prevents accidental publishing to pub.dev
+
+# Version follows semantic versioning (major.minor.patch+build)
+version: 2.0.0+6
+
+environment:
+  sdk: '>=3.10.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations: # For internationalization support
+    sdk: flutter
+
+  # Core & State Management
+  flutter_riverpod: ^3.1.0 # State management
+  riverpod_annotation: ^4.0.0 # Code generation for Riverpod
+  go_router: ^17.1.0 # Routing
+  shared_preferences: ^2.2.2 # Simple key-value storage (settings)
+  intl: 0.20.2 # Internationalization formatting
+
+  # Analytics & Monitoring (Requires Network Connection)
+  firebase_core: ^4.4.0 # Required for Firebase integration
+  firebase_analytics: ^12.1.2 # Analytics
+
+  # UI & UX
+  cupertino_icons: ^1.0.8 # iOS style icons
+  flutter_vector_icons: ^2.0.0 # More icon options
+
+  # Utilities
+  logger: ^2.0.2+1 # Logging utility
+  in_app_review: ^2.0.10
+  url_launcher: ^6.3.1
+  flutter_inappwebview: ^6.1.5
+  in_app_purchase: ^3.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+
+  # Linting & Code Analysis
+  flutter_lints: ^6.0.0 # Recommended Flutter lints
+  custom_lint: ^0.8.1 # Framework for custom lints
+  riverpod_lint: ^3.1.0 # Custom lints for Riverpod
+
+  # Code Generation
+  build_runner: ^2.4.7 # Code generation tool runner
+  riverpod_generator: ^4.0.0+1 # Riverpod code generator
+  go_router_builder: ^4.2.0 # GoRouter code generator
+  freezed: ^3.0.4 # Freezed code generator
+  json_serializable: ^6.9.4 # JSON serialization generator
+  drift_dev: ^2.14.1 # Drift code generator (for DB)
+
+
+
+# Flutter configuration
+flutter:
+  # Material Design icons
+  uses-material-design: true
+  
+  # Assets bundling configuration
+  assets:
+    - assets/
+    - assets/css/
+    - assets/js/
+    - assets/js/engine/
+    - assets/js/graphics/
+    - assets/js/graphics/backgrounds/
+    - assets/js/graphics/characters/
+    - assets/js/stories/
+    - assets/js/systems/
+    - assets/js/systems/translations/
+
+    # Image assets
+    - assets/assets/backgrounds/
+    - assets/assets/characters/
+    
+    # Audio assets (if used)
+    - assets/assets/audio/
+  
+
+# Flutter localization configuration
+flutter_intl:
+  enabled: true
+  main_locale: en
+  arb_dir: lib/l10n
+  output_dir: lib/generated

@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tsuzuki Connect - A Place Connected by Words</title>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/ui.css">
+    <link rel="stylesheet" href="css/animations.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&family=Nunito:wght@300;400;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <div id="game-container">
+        <!-- Main Menu Screen -->
+        <div id="main-menu" class="screen active">
+            <div class="menu-background"></div>
+            <div class="menu-layout">
+                <div class="menu-left">
+                    <div class="menu-content">
+                        <div class="menu-buttons">
+                            <button class="menu-btn" id="btn-new-game">
+                                <i class="fa-solid fa-play"></i>
+                                <span data-i18n="menu.new_game">NEW GAME</span>
+                            </button>
+                            <button class="menu-btn" id="btn-continue" disabled>
+                                <i class="fa-solid fa-book-open"></i>
+                                <span data-i18n="menu.continue">CONTINUE</span>
+                            </button>
+                            <button class="menu-btn" id="btn-chapter-select" disabled>
+                                <i class="fa-solid fa-images"></i>
+                                <span data-i18n="menu.chapter_select">CHAPTER SELECT</span>
+                            </button>
+                            <button class="menu-btn" id="btn-kotoba-log" disabled>
+                                <i class="fa-solid fa-scroll"></i>
+                                <span data-i18n="menu.kotoba_log">KOTOBA LOG</span>
+                            </button>
+                            <button class="menu-btn" id="btn-settings">
+                                <i class="fa-solid fa-gear"></i>
+                                <span data-i18n="menu.settings">SETTINGS</span>
+                            </button>
+                            <button class="menu-btn" id="btn-credits">
+                                <i class="fa-solid fa-circle-info"></i>
+                                <span data-i18n="menu.credits">CREDITS</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="menu-showcase" aria-hidden="true">
+                    <div class="menu-showcase-title">
+                        <h1 class="game-title">TSUZUKI CONNECT</h1>
+                        <p class="game-subtitle" data-i18n="menu.subtitle">言葉でつながる場所</p>
+                    </div>
+                    <div class="menu-showcase-frame">
+                        <div class="menu-showcase-lineup">
+                            <div class="menu-showcase-slot tanaka">
+                                <img src="assets/characters/tanaka_neutral.png" alt="" loading="eager" />
+                            </div>
+                            <div class="menu-showcase-slot mei">
+                                <img src="assets/characters/mei_neutral.png" alt="" loading="eager" />
+                            </div>
+                            <div class="menu-showcase-slot ken">
+                                <img src="assets/characters/ken_neutral.png" alt="" loading="eager" />
+                            </div>
+                            <div class="menu-showcase-slot yuki">
+                                <img src="assets/characters/yuki_neutral.png" alt="" loading="eager" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <canvas id="menu-particles" class="particles-canvas"></canvas>
+        </div>
+
+        <!-- Character Creation Screen -->
+        <div id="character-creation" class="screen">
+            <div class="creation-container">
+                <h2><i class="fa-solid fa-user-pen"></i> <span data-i18n="cc.title">Create Your Character</span></h2>
+                <div class="creation-form">
+                    <div class="form-group">
+                        <label for="player-name"><i class="fa-solid fa-signature"></i> <span
+                                data-i18n="cc.name">Name</span></label>
+                        <input type="text" id="player-name" data-i18n-placeholder="cc.name_placeholder"
+                            placeholder="Enter your name..." maxlength="20">
+                    </div>
+                    <div class="form-group">
+                        <label><i class="fa-solid fa-heart"></i> <span data-i18n="cc.why">Why are you learning
+                                Japanese?</span></label>
+                        <div class="reason-options" id="reason-options">
+                            <button class="reason-btn" data-reason="culture"><i class="fa-solid fa-torii-gate"></i>
+                                <span data-i18n="cc.reason.culture">Fascinated by Japanese culture</span></button>
+                            <button class="reason-btn" data-reason="work"><i class="fa-solid fa-briefcase"></i> <span
+                                    data-i18n="cc.reason.work">Career opportunities</span></button>
+                            <button class="reason-btn" data-reason="love"><i class="fa-solid fa-heart"></i> <span
+                                    data-i18n="cc.reason.love">Following my heart</span></button>
+                            <button class="reason-btn" data-reason="adventure"><i class="fa-solid fa-plane"></i> <span
+                                    data-i18n="cc.reason.adventure">Seeking adventure</span></button>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label><i class="fa-solid fa-layer-group"></i> <span data-i18n="cc.level">Japanese
+                                Level</span></label>
+                        <div class="level-options" id="level-options">
+                            <button class="level-btn" data-level="beginner"><i class="fa-solid fa-seedling"></i> <span
+                                    data-i18n="cc.levels.beginner">Complete Beginner (N5)</span></button>
+                            <button class="level-btn" data-level="some"><i class="fa-solid fa-book-open"></i> <span
+                                    data-i18n="cc.levels.some">Some Knowledge (N4)</span></button>
+                            <button class="level-btn" data-level="intermediate"><i class="fa-solid fa-comments"></i>
+                                <span data-i18n="cc.levels.intermediate">Intermediate (N3)</span></button>
+                        </div>
+                    </div>
+                    <button class="start-btn" id="btn-start-story"><i class="fa-solid fa-paper-plane"></i> <span
+                            data-i18n="cc.begin">Begin Your Journey</span></button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Game Screen -->
+        <div id="game-screen" class="screen">
+            <!-- Background Layer -->
+            <canvas id="background-canvas" class="game-layer"></canvas>
+
+            <!-- Characters Layer -->
+            <canvas id="characters-canvas" class="game-layer"></canvas>
+
+            <!-- Effects Layer -->
+            <canvas id="effects-canvas" class="game-layer"></canvas>
+
+            <!-- Story Title Card Overlay -->
+            <div id="story-title-card" class="story-title-card hidden">
+                <div class="title-content">
+                    <h2 id="card-main-title">STORY TITLE</h2>
+                    <p id="card-sub-title">Subtitle goes here</p>
+                </div>
+            </div>
+
+            <!-- UI Layer -->
+            <div id="ui-layer" class="game-layer">
+                <!-- Top Bar -->
+                <div id="top-bar">
+                    <button id="btn-menu" class="ui-btn"><i class="fa-solid fa-bars"></i> <span
+                            data-i18n="game.menu">Menu</span></button>
+                    <div id="scene-indicator" aria-hidden="true"></div>
+                    <button id="btn-quick-settings" class="ui-btn"><i class="fa-solid fa-gear"></i></button>
+                </div>
+
+                <!-- Dialogue Box -->
+                <div id="dialogue-container">
+                    <div id="speaker-name"></div>
+                    <div id="dialogue-box">
+                        <div id="dialogue-assist-controls">
+                            <button id="btn-toggle-translation" class="assist-btn active"
+                                type="button">Translation</button>
+                            <button id="btn-toggle-transcription" class="assist-btn active"
+                                type="button">Transcription</button>
+                        </div>
+                        <div id="dialogue-japanese"></div>
+                        <div id="dialogue-transcription"></div>
+                        <div id="dialogue-english"></div>
+                    </div>
+                    <div id="dialogue-controls">
+                        <button id="btn-auto" class="dialogue-btn"><i class="fa-solid fa-play"></i> <span
+                                data-i18n="game.auto">Auto</span></button>
+                        <button id="btn-skip" class="dialogue-btn"><i class="fa-solid fa-forward"></i> <span
+                                data-i18n="game.skip">Skip</span></button>
+                        <button id="btn-log" class="dialogue-btn"><i class="fa-solid fa-clipboard-list"></i> <span
+                                data-i18n="game.log">Log</span></button>
+                    </div>
+                </div>
+
+                <!-- Choice Container -->
+                <div id="choice-container" class="hidden">
+                    <!-- Choices populated dynamically -->
+                </div>
+
+                <!-- Vocabulary Popup -->
+                <div id="vocab-popup" class="hidden">
+                    <div id="vocab-word"></div>
+                    <div id="vocab-reading"></div>
+                    <div id="vocab-meaning"></div>
+                    <button id="vocab-close"><i class="fa-solid fa-xmark"></i></button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Settings Modal -->
+        <div id="settings-modal" class="modal hidden">
+            <div class="modal-content">
+                <h2><i class="fa-solid fa-gear"></i> <span data-i18n="settings.title">Settings</span></h2>
+                <div class="settings-section">
+                    <h3><i class="fa-solid fa-id-card"></i> <span data-i18n="settings.profile.section">Profile</span>
+                    </h3>
+                    <div class="setting-row">
+                        <label for="setting-player-name" data-i18n="settings.profile.player_name">Player Name</label>
+                        <input type="text" id="setting-player-name" maxlength="20"
+                            data-i18n-placeholder="cc.name_placeholder" placeholder="Enter your name...">
+                    </div>
+                </div>
+                <div class="settings-section">
+                    <h3><i class="fa-solid fa-globe"></i> <span data-i18n="settings.language.section">Language</span>
+                    </h3>
+                    <div class="setting-row">
+                        <label for="setting-language" data-i18n="settings.language.ui_language">UI Language</label>
+                        <select id="setting-language">
+                            <option value="en" data-i18n="settings.language.en">English</option>
+                            <option value="ru" data-i18n="settings.language.ru">Русский</option>
+                            <option value="zh" data-i18n="settings.language.zh">中文</option>
+                            <option value="ko" data-i18n="settings.language.ko">한국어</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="settings-section">
+                    <h3><i class="fa-solid fa-desktop"></i> <span data-i18n="settings.display.section">Display</span>
+                    </h3>
+                    <div class="setting-row">
+                        <label data-i18n="settings.display.text_speed">Text Speed</label>
+                        <select id="setting-text-speed">
+                            <option value="slow" data-i18n="settings.display.speed.slow">Slow</option>
+                            <option value="medium" selected data-i18n="settings.display.speed.medium">Medium</option>
+                            <option value="fast" data-i18n="settings.display.speed.fast">Fast</option>
+                        </select>
+                    </div>
+                    <div class="setting-row">
+                        <label data-i18n="settings.display.font_size">Font Size</label>
+                        <select id="setting-font-size">
+                            <option value="small" data-i18n="settings.display.font.small">Small</option>
+                            <option value="medium" selected data-i18n="settings.display.font.medium">Medium</option>
+                            <option value="large" data-i18n="settings.display.font.large">Large</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="settings-section">
+                    <h3><i class="fa-solid fa-language"></i> <span data-i18n="settings.support.section">Language
+                            Support</span></h3>
+                    <div class="setting-row">
+                        <label data-i18n="settings.support.subtitles">Show English Subtitles</label>
+                        <input type="checkbox" id="setting-subtitles" checked>
+                    </div>
+                    <div class="setting-row">
+                        <label data-i18n="settings.support.furigana">Show Furigana</label>
+                        <select id="setting-furigana">
+                            <option value="all" selected data-i18n="settings.support.furigana_options.all">All Kanji
+                            </option>
+                            <option value="uncommon" data-i18n="settings.support.furigana_options.uncommon">Uncommon
+                                Only</option>
+                            <option value="off" data-i18n="settings.support.furigana_options.off">Off</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="settings-section">
+                    <h3><i class="fa-solid fa-volume-high"></i> <span data-i18n="settings.audio.section">Audio</span>
+                    </h3>
+                    <div class="setting-row">
+                        <label data-i18n="settings.audio.master">Master Volume</label>
+                        <input type="range" id="setting-master-vol" min="0" max="100" value="80">
+                    </div>
+                    <div class="setting-row">
+                        <label data-i18n="settings.audio.music">Music Volume</label>
+                        <input type="range" id="setting-music-vol" min="0" max="100" value="70">
+                    </div>
+                    <div class="setting-row">
+                        <label data-i18n="settings.audio.sfx">SFX Volume</label>
+                        <input type="range" id="setting-sfx-vol" min="0" max="100" value="60">
+                    </div>
+                </div>
+                <button class="modal-close" id="settings-close"><i class="fa-solid fa-xmark"></i> <span
+                        data-i18n="common.close">Close</span></button>
+            </div>
+        </div>
+
+        <!-- Credits Modal -->
+        <div id="credits-modal" class="modal hidden">
+            <div class="modal-content credits-content">
+                <h2 data-i18n="credits.title">Credits</h2>
+                <p>
+                    <span data-i18n="credits.music">BG music</span>:
+                    <a href="https://www.gamedevmarket.net/asset/lofi-world-volume-1-7-free-lofi-tracks" target="_blank"
+                        rel="noopener noreferrer">kummel</a>
+                </p>
+                <p>
+                    <span data-i18n="credits.backgrounds">BG images</span>:
+                    <a href="https://noranekogames.itch.io/" target="_blank" rel="noopener noreferrer">noranekogames</a>
+                </p>
+                <p>
+                    <span data-i18n="credits.characters">Characters</span>:
+                    <a href="https://wataokiba.net/%e7%b4%a0%e6%9d%90%e4%b8%80%e8%a6%a7/" target="_blank"
+                        rel="noopener noreferrer">wataokiba.net</a>
+                </p>
+                <p>
+                    <span data-i18n="credits.characters">Vector Characters</span>:
+                    <a href="https://www.vecteezy.com/" target="_blank" rel="noopener noreferrer">vecteezy.com</a>
+                </p>
+                <hr style="border:none;border-top:1px solid rgba(255,255,255,0.1);margin:16px 0 12px;">
+                <p style="font-size:12px;opacity:0.6;margin:4px 0;">
+                    <a href="https://taalaydev.github.io/kizuna-quest/privacy-policy.html" target="_blank"
+                        rel="noopener noreferrer" style="color:#b39ddb;">Privacy Policy</a>
+                    &nbsp;·&nbsp;
+                    <a href="https://taalaydev.github.io/kizuna-quest/terms-of-service.html" target="_blank"
+                        rel="noopener noreferrer" style="color:#b39ddb;">Terms of Service</a>
+                </p>
+                <button class="modal-close" id="credits-close"><i class="fa-solid fa-xmark"></i> <span
+                        data-i18n="common.close">Close</span></button>
+            </div>
+        </div>
+
+        <!-- Quick Menu Modal -->
+        <div id="quick-menu" class="modal hidden">
+            <div class="modal-content quick-menu-content">
+                <h2><i class="fa-solid fa-bars"></i> <span data-i18n="quick_menu.title">Menu</span></h2>
+                <button class="quick-btn" id="qm-save"><i class="fa-solid fa-floppy-disk"></i> <span
+                        data-i18n="quick_menu.save">Save</span></button>
+                <button class="quick-btn" id="qm-load"><i class="fa-solid fa-folder-open"></i> <span
+                        data-i18n="quick_menu.load">Load</span></button>
+                <button class="quick-btn" id="qm-log"><i class="fa-solid fa-book"></i> <span
+                        data-i18n="quick_menu.text_log">Text Log</span></button>
+                <button class="quick-btn" id="qm-kotoba"><i class="fa-solid fa-scroll"></i> <span
+                        data-i18n="quick_menu.kotoba_log">Kotoba Log</span></button>
+                <button class="quick-btn" id="qm-settings"><i class="fa-solid fa-gear"></i> <span
+                        data-i18n="quick_menu.settings">Settings</span></button>
+                <button class="quick-btn" id="qm-title"><i class="fa-solid fa-house"></i> <span
+                        data-i18n="quick_menu.main_menu">Main Menu</span></button>
+                <button class="quick-btn" id="qm-return"><i class="fa-solid fa-rotate-left"></i> <span
+                        data-i18n="quick_menu.return">Return</span></button>
+            </div>
+        </div>
+
+        <!-- Text Log Modal -->
+        <div id="text-log-modal" class="modal hidden">
+            <div class="modal-content log-content">
+                <h2><i class="fa-solid fa-clock-rotate-left"></i> <span data-i18n="text_log.title">Text Log</span></h2>
+                <div id="text-log-entries"></div>
+                <button class="modal-close" id="log-close"><i class="fa-solid fa-xmark"></i> <span
+                        data-i18n="common.close">Close</span></button>
+            </div>
+        </div>
+
+        <!-- Save/Load Modal -->
+        <div id="save-load-modal" class="modal hidden">
+            <div class="modal-content save-load-content">
+                <h2 id="save-load-title"><i class="fa-solid fa-floppy-disk"></i> Save Game</h2>
+                <div id="save-slots"></div>
+                <button class="modal-close" id="save-load-close"><i class="fa-solid fa-xmark"></i> <span
+                        data-i18n="common.close">Close</span></button>
+            </div>
+        </div>
+
+        <!-- Chapter Select Modal -->
+        <div id="chapter-select-modal" class="modal hidden">
+            <div class="modal-content chapter-select-content">
+                <h2><i class="fa-solid fa-images"></i> <span data-i18n="runtime.chapter_select.title">Chapter
+                        Select</span></h2>
+                <p class="chapter-select-note" data-i18n="runtime.chapter_select.note">Select a chapter to start from
+                    the beginning.</p>
+                <div id="chapter-select-list"></div>
+                <button class="modal-close" id="chapter-select-close"><i class="fa-solid fa-xmark"></i> <span
+                        data-i18n="common.close">Close</span></button>
+            </div>
+        </div>
+
+        <!-- Kotoba Log Modal -->
+        <div id="kotoba-modal" class="modal hidden">
+            <div class="modal-content kotoba-content">
+                <h2><i class="fa-solid fa-book-open"></i> <span data-i18n="kotoba.title">Kotoba Log 言葉ログ</span></h2>
+                <div class="kotoba-tabs">
+                    <button class="kotoba-tab active" data-tab="story" data-i18n="kotoba.tabs.story">By Story</button>
+                    <button class="kotoba-tab" data-tab="category" data-i18n="kotoba.tabs.category">By Category</button>
+                    <button class="kotoba-tab" data-tab="level" data-i18n="kotoba.tabs.level">By Level</button>
+                </div>
+                <div id="kotoba-entries"></div>
+                <button class="modal-close" id="kotoba-close"><i class="fa-solid fa-xmark"></i> <span
+                        data-i18n="common.close">Close</span></button>
+            </div>
+        </div>
+
+        <!-- Lesson Mode Screen -->
+        <div id="lesson-screen" class="screen">
+            <canvas id="lesson-background" class="game-layer"></canvas>
+            <div id="lesson-content">
+                <div id="lesson-header">
+                    <h2><i class="fa-solid fa-chalkboard-user"></i> <span data-i18n="lesson.title">Tanaka-sensei's
+                            Classroom</span></h2>
+                    <button id="skip-lesson" class="lesson-btn"><i class="fa-solid fa-forward"></i> <span
+                            data-i18n="lesson.skip">Skip Lesson</span></button>
+                </div>
+                <div id="chalkboard">
+                    <canvas id="chalkboard-canvas"></canvas>
+                </div>
+                <div id="lesson-dialogue">
+                    <div id="lesson-speaker">Tanaka-sensei</div>
+                    <div id="lesson-text"></div>
+                </div>
+                <div id="lesson-controls">
+                    <button id="lesson-continue" class="lesson-btn"><i class="fa-solid fa-play"></i> <span
+                            data-i18n="lesson.continue">Continue</span></button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tone/14.8.49/Tone.js"></script>
+    <script type="module" src="js/main.js"></script>
+</body>
+
+</html>
