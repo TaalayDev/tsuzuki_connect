@@ -3,10 +3,10 @@ export const STORY2_TRANSLATIONS = {
     // STORY METADATA
     // ============================================
     "s2.card_title": {
-        "en": "ANTHOLOGY 2",
-        "ru": "АНТОЛОГИЯ 2",
-        "zh": "选集 2",
-        "ko": "앤솔로지 2",
+        "en": "STORY 2",
+        "ru": "ИСТОРИЯ 2",
+        "zh": "故事 2",
+        "ko": "스토리 2",
     },
     "s2.card_subtitle": {
         "en": "The Gardener's Daughter",

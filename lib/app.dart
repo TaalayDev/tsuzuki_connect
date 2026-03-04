@@ -61,6 +61,18 @@ class _TsuzukiConnectAppState extends ConsumerState<TsuzukiConnectApp> with Widg
         GlobalWidgetsLocalizations.delegate,
         GlobalCupertinoLocalizations.delegate,
       ],
+      supportedLocales: const [
+        Locale('en'),
+        Locale('zh'),
+        Locale('hi'),
+        Locale('es'),
+        Locale('fr'),
+        Locale('ar'),
+        Locale('bn'),
+        Locale('pt'),
+        Locale('ru'),
+        Locale('ja'),
+      ],
 
       builder: (context, child) {
         return MediaQuery(data: MediaQuery.of(context).copyWith(textScaleFactor: 1.0), child: child!);

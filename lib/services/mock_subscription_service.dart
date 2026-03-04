@@ -18,6 +18,7 @@ class SubscriptionService {
   bool get isPremium => _isPremium;
 
   ProductDetails? _productDetails;
+  String? get localizedPrice => _productDetails?.price;
   bool _storeAvailable = false;
   bool _loading = false;
   bool get isLoading => _loading;
@@ -85,7 +86,9 @@ class SubscriptionService {
     final purchaseParam = PurchaseParam(productDetails: _productDetails!);
     try {
       // Non-consumable one-time purchase
-      return await InAppPurchase.instance.buyNonConsumable(purchaseParam: purchaseParam);
+      return await InAppPurchase.instance.buyNonConsumable(
+        purchaseParam: purchaseParam,
+      );
     } catch (e) {
       debugPrint('[IAP] Buy error: $e');
       _loading = false;
@@ -98,17 +101,42 @@ class SubscriptionService {
     await InAppPurchase.instance.restorePurchases();
   }
 
+  Future<String?> fetchLocalizedPrice() async {
+    if (!_isSupportedPlatform) return null;
+
+    if (!_storeAvailable) {
+      _storeAvailable = await InAppPurchase.instance.isAvailable();
+      if (!_storeAvailable) {
+        debugPrint('[IAP] Store not available');
+        return null;
+      }
+    }
+
+    if (_productDetails == null) {
+      await _loadProductDetails();
+    }
+
+    return _productDetails?.price;
+  }
+
   // ── Helpers ───────────────────────────────────────────────────────────────
 
-  bool get _isSupportedPlatform => Platform.isIOS || Platform.isAndroid || Platform.isMacOS;
+  bool get _isSupportedPlatform =>
+      Platform.isIOS || Platform.isAndroid || Platform.isMacOS;
 
   Future<void> _loadProductDetails() async {
-    final response = await InAppPurchase.instance.queryProductDetails({kUnlockAllStoriesProductId});
+    final response = await InAppPurchase.instance.queryProductDetails({
+      kUnlockAllStoriesProductId,
+    });
     if (response.productDetails.isNotEmpty) {
       _productDetails = response.productDetails.first;
-      debugPrint('[IAP] Product loaded: ${_productDetails!.title} — ${_productDetails!.price}');
+      debugPrint(
+        '[IAP] Product loaded: ${_productDetails!.title} — ${_productDetails!.price}',
+      );
     } else {
-      debugPrint('[IAP] Product not found. Not-found IDs: ${response.notFoundIDs}');
+      debugPrint(
+        '[IAP] Product not found. Not-found IDs: ${response.notFoundIDs}',
+      );
     }
   }
 
