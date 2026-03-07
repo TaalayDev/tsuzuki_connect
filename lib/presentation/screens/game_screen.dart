@@ -6,7 +6,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_inappwebview/flutter_inappwebview.dart';
 import 'package:url_launcher/url_launcher.dart';
-import '../../services/mock_subscription_service.dart';
+import '../../services/subscription_service.dart';
 
 // ---------------------------------------------------------------------------
 // Custom scheme used to serve web assets without a local HTTP server.
