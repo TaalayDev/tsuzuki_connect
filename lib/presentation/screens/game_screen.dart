@@ -1,9 +1,154 @@
 import 'dart:async';
+import 'dart:collection';
+import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_inappwebview/flutter_inappwebview.dart';
 import 'package:url_launcher/url_launcher.dart';
 import '../../services/mock_subscription_service.dart';
+
+// ---------------------------------------------------------------------------
+// Custom scheme used to serve web assets without a local HTTP server.
+// All asset URLs look like:  tsuzuki://css/main.css
+//                            tsuzuki://js/main.js
+//                            tsuzuki://assets/characters/tanaka_neutral.png
+// ---------------------------------------------------------------------------
+const _kScheme = 'tsuzuki';
+const _kHost = 'index.html'; // The virtual "host" for the entry point
+
+String _mimeType(String path) {
+  final ext = path.split('.').last.toLowerCase();
+  return switch (ext) {
+    'html' => 'text/html',
+    'css' => 'text/css',
+    'js' => 'application/javascript',
+    'json' => 'application/json',
+    'png' => 'image/png',
+    'jpg' || 'jpeg' => 'image/jpeg',
+    'gif' => 'image/gif',
+    'svg' => 'image/svg+xml',
+    'webp' => 'image/webp',
+    'ico' => 'image/x-icon',
+    'woff' => 'font/woff',
+    'woff2' => 'font/woff2',
+    'ttf' => 'font/ttf',
+    'otf' => 'font/otf',
+    'mp3' => 'audio/mpeg',
+    'ogg' => 'audio/ogg',
+    'wav' => 'audio/wav',
+    'mp4' => 'video/mp4',
+    _ => 'application/octet-stream',
+  };
+}
+
+// JavaScript shim injected at document-start.
+// Intercepts fetch() and HTMLMediaElement.src for tsuzuki:// audio files,
+// loads them via the Flutter bridge, and substitutes blob:// URLs so that
+// AVFoundation (macOS/iOS media pipeline) never has to range-fetch a custom
+// scheme (which it cannot do without a real HTTP 206 response).
+const _kAudioBridgeScript = r"""
+(function () {
+  const isMedia = (u) => /\.(mp3|ogg|wav|m4a|aac|flac)(\?.*)?$/i.test(u);
+  // Returns the normalized absolute URL if it belongs to our custom scheme.
+  const getTsuzukiUrl = (rawUrl) => {
+    if (typeof rawUrl !== 'string') return null;
+    try {
+      const url = new URL(rawUrl, window.location.href);
+      return url.protocol === 'tsuzuki:' ? url.href : null;
+    } catch { return null; }
+  };
+  const mimeOf = (u) => {
+    const ext = u.split('.').pop().split('?')[0].toLowerCase();
+    return ({mp3:'audio/mpeg',ogg:'audio/ogg',wav:'audio/wav',
+             m4a:'audio/mp4',aac:'audio/aac',flac:'audio/flac'})[ext] || 'audio/mpeg';
+  };
+
+  // Cache blob URLs so each audio file is only fetched once.
+  const _cache = {};
+  async function toBlobUrl(rawUrl) {
+    const url = getTsuzukiUrl(rawUrl);
+    if (!url) throw new Error('Not a tsuzuki URL');
+
+    if (_cache[url]) return _cache[url];
+    const b64 = await window.flutter_inappwebview.callHandler('_fetchAssetBase64', url);
+    if (!b64) throw new Error('empty response');
+    const bin = atob(b64);
+    const bytes = new Uint8Array(bin.length);
+    for (let i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i);
+    const blobUrl = URL.createObjectURL(new Blob([bytes], {type: mimeOf(url)}));
+    _cache[url] = blobUrl;
+    return blobUrl;
+  }
+
+  // 1. Patch window.fetch so Tone.js / Web Audio API fetch() calls work.
+  const _origFetch = window.fetch.bind(window);
+  window.fetch = async function (input, init) {
+    const rawUrl = (input instanceof Request) ? input.url : String(input);
+    const tzUrl = getTsuzukiUrl(rawUrl);
+    if (tzUrl && isMedia(tzUrl)) {
+      try { return _origFetch(await toBlobUrl(tzUrl), init); }
+      catch (e) { console.warn('[tsuzuki] fetch audio bridge failed:', tzUrl, e); }
+    }
+    return _origFetch(input, init);
+  };
+
+  // 2. Patch HTMLMediaElement.prototype.src so that any <audio src="tsuzuki://">
+  //    or el.src = 'tsuzuki://...' is swapped for a blob URL before the
+  //    native media pipeline (AVFoundation on macOS/iOS) ever sees it.
+  const srcDesc = Object.getOwnPropertyDescriptor(HTMLMediaElement.prototype, 'src');
+  const pendingBlobSwaps = new WeakMap();
+
+  if (srcDesc && srcDesc.set) {
+    Object.defineProperty(HTMLMediaElement.prototype, 'src', {
+      set(value) {
+        const tzUrl = getTsuzukiUrl(value);
+        if (tzUrl && isMedia(tzUrl)) {
+          const promise = toBlobUrl(tzUrl)
+            .then(blobUrl => { 
+                // Only apply if this is still the active fetch for this element
+                if (pendingBlobSwaps.get(this) === promise) {
+                    srcDesc.set.call(this, blobUrl); 
+                    this.load(); 
+                }
+            })
+            .catch(() => { srcDesc.set.call(this, value); });
+            
+          pendingBlobSwaps.set(this, promise);
+        } else {
+          pendingBlobSwaps.delete(this);
+          srcDesc.set.call(this, value);
+        }
+      },
+      get: srcDesc.get,
+      configurable: true,
+    });
+  }
+
+  // 3. Patch HTMLMediaElement.prototype.play so it waits for any pending
+  //    blob URL swap to finish first. Otherwise, swapping the src while
+  //    play() is pending causes an AbortError.
+  const origPlay = HTMLMediaElement.prototype.play;
+  HTMLMediaElement.prototype.play = async function() {
+    const promise = pendingBlobSwaps.get(this);
+    if (promise) await promise;
+    return origPlay.call(this);
+  };
+
+  // 4. Patch the `new Audio(url)` constructor because native constructors
+  //    bypass the prototype setter on WebKit.
+  const OriginalAudio = window.Audio;
+  window.Audio = function(src) {
+    const audio = new OriginalAudio();
+    if (src != null) {
+      // Bumps into our patched setter above!
+      audio.src = src; 
+    }
+    return audio;
+  };
+  window.Audio.prototype = OriginalAudio.prototype;
+})();
+""";
 
 class GameScreen extends StatefulWidget {
   const GameScreen({super.key});
@@ -13,29 +158,17 @@ class GameScreen extends StatefulWidget {
 }
 
 class _GameScreenState extends State<GameScreen> {
-  final InAppLocalhostServer localhostServer = InAppLocalhostServer(documentRoot: 'assets');
   final SubscriptionService _subService = SubscriptionService();
   InAppWebViewController? _webViewController;
   StreamSubscription<bool>? _subSubscription;
-  bool _isServerRunning = false;
 
   @override
   void initState() {
     super.initState();
-    _startServer();
     _subService.initialize();
     _subSubscription = _subService.premiumStream.listen((isPremium) {
       _updateJsSubscriptionStatus(isPremium);
     });
-  }
-
-  Future<void> _startServer() async {
-    if (!localhostServer.isRunning()) {
-      await localhostServer.start();
-    }
-    if (mounted) {
-      setState(() => _isServerRunning = true);
-    }
   }
 
   void _updateJsSubscriptionStatus(bool isPremium) {
@@ -58,16 +191,11 @@ class _GameScreenState extends State<GameScreen> {
   void dispose() {
     _subSubscription?.cancel();
     _subService.dispose();
-    localhostServer.close();
     super.dispose();
   }
 
   @override
   Widget build(BuildContext context) {
-    if (!_isServerRunning) {
-      return const Scaffold(body: Center(child: CircularProgressIndicator()));
-    }
-
     return Scaffold(
       // floatingActionButton: FloatingActionButton(
       //   onPressed: () {
@@ -107,8 +235,18 @@ class _GameScreenState extends State<GameScreen> {
           javaScriptCanOpenWindowsAutomatically: true,
           useHybridComposition: true,
           mediaPlaybackRequiresUserGesture: false,
+          // Register our custom scheme so the WebView intercepts these URLs
+          // instead of trying to resolve them over the network.
+          resourceCustomSchemes: [_kScheme],
         ),
-        initialUrlRequest: URLRequest(url: WebUri("http://localhost:8080/index.html")),
+        // Load the entry point via the custom scheme (no local server needed).
+        initialUrlRequest: URLRequest(url: WebUri('$_kScheme://$_kHost')),
+        // Inject the audio-bridge shim before any page script runs so that
+        // Tone.js and plain <audio> elements get blob URLs instead of
+        // tsuzuki:// URLs (which AVFoundation can't range-fetch).
+        initialUserScripts: UnmodifiableListView([
+          UserScript(source: _kAudioBridgeScript, injectionTime: UserScriptInjectionTime.AT_DOCUMENT_START),
+        ]),
         onWebViewCreated: (controller) {
           _webViewController = controller;
           controller.addJavaScriptHandler(
@@ -122,9 +260,50 @@ class _GameScreenState extends State<GameScreen> {
               return null;
             },
           );
+          // Returns a Flutter-bundled asset as a base64 string so the JS
+          // audio-bridge shim can turn it into a blob URL.
+          controller.addJavaScriptHandler(
+            handlerName: '_fetchAssetBase64',
+            callback: (args) async {
+              if (args.isEmpty) return null;
+              final url = args[0] as String;
+              final uri = Uri.parse(url);
+              final path = Uri.decodeFull((uri.path.isNotEmpty && uri.path != '/') ? uri.path.substring(1) : uri.host);
+              try {
+                final data = await rootBundle.load('assets/$path');
+                return base64Encode(data.buffer.asUint8List());
+              } catch (e) {
+                if (kDebugMode) print('[tsuzuki] fetchAssetBase64 error: $url → $e');
+                return null;
+              }
+            },
+          );
         },
         onLoadStop: (controller, url) {
           _updateJsSubscriptionStatus(_subService.isPremium);
+        },
+        // Serve Flutter-bundled assets for every tsuzuki:// request.
+        onLoadResourceWithCustomScheme: (controller, request) async {
+          try {
+            // tsuzuki://index.html         → assets/index.html
+            // tsuzuki://css/main.css       → assets/css/main.css
+            // tsuzuki://assets/bg/foo.png  → assets/assets/bg/foo.png
+            final uri = request.url;
+            // tsuzuki://index.html           → host="index.html", path=""
+            // tsuzuki://index.html/css/a.css → host="index.html", path="/css/a.css"
+            // Use path (strip leading '/') for sub-resources; host for root.
+            final path = Uri.decodeFull((uri.path.isNotEmpty && uri.path != '/') ? uri.path.substring(1) : uri.host);
+            final assetPath = 'assets/$path';
+            final data = await rootBundle.load(assetPath);
+            return CustomSchemeResponse(
+              data: data.buffer.asUint8List(),
+              contentType: _mimeType(path),
+              contentEncoding: 'utf-8',
+            );
+          } catch (e) {
+            if (kDebugMode) print('[tsuzuki] Asset not found: ${request.url} → $e');
+            return null;
+          }
         },
         onConsoleMessage: (controller, message) {
           if (kDebugMode) print(message);
