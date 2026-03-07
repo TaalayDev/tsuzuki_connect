@@ -198,6 +198,20 @@ document.addEventListener('DOMContentLoaded', async () => {
     // Start menu particles
     game.effectsRenderer.startMenuParticles(document.getElementById('menu-particles'));
 
+    // Close modals when clicking outside
+    document.querySelectorAll('.modal').forEach(modal => {
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) {
+                const closeBtn = modal.querySelector('.modal-close') || modal.querySelector('#qm-return');
+                if (closeBtn) {
+                    closeBtn.click();
+                } else {
+                    game.ui.hideModal(modal.id);
+                }
+            }
+        });
+    });
+
     console.log('🌸 Tsuzuki Connect - Ready!');
 });
 
@@ -250,6 +264,28 @@ function initMenuHandlers(game) {
     document.getElementById('btn-credits').addEventListener('click', () => {
         game.ui.showModal('credits-modal');
     });
+
+    // Unlock All Stories
+    const btnUnlockAll = document.getElementById('btn-unlock-all');
+    if (btnUnlockAll) {
+        btnUnlockAll.addEventListener('click', () => {
+            if (window.flutter_inappwebview) {
+                window.flutter_inappwebview.callHandler('showPurchaseDialog');
+            }
+        });
+
+        // Hide if already unlocked
+        if (window.UNLOCK_ALL_STORIES) {
+            btnUnlockAll.style.display = 'none';
+        }
+
+        // Listen for unlock events to hide it dynamically
+        window.addEventListener('subscriptionStatusUnlocked', (e) => {
+            if (e.detail && e.detail.isSubscribed) {
+                btnUnlockAll.style.display = 'none';
+            }
+        });
+    }
 
 
     // Character creation

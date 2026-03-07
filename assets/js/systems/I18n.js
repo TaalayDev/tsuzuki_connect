@@ -14,6 +14,8 @@ export const UI_TRANSLATIONS = {
         'menu.kotoba_log': 'KOTOBA LOG',
         'menu.settings': 'SETTINGS',
         'menu.credits': 'CREDITS',
+        'menu.unlock_title': 'Unlock All Stories',
+        'menu.unlock_sub': 'One-time · All 8 chapters',
         'menu.subtitle': '言葉でつながる場所',
         'credits.title': 'Credits',
         'credits.music': 'BG music',
@@ -137,6 +139,8 @@ export const UI_TRANSLATIONS = {
         'menu.kotoba_log': 'ЖУРНАЛ KOTOBA',
         'menu.settings': 'НАСТРОЙКИ',
         'menu.credits': 'БЛАГОДАРНОСТИ',
+        'menu.unlock_title': 'Открыть все истории',
+        'menu.unlock_sub': 'Одноразовая покупка · Все 8 глав',
         'menu.subtitle': '言葉でつながる場所',
         'credits.title': 'Благодарности',
         'credits.music': 'Фоновая музыка',
@@ -259,6 +263,8 @@ export const UI_TRANSLATIONS = {
         'menu.kotoba_log': '词汇日志',
         'menu.settings': '设置',
         'menu.credits': '鸣谢',
+        'menu.unlock_title': '解锁全部故事',
+        'menu.unlock_sub': '一次性购买 · 全部 8 章',
         'menu.subtitle': '言葉でつながる場所',
         'credits.title': '鸣谢',
         'credits.music': '背景音乐',
@@ -381,6 +387,8 @@ export const UI_TRANSLATIONS = {
         'menu.kotoba_log': '코토바 로그',
         'menu.settings': '설정',
         'menu.credits': '크레딧',
+        'menu.unlock_title': '모든 스토리 해제',
+        'menu.unlock_sub': '일회 구매 · 전 8 챕터',
         'menu.subtitle': '言葉でつながる場所',
         'credits.title': '크레딧',
         'credits.music': '배경 음악',
@@ -501,14 +509,14 @@ export class I18n {
     constructor({ translations = UI_TRANSLATIONS, defaultLanguage = 'en' } = {}) {
         this.translations = {};
         this.mergeTranslations(translations);
-        
+
         // Handle categorized story translations
         if (STORY_TRANSLATIONS) {
             Object.values(STORY_TRANSLATIONS).forEach(group => {
                 this.mergePivotedTranslations(group);
             });
         }
-        
+
         this.defaultLanguage = defaultLanguage;
         this.language = defaultLanguage;
     }

@@ -49,7 +49,8 @@
 body {
     font-family: var(--font-english);
     /* Cherry Blossom Sky Gradient */
-    background: #000; /* linear-gradient(to bottom, #EFF7FF, #FFF1F6); */
+    background: #000;
+    /* linear-gradient(to bottom, #EFF7FF, #FFF1F6); */
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -164,7 +165,7 @@ body {
 .menu-btn {
     position: relative;
     font-family: var(--font-english);
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 700;
     padding: 18px 32px;
     width: 100%;
@@ -180,7 +181,9 @@ body {
     justify-content: flex-start;
     gap: 16px;
     box-shadow: 0 4px 15px rgba(121, 85, 72, 0.15);
+    max-lines: 1;
     overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .menu-btn i {
@@ -264,6 +267,146 @@ body {
     height: 100%;
     overflow: hidden;
 }
+
+/* ── Unlock All Stories button (top-right of showcase) ── */
+.unlock-btn {
+    position: absolute;
+    bottom: 28px;
+    right: 28px;
+    z-index: 20;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 14px 22px 14px 18px;
+    background: linear-gradient(135deg, #7c4dff 0%, #e040fb 100%);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow:
+        0 4px 20px rgba(124, 77, 255, 0.45),
+        0 0 0 0 rgba(224, 64, 251, 0.4);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    animation: unlock-pulse 2.8s ease-in-out infinite;
+    overflow: hidden;
+    pointer-events: auto;
+}
+
+.unlock-btn::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(110deg,
+            transparent 20%,
+            rgba(255, 255, 255, 0.18) 50%,
+            transparent 80%);
+    transform: translateX(-100%);
+    transition: none;
+    animation: unlock-shimmer 3.2s ease-in-out infinite;
+}
+
+@keyframes unlock-shimmer {
+    0% {
+        transform: translateX(-120%);
+    }
+
+    40% {
+        transform: translateX(-120%);
+    }
+
+    60% {
+        transform: translateX(120%);
+    }
+
+    100% {
+        transform: translateX(120%);
+    }
+}
+
+@keyframes unlock-pulse {
+
+    0%,
+    100% {
+        box-shadow: 0 4px 20px rgba(124, 77, 255, 0.45), 0 0 0 0 rgba(224, 64, 251, 0.35);
+    }
+
+    50% {
+        box-shadow: 0 6px 28px rgba(124, 77, 255, 0.6), 0 0 0 8px rgba(224, 64, 251, 0);
+    }
+}
+
+.unlock-btn:hover {
+    transform: translateY(-3px) scale(1.03);
+    box-shadow: 0 8px 32px rgba(124, 77, 255, 0.6), 0 0 0 0 rgba(224, 64, 251, 0);
+    animation: none;
+}
+
+.unlock-btn:active {
+    transform: translateY(0) scale(0.98);
+}
+
+.unlock-btn__icon {
+    font-size: 22px;
+    line-height: 1;
+    filter: drop-shadow(0 1px 3px rgba(0, 0, 0, 0.25));
+}
+
+.unlock-btn__text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2px;
+}
+
+.unlock-btn__title {
+    font-family: var(--font-english);
+    font-size: 15px;
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: 0.4px;
+    line-height: 1.1;
+    white-space: nowrap;
+}
+
+.unlock-btn__sub {
+    font-family: var(--font-english);
+    font-size: 11px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.75);
+    letter-spacing: 0.2px;
+    white-space: nowrap;
+}
+
+.unlock-btn__arrow {
+    font-size: 22px;
+    color: rgba(255, 255, 255, 0.8);
+    margin-left: 4px;
+    line-height: 1;
+}
+
+/* Mobile landscape: shrink the button */
+#game-container.mobile.landscape .unlock-btn {
+    top: 14px;
+    right: 14px;
+    padding: 9px 14px 9px 12px;
+    gap: 8px;
+}
+
+#game-container.mobile.landscape .unlock-btn__title {
+    font-size: 12px;
+}
+
+#game-container.mobile.landscape .unlock-btn__sub {
+    font-size: 9px;
+}
+
+#game-container.mobile.landscape .unlock-btn__icon {
+    font-size: 16px;
+}
+
+#game-container.mobile.landscape .unlock-btn__arrow {
+    font-size: 16px;
+}
+
 
 .menu-showcase-title {
     position: absolute;

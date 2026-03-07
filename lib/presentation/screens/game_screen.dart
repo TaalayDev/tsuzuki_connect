@@ -405,6 +405,13 @@ class _PurchaseSheetState extends State<_PurchaseSheet> with SingleTickerProvide
     return '${_localizedPrice!}  ·  ${parts.sublist(1).join('  ·  ')}';
   }
 
+  // ─── Game palette constants ───────────────────────────────────────────────
+  static const _pink = Color(0xFFFF91A4); // primary pink / --color-orange-light
+  static const _pinkLight = Color(0xFFFFB7C5); // --color-orange
+  static const _mint = Color(0xFF98D8C8); // --color-green (accent)
+  static const _brown = Color(0xFF795548); // --color-brown
+  static const _brownDark = Color(0xFF3E2723); // --color-brown-dark
+
   /// Breakpoint helpers
   static bool _isWide(BoxConstraints c) => c.maxWidth >= 600;
   static bool _isDesktop(BoxConstraints c) => c.maxWidth >= 900;
@@ -418,7 +425,6 @@ class _PurchaseSheetState extends State<_PurchaseSheet> with SingleTickerProvide
           final wide = _isWide(constraints);
           final desktop = _isDesktop(constraints);
 
-          // On wide/desktop show as a centered card instead of bottom sheet
           final double hPad = desktop ? 0 : 16;
           final double vPad = desktop ? 0 : 32;
           final double borderRadius = desktop ? 32 : 28;
@@ -431,13 +437,17 @@ class _PurchaseSheetState extends State<_PurchaseSheet> with SingleTickerProvide
               constraints: BoxConstraints(maxWidth: maxWidth),
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(borderRadius),
+                // Frosted-glass cream/white gradient — matches web UI left panel
                 gradient: const LinearGradient(
                   begin: Alignment.topLeft,
                   end: Alignment.bottomRight,
-                  colors: [Color(0xFF1a1035), Color(0xFF2d1b5e)],
+                  colors: [Color(0xFFFFF8FA), Color(0xFFFDF0F3)],
                 ),
-                boxShadow: [BoxShadow(color: const Color(0xFF7c4dff).withAlpha(102), blurRadius: 40, spreadRadius: 4)],
-                border: Border.all(color: const Color(0xFF7c4dff).withAlpha(128), width: 1.5),
+                boxShadow: [
+                  BoxShadow(color: _pink.withAlpha(77), blurRadius: 40, spreadRadius: 4),
+                  BoxShadow(color: Colors.black.withAlpha(18), blurRadius: 16, offset: const Offset(0, 8)),
+                ],
+                border: Border.all(color: _pinkLight.withAlpha(120), width: 1.5),
               ),
               child: wide ? _buildWideLayout(context, constraints, desktop) : _buildNarrowLayout(context),
             ),
@@ -447,7 +457,7 @@ class _PurchaseSheetState extends State<_PurchaseSheet> with SingleTickerProvide
     );
   }
 
-  // ─── Narrow / Portrait phone layout (original) ───────────────────────────
+  // ─── Narrow / Portrait phone layout ──────────────────────────────────────
   Widget _buildNarrowLayout(BuildContext context) {
     final busy = _purchasing || _restoring;
     return Padding(
@@ -479,7 +489,7 @@ class _PurchaseSheetState extends State<_PurchaseSheet> with SingleTickerProvide
     );
   }
 
-  // ─── Wide / Landscape / Tablet / Desktop layout ──────────────────────────
+  // ─── Wide / Landscape / Tablet / Desktop layout ───────────────────────────
   Widget _buildWideLayout(BuildContext context, BoxConstraints constraints, bool desktop) {
     final busy = _purchasing || _restoring;
     final double vPadding = desktop ? 48 : 32;
@@ -542,7 +552,7 @@ class _PurchaseSheetState extends State<_PurchaseSheet> with SingleTickerProvide
     width: 40,
     height: 4,
     margin: const EdgeInsets.only(bottom: 28),
-    decoration: BoxDecoration(color: Colors.white24, borderRadius: BorderRadius.circular(2)),
+    decoration: BoxDecoration(color: _pinkLight.withAlpha(120), borderRadius: BorderRadius.circular(2)),
   );
 
   Widget _iconBadge(double size, double iconSize) => Container(
@@ -550,12 +560,8 @@ class _PurchaseSheetState extends State<_PurchaseSheet> with SingleTickerProvide
     height: size,
     decoration: BoxDecoration(
       shape: BoxShape.circle,
-      gradient: const LinearGradient(
-        colors: [Color(0xFFffd700), Color(0xFFff9800)],
-        begin: Alignment.topLeft,
-        end: Alignment.bottomRight,
-      ),
-      boxShadow: [BoxShadow(color: const Color(0xFFffd700).withAlpha(128), blurRadius: 2, spreadRadius: 1)],
+      gradient: const LinearGradient(colors: [_pinkLight, _pink], begin: Alignment.topLeft, end: Alignment.bottomRight),
+      boxShadow: [BoxShadow(color: _pink.withAlpha(100), blurRadius: 16, spreadRadius: 2)],
     ),
     child: Icon(Icons.auto_stories_rounded, color: Colors.white, size: iconSize),
   );
@@ -563,13 +569,13 @@ class _PurchaseSheetState extends State<_PurchaseSheet> with SingleTickerProvide
   Widget _headline(double fontSize, {TextAlign textAlign = TextAlign.center}) => Text(
     _t.unlockFullStoryTitle,
     textAlign: textAlign,
-    style: TextStyle(color: Colors.white, fontSize: fontSize, fontWeight: FontWeight.w800, letterSpacing: -0.5),
+    style: TextStyle(color: _brownDark, fontSize: fontSize, fontWeight: FontWeight.w800, letterSpacing: -0.3),
   );
 
   Widget _subtitle(double fontSize, {TextAlign textAlign = TextAlign.center}) => Text(
     _t.unlockFullStorySubtitle,
     textAlign: textAlign,
-    style: TextStyle(color: Colors.white.withAlpha(166), fontSize: fontSize, height: 1.5),
+    style: TextStyle(color: _brown.withAlpha(180), fontSize: fontSize, height: 1.5),
   );
 
   List<Widget> _featureRows(double fontSize) => _t.features
@@ -578,12 +584,13 @@ class _PurchaseSheetState extends State<_PurchaseSheet> with SingleTickerProvide
           padding: const EdgeInsets.symmetric(vertical: 5),
           child: Row(
             children: [
-              const Icon(Icons.check_circle_rounded, color: Color(0xFF7c4dff), size: 20),
+              // Mint green check — matches --color-green accent
+              const Icon(Icons.check_circle_rounded, color: _mint, size: 20),
               const SizedBox(width: 12),
               Expanded(
                 child: Text(
                   f,
-                  style: TextStyle(color: Colors.white70, fontSize: fontSize),
+                  style: TextStyle(color: _brown, fontSize: fontSize),
                 ),
               ),
             ],
@@ -595,14 +602,14 @@ class _PurchaseSheetState extends State<_PurchaseSheet> with SingleTickerProvide
   Widget _priceBadge() => Container(
     padding: const EdgeInsets.symmetric(horizontal: 18, vertical: 8),
     decoration: BoxDecoration(
-      color: const Color(0xFF7c4dff).withAlpha(46),
+      color: _pinkLight.withAlpha(40),
       borderRadius: BorderRadius.circular(30),
-      border: Border.all(color: const Color(0xFF7c4dff).withAlpha(102)),
+      border: Border.all(color: _pink.withAlpha(100)),
     ),
     child: Text(
       _priceBadgeText,
       textAlign: TextAlign.center,
-      style: const TextStyle(color: Color(0xFFb39ddb), fontSize: 13),
+      style: const TextStyle(color: _brown, fontSize: 13),
     ),
   );
 
@@ -611,7 +618,7 @@ class _PurchaseSheetState extends State<_PurchaseSheet> with SingleTickerProvide
     child: Text(
       _statusMessage!,
       textAlign: TextAlign.center,
-      style: const TextStyle(color: Color(0xFFe57373), fontSize: 13),
+      style: const TextStyle(color: Color(0xFFE57373), fontSize: 13),
     ),
   );
 
@@ -621,11 +628,13 @@ class _PurchaseSheetState extends State<_PurchaseSheet> with SingleTickerProvide
     child: ElevatedButton(
       onPressed: busy ? null : _handlePurchase,
       style: ElevatedButton.styleFrom(
-        backgroundColor: const Color(0xFF7c4dff),
+        // Pink gradient via the overlay trick
+        backgroundColor: _pink,
         foregroundColor: Colors.white,
-        disabledBackgroundColor: const Color(0xFF7c4dff).withAlpha(128),
+        disabledBackgroundColor: _pinkLight.withAlpha(120),
         elevation: 0,
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+        shadowColor: _pink.withAlpha(80),
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(50)),
       ),
       child: _purchasing
           ? const SizedBox(
@@ -635,7 +644,7 @@ class _PurchaseSheetState extends State<_PurchaseSheet> with SingleTickerProvide
             )
           : Text(
               _t.unlockAllStoriesCta,
-              style: TextStyle(fontSize: fontSize, fontWeight: FontWeight.w700, letterSpacing: 0.3),
+              style: TextStyle(fontSize: fontSize, fontWeight: FontWeight.w700, letterSpacing: 0.5),
             ),
     ),
   );
@@ -646,15 +655,15 @@ class _PurchaseSheetState extends State<_PurchaseSheet> with SingleTickerProvide
     child: OutlinedButton(
       onPressed: busy ? null : _handleRestore,
       style: OutlinedButton.styleFrom(
-        foregroundColor: const Color(0xFFb39ddb),
-        side: BorderSide(color: const Color(0xFF7c4dff).withAlpha(102)),
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+        foregroundColor: _brown,
+        side: BorderSide(color: _pink.withAlpha(120)),
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(50)),
       ),
       child: _restoring
-          ? const SizedBox(
+          ? SizedBox(
               width: 20,
               height: 20,
-              child: CircularProgressIndicator(color: Color(0xFFb39ddb), strokeWidth: 2.0),
+              child: CircularProgressIndicator(color: _brown.withAlpha(180), strokeWidth: 2.0),
             )
           : Text(_t.restorePurchasesCta, style: const TextStyle(fontSize: 15)),
     ),
@@ -662,7 +671,7 @@ class _PurchaseSheetState extends State<_PurchaseSheet> with SingleTickerProvide
 
   Widget _notNowButton(bool busy, BuildContext context) => TextButton(
     onPressed: busy ? null : () => Navigator.of(context).pop(),
-    child: Text(_t.notNowCta, style: TextStyle(color: Colors.white.withAlpha(115), fontSize: 14)),
+    child: Text(_t.notNowCta, style: TextStyle(color: _brown.withAlpha(130), fontSize: 14)),
   );
 
   Widget _legalRow() => Row(
@@ -671,7 +680,7 @@ class _PurchaseSheetState extends State<_PurchaseSheet> with SingleTickerProvide
       _legalLink(_t.privacyPolicyLabel, 'https://taalaydev.github.io/kizuna-quest/privacy-policy.html'),
       Padding(
         padding: const EdgeInsets.symmetric(horizontal: 8),
-        child: Text('·', style: TextStyle(color: Colors.white.withAlpha(60), fontSize: 11)),
+        child: Text('·', style: TextStyle(color: _brown.withAlpha(80), fontSize: 11)),
       ),
       _legalLink(_t.termsOfServiceLabel, 'https://taalaydev.github.io/kizuna-quest/terms-of-service.html'),
     ],
@@ -682,10 +691,10 @@ class _PurchaseSheetState extends State<_PurchaseSheet> with SingleTickerProvide
     child: Text(
       label,
       style: TextStyle(
-        color: Colors.white.withAlpha(90),
+        color: _brown.withAlpha(110),
         fontSize: 11,
         decoration: TextDecoration.underline,
-        decorationColor: Colors.white.withAlpha(60),
+        decorationColor: _brown.withAlpha(60),
       ),
     ),
   );

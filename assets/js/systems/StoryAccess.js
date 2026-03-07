@@ -3,10 +3,12 @@
  * UNLOCK_ALL_STORIES is initially false, but will be updated by Flutter.
  */
 export let UNLOCK_ALL_STORIES = true;
+window.UNLOCK_ALL_STORIES = true;
 export const MAX_ACCESSIBLE_STORY_NUMBER = 2;
 
 export function setUnlockAllStories(unlocked) {
     UNLOCK_ALL_STORIES = unlocked;
+    window.UNLOCK_ALL_STORIES = unlocked;
 }
 
 export function getStoryNumber(storyId) {
