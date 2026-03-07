@@ -4,7 +4,7 @@ A Japanese language learning adventure in the form of an interactive visual nove
 
 ## Screenshots
 
-|![Screenshot 2](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/62/40/a56240e5-7dba-dfef-d62b-41c6ed1ef73c/Screenshot_2025-06-13_at_14.13.28.png/800x400bb.png)  | ![Screenshot 3](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/09/45/790945df-4e31-7080-580e-d5f94c0bfeb8/Screenshot_2025-06-13_at_14.17.10.png/800x400bb.png)  |
+|![Screenshot 2](https://is2-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/ab/74/25ab74bf-7a56-7e29-704b-5d6e7dbdd2c7/_U041d_U043e_U0432_U044b_U0438_U0306__U043f_U0440_U043e_U0435_U043a_U0442__U002810_U0029.jpg/0x0ss.png)  | ![Screenshot 3](https://is2-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/9e/4c/249e4c25-77e3-dd70-f12e-7709b8afe4b7/_U041d_U043e_U0432_U044b_U0438_U0306__U043f_U0440_U043e_U0435_U043a_U0442__U002811_U0029.jpg/0x0ss.png)  |
 |---|---|
 
 
