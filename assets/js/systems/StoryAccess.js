@@ -2,8 +2,8 @@
  * Story access policy
  * UNLOCK_ALL_STORIES is initially false, but will be updated by Flutter.
  */
-export let UNLOCK_ALL_STORIES = true;
-window.UNLOCK_ALL_STORIES = true;
+export let UNLOCK_ALL_STORIES = false;
+window.UNLOCK_ALL_STORIES = false;
 export const MAX_ACCESSIBLE_STORY_NUMBER = 2;
 
 export function setUnlockAllStories(unlocked) {
@@ -30,6 +30,12 @@ window.updateSubscriptionStatus = function (isSubscribed) {
     // Dispatch an event so UI can react (e.g. Chapter Select screen)
     window.dispatchEvent(new CustomEvent('subscriptionStatusUnlocked', { detail: { isSubscribed } }));
 };
+
+// Check if Flutter already pushed a status before this module loaded
+if (typeof window._pendingSubscriptionStatus !== 'undefined') {
+    window.updateSubscriptionStatus(window._pendingSubscriptionStatus);
+    delete window._pendingSubscriptionStatus;
+}
 
 // Try to fetch initial status from Flutter immediately
 if (window.flutter_inappwebview && window.flutter_inappwebview.callHandler) {

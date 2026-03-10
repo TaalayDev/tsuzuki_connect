@@ -173,7 +173,15 @@ class _GameScreenState extends State<GameScreen> {
 
   void _updateJsSubscriptionStatus(bool isPremium) {
     _webViewController?.evaluateJavascript(
-      source: "if (window.updateSubscriptionStatus != null) { window.updateSubscriptionStatus($isPremium); }",
+      source:
+          """
+        if (typeof window.updateSubscriptionStatus === 'function') {
+          window.updateSubscriptionStatus($isPremium);
+        } else {
+          console.warn('updateSubscriptionStatus not defined yet. Queuing status:', $isPremium);
+          window._pendingSubscriptionStatus = $isPremium;
+        }
+      """,
     );
   }
 
@@ -280,6 +288,7 @@ class _GameScreenState extends State<GameScreen> {
           );
         },
         onLoadStop: (controller, url) {
+          print('onLoadStop: isPremium: ${_subService.isPremium}');
           _updateJsSubscriptionStatus(_subService.isPremium);
         },
         // Serve Flutter-bundled assets for every tsuzuki:// request.

@@ -72,12 +72,12 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyCra9b30919h3ZZNTZktbl8SJgXgDhbkmU',
-    appId: '1:997752747793:ios:1d724ace1648a38c84beb0',
+    appId: '1:997752747793:ios:0cfe27639d8583d084beb0',
     messagingSenderId: '997752747793',
     projectId: 'projects-d2d97',
     databaseURL: 'https://projects-d2d97-default-rtdb.firebaseio.com',
     storageBucket: 'projects-d2d97.firebasestorage.app',
-    iosBundleId: 'io.github.taalaydev.kizunaQuest',
+    iosBundleId: 'io.github.taalaydev.kizunaQuest.tsuzukiConnectGame',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
@@ -90,4 +90,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'projects-d2d97.firebasestorage.app',
     measurementId: 'G-9GEF2W9408',
   );
+
 }

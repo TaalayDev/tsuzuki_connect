@@ -69,7 +69,11 @@ Build release artifacts:
 
 - Service: `lib/services/subscription_service.dart`
 - The purchase sheet fetches localized store price at runtime from product details.
-- For real purchase testing, configure the same product in App Store Connect / Google Play Console and use sandbox/test accounts.
+- Android / iOS / macOS use `in_app_purchase`.
+- Windows uses native Microsoft Store APIs through a `MethodChannel` (`tsuzuki/windows_iap`) and requires running as a packaged MSIX app.
+- For real purchase testing, configure matching products in the relevant store dashboards and use sandbox/test accounts.
+- Windows product ID can be overridden at build/run time:
+  - `flutter run -d windows --dart-define=WINDOWS_UNLOCK_ALL_STORE_ID=<your-store-id>`
 
 ## Screenshots
 
