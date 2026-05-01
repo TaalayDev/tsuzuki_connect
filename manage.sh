@@ -83,10 +83,14 @@ build() {
       # Try to fetch android_version
       versionRaw=$(get_yaml_value "android_version" "$pubspecYaml")
       if [ -n "$versionRaw" ]; then sourceKey="android_version"; fi
-  elif [[ "$buildType" == "ipa" || "$buildType" == "macos" ]]; then
+  elif [[ "$buildType" == "ipa" ]]; then
       # Try to fetch ios_version
       versionRaw=$(get_yaml_value "ios_version" "$pubspecYaml")
       if [ -n "$versionRaw" ]; then sourceKey="ios_version"; fi
+  elif [[ "$buildType" == "macos" ]]; then
+      # Try to fetch macos_version
+      versionRaw=$(get_yaml_value "macos_version" "$pubspecYaml")
+      if [ -n "$versionRaw" ]; then sourceKey="macos_version"; fi
   fi
 
   # 2. Fallback to default 'version' if specific key was empty

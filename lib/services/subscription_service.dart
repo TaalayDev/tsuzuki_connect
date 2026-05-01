@@ -39,7 +39,7 @@ class SubscriptionService {
 
   Future<void> initialize() async {
     // Restore persisted premium flag
-    _isPremium = SettingsService.getBool(kPremiumPrefKey) ?? false;
+    _isPremium = true; // SettingsService.getBool(kPremiumPrefKey) ?? false;
     // _statusController.add(_isPremium);
 
     print('isPremium: $_isPremium');
