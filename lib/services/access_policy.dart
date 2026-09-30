@@ -17,11 +17,11 @@
 class AccessPolicy {
   AccessPolicy._();
 
-  static const paidLessonTierStart = 'talking_about_your_weekend';
+  static const paidLessonTierStart = 'sentence_lesson_11';
   static const paidVocabLessonTierStart = 'vocab_lesson_11';
 
   /// [order] is the topic id list in unlock order, from the category's
-  /// `_index.json` catalog.
+  /// catalog.
   static bool isLessonPaidTier(String lessonId, List<String> order) {
     final index = order.indexOf(lessonId);
     final boundary = order.indexOf(paidLessonTierStart);
@@ -47,18 +47,10 @@ class AccessPolicy {
     return !isPaidTier || hasPremium;
   }
 
-  /// `Game.firstLessonIdForLevel()` — Sentences mode's Beginner/Elementary/
-  /// Intermediate tiers line up exactly with the three English levels
-  /// offered at character creation (`beginner`/`some`/`intermediate`).
-  static String firstLessonIdForLevel(String level) {
-    if (level == 'some') {
-      return 'talking_about_your_weekend'; // Elementary (A2) tier start
-    }
-    if (level == 'intermediate') {
-      return 'debating_a_controversial_topic_in_class'; // Intermediate (B1) tier start
-    }
-    return 'meeting_someone_new'; // Beginner (A1) tier start — default
-  }
+  /// The first Sentences lesson for a new player. Only the beginner tier
+  /// (`sentence_lesson_01`–`10`) is authored so far, so every Japanese level
+  /// starts there; later tiers can route [level] to their own first lesson.
+  static String firstLessonIdForLevel(String level) => 'sentence_lesson_01';
 
   /// `Game.firstVocabLessonIdForLevel()` — Vocabulary mode only has
   /// Beginner/Intermediate/Advanced tiers (no separate "Elementary" step),

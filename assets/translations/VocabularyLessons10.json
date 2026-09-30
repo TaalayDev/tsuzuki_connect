@@ -14,25 +14,25 @@
     "romaji": "Aisatsu kara, kazoku to furusato no hanashi made"
   },
   "vl10.description": {
-    "en": "At a welcome party for a new exchange student, practice ten words for self-introduction, thanks, ways to refer to family, and talk about the countryside.",
-    "ru": "На встрече нового иностранного студента потренируйте десять слов: самопредставление, благодарность, названия родных и рассказы о сельской местности.",
-    "zh": "在欢迎新留学生的聚会上，练习十个词：自我介绍、道谢、家人的称呼和聊乡下的话。",
-    "ja": "新しい留学生を迎える会で、自己紹介、お礼、家族の呼び方、田舎の話に使う言葉を十つ練習します。",
-    "romaji": "Atarashii ryuugakusei o mukaeru kai de, jikoshoukai, orei, kazoku no yobikata, inaka no hanashi ni tsukau kotoba o touka renshuu shimasu."
+    "en": "On the day Yuki's grandmother visits the language school, practice ten words for self-introduction, thanks, ways to refer to family, and talk about the countryside.",
+    "ru": "В день, когда бабушка Юки приезжает в языковую школу, потренируйте десять слов: самопредставление, благодарность, названия родных и рассказы о сельской местности.",
+    "zh": "由纪的奶奶来日语学校做客的这一天，练习十个词：自我介绍、道谢、家人的称呼和聊乡下的话。",
+    "ja": "日本語学校に、由紀のおばあちゃんが遊びに来る日。自己紹介、お礼、家族の呼び方、田舎の話に使う言葉を十つ練習します。",
+    "romaji": "Nihongo gakkou ni, Yuki no obaachan ga asobi ni kuru hi. Jikoshoukai, orei, kazoku no yobikata, inaka no hanashi ni tsukau kotoba o touka renshuu shimasu."
   },
   "vl10.setup": {
-    "en": "A morning in the classroom. Today is the day a new student is coming to the language school. Everyone is a little restless.",
-    "ru": "Утро в классе. Сегодня в языковую школу приходит новый ученик. Все немного взволнованы.",
-    "zh": "早晨的教室。今天是新同学来日语学校的日子。大家都有点坐立不安。",
-    "ja": "朝の教室。今日は、新しい学生が、日本語学校に来る日だ。みんなは、少し、そわそわしている。",
-    "romaji": "Asa no kyoushitsu. Kyou wa, atarashii gakusei ga, nihongo gakkou ni kuru hi da. Minna wa, sukoshi, sowasowa shite iru."
+    "en": "A morning in the classroom. Today is the day Yuki's grandmother comes from the countryside to the language school. Everyone is a little restless.",
+    "ru": "Утро в классе. Сегодня бабушка Юки приезжает из деревни в языковую школу. Все немного взволнованы.",
+    "zh": "早晨的教室。今天由纪的奶奶要从乡下来日语学校。大家都有点坐立不安。",
+    "ja": "朝の教室。今日は、由紀のおばあちゃんが、田舎から、日本語学校に来る日だ。みんなは、少し、そわそわしている。",
+    "romaji": "Asa no kyoushitsu. Kyou wa, Yuki no obaachan ga, inaka kara, nihongo gakkou ni kuru hi da. Minna wa, sukoshi, sowasowa shite iru."
   },
   "vl10.t_intro": {
-    "en": "Today's theme is words for welcoming someone new. Let's practice ten words together.",
-    "ru": "Тема сегодня — слова для встречи нового человека. Давайте вместе потренируем десять слов.",
-    "zh": "今天的主题是迎接新人的用语。我们一起练习十个词。",
-    "ja": "今日のテーマは、新しい人を迎える言葉です。十の言葉を、いっしょに練習しましょう。",
-    "romaji": "Kyou no teema wa, atarashii hito o mukaeru kotoba desu. Juu no kotoba o, issho ni renshuu shimashou."
+    "en": "Today's theme is words for welcoming a guest, and talking about family. Let's practice ten words together.",
+    "ru": "Тема сегодня — слова для встречи гостя и разговор о семье. Давайте вместе потренируем десять слов.",
+    "zh": "今天的主题是迎接客人的用语，以及聊家人的话题。我们一起练习十个词。",
+    "ja": "今日のテーマは、お客さんを迎える言葉と、家族の話です。十の言葉を、いっしょに練習しましょう。",
+    "romaji": "Kyou no teema wa, okyakusan o mukaeru kotoba to, kazoku no hanashi desu. Juu no kotoba o, issho ni renshuu shimashou."
   },
   "vl10.w1": {
     "en": "This is a “nihongo gakkou,” a Japanese-language school. It is a school where people who study Japanese gather.",
@@ -55,131 +55,12 @@
     "ja": "「学校」は、いろいろな学校に使います。「日本語学校」と言うと、日本語を教える学校だと、はっきり分かります。",
     "romaji": "'Gakkou' wa, iroiro na gakkou ni tsukaimasu. 'Nihongo gakkou' to iu to, nihongo o oshieru gakkou da to, hakkiri wakarimasu."
   },
-  "vl10.a_enter": {
-    "en": "Um... excuse me. I'm Alex, and I came to this Japanese school starting today.",
-    "ru": "Э-э… разрешите войти. Я Алекс, я пришёл в эту школу японского языка с сегодняшнего дня.",
-    "zh": "那个……打扰了。我是从今天起来这所日语学校的亚历克斯。",
-    "ja": "あの…失礼します。今日から、この日本語学校に来ました、アレックスです。",
-    "romaji": "Ano... shitsurei shimasu. Kyou kara, kono nihongo gakkou ni kimashita, Arekkusu desu."
-  },
-  "vl10.w2": {
-    "en": "When you meet someone new, you say “hajimemashite.” It is a greeting used only with people you are meeting for the first time.",
-    "ru": "Когда встречаетесь с новым человеком, говорят «хадзимемасите». Это приветствие только для тех, кого вы видите впервые.",
-    "zh": "遇到新认识的人时，说「初めまして」。是只对第一次见面的人使用的问候语。",
-    "ja": "新しい人に会うときは、「初めまして」と言います。はじめて会う人にだけ使う、あいさつです。",
-    "romaji": "Atarashii hito ni au toki wa, 'hajimemashite' to iimasu. Hajimete au hito ni dake tsukau, aisatsu desu."
-  },
-  "vl10.w2_q": {
-    "en": "What do you say after “hajimemashite”?",
-    "ru": "Что говорят после «хадзимемасите»?",
-    "zh": "说完「初めまして」之后，接着说什么？",
-    "ja": "「初めまして」のあとは、何と言いますか？",
-    "romaji": "'Hajimemashite' no ato wa, nan to iimasu ka?"
-  },
-  "vl10.w2_a": {
-    "en": "The order is “hajimemashite,” your name, and then “yoroshiku onegaishimasu.” You say, “Hajimemashite. Arekkusu desu. Yoroshiku onegaishimasu.”",
-    "ru": "Порядок такой: «хадзимемасите», имя, затем «ёросику онэгайсимасу». Говорят: «Хадзимемасите. Арэккусу дэс. Ёросику онэгайсимасу».",
-    "zh": "顺序是「初めまして」、名字、然后「よろしくお願いします」。说成：「初めまして。アレックスです。よろしくお願いします」。",
-    "ja": "「初めまして」、名前、そして「よろしくお願いします」の順番です。「初めまして。アレックスです。よろしくお願いします」と言います。",
-    "romaji": "'Hajimemashite', namae, soshite 'yoroshiku onegaishimasu' no junban desu. 'Hajimemashite. Arekkusu desu. Yoroshiku onegaishimasu' to iimasu."
-  },
-  "vl10.p1_prompt": {
-    "en": "Now let's greet Alex. This is your first time meeting Alex too. What do you say?",
-    "ru": "Теперь поздороваемся с Алексом. Вы тоже видите его впервые. Что вы скажете?",
-    "zh": "现在来和亚历克斯打招呼吧。你也是第一次见到亚历克斯。你会怎么说？",
-    "ja": "では、アレックスさんに、あいさつしましょう。あなたも、アレックスさんに会うのは、はじめてです。何と言いますか？",
-    "romaji": "Dewa, Arekkusu-san ni, aisatsu shimashou. Anata mo, Arekkusu-san ni au no wa, hajimete desu. Nan to iimasu ka?"
-  },
-  "vl10.c1_natural": {
-    "en": "“Nice to meet you. Please treat me kindly.”",
-    "ru": "«Приятно познакомиться. Прошу вашего расположения».",
-    "zh": "“初次见面。请多关照。”",
-    "ja": "「初めまして。よろしくお願いします。」",
-    "romaji": "'Hajimemashite. Yoroshiku onegaishimasu.'"
-  },
-  "vl10.c1_formal": {
-    "en": "“I have the honor of meeting you for the first time. Please remember me henceforth.”",
-    "ru": "«Имею честь познакомиться с вами впервые. Прошу впредь не забывать обо мне».",
-    "zh": "“初次拜会。今后还请多多关照。”",
-    "ja": "「お初にお目にかかります。以後、お見知りおきくださいませ。」",
-    "romaji": "'Ohatsu ni ome ni kakarimasu. Igo, omishiri oki kudasaimase.'"
-  },
-  "vl10.c1_mistake": {
-    "en": "“Long time no see!”",
-    "ru": "«Давно не виделись!»",
-    "zh": "“好久不见！”",
-    "ja": "「久しぶり！」",
-    "romaji": "'Hisashiburi!'"
-  },
-  "vl10.c1_own": {
-    "en": "“Nice to meet you. Welcome to the Japanese school! Please ask me anything you don't understand.”",
-    "ru": "«Приятно познакомиться. Добро пожаловать в школу японского! Спрашивайте обо всём, что непонятно».",
-    "zh": "“初次见面。欢迎来到日语学校！有不懂的事，随时问我。”",
-    "ja": "「初めまして。日本語学校へ、ようこそ！わからないことは、何でも聞いてください。」",
-    "romaji": "'Hajimemashite. Nihongo gakkou e, youkoso! Wakaranai koto wa, nan demo kiite kudasai.'"
-  },
-  "vl10.c1_min": {
-    "en": "“Ah... nice to meet you...”",
-    "ru": "«А… приятно познакомиться…»",
-    "zh": "“啊……初次见面……”",
-    "ja": "「あ…初めまして…」",
-    "romaji": "'A... hajimemashite...'"
-  },
-  "vl10.p1_nat_alex": {
-    "en": "The pleasure is mine! I'm happy to meet everyone.",
-    "ru": "Мне тоже приятно! Я рад познакомиться со всеми.",
-    "zh": "我才要请你多关照！能见到大家，我很高兴。",
-    "ja": "こちらこそ、よろしくお願いします！みんなに会えて、うれしいです。",
-    "romaji": "Kochira koso, yoroshiku onegaishimasu! Minna ni aete, ureshii desu."
-  },
-  "vl10.p1_form_alex": {
-    "en": "Huh? That's a difficult phrase. But it is polite and impressive.",
-    "ru": "Что? Какая сложная фраза. Но она вежливая и впечатляет.",
-    "zh": "咦？好难的说法。不过很礼貌，很厉害。",
-    "ja": "えっ？むずかしい言葉ですね。でも、ていねいで、すごいです。",
-    "romaji": "E? Muzukashii kotoba desu ne. Demo, teinei de, sugoi desu."
-  },
-  "vl10.p1_mis_ken": {
-    "en": "Huh, “hisashiburi” is for people you have met before. This is your first time meeting Alex.",
-    "ru": "Что, «хисасибури» говорят тем, с кем встречались раньше. С Алексом вы видитесь впервые.",
-    "zh": "咦，「久しぶり」是对以前见过的人说的。你和亚历克斯是第一次见面。",
-    "ja": "えっ、「久しぶり」は、前に会ったことがある人に言いますよ。アレックスさんとは、はじめてです。",
-    "romaji": "E, 'hisashiburi' wa, mae ni atta koto ga aru hito ni iimasu yo. Arekkusu-san to wa, hajimete desu."
-  },
-  "vl10.p1_mis_retry": {
-    "en": "Oh, nice to meet you. Please treat me kindly.",
-    "ru": "Ой, приятно познакомиться. Прошу вашего расположения.",
-    "zh": "啊，初次见面。请多关照。",
-    "ja": "あっ、初めまして。よろしくお願いします。",
-    "romaji": "A, hajimemashite. Yoroshiku onegaishimasu."
-  },
-  "vl10.p1_mis_relief": {
-    "en": "Yes, nice to meet you too!",
-    "ru": "Да, и мне приятно познакомиться!",
-    "zh": "好的，请多关照！",
-    "ja": "はい、よろしくお願いします！",
-    "romaji": "Hai, yoroshiku onegaishimasu!"
-  },
-  "vl10.p1_own_alex": {
-    "en": "Thank you. Hearing that puts my mind at ease.",
-    "ru": "Спасибо. Ваши слова меня успокоили.",
-    "zh": "谢谢。听你这么说，我安心了。",
-    "ja": "ありがとうございます。そう言ってもらえて、安心しました。",
-    "romaji": "Arigatou gozaimasu. Sou itte moraete, anshin shimashita."
-  },
-  "vl10.p1_min_mei": {
-    "en": "Ha, it's okay. Try continuing with “yoroshiku onegaishimasu.”",
-    "ru": "Ха-ха, ничего страшного. Продолжите словами «ёросику онэгайсимасу».",
-    "zh": "呵呵，没关系。接着说「よろしくお願いします」吧。",
-    "ja": "ふふ、だいじょうぶ。続けて、「よろしくお願いします」と、言ってみましょう。",
-    "romaji": "Fufu, daijoubu. Tsuzukete, 'yoroshiku onegaishimasu' to, itte mimashou."
-  },
-  "vl10.a_came": {
-    "en": "I came to Japan yesterday. I'm still a little nervous.",
-    "ru": "Я приехал в Японию вчера. Пока ещё немного волнуюсь.",
-    "zh": "我昨天来到日本。现在还有点紧张。",
-    "ja": "きのう、日本に来ました。まだ、少しきんちょうしています。",
-    "romaji": "Kinou, Nihon ni kimashita. Mada, sukoshi kinchou shite imasu."
+  "vl10.y_visit": {
+    "en": "Today my grandmother is coming to this Japanese school from the countryside. She says she wants to meet everyone.",
+    "ru": "Сегодня в эту школу японского из деревни приедет моя бабушка. Она говорит, что хочет познакомиться со всеми.",
+    "zh": "今天我祖母要从乡下来这所日语学校。她说想见见大家。",
+    "ja": "今日は、祖母が、田舎から、この日本語学校に来ます。みんなに、会いたいそうです。",
+    "romaji": "Kyou wa, sobo ga, inaka kara, kono nihongo gakkou ni kimasu. Minna ni, aitai sou desu."
   },
   "vl10.w3": {
     "en": "“Kuru” means to move toward the speaker. Its form changes: “kimasu,” “kimashita,” “kite.”",
@@ -203,18 +84,18 @@
     "romaji": "'Kuru' wa, jibun ga iru basho ya, soko e chikazuku ugoki desu. 'Iku' wa, jibun kara tooku e mukau ugoki desu."
   },
   "vl10.p2_prompt": {
-    "en": "Do you all come to this Japanese school every day?",
-    "ru": "Вы все приходите в эту школу японского каждый день?",
-    "zh": "你们每天都来这所日语学校吗？",
-    "ja": "皆さんは、この日本語学校に、毎日来ますか？",
-    "romaji": "Minasan wa, kono nihongo gakkou ni, mainichi kimasu ka?"
+    "en": "Do you all come to this Japanese school every day? My grandmother is asking.",
+    "ru": "Вы все приходите в эту школу японского каждый день? Моя бабушка спрашивает.",
+    "zh": "大家每天都来这所日语学校吗？我祖母在问。",
+    "ja": "みなさんは、この日本語学校に、毎日来ますか？祖母が、聞いています。",
+    "romaji": "Minasan wa, kono nihongo gakkou ni, mainichi kimasu ka? Sobo ga, kiite imasu."
   },
   "vl10.p2_tanaka": {
-    "en": "Alex asked. You come every day, and you came yesterday too. How do you answer?",
-    "ru": "Алекс спросил. Вы приходите каждый день и вчера тоже приходили. Что вы ответите?",
-    "zh": "亚历克斯问了。你每天都来，昨天也来了。你会怎么回答？",
-    "ja": "アレックスさんが、聞きました。あなたは、毎日来ています。昨日も来ました。何と答えますか？",
-    "romaji": "Arekkusu-san ga, kikimashita. Anata wa, mainichi kite imasu. Kinou mo kimashita. Nan to kotaemasu ka?"
+    "en": "Yuki asked. You come every day, and you came yesterday too. How do you answer?",
+    "ru": "Юки спросила. Вы приходите каждый день и вчера тоже приходили. Что вы ответите?",
+    "zh": "由纪问了。你每天都来，昨天也来了。你会怎么回答？",
+    "ja": "由紀さんが、聞きました。あなたは、毎日来ています。昨日も来ました。何と答えますか？",
+    "romaji": "Yuki-san ga, kikimashita. Anata wa, mainichi kite imasu. Kinou mo kimashita. Nan to kotaemasu ka?"
   },
   "vl10.c2_natural": {
     "en": "“Yes, I come every day. I came yesterday too.”",
@@ -238,11 +119,11 @@
     "romaji": "'Hai, mainichi kimasu. Kinou mo, kimasu.'"
   },
   "vl10.c2_own": {
-    "en": "“Yes, I come every day. Alex, please come tomorrow too.”",
-    "ru": "«Да, я прихожу каждый день. Алекс, приходите и завтра».",
-    "zh": "“是的，我每天都来。亚历克斯也请明天来哦。”",
-    "ja": "「はい、毎日来ます。アレックスさんも、明日、来てくださいね。」",
-    "romaji": "'Hai, mainichi kimasu. Arekkusu-san mo, ashita, kite kudasai ne.'"
+    "en": "“Yes, I come every day. Please come again too, Grandma.”",
+    "ru": "«Да, я прихожу каждый день. Приходите и вы ещё, бабушка».",
+    "zh": "“是的，我每天都来。奶奶也请再来哦。”",
+    "ja": "「はい、毎日来ます。おばあちゃんも、また、来てくださいね。」",
+    "romaji": "'Hai, mainichi kimasu. Obaachan mo, mata, kite kudasai ne.'"
   },
   "vl10.c2_min": {
     "en": "“Yes... come...”",
@@ -251,12 +132,12 @@
     "ja": "「はい…来る…」",
     "romaji": "'Hai... kuru...'"
   },
-  "vl10.p2_nat_alex": {
-    "en": "I'll come every day from now on, too. I look forward to your help.",
-    "ru": "Я тоже отныне буду приходить каждый день. Рассчитываю на вас.",
-    "zh": "我以后也会每天来。请多关照。",
-    "ja": "わたしも、これから、毎日来ます。よろしくお願いします。",
-    "romaji": "Watashi mo, korekara, mainichi kimasu. Yoroshiku onegaishimasu."
+  "vl10.p2_nat_yuki": {
+    "en": "My grandmother looks happy too. A school you come to every day must be a good one.",
+    "ru": "Бабушка тоже выглядит довольной. Школа, в которую приходишь каждый день, наверняка хорошая.",
+    "zh": "我祖母看起来也很高兴。每天都愿意来的学校，一定是所好学校。",
+    "ja": "祖母も、うれしそうです。毎日来る学校は、きっと、いい学校ですね。",
+    "romaji": "Sobo mo, ureshisou desu. Mainichi kuru gakkou wa, kitto, ii gakkou desu ne."
   },
   "vl10.p2_form_ken": {
     "en": "Haha, that sounds like a retainer speaking to a lord. “Mainichi kimasu” is fine.",
@@ -286,12 +167,12 @@
     "ja": "はい、それです！ちゃんと、時間が分かっていますね。",
     "romaji": "Hai, sore desu! Chanto, jikan ga wakatte imasu ne."
   },
-  "vl10.p2_own_alex": {
-    "en": "Yes, I'll come tomorrow too. I'm looking forward to it!",
-    "ru": "Да, завтра я тоже приду. С нетерпением жду!",
-    "zh": "好的，明天我也来。我很期待！",
-    "ja": "はい、明日も、来ます。楽しみです！",
-    "romaji": "Hai, ashita mo, kimasu. Tanoshimi desu!"
+  "vl10.p2_own_yuki": {
+    "en": "My grandmother says, “I'd like to come again.” Thank you!",
+    "ru": "Бабушка говорит: «Хочу прийти ещё». Спасибо!",
+    "zh": "我祖母说：“我还想再来。”谢谢你！",
+    "ja": "祖母は、「また、来たいです」と言っています。ありがとうございます！",
+    "romaji": "Sobo wa, 'mata, kitai desu' to itte imasu. Arigatou gozaimasu!"
   },
   "vl10.p2_min_tanaka": {
     "en": "I understand. Next time, try a full sentence: “mainichi kimasu.”",
@@ -300,12 +181,138 @@
     "ja": "分かりますよ。次は、「毎日来ます」と、文で言ってみましょう。",
     "romaji": "Wakarimasu yo. Tsugi wa, 'mainichi kimasu' to, bun de itte mimashou."
   },
+  "vl10.meet": {
+    "en": "After a while, the classroom door slowly opens. A small, kind-looking old woman is standing there.",
+    "ru": "Через некоторое время дверь класса медленно открывается. На пороге стоит маленькая добрая на вид старушка.",
+    "zh": "过了一会儿，教室的门慢慢开了。一位个子小小、看起来很慈祥的老奶奶站在那里。",
+    "ja": "しばらくして、教室のドアが、ゆっくり開いた。小さな、やさしそうなおばあさんが、立っている。",
+    "romaji": "Shibaraku shite, kyoushitsu no doa ga, yukkuri hiraita. Chiisana, yasashisou na obaasan ga, tatte iru."
+  },
+  "vl10.gm_enter": {
+    "en": "Excuse me. I am Yuki's grandmother. Thank you for having me today.",
+    "ru": "Разрешите войти. Я бабушка Юки. Спасибо, что принимаете меня сегодня.",
+    "zh": "打扰了。我是由纪的祖母。今天要麻烦大家了。",
+    "ja": "失礼します。由紀の祖母です。今日は、お世話になります。",
+    "romaji": "Shitsurei shimasu. Yuki no sobo desu. Kyou wa, osewa ni narimasu."
+  },
+  "vl10.w2": {
+    "en": "When you meet someone new, you say “hajimemashite.” It is a greeting used only with people you are meeting for the first time.",
+    "ru": "Когда встречаетесь с новым человеком, говорят «хадзимемасите». Это приветствие только для тех, кого вы видите впервые.",
+    "zh": "遇到新认识的人时，说「初めまして」。是只对第一次见面的人使用的问候语。",
+    "ja": "新しい人に会うときは、「初めまして」と言います。はじめて会う人にだけ使う、あいさつです。",
+    "romaji": "Atarashii hito ni au toki wa, 'hajimemashite' to iimasu. Hajimete au hito ni dake tsukau, aisatsu desu."
+  },
+  "vl10.w2_q": {
+    "en": "What do you say after “hajimemashite”?",
+    "ru": "Что говорят после «хадзимемасите»?",
+    "zh": "说完「初めまして」之后，接着说什么？",
+    "ja": "「初めまして」のあとは、何と言いますか？",
+    "romaji": "'Hajimemashite' no ato wa, nan to iimasu ka?"
+  },
+  "vl10.w2_a": {
+    "en": "The order is “hajimemashite,” your name, and then “yoroshiku onegaishimasu.” You say, “Hajimemashite. Tanaka desu. Yoroshiku onegaishimasu.”",
+    "ru": "Порядок такой: «хадзимемасите», имя, затем «ёросику онэгайсимасу». Говорят: «Хадзимемасите. Танака дэс. Ёросику онэгайсимасу».",
+    "zh": "顺序是「初めまして」、名字、然后「よろしくお願いします」。说成：「初めまして。田中です。よろしくお願いします」。",
+    "ja": "「初めまして」、名前、そして「よろしくお願いします」の順番です。「初めまして。田中です。よろしくお願いします」と言います。",
+    "romaji": "'Hajimemashite', namae, soshite 'yoroshiku onegaishimasu' no junban desu. 'Hajimemashite. Tanaka desu. Yoroshiku onegaishimasu' to iimasu."
+  },
+  "vl10.p1_prompt": {
+    "en": "Now let's greet Yuki's grandmother. This is your first time meeting her too. What do you say?",
+    "ru": "Теперь поздороваемся с бабушкой Юки. Вы тоже видите её впервые. Что вы скажете?",
+    "zh": "现在来和由纪的奶奶打招呼吧。你也是第一次见到她。你会怎么说？",
+    "ja": "では、由紀さんのおばあちゃんに、あいさつしましょう。あなたも、おばあちゃんに会うのは、はじめてです。何と言いますか？",
+    "romaji": "Dewa, Yuki-san no obaachan ni, aisatsu shimashou. Anata mo, obaachan ni au no wa, hajimete desu. Nan to iimasu ka?"
+  },
+  "vl10.c1_natural": {
+    "en": "“Nice to meet you. Please treat me kindly.”",
+    "ru": "«Приятно познакомиться. Прошу вашего расположения».",
+    "zh": "“初次见面。请多关照。”",
+    "ja": "「初めまして。よろしくお願いします。」",
+    "romaji": "'Hajimemashite. Yoroshiku onegaishimasu.'"
+  },
+  "vl10.c1_formal": {
+    "en": "“I have the honor of meeting you for the first time. Please remember me henceforth.”",
+    "ru": "«Имею честь познакомиться с вами впервые. Прошу впредь не забывать обо мне».",
+    "zh": "“初次拜会。今后还请多多关照。”",
+    "ja": "「お初にお目にかかります。以後、お見知りおきくださいませ。」",
+    "romaji": "'Ohatsu ni ome ni kakarimasu. Igo, omishiri oki kudasaimase.'"
+  },
+  "vl10.c1_mistake": {
+    "en": "“Long time no see!”",
+    "ru": "«Давно не виделись!»",
+    "zh": "“好久不见！”",
+    "ja": "「久しぶり！」",
+    "romaji": "'Hisashiburi!'"
+  },
+  "vl10.c1_own": {
+    "en": "“Nice to meet you. I'm Yuki's friend. Thank you for coming today.”",
+    "ru": "«Приятно познакомиться. Я подруга Юки. Спасибо, что пришли сегодня».",
+    "zh": "“初次见面。我是由纪的朋友。今天谢谢您来。”",
+    "ja": "「初めまして。由紀さんの友達です。今日は、来てくださって、ありがとうございます。」",
+    "romaji": "'Hajimemashite. Yuki-san no tomodachi desu. Kyou wa, kite kudasatte, arigatou gozaimasu.'"
+  },
+  "vl10.c1_min": {
+    "en": "“Ah... nice to meet you...”",
+    "ru": "«А… приятно познакомиться…»",
+    "zh": "“啊……初次见面……”",
+    "ja": "「あ…初めまして…」",
+    "romaji": "'A... hajimemashite...'"
+  },
+  "vl10.p1_nat_grandma": {
+    "en": "Yes, nice to meet you. I'm Yuki's grandmother. I'm happy to meet everyone.",
+    "ru": "Да, приятно познакомиться. Я бабушка Юки. Рада встрече со всеми.",
+    "zh": "好的，初次见面。我是由纪的祖母。见到大家我很高兴。",
+    "ja": "はい、初めまして。由紀の祖母です。みなさんに会えて、うれしいです。",
+    "romaji": "Hai, hajimemashite. Yuki no sobo desu. Minasan ni aete, ureshii desu."
+  },
+  "vl10.p1_form_grandma": {
+    "en": "Well, that's a difficult phrase. But it is polite, and I'm glad.",
+    "ru": "Ох, какая сложная фраза. Но она вежливая, и мне приятно.",
+    "zh": "哎呀，好难的说法。不过很礼貌，我很高兴。",
+    "ja": "まあ、むずかしい言葉ですね。でも、ていねいで、うれしいです。",
+    "romaji": "Maa, muzukashii kotoba desu ne. Demo, teinei de, ureshii desu."
+  },
+  "vl10.p1_mis_ken": {
+    "en": "Huh, “hisashiburi” is for people you have met before. This is your first time meeting Yuki's grandmother.",
+    "ru": "Что, «хисасибури» говорят тем, с кем встречались раньше. С бабушкой Юки вы видитесь впервые.",
+    "zh": "咦，「久しぶり」是对以前见过的人说的。你和由纪的奶奶是第一次见面。",
+    "ja": "えっ、「久しぶり」は、前に会ったことがある人に言いますよ。おばあちゃんとは、はじめてです。",
+    "romaji": "E, 'hisashiburi' wa, mae ni atta koto ga aru hito ni iimasu yo. Obaachan to wa, hajimete desu."
+  },
+  "vl10.p1_mis_retry": {
+    "en": "Oh, nice to meet you. Please treat me kindly.",
+    "ru": "Ой, приятно познакомиться. Прошу вашего расположения.",
+    "zh": "啊，初次见面。请多关照。",
+    "ja": "あっ、初めまして。よろしくお願いします。",
+    "romaji": "A, hajimemashite. Yoroshiku onegaishimasu."
+  },
+  "vl10.p1_mis_relief": {
+    "en": "Yes, nice to meet you too.",
+    "ru": "Да, и мне приятно познакомиться.",
+    "zh": "好的，请多关照。",
+    "ja": "はい、よろしくお願いします。",
+    "romaji": "Hai, yoroshiku onegaishimasu."
+  },
+  "vl10.p1_own_grandma": {
+    "en": "Oh, thank you for your kind words. Yuki has met good friends.",
+    "ru": "Ох, спасибо за добрые слова. Юки встретила хороших друзей.",
+    "zh": "哎呀，谢谢你这么有礼貌。由纪遇到了好朋友呢。",
+    "ja": "まあ、ていねいに、ありがとうございます。由紀は、いい友達に会えましたね。",
+    "romaji": "Maa, teinei ni, arigatou gozaimasu. Yuki wa, ii tomodachi ni aemashita ne."
+  },
+  "vl10.p1_min_mei": {
+    "en": "Ha, it's okay. Try continuing with “yoroshiku onegaishimasu.”",
+    "ru": "Ха-ха, ничего страшного. Продолжите словами «ёросику онэгайсимасу».",
+    "zh": "呵呵，没关系。接着说「よろしくお願いします」吧。",
+    "ja": "ふふ、だいじょうぶ。続けて、「よろしくお願いします」と、言ってみましょう。",
+    "romaji": "Fufu, daijoubu. Tsuzukete, 'yoroshiku onegaishimasu' to, itte mimashou."
+  },
   "vl10.cafe": {
-    "en": "After school, everyone holds a welcome party for Alex at a nearby café. They sit at a big table by the window.",
-    "ru": "После уроков все устраивают в ближайшем кафе приём в честь Алекса. Они садятся за большой стол у окна.",
-    "zh": "放学后，大家在附近的咖啡店给亚历克斯开了欢迎会。他们围坐在靠窗的大桌子旁。",
-    "ja": "放課後、みんなは、近くのカフェで、アレックスの歓迎会を開いた。窓のそばの、大きなテーブルに座った。",
-    "romaji": "Houkago, minna wa, chikaku no kafe de, Arekkusu no kangeikai o hiraita. Mado no soba no, ookina teeburu ni suwatta."
+    "en": "After school, everyone goes into a nearby café together with Yuki's grandmother. They sit at a big table by the window.",
+    "ru": "После уроков все вместе с бабушкой Юки заходят в ближайшее кафе. Они садятся за большой стол у окна.",
+    "zh": "放学后，大家和由纪的奶奶一起走进附近的咖啡店。他们围坐在靠窗的大桌子旁。",
+    "ja": "放課後、みんなは、由紀のおばあちゃんといっしょに、近くのカフェに入った。窓のそばの、大きなテーブルに座った。",
+    "romaji": "Houkago, minna wa, Yuki no obaachan to issho ni, chikaku no kafe ni haitta. Mado no soba no, ookina teeburu ni suwatta."
   },
   "vl10.w4": {
     "en": "This is a “kafe,” café. It is a place where you can talk at leisure while drinking coffee or tea.",
@@ -329,11 +336,11 @@
     "romaji": "Chikai kotoba desu. Demo, 'kissaten' wa, mukashi kara aru, shizuka na omise no kanji desu. 'Kafe' wa, atarashikute, oshare na kanji ga shimasu."
   },
   "vl10.g_gift": {
-    "en": "Alex, I have a present for everyone. Please take this Japanese book.",
-    "ru": "Алекс, у меня подарок для всех. Пожалуйста, возьмите эту книгу по японскому.",
-    "zh": "亚历克斯，我给大家准备了礼物。请收下这本日语书。",
-    "ja": "アレックスさん、みんなに、プレゼントがあります。この日本語の本を、どうぞ。",
-    "romaji": "Arekkusu-san, minna ni, purezento ga arimasu. Kono nihongo no hon o, douzo."
+    "en": "Everyone, I have a present for you today. Please take this Japanese book.",
+    "ru": "Все, у меня сегодня для вас подарок. Пожалуйста, возьмите эту книгу по японскому.",
+    "zh": "各位，今天我给大家准备了礼物。请收下这本日语书。",
+    "ja": "みなさん、今日は、プレゼントがあります。この日本語の本を、どうぞ。",
+    "romaji": "Minasan, kyou wa, purezento ga arimasu. Kono nihongo no hon o, douzo."
   },
   "vl10.w5": {
     "en": "When you receive a present, you say “arigatou gozaimasu.” “Arigatou” alone is fine with friends, but with a teacher, add “gozaimasu.”",
@@ -434,18 +441,18 @@
     "romaji": "'Doumo' demo, kimochi wa tsutawarimasu. Demo, sensei ni wa, 'arigatou gozaimasu' to iimashou."
   },
   "vl10.a_photo": {
-    "en": "There is a photo I want to show everyone. These are my grandfather and grandmother.",
-    "ru": "Есть фотография, которую я хочу показать всем. Это мой дед и бабушка.",
-    "zh": "我有一张想给大家看的照片。这是我的祖父和祖母。",
-    "ja": "みんなに、見せたい写真があります。これは、わたしの祖父と祖母です。",
-    "romaji": "Minna ni, misetai shashin ga arimasu. Kore wa, watashi no sofu to sobo desu."
+    "en": "There is a photo I want to show everyone. These are my grandfather and grandmother. My grandfather is staying home in the countryside today.",
+    "ru": "Есть фотография, которую я хочу показать всем. Это мой дед и бабушка. Дед сегодня остался присматривать за домом в деревне.",
+    "zh": "我有一张想给大家看的照片。这是我的祖父和祖母。祖父今天留在乡下看家。",
+    "ja": "みんなに、見せたい写真があります。これは、わたしの祖父と祖母です。祖父は、今日は、田舎で、留守番です。",
+    "romaji": "Minna ni, misetai shashin ga arimasu. Kore wa, watashi no sofu to sobo desu. Sofu wa, kyou wa, inaka de, rusuban desu."
   },
   "vl10.w6": {
-    "en": "Alex said “sofu” and “sobo.” This is how you refer to your own grandpa and grandma when speaking to other people.",
-    "ru": "Алекс сказал «софу» и «собо». Так говорят о своём дедушке и бабушке, обращаясь к другим людям.",
-    "zh": "亚历克斯说了「祖父」「祖母」。这是向别人谈起自己的爷爷奶奶时的说法。",
-    "ja": "アレックスさんは、「祖父」「祖母」と言いました。自分のおじいさん、おばあさんを、ほかの人に話すときの言い方です。",
-    "romaji": "Arekkusu-san wa, 'sofu' 'sobo' to iimashita. Jibun no ojiisan, obaasan o, hoka no hito ni hanasu toki no iikata desu."
+    "en": "Yuki said “sofu” and “sobo.” This is how you refer to your own grandpa and grandma when speaking to other people.",
+    "ru": "Юки сказала «софу» и «собо». Так говорят о своём дедушке и бабушке, обращаясь к другим людям.",
+    "zh": "由纪说了「祖父」「祖母」。这是向别人谈起自己的爷爷奶奶时的说法。",
+    "ja": "由紀さんは、「祖父」「祖母」と言いました。自分のおじいさん、おばあさんを、ほかの人に話すときの言い方です。",
+    "romaji": "Yuki-san wa, 'sofu' 'sobo' to iimashita. Jibun no ojiisan, obaasan o, hoka no hito ni hanasu toki no iikata desu."
   },
   "vl10.w6_q": {
     "en": "How are “ojiichan” and “sofu” different?",
@@ -462,39 +469,39 @@
     "romaji": "'Ojiichan' wa, yasashii yobikata de, kazoku no naka de tsukaimasu. 'Sofu' wa, hoka no hito ni jibun no kazoku o hanasu toki no, aratamatta iikata desu. Hoka no hito no sofu wa, 'ojiisan' to iimasu."
   },
   "vl10.p4_prompt": {
-    "en": "Now let's practice. Let's ask about Alex's grandmother. What do you say?",
-    "ru": "Теперь практика. Спросим о бабушке Алекса. Что вы скажете?",
-    "zh": "现在来练习。我们来问问亚历克斯的奶奶。你会怎么说？",
-    "ja": "では、練習です。アレックスさんの、おばあさんについて、聞いてみましょう。何と言いますか？",
-    "romaji": "Dewa, renshuu desu. Arekkusu-san no, obaasan ni tsuite, kiite mimashou. Nan to iimasu ka?"
+    "en": "Now let's practice. Let's ask about Yuki's grandfather. What do you say?",
+    "ru": "Теперь практика. Спросим о дедушке Юки. Что вы скажете?",
+    "zh": "现在来练习。我们来问问由纪的爷爷。你会怎么说？",
+    "ja": "では、練習です。由紀さんの、おじいさんについて、聞いてみましょう。何と言いますか？",
+    "romaji": "Dewa, renshuu desu. Yuki-san no, ojiisan ni tsuite, kiite mimashou. Nan to iimasu ka?"
   },
   "vl10.c4_natural": {
-    "en": "“What kind of person is your grandmother, Alex?”",
-    "ru": "«Какой человек ваша бабушка, Алекс?»",
-    "zh": "“亚历克斯，你的奶奶是个什么样的人？”",
-    "ja": "「アレックスさんの、おばあさんは、どんな人ですか？」",
-    "romaji": "'Arekkusu-san no, obaasan wa, donna hito desu ka?'"
+    "en": "“What kind of person is your grandfather, Yuki?”",
+    "ru": "«Какой человек ваш дедушка, Юки?»",
+    "zh": "“由纪，你的爷爷是个什么样的人？”",
+    "ja": "「由紀さんの、おじいさんは、どんな人ですか？」",
+    "romaji": "'Yuki-san no, ojiisan wa, donna hito desu ka?'"
   },
   "vl10.c4_formal": {
-    "en": "“What manner of character might Alex's most honorable grandmother possess?”",
-    "ru": "«Каков нрав достопочтенной бабушки уважаемого Алекса?»",
-    "zh": "“请问亚历克斯先生的祖母大人，是位怎样的人物呢？”",
-    "ja": "「アレックス様の、ご祖母様は、いかなるお人柄でいらっしゃいますか？」",
-    "romaji": "'Arekkusu-sama no, gosobo-sama wa, ikanaru ohitogara de irasshaimasu ka?'"
+    "en": "“What manner of character might Yuki's most honorable grandfather possess?”",
+    "ru": "«Каков нрав достопочтенного дедушки уважаемой Юки?»",
+    "zh": "“请问由纪小姐的祖父大人，是位怎样的人物呢？”",
+    "ja": "「由紀様の、ご祖父様は、いかなるお人柄でいらっしゃいますか？」",
+    "romaji": "'Yuki-sama no, gosofu-sama wa, ikanaru ohitogara de irasshaimasu ka?'"
   },
   "vl10.c4_mistake": {
-    "en": "“What kind of person is Alex's sobo?”",
-    "ru": "«Какой человек собо Алекса?»",
-    "zh": "“亚历克斯的『祖母』是个什么样的人？”",
-    "ja": "「アレックスさんの祖母は、どんな人ですか？」",
-    "romaji": "'Arekkusu-san no sobo wa, donna hito desu ka?'"
+    "en": "“What kind of person is Yuki's sofu?”",
+    "ru": "«Какой человек софу Юки?»",
+    "zh": "“由纪的『祖父』是个什么样的人？”",
+    "ja": "「由紀さんの祖父は、どんな人ですか？」",
+    "romaji": "'Yuki-san no sofu wa, donna hito desu ka?'"
   },
   "vl10.c4_own": {
-    "en": "“Where do your grandfather and grandmother live, Alex?”",
-    "ru": "«Где живут ваши дедушка и бабушка, Алекс?»",
-    "zh": "“亚历克斯，你的爷爷奶奶住在哪里？”",
-    "ja": "「アレックスさんの、おじいさんとおばあさんは、どこに住んでいますか？」",
-    "romaji": "'Arekkusu-san no, ojiisan to obaasan wa, doko ni sunde imasu ka?'"
+    "en": "“Where do your grandfather and grandmother live, Yuki?”",
+    "ru": "«Где живут ваши дедушка и бабушка, Юки?»",
+    "zh": "“由纪，你的爷爷奶奶住在哪里？”",
+    "ja": "「由紀さんの、おじいさんとおばあさんは、どこに住んでいますか？」",
+    "romaji": "'Yuki-san no, ojiisan to obaasan wa, doko ni sunde imasu ka?'"
   },
   "vl10.c4_min": {
     "en": "“Grandmother... what kind...?”",
@@ -503,58 +510,58 @@
     "ja": "「おばあさん…どんな…？」",
     "romaji": "'Obaasan... donna...?'"
   },
-  "vl10.p4_nat_alex": {
-    "en": "My grandmother is a very kind person. She always made warm soup for me.",
-    "ru": "Моя бабушка очень добрая. Она всегда готовила мне тёплый суп.",
-    "zh": "我祖母是个非常温柔的人。她总是给我做热乎乎的汤。",
-    "ja": "祖母は、とてもやさしい人です。いつも、あたたかいスープを作ってくれました。",
-    "romaji": "Sobo wa, totemo yasashii hito desu. Itsumo, atatakai suupu o tsukutte kuremashita."
+  "vl10.p4_nat_yuki": {
+    "en": "My grandfather is a very energetic person. He works in the field every day.",
+    "ru": "Мой дедушка очень бодрый человек. Он каждый день работает в поле.",
+    "zh": "我祖父是个非常有精神的人。他每天都在田里干活。",
+    "ja": "祖父は、とても元気な人です。毎日、畑で働いています。",
+    "romaji": "Sofu wa, totemo genki na hito desu. Mainichi, hatake de hataraite imasu."
   },
-  "vl10.p4_form_alex": {
-    "en": "Haha, my grandmother would be startled to hear that. “Obaasan wa, donna hito desu ka?” is fine.",
-    "ru": "Ха-ха, бабушка бы испугалась, услышав это. Достаточно «оба-сан ва, донна хито дэс ка?».",
-    "zh": "哈哈，我祖母听到会吓一跳的。说「おばあさんは、どんな人ですか？」就行。",
-    "ja": "あはは、祖母が聞いたら、びっくりします。「おばあさんは、どんな人ですか？」で、いいですよ。",
-    "romaji": "Ahaha, sobo ga kiitara, bikkuri shimasu. 'Obaasan wa, donna hito desu ka?' de, ii desu yo."
+  "vl10.p4_form_yuki": {
+    "en": "Ha, my grandfather would be startled to hear that. “Ojiisan wa, donna hito desu ka?” is fine.",
+    "ru": "Ха-ха, дедушка бы испугался, услышав это. Достаточно «оодзи-сан ва, донна хито дэс ка?».",
+    "zh": "呵呵，我祖父听到会吓一跳的。说「おじいさんは、どんな人ですか？」就行。",
+    "ja": "ふふ、祖父が聞いたら、びっくりします。「おじいさんは、どんな人ですか？」で、いいですよ。",
+    "romaji": "Fufu, sofu ga kiitara, bikkuri shimasu. 'Ojiisan wa, donna hito desu ka?' de, ii desu yo."
   },
   "vl10.p4_mis_tanaka": {
-    "en": "Close. For someone else's grandmother, use “obaasan,” not “sobo.” “Sobo” is only for your own family.",
-    "ru": "Почти. О чужой бабушке говорят «оба-сан», а не «собо». «Собо» — только о собственной семье.",
-    "zh": "很接近。别人的祖母要说「おばあさん」，而不是「祖母」。「祖母」只用于自己的家人。",
-    "ja": "惜しいです。ほかの人の祖母には、「祖母」ではなく、「おばあさん」を使います。「祖母」は、自分の家族のときだけです。",
+    "en": "Close. For someone else's grandfather, use “ojiisan,” not “sofu.” “Sofu” is only for your own family.",
+    "ru": "Почти. О чужом дедушке говорят «оодзи-сан», а не «софу». «Софу» — только о собственной семье.",
+    "zh": "很接近。别人的祖父要说「おじいさん」，而不是「祖父」。「祖父」只用于自己的家人。",
+    "ja": "惜しいです。ほかの人の祖父には、「祖父」ではなく、「おじいさん」を使います。「祖父」は、自分の家族のときだけです。",
     "romaji": "Oshii desu. Hoka no hito no sobo ni wa, 'sobo' de wa naku, 'obaasan' o tsukaimasu. 'Sobo' wa, jibun no kazoku no toki dake desu."
   },
   "vl10.p4_mis_retry": {
-    "en": "Oh, what kind of person is your grandmother, Alex?",
-    "ru": "Ой, какой человек ваша бабушка, Алекс?",
-    "zh": "啊，亚历克斯，你的奶奶是个什么样的人？",
-    "ja": "あっ、アレックスさんの、おばあさんは、どんな人ですか？",
-    "romaji": "A, Arekkusu-san no, obaasan wa, donna hito desu ka?"
+    "en": "Oh, what kind of person is your grandfather, Yuki?",
+    "ru": "Ой, какой человек ваш дедушка, Юки?",
+    "zh": "啊，由纪，你的爷爷是个什么样的人？",
+    "ja": "あっ、由紀さんの、おじいさんは、どんな人ですか？",
+    "romaji": "A, Yuki-san no, ojiisan wa, donna hito desu ka?"
   },
   "vl10.p4_mis_relief": {
-    "en": "Yes, my grandmother is a very kind person.",
-    "ru": "Да, моя бабушка очень добрая.",
-    "zh": "好的，我祖母是个非常温柔的人。",
-    "ja": "はい、祖母は、とてもやさしい人です。",
-    "romaji": "Hai, sobo wa, totemo yasashii hito desu."
+    "en": "Yes, my grandfather is a very energetic person.",
+    "ru": "Да, мой дедушка очень бодрый человек.",
+    "zh": "好的，我祖父是个非常有精神的人。",
+    "ja": "はい、祖父は、とても元気な人です。",
+    "romaji": "Hai, sofu wa, totemo genki na hito desu."
   },
-  "vl10.p4_own_alex": {
+  "vl10.p4_own_yuki": {
     "en": "My grandfather and grandmother live in the countryside. It's two hours by train from the city.",
     "ru": "Мои дедушка и бабушка живут в деревне. Это два часа на поезде от города.",
     "zh": "我祖父和祖母住在乡下。从城里坐电车要两个小时。",
     "ja": "祖父と祖母は、田舎に住んでいます。町から、電車で二時間です。",
     "romaji": "Sofu to sobo wa, inaka ni sunde imasu. Machi kara, densha de nijikan desu."
   },
-  "vl10.p4_min_yuki": {
-    "en": "Let's try asking, “Arekkusu-san no, obaasan wa, donna hito desu ka?”",
-    "ru": "Попробуйте спросить: «Арэккусу-сан но, оба-сан ва, донна хито дэс ка?».",
-    "zh": "试着问一句：「アレックスさんの、おばあさんは、どんな人ですか？」",
-    "ja": "「アレックスさんの、おばあさんは、どんな人ですか？」と、聞いてみましょう。",
-    "romaji": "'Arekkusu-san no, obaasan wa, donna hito desu ka?' to, kiite mimashou."
+  "vl10.p4_min_mei": {
+    "en": "Let's try asking, “Yuki-san no, ojiisan wa, donna hito desu ka?”",
+    "ru": "Попробуйте спросить: «Юки-сан но, оодзи-сан ва, донна хито дэс ка?».",
+    "zh": "试着问一句：「由紀さんの、おじいさんは、どんな人ですか？」",
+    "ja": "「由紀さんの、おじいさんは、どんな人ですか？」と、聞いてみましょう。",
+    "romaji": "'Yuki-san no, ojiisan wa, donna hito desu ka?' to, kiite mimashou."
   },
   "vl10.a_mago": {
     "en": "I am my grandfather and grandmother's “mago,” grandchild. When I was little, I always spent summer vacations at their house.",
-    "ru": "Я «маго» — внук — своих дедушки и бабушки. В детстве я всегда проводил летние каникулы у них дома.",
+    "ru": "Я «маго» — внучка — своих дедушки и бабушки. В детстве я всегда проводила летние каникулы у них дома.",
     "zh": "我是祖父和祖母的「孫」。小时候，暑假总是在他们家度过。",
     "ja": "わたしは、祖父と祖母の「孫」です。小さいとき、夏休みは、いつも祖父と祖母の家で過ごしました。",
     "romaji": "Watashi wa, sofu to sobo no 'mago' desu. Chiisai toki, natsuyasumi wa, itsumo sofu to sobo no ie de sugoshimashita."
@@ -622,9 +629,9 @@
     "ja": "「孫…です…」",
     "romaji": "'Mago... desu...'"
   },
-  "vl10.p5_nat_alex": {
+  "vl10.p5_nat_yuki": {
     "en": "Just like me! We are both grandchildren.",
-    "ru": "Как и у меня! Мы оба внуки.",
+    "ru": "Как и у меня! Мы обе внучки.",
     "zh": "和我一样呢！我们都是孙辈。",
     "ja": "わたしと同じですね！ふたりとも、孫です。",
     "romaji": "Watashi to onaji desu ne! Futari tomo, mago desu."
@@ -657,14 +664,14 @@
     "ja": "はい、それです！家族の言葉は、むずかしいですね。",
     "romaji": "Hai, sore desu! Kazoku no kotoba wa, muzukashii desu ne."
   },
-  "vl10.p5_own_alex": {
+  "vl10.p5_own_yuki": {
     "en": "Oh, you went to the countryside too? Those must be good memories.",
     "ru": "Что, вы тоже ездили в деревню? Наверное, хорошие воспоминания.",
     "zh": "咦，你也去过乡下吗？一定是美好的回忆。",
     "ja": "えっ、あなたも、田舎に行ったんですか？いい思い出ですね。",
     "romaji": "E, anata mo, inaka ni itta n desu ka? Ii omoide desu ne."
   },
-  "vl10.p5_min_yuki": {
+  "vl10.p5_min_ken": {
     "en": "Try saying the whole sentence: “Watashi wa, sofu to sobo no mago desu.”",
     "ru": "Попробуйте сказать всё целиком: «Ватаси ва, софу то собо но маго дэс».",
     "zh": "试着把整句话说完整：「私は、祖父と祖母の孫です」。",
@@ -672,11 +679,11 @@
     "romaji": "'Watashi wa, sofu to sobo no mago desu' to, zenbu, itte mimashou."
   },
   "vl10.a_inaka": {
-    "en": "The “inaka,” countryside, where my grandfather and grandmother live is very quiet. At night, you can see lots of stars.",
-    "ru": "«Инака» — сельская местность, где живут мои дедушка и бабушка, очень тихая. Ночью видно много звёзд.",
-    "zh": "祖父和祖母居住的「田舎」非常安静。晚上能看见好多星星。",
-    "ja": "祖父と祖母の住む「田舎」は、とても静かです。夜は、星が、たくさん見えます。",
-    "romaji": "Sofu to sobo no sumu 'inaka' wa, totemo shizuka desu. Yoru wa, hoshi ga, takusan miemasu."
+    "en": "The “inaka,” countryside, where I live is very quiet. At night, you can see lots of stars.",
+    "ru": "«Инака» — сельская местность, где я живу, очень тихая. Ночью видно много звёзд.",
+    "zh": "我住的「田舎」非常安静。晚上能看见好多星星。",
+    "ja": "わたしの住む「田舎」は、とても静かですよ。夜は、星が、たくさん見えます。",
+    "romaji": "Watashi no sumu 'inaka' wa, totemo shizuka desu yo. Yoru wa, hoshi ga, takusan miemasu."
   },
   "vl10.w8_q": {
     "en": "Isn't “inaka” a negative word?",
@@ -693,11 +700,11 @@
     "romaji": "'Inaka' wa, machi kara tookute, shizen ga ooi basho no koto desu. Hito ni yotte wa, 'furui' to omou koto ga arimasu ga, warui imi dake de wa arimasen. 'Furusato' to iu yasashii kotoba mo arimasu."
   },
   "vl10.a_soil": {
-    "en": "The “tsuchi,” soil, in my grandfather's field is warm and smells good.",
-    "ru": "«Цути» — земля — на поле моего дедушки тёплая и хорошо пахнет.",
-    "zh": "祖父田里的「土」是温暖的，闻起来很香。",
-    "ja": "祖父の畑の「土」は、あたたかくて、いいにおいがします。",
-    "romaji": "Sofu no hatake no 'tsuchi' wa, atatakakute, ii nioi ga shimasu."
+    "en": "The “tsuchi,” soil, in the field is warm and smells good. In summer, Yuki often played in the soil.",
+    "ru": "«Цути» — земля — на поле тёплая и хорошо пахнет. Летом Юки часто играла в земле.",
+    "zh": "田里的「土」是温暖的，闻起来很香。夏天，由纪常常在土里玩。",
+    "ja": "畑の「土」は、あたたかくて、いいにおいがしますよ。夏に、由紀は、よく土であそびました。",
+    "romaji": "Hatake no 'tsuchi' wa, atatakakute, ii nioi ga shimasu yo. Natsu ni, Yuki wa, yoku tsuchi de asobimashita."
   },
   "vl10.w9": {
     "en": "“Tsuchi” means the soil found in fields and gardens. It is where plants grow. You use it in phrases like “tsuchi o horu,” dig the soil, and “tsuchi ni ueru,” plant in the soil.",
@@ -721,18 +728,18 @@
     "romaji": "Hai. 'Tsuchi' wa, mono to shite no tsuchi desu. 'Jimen' wa, soto no, jimen no hyoumen no koto desu."
   },
   "vl10.talk_open": {
-    "en": "Now let's talk. Out of today's ten words, which one do you want to talk about with Alex someday?",
-    "ru": "Теперь поговорим. Какое из сегодняшних десяти слов вы хотели бы когда-нибудь обсудить с Алексом?",
-    "zh": "现在来聊聊。今天这十个词里，你想什么时候跟亚历克斯聊聊哪个词？",
-    "ja": "では、話しましょう。今日の十の言葉の中で、アレックスさんと、いつか話したい言葉は、どれですか？",
-    "romaji": "Dewa, hanashimashou. Kyou no juu no kotoba no naka de, Arekkusu-san to, itsuka hanashitai kotoba wa, dore desu ka?"
+    "en": "Now let's talk. Out of today's ten words, which one do you want to talk about with Yuki's grandmother someday?",
+    "ru": "Теперь поговорим. Какое из сегодняшних десяти слов вы хотели бы когда-нибудь обсудить с бабушкой Юки?",
+    "zh": "现在来聊聊。今天这十个词里，你想什么时候跟由纪的奶奶聊聊哪个词？",
+    "ja": "では、話しましょう。今日の十の言葉の中で、由紀さんのおばあちゃんと、いつか話したい言葉は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no juu no kotoba no naka de, Yuki-san no obaachan to, itsuka hanashitai kotoba wa, dore desu ka?"
   },
   "vl10.talk_mei": {
-    "en": "For me, it's “inaka.” I'd like to hear more of Alex's stories about the countryside.",
-    "ru": "Для меня это «инака». Хочу услышать побольше рассказов Алекса о сельской местности.",
-    "zh": "我是「田舎」。我想多听听亚历克斯讲乡下的故事。",
-    "ja": "わたしは、「田舎」です。アレックスさんの、田舎の話を、もっと聞きたいです。",
-    "romaji": "Watashi wa, 'inaka' desu. Arekkusu-san no, inaka no hanashi o, motto kikitai desu."
+    "en": "For me, it's “inaka.” I'd like to hear more of Yuki's grandmother's stories about the countryside.",
+    "ru": "Для меня это «инака». Хочу услышать побольше рассказов бабушки Юки о сельской местности.",
+    "zh": "我是「田舎」。我想多听听由纪奶奶讲乡下的故事。",
+    "ja": "わたしは、「田舎」です。由紀さんのおばあちゃんの、田舎の話を、もっと聞きたいです。",
+    "romaji": "Watashi wa, 'inaka' desu. Yuki-san no obaachan no, inaka no hanashi o, motto kikitai desu."
   },
   "vl10.talk_ken": {
     "en": "For me, it's “tsuchi.” Next time, let's all plant flowers in the soil of Grandpa's garden.",
@@ -748,12 +755,12 @@
     "ja": "わたしは、「ありがとうございます」です。みんなに、いつも言いたい言葉です。",
     "romaji": "Watashi wa, 'arigatou gozaimasu' desu. Minna ni, itsumo iitai kotoba desu."
   },
-  "vl10.talk_alex": {
-    "en": "For me, it's “hajimemashite.” I'm happy that from today I can become friends with everyone.",
-    "ru": "Для меня это «хадзимемасите». Я рад, что с сегодняшнего дня могу подружиться со всеми.",
-    "zh": "我是「初めまして」。从今天起能和大家成为朋友，我很高兴。",
-    "ja": "わたしは、「初めまして」です。今日から、みんなと友達になれて、うれしいです。",
-    "romaji": "Watashi wa, 'hajimemashite' desu. Kyou kara, minna to tomodachi ni narete, ureshii desu."
+  "vl10.talk_grandma": {
+    "en": "For me, it's “hajimemashite.” I'm truly happy to have met Yuki's friends today.",
+    "ru": "Для меня это «хадзимемасите». Я по-настоящему рада, что сегодня познакомилась с друзьями Юки.",
+    "zh": "我是「初めまして」。今天见到由纪的朋友们，我真的很高兴。",
+    "ja": "わたしは、「初めまして」です。今日、由紀の友達に会えて、本当にうれしいです。",
+    "romaji": "Watashi wa, 'hajimemashite' desu. Kyou, Yuki no tomodachi ni aete, hontou ni ureshii desu."
   },
   "vl10.talk_tanaka": {
     "en": "Everyone, with this, ten lessons are complete. We began with “ohayou gozaimasu” and “konnichiwa.”",

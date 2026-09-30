@@ -4,6 +4,7 @@ import 'package:flutter/services.dart' show rootBundle;
 
 import '../models/story.dart';
 import '../models/vocab_word.dart';
+import '../novel/sentence_lessons/sentence_lessons.dart';
 import '../novel/stories/stories.dart';
 import '../novel/vocabulary_lessons/vocabulary_lessons.dart';
 
@@ -12,18 +13,9 @@ import '../novel/vocabulary_lessons/vocabulary_lessons.dart';
 /// the two lesson categories retain their separate compiled registries.
 enum ContentCategory { lesson, vocabLesson, chapter }
 
-extension on ContentCategory {
-  String get folder => switch (this) {
-    ContentCategory.lesson => 'lessons',
-    ContentCategory.vocabLesson => 'vocab-lessons',
-    ContentCategory.chapter => 'chapters',
-  };
-}
-
-/// Loads chapters directly from the Dart builders in `lib/novel/stories/`.
-/// Sentence and vocabulary lessons still use their compiled JSON registries
-/// until those sources are ported as well. Level-based vocabulary dictionaries
-/// are loaded from `assets/vocabulary/`.
+/// Loads chapters, sentence lessons and vocabulary lessons directly from the
+/// Dart builders under `lib/novel/`. Level-based vocabulary dictionaries are
+/// loaded from `assets/vocabulary/`.
 class ContentService {
   static final Map<String, StoryData Function()> _chapterFactories = {
     'story0': getStory0,
@@ -39,10 +31,9 @@ class ContentService {
   final Map<String, Story> _storyCache = {};
   List<VocabWord>? _vocabCache;
 
-  /// [id] is the topic id from the matching `_index.json` catalog (e.g.
-  /// `talking_about_your_job_or_studies` for a lesson, `story0` for a
-  /// chapter — note chapter filenames already include the `story` prefix,
-  /// unlike the bare numeric `id` field inside the JSON itself).
+  /// [id] is the topic id from the matching catalog (e.g. `sentence_lesson_01`
+  /// for a sentence lesson, `vocab_lesson_01` for a vocabulary lesson,
+  /// `story0` for a chapter).
   Future<Story> loadStory(ContentCategory category, String id) async {
     final cacheKey = '${category.name}:$id';
     final cached = _storyCache[cacheKey];
@@ -51,7 +42,7 @@ class ContentService {
     final story = switch (category) {
       ContentCategory.chapter => _loadChapter(id),
       ContentCategory.vocabLesson => _loadVocabularyLesson(id),
-      ContentCategory.lesson => await _loadAssetStory(category, id),
+      ContentCategory.lesson => _loadSentenceLesson(id),
     };
     _storyCache[cacheKey] = story;
     return story;
@@ -79,11 +70,15 @@ class ContentService {
     return Story.fromJson(_normalizeChapter(id, lesson.storyFactory()));
   }
 
-  Future<Story> _loadAssetStory(ContentCategory category, String id) async {
-    final raw = await rootBundle.loadString(
-      'assets/data/stories/${category.folder}/$id.json',
-    );
-    return Story.fromJson(jsonDecode(raw) as Map<String, dynamic>);
+  Story _loadSentenceLesson(String id) {
+    final lesson = sentenceLessonById[id];
+    if (lesson == null) {
+      throw ArgumentError.value(id, 'id', 'Unknown Dart sentence lesson');
+    }
+    if (lesson.patternKeys.isEmpty) {
+      throw StateError('${lesson.id} must teach at least one sentence pattern');
+    }
+    return Story.fromJson(_normalizeChapter(id, lesson.storyFactory()));
   }
 
   Map<String, dynamic> _normalizeChapter(String id, StoryData source) {
@@ -140,44 +135,38 @@ class ContentService {
   Future<List<Map<String, dynamic>>> loadCatalog(
     ContentCategory category,
   ) async {
+    if (category == ContentCategory.lesson) {
+      return <Map<String, dynamic>>[
+        for (final lesson in sentenceLessons) lesson.toCatalogEntry(),
+      ];
+    }
+
     if (category == ContentCategory.vocabLesson) {
       return <Map<String, dynamic>>[
         for (final lesson in vocabularyLessons) lesson.toCatalogEntry(),
       ];
     }
 
-    if (category == ContentCategory.chapter) {
-      final stories = await Future.wait(
-        _chapterFactories.keys.map(
-          (id) => loadStory(ContentCategory.chapter, id),
-        ),
-      );
-      return <Map<String, dynamic>>[
-        for (final story in stories)
-          <String, dynamic>{
-            'id': story.id,
-            'title': story.title,
-            'subtitle': story.subtitle,
-            'description': story.description,
-            'estimatedTime': story.estimatedTime,
-            'cefrFocus': story.cefrFocus,
-          },
-      ];
-    }
-
-    final raw = await rootBundle.loadString(
-      'assets/data/stories/${category.folder}/_index.json',
+    final stories = await Future.wait(
+      _chapterFactories.keys.map(
+        (id) => loadStory(ContentCategory.chapter, id),
+      ),
     );
-    return (jsonDecode(raw) as List<dynamic>).cast<Map<String, dynamic>>();
+    return <Map<String, dynamic>>[
+      for (final story in stories)
+        <String, dynamic>{
+          'id': story.id,
+          'title': story.title,
+          'subtitle': story.subtitle,
+          'description': story.description,
+          'estimatedTime': story.estimatedTime,
+          'cefrFocus': story.cefrFocus,
+        },
+    ];
   }
 
-  /// `SceneManager.getNextInOrder()` (lessons/vocab-lessons) and
-  /// `getNextStoryId()` (chapters) — the next topic id after [currentId] in
-  /// [category]'s own `_index.json` registry order, or `null` if
-  /// [currentId] is last (or wasn't found at all). Chapters' `_index.json`
-  /// is already numeric `story0..story20` order, so one implementation
-  /// covers all three registries instead of porting `getNextStoryId()`'s
-  /// separate `story{N+1}` regex-increment approach.
+  /// The next topic id after [currentId] in [category]'s catalog order, or
+  /// `null` if [currentId] is last (or wasn't found at all).
   Future<String?> nextIdInCatalog(
     ContentCategory category,
     String currentId,

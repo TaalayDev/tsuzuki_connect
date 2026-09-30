@@ -71,7 +71,6 @@ flutter:
     - assets/i18n/
     - assets/translations/
     - assets/vocabulary/
-    - assets/data/stories/lessons/
     - assets/backgrounds/
     - assets/characters/
     - assets/audio/

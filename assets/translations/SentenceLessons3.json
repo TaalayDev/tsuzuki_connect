@@ -1,0 +1,688 @@
+{
+  "sl3.title": {
+    "en": "Koko, Soko, Asoko, Arimasu, Imasu",
+    "ru": "Коко, соко, асоко, аримас, имас",
+    "zh": "这里、那里、那边，有、在",
+    "ja": "ここ・そこ・あそこ、あります・います",
+    "romaji": "Koko, soko, asoko, arimasu, imasu"
+  },
+  "sl3.subtitle": {
+    "en": "Places, and where things and people are",
+    "ru": "Места, а также где находятся предметы и люди",
+    "zh": "地点，以及东西和人在哪里",
+    "ja": "場所と、ものと人のいる・ある",
+    "romaji": "Basho to, mono to hito no iru, aru"
+  },
+  "sl3.description": {
+    "en": "While walking around the school, practice four patterns: words for places, “arimasu” and “imasu,” and asking where something is.",
+    "ru": "Гуляя по школе, потренируйте четыре формы: слова для мест, «аримас» и «имас», а также вопросы о местонахождении.",
+    "zh": "一边在学校里走动，一边用四个句型练习：表示地点的词、「あります」「います」，以及询问地点的说法。",
+    "ja": "学校の中を歩きながら、場所を表す言葉、「あります」「います」、場所をたずねる言葉を四つの形で練習します。",
+    "romaji": "Gakkou no naka o arukinagara, basho o arawasu kotoba, 'arimasu' 'imasu', basho o tazuneru kotoba o yottsu no katachi de renshuu shimasu."
+  },
+  "sl3.pattern.1": {
+    "en": "here / there / over there / where",
+    "ru": "здесь / там / вон там / где",
+    "zh": "这里／那里／那边／哪里",
+    "ja": "ここ・そこ・あそこ・どこ",
+    "romaji": "koko, soko, asoko, doko"
+  },
+  "sl3.pattern.2": {
+    "en": "There is X at Y (things)",
+    "ru": "В Y есть X (предметы)",
+    "zh": "在Y有X（物品）",
+    "ja": "〜に〜があります",
+    "romaji": "~ ni ~ ga arimasu"
+  },
+  "sl3.pattern.3": {
+    "en": "There is X at Y (people and animals)",
+    "ru": "В Y находится X (люди и животные)",
+    "zh": "在Y有X（人和动物）",
+    "ja": "〜に〜がいます",
+    "romaji": "~ ni ~ ga imasu"
+  },
+  "sl3.pattern.4": {
+    "en": "Where is X?",
+    "ru": "Где находится X?",
+    "zh": "X在哪里？",
+    "ja": "〜は、どこにありますか／いますか",
+    "romaji": "~ wa, doko ni arimasu ka / imasu ka"
+  },
+  "sl3.setup": {
+    "en": "A week has passed since the new term began. Today Tanaka-sensei is showing everyone around the school. They gather in the hallway.",
+    "ru": "С начала нового семестра прошла неделя. Сегодня Танака-сэнсэй проведёт всех по школе. Все собрались в коридоре.",
+    "zh": "新学期开始已经一周了。今天田中老师要带大家参观学校。大家聚集在走廊上。",
+    "ja": "新学期が、はじまって一週間。今日は、田中先生が、学校の中を案内してくれる。みんなは、廊下に集まった。",
+    "romaji": "Shingakki ga, hajimatte isshuukan. Kyou wa, Tanaka-sensei ga, gakkou no naka o annai shite kureru. Minna wa, rouka ni atsumatta."
+  },
+  "sl3.t_intro": {
+    "en": "Today's theme is places. Let's talk about the school using “koko,” “soko,” “asoko,” “doko,” and “arimasu” and “imasu.”",
+    "ru": "Тема сегодня — места. Давайте расскажем о школе с помощью «коко», «соко», «асоко», «доко», а также «аримас» и «имас».",
+    "zh": "今天的主题是地点。我们用「ここ」「そこ」「あそこ」「どこ」以及「あります」「います」来聊聊学校里的事。",
+    "ja": "今日のテーマは、場所です。「ここ」「そこ」「あそこ」「どこ」と、「あります」「います」を使って、学校の中を話しましょう。",
+    "romaji": "Kyou no teema wa, basho desu. 'Koko' 'soko' 'asoko' 'doko' to, 'arimasu' 'imasu' o tsukatte, gakkou no naka o hanashimashou."
+  },
+  "sl3.s1_koko": {
+    "en": "The place where I am is “koko.” This is the hallway.",
+    "ru": "Место, где нахожусь я, — «коко». Здесь коридор.",
+    "zh": "我所在的地方是「ここ」。这里是走廊。",
+    "ja": "私のいる場所は、「ここ」です。ここは、廊下です。",
+    "romaji": "Watashi no iru basho wa, 'koko' desu. Koko wa, rouka desu."
+  },
+  "sl3.s1_soko": {
+    "en": "Is that place the hallway?",
+    "ru": "Это место — коридор?",
+    "zh": "那里是走廊吗？",
+    "ja": "そこは、廊下ですか？",
+    "romaji": "Soko wa, rouka desu ka?"
+  },
+  "sl3.s1_yes": {
+    "en": "Yes, this is the hallway.",
+    "ru": "Да, здесь коридор.",
+    "zh": "是的，这里是走廊。",
+    "ja": "はい、ここは、廊下です。",
+    "romaji": "Hai, koko wa, rouka desu."
+  },
+  "sl3.s1_asoko": {
+    "en": "Over there is the library. It is a very quiet place.",
+    "ru": "Вон там библиотека. Это очень тихое место.",
+    "zh": "那边是图书室。是个非常安静的地方。",
+    "ja": "あそこは、図書室です。とても、しずかな場所です。",
+    "romaji": "Asoko wa, toshoshitsu desu. Totemo, shizuka na basho desu."
+  },
+  "sl3.s1_break": {
+    "en": "The place where the speaker is is “koko.” The place where the listener is is “soko.” A faraway place is “asoko.” A place you don't know is “doko.”",
+    "ru": "Место, где находится говорящий, — «коко». Где находится слушающий — «соко». Далёкое место — «асоко». Неизвестное место — «доко».",
+    "zh": "说话人所在的地方是「ここ」。听话人所在的地方是「そこ」。远处的地方是「あそこ」。不知道的地方是「どこ」。",
+    "ja": "話す人のいる場所は「ここ」。聞く人のいる場所は「そこ」。遠い場所は「あそこ」。分からない場所は「どこ」です。",
+    "romaji": "Hanasu hito no iru basho wa 'koko'. Kiku hito no iru basho wa 'soko'. Tooi basho wa 'asoko'. Wakaranai basho wa 'doko' desu."
+  },
+  "sl3.s1_q1": {
+    "en": "Are “koko” and “kore” different?",
+    "ru": "«Коко» и «коре» отличаются?",
+    "zh": "「ここ」和「これ」有区别吗？",
+    "ja": "「ここ」と「これ」は、ちがいますか？",
+    "romaji": "'Koko' to 'kore' wa, chigaimasu ka?"
+  },
+  "sl3.s1_a1": {
+    "en": "Yes. “Kore” is a thing. “Koko” is a place. Even though both start with “ko,” what they point to is different.",
+    "ru": "Да. «Коре» — предмет. «Коко» — место. Хотя оба начинаются на «ко», указывают они на разное.",
+    "zh": "有区别。「これ」指事物，「ここ」指地点。虽然都以「こ」开头，指的对象不同。",
+    "ja": "はい。「これ」は、ものです。「ここ」は、場所です。同じ「こ」でも、指しているものが、ちがいます。",
+    "romaji": "Hai. 'Kore' wa, mono desu. 'Koko' wa, basho desu. Onaji 'ko' demo, sashite iru mono ga, chigaimasu."
+  },
+  "sl3.s1_q2": {
+    "en": "If someone asks “doko desu ka,” how do you answer?",
+    "ru": "Если вас спросили «доко дэс ка», как ответить?",
+    "zh": "如果被问「どこですか」，该怎么回答？",
+    "ja": "「どこですか」と聞かれたら、どう答えますか？",
+    "romaji": "'Doko desu ka' to kikaretara, dou kotaemasu ka?"
+  },
+  "sl3.s1_a2": {
+    "en": "You give the name of the place. For example: “Koko wa, doko desu ka?” “Koko wa, rouka desu.”",
+    "ru": "Называют название места. Например: «Коко ва, доко дэс ка?» — «Коко ва, рока дэс».",
+    "zh": "说出地点的名称。例如：「ここは、どこですか？」「ここは、廊下です」。",
+    "ja": "場所の名前を言います。たとえば、「ここは、どこですか？」「ここは、廊下です」と答えます。",
+    "romaji": "Basho no namae o iimasu. Tatoeba, 'Koko wa, doko desu ka?' 'Koko wa, rouka desu' to kotaemasu."
+  },
+  "sl3.p1_prompt": {
+    "en": "Yuki asks from the other end of the hallway, “Where is that?” You are standing in front of the library. How do you answer?",
+    "ru": "Юки спрашивает с другого конца коридора: «Что это за место?» Вы стоите перед библиотекой. Что вы ответите?",
+    "zh": "由纪从走廊另一头问：“那里是哪里？”你现在正站在图书室门前。你会怎么回答？",
+    "ja": "由紀さんが、廊下の向こうから、聞きました。「そこは、どこですか？」あなたは、いま、図書室の前にいます。何と答えますか？",
+    "romaji": "Yuki-san ga, rouka no mukou kara, kikimashita. 'Soko wa, doko desu ka?' Anata wa, ima, toshoshitsu no mae ni imasu. Nan to kotaemasu ka?"
+  },
+  "sl3.c1_natural": {
+    "en": "“This is the library.”",
+    "ru": "«Здесь библиотека».",
+    "zh": "“这里是图书室。”",
+    "ja": "「ここは、図書室です。」",
+    "romaji": "'Koko wa, toshoshitsu desu.'"
+  },
+  "sl3.c1_formal": {
+    "en": "“This place is the library.”",
+    "ru": "«Это место — библиотека».",
+    "zh": "“这里是图书室。”",
+    "ja": "「こちらは、図書室にございます。」",
+    "romaji": "'Kochira wa, toshoshitsu ni gozaimasu.'"
+  },
+  "sl3.c1_mistake": {
+    "en": "“That place is the library.”",
+    "ru": "«То место — библиотека».",
+    "zh": "“那里是图书室。”",
+    "ja": "「そこは、図書室です。」",
+    "romaji": "'Soko wa, toshoshitsu desu.'"
+  },
+  "sl3.c1_own": {
+    "en": "“This is the library. There are lots of books.”",
+    "ru": "«Здесь библиотека. Здесь много книг».",
+    "zh": "“这里是图书室。有很多书。”",
+    "ja": "「ここは、図書室です。本が、たくさんあります。」",
+    "romaji": "'Koko wa, toshoshitsu desu. Hon ga, takusan arimasu.'"
+  },
+  "sl3.c1_min": {
+    "en": "“Library... here...”",
+    "ru": "«Библиотека… здесь…»",
+    "zh": "“图书室……这里……”",
+    "ja": "「図書室…ここ…」",
+    "romaji": "'Toshoshitsu... koko...'"
+  },
+  "sl3.p1_nat_yuki": {
+    "en": "Thank you. Then I'll go there too.",
+    "ru": "Спасибо. Тогда я тоже туда пойду.",
+    "zh": "谢谢。那我也过去。",
+    "ja": "ありがとうございます。じゃあ、わたしも、そこに行きます。",
+    "romaji": "Arigatou gozaimasu. Jaa, watashi mo, soko ni ikimasu."
+  },
+  "sl3.p1_form_ken": {
+    "en": "Haha, you sound like a guide. “Koko wa, toshoshitsu desu” is fine.",
+    "ru": "Ха-ха, как экскурсовод. Достаточно «коко ва, тосёсицу дэс».",
+    "zh": "哈哈，像导游一样。说「ここは、図書室です」就好。",
+    "ja": "あはは、案内係みたいです。「ここは、図書室です」で、いいですよ。",
+    "romaji": "Ahaha, annaigakari mitai desu. 'Koko wa, toshoshitsu desu' de, ii desu yo."
+  },
+  "sl3.p1_mis_mei": {
+    "en": "Huh, the place where you're standing is “koko.” “Soko” is the place where the listener is.",
+    "ru": "Ой, место, где стоите вы, — «коко». «Соко» — это место, где находится слушающий.",
+    "zh": "咦，你所站的地方是「ここ」。「そこ」是听话人所在的地方。",
+    "ja": "あれ、あなたが立っている場所は、「ここ」ですよ。「そこ」は、聞く人のいる場所です。",
+    "romaji": "Are, anata ga tatte iru basho wa, 'koko' desu yo. 'Soko' wa, kiku hito no iru basho desu."
+  },
+  "sl3.p1_mis_retry": {
+    "en": "Oh, this is the library.",
+    "ru": "Ой, здесь библиотека.",
+    "zh": "啊，这里是图书室。",
+    "ja": "あっ、ここは、図書室です。",
+    "romaji": "A, koko wa, toshoshitsu desu."
+  },
+  "sl3.p1_mis_relief": {
+    "en": "Yes, that's it! The place where you are is “koko.”",
+    "ru": "Да, именно так! Место, где находитесь вы, — «коко».",
+    "zh": "对，就是这个！自己所在的地方是「ここ」。",
+    "ja": "はい、それです！自分のいる場所は、「ここ」ですね。",
+    "romaji": "Hai, sore desu! Jibun no iru basho wa, 'koko' desu ne."
+  },
+  "sl3.p1_own_yuki": {
+    "en": "Nice. I love books. I'll go and see it later.",
+    "ru": "Здорово. Я обожаю книги. Позже схожу туда.",
+    "zh": "不错。我最喜欢书了。等会儿去看看。",
+    "ja": "いいですね。わたしは、本が大好きです。あとで、行ってみます。",
+    "romaji": "Ii desu ne. Watashi wa, hon ga daisuki desu. Ato de, itte mimasu."
+  },
+  "sl3.p1_min_tanaka": {
+    "en": "It gets across. Next time, try a full sentence: “koko wa, toshoshitsu desu.”",
+    "ru": "Поймут. В следующий раз скажите целое предложение: «коко ва, тосёсицу дэс».",
+    "zh": "能听懂。下次试着说完整的句子：「ここは、図書室です」。",
+    "ja": "伝わりますよ。次は、「ここは、図書室です」と、文で言ってみましょう。",
+    "romaji": "Tsutawarimasu yo. Tsugi wa, 'koko wa, toshoshitsu desu' to, bun de itte mimashou."
+  },
+  "sl3.class": {
+    "en": "Everyone enters the classroom. There is a big desk by the window. Books and notebooks are lying on it.",
+    "ru": "Все вошли в класс. У окна стоит большой стол. На нём лежат книги и тетради.",
+    "zh": "大家走进教室。窗边有一张大桌子。桌上放着书和笔记本。",
+    "ja": "みんなは、教室に入った。窓のそばに、大きな机がある。机の上には、本や、ノートが、のっている。",
+    "romaji": "Minna wa, kyoushitsu ni haitta. Mado no soba ni, ookina tsukue ga aru. Tsukue no ue ni wa, hon ya, nooto ga, notte iru."
+  },
+  "sl3.s2_intro": {
+    "en": "Next is “arimasu.” You use it to say that a thing exists at a certain place. The pattern is “~ ni ~ ga arimasu.”",
+    "ru": "Дальше — «аримас». Оно говорит о том, что предмет находится где-то. Форма: «~ ни ~ га аримас».",
+    "zh": "接下来是「あります」。用来说某处有某个东西。句型是「〜に〜があります」。",
+    "ja": "次は、「あります」です。ものが、そこに、あることを言います。「〜に〜があります」の形です。",
+    "romaji": "Tsugi wa, 'arimasu' desu. Mono ga, soko ni, aru koto o iimasu. '~ ni ~ ga arimasu' no katachi desu."
+  },
+  "sl3.s2_ex": {
+    "en": "There is a book on the desk. There are flowers by the window.",
+    "ru": "На столе лежит книга. У окна стоят цветы.",
+    "zh": "桌上有书。窗边有花。",
+    "ja": "机の上に、本があります。窓のそばに、花があります。",
+    "romaji": "Tsukue no ue ni, hon ga arimasu. Mado no soba ni, hana ga arimasu."
+  },
+  "sl3.s2_break": {
+    "en": "“Ni” marks the place. “Ga” marks the thing that is there.",
+    "ru": "«Ни» обозначает место. «Га» обозначает предмет, который там находится.",
+    "zh": "「に」表示地点。「が」表示在那里的东西。",
+    "ja": "「に」は、場所を表します。「が」は、そこにあるものを表します。",
+    "romaji": "'Ni' wa, basho o arawashimasu. 'Ga' wa, soko ni aru mono o arawashimasu."
+  },
+  "sl3.s2_q1": {
+    "en": "What is the opposite of “arimasu”?",
+    "ru": "Какой антоним у «аримас»?",
+    "zh": "「あります」的反义词是什么？",
+    "ja": "「あります」の反対は、何ですか？",
+    "romaji": "'Arimasu' no hantai wa, nan desu ka?"
+  },
+  "sl3.s2_a1": {
+    "en": "It is “arimasen.” You say it like “tsukue no ue ni, hon ga arimasen.” It is a different word from the “~ ja arimasen” in Sentence Lesson 1.",
+    "ru": "Это «аримасэн». Говорят, например, «цукуэ но уэ ни, хон га аримасэн». Это другое слово, чем «~ дзя аримасэн» из урока предложений 1.",
+    "zh": "是「ありません」。说成「机の上に、本がありません」。它和句型课1里的「〜じゃありません」不是同一个用法哦。",
+    "ja": "「ありません」です。「机の上に、本がありません」のように言います。文型レッスン1の「〜じゃありません」とは、ちがう言葉ですよ。",
+    "romaji": "'Arimasen' desu. 'Tsukue no ue ni, hon ga arimasen' no you ni iimasu. Bunkei ressun ichi no '~ ja arimasen' to wa, chigau kotoba desu yo."
+  },
+  "sl3.s2_q2": {
+    "en": "Are “ga” and “wa” different?",
+    "ru": "«Га» и «ва» отличаются?",
+    "zh": "「が」和「は」有区别吗？",
+    "ja": "「が」と「は」は、ちがいますか？",
+    "romaji": "'Ga' to 'wa' wa, chigaimasu ka?"
+  },
+  "sl3.s2_a2": {
+    "en": "Yes. When you first say that a thing exists, you use “ga.” For something already under discussion, you use “wa.” We'll study this in detail later.",
+    "ru": "Да. Когда впервые говорят, что предмет существует, используют «га». Для того, что уже обсуждается, используют «ва». Позже мы изучим это подробнее.",
+    "zh": "有区别。第一次说出某处有某物时，用「が」。已经是话题的东西，则用「は」。以后我们再详细学习。",
+    "ja": "はい。ものが、あることを、はじめて言うときは、「が」を使います。すでに話題のものは、「は」を使います。あとで、くわしく勉強しますよ。",
+    "romaji": "Hai. Mono ga, aru koto o, hajimete iu toki wa, 'ga' o tsukaimasu. Sude ni wadai no mono wa, 'wa' o tsukaimasu. Ato de, kuwashiku benkyou shimasu yo."
+  },
+  "sl3.p2_prompt": {
+    "en": "Now let's practice. There is one notebook on the desk in front of you. Please tell Ken about it. What do you say?",
+    "ru": "Теперь практика. На столе перед вами лежит одна тетрадь. Скажите об этом Кену. Что вы скажете?",
+    "zh": "现在来练习。你面前的桌上有一本笔记本。请告诉健这件事。你会怎么说？",
+    "ja": "では、練習です。あなたの前の机の上に、ノートが一冊あります。ケンさんに、それを教えてください。何と言いますか？",
+    "romaji": "Dewa, renshuu desu. Anata no mae no tsukue no ue ni, nooto ga issatsu arimasu. Ken-san ni, sore o oshiete kudasai. Nan to iimasu ka?"
+  },
+  "sl3.c2_natural": {
+    "en": "“There is a notebook on the desk.”",
+    "ru": "«На столе лежит тетрадь».",
+    "zh": "“桌上有一本笔记本。”",
+    "ja": "「机の上に、ノートがあります。」",
+    "romaji": "'Tsukue no ue ni, nooto ga arimasu.'"
+  },
+  "sl3.c2_formal": {
+    "en": "“On the desk, there is a notebook, indeed.”",
+    "ru": "«На столе, соблаговолите видеть, находится одна тетрадь».",
+    "zh": "“桌上有一本笔记本。”",
+    "ja": "「机上に、ノートが一冊、ございます。」",
+    "romaji": "'Kijou ni, nooto ga issatsu, gozaimasu.'"
+  },
+  "sl3.c2_mistake": {
+    "en": "“At the desk (doing something), a notebook exists.”",
+    "ru": "«За столом (при действии) существует тетрадь».",
+    "zh": "“在桌上（做某动作），有笔记本。”（误用了で）",
+    "ja": "「机の上で、ノートがあります。」",
+    "romaji": "'Tsukue no ue de, nooto ga arimasu.'"
+  },
+  "sl3.c2_own": {
+    "en": "“There is a notebook on the desk. Is it yours, Ken?”",
+    "ru": "«На столе лежит тетрадь. Она ваша, Кен?»",
+    "zh": "“桌上有一本笔记本。是健的吗？”",
+    "ja": "「机の上に、ノートがあります。ケンさんのですか？」",
+    "romaji": "'Tsukue no ue ni, nooto ga arimasu. Ken-san no desu ka?'"
+  },
+  "sl3.c2_min": {
+    "en": "“Desk... notebook... there is...”",
+    "ru": "«Стол… тетрадь… есть…»",
+    "zh": "“桌子……笔记本……有……”",
+    "ja": "「机…ノート…あります…」",
+    "romaji": "'Tsukue... nooto... arimasu...'"
+  },
+  "sl3.p2_nat_ken": {
+    "en": "Oh, that's my notebook. Thank you.",
+    "ru": "Ах, это моя тетрадь. Спасибо.",
+    "zh": "啊，是我的笔记本。谢谢。",
+    "ja": "あ、ぼくのノートです。ありがとうございます。",
+    "romaji": "A, boku no nooto desu. Arigatou gozaimasu."
+  },
+  "sl3.p2_form_mei": {
+    "en": "Ha, that's a difficult way to say it. “Tsukue no ue ni, nooto ga arimasu” is fine.",
+    "ru": "Ха-ха, какой сложный оборот. Достаточно «цукуэ но уэ ни, ното га аримас».",
+    "zh": "呵呵，这个说法太难了。说「机の上に、ノートがあります」就好。",
+    "ja": "ふふ、むずかしい言い方ですね。「机の上に、ノートがあります」で、いいですよ。",
+    "romaji": "Fufu, muzukashii iikata desu ne. 'Tsukue no ue ni, nooto ga arimasu' de, ii desu yo."
+  },
+  "sl3.p2_mis_ken": {
+    "en": "Close. “De” marks a place where you do something. When a thing exists somewhere, you use “ni.”",
+    "ru": "Почти. «Дэ» обозначает место, где что-то делают. Когда предмет где-то находится, используют «ни».",
+    "zh": "很接近。「で」是在某处做某事时的地点。表示东西存在于某处时，要用「に」。",
+    "ja": "惜しいです。「で」は、そこで何かをするときの場所です。ものが、あるときは、「に」を使います。",
+    "romaji": "Oshii desu. 'De' wa, soko de nani ka o suru toki no basho desu. Mono ga, aru toki wa, 'ni' o tsukaimasu."
+  },
+  "sl3.p2_mis_retry": {
+    "en": "Oh, there is a notebook on the desk.",
+    "ru": "Ой, на столе лежит тетрадь.",
+    "zh": "啊，桌上有一本笔记本。",
+    "ja": "あっ、机の上に、ノートがあります。",
+    "romaji": "A, tsukue no ue ni, nooto ga arimasu."
+  },
+  "sl3.p2_mis_relief": {
+    "en": "Yes, that's it! With “ni,” it's perfect.",
+    "ru": "Да, именно так! С «ни» всё отлично.",
+    "zh": "对，就是这个！用「に」就完美了。",
+    "ja": "はい、それです！「に」で、ばっちりです。",
+    "romaji": "Hai, sore desu! 'Ni' de, batchiri desu."
+  },
+  "sl3.p2_own_ken": {
+    "en": "Yes, it's mine. I forgot it here yesterday.",
+    "ru": "Да, моя. Я забыл её здесь вчера.",
+    "zh": "是的，是我的。昨天忘在这里了。",
+    "ja": "はい、ぼくのです。昨日、ここに忘れました。",
+    "romaji": "Hai, boku no desu. Kinou, koko ni wasuremashita."
+  },
+  "sl3.p2_min_tanaka": {
+    "en": "I understand. Next time, try a full sentence: “tsukue no ue ni, nooto ga arimasu.”",
+    "ru": "Понимаю. В следующий раз скажите целое предложение: «цукуэ но уэ ни, ното га аримас».",
+    "zh": "我明白。下次试着说完整的句子：「机の上に、ノートがあります」。",
+    "ja": "分かりますよ。次は、「机の上に、ノートがあります」と、文で言ってみましょう。",
+    "romaji": "Wakarimasu yo. Tsugi wa, 'tsukue no ue ni, nooto ga arimasu' to, bun de itte mimashou."
+  },
+  "sl3.s3_neko": {
+    "en": "Look! There's a cat by the window.",
+    "ru": "Смотрите! У окна кошка.",
+    "zh": "你们看！窗边有一只猫。",
+    "ja": "見てください！窓のそばに、ねこがいます。",
+    "romaji": "Mite kudasai! Mado no soba ni, neko ga imasu."
+  },
+  "sl3.s3_intro": {
+    "en": "When a person or an animal is in a place, you use “imasu.” The pattern is “~ ni ~ ga imasu.”",
+    "ru": "Когда человек или животное находится где-то, используют «имас». Форма: «~ ни ~ га имас».",
+    "zh": "人或动物在某处时，用「います」。句型是「〜に〜がいます」。",
+    "ja": "人や動物が、そこにいるときは、「います」を使います。「〜に〜がいます」の形です。",
+    "romaji": "Hito ya doubutsu ga, soko ni iru toki wa, 'imasu' o tsukaimasu. '~ ni ~ ga imasu' no katachi desu."
+  },
+  "sl3.s3_ex": {
+    "en": "There is a cat by the window. In the classroom, there are a teacher and students.",
+    "ru": "У окна кошка. В классе находятся учитель и ученики.",
+    "zh": "窗边有猫。教室里有老师和学生。",
+    "ja": "窓のそばに、ねこがいます。教室に、先生と学生がいます。",
+    "romaji": "Mado no soba ni, neko ga imasu. Kyoushitsu ni, sensei to gakusei ga imasu."
+  },
+  "sl3.s3_q1": {
+    "en": "For flowers, is it “arimasu” or “imasu”?",
+    "ru": "Для цветов — «аримас» или «имас»?",
+    "zh": "花是用「あります」还是「います」？",
+    "ja": "花は、「あります」ですか？「います」ですか？",
+    "romaji": "'Hana' wa, 'arimasu' desu ka? 'Imasu' desu ka?"
+  },
+  "sl3.s3_a1": {
+    "en": "For flowers, it is “arimasu.” Things that don't move take “arimasu.” People and animals take “imasu.”",
+    "ru": "Для цветов — «аримас». Для неподвижных предметов — «аримас». Для людей и животных — «имас».",
+    "zh": "花用「あります」。不会动的东西用「あります」。人和动物用「います」。",
+    "ja": "花は、「あります」です。動かないものは、「あります」。人と動物は、「います」です。",
+    "romaji": "Hana wa, 'arimasu' desu. Ugokanai mono wa, 'arimasu'. Hito to doubutsu wa, 'imasu' desu."
+  },
+  "sl3.s3_q2": {
+    "en": "How do you say it when nobody is there?",
+    "ru": "Как сказать, если там никого нет?",
+    "zh": "没有人的时候怎么说？",
+    "ja": "だれもいないときは、どう言いますか？",
+    "romaji": "Dare mo inai toki wa, dou iimasu ka?"
+  },
+  "sl3.s3_a2": {
+    "en": "You say “imasen.” It is used like “kyoushitsu ni, dare mo imasen.”",
+    "ru": "Говорят «имасэн». Используют, например, «кёсицу ни, дарэ мо имасэн».",
+    "zh": "说「いません」。用法如「教室に、だれもいません」。",
+    "ja": "「いません」と言います。「教室に、だれもいません」のように使います。",
+    "romaji": "'Imasen' to iimasu. 'Kyoushitsu ni, dare mo imasen' no you ni tsukaimasu."
+  },
+  "sl3.p3_prompt": {
+    "en": "Now let's practice. There is a cat by the window. Please tell Mei about it. What do you say?",
+    "ru": "Теперь практика. У окна кошка. Скажите об этом Мэй. Что вы скажете?",
+    "zh": "现在来练习。窗边有一只猫。请告诉小梅这件事。你会怎么说？",
+    "ja": "では、練習です。窓のそばに、ねこがいます。メイさんに、それを教えてください。何と言いますか？",
+    "romaji": "Dewa, renshuu desu. Mado no soba ni, neko ga imasu. Mei-san ni, sore o oshiete kudasai. Nan to iimasu ka?"
+  },
+  "sl3.c3_natural": {
+    "en": "“There is a cat by the window.”",
+    "ru": "«У окна кошка».",
+    "zh": "“窗边有一只猫。”",
+    "ja": "「窓のそばに、ねこがいます。」",
+    "romaji": "'Mado no soba ni, neko ga imasu.'"
+  },
+  "sl3.c3_formal": {
+    "en": "“By the window, a cat is present.”",
+    "ru": "«У окна изволит находиться одна кошка».",
+    "zh": "“窗边有一只猫在。”",
+    "ja": "「窓辺に、猫が一匹、おります。」",
+    "romaji": "'Madobe ni, neko ga ippiki, orimasu.'"
+  },
+  "sl3.c3_mistake": {
+    "en": "“By the window, there is a cat (as an object).”",
+    "ru": "«У окна есть кошка (как предмет)».",
+    "zh": "“窗边有猫。”（误用了あります）",
+    "ja": "「窓のそばに、ねこがあります。」",
+    "romaji": "'Mado no soba ni, neko ga arimasu.'"
+  },
+  "sl3.c3_own": {
+    "en": "“There is a cat by the window. It is very cute.”",
+    "ru": "«У окна кошка. Она очень милая».",
+    "zh": "“窗边有一只猫。非常可爱。”",
+    "ja": "「窓のそばに、ねこがいます。とても、かわいいです。」",
+    "romaji": "'Mado no soba ni, neko ga imasu. Totemo, kawaii desu.'"
+  },
+  "sl3.c3_min": {
+    "en": "“Cat... there is...”",
+    "ru": "«Кошка… есть…»",
+    "zh": "“猫……有……”",
+    "ja": "「ねこ…います…」",
+    "romaji": "'Neko... imasu...'"
+  },
+  "sl3.p3_nat_mei": {
+    "en": "You're right! Let's watch it quietly.",
+    "ru": "Точно! Давайте посмотрим тихонько.",
+    "zh": "真的！我们安静地看看吧。",
+    "ja": "本当だ！しずかに、見ましょう。",
+    "romaji": "Hontou da! Shizuka ni, mimashou."
+  },
+  "sl3.p3_form_yuki": {
+    "en": "Ha, the cat will be startled. “Neko ga imasu” is enough.",
+    "ru": "Ха-ха, кошка испугается. Достаточно «неко га имас».",
+    "zh": "呵呵，猫会吓一跳的。说「ねこがいます」就够了。",
+    "ja": "ふふ、ねこが、びっくりしますよ。「ねこがいます」で、じゅうぶんです。",
+    "romaji": "Fufu, neko ga, bikkuri shimasu yo. 'Neko ga imasu' de, juubun desu."
+  },
+  "sl3.p3_mis_ken": {
+    "en": "Haha, cats move. Animals take “imasu.” “Arimasu” is for things that don't move.",
+    "ru": "Ха-ха, кошки двигаются. Животные — «имас». «Аримас» — для неподвижных предметов.",
+    "zh": "哈哈，猫是会动的。动物要用「います」。「あります」是给不会动的东西用的。",
+    "ja": "あはは、ねこは、動きますよ。動物は、「います」です。「あります」は、動かないものですよ。",
+    "romaji": "Ahaha, neko wa, ugokimasu yo. Doubutsu wa, 'imasu' desu. 'Arimasu' wa, ugokanai mono desu yo."
+  },
+  "sl3.p3_mis_retry": {
+    "en": "Oh, there is a cat by the window.",
+    "ru": "Ой, у окна кошка.",
+    "zh": "啊，窗边有一只猫。",
+    "ja": "あっ、窓のそばに、ねこがいます。",
+    "romaji": "A, mado no soba ni, neko ga imasu."
+  },
+  "sl3.p3_mis_relief": {
+    "en": "Yes, that's it! “Imasu” fits perfectly.",
+    "ru": "Да, именно так! «Имас» подходит идеально.",
+    "zh": "对，就是这个！用「います」正合适。",
+    "ja": "はい、それです！「います」で、ぴったりです。",
+    "romaji": "Hai, sore desu! 'Imasu' de, pittari desu."
+  },
+  "sl3.p3_own_yuki": {
+    "en": "Right? It's a favorite of this school.",
+    "ru": "Правда? Она любимица этой школы.",
+    "zh": "是吧。它可是这所学校的大明星。",
+    "ja": "そうですよね。この学校の、人気者なんです。",
+    "romaji": "Sou desu yo ne. Kono gakkou no, ninkimono nan desu."
+  },
+  "sl3.p3_min_mei": {
+    "en": "Ha, I understand. Try saying “mado no soba ni, neko ga imasu.”",
+    "ru": "Ха-ха, понимаю. Попробуйте сказать «мадо но соба ни, неко га имас».",
+    "zh": "呵呵，我明白。试着说「窓のそばに、ねこがいます」吧。",
+    "ja": "ふふ、分かりますよ。「窓のそばに、ねこがいます」と、言ってみましょう。",
+    "romaji": "Fufu, wakarimasu yo. 'Mado no soba ni, neko ga imasu' to, itte mimashou."
+  },
+  "sl3.s4_intro": {
+    "en": "The last one is the form for asking where something is. You ask, “~ wa, doko ni arimasu ka” or “~ wa, doko ni imasu ka.”",
+    "ru": "Последняя — форма для вопроса о местонахождении. Спрашивают: «~ ва, доко ни аримас ка» или «~ ва, доко ни имас ка».",
+    "zh": "最后是询问地点的句型。问「〜は、どこにありますか」或「〜は、どこにいますか」。",
+    "ja": "最後は、場所をたずねる形です。「〜は、どこにありますか」「〜は、どこにいますか」と聞きます。",
+    "romaji": "Saigo wa, basho o tazuneru katachi desu. '~ wa, doko ni arimasu ka' '~ wa, doko ni imasu ka' to kikimasu."
+  },
+  "sl3.s4_ex": {
+    "en": "The answers are “~ wa, ~ ni arimasu” and “~ wa, ~ ni imasu.” The cat is by the window. The book is on the desk.",
+    "ru": "Ответы: «~ ва, ~ ни аримас» и «~ ва, ~ ни имас». Кошка у окна. Книга на столе.",
+    "zh": "回答是「〜は、〜にあります」「〜は、〜にいます」。猫在窗边。书在桌上。",
+    "ja": "答えは、「〜は、〜にあります」「〜は、〜にいます」です。ねこは、窓のそばにいます。本は、机の上にあります。",
+    "romaji": "Kotae wa, '~ wa, ~ ni arimasu' '~ wa, ~ ni imasu' desu. Neko wa, mado no soba ni imasu. Hon wa, tsukue no ue ni arimasu."
+  },
+  "sl3.s4_pos": {
+    "en": "When you describe a place in detail, “ue,” “shita,” “naka,” “mae,” and “tonari” are handy. They are used like “tsukue no ue,” “kaban no naka,” and “eki no tonari.”",
+    "ru": "Когда нужно точнее описать место, удобны слова «уэ», «сита», «нака», «маэ» и «тонари». Используются так: «цукуэ но уэ», «кабан но нака», «эки но тонари».",
+    "zh": "要更细致地说明地点时，「上」「下」「中」「前」「となり」很方便。用法如「机の上」「かばんの中」「駅のとなり」。",
+    "ja": "場所を細かく言うときは、「上」「下」「中」「前」「となり」が、便利です。「机の上」「かばんの中」「駅のとなり」のように使います。",
+    "romaji": "Basho o komakaku iu toki wa, 'ue' 'shita' 'naka' 'mae' 'tonari' ga, benri desu. 'Tsukue no ue' 'kaban no naka' 'eki no tonari' no you ni tsukaimasu."
+  },
+  "sl3.s4_q": {
+    "en": "Are “doko desu ka” and “doko ni arimasu ka” the same?",
+    "ru": "«Доко дэс ка» и «доко ни аримас ка» — это одно и то же?",
+    "zh": "「どこですか」和「どこにありますか」一样吗？",
+    "ja": "「どこですか」と、「どこにありますか」は、同じですか？",
+    "romaji": "'Doko desu ka' to, 'doko ni arimasu ka' wa, onaji desu ka?"
+  },
+  "sl3.s4_a": {
+    "en": "They are almost the same. “Toire wa, doko desu ka?” is also very common. “Doko ni arimasu ka?” feels like you are also asking whether it exists.",
+    "ru": "Они почти одинаковы. «Тойрэ ва, доко дэс ка?» тоже очень часто используют. «Доко ни аримас ка?» звучит так, будто вы ещё и спрашиваете, есть ли оно вообще.",
+    "zh": "几乎一样。「トイレは、どこですか？」也很常用。「どこにありますか？」给人的感觉是连“有没有”也在问。",
+    "ja": "ほとんど同じです。「トイレは、どこですか？」も、よく使います。「どこにありますか？」のほうが、「あるかどうか」も、聞いている感じです。",
+    "romaji": "Hotondo onaji desu. 'Toire wa, doko desu ka?' mo, yoku tsukaimasu. 'Doko ni arimasu ka?' no hou ga, 'aru ka dou ka' mo, kiite iru kanji desu."
+  },
+  "sl3.p4_prompt": {
+    "en": "Now for the last practice. You want to go to the restroom. Please ask Tanaka-sensei where it is. What do you say?",
+    "ru": "Теперь последняя практика. Вам нужно в туалет. Спросите у Танаки-сэнсэя, где он находится. Что вы скажете?",
+    "zh": "最后一个练习。你想去洗手间。请向田中老师询问洗手间在哪里。你会怎么说？",
+    "ja": "では、最後の練習です。あなたは、トイレに行きたいです。田中先生に、トイレの場所を聞いてください。何と言いますか？",
+    "romaji": "Dewa, saigo no renshuu desu. Anata wa, toire ni ikitai desu. Tanaka-sensei ni, toire no basho o kiite kudasai. Nan to iimasu ka?"
+  },
+  "sl3.c4_natural": {
+    "en": "“Excuse me, where is the restroom?”",
+    "ru": "«Извините, где находится туалет?»",
+    "zh": "“不好意思，洗手间在哪里？”",
+    "ja": "「すみません、トイレは、どこにありますか？」",
+    "romaji": "'Sumimasen, toire wa, doko ni arimasu ka?'"
+  },
+  "sl3.c4_formal": {
+    "en": "“Pardon me, but might you kindly tell me the location of the lavatory?”",
+    "ru": "«Прошу прощения, не могли бы вы любезно указать местонахождение уборной?»",
+    "zh": "“打扰了，能否请您告诉我洗手间的位置？”",
+    "ja": "「恐れ入りますが、お手洗いの場所を、お教えいただけますでしょうか。」",
+    "romaji": "'Osoreirimasu ga, otearai no basho o, oshie itadakemasu deshou ka.'"
+  },
+  "sl3.c4_mistake": {
+    "en": "“Excuse me, where is the restroom? (asked with imasu)”",
+    "ru": "«Извините, где находится туалет? (с «имас»)»",
+    "zh": "“不好意思，洗手间在哪里？”（误用了います）",
+    "ja": "「すみません、トイレは、どこにいますか？」",
+    "romaji": "'Sumimasen, toire wa, doko ni imasu ka?'"
+  },
+  "sl3.c4_own": {
+    "en": "“Excuse me, where is the restroom? Is there one near here?”",
+    "ru": "«Извините, где туалет? Есть ли он где-нибудь рядом?»",
+    "zh": "“不好意思，洗手间在哪里？这附近有吗？”",
+    "ja": "「すみません、トイレは、どこですか？この近くに、ありますか？」",
+    "romaji": "'Sumimasen, toire wa, doko desu ka? Kono chikaku ni, arimasu ka?'"
+  },
+  "sl3.c4_min": {
+    "en": "“Um... restroom... where...”",
+    "ru": "«Э-э… туалет… где…»",
+    "zh": "“呃……洗手间……哪里……”",
+    "ja": "「あの…トイレ…どこ…」",
+    "romaji": "'Ano... toire... doko...'"
+  },
+  "sl3.p4_nat_tanaka": {
+    "en": "The restroom is over there. It is next to the library.",
+    "ru": "Туалет вон там. Он рядом с библиотекой.",
+    "zh": "洗手间在那边。就在图书室旁边。",
+    "ja": "トイレは、あそこにあります。図書室の、となりです。",
+    "romaji": "Toire wa, asoko ni arimasu. Toshoshitsu no, tonari desu."
+  },
+  "sl3.p4_form_ken": {
+    "en": "Haha, that sounds like hotel etiquette. “Toire wa, doko ni arimasu ka?” is fine.",
+    "ru": "Ха-ха, как этикет в отеле. Достаточно «тойрэ ва, доко ни аримас ка?».",
+    "zh": "哈哈，像酒店礼仪似的。说「トイレは、どこにありますか？」就好。",
+    "ja": "あはは、ホテルのマナーみたいです。「トイレは、どこにありますか？」で、いいですよ。",
+    "romaji": "Ahaha, hoteru no manaa mitai desu. 'Toire wa, doko ni arimasu ka?' de, ii desu yo."
+  },
+  "sl3.p4_mis_mei": {
+    "en": "Ha, a restroom isn't a person. Things and places take “arimasu.”",
+    "ru": "Ха-ха, туалет — не человек. Предметы и места — «аримас».",
+    "zh": "呵呵，洗手间又不是人。东西和地方要用「あります」。",
+    "ja": "ふふ、トイレは、人ではありませんよ。ものや場所は、「あります」です。",
+    "romaji": "Fufu, toire wa, hito de wa arimasen yo. Mono ya basho wa, 'arimasu' desu."
+  },
+  "sl3.p4_mis_retry": {
+    "en": "Oh, where is the restroom?",
+    "ru": "Ой, где находится туалет?",
+    "zh": "啊，洗手间在哪里？",
+    "ja": "あっ、トイレは、どこにありますか？",
+    "romaji": "A, toire wa, doko ni arimasu ka?"
+  },
+  "sl3.p4_mis_relief": {
+    "en": "The restroom is over there. It is next to the library.",
+    "ru": "Туалет вон там. Он рядом с библиотекой.",
+    "zh": "洗手间在那边。就在图书室旁边。",
+    "ja": "トイレは、あそこにあります。図書室の、となりです。",
+    "romaji": "Toire wa, asoko ni arimasu. Toshoshitsu no, tonari desu."
+  },
+  "sl3.p4_own_tanaka": {
+    "en": "Yes, there is one. It is next to the library over there.",
+    "ru": "Да, есть. Он рядом с библиотекой вон там.",
+    "zh": "有的。就在那边图书室的旁边。",
+    "ja": "はい、あります。あそこの、図書室の、となりです。",
+    "romaji": "Hai, arimasu. Asoko no, toshoshitsu no, tonari desu."
+  },
+  "sl3.p4_min_yuki": {
+    "en": "I understand you're in a hurry. But let's try asking, “toire wa, doko ni arimasu ka?”",
+    "ru": "Я понимаю, что вы торопитесь. Но попробуйте спросить: «тойрэ ва, доко ни аримас ка?».",
+    "zh": "我理解你很着急。不过还是试着问：「トイレは、どこにありますか？」",
+    "ja": "急いでいる気持ちは、分かります。でも、「トイレは、どこにありますか？」と、聞いてみましょう。",
+    "romaji": "Isoide iru kimochi wa, wakarimasu. Demo, 'toire wa, doko ni arimasu ka?' to, kiite mimashou."
+  },
+  "sl3.talk_open": {
+    "en": "Now let's talk. Out of today's four forms, which one is the easiest to use?",
+    "ru": "Теперь поговорим. Какая из сегодняшних четырёх форм кажется вам самой удобной?",
+    "zh": "现在来聊聊。今天这四个句型里，你觉得哪一个最好用？",
+    "ja": "では、話しましょう。今日の四つの形の中で、いちばん使いやすい形は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no yottsu no katachi no naka de, ichiban tsukaiyasui katachi wa, dore desu ka?"
+  },
+  "sl3.talk_mei": {
+    "en": "For me, it's “~ wa, doko ni arimasu ka.” Even in a place I don't know, asking puts my mind at ease.",
+    "ru": "Для меня это «~ ва, доко ни аримас ка». Даже в незнакомом месте, если спросить, становится спокойнее.",
+    "zh": "我觉得是「〜は、どこにありますか」。即使在不熟悉的地方，问一问就安心了。",
+    "ja": "わたしは、「〜は、どこにありますか」です。知らない場所でも、聞けば、安心です。",
+    "romaji": "Watashi wa, '~ wa, doko ni arimasu ka' desu. Shiranai basho demo, kikeba, anshin desu."
+  },
+  "sl3.talk_ken": {
+    "en": "For me, it's choosing between “arimasu” and “imasu.” I might still make mistakes sometimes.",
+    "ru": "Для меня это выбор между «аримас» и «имас». Возможно, я ещё иногда буду ошибаться.",
+    "zh": "我觉得是「あります」和「います」的区分。我可能有时还会弄错。",
+    "ja": "ぼくは、「あります」と「います」の使い分けです。まだ、ときどき、まちがえそうです。",
+    "romaji": "Boku wa, 'arimasu' to 'imasu' no tsukaiwake desu. Mada, tokidoki, machigaesou desu."
+  },
+  "sl3.talk_yuki": {
+    "en": "For me, it's “~ ni ~ ga imasu.” I can talk about the cat right away.",
+    "ru": "Для меня это «~ ни ~ га имас». Я сразу могу рассказать про кошку.",
+    "zh": "我觉得是「〜に〜がいます」。马上就能聊猫的事了。",
+    "ja": "わたしは、「〜に〜がいます」です。ねこの話が、すぐできます。",
+    "romaji": "Watashi wa, '~ ni ~ ga imasu' desu. Neko no hanashi ga, sugu dekimasu."
+  },
+  "sl3.talk_tanaka": {
+    "en": "Lovely. Things take “arimasu,” and people and animals take “imasu.” Let's start by firmly learning these two.",
+    "ru": "Прекрасно. Предметы — «аримас», люди и животные — «имас». Давайте для начала как следует запомним эти два слова.",
+    "zh": "真好。东西用「あります」，人和动物用「います」。我们先把这两个牢牢记住吧。",
+    "ja": "すてきですね。ものは「あります」、人と動物は「います」。この二つを、まず、しっかり覚えましょう。",
+    "romaji": "Suteki desu ne. Mono wa 'arimasu', hito to doubutsu wa 'imasu'. Kono futatsu o, mazu, shikkari oboemashou."
+  },
+  "sl3.talk_player": {
+    "en": "(Koko, soko, asoko, doko. Arimasu, imasu. Once I understood the words for places, the inside of the school felt so much closer. Tomorrow, I'll try describing the things and people at home in Japanese.)",
+    "ru": "(Коко, соко, асоко, доко. Аримас, имас. Когда я понял слова для мест, школа стала гораздо ближе. Завтра попробую по-японски описать предметы и людей у себя дома.)",
+    "zh": "（ここ、そこ、あそこ、どこ。あります、います。弄懂了表示地点的词之后，学校里的一切一下子变得亲近了。明天，我要试着用日语说说家里的东西和人。）",
+    "ja": "（ここ、そこ、あそこ、どこ。あります、います。場所のことばが分かると、学校の中が、ぐっと近くなった。あしたは、家の中の、ものと人を、日本語で言ってみよう。）",
+    "romaji": "(Koko, soko, asoko, doko. Arimasu, imasu. Basho no kotoba ga wakaru to, gakkou no naka ga, gutto chikaku natta. Ashita wa, ie no naka no, mono to hito o, nihongo de itte miyou.)"
+  },
+  "sl3.talk_close": {
+    "en": "Good lesson, everyone. In the next class, let's ask more questions using “nani,” “dare,” and “itsu.”",
+    "ru": "Хороший урок, все. На следующем уроке будем задавать больше вопросов с «нани», «дарэ» и «ицу».",
+    "zh": "各位，这节课很棒。下节课我们用「何」「だれ」「いつ」来问更多的问题吧。",
+    "ja": "みなさん、いいレッスンでした。次の授業では、「何」「だれ」「いつ」で、もっと質問をしてみましょう。",
+    "romaji": "Minasan, ii ressun deshita. Tsugi no jugyou de wa, 'nani' 'dare' 'itsu' de, motto shitsumon o shite mimashou."
+  },
+  "sl3.complete": {
+    "en": "End of Sentence Lesson 3.",
+    "ru": "Конец урока предложений 3.",
+    "zh": "句型课 3 结束。",
+    "ja": "文型レッスン3、おわり。",
+    "romaji": "Bunkei ressun san, owari."
+  }
+}

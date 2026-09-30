@@ -1,0 +1,646 @@
+{
+  "sl1.title": {
+    "en": "Your First Sentence: X wa Y desu",
+    "ru": "Ваше первое предложение: X ва Y дэс",
+    "zh": "你的第一个句子：〜は〜です",
+    "ja": "はじめの一文：〜は〜です",
+    "romaji": "Hajime no ichibun: ~ wa ~ desu"
+  },
+  "sl1.subtitle": {
+    "en": "The basic pattern for introducing yourself",
+    "ru": "Базовая форма самопредставления",
+    "zh": "自我介绍的基本句型",
+    "ja": "自己紹介の基本の形",
+    "romaji": "Jikoshoukai no kihon no katachi"
+  },
+  "sl1.description": {
+    "en": "In the first class of the new term, build self-introduction sentences with four patterns: X wa Y desu, X wa Y ja arimasen, X wa Y desu ka, and noun no noun.",
+    "ru": "На первом уроке нового семестра составьте предложения для самопредставления с помощью четырёх форм: X ва Y дэс, X ва Y дзя аримасэн, X ва Y дэс ка и существительное но существительное.",
+    "zh": "在新学期的第一节课上，用四个句型造自我介绍的句子：〜は〜です、〜じゃありません、〜ですか、〜の〜。",
+    "ja": "新学期の最初の授業で、「〜は〜です」「〜じゃありません」「〜ですか」「〜の〜」の四つの形を使って、自己紹介の文を作ります。",
+    "romaji": "Shingakki no saisho no jugyou de, '~ wa ~ desu' '~ ja arimasen' '~ desu ka' '~ no ~' no yottsu no katachi o tsukatte, jikoshoukai no bun o tsukurimasu."
+  },
+  "sl1.pattern.1": {
+    "en": "X is Y (X wa Y desu)",
+    "ru": "X — это Y (X ва Y дэс)",
+    "zh": "X是Y（〜は〜です）",
+    "ja": "〜は〜です",
+    "romaji": "~ wa ~ desu"
+  },
+  "sl1.pattern.2": {
+    "en": "X is not Y (X wa Y ja arimasen)",
+    "ru": "X — не Y (X ва Y дзя аримасэн)",
+    "zh": "X不是Y（〜は〜じゃありません）",
+    "ja": "〜は〜じゃありません",
+    "romaji": "~ wa ~ ja arimasen"
+  },
+  "sl1.pattern.3": {
+    "en": "Is X Y? (X wa Y desu ka)",
+    "ru": "X — это Y? (X ва Y дэс ка)",
+    "zh": "X是Y吗？（〜は〜ですか）",
+    "ja": "〜は〜ですか",
+    "romaji": "~ wa ~ desu ka"
+  },
+  "sl1.pattern.4": {
+    "en": "noun no noun (of / 's)",
+    "ru": "существительное но существительное («из», «-ский»)",
+    "zh": "名词の名词（……的……）",
+    "ja": "〜の〜",
+    "romaji": "~ no ~"
+  },
+  "sl1.setup": {
+    "en": "The first class of the new term. Spring light streams in through the classroom windows. Tanaka-sensei writes one big sentence on the blackboard.",
+    "ru": "Первый урок нового семестра. Через окна класса льётся весенний свет. Танака-сэнсэй крупно пишет на доске одно предложение.",
+    "zh": "新学期的第一节课。春天的阳光从教室的窗户照进来。田中老师在黑板上大大地写下了一个句子。",
+    "ja": "新学期の、最初の授業。教室のまどから、春の光が入っている。田中先生が、黒板に、大きく一つの文を書いた。",
+    "romaji": "Shingakki no, saisho no jugyou. Kyoushitsu no mado kara, haru no hikari ga haitte iru. Tanaka-sensei ga, kokuban ni, ookiku hitotsu no bun o kaita."
+  },
+  "sl1.t_intro": {
+    "en": "Good morning, everyone. Today we will study a basic Japanese sentence. With this one form, you can introduce yourself.",
+    "ru": "Всем доброе утро. Сегодня мы изучим базовое японское предложение. С помощью этой единственной формы вы сможете представиться.",
+    "zh": "各位早上好。今天我们来学习日语的基本句子。用这一个句型，就能做自我介绍。",
+    "ja": "みなさん、おはようございます。今日は、日本語の基本の文を勉強します。この一つの形で、自己紹介ができます。",
+    "romaji": "Minasan, ohayou gozaimasu. Kyou wa, nihongo no kihon no bun o benkyou shimasu. Kono hitotsu no katachi de, jikoshoukai ga dekimasu."
+  },
+  "sl1.s1_model": {
+    "en": "I am Tanaka. I am a teacher.",
+    "ru": "Я Танака. Я учитель.",
+    "zh": "我是田中。我是老师。",
+    "ja": "私は、田中です。先生です。",
+    "romaji": "Watashi wa, Tanaka desu. Sensei desu."
+  },
+  "sl1.s1_ken": {
+    "en": "I am Ken. I am a student.",
+    "ru": "Я Кен. Я ученик.",
+    "zh": "我是健。我是学生。",
+    "ja": "ぼくは、ケンです。学生です。",
+    "romaji": "Boku wa, Ken desu. Gakusei desu."
+  },
+  "sl1.s1_mei": {
+    "en": "I am Mei. I am a student.",
+    "ru": "Я Мэй. Я ученица.",
+    "zh": "我是小梅。我是学生。",
+    "ja": "わたしは、メイです。学生です。",
+    "romaji": "Watashi wa, Mei desu. Gakusei desu."
+  },
+  "sl1.s1_break": {
+    "en": "The shape of the sentence is “~ wa ~ desu.” Before “wa” you place the person speaking or the topic. Before “desu” you place a name or an occupation.",
+    "ru": "Форма предложения — «~ ва ~ дэс». Перед «ва» ставят говорящего или тему. Перед «дэс» ставят имя или занятие.",
+    "zh": "句子的形式是「〜は〜です」。「は」前面放说话的人或话题。「です」前面放名字或职业。",
+    "ja": "文の形は、「〜は〜です」です。「は」の前に、話す人や、話題を置きます。「です」の前に、名前や、仕事を置きます。",
+    "romaji": "Bun no katachi wa, '~ wa ~ desu' desu. 'Wa' no mae ni, hanasu hito ya, wadai o okimasu. 'Desu' no mae ni, namae ya, shigoto o okimasu."
+  },
+  "sl1.s1_q1": {
+    "en": "Why is “は” read as “wa”?",
+    "ru": "Почему «は» читается как «ва»?",
+    "zh": "「は」为什么读作「わ」？",
+    "ja": "「は」は、どうして「わ」と読みますか？",
+    "romaji": "'Wa' wa, doushite 'wa' to yomimasu ka?"
+  },
+  "sl1.s1_a1": {
+    "en": "Within a sentence, the “は” that marks the topic is read “wa.” This is called a particle. At the start of a word, it is read normally as “ha.”",
+    "ru": "Внутри предложения «は», обозначающее тему, читается «ва». Это называется частицей. В начале слова оно читается как обычное «ха».",
+    "zh": "在句子里，表示话题的「は」读作「わ」。这叫助词。在词的开头，则按普通的「は」读。",
+    "ja": "文の中で、話題を表す「は」は、「わ」と読みます。これを、助詞と言います。ことばの始まりでは、ふつうに「は」と読みます。",
+    "romaji": "Bun no naka de, wadai o arawasu 'ha' wa, 'wa' to yomimasu. Kore o, joshi to iimasu. Kotoba no hajimari de wa, futsuu ni 'ha' to yomimasu."
+  },
+  "sl1.s1_q2": {
+    "en": "Do you always say “desu”?",
+    "ru": "«Дэс» говорят всегда?",
+    "zh": "「です」一定要说吗？",
+    "ja": "「です」は、いつも言いますか？",
+    "romaji": "'Desu' wa, itsumo iimasu ka?"
+  },
+  "sl1.s1_a2": {
+    "en": "When you speak politely, you add “desu.” In conversation with friends, you sometimes leave it out, as in “watashi, gakusei.”",
+    "ru": "Когда говорят вежливо, добавляют «дэс». В разговоре с друзьями его иногда опускают, например: «ватаси, гакусэй».",
+    "zh": "礼貌地说话时，要加上「です」。和朋友聊天时，有时会省略，比如说「私、学生」。",
+    "ja": "ていねいに話すときは、「です」をつけます。友達との会話では、「私、学生」のように、言わないこともあります。",
+    "romaji": "Teinei ni hanasu toki wa, 'desu' o tsukemasu. Tomodachi to no kaiwa de wa, 'watashi, gakusei' no you ni, iwanai koto mo arimasu."
+  },
+  "sl1.p1_prompt": {
+    "en": "Now it's your turn. Please introduce yourself to the class. What do you say?",
+    "ru": "Теперь ваша очередь. Представьтесь классу. Что вы скажете?",
+    "zh": "现在轮到你了。请向全班做自我介绍。你会怎么说？",
+    "ja": "では、あなたの番です。クラスのみんなに、自己紹介してください。何と言いますか？",
+    "romaji": "Dewa, anata no ban desu. Kurasu no minna ni, jikoshoukai shite kudasai. Nan to iimasu ka?"
+  },
+  "sl1.c1_natural": {
+    "en": "“Nice to meet you. I am ○○. I am a student.”",
+    "ru": "«Приятно познакомиться. Я ○○. Я ученик».",
+    "zh": "“初次见面。我是〇〇。我是学生。”",
+    "ja": "「はじめまして。私は〇〇です。学生です。」",
+    "romaji": "'Hajimemashite. Watashi wa marumaru desu. Gakusei desu.'"
+  },
+  "sl1.c1_formal": {
+    "en": "“I am called ○○. I am engaged in being a student. I humbly ask for your kindness.”",
+    "ru": "«Меня зовут ○○. Я являюсь учеником. Покорнейше прошу вашего расположения».",
+    "zh": "“我叫〇〇，目前是一名学生。请多多关照。”",
+    "ja": "「私は〇〇と申します。学生をしております。どうぞよろしくお願いいたします。」",
+    "romaji": "'Watashi wa marumaru to moushimasu. Gakusei o shite orimasu. Douzo yoroshiku onegai itashimasu.'"
+  },
+  "sl1.c1_mistake": {
+    "en": "“I am ○○. Student.”",
+    "ru": "«Я ○○. Ученик».",
+    "zh": "“我〇〇。学生。”",
+    "ja": "「私は〇〇。学生。」",
+    "romaji": "'Watashi wa marumaru. Gakusei.'"
+  },
+  "sl1.c1_own": {
+    "en": "“I am ○○. I am a student. I am Ken's friend.”",
+    "ru": "«Я ○○. Я ученик. Я друг Кена».",
+    "zh": "“我是〇〇。我是学生。我是健的朋友。”",
+    "ja": "「私は〇〇です。学生です。ケンさんの友達です。」",
+    "romaji": "'Watashi wa marumaru desu. Gakusei desu. Ken-san no tomodachi desu.'"
+  },
+  "sl1.c1_min": {
+    "en": "“I'm ○○...”",
+    "ru": "«Я ○○…»",
+    "zh": "“我是〇〇……”",
+    "ja": "「〇〇です…」",
+    "romaji": "'Marumaru desu...'"
+  },
+  "sl1.p1_nat_mei": {
+    "en": "Yes, well done! You said the “~ wa ~ desu” sentence properly.",
+    "ru": "Да, отлично! Вы правильно произнесли предложение «~ ва ~ дэс».",
+    "zh": "对，说得很好！「〜は〜です」这个句子你说对了。",
+    "ja": "はい、上手です！「〜は〜です」の文が、ちゃんと言えましたね。",
+    "romaji": "Hai, jouzu desu! '~ wa ~ desu' no bun ga, chanto iemashita ne."
+  },
+  "sl1.p1_form_ken": {
+    "en": "Haha, that sounds like a job interview. In class, “watashi wa ○○ desu” is enough.",
+    "ru": "Ха-ха, как на собеседовании. В классе достаточно «ватаси ва ○○ дэс».",
+    "zh": "哈哈，像公司面试一样。在班上说「私は〇〇です」就足够了。",
+    "ja": "あはは、会社の面接みたいです。クラスでは、「私は〇〇です」で、じゅうぶんですよ。",
+    "romaji": "Ahaha, kaisha no mensetsu mitai desu. Kurasu de wa, 'watashi wa marumaru desu' de, juubun desu yo."
+  },
+  "sl1.p1_mis_tanaka": {
+    "en": "Among friends, that's fine. But in the classroom, let's say “desu” politely. You say “watashi wa ○○ desu.”",
+    "ru": "Среди друзей — нормально. Но в классе давайте вежливо добавлять «дэс». Говорят «ватаси ва ○○ дэс».",
+    "zh": "对朋友来说可以。不过在教室里，要礼貌地加上「です」。说「私は〇〇です」。",
+    "ja": "友達なら、いいです。でも、教室では、ていねいに「です」を言いましょう。「私は〇〇です」と言います。",
+    "romaji": "Tomodachi nara, ii desu. Demo, kyoushitsu de wa, teinei ni 'desu' o iimashou. 'Watashi wa marumaru desu' to iimasu."
+  },
+  "sl1.p1_mis_retry": {
+    "en": "Oh, I am ○○. I am a student.",
+    "ru": "Ой, я ○○. Я ученик.",
+    "zh": "啊，我是〇〇。我是学生。",
+    "ja": "あっ、私は〇〇です。学生です。",
+    "romaji": "A, watashi wa marumaru desu. Gakusei desu."
+  },
+  "sl1.p1_mis_relief": {
+    "en": "Yes, that's it. With “desu,” it is polite and easy to listen to.",
+    "ru": "Да, именно так. С «дэс» речь вежливая и приятная на слух.",
+    "zh": "对，就是这个。有「です」，就显得礼貌，也容易听懂。",
+    "ja": "はい、それです。「です」があると、ていねいで、聞きやすいです。",
+    "romaji": "Hai, sore desu. 'Desu' ga aru to, teinei de, kikiyasui desu."
+  },
+  "sl1.p1_own_ken": {
+    "en": "My friend? I'm happy! Nice to meet you.",
+    "ru": "Друг? Я рад! Приятно познакомиться.",
+    "zh": "是我的朋友吗？我好高兴！请多关照。",
+    "ja": "ぼくの友達ですか？うれしいです！よろしくお願いします。",
+    "romaji": "Boku no tomodachi desu ka? Ureshii desu! Yoroshiku onegaishimasu."
+  },
+  "sl1.p1_min_yuki": {
+    "en": "Your name got across just fine. Next time, try adding “gakusei desu” too.",
+    "ru": "Имя передано хорошо. В следующий раз попробуйте добавить ещё «гакусэй дэс».",
+    "zh": "名字已经清楚地传达了。下次试着再加上「学生です」。",
+    "ja": "名前は、ちゃんと伝わりましたよ。次は、「学生です」も、つけてみましょう。",
+    "romaji": "Namae wa, chanto tsutawarimashita yo. Tsugi wa, 'gakusei desu' mo, tsukete mimashou."
+  },
+  "sl1.s2_intro": {
+    "en": "Next is “~ wa ~ ja arimasen.” It is the form you use when you want to say “that's not so.”",
+    "ru": "Дальше — «~ ва ~ дзя аримасэн». Это форма, когда хотят сказать «это не так».",
+    "zh": "接下来是「〜は〜じゃありません」。是想说“不是”时用的句型。",
+    "ja": "次は、「〜は〜じゃありません」です。「ちがいます」と言いたいときの形です。",
+    "romaji": "Tsugi wa, '~ wa ~ ja arimasen' desu. 'Chigaimasu' to iitai toki no katachi desu."
+  },
+  "sl1.s2_ken": {
+    "en": "I am not a teacher. I am a student.",
+    "ru": "Я не учитель. Я ученик.",
+    "zh": "我不是老师。我是学生。",
+    "ja": "ぼくは、先生じゃありません。学生です。",
+    "romaji": "Boku wa, sensei ja arimasen. Gakusei desu."
+  },
+  "sl1.s2_q": {
+    "en": "Are “ja arimasen” and “dewa arimasen” the same?",
+    "ru": "«Дзя аримасэн» и «дэва аримасэн» — это одно и то же?",
+    "zh": "「じゃありません」和「ではありません」一样吗？",
+    "ja": "「じゃありません」と、「ではありません」は、同じですか？",
+    "romaji": "'Ja arimasen' to, 'dewa arimasen' wa, onaji desu ka?"
+  },
+  "sl1.s2_a": {
+    "en": "The meaning is the same. “Dewa arimasen” is used in writing or in formal situations. “Ja arimasen” is very common in everyday conversation.",
+    "ru": "Значение одно и то же. «Дэва аримасэн» используют на письме и в официальных ситуациях. «Дзя аримасэн» часто употребляют в повседневной речи.",
+    "zh": "意思相同。「ではありません」用于书写或正式场合。「じゃありません」常用于日常会话。",
+    "ja": "意味は同じです。「ではありません」は、書くときや、あらたまった場面で使います。「じゃありません」は、ふだんの会話で、よく使います。",
+    "romaji": "Imi wa onaji desu. 'Dewa arimasen' wa, kaku toki ya, aratamatta bamen de tsukaimasu. 'Ja arimasen' wa, fudan no kaiwa de, yoku tsukaimasu."
+  },
+  "sl1.s2_joke": {
+    "en": "Are you a teacher?",
+    "ru": "Вы учитель?",
+    "zh": "你是老师吗？",
+    "ja": "あなたは、先生ですか？",
+    "romaji": "Anata wa, sensei desu ka?"
+  },
+  "sl1.p2_prompt": {
+    "en": "Yuki asked as a joke. You are not a teacher. How do you answer?",
+    "ru": "Юки спросила в шутку. Вы не учитель. Что вы ответите?",
+    "zh": "由纪开玩笑地问了。你不是老师。你会怎么回答？",
+    "ja": "由紀さんが、じょうだんで聞きました。あなたは、先生ではありません。何と答えますか？",
+    "romaji": "Yuki-san ga, joudan de kikimashita. Anata wa, sensei de wa arimasen. Nan to kotaemasu ka?"
+  },
+  "sl1.c2_natural": {
+    "en": "“No, I am not a teacher. I am a student.”",
+    "ru": "«Нет, я не учитель. Я ученик».",
+    "zh": "“不，我不是老师。我是学生。”",
+    "ja": "「いいえ、先生じゃありません。学生です。」",
+    "romaji": "'Iie, sensei ja arimasen. Gakusei desu.'"
+  },
+  "sl1.c2_formal": {
+    "en": "“No, I am not a teacher. I am merely a student.”",
+    "ru": "«Нет, я не преподаватель. Я всего лишь ученик».",
+    "zh": "“不，我不是教师。只是一名普通的学生。”",
+    "ja": "「いいえ、私は教師ではございません。一介の学生でございます。」",
+    "romaji": "'Iie, watashi wa kyoushi de wa gozaimasen. Ikkai no gakusei de gozaimasu.'"
+  },
+  "sl1.c2_mistake": {
+    "en": "“No, there is no teacher.”",
+    "ru": "«Нет, учителя нет».",
+    "zh": "“不，没有老师。”",
+    "ja": "「いいえ、先生はありません。」",
+    "romaji": "'Iie, sensei wa arimasen.'"
+  },
+  "sl1.c2_own": {
+    "en": "“No, I am not a teacher. The teacher is Tanaka-sensei.”",
+    "ru": "«Нет, я не учитель. Учитель — Танака-сэнсэй».",
+    "zh": "“不，我不是老师。老师是田中老师。”",
+    "ja": "「いいえ、先生じゃありません。先生は、田中先生です。」",
+    "romaji": "'Iie, sensei ja arimasen. Sensei wa, Tanaka-sensei desu.'"
+  },
+  "sl1.c2_min": {
+    "en": "“No... student...”",
+    "ru": "«Нет… ученик…»",
+    "zh": "“不……学生……”",
+    "ja": "「いいえ…学生…」",
+    "romaji": "'Iie... gakusei...'"
+  },
+  "sl1.p2_nat_yuki": {
+    "en": "Ha, of course. I was only joking.",
+    "ru": "Ха-ха, конечно. Я просто пошутила.",
+    "zh": "呵呵，是啊。我只是开玩笑的。",
+    "ja": "ふふ、そうですよね。じょうだんです。",
+    "romaji": "Fufu, sou desu yo ne. Joudan desu."
+  },
+  "sl1.p2_form_mei": {
+    "en": "Ha, that's too difficult. “Sensei ja arimasen” is fine.",
+    "ru": "Ха-ха, слишком сложно. Достаточно «сэнсэй дзя аримасэн».",
+    "zh": "呵呵，太难了。说「先生じゃありません」就好。",
+    "ja": "ふふ、むずかしすぎます。「先生じゃありません」で、いいですよ。",
+    "romaji": "Fufu, muzukashisugimasu. 'Sensei ja arimasen' de, ii desu yo."
+  },
+  "sl1.p2_mis_ken": {
+    "en": "Huh, “arimasen” is a word meaning “there isn't.” Let's say it in the form “~ wa ~ ja arimasen.”",
+    "ru": "Ой, «аримасэн» означает «нет, не имеется». Скажем в форме «~ ва ~ дзя аримасэн».",
+    "zh": "咦，「ありません」是“没有”的意思。我们用「〜は〜じゃありません」的形式来说。",
+    "ja": "あれ、「ありません」は、「ない」という意味の言葉です。「〜は〜じゃありません」の形で言いましょう。",
+    "romaji": "Are, 'arimasen' wa, 'nai' to iu imi no kotoba desu. '~ wa ~ ja arimasen' no katachi de iimashou."
+  },
+  "sl1.p2_mis_retry": {
+    "en": "Oh, no, I am not a teacher. I am a student.",
+    "ru": "Ой, нет, я не учитель. Я ученик.",
+    "zh": "啊，不，我不是老师。我是学生。",
+    "ja": "あっ、いいえ、先生じゃありません。学生です。",
+    "romaji": "A, iie, sensei ja arimasen. Gakusei desu."
+  },
+  "sl1.p2_mis_relief": {
+    "en": "Yes, that's it! Perfect.",
+    "ru": "Да, именно так! Отлично.",
+    "zh": "对，就是这个！完美。",
+    "ja": "はい、それです！ばっちりです。",
+    "romaji": "Hai, sore desu! Batchiri desu."
+  },
+  "sl1.p2_own_tanaka": {
+    "en": "Exactly. You used it skillfully within a sentence.",
+    "ru": "Именно. Вы искусно использовали это в предложении.",
+    "zh": "没错。你在句子里用得很熟练。",
+    "ja": "そのとおりです。文の中で、上手に使えましたね。",
+    "romaji": "Sono toori desu. Bun no naka de, jouzu ni tsukaemashita ne."
+  },
+  "sl1.p2_min_mei": {
+    "en": "The meaning gets across. Try saying “sensei ja arimasen” before “gakusei desu” too.",
+    "ru": "Смысл понятен. Попробуйте перед «гакусэй дэс» сказать ещё и «сэнсэй дзя аримасэн».",
+    "zh": "意思能传达。试着在「学生です」前面也加上「先生じゃありません」。",
+    "ja": "意味は、伝わります。「学生です」の前に、「先生じゃありません」も、言ってみましょう。",
+    "romaji": "Imi wa, tsutawarimasu. 'Gakusei desu' no mae ni, 'sensei ja arimasen' mo, itte mimashou."
+  },
+  "sl1.s3_intro": {
+    "en": "The third is the question form. You add “ka” at the end of the sentence: “~ wa ~ desu ka.”",
+    "ru": "Третья — вопросительная форма. В конце предложения добавляют «ка»: «~ ва ~ дэс ка».",
+    "zh": "第三个是疑问句型。在句子末尾加上「か」，即「〜は〜ですか」。",
+    "ja": "三つ目は、質問の形です。文の終わりに、「か」をつけます。「〜は〜ですか」です。",
+    "romaji": "Mittsume wa, shitsumon no katachi desu. Bun no owari ni, 'ka' o tsukemasu. '~ wa ~ desu ka' desu."
+  },
+  "sl1.s3_mei": {
+    "en": "Ken, are you a student?",
+    "ru": "Кен, вы ученик?",
+    "zh": "健，你是学生吗？",
+    "ja": "ケンさんは、学生ですか？",
+    "romaji": "Ken-san wa, gakusei desu ka?"
+  },
+  "sl1.s3_ken": {
+    "en": "Yes, I am a student.",
+    "ru": "Да, я ученик.",
+    "zh": "是的，我是学生。",
+    "ja": "はい、学生です。",
+    "romaji": "Hai, gakusei desu."
+  },
+  "sl1.s3_yuki": {
+    "en": "Tanaka-sensei, are you a student?",
+    "ru": "Танака-сэнсэй, вы ученик?",
+    "zh": "田中老师，你是学生吗？",
+    "ja": "田中先生は、学生ですか？",
+    "romaji": "Tanaka-sensei wa, gakusei desu ka?"
+  },
+  "sl1.s3_tanaka": {
+    "en": "No, I am not a student. I am a teacher.",
+    "ru": "Нет, я не ученик. Я учитель.",
+    "zh": "不，我不是学生。我是老师。",
+    "ja": "いいえ、学生じゃありません。先生です。",
+    "romaji": "Iie, gakusei ja arimasen. Sensei desu."
+  },
+  "sl1.s3_q": {
+    "en": "Don't you need a “?” after “ka”?",
+    "ru": "Разве после «ка» не нужен знак «?»?",
+    "zh": "「か」后面不需要「？」吗？",
+    "ja": "「か」のあとに、「？」は、いりませんか？",
+    "romaji": "'Ka' no ato ni, '?' wa, irimasen ka?"
+  },
+  "sl1.s3_a": {
+    "en": "If there is a “ka,” it is a question sentence. When speaking, you raise your voice slightly at the end. In writing, a “?” is sometimes used.",
+    "ru": "Если есть «ка», это вопросительное предложение. В речи голос в конце слегка повышают. На письме иногда используют и «?».",
+    "zh": "有「か」就是疑问句。说话时，句末声调稍微上扬。书写时，有时也会用「？」。",
+    "ja": "「か」があれば、質問の文です。話すときは、終わりの声を、少し上げます。書くときは、「？」を使うこともあります。",
+    "romaji": "'Ka' ga areba, shitsumon no bun desu. Hanasu toki wa, owari no koe o, sukoshi agemasu. Kaku toki wa, '?' o tsukau koto mo arimasu."
+  },
+  "sl1.p3_prompt": {
+    "en": "Yuki asked you, “Are you a student?” You are a student. How do you answer?",
+    "ru": "Юки спросила вас: «Вы ученик?» Вы ученик. Что вы ответите?",
+    "zh": "由纪问你：“你是学生吗？”你是学生。你会怎么回答？",
+    "ja": "由紀さんが、あなたに聞きました。「あなたは、学生ですか？」あなたは、学生です。何と答えますか？",
+    "romaji": "Yuki-san ga, anata ni kikimashita. 'Anata wa, gakusei desu ka?' Anata wa, gakusei desu. Nan to kotaemasu ka?"
+  },
+  "sl1.c3_natural": {
+    "en": "“Yes, I am a student.”",
+    "ru": "«Да, я ученик».",
+    "zh": "“是的，我是学生。”",
+    "ja": "「はい、学生です。」",
+    "romaji": "'Hai, gakusei desu.'"
+  },
+  "sl1.c3_formal": {
+    "en": "“Yes, that is so. I am a student.”",
+    "ru": "«Да, это так. Я ученик».",
+    "zh": "“是的，正是如此。我是学生。”",
+    "ja": "「はい、さようでございます。学生にございます。」",
+    "romaji": "'Hai, sayou de gozaimasu. Gakusei ni gozaimasu.'"
+  },
+  "sl1.c3_mistake": {
+    "en": "“Yes, am I a student?”",
+    "ru": "«Да, я ученик?»",
+    "zh": "“是的，我是学生吗？”",
+    "ja": "「はい、学生ですか？」",
+    "romaji": "'Hai, gakusei desu ka?'"
+  },
+  "sl1.c3_own": {
+    "en": "“Yes, I am a student. Are you a student too, Yuki?”",
+    "ru": "«Да, я ученик. А вы, Юки, тоже ученица?»",
+    "zh": "“是的，我是学生。由纪也是学生吗？”",
+    "ja": "「はい、学生です。由紀さんも、学生ですか？」",
+    "romaji": "'Hai, gakusei desu. Yuki-san mo, gakusei desu ka?'"
+  },
+  "sl1.c3_min": {
+    "en": "“Yes...”",
+    "ru": "«Да…»",
+    "zh": "“是……”",
+    "ja": "「はい…」",
+    "romaji": "'Hai...'"
+  },
+  "sl1.p3_nat_yuki": {
+    "en": "I'm a student too. We're the same!",
+    "ru": "Я тоже ученица. Мы одинаковые!",
+    "zh": "我也是学生。我们一样呢！",
+    "ja": "わたしも、学生です。いっしょですね！",
+    "romaji": "Watashi mo, gakusei desu. Issho desu ne!"
+  },
+  "sl1.p3_form_ken": {
+    "en": "Haha, “hai, gakusei desu” is fine.",
+    "ru": "Ха-ха, достаточно «хай, гакусэй дэс».",
+    "zh": "哈哈，说「はい、学生です」就可以了。",
+    "ja": "あはは、「はい、学生です」で、大丈夫ですよ。",
+    "romaji": "Ahaha, 'hai, gakusei desu' de, daijoubu desu yo."
+  },
+  "sl1.p3_mis_mei": {
+    "en": "Huh, you don't need “ka” when you answer. “Ka” is only for asking questions.",
+    "ru": "Ой, когда отвечаете, «ка» не нужно. «Ка» только для вопросов.",
+    "zh": "咦，回答的时候不需要「か」。「か」只用于提问。",
+    "ja": "あれ、答えるときは、「か」はいりません。「か」は、質問のときだけです。",
+    "romaji": "Are, kotaeru toki wa, 'ka' wa irimasen. 'Ka' wa, shitsumon no toki dake desu."
+  },
+  "sl1.p3_mis_retry": {
+    "en": "Oh, yes, I am a student.",
+    "ru": "Ой, да, я ученик.",
+    "zh": "啊，是的，我是学生。",
+    "ja": "あっ、はい、学生です。",
+    "romaji": "A, hai, gakusei desu."
+  },
+  "sl1.p3_mis_relief": {
+    "en": "Yes, that's it! The question takes “ka,” and the answer takes “desu.”",
+    "ru": "Да, именно так! Вопрос — с «ка», ответ — с «дэс».",
+    "zh": "对，就是这个！提问用「か」，回答用「です」。",
+    "ja": "はい、それです！質問は「か」、答えは「です」ですね。",
+    "romaji": "Hai, sore desu! Shitsumon wa 'ka', kotae wa 'desu' desu ne."
+  },
+  "sl1.p3_own_yuki": {
+    "en": "Yes, I am a student too. So we are both students.",
+    "ru": "Да, я тоже ученица. Значит, мы обе ученицы.",
+    "zh": "是的，我也是学生。这样我们俩都是学生了。",
+    "ja": "はい、わたしも、学生です。じゃあ、二人とも学生ですね。",
+    "romaji": "Hai, watashi mo, gakusei desu. Jaa, futari tomo gakusei desu ne."
+  },
+  "sl1.p3_min_tanaka": {
+    "en": "Just “hai” gets across. But try a full sentence: “hai, gakusei desu.”",
+    "ru": "Даже одно «хай» понятно. Но попробуйте сказать целое предложение: «хай, гакусэй дэс».",
+    "zh": "只说「はい」也能传达。不过试着说完整的句子：「はい、学生です」。",
+    "ja": "「はい」だけでも、伝わります。でも、「はい、学生です」と、文で言ってみましょう。",
+    "romaji": "'Hai' dake demo, tsutawarimasu. Demo, 'hai, gakusei desu' to, bun de itte mimashou."
+  },
+  "sl1.s4_intro": {
+    "en": "The last one is “no.” “No” connects one noun to another. “Nihongo no gakusei” means a student who studies Japanese.",
+    "ru": "Последняя — «но». «Но» соединяет два существительных. «Нихонго но гакусэй» означает ученика, изучающего японский.",
+    "zh": "最后是「の」。「の」用来连接名词和名词。「日本語の学生」是学习日语的学生的意思。",
+    "ja": "最後は、「の」です。「の」は、名詞と名詞を、つなぎます。「日本語の学生」は、「日本語を勉強する学生」という意味です。",
+    "romaji": "Saigo wa, 'no' desu. 'No' wa, meishi to meishi o, tsunagimasu. 'Nihongo no gakusei' wa, 'nihongo o benkyou suru gakusei' to iu imi desu."
+  },
+  "sl1.s4_q": {
+    "en": "When do you use “no”?",
+    "ru": "Когда используют «но»?",
+    "zh": "「の」什么时候用？",
+    "ja": "「の」は、いつ使いますか？",
+    "romaji": "'No' wa, itsu tsukaimasu ka?"
+  },
+  "sl1.s4_a": {
+    "en": "In the form “A no B,” A describes B. “Sensei no hon” is a book the teacher has. “Nihon no tomodachi” is a friend who is in Japan.",
+    "ru": "В форме «A но B» A описывает B. «Сэнсэй но хон» — книга, принадлежащая учителю. «Нихон но томодати» — друг, который находится в Японии.",
+    "zh": "在「AのB」这个形式中，A用来说明B。「先生の本」是老师的书。「日本の友達」是在日本的朋友。",
+    "ja": "「AのB」の形で、AがBを説明します。「先生の本」は、先生の持っている本です。「日本の友達」は、日本にいる友達です。",
+    "romaji": "'A no B' no katachi de, A ga B o setsumei shimasu. 'Sensei no hon' wa, sensei no motte iru hon desu. 'Nihon no tomodachi' wa, Nihon ni iru tomodachi desu."
+  },
+  "sl1.p4_prompt": {
+    "en": "Now let's use all the forms so far. Please introduce yourself once more. This time, it would be nice if you could say “nihongo no gakusei desu.”",
+    "ru": "Теперь используем все изученные формы. Представьтесь ещё раз. На этот раз было бы хорошо сказать «нихонго но гакусэй дэс».",
+    "zh": "现在把到目前为止的句型全部用上。请再做一次自我介绍。这次如果能说出「日本語の学生です」就更好了。",
+    "ja": "では、いままでの形を、全部使いましょう。もう一度、自己紹介をしてください。今度は、「日本語の学生です」と、言えるといいですね。",
+    "romaji": "Dewa, ima made no katachi o, zenbu tsukaimashou. Mou ichido, jikoshoukai o shite kudasai. Kondo wa, 'nihongo no gakusei desu' to, ieru to ii desu ne."
+  },
+  "sl1.c4_natural": {
+    "en": "“Nice to meet you. I am ○○. I am a Japanese-language student.”",
+    "ru": "«Приятно познакомиться. Я ○○. Я изучаю японский язык».",
+    "zh": "“初次见面。我是〇〇。我是学日语的学生。”",
+    "ja": "「はじめまして。私は〇〇です。日本語の学生です。」",
+    "romaji": "'Hajimemashite. Watashi wa marumaru desu. Nihongo no gakusei desu.'"
+  },
+  "sl1.c4_formal": {
+    "en": "“I am called ○○. I am a student who studies Japanese. I humbly ask for your kindness.”",
+    "ru": "«Меня зовут ○○. Я ученик, изучающий японский язык. Покорнейше прошу вашего расположения».",
+    "zh": "“我叫〇〇。是一名学习日语的学生。请多多关照。”",
+    "ja": "「〇〇と申します。日本語を学ぶ学生でございます。よろしくお願いいたします。」",
+    "romaji": "'Marumaru to moushimasu. Nihongo o manabu gakusei de gozaimasu. Yoroshiku onegai itashimasu.'"
+  },
+  "sl1.c4_mistake": {
+    "en": "“I am the Japanese language.”",
+    "ru": "«Я — японский язык».",
+    "zh": "“我是日语。”",
+    "ja": "「私は日本語です。」",
+    "romaji": "'Watashi wa nihongo desu.'"
+  },
+  "sl1.c4_own": {
+    "en": "“I am ○○. I am a Japanese-language student. I am a friend of Ken and Mei.”",
+    "ru": "«Я ○○. Я изучаю японский язык. Я друг Кена и Мэй».",
+    "zh": "“我是〇〇。我是学日语的学生。我是健和小梅的朋友。”",
+    "ja": "「私は〇〇です。日本語の学生です。ケンさんとメイさんの友達です。」",
+    "romaji": "'Watashi wa marumaru desu. Nihongo no gakusei desu. Ken-san to Mei-san no tomodachi desu.'"
+  },
+  "sl1.c4_min": {
+    "en": "“I am ○○. I am a student.”",
+    "ru": "«Я ○○. Я ученик».",
+    "zh": "“我是〇〇。我是学生。”",
+    "ja": "「〇〇です。学生です。」",
+    "romaji": "'Marumaru desu. Gakusei desu.'"
+  },
+  "sl1.p4_nat_tanaka": {
+    "en": "Wonderful. You are using all four forms.",
+    "ru": "Замечательно. Вы используете все четыре формы.",
+    "zh": "太棒了。四个句型你全都用上了。",
+    "ja": "すばらしい。四つの形が、ぜんぶ使えていますね。",
+    "romaji": "Subarashii. Yottsu no katachi ga, zenbu tsukatte imasu ne."
+  },
+  "sl1.p4_form_yuki": {
+    "en": "Ha, that's a magnificent introduction. But in class, you can make it simpler.",
+    "ru": "Ха-ха, великолепное самопредставление. Но в классе можно проще.",
+    "zh": "呵呵，是很出色的自我介绍。不过在教室里，说得简单一点也没关系。",
+    "ja": "ふふ、りっぱな自己紹介です。でも、教室では、もっとやさしくて大丈夫ですよ。",
+    "romaji": "Fufu, rippa na jikoshoukai desu. Demo, kyoushitsu de wa, motto yasashikute daijoubu desu yo."
+  },
+  "sl1.p4_mis_ken": {
+    "en": "Haha, “nihongo desu” would mean “I am the Japanese language itself.”",
+    "ru": "Ха-ха, «нихонго дэс» означало бы «я — сам японский язык».",
+    "zh": "哈哈，说「日本語です」的话，意思就变成“我就是日语这个语言”了哦。",
+    "ja": "あはは、「日本語です」だと、「わたしは、日本語のことばです」という意味になりますよ。",
+    "romaji": "Ahaha, 'nihongo desu' da to, 'watashi wa, nihongo no kotoba desu' to iu imi ni narimasu yo."
+  },
+  "sl1.p4_mis_retry": {
+    "en": "Oh, I am ○○. I am a Japanese-language student.",
+    "ru": "Ой, я ○○. Я изучаю японский язык.",
+    "zh": "啊，我是〇〇。我是学日语的学生。",
+    "ja": "あっ、私は〇〇です。日本語の学生です。",
+    "romaji": "A, watashi wa marumaru desu. Nihongo no gakusei desu."
+  },
+  "sl1.p4_mis_relief": {
+    "en": "Yes, that's it. The “no” in “nihongo no gakusei” is what matters.",
+    "ru": "Да, именно так. «Но» в «нихонго но гакусэй» очень важно.",
+    "zh": "对，就是这个。「日本語の学生」里的「の」很重要。",
+    "ja": "はい、それです。「日本語の学生」の「の」が、大切ですね。",
+    "romaji": "Hai, sore desu. 'Nihongo no gakusei' no 'no' ga, taisetsu desu ne."
+  },
+  "sl1.p4_own_mei": {
+    "en": "We're friends. I'm happy! I look forward to working with you.",
+    "ru": "Мы друзья. Я рада! Рассчитываю на вас впредь.",
+    "zh": "我们是朋友呢。我好高兴！今后请多关照。",
+    "ja": "友達ですね。うれしいです！これから、よろしくお願いします。",
+    "romaji": "Tomodachi desu ne. Ureshii desu! Korekara, yoroshiku onegaishimasu."
+  },
+  "sl1.p4_min_tanaka": {
+    "en": "A good sentence. Next time, try using “no”: “nihongo no gakusei desu.”",
+    "ru": "Хорошее предложение. В следующий раз попробуйте использовать «но»: «нихонго но гакусэй дэс».",
+    "zh": "句子不错。下次试着用上「の」：「日本語の学生です」。",
+    "ja": "いい文です。次は、「日本語の学生です」と、「の」を使ってみましょう。",
+    "romaji": "Ii bun desu. Tsugi wa, 'nihongo no gakusei desu' to, 'no' o tsukatte mimashou."
+  },
+  "sl1.talk_open": {
+    "en": "Now let's talk. Out of today's four forms, which one is the easiest to use?",
+    "ru": "Теперь поговорим. Какая из сегодняшних четырёх форм кажется вам самой удобной?",
+    "zh": "现在来聊聊。今天这四个句型里，你觉得哪一个最好用？",
+    "ja": "では、話しましょう。今日の四つの形の中で、いちばん使いやすい形は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no yottsu no katachi no naka de, ichiban tsukaiyasui katachi wa, dore desu ka?"
+  },
+  "sl1.talk_mei": {
+    "en": "For me, it's “~ wa ~ desu.” With this alone, I can introduce myself.",
+    "ru": "Для меня это «~ ва ~ дэс». Только с ней я уже могу представиться.",
+    "zh": "我觉得是「〜は〜です」。光是这一个，就能做自我介绍了。",
+    "ja": "わたしは、「〜は〜です」です。これだけで、自己紹介が、できます。",
+    "romaji": "Watashi wa, '~ wa ~ desu' desu. Kore dake de, jikoshoukai ga, dekimasu."
+  },
+  "sl1.talk_ken": {
+    "en": "For me, it's “~ desu ka.” When you can ask questions, a conversation begins.",
+    "ru": "Для меня это «~ дэс ка». Когда умеешь задавать вопросы, начинается разговор.",
+    "zh": "我觉得是「〜ですか」。会提问，对话就开始了。",
+    "ja": "ぼくは、「〜ですか」です。質問ができると、会話が、はじまります。",
+    "romaji": "Boku wa, '~ desu ka' desu. Shitsumon ga dekiru to, kaiwa ga, hajimarimasu."
+  },
+  "sl1.talk_yuki": {
+    "en": "For me, it's “~ no ~.” As in “nihongo no gakusei,” I can talk about myself in more detail.",
+    "ru": "Для меня это «~ но ~». Как в «нихонго но гакусэй», я могу рассказать о себе подробнее.",
+    "zh": "我觉得是「〜の〜」。像「日本語の学生」这样，能更详细地介绍自己。",
+    "ja": "わたしは、「〜の〜」です。「日本語の学生」のように、自分のことが、くわしく話せます。",
+    "romaji": "Watashi wa, '~ no ~' desu. 'Nihongo no gakusei' no you ni, jibun no koto ga, kuwashiku hanasemasu."
+  },
+  "sl1.talk_tanaka": {
+    "en": "Lovely. You will use every one of these forms every day from now on. Let's start by trying them one by one.",
+    "ru": "Прекрасно. Все эти формы вы будете использовать каждый день. Давайте начнём с того, что попробуем их по одной.",
+    "zh": "真好。这些句型今后每天都会用到。先从一个一个地用起来吧。",
+    "ja": "すてきですね。どの形も、これから毎日、使います。まず、一つずつ、使ってみましょう。",
+    "romaji": "Suteki desu ne. Dono katachi mo, korekara mainichi, tsukaimasu. Mazu, hitotsu zutsu, tsukatte mimashou."
+  },
+  "sl1.talk_player": {
+    "en": "(From “~ wa ~ desu” to “~ ja arimasen,” “~ desu ka,” and “~ no ~.” One sentence has grown into four. Tomorrow too, I'll try introducing myself to someone with these forms.)",
+    "ru": "(От «~ ва ~ дэс» к «~ дзя аримасэн», «~ дэс ка» и «~ но ~». Одно предложение выросло до четырёх. Завтра я тоже попробую представиться кому-нибудь с помощью этих форм.)",
+    "zh": "（从「〜は〜です」到「〜じゃありません」「〜ですか」「〜の〜」。一个句子扩展成了四个。明天，我也要用这些句型向别人做自我介绍。）",
+    "ja": "（「〜は〜です」から、「〜じゃありません」「〜ですか」「〜の〜」へ。一つの文が、四つに広がった。あしたも、この形で、だれかに自己紹介してみよう。）",
+    "romaji": "('~ wa ~ desu' kara, '~ ja arimasen' '~ desu ka' '~ no ~' e. Hitotsu no bun ga, yottsu ni hirogatta. Ashita mo, kono katachi de, dare ka ni jikoshoukai shite miyou.)"
+  },
+  "sl1.talk_close": {
+    "en": "Good lesson, everyone. In the next class too, let's build new sentences together.",
+    "ru": "Хороший урок, все. На следующем уроке мы тоже вместе составим новые предложения.",
+    "zh": "各位，这节课很棒。下节课我们也一起造新的句子吧。",
+    "ja": "みなさん、いいレッスンでした。次の授業でも、いっしょに、新しい文を作りましょう。",
+    "romaji": "Minasan, ii ressun deshita. Tsugi no jugyou demo, issho ni, atarashii bun o tsukurimashou."
+  },
+  "sl1.complete": {
+    "en": "End of Sentence Lesson 1.",
+    "ru": "Конец урока предложений 1.",
+    "zh": "句型课 1 结束。",
+    "ja": "文型レッスン1、おわり。",
+    "romaji": "Bunkei ressun ichi, owari."
+  }
+}

@@ -1,0 +1,639 @@
+{
+  "sl2.title": {
+    "en": "Kore, Sore, Are",
+    "ru": "Коре, соре, аре",
+    "zh": "这个、那个、那边那个",
+    "ja": "これ・それ・あれ",
+    "romaji": "Kore, sore, are"
+  },
+  "sl2.subtitle": {
+    "en": "Pointing at things and talking in a café",
+    "ru": "Показываем на предметы и говорим в кафе",
+    "zh": "在咖啡店里指着东西说话",
+    "ja": "カフェで、ものを指して話す",
+    "romaji": "Kafe de, mono o yubisashite hanasu"
+  },
+  "sl2.description": {
+    "en": "At a café table, point at things and talk using four patterns: kore, sore, are; kono, sono, ano; nan desu ka; and dore, dono.",
+    "ru": "За столиком в кафе показывайте на предметы и говорите с помощью четырёх форм: коре, соре, аре; коно, соно, ано; нан дэс ка; доре, доно.",
+    "zh": "在咖啡店的桌旁，用四个句型指着东西说话：これ・それ・あれ、この・その・あの、何ですか、どれ・どの。",
+    "ja": "カフェのテーブルで、「これ・それ・あれ」「この・その・あの」「何ですか」「どれ・どの」の四つの形を使って、ものを指して話します。",
+    "romaji": "Kafe no teeburu de, 'kore, sore, are' 'kono, sono, ano' 'nan desu ka' 'dore, dono' no yottsu no katachi o tsukatte, mono o yubisashite hanashimasu."
+  },
+  "sl2.pattern.1": {
+    "en": "This / that / that over there is X",
+    "ru": "Это / то / вон то — X",
+    "zh": "这个／那个／那边那个是X",
+    "ja": "これ・それ・あれ は 〜です",
+    "romaji": "kore, sore, are wa ~ desu"
+  },
+  "sl2.pattern.2": {
+    "en": "this / that / that over there + noun",
+    "ru": "этот / тот / вон тот + существительное",
+    "zh": "这／那／那边那 ＋ 名词",
+    "ja": "この・その・あの ＋ 名詞",
+    "romaji": "kono, sono, ano + meishi"
+  },
+  "sl2.pattern.3": {
+    "en": "What is X?",
+    "ru": "Что такое X?",
+    "zh": "X是什么？",
+    "ja": "〜は何ですか",
+    "romaji": "~ wa nan desu ka"
+  },
+  "sl2.pattern.4": {
+    "en": "Which one? / which + noun",
+    "ru": "Который? / какой + существительное",
+    "zh": "哪一个？／哪个＋名词",
+    "ja": "どれ・どの",
+    "romaji": "dore, dono"
+  },
+  "sl2.setup": {
+    "en": "An afternoon café. Everyone is sitting at a table by the window. Yuki has laid out a menu and a few other things on the table.",
+    "ru": "Кафе днём. Все сидят за столиком у окна. Юки разложила на столе меню и ещё несколько вещей.",
+    "zh": "午后的咖啡店。大家坐在靠窗的桌子旁。由纪在桌上摆了菜单和几样东西。",
+    "ja": "午後のカフェ。みんなは、窓のそばのテーブルに座っている。由紀が、メニューと、いくつかのものを、テーブルにならべてくれた。",
+    "romaji": "Gogo no kafe. Minna wa, mado no soba no teeburu ni suwatte iru. Yuki ga, menyuu to, ikutsu ka no mono o, teeburu ni narabete kureta."
+  },
+  "sl2.y_welcome": {
+    "en": "Welcome. Here is the menu. Please.",
+    "ru": "Добро пожаловать. Вот меню. Пожалуйста.",
+    "zh": "欢迎光临。这是菜单。请看。",
+    "ja": "いらっしゃいませ。メニューです。どうぞ。",
+    "romaji": "Irasshaimase. Menyuu desu. Douzo."
+  },
+  "sl2.t_intro": {
+    "en": "Today's theme is words for pointing at things. We will use “kore,” “sore,” “are,” and “kono,” “sono,” “ano.”",
+    "ru": "Тема сегодня — слова, указывающие на предметы. Мы используем «коре», «соре», «аре» и «коно», «соно», «ано».",
+    "zh": "今天的主题是指示事物的词。我们会用到「これ」「それ」「あれ」和「この」「その」「あの」。",
+    "ja": "今日のテーマは、ものを指す言葉です。「これ」「それ」「あれ」と、「この」「その」「あの」を使います。",
+    "romaji": "Kyou no teema wa, mono o sasu kotoba desu. 'Kore' 'sore' 'are' to, 'kono' 'sono' 'ano' o tsukaimasu."
+  },
+  "sl2.s1_kore": {
+    "en": "Things near me are “kore.” This is coffee.",
+    "ru": "Предметы рядом со мной — «коре». Это кофе.",
+    "zh": "离我近的东西是「これ」。这是咖啡。",
+    "ja": "私の近くのものは、「これ」です。これは、コーヒーです。",
+    "romaji": "Watashi no chikaku no mono wa, 'kore' desu. Kore wa, koohii desu."
+  },
+  "sl2.s1_sore": {
+    "en": "Is that tea?",
+    "ru": "Это чай?",
+    "zh": "那是茶吗？",
+    "ja": "それは、お茶ですか？",
+    "romaji": "Sore wa, ocha desu ka?"
+  },
+  "sl2.s1_no": {
+    "en": "No, this is not tea. It's coffee.",
+    "ru": "Нет, это не чай. Это кофе.",
+    "zh": "不，这不是茶。是咖啡。",
+    "ja": "いいえ、これは、お茶じゃありません。コーヒーです。",
+    "romaji": "Iie, kore wa, ocha ja arimasen. Koohii desu."
+  },
+  "sl2.s1_are": {
+    "en": "That over there is cake. It's on top of the counter.",
+    "ru": "Вон то — торт. Он лежит на стойке.",
+    "zh": "那边那个是蛋糕。放在柜台上呢。",
+    "ja": "あれは、ケーキです。カウンターの上に、ありますよ。",
+    "romaji": "Are wa, keeki desu. Kauntaa no ue ni, arimasu yo."
+  },
+  "sl2.s1_break": {
+    "en": "Near the speaker is “kore.” Near the listener is “sore.” Things far from both of you are “are.”",
+    "ru": "То, что рядом с говорящим, — «коре». Рядом со слушающим — «соре». Далёкое от обоих — «аре».",
+    "zh": "靠近说话人的是「これ」。靠近听话人的是「それ」。离两个人都远的是「あれ」。",
+    "ja": "話す人の近くは「これ」。聞く人の近くは「それ」。二人から遠いものは「あれ」です。",
+    "romaji": "Hanasu hito no chikaku wa 'kore'. Kiku hito no chikaku wa 'sore'. Futari kara tooi mono wa 'are' desu."
+  },
+  "sl2.s1_q1": {
+    "en": "How are “sore” and “are” different?",
+    "ru": "Чем «соре» отличается от «аре»?",
+    "zh": "「それ」和「あれ」有什么不同？",
+    "ja": "「それ」と「あれ」は、どうちがいますか？",
+    "romaji": "'Sore' to 'are' wa, dou chigaimasu ka?"
+  },
+  "sl2.s1_a1": {
+    "en": "“Sore” is something near the listener. “Are” is something far from both the speaker and the listener.",
+    "ru": "«Соре» — это то, что рядом со слушающим. «Аре» — то, что далеко и от говорящего, и от слушающего.",
+    "zh": "「それ」是离听话人近的东西。「あれ」是离说话人和听话人都远的东西。",
+    "ja": "「それ」は、聞く人の近くにあるものです。「あれ」は、話す人からも、聞く人からも、遠いものです。",
+    "romaji": "'Sore' wa, kiku hito no chikaku ni aru mono desu. 'Are' wa, hanasu hito kara mo, kiku hito kara mo, tooi mono desu."
+  },
+  "sl2.s1_q2": {
+    "en": "What happens when the two people are sitting side by side?",
+    "ru": "Что происходит, когда двое сидят рядом?",
+    "zh": "两个人并排坐着的时候，该怎么说？",
+    "ja": "二人が、となりにいるときは、どうなりますか？",
+    "romaji": "Futari ga, tonari ni iru toki wa, dou narimasu ka?"
+  },
+  "sl2.s1_a2": {
+    "en": "When you are close together, both of you call the same thing “kore.” Things near the two of you are your shared “kore.”",
+    "ru": "Когда двое находятся рядом, оба называют один и тот же предмет «коре». Предметы возле вас двоих — ваше общее «коре».",
+    "zh": "当两个人挨得很近时，两个人都把同一样东西叫做「これ」。离你们两人近的东西，就是你们共同的「これ」。",
+    "ja": "二人が近くにいるときは、同じものを、どちらも「これ」と言います。二人の近くのものは、二人の「これ」です。",
+    "romaji": "Futari ga chikaku ni iru toki wa, onaji mono o, dochira mo 'kore' to iimasu. Futari no chikaku no mono wa, futari no 'kore' desu."
+  },
+  "sl2.p1_prompt": {
+    "en": "Now let's practice. You have a menu in your hand. You want to tell Ken, “This is the menu.” What do you say?",
+    "ru": "Теперь практика. У вас в руках меню. Вы хотите сказать Кену: «Это меню». Что вы скажете?",
+    "zh": "现在来练习。你手里拿着菜单。你想对健说：“这是菜单。”你会怎么说？",
+    "ja": "では、練習です。あなたの手に、メニューがあります。ケンさんに、「これは、メニューです」と言いたいです。何と言いますか？",
+    "romaji": "Dewa, renshuu desu. Anata no te ni, menyuu ga arimasu. Ken-san ni, 'kore wa, menyuu desu' to iitai desu. Nan to iimasu ka?"
+  },
+  "sl2.c1_natural": {
+    "en": "“This is the menu.”",
+    "ru": "«Это меню».",
+    "zh": "“这是菜单。”",
+    "ja": "「これは、メニューです。」",
+    "romaji": "'Kore wa, menyuu desu.'"
+  },
+  "sl2.c1_formal": {
+    "en": "“This here is our shop's list of offerings.”",
+    "ru": "«Это перечень блюд нашего заведения».",
+    "zh": "“这是本店的菜单。”",
+    "ja": "「こちらは、当店のお品書きにございます。」",
+    "romaji": "'Kochira wa, touten no oshinagaki ni gozaimasu.'"
+  },
+  "sl2.c1_mistake": {
+    "en": "“That over there is the menu.”",
+    "ru": "«Вон то — меню».",
+    "zh": "“那边那个是菜单。”",
+    "ja": "「あれは、メニューです。」",
+    "romaji": "'Are wa, menyuu desu.'"
+  },
+  "sl2.c1_own": {
+    "en": "“This is the menu. Ken's is that one.”",
+    "ru": "«Это меню. Меню Кена — то».",
+    "zh": "“这是菜单。健的是那个。”",
+    "ja": "「これは、メニューです。ケンさんのは、それです。」",
+    "romaji": "'Kore wa, menyuu desu. Ken-san no wa, sore desu.'"
+  },
+  "sl2.c1_min": {
+    "en": "“Menu... this...”",
+    "ru": "«Меню… это…»",
+    "zh": "“菜单……这个……”",
+    "ja": "「メニュー…これ…」",
+    "romaji": "'Menyuu... kore...'"
+  },
+  "sl2.p1_nat_ken": {
+    "en": "Yes, thank you. Then I'll look at that menu.",
+    "ru": "Да, спасибо. Тогда я посмотрю на это меню.",
+    "zh": "好的，谢谢。那我就看看那份菜单。",
+    "ja": "はい、ありがとうございます。じゃあ、ぼくは、そのメニューを見ます。",
+    "romaji": "Hai, arigatou gozaimasu. Jaa, boku wa, sono menyuu o mimasu."
+  },
+  "sl2.p1_form_yuki": {
+    "en": "Ha, you sound like shop staff. “Kore wa, menyuu desu” is fine.",
+    "ru": "Ха-ха, как сотрудник магазина. Достаточно «коре ва, мэню дэс».",
+    "zh": "呵呵，像店员一样。说「これは、メニューです」就可以了。",
+    "ja": "ふふ、お店の人みたいです。「これは、メニューです」で、大丈夫ですよ。",
+    "romaji": "Fufu, omise no hito mitai desu. 'Kore wa, menyuu desu' de, daijoubu desu yo."
+  },
+  "sl2.p1_mis_mei": {
+    "en": "Huh, the menu is in your hand. Things near you are “kore.” “Are” is for things far away.",
+    "ru": "Ой, меню же у вас в руках. Близкие предметы — «коре». «Аре» — для далёких.",
+    "zh": "咦，菜单就在你手里。近处的东西是「これ」。「あれ」是远处的东西。",
+    "ja": "あれ、メニューは、あなたの手にありますよ。近くのものは、「これ」です。「あれ」は、遠いものです。",
+    "romaji": "Are, menyuu wa, anata no te ni arimasu yo. Chikaku no mono wa, 'kore' desu. 'Are' wa, tooi mono desu."
+  },
+  "sl2.p1_mis_retry": {
+    "en": "Oh, this is the menu.",
+    "ru": "Ой, это меню.",
+    "zh": "啊，这是菜单。",
+    "ja": "あっ、これは、メニューです。",
+    "romaji": "A, kore wa, menyuu desu."
+  },
+  "sl2.p1_mis_relief": {
+    "en": "Yes, that's it! Near your hand is “kore.”",
+    "ru": "Да, именно так! Рядом с рукой — «коре».",
+    "zh": "对，就是这个！手边的东西是「これ」。",
+    "ja": "はい、それです！手の近くは、「これ」ですね。",
+    "romaji": "Hai, sore desu! Te no chikaku wa, 'kore' desu ne."
+  },
+  "sl2.p1_own_ken": {
+    "en": "Oh, my menu is right here. Thank you.",
+    "ru": "Ах, моё меню вот здесь. Спасибо.",
+    "zh": "啊，我的菜单在这里。谢谢。",
+    "ja": "あ、ぼくのメニューは、ここにあります。ありがとうございます。",
+    "romaji": "A, boku no menyuu wa, koko ni arimasu. Arigatou gozaimasu."
+  },
+  "sl2.p1_min_tanaka": {
+    "en": "The meaning gets across. Next time, try a full sentence: “kore wa, menyuu desu.”",
+    "ru": "Смысл понятен. В следующий раз скажите целое предложение: «коре ва, мэню дэс».",
+    "zh": "意思能传达。下次试着说完整的句子：「これは、メニューです」。",
+    "ja": "意味は、伝わります。次は、「これは、メニューです」と、文で言ってみましょう。",
+    "romaji": "Imi wa, tsutawarimasu. Tsugi wa, 'kore wa, menyuu desu' to, bun de itte mimashou."
+  },
+  "sl2.s2_ken": {
+    "en": "Look. That cake looks very delicious.",
+    "ru": "Смотрите. Тот торт выглядит очень вкусным.",
+    "zh": "你看。那块蛋糕看起来非常好吃。",
+    "ja": "見てください。そのケーキは、とてもおいしそうです。",
+    "romaji": "Mite kudasai. Sono keeki wa, totemo oishisou desu."
+  },
+  "sl2.s2_intro": {
+    "en": "Ken said “sono keeki.” Before a noun, you use “kono,” “sono,” or “ano.”",
+    "ru": "Кен сказал «соно кэки». Перед существительным используют «коно», «соно» или «ано».",
+    "zh": "健说了「そのケーキ」。在名词前面，要用「この」「その」「あの」。",
+    "ja": "ケンさんは、「そのケーキ」と言いました。名詞の前では、「この」「その」「あの」を使います。",
+    "romaji": "Ken-san wa, 'sono keeki' to iimashita. Meishi no mae de wa, 'kono' 'sono' 'ano' o tsukaimasu."
+  },
+  "sl2.s2_q": {
+    "en": "Are “kore” and “kono” different?",
+    "ru": "«Коре» и «коно» отличаются?",
+    "zh": "「これ」和「この」有区别吗？",
+    "ja": "「これ」と「この」は、ちがいますか？",
+    "romaji": "'Kore' to 'kono' wa, chigaimasu ka?"
+  },
+  "sl2.s2_a": {
+    "en": "Yes. “Kore” points to the thing itself. “Kono” needs a noun after it. It is used like “kono koohii,” “sono keeki,” “ano mise.”",
+    "ru": "Да. «Коре» указывает на сам предмет. «Коно» требует после себя существительное. Используется так: «коно кохи», «соно кэки», «ано мисэ».",
+    "zh": "有。「これ」直接指事物本身。「この」后面需要接名词。用法如「このコーヒー」「そのケーキ」「あの店」。",
+    "ja": "はい。「これ」は、ものそのものを指します。「この」は、あとに名詞が必要です。「このコーヒー」「そのケーキ」「あの店」のように使います。",
+    "romaji": "Hai. 'Kore' wa, mono sono mono o sashimasu. 'Kono' wa, ato ni meishi ga hitsuyou desu. 'Kono koohii' 'sono keeki' 'ano mise' no you ni tsukaimasu."
+  },
+  "sl2.p2_prompt": {
+    "en": "There is a cheesecake near Ken. You want to ask whether that cake is delicious. What do you say?",
+    "ru": "Рядом с Кеном лежит чизкейк. Вы хотите спросить, вкусный ли этот торт. Что вы скажете?",
+    "zh": "健旁边有一块芝士蛋糕。你想问问那块蛋糕好不好吃。你会怎么说？",
+    "ja": "ケンさんの近くに、チーズケーキがあります。あなたは、そのケーキが、おいしいかどうか、聞きたいです。何と言いますか？",
+    "romaji": "Ken-san no chikaku ni, chiizukeeki ga arimasu. Anata wa, sono keeki ga, oishii ka dou ka, kikitai desu. Nan to iimasu ka?"
+  },
+  "sl2.c2_natural": {
+    "en": "“Is that cake delicious?”",
+    "ru": "«Этот торт вкусный?»",
+    "zh": "“那块蛋糕好吃吗？”",
+    "ja": "「そのケーキは、おいしいですか？」",
+    "romaji": "'Sono keeki wa, oishii desu ka?'"
+  },
+  "sl2.c2_formal": {
+    "en": "“Pardon me, but how is the flavor of the sweet you have there?”",
+    "ru": "«Прошу прощения, каков вкус той сладости, что у вас?»",
+    "zh": "“打扰一下，请问您那边的点心，味道如何呢？”",
+    "ja": "「恐れ入りますが、そちらのお菓子は、お味はいかがでしょうか。」",
+    "romaji": "'Osoreirimasu ga, sochira no okashi wa, oaji wa ikaga deshou ka.'"
+  },
+  "sl2.c2_mistake": {
+    "en": "“Is that-cake delicious?”",
+    "ru": "«Это-торт вкусный?»",
+    "zh": "“那个蛋糕好吃吗？”（说成了「それケーキ」）",
+    "ja": "「それケーキは、おいしいですか？」",
+    "romaji": "'Sore keeki wa, oishii desu ka?'"
+  },
+  "sl2.c2_own": {
+    "en": "“Is that cake delicious? I'd like to have it with this coffee.”",
+    "ru": "«Этот торт вкусный? Я бы хотел выпить с ним этот кофе».",
+    "zh": "“那块蛋糕好吃吗？我想配着这杯咖啡一起吃。”",
+    "ja": "「そのケーキは、おいしいですか？このコーヒーと、いっしょに飲みたいです。」",
+    "romaji": "'Sono keeki wa, oishii desu ka? Kono koohii to, issho ni nomitai desu.'"
+  },
+  "sl2.c2_min": {
+    "en": "“That... tasty?”",
+    "ru": "«То… вкусно?»",
+    "zh": "“那个……好吃？”",
+    "ja": "「それ…おいしい？」",
+    "romaji": "'Sore... oishii?'"
+  },
+  "sl2.p2_nat_ken": {
+    "en": "Yes, it's very delicious. Have a bite, please.",
+    "ru": "Да, очень вкусный. Попробуйте кусочек.",
+    "zh": "是的，非常好吃。来，尝一口。",
+    "ja": "はい、とてもおいしいですよ。ひと口、どうぞ。",
+    "romaji": "Hai, totemo oishii desu yo. Hitokuchi, douzo."
+  },
+  "sl2.p2_form_ken": {
+    "en": "Haha, we're just talking about cake. “Sono keeki wa, oishii desu ka?” is fine.",
+    "ru": "Ха-ха, мы же просто говорим о торте. Достаточно «соно кэки ва, оисий дэс ка?».",
+    "zh": "哈哈，只是在聊蛋糕而已。说「そのケーキは、おいしいですか？」就好。",
+    "ja": "あはは、ケーキの話ですよ。「そのケーキは、おいしいですか？」で、いいです。",
+    "romaji": "Ahaha, keeki no hanashi desu yo. 'Sono keeki wa, oishii desu ka?' de, ii desu."
+  },
+  "sl2.p2_mis_yuki": {
+    "en": "Close. Before a noun, it is “sono,” not “sore.” You say “sono + keeki.”",
+    "ru": "Почти. Перед существительным нужно «соно», а не «соре». Говорят «соно + кэки».",
+    "zh": "很接近。在名词前面要用「その」，而不是「それ」。说「その＋ケーキ」。",
+    "ja": "惜しいです。名詞の前では、「それ」ではなく、「その」です。「その＋ケーキ」と言います。",
+    "romaji": "Oshii desu. Meishi no mae de wa, 'sore' de wa naku, 'sono' desu. 'Sono + keeki' to iimasu."
+  },
+  "sl2.p2_mis_retry": {
+    "en": "Oh, is that cake delicious?",
+    "ru": "Ой, этот торт вкусный?",
+    "zh": "啊，那块蛋糕好吃吗？",
+    "ja": "あっ、そのケーキは、おいしいですか？",
+    "romaji": "A, sono keeki wa, oishii desu ka?"
+  },
+  "sl2.p2_mis_relief": {
+    "en": "Yes, that's it! You said “sono” correctly.",
+    "ru": "Да, именно так! Вы правильно сказали «соно».",
+    "zh": "对，就是这个！「その」你说对了。",
+    "ja": "はい、それです！「その」が、ちゃんと言えましたね。",
+    "romaji": "Hai, sore desu! 'Sono' ga, chanto iemashita ne."
+  },
+  "sl2.p2_own_ken": {
+    "en": "Good idea. That cake goes well with this coffee.",
+    "ru": "Хорошая мысль. Этот торт хорошо сочетается с этим кофе.",
+    "zh": "好主意。那块蛋糕很配这杯咖啡。",
+    "ja": "いい考えですね。このコーヒーには、そのケーキが、合いますよ。",
+    "romaji": "Ii kangae desu ne. Kono koohii ni wa, sono keeki ga, aimasu yo."
+  },
+  "sl2.p2_min_tanaka": {
+    "en": "I understand. Next time, try saying the whole sentence: “sono keeki wa, oishii desu ka?”",
+    "ru": "Я понимаю. В следующий раз скажите всё целиком: «соно кэки ва, оисий дэс ка?».",
+    "zh": "我明白。下次试着说完整的句子：「そのケーキは、おいしいですか？」",
+    "ja": "分かりますよ。次は、「そのケーキは、おいしいですか？」と、全部言ってみましょう。",
+    "romaji": "Wakarimasu yo. Tsugi wa, 'sono keeki wa, oishii desu ka?' to, zenbu itte mimashou."
+  },
+  "sl2.dish": {
+    "en": "Then Yuki sets a small plate in front of you. On it is a sweet you've never seen before.",
+    "ru": "Тут Юки ставит перед вами маленькую тарелочку. На ней лежит незнакомая сладость.",
+    "zh": "这时，由纪把一个小盘子放在你面前。盘子里是一块你从没见过的甜点。",
+    "ja": "そのとき、由紀が、小さなお皿を、あなたの前に置いた。見たことのない、あまいお菓子が、のっている。",
+    "romaji": "Sono toki, Yuki ga, chiisana osara o, anata no mae ni oita. Mita koto no nai, amai okashi ga, notte iru."
+  },
+  "sl2.s3_intro": {
+    "en": "When you don't know something, you ask with “~ wa nan desu ka.” “Nani” is the word for when you want to know a name or what something is.",
+    "ru": "Когда чего-то не знаете, спрашивают «~ ва нан дэс ка». «Нани» — слово, когда хотят узнать название или суть.",
+    "zh": "遇到不认识的东西，用「〜は何ですか」来问。「何」是想知道名称或内容时用的词。",
+    "ja": "知らないものは、「〜は何ですか」で聞きます。「何」は、名前や中身を知りたいときの言葉です。",
+    "romaji": "Shiranai mono wa, '~ wa nan desu ka' de kikimasu. 'Nani' wa, namae ya nakami o shiritai toki no kotoba desu."
+  },
+  "sl2.s3_q": {
+    "en": "Do you say “kore” when asking, and “sore” when answering?",
+    "ru": "Когда спрашиваешь — «коре», а когда отвечаешь — «соре»?",
+    "zh": "提问的时候说「これ」，回答的时候说「それ」，对吗？",
+    "ja": "聞くときは「これ」で、答えるときは「それ」ですか？",
+    "romaji": "Kiku toki wa 'kore' de, kotaeru toki wa 'sore' desu ka?"
+  },
+  "sl2.s3_a": {
+    "en": "Yes. A thing near the asker is “kore” for the asker. The person answering says “sore.” It goes “Kore wa, nan desu ka?” “Sore wa, ~ desu.”",
+    "ru": "Да. Предмет рядом со спрашивающим для него «коре». Отвечающий говорит «соре». Получается: «Коре ва, нан дэс ка?» — «Соре ва, ~ дэс».",
+    "zh": "是的。对提问的人来说，离他近的东西是「これ」。回答的人则说「それ」。即「これは、何ですか？」「それは、〜です」。",
+    "ja": "はい。聞く人の近くのものは、聞く人にとって「これ」です。答える人は、「それ」と言います。「これは、何ですか？」「それは、〜です」です。",
+    "romaji": "Hai. Kiku hito no chikaku no mono wa, kiku hito ni totte 'kore' desu. Kotaeru hito wa, 'sore' to iimasu. 'Kore wa, nan desu ka?' 'Sore wa, ~ desu' desu."
+  },
+  "sl2.p3_prompt": {
+    "en": "There is a sweet you don't know in front of you. Please ask Yuki what it is. What do you say?",
+    "ru": "Перед вами незнакомая сладость. Спросите у Юки, что это. Что вы скажете?",
+    "zh": "你面前有一块不认识的点心。请问问由纪那是什么。你会怎么说？",
+    "ja": "あなたの前に、知らないお菓子があります。由紀さんに、それが何か、聞いてください。何と言いますか？",
+    "romaji": "Anata no mae ni, shiranai okashi ga arimasu. Yuki-san ni, sore ga nani ka, kiite kudasai. Nan to iimasu ka?"
+  },
+  "sl2.c3_natural": {
+    "en": "“Excuse me, what is this?”",
+    "ru": "«Извините, что это?»",
+    "zh": "“不好意思，这是什么？”",
+    "ja": "「すみません、これは、何ですか？」",
+    "romaji": "'Sumimasen, kore wa, nan desu ka?'"
+  },
+  "sl2.c3_formal": {
+    "en": "“Pardon me, but what is this item called?”",
+    "ru": "«Прошу прощения, как называется эта вещь?»",
+    "zh": "“打扰了，请问这个东西叫什么名字？”",
+    "ja": "「恐れ入りますが、こちらの品は、何と申すものでしょうか。」",
+    "romaji": "'Osoreirimasu ga, kochira no shina wa, nan to mousu mono deshou ka.'"
+  },
+  "sl2.c3_mistake": {
+    "en": "“Excuse me, what is that?”",
+    "ru": "«Извините, что то?»",
+    "zh": "“不好意思，那是什么？”",
+    "ja": "「すみません、それは、何ですか？」",
+    "romaji": "'Sumimasen, sore wa, nan desu ka?'"
+  },
+  "sl2.c3_own": {
+    "en": "“Excuse me, what is this? Is it sweet?”",
+    "ru": "«Извините, что это? Оно сладкое?»",
+    "zh": "“不好意思，这是什么？是甜的吗？”",
+    "ja": "「すみません、これは、何ですか？あまいですか？」",
+    "romaji": "'Sumimasen, kore wa, nan desu ka? Amai desu ka?'"
+  },
+  "sl2.c3_min": {
+    "en": "“This... what...?”",
+    "ru": "«Это… что…?»",
+    "zh": "“这个……什么……？”",
+    "ja": "「これ…何…？」",
+    "romaji": "'Kore... nani...?'"
+  },
+  "sl2.p3_nat_yuki": {
+    "en": "That is dorayaki. It's on the house. Please enjoy.",
+    "ru": "Это дораяки. Это за счёт заведения. Угощайтесь.",
+    "zh": "那是铜锣烧。是赠送的。请用。",
+    "ja": "それは、どら焼きです。サービスです。どうぞ。",
+    "romaji": "Sore wa, dorayaki desu. Saabisu desu. Douzo."
+  },
+  "sl2.p3_form_yuki": {
+    "en": "Ha, you startled me. “Kore wa, nan desu ka?” is fine.",
+    "ru": "Ха-ха, вы меня удивили. Достаточно «коре ва, нан дэс ка?».",
+    "zh": "呵呵，吓了我一跳。说「これは、何ですか？」就可以了。",
+    "ja": "ふふ、びっくりしました。「これは、何ですか？」で、大丈夫ですよ。",
+    "romaji": "Fufu, bikkuri shimashita. 'Kore wa, nan desu ka?' de, daijoubu desu yo."
+  },
+  "sl2.p3_mis_ken": {
+    "en": "Huh, that sweet is right in front of you. Things near you are “kore.”",
+    "ru": "Ой, эта сладость лежит прямо перед вами. Предметы рядом с вами — «коре».",
+    "zh": "咦，那块点心就在你面前。离你近的东西是「これ」。",
+    "ja": "あれ、そのお菓子は、あなたの前にありますよ。あなたの近くのものは、「これ」です。",
+    "romaji": "Are, sono okashi wa, anata no mae ni arimasu yo. Anata no chikaku no mono wa, 'kore' desu."
+  },
+  "sl2.p3_mis_retry": {
+    "en": "Oh, excuse me. What is this?",
+    "ru": "Ой, извините. Что это?",
+    "zh": "啊，不好意思。这是什么？",
+    "ja": "あっ、すみません。これは、何ですか？",
+    "romaji": "A, sumimasen. Kore wa, nan desu ka?"
+  },
+  "sl2.p3_mis_relief": {
+    "en": "Yes, that's it! That is dorayaki.",
+    "ru": "Да, именно так! Это дораяки.",
+    "zh": "对，就是这个！那是铜锣烧哦。",
+    "ja": "はい、それです！それは、どら焼きですよ。",
+    "romaji": "Hai, sore desu! Sore wa, dorayaki desu yo."
+  },
+  "sl2.p3_own_yuki": {
+    "en": "That is dorayaki. It is sweet. It has sweet bean paste inside.",
+    "ru": "Это дораяки. Оно сладкое. Внутри сладкая бобовая паста.",
+    "zh": "那是铜锣烧。是甜的。里面有红豆沙。",
+    "ja": "それは、どら焼きです。あまいですよ。あんこが、入っています。",
+    "romaji": "Sore wa, dorayaki desu. Amai desu yo. Anko ga, haitte imasu."
+  },
+  "sl2.p3_min_mei": {
+    "en": "Your feeling comes across. Try asking a full sentence: “kore wa, nan desu ka?”",
+    "ru": "Ваше желание понятно. Попробуйте спросить целым предложением: «коре ва, нан дэс ка?».",
+    "zh": "你的心意能传达。试着用完整的句子问：「これは、何ですか？」",
+    "ja": "気持ちは、伝わりますよ。「これは、何ですか？」と、文で聞いてみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu yo. 'Kore wa, nan desu ka?' to, bun de kiite mimashou."
+  },
+  "sl2.s4_yuki": {
+    "en": "There are three cakes: a shortcake, a cheesecake, and a chocolate cake.",
+    "ru": "Есть три торта: бисквитный, чизкейк и шоколадный.",
+    "zh": "蛋糕有三种：草莓蛋糕、芝士蛋糕和巧克力蛋糕。",
+    "ja": "ケーキは、三つあります。ショートケーキと、チーズケーキと、チョコレートケーキです。",
+    "romaji": "Keeki wa, mittsu arimasu. Shootokeeki to, chiizukeeki to, chokoreetokeeki desu."
+  },
+  "sl2.s4_intro": {
+    "en": "When choosing one from several, use “dore.” Before a noun, it is “dono.” You say it like “dono keeki.”",
+    "ru": "Когда выбирают один из нескольких, используют «доре». Перед существительным — «доно». Говорят, например, «доно кэки».",
+    "zh": "从几样东西里选出一样时，用「どれ」。在名词前面用「どの」。说成「どのケーキ」。",
+    "ja": "いくつかの中から、一つを選ぶときは、「どれ」を使います。名詞の前では、「どの」です。「どのケーキ」のように言います。",
+    "romaji": "Ikutsu ka no naka kara, hitotsu o erabu toki wa, 'dore' o tsukaimasu. Meishi no mae de wa, 'dono' desu. 'Dono keeki' no you ni iimasu."
+  },
+  "sl2.s4_q": {
+    "en": "How are “nani” and “dore” different?",
+    "ru": "Чем «нани» отличается от «доре»?",
+    "zh": "「何」和「どれ」有什么不同？",
+    "ja": "「何」と「どれ」は、どうちがいますか？",
+    "romaji": "'Nani' to 'dore' wa, dou chigaimasu ka?"
+  },
+  "sl2.s4_a": {
+    "en": "“Nani” is for when you don't know the name. “Dore” is for when the choices are already set. It is used like “chiizukeeki wa, dore desu ka?”",
+    "ru": "«Нани» — когда не знаете названия. «Доре» — когда варианты для выбора уже определены. Используется так: «чидзукэки ва, доре дэс ка?».",
+    "zh": "「何」用于不知道名称的时候。「どれ」用于选项已经确定的时候。用法如「チーズケーキは、どれですか？」。",
+    "ja": "「何」は、名前が分からないときです。「どれ」は、選ぶものが決まっているときです。「チーズケーキは、どれですか？」のように使います。",
+    "romaji": "'Nani' wa, namae ga wakaranai toki desu. 'Dore' wa, erabu mono ga kimatte iru toki desu. 'Chiizukeeki wa, dore desu ka?' no you ni tsukaimasu."
+  },
+  "sl2.p4_prompt": {
+    "en": "Yuki brought three cakes. You want to know which one is the cheesecake. What do you say?",
+    "ru": "Юки принесла три торта. Вы хотите узнать, какой из них чизкейк. Что вы скажете?",
+    "zh": "由纪端来了三块蛋糕。你想知道哪一块是芝士蛋糕。你会怎么说？",
+    "ja": "由紀さんが、三つのケーキを持ってきました。あなたは、チーズケーキが、どれなのか知りたいです。何と言いますか？",
+    "romaji": "Yuki-san ga, mittsu no keeki o motte kimashita. Anata wa, chiizukeeki ga, dore na no ka shiritai desu. Nan to iimasu ka?"
+  },
+  "sl2.c4_natural": {
+    "en": "“Which one is the cheesecake?”",
+    "ru": "«Который из них чизкейк?»",
+    "zh": "“哪一块是芝士蛋糕？”",
+    "ja": "「チーズケーキは、どれですか？」",
+    "romaji": "'Chiizukeeki wa, dore desu ka?'"
+  },
+  "sl2.c4_formal": {
+    "en": "“Pardon me, but which of these would the cheesecake be?”",
+    "ru": "«Прошу прощения, который из них будет чизкейком?»",
+    "zh": "“打扰了，请问芝士蛋糕是哪一块？”",
+    "ja": "「恐れ入りますが、チーズケーキは、どちらでございますか。」",
+    "romaji": "'Osoreirimasu ga, chiizukeeki wa, dochira de gozaimasu ka.'"
+  },
+  "sl2.c4_mistake": {
+    "en": "“What is a cheesecake?”",
+    "ru": "«Что такое чизкейк?»",
+    "zh": "“芝士蛋糕是什么？”",
+    "ja": "「チーズケーキは、何ですか？」",
+    "romaji": "'Chiizukeeki wa, nan desu ka?'"
+  },
+  "sl2.c4_own": {
+    "en": "“Excuse me, which cake is the most popular?”",
+    "ru": "«Извините, какой торт самый популярный?»",
+    "zh": "“不好意思，哪种蛋糕最受欢迎？”",
+    "ja": "「すみません、どのケーキが、いちばん人気ですか？」",
+    "romaji": "'Sumimasen, dono keeki ga, ichiban ninki desu ka?'"
+  },
+  "sl2.c4_min": {
+    "en": "“Um... cheese... which...”",
+    "ru": "«Э-э… чиз… который…»",
+    "zh": "“呃……芝士……哪个……”",
+    "ja": "「あの…チーズ…どれ…」",
+    "romaji": "'Ano... chiizu... dore...'"
+  },
+  "sl2.p4_nat_yuki": {
+    "en": "The cheesecake is this one. It's in the middle of that plate.",
+    "ru": "Чизкейк — вот этот. Он посередине той тарелки.",
+    "zh": "芝士蛋糕是这块。在那个盘子的正中间。",
+    "ja": "チーズケーキは、これです。そのお皿の、まんなかです。",
+    "romaji": "Chiizukeeki wa, kore desu. Sono osara no, mannaka desu."
+  },
+  "sl2.p4_form_ken": {
+    "en": "Haha, you sound like a restaurant. “Chiizukeeki wa, dore desu ka?” is fine.",
+    "ru": "Ха-ха, как в ресторане. Достаточно «чидзукэки ва, доре дэс ка?».",
+    "zh": "哈哈，像在餐厅里一样。说「チーズケーキは、どれですか？」就好。",
+    "ja": "あはは、レストランみたいですね。「チーズケーキは、どれですか？」で、いいですよ。",
+    "romaji": "Ahaha, resutoran mitai desu ne. 'Chiizukeeki wa, dore desu ka?' de, ii desu yo."
+  },
+  "sl2.p4_mis_mei": {
+    "en": "Huh, “nani” is for when you don't know the name. You already know the name “cheesecake.” It should be “dore.”",
+    "ru": "Ой, «нани» — когда вы не знаете названия. Название «чизкейк» вы уже знаете. Нужно «доре».",
+    "zh": "咦，「何」是不知道名称时用的。你已经知道“芝士蛋糕”这个名字了。这里应该用「どれ」。",
+    "ja": "あれ、「何」は、名前が分からないときですよ。チーズケーキの名前は、知っていますね。「どれ」ですよ。",
+    "romaji": "Are, 'nani' wa, namae ga wakaranai toki desu yo. Chiizukeeki no namae wa, shitte imasu ne. 'Dore' desu yo."
+  },
+  "sl2.p4_mis_retry": {
+    "en": "Oh, which one is the cheesecake?",
+    "ru": "Ой, который из них чизкейк?",
+    "zh": "啊，哪一块是芝士蛋糕？",
+    "ja": "あっ、チーズケーキは、どれですか？",
+    "romaji": "A, chiizukeeki wa, dore desu ka?"
+  },
+  "sl2.p4_mis_relief": {
+    "en": "Yes, that's it. The cheesecake is this one.",
+    "ru": "Да, именно так. Чизкейк — вот этот.",
+    "zh": "对，就是这个。芝士蛋糕是这块哦。",
+    "ja": "はい、それです。チーズケーキは、これですよ。",
+    "romaji": "Hai, sore desu. Chiizukeeki wa, kore desu yo."
+  },
+  "sl2.p4_own_yuki": {
+    "en": "The most popular one is that shortcake. It sells very well.",
+    "ru": "Самый популярный — тот бисквитный торт. Он очень хорошо продаётся.",
+    "zh": "最受欢迎的是那块草莓蛋糕。卖得非常好。",
+    "ja": "いちばん人気は、そのショートケーキです。とても、よく売れています。",
+    "romaji": "Ichiban ninki wa, sono shootokeeki desu. Totemo, yoku urete imasu."
+  },
+  "sl2.p4_min_tanaka": {
+    "en": "It gets across. Next time, try asking a full sentence: “chiizukeeki wa, dore desu ka?”",
+    "ru": "Поймут. В следующий раз спросите целым предложением: «чидзукэки ва, доре дэс ка?».",
+    "zh": "能听懂。下次试着用完整的句子问：「チーズケーキは、どれですか？」",
+    "ja": "伝わりますよ。次は、「チーズケーキは、どれですか？」と、文で聞いてみましょう。",
+    "romaji": "Tsutawarimasu yo. Tsugi wa, 'chiizukeeki wa, dore desu ka?' to, bun de kiite mimashou."
+  },
+  "sl2.talk_open": {
+    "en": "Now let's talk. Out of today's four forms, which one is the most useful?",
+    "ru": "Теперь поговорим. Какая из сегодняшних четырёх форм самая полезная?",
+    "zh": "现在来聊聊。今天这四个句型里，哪一个最有用？",
+    "ja": "では、話しましょう。今日の四つの形の中で、いちばん役に立つ形は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no yottsu no katachi no naka de, ichiban yaku ni tatsu katachi wa, dore desu ka?"
+  },
+  "sl2.talk_mei": {
+    "en": "For me, it's “kore wa, nan desu ka?” There are so many things I don't know, so I can use it right away.",
+    "ru": "Для меня это «коре ва, нан дэс ка?». Есть много незнакомых мне вещей, так что я могу сразу её использовать.",
+    "zh": "我觉得是「これは、何ですか？」。不认识的东西有很多，马上就能用上。",
+    "ja": "わたしは、「これは、何ですか？」です。知らないものが、たくさんあるので、すぐ使えます。",
+    "romaji": "Watashi wa, 'kore wa, nan desu ka?' desu. Shiranai mono ga, takusan aru node, sugu tsukaemasu."
+  },
+  "sl2.talk_ken": {
+    "en": "For me, it's “dore.” I'll probably use it a lot when looking at menus.",
+    "ru": "Для меня это «доре». Наверное, буду часто использовать её, когда смотрю меню.",
+    "zh": "我觉得是「どれ」。看菜单的时候应该会经常用到。",
+    "ja": "ぼくは、「どれ」です。メニューを見るときに、よく使いそうです。",
+    "romaji": "Boku wa, 'dore' desu. Menyuu o miru toki ni, yoku tsukaisou desu."
+  },
+  "sl2.talk_yuki": {
+    "en": "For me, it's “sono” and “ano.” I hear them from customers a lot at the shop.",
+    "ru": "Для меня это «соно» и «ано». В магазине я часто слышу их от покупателей.",
+    "zh": "我觉得是「その」和「あの」。在店里经常听到客人这样说。",
+    "ja": "わたしは、「その」と「あの」です。お店で、お客さんに、よく聞きます。",
+    "romaji": "Watashi wa, 'sono' to 'ano' desu. Omise de, okyakusan ni, yoku kikimasu."
+  },
+  "sl2.talk_tanaka": {
+    "en": "Lovely. The “ko, so, a, do” series is a very important group in Japanese. It connects to many other words.",
+    "ru": "Прекрасно. Ряд «ко, со, а, до» — очень важная группа в японском. Она связана со многими другими словами.",
+    "zh": "真好。「こ・そ・あ・ど」是日语里非常重要的一组词，和许多其他词都有联系。",
+    "ja": "すてきですね。「こ・そ・あ・ど」は、日本語で、とても大切な仲間です。いろいろな言葉に、つながっていますよ。",
+    "romaji": "Suteki desu ne. 'Ko, so, a, do' wa, nihongo de, totemo taisetsu na nakama desu. Iroiro na kotoba ni, tsunagatte imasu yo."
+  },
+  "sl2.talk_player": {
+    "en": "(Kore, sore, are, dore. Near, not near, far, and choosing. When I talk while pointing, Japanese feels much closer. Tomorrow, I'll try it in a shop.)",
+    "ru": "(Коре, соре, аре, доре. Близко, не близко, далеко и выбор. Когда я говорю, показывая пальцем, японский становится намного ближе. Завтра попробую использовать это в магазине.)",
+    "zh": "（これ、それ、あれ、どれ。近的、不太近的、远的，还有选择。一边用手指着一边说，日语一下子就变得亲近了。明天，我要在店里试着用一用。）",
+    "ja": "（これ、それ、あれ、どれ。近い、近くない、遠い、そして、選ぶ。指でさしながら話すと、日本語が、ぐっと近くなった。あしたは、お店で、使ってみよう。）",
+    "romaji": "(Kore, sore, are, dore. Chikai, chikaku nai, tooi, soshite, erabu. Yubi de sashinagara hanasu to, nihongo ga, gutto chikaku natta. Ashita wa, omise de, tsukatte miyou.)"
+  },
+  "sl2.talk_close": {
+    "en": "Good lesson, everyone. In the next class, we'll study “koko,” “soko,” “asoko,” and “arimasu” and “imasu.”",
+    "ru": "Хороший урок, все. На следующем уроке изучим «коко», «соко», «асоко», а также «аримас» и «имас».",
+    "zh": "各位，这节课很棒。下节课我们来学习「ここ」「そこ」「あそこ」，以及「あります」「います」。",
+    "ja": "みなさん、いいレッスンでした。次の授業では、「ここ」「そこ」「あそこ」と、「あります」「います」を勉強しましょう。",
+    "romaji": "Minasan, ii ressun deshita. Tsugi no jugyou de wa, 'koko' 'soko' 'asoko' to, 'arimasu' 'imasu' o benkyou shimashou."
+  },
+  "sl2.complete": {
+    "en": "End of Sentence Lesson 2.",
+    "ru": "Конец урока предложений 2.",
+    "zh": "句型课 2 结束。",
+    "ja": "文型レッスン2、おわり。",
+    "romaji": "Bunkei ressun ni, owari."
+  }
+}
