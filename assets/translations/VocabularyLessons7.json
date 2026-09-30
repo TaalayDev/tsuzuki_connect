@@ -1,0 +1,793 @@
+{
+  "vl7.title": {
+    "en": "Interests and Dreams for the Future",
+    "ru": "Увлечения и мечты о будущем",
+    "zh": "喜欢的事，与将来的梦想",
+    "ja": "好きなことと、将来の夢",
+    "romaji": "Suki na koto to, shourai no yume"
+  },
+  "vl7.subtitle": {
+    "en": "Daily life and what comes next",
+    "ru": "Повседневность и то, что впереди",
+    "zh": "每天的事，和以后的事",
+    "ja": "毎日のこと、これからのこと",
+    "romaji": "Mainichi no koto, korekara no koto"
+  },
+  "vl7.description": {
+    "en": "Practice ten words for talking about anime and reading, daily life, work, and dreams for the future.",
+    "ru": "Потренируйте десять слов для разговора об аниме и чтении, повседневной жизни, работе и мечтах о будущем.",
+    "zh": "练习十个词，用来谈论动画和阅读、日常生活、工作以及将来的梦想。",
+    "ja": "アニメや読書、毎日の生活、仕事と将来の夢について話す言葉を十つ練習します。",
+    "romaji": "Anime ya dokusho, mainichi no seikatsu, shigoto to shourai no yume ni tsuite hanasu kotoba o touka renshuu shimasu."
+  },
+  "vl7.setup": {
+    "en": "The classroom after school. Ken is showing everyone his favorite anime on his phone. Tomorrow is Mei's speech contest.",
+    "ru": "Класс после уроков. Кен показывает всем на телефоне своё любимое аниме. Завтра у Мэй конкурс речей.",
+    "zh": "放学后的教室。健正用手机给大家看他喜欢的动画。明天是小梅的演讲比赛。",
+    "ja": "放課後の教室。ケンが、スマホで好きなアニメを、みんなに見せている。あしたは、メイのスピーチ大会だ。",
+    "romaji": "Houkago no kyoushitsu. Ken ga, sumaho de suki na anime o, minna ni misete iru. Ashita wa, Mei no supiichi taikai da."
+  },
+  "vl7.t_intro": {
+    "en": "Today's theme is what you like and your dreams for the future. Let's talk about ourselves using ten words.",
+    "ru": "Тема сегодня — то, что вы любите, и мечты о будущем. Давайте расскажем о себе с помощью десяти слов.",
+    "zh": "今天的主题是喜欢的事和将来的梦想。我们用十个词来谈谈自己吧。",
+    "ja": "今日のテーマは、好きなことと、将来の夢です。十の言葉で、自分のことを話してみましょう。",
+    "romaji": "Kyou no teema wa, suki na koto to, shourai no yume desu. Juu no kotoba de, jibun no koto o hanashite mimashou."
+  },
+  "vl7.k_anime": {
+    "en": "Look! This is my favorite “anime.”",
+    "ru": "Смотрите! Это моё любимое «аниме».",
+    "zh": "看这个！这就是我最喜欢的「アニメ」。",
+    "ja": "見てください！これが、ぼくの大好きな「アニメ」です。",
+    "romaji": "Mite kudasai! Kore ga, boku no daisuki na 'anime' desu."
+  },
+  "vl7.w1": {
+    "en": "“Anime” means Japanese TV shows and films in which the pictures move. People all over the world study Japanese through anime.",
+    "ru": "«Аниме» — это японские телепередачи и фильмы с движущимися рисунками. Люди по всему миру изучают японский с помощью аниме.",
+    "zh": "「アニメ」指的是画面会动的日本电视节目和电影。世界各地的人都在通过动画学习日语。",
+    "ja": "「アニメ」は、絵が動く、日本のテレビ番組や映画のことです。世界中の人が、アニメで日本語を勉強しています。",
+    "romaji": "'Anime' wa, e ga ugoku, Nihon no terebi bangumi ya eiga no koto desu. Sekaijuu no hito ga, anime de nihongo o benkyou shite imasu."
+  },
+  "vl7.w1_ken": {
+    "en": "This story is really “omoshiroi.”",
+    "ru": "Эта история очень «омосирой».",
+    "zh": "这个故事非常「面白い」哦。",
+    "ja": "この話は、とても「面白い」ですよ。",
+    "romaji": "Kono hanashi wa, totemo 'omoshiroi' desu yo."
+  },
+  "vl7.w2": {
+    "en": "You say “omoshiroi” when a story or a person is interesting and catches your attention. It works for both funny things and interesting things.",
+    "ru": "«Омосирой» говорят, когда история или человек интересны и привлекают внимание. Оно подходит и для смешного, и для увлекательного.",
+    "zh": "故事或人很有趣、吸引人的时候说「面白い」。好笑的和引人入胜的都可以用。",
+    "ja": "「面白い」は、話や人が、おもしろくて、心をひくときに言います。笑えるときも、興味があるときも使えます。",
+    "romaji": "'Omoshiroi' wa, hanashi ya hito ga, omoshirokute, kokoro o hiku toki ni iimasu. Waraeru toki mo, kyoumi ga aru toki mo tsukaemasu."
+  },
+  "vl7.w2_q": {
+    "en": "Is “omoshiroi” different from “tanoshii”?",
+    "ru": "«Омосирой» и «таносий» отличаются?",
+    "zh": "「面白い」和「楽しい」有区别吗？",
+    "ja": "「面白い」と「楽しい」は、ちがいますか？",
+    "romaji": "'Omoshiroi' to 'tanoshii' wa, chigaimasu ka?"
+  },
+  "vl7.w2_a": {
+    "en": "Yes. “Omoshiroi” describes a thing or a story. “Tanoshii” is for when the time you are spending feels enjoyable.",
+    "ru": "Да. «Омосирой» описывает предмет или историю. «Таносий» — когда вам приятно проводить время.",
+    "zh": "是的。「面白い」是形容事物或故事。「楽しい」是在自己度过的时间很愉快时使用。",
+    "ja": "はい。「面白い」は、ものや話のことです。「楽しい」は、自分の時間が楽しいときに使います。",
+    "romaji": "Hai. 'Omoshiroi' wa, mono ya hanashi no koto desu. 'Tanoshii' wa, jibun no jikan ga tanoshii toki ni tsukaimasu."
+  },
+  "vl7.p1_prompt": {
+    "en": "Ken asks, “This anime is really good. Have you seen it?” You haven't seen it yet. What do you say?",
+    "ru": "Кен спрашивает: «Это аниме очень интересное. Вы смотрели?» Вы ещё не смотрели. Что вы скажете?",
+    "zh": "健问：“这部动画很有意思。你看过吗？”你还没看过。你会怎么说？",
+    "ja": "ケンさんが、「このアニメ、面白いですよ。見ましたか？」と聞きました。まだ見ていません。何と言いますか？",
+    "romaji": "Ken-san ga, 'Kono anime, omoshiroi desu yo. Mimashita ka?' to kikimashita. Mada mite imasen. Nan to iimasu ka?"
+  },
+  "vl7.c1_natural": {
+    "en": "“I haven't seen it yet. It looks interesting!”",
+    "ru": "«Ещё не смотрел. Выглядит интересно!»",
+    "zh": "“我还没看过。看起来很有意思！”",
+    "ja": "「まだ見ていません。面白そうですね！」",
+    "romaji": "'Mada mite imasen. Omoshirosou desu ne!'"
+  },
+  "vl7.c1_formal": {
+    "en": "“Regrettably, I have not yet had the pleasure of viewing it. I should very much like to.”",
+    "ru": "«К сожалению, я ещё не имел удовольствия его смотреть. Очень хотел бы».",
+    "zh": "“很遗憾，我尚未拜观。很想找机会一看。”",
+    "ja": "「残念ながら、まだ拝見しておりません。ぜひ、拝見したく存じます。」",
+    "romaji": "'Zannen nagara, mada haiken shite orimasen. Zehi, haiken shitaku zonjimasu.'"
+  },
+  "vl7.c1_mistake": {
+    "en": "“It's not interesting.”",
+    "ru": "«Это неинтересно».",
+    "zh": "“不有意思。”",
+    "ja": "「面白くないです。」",
+    "romaji": "'Omoshirokunai desu.'"
+  },
+  "vl7.c1_own": {
+    "en": "“I haven't seen it yet. What is the story about? Does watching anime help with studying Japanese?”",
+    "ru": "«Ещё не смотрел. О чём эта история? Помогает ли аниме в изучении японского?»",
+    "zh": "“我还没看过。是什么样的故事？看动画对学日语有帮助吗？”",
+    "ja": "「まだ見ていません。どんな話ですか？アニメを見ると、日本語の勉強になりますか？」",
+    "romaji": "'Mada mite imasen. Donna hanashi desu ka? Anime o miru to, nihongo no benkyou ni narimasu ka?'"
+  },
+  "vl7.c1_min": {
+    "en": "“Ah... not yet...”",
+    "ru": "«А… ещё нет…»",
+    "zh": "“啊……还没……”",
+    "ja": "「あ…まだ…」",
+    "romaji": "'A... mada...'"
+  },
+  "vl7.p1_nat_ken": {
+    "en": "Please do watch it. I'm sure you'll like it.",
+    "ru": "Обязательно посмотрите. Уверен, вам понравится.",
+    "zh": "请一定要看看。你肯定会喜欢的。",
+    "ja": "ぜひ、見てください。きっと、気に入りますよ。",
+    "romaji": "Zehi, mite kudasai. Kitto, ki ni irimasu yo."
+  },
+  "vl7.p1_form_ken": {
+    "en": "Haha, you don't need such formal language to talk about anime.",
+    "ru": "Ха-ха, для разговора об аниме такие вежливые слова не нужны.",
+    "zh": "哈哈，聊动画不需要这么客气的措辞。",
+    "ja": "あはは、アニメの話に、そんなにていねいな言葉は、いりませんよ。",
+    "romaji": "Ahaha, anime no hanashi ni, sonna ni teinei na kotoba wa, irimasen yo."
+  },
+  "vl7.p1_mis_ken": {
+    "en": "Huh... you haven't seen it, and yet it's not interesting? That's a little sad.",
+    "ru": "Что… вы не смотрели, но считаете, что неинтересно? Это немного грустно.",
+    "zh": "咦……你还没看，就说不有意思吗？这让我有点难过。",
+    "ja": "えっ…見ていないのに、面白くないんですか？それは、ちょっとかなしいです。",
+    "romaji": "E... mite inai no ni, omoshirokunai n desu ka? Sore wa, chotto kanashii desu."
+  },
+  "vl7.p1_mis_retry": {
+    "en": "Oh, I'm sorry. I haven't seen it yet. It looks interesting!",
+    "ru": "Ой, простите. Я ещё не смотрел. Выглядит интересно!",
+    "zh": "啊，对不起。我还没看过。看起来很有意思！",
+    "ja": "あっ、ごめんなさい。まだ見ていません。面白そうですね！",
+    "romaji": "A, gomennasai. Mada mite imasen. Omoshirosou desu ne!"
+  },
+  "vl7.p1_mis_relief": {
+    "en": "Yes, please give it a try!",
+    "ru": "Да, обязательно посмотрите!",
+    "zh": "好，请看看吧！",
+    "ja": "はい、見てみてください！",
+    "romaji": "Hai, mite mite kudasai!"
+  },
+  "vl7.p1_own_ken": {
+    "en": "Good question. Anime uses natural speech, so it does help with studying Japanese.",
+    "ru": "Хороший вопрос. В аниме естественная речь, так что оно помогает изучать японский.",
+    "zh": "问得好。动画里的说话方式很自然，所以对学日语有帮助。",
+    "ja": "いい質問ですね。アニメは、話し方が自然なので、日本語の勉強になりますよ。",
+    "romaji": "Ii shitsumon desu ne. Anime wa, hanashikata ga shizen na node, nihongo no benkyou ni narimasu yo."
+  },
+  "vl7.p1_min_mei": {
+    "en": "Ha, you can just say “mada mite imasen.”",
+    "ru": "Ха-ха, можно просто сказать «мада митэ имасэн».",
+    "zh": "呵呵，说「まだ見ていません」就可以了。",
+    "ja": "ふふ、「まだ見ていません」と、言えばいいですよ。",
+    "romaji": "Fufu, 'mada mite imasen' to, ieba ii desu yo."
+  },
+  "vl7.y_read": {
+    "en": "I like anime too, but I also like to “yomu,” read, books.",
+    "ru": "Мне нравится и аниме, но я ещё люблю «ёму» — читать книги.",
+    "zh": "我也喜欢动画，不过我也喜欢「読む」书。",
+    "ja": "わたしは、アニメも好きですが、本を「読む」のも好きです。",
+    "romaji": "Watashi wa, anime mo suki desu ga, hon o 'yomu' no mo suki desu."
+  },
+  "vl7.w3": {
+    "en": "“Yomu” means to look at written characters and understand the meaning. Books, letters, and news are all things you “yomu.”",
+    "ru": "«Ёму» — это смотреть на письменные знаки и понимать смысл. Книги, письма, новости — всё это «ёму».",
+    "zh": "「読む」是看文字并理解意思。书、信、新闻，都是「読む」。",
+    "ja": "「読む」は、文字を見て、意味を知ることです。本も、手紙も、ニュースも、「読む」です。",
+    "romaji": "'Yomu' wa, moji o mite, imi o shiru koto desu. Hon mo, tegami mo, nyuusu mo, 'yomu' desu."
+  },
+  "vl7.w3_q": {
+    "en": "Is anime “miru,” and manga “yomu”?",
+    "ru": "Аниме — это «миру», а манга — «ёму»?",
+    "zh": "动画是「見る」，漫画是「読む」吗？",
+    "ja": "アニメは、「見る」ですか？マンガは、「読む」ですか？",
+    "romaji": "'Anime' wa, 'miru' desu ka? 'Manga' wa, 'yomu' desu ka?"
+  },
+  "vl7.w3_a": {
+    "en": "Exactly. Anime is something you watch with your eyes, “miru,” while manga is something you read, “yomu.”",
+    "ru": "Именно. Аниме — то, что смотрят глазами, «миру», а мангу — читают, «ёму».",
+    "zh": "没错。动画是用眼睛「見る」的，漫画是要「読む」文字的。",
+    "ja": "そのとおりです。アニメは目で「見る」もの、マンガは文字を「読む」ものです。",
+    "romaji": "Sono toori desu. Anime wa me de 'miru' mono, manga wa moji o 'yomu' mono desu."
+  },
+  "vl7.y_daily": {
+    "en": "Every day, I read a little before going to bed.",
+    "ru": "Каждый день я немного читаю перед сном.",
+    "zh": "我每天睡觉前都会读一点。",
+    "ja": "わたしは、毎日、寝る前に、少し読みます。",
+    "romaji": "Watashi wa, mainichi, neru mae ni, sukoshi yomimasu."
+  },
+  "vl7.w4": {
+    "en": "“Mainichi” means every single day, without missing a day.",
+    "ru": "«Майнити» означает каждый день, без пропусков.",
+    "zh": "「毎日」是一天也不间断，一直持续。",
+    "ja": "「毎日」は、一日も休まずに、ずっと続けることです。",
+    "romaji": "'Mainichi' wa, ichinichi mo yasumazu ni, zutto tsuzukeru koto desu."
+  },
+  "vl7.w4_q": {
+    "en": "Is “mainichi” the same as “itsumo”?",
+    "ru": "«Майнити» и «ицумо» — это одно и то же?",
+    "zh": "「毎日」和「いつも」一样吗？",
+    "ja": "「毎日」と「いつも」は、同じですか？",
+    "romaji": "'Mainichi' to 'itsumo' wa, onaji desu ka?"
+  },
+  "vl7.w4_a": {
+    "en": "No. “Mainichi” is about each day. “Itsumo” means “at all times, whatever the situation.”",
+    "ru": "Нет. «Майнити» — каждый день. «Ицумо» означает «всегда, в любых обстоятельствах».",
+    "zh": "不一样。「毎日」是以每一天为单位。「いつも」是指无论什么时候。",
+    "ja": "ちがいます。「毎日」は、一日ごとです。「いつも」は、どんなときも、という意味です。",
+    "romaji": "Chigaimasu. 'Mainichi' wa, ichinichi goto desu. 'Itsumo' wa, donna toki mo, to iu imi desu."
+  },
+  "vl7.w5": {
+    "en": "And “kyou,” today. It means this very day that we are speaking in.",
+    "ru": "А ещё «кё» — сегодня. Это тот самый день, в который мы сейчас говорим.",
+    "zh": "还有「今日」。指现在正在交谈的这一天。",
+    "ja": "それから、「今日」。今、話している、この一日のことです。",
+    "romaji": "Sorekara, 'kyou'. Ima, hanashite iru, kono ichinichi no koto desu."
+  },
+  "vl7.w5_q": {
+    "en": "What do you call the day before and the day after “kyou”?",
+    "ru": "Как называются день до и после «кё»?",
+    "zh": "「今日」的前一天和后一天，分别怎么说？",
+    "ja": "「今日」の前と後は、何と言いますか？",
+    "romaji": "'Kyou' no mae to ato wa, nan to iimasu ka?"
+  },
+  "vl7.w5_a": {
+    "en": "The day before is “kinou,” and the day after is “ashita.” Let's remember them together as “kinou, kyou, ashita.”",
+    "ru": "Предыдущий день — «кинō», следующий — «асита». Запомним как «кинō, кё, асита».",
+    "zh": "前一天是「昨日」，后一天是「明日」。我们一起记成「昨日、今日、明日」。",
+    "ja": "前は「昨日」、後は「明日」です。「昨日、今日、明日」と、覚えましょう。",
+    "romaji": "Mae wa 'kinou', ato wa 'ashita' desu. 'Kinou, kyou, ashita' to, oboemashou."
+  },
+  "vl7.p2_prompt": {
+    "en": "Now let's practice. What do you do every day? And what did you do today?",
+    "ru": "Теперь практика. Что вы делаете каждый день? И что вы делали сегодня?",
+    "zh": "现在来练习。你每天做什么？今天又做了什么？",
+    "ja": "では、練習です。あなたは、毎日何をしていますか？そして、今日は何をしましたか？",
+    "romaji": "Dewa, renshuu desu. Anata wa, mainichi nani o shite imasu ka? Soshite, kyou wa nani o shimashita ka?"
+  },
+  "vl7.c2_natural": {
+    "en": "“I study Japanese every day. Today, I read a book.”",
+    "ru": "«Я изучаю японский каждый день. Сегодня я читал книгу».",
+    "zh": "“我每天学习日语。今天读了一本书。”",
+    "ja": "「毎日、日本語を勉強しています。今日は、本を読みました。」",
+    "romaji": "'Mainichi, nihongo o benkyou shite imasu. Kyou wa, hon o yomimashita.'"
+  },
+  "vl7.c2_formal": {
+    "en": "“I devote myself daily to the study of Japanese. Today, I engaged in reading.”",
+    "ru": "«Ежедневно я усердствую в изучении японского. Сегодня я занимался чтением».",
+    "zh": "“我每日致力于日语的钻研。今日进行了阅读。”",
+    "ja": "「私は、日々、日本語の研鑽に励んでおります。本日は、読書をいたしました。」",
+    "romaji": "'Watashi wa, hibi, nihongo no kensan ni hagende orimasu. Honjitsu wa, dokusho o itashimashita.'"
+  },
+  "vl7.c2_mistake": {
+    "en": "“Today, every day, I study Japanese.”",
+    "ru": "«Сегодня, каждый день, я изучаю японский».",
+    "zh": "“今天、每天，我在学习日语。”",
+    "ja": "「今日、毎日、日本語を勉強しています。」",
+    "romaji": "'Kyou, mainichi, nihongo o benkyou shite imasu.'"
+  },
+  "vl7.c2_own": {
+    "en": "“Every day, I watch anime and listen to Japanese. Today, I watched Ken's anime and studied.”",
+    "ru": "«Каждый день я смотрю аниме и слушаю японский. Сегодня я смотрел аниме Кена и учился».",
+    "zh": "“我每天看动画，听日语。今天看了健的动画，学了些东西。”",
+    "ja": "「毎日、アニメを見て、日本語を聞きます。今日は、ケンさんのアニメを見て、勉強しました。」",
+    "romaji": "'Mainichi, anime o mite, nihongo o kikimasu. Kyou wa, Ken-san no anime o mite, benkyou shimashita.'"
+  },
+  "vl7.c2_min": {
+    "en": "“Every day... study...”",
+    "ru": "«Каждый день… учусь…»",
+    "zh": "“每天……学习……”",
+    "ja": "「毎日…勉強…」",
+    "romaji": "'Mainichi... benkyou...'"
+  },
+  "vl7.p2_nat_tanaka": {
+    "en": "Wonderful. Keeping at it every day is what matters most.",
+    "ru": "Замечательно. Главное — заниматься каждый день.",
+    "zh": "太好了。每天坚持才是最重要的。",
+    "ja": "すばらしい。毎日続けることが、いちばん大切です。",
+    "romaji": "Subarashii. Mainichi tsuzukeru koto ga, ichiban taisetsu desu."
+  },
+  "vl7.p2_form_yuki": {
+    "en": "Ha, that sounds like a newspaper article. You can say it more simply.",
+    "ru": "Ха-ха, как в газетной статье. Можно сказать проще.",
+    "zh": "呵呵，简直像报纸上的文章。说得简单一点也没关系哦。",
+    "ja": "ふふ、まるで、新聞の記事みたいです。もっとやさしく言って、大丈夫ですよ。",
+    "romaji": "Fufu, marude, shinbun no kiji mitai desu. Motto yasashiku itte, daijoubu desu yo."
+  },
+  "vl7.p2_mis_yuki": {
+    "en": "“Mainichi” and “kyou” can't be used together. “Mainichi” is every day. “Kyou” is only this one day.",
+    "ru": "«Майнити» и «кё» нельзя использовать вместе. «Майнити» — каждый день, «кё» — только этот один день.",
+    "zh": "「毎日」和「今日」不能一起用。「毎日」是每一天，「今日」只是这一天。",
+    "ja": "「毎日」と「今日」は、いっしょに使えません。「毎日」は、いつも。「今日」は、この一日だけです。",
+    "romaji": "'Mainichi' to 'kyou' wa, issho ni tsukaemasen. 'Mainichi' wa, itsumo. 'Kyou' wa, kono ichinichi dake desu."
+  },
+  "vl7.p2_mis_retry": {
+    "en": "Oh, I study Japanese every day. Today, I read a book.",
+    "ru": "Ой, я изучаю японский каждый день. Сегодня я читал книгу.",
+    "zh": "啊，我每天学习日语。今天读了一本书。",
+    "ja": "あっ、毎日、日本語を勉強しています。今日は、本を読みました。",
+    "romaji": "A, mainichi, nihongo o benkyou shite imasu. Kyou wa, hon o yomimashita."
+  },
+  "vl7.p2_mis_relief": {
+    "en": "Yes, that's it! It sounds very natural.",
+    "ru": "Да, именно так! Звучит очень естественно.",
+    "zh": "对，就是这个！非常自然。",
+    "ja": "はい、それです！とても自然です。",
+    "romaji": "Hai, sore desu! Totemo shizen desu."
+  },
+  "vl7.p2_own_ken": {
+    "en": "Oh, you watched my anime? I'm so happy!",
+    "ru": "Что, вы посмотрели моё аниме? Я так рад!",
+    "zh": "咦，你看了我的动画吗？我好高兴！",
+    "ja": "えっ、ぼくのアニメを見てくれたんですか？うれしいです！",
+    "romaji": "E, boku no anime o mite kureta n desu ka? Ureshii desu!"
+  },
+  "vl7.p2_min_tanaka": {
+    "en": "I understand what you want to say. Next time, try a full sentence: “mainichi, nihongo o benkyou shite imasu.”",
+    "ru": "Я понимаю, что вы хотите сказать. В следующий раз скажите целое предложение: «майнити, нихонго о бэнкё ситэ имас».",
+    "zh": "我明白你想说什么。下次试着说完整的句子：「毎日、日本語を勉強しています」。",
+    "ja": "言いたいことは、分かりますよ。次は、「毎日、日本語を勉強しています」と、文で言ってみましょう。",
+    "romaji": "Iitai koto wa, wakarimasu yo. Tsugi wa, 'mainichi, nihongo o benkyou shite imasu' to, bun de itte mimashou."
+  },
+  "vl7.hall": {
+    "en": "In the hallway, Mei is looking over her speech draft. The theme is “My Future.”",
+    "ru": "В коридоре Мэй просматривает текст своей речи. Тема — «Моё будущее».",
+    "zh": "走廊里，小梅正在看演讲稿。题目是「我的将来」。",
+    "ja": "廊下で、メイが、スピーチの原稿を見ている。テーマは、「私の将来」だ。",
+    "romaji": "Rouka de, Mei ga, supiichi no genkou o mite iru. Teema wa, 'watashi no shourai' da."
+  },
+  "vl7.m_future": {
+    "en": "My dream for the “shourai,” future, is to become a Japanese teacher.",
+    "ru": "Моя мечта о «сёрай» — будущем — стать учителем японского.",
+    "zh": "我「将来」的梦想是成为日语老师。",
+    "ja": "わたしの「将来」の夢は、日本語の先生になることです。",
+    "romaji": "Watashi no 'shourai' no yume wa, nihongo no sensei ni naru koto desu."
+  },
+  "vl7.w6": {
+    "en": "“Shourai” means the time ahead of you, a little way into the future. “Shourai no yume” is a very common phrase.",
+    "ru": "«Сёрай» — это время впереди, немного дальше в будущем. «Сёрай но юмэ» — очень употребительное выражение.",
+    "zh": "「将来」指今后、稍远一些的时间。「将来の夢」是常用的说法。",
+    "ja": "「将来」は、これからの、少し先の時間のことです。「将来の夢」は、よく使う言葉です。",
+    "romaji": "'Shourai' wa, korekara no, sukoshi saki no jikan no koto desu. 'Shourai no yume' wa, yoku tsukau kotoba desu."
+  },
+  "vl7.w6_q": {
+    "en": "How is “shourai” different from “mirai”?",
+    "ru": "Чем «сёрай» отличается от «мирай»?",
+    "zh": "「将来」和「未来」有什么不同？",
+    "ja": "「将来」と「未来」は、どうちがいますか？",
+    "romaji": "'Shourai' to 'mirai' wa, dou chigaimasu ka?"
+  },
+  "vl7.w6_a": {
+    "en": "“Shourai” is the road ahead in your own life. “Mirai” is broader and can also be used for the future of the world or society.",
+    "ru": "«Сёрай» — это дальнейший путь вашей собственной жизни. «Мирай» шире, оно используется и для будущего мира или общества.",
+    "zh": "「将来」是自己人生今后的路。「未来」更宽泛，也可以用于世界和社会的未来。",
+    "ja": "「将来」は、自分の人生の、これからです。「未来」は、もっと広くて、世界や社会の、これからにも使います。",
+    "romaji": "'Shourai' wa, jibun no jinsei no, korekara desu. 'Mirai' wa, motto hirokute, sekai ya shakai no, korekara ni mo tsukaimasu."
+  },
+  "vl7.y_work": {
+    "en": "I'm doing “shigoto,” work, at the café now. But in the future, I want to try other jobs too.",
+    "ru": "Сейчас я занимаюсь «сигото» — работой — в кафе. Но в будущем хочу попробовать и другую работу.",
+    "zh": "我现在在咖啡店做「仕事」。不过将来我也想尝试别的工作。",
+    "ja": "わたしは、今、カフェで「仕事」をしています。でも、将来は、ちがう仕事もしてみたいです。",
+    "romaji": "Watashi wa, ima, kafe de 'shigoto' o shite imasu. Demo, shourai wa, chigau shigoto mo shite mitai desu."
+  },
+  "vl7.w7": {
+    "en": "“Shigoto” is an activity you do in return for pay. A part-time job, “arubaito,” is also a kind of shigoto.",
+    "ru": "«Сигото» — деятельность, за которую получают деньги. «Арубайто» — подработка — тоже вид сигото.",
+    "zh": "「仕事」是通过做某事获得报酬的活动。「アルバイト」也是一种仕事。",
+    "ja": "「仕事」は、お金をもらって、する活動です。「アルバイト」も、仕事の一つです。",
+    "romaji": "'Shigoto' wa, okane o moratte, suru katsudou desu. 'Arubaito' mo, shigoto no hitotsu desu."
+  },
+  "vl7.p3_prompt": {
+    "en": "Now let's practice. What kind of work do you want to do in the future? Tell us your dream.",
+    "ru": "Теперь практика. Какой работой вы хотите заниматься в будущем? Расскажите о своей мечте.",
+    "zh": "现在来练习。你将来想做什么样的工作？请说说你的梦想。",
+    "ja": "では、練習です。将来、どんな仕事をしたいですか？夢を話してください。",
+    "romaji": "Dewa, renshuu desu. Shourai, donna shigoto o shitai desu ka? Yume o hanashite kudasai."
+  },
+  "vl7.c3_natural": {
+    "en": "“In the future, I want to do work teaching Japanese.”",
+    "ru": "«В будущем я хочу заниматься работой, связанной с преподаванием японского».",
+    "zh": "“将来，我想做教日语的工作。”",
+    "ja": "「将来、日本語を教える仕事を、したいです。」",
+    "romaji": "'Shourai, nihongo o oshieru shigoto o, shitai desu.'"
+  },
+  "vl7.c3_formal": {
+    "en": "“It is my intention to be engaged in Japanese language education in the future.”",
+    "ru": "«Я намерен в будущем заниматься преподаванием японского языка».",
+    "zh": "“我将来打算从事日语教育工作。”",
+    "ja": "「私は、将来、日本語教育に、携わる所存でございます。」",
+    "romaji": "'Watashi wa, shourai, nihongo kyouiku ni, tazusawaru shozon de gozaimasu.'"
+  },
+  "vl7.c3_mistake": {
+    "en": "“Today, I want to work.”",
+    "ru": "«Сегодня я хочу работать».",
+    "zh": "“今天我想工作。”",
+    "ja": "「今日、仕事をしたいです。」",
+    "romaji": "'Kyou, shigoto o shitai desu.'"
+  },
+  "vl7.c3_own": {
+    "en": "“In the future, I want to work in anime. I want to create interesting stories every day.”",
+    "ru": "«В будущем я хочу работать в аниме. Я хочу каждый день создавать интересные истории».",
+    "zh": "“将来，我想从事动画方面的工作。我想每天创作有趣的故事。”",
+    "ja": "「将来は、アニメの仕事がしたいです。毎日、面白い話を作りたいです。」",
+    "romaji": "'Shourai wa, anime no shigoto ga shitai desu. Mainichi, omoshiroi hanashi o tsukuritai desu.'"
+  },
+  "vl7.c3_min": {
+    "en": "“Future... work... not yet...”",
+    "ru": "«Будущее… работа… пока…»",
+    "zh": "“将来……工作……还没……”",
+    "ja": "「将来…仕事…まだ…」",
+    "romaji": "'Shourai... shigoto... mada...'"
+  },
+  "vl7.p3_nat_mei": {
+    "en": "That's the same dream as mine! Let's do our best together.",
+    "ru": "Та же мечта, что и у меня! Давайте вместе стараться.",
+    "zh": "和我的梦想一样呢！我们一起加油吧。",
+    "ja": "わたしと、同じ夢ですね！いっしょに、頑張りましょう。",
+    "romaji": "Watashi to, onaji yume desu ne! Issho ni, ganbarimashou."
+  },
+  "vl7.p3_form_ken": {
+    "en": "Haha, that sounds like a company president's speech. “Sensei no shigoto o shitai desu” is fine.",
+    "ru": "Ха-ха, как речь директора компании. Достаточно «сэнсэй но сигото о ситай дэс».",
+    "zh": "哈哈，像社长的演讲一样。说「先生の仕事をしたいです」就好。",
+    "ja": "あはは、社長のスピーチみたいですね。「先生の仕事をしたいです」で、いいですよ。",
+    "romaji": "Ahaha, shachou no supiichi mitai desu ne. 'Sensei no shigoto o shitai desu' de, ii desu yo."
+  },
+  "vl7.p3_mis_ken": {
+    "en": "Huh? “Kyou” is just this one day. For what lies ahead, use “shourai.”",
+    "ru": "Ой? «Кё» — только этот день. Для того, что впереди, используют «сёрай».",
+    "zh": "咦？「今日」只是这一天。今后的事要说「将来」。",
+    "ja": "あれ？「今日」は、この一日ですよ。これからのことは、「将来」です。",
+    "romaji": "Are? 'Kyou' wa, kono ichinichi desu yo. Korekara no koto wa, 'shourai' desu."
+  },
+  "vl7.p3_mis_retry": {
+    "en": "Oh, in the future, I want to work.",
+    "ru": "Ой, в будущем я хочу работать.",
+    "zh": "啊，将来我想工作。",
+    "ja": "あっ、将来、仕事をしたいです。",
+    "romaji": "A, shourai, shigoto o shitai desu."
+  },
+  "vl7.p3_mis_relief": {
+    "en": "Yes, that's it! Your dream comes across.",
+    "ru": "Да, именно так! Ваша мечта понятна.",
+    "zh": "对，就是这个！你的梦想传达出来了。",
+    "ja": "はい、それです！夢が、伝わりますね。",
+    "romaji": "Hai, sore desu! Yume ga, tsutawarimasu ne."
+  },
+  "vl7.p3_own_ken": {
+    "en": "Nice! I'm interested in working in anime too.",
+    "ru": "Здорово! Меня тоже интересует работа в аниме.",
+    "zh": "不错！我也对动画方面的工作感兴趣。",
+    "ja": "いいですね！ぼくも、アニメの仕事に、きょうみがあります。",
+    "romaji": "Ii desu ne! Boku mo, anime no shigoto ni, kyoumi ga arimasu."
+  },
+  "vl7.p3_min_tanaka": {
+    "en": "It's fine if you haven't decided yet. You can say “shourai wa, mada kimete imasen.”",
+    "ru": "Ничего страшного, если вы ещё не решили. Можно сказать «сёрай ва, мада кимэтэ имасэн».",
+    "zh": "还没决定也没关系。可以说「将来は、まだ決めていません」。",
+    "ja": "まだ決まっていなくても、大丈夫です。「将来は、まだ決めていません」と言えます。",
+    "romaji": "Mada kimatte inakute mo, daijoubu desu. 'Shourai wa, mada kimete imasen' to iemasu."
+  },
+  "vl7.park": {
+    "en": "An evening park. Mei is practicing tomorrow's speech alone on a bench.",
+    "ru": "Вечерний парк. Мэй в одиночестве репетирует завтрашнюю речь на скамейке.",
+    "zh": "傍晚的公园。小梅一个人在长椅上练习明天的演讲。",
+    "ja": "夕方の公園。メイは、あしたのスピーチを、ベンチで一人で練習している。",
+    "romaji": "Yuugata no kouen. Mei wa, ashita no supiichi o, benchi de hitori de renshuu shite iru."
+  },
+  "vl7.m_alone": {
+    "en": "I wonder if it will go well... I'm scared after all.",
+    "ru": "Получится ли… Всё-таки страшно.",
+    "zh": "不知道会不会顺利……果然还是有点害怕。",
+    "ja": "うまくいくかな…。やっぱり、こわいです。",
+    "romaji": "Umaku iku ka na.... Yappari, kowai desu."
+  },
+  "vl7.k_try": {
+    "en": "Anyway, what matters is to “yatte miru,” give it a try.",
+    "ru": "В любом случае важно «яттэ миру» — попробовать.",
+    "zh": "总之，「やってみる」这件事很重要。",
+    "ja": "とにかく、「やってみる」ことが大切ですよ。",
+    "romaji": "Tonikaku, 'yatte miru' koto ga taisetsu desu yo."
+  },
+  "vl7.w8": {
+    "en": "“Yatte miru” means to try first even if you don't know whether you'll do well. Saying “yatte mimasu” conveys a positive attitude.",
+    "ru": "«Яттэ миру» — значит сначала попробовать, даже если не знаете, получится ли. Слова «яттэ мимас» передают позитивный настрой.",
+    "zh": "「やってみる」是即使不知道能不能做好，也先试试。说「やってみます」能传达积极的心态。",
+    "ja": "「やってみる」は、うまくできるか分からなくても、まず試すことです。「やってみます」と言うと、前向きな気持ちが伝わります。",
+    "romaji": "'Yatte miru' wa, umaku dekiru ka wakaranakute mo, mazu tamesu koto desu. 'Yatte mimasu' to iu to, maemuki na kimochi ga tsutawarimasu."
+  },
+  "vl7.w8_q": {
+    "en": "Are “yatte mimasu” and “yarimasu” different?",
+    "ru": "«Яттэ мимас» и «яримас» отличаются?",
+    "zh": "「やってみます」和「やります」有区别吗？",
+    "ja": "「やってみます」と「やります」は、ちがいますか？",
+    "romaji": "'Yatte mimasu' to 'yarimasu' wa, chigaimasu ka?"
+  },
+  "vl7.w8_a": {
+    "en": "Yes. “Yarimasu” is a strong way to say you will definitely do it. “Yatte mimasu” is a softer way of saying you'll try it first.",
+    "ru": "Да. «Яримас» — сильное выражение: «обязательно сделаю». «Яттэ мимас» — более мягкое: «сначала попробую».",
+    "zh": "是的。「やります」是“一定会做”的强烈说法。「やってみます」是“先试试看”的委婉说法。",
+    "ja": "はい。「やります」は、必ずする、という強い言い方です。「やってみます」は、まず試してみる、という、やわらかい言い方です。",
+    "romaji": "Hai. 'Yarimasu' wa, kanarazu suru, to iu tsuyoi iikata desu. 'Yatte mimasu' wa, mazu tameshite miru, to iu, yawarakai iikata desu."
+  },
+  "vl7.y_club": {
+    "en": "I hear there is a voice practice meeting in front of the station. Mei, why don't we try it together?",
+    "ru": "Говорят, перед вокзалом проходит занятие по постановке голоса. Мэй, почему бы нам не попробовать вместе?",
+    "zh": "听说车站前有个声音练习会。小梅，我们要不要一起试试？",
+    "ja": "駅の前で、声の練習会が、あるそうです。メイさん、一緒にやってみませんか？",
+    "romaji": "Eki no mae de, koe no renshuukai ga, aru sou desu. Mei-san, issho ni yatte mimasen ka?"
+  },
+  "vl7.p4_prompt": {
+    "en": "Yuki invites you: “Why don't we try it together?” You want to try it too. What do you say?",
+    "ru": "Юки приглашает: «Может, попробуем вместе?» Вам тоже хочется попробовать. Что вы скажете?",
+    "zh": "由纪邀请你：“要不要一起试试？”你也想试试。你会怎么说？",
+    "ja": "由紀さんが、「一緒にやってみませんか？」と、さそいました。あなたも、やってみたいです。何と言いますか？",
+    "romaji": "Yuki-san ga, 'Issho ni yatte mimasen ka?' to, sasoimashita. Anata mo, yatte mitai desu. Nan to iimasu ka?"
+  },
+  "vl7.c4_natural": {
+    "en": "“That sounds interesting. I'll give it a try!”",
+    "ru": "«Звучит интересно. Попробую!»",
+    "zh": "“听起来很有意思。我来试试！”",
+    "ja": "「面白そうですね。やってみます！」",
+    "romaji": "'Omoshirosou desu ne. Yatte mimasu!'"
+  },
+  "vl7.c4_formal": {
+    "en": "“I would very much like to be permitted to take up the challenge.”",
+    "ru": "«Я бы очень хотел взяться за этот вызов, если позволите».",
+    "zh": "“我很愿意接受这次挑战，还请允许。”",
+    "ja": "「ぜひ、挑戦させていただきたく存じます。」",
+    "romaji": "'Zehi, chousen sasete itadakitaku zonjimasu.'"
+  },
+  "vl7.c4_mistake": {
+    "en": "“Please do it!”",
+    "ru": "«Пожалуйста, сделайте это!»",
+    "zh": "“请你去做！”",
+    "ja": "「やってください！」",
+    "romaji": "'Yatte kudasai!'"
+  },
+  "vl7.c4_own": {
+    "en": "“I'm not confident yet, but I'll try. Mei, let's try it together too.”",
+    "ru": "«Я пока не уверен, но попробую. Мэй, давайте попробуем вместе».",
+    "zh": "“我还没什么自信，不过我想试试。小梅，我们也一起试试吧。”",
+    "ja": "「まだ自信がありませんが、やってみます。メイさんも、一緒にやってみましょう。」",
+    "romaji": "'Mada jishin ga arimasen ga, yatte mimasu. Mei-san mo, issho ni yatte mimashou.'"
+  },
+  "vl7.c4_min": {
+    "en": "“Yeah... I'll... try...”",
+    "ru": "«Да… по… пробую…»",
+    "zh": "“嗯……试……试……”",
+    "ja": "「うん…やって…みる…」",
+    "romaji": "'Un... yatte... miru...'"
+  },
+  "vl7.p4_nat_yuki": {
+    "en": "Yay! Then let's go together tomorrow.",
+    "ru": "Ура! Тогда пойдём вместе завтра.",
+    "zh": "太好了！那我们明天一起去吧。",
+    "ja": "やった！じゃあ、あした、いっしょに行きましょう。",
+    "romaji": "Yatta! Jaa, ashita, issho ni ikimashou."
+  },
+  "vl7.p4_form_mei": {
+    "en": "Ha, that's exaggerated. “Yatte mimasu” conveys your motivation just fine.",
+    "ru": "Ха-ха, слишком пафосно. «Яттэ мимас» отлично передаёт вашу мотивацию.",
+    "zh": "呵呵，太夸张了。说「やってみます」就足以传达干劲。",
+    "ja": "ふふ、大げさです。「やってみます」で、じゅうぶん、やる気が伝わりますよ。",
+    "romaji": "Fufu, oogesa desu. 'Yatte mimasu' de, juubun, yaruki ga tsutawarimasu yo."
+  },
+  "vl7.p4_mis_ken": {
+    "en": "Huh, “yatte kudasai” means “you, please do it.”",
+    "ru": "Что, «яттэ кудасай» означает «вы, пожалуйста, сделайте это».",
+    "zh": "咦，「やってください」的意思是“请你去做”。",
+    "ja": "えっ、「やってください」は、「あなたが、やってください」という意味ですよ。",
+    "romaji": "E, 'yatte kudasai' wa, 'anata ga, yatte kudasai' to iu imi desu yo."
+  },
+  "vl7.p4_mis_retry": {
+    "en": "Oh, I'll give it a try!",
+    "ru": "Ой, я попробую!",
+    "zh": "啊，我来试试！",
+    "ja": "あっ、やってみます！",
+    "romaji": "A, yatte mimasu!"
+  },
+  "vl7.p4_mis_relief": {
+    "en": "Yes, that's it! Let's try it together.",
+    "ru": "Да, именно так! Давайте попробуем вместе.",
+    "zh": "对，就是这个！我们一起试试吧。",
+    "ja": "はい、それです！いっしょに、やってみましょう。",
+    "romaji": "Hai, sore desu! Issho ni, yatte mimashou."
+  },
+  "vl7.p4_own_mei": {
+    "en": "Thank you. Even without confidence, with everyone I feel I can try.",
+    "ru": "Спасибо. Даже без уверенности, вместе со всеми мне кажется, что я смогу попробовать.",
+    "zh": "谢谢。即使没有自信，和大家一起，好像就能试一试了。",
+    "ja": "ありがとう。自信がなくても、みんなでなら、やってみられそうです。",
+    "romaji": "Arigatou. Jishin ga nakute mo, minna de nara, yatte mirare sou desu."
+  },
+  "vl7.p4_min_tanaka": {
+    "en": "That feeling is what matters. Try saying it out loud: “yatte mimasu.”",
+    "ru": "Это чувство важно. Попробуйте сказать вслух: «яттэ мимас».",
+    "zh": "这份心情很重要。试着大声说出来：「やってみます」。",
+    "ja": "その気持ちが大切です。声に出して、「やってみます」と、言ってみましょう。",
+    "romaji": "Sono kimochi ga taisetsu desu. Koe ni dashite, 'yatte mimasu' to, itte mimashou."
+  },
+  "vl7.w9": {
+    "en": "Mei has been practicing “hitori de” the whole time. “Hitori de” means by yourself, not together with anyone else.",
+    "ru": "Мэй всё это время тренировалась «хитори дэ». «Хитори дэ» означает «в одиночку», а не вместе с кем-то.",
+    "zh": "小梅一直是「一人で」练习的。「一人で」的意思是不和别人一起，只靠自己。",
+    "ja": "メイさんは、ずっと「一人で」練習していましたね。「一人で」は、ほかの人といっしょではなく、自分だけで、という意味です。",
+    "romaji": "Mei-san wa, zutto 'hitori de' renshuu shite imashita ne. 'Hitori de' wa, hoka no hito to issho de wa naku, jibun dake de, to iu imi desu."
+  },
+  "vl7.w9_q": {
+    "en": "What is the difference between “hitori” and “hitori de”?",
+    "ru": "В чём разница между «хитори» и «хитори дэ»?",
+    "zh": "「一人」和「一人で」有什么不同？",
+    "ja": "「一人」と「一人で」は、何がちがいますか？",
+    "romaji": "'Hitori' to 'hitori de' wa, nani ga chigaimasu ka?"
+  },
+  "vl7.w9_a": {
+    "en": "“Hitori” is the number, one person. When “de” is added, it expresses the manner, as in “hitori de iku,” go alone, and “hitori de taberu,” eat alone.",
+    "ru": "«Хитори» — это число, один человек. С «дэ» оно выражает способ, например «хитори дэ ику» — идти одному и «хитори дэ табэру» — есть в одиночестве.",
+    "zh": "「一人」是人数，即一个人。加上「で」，就像「一人で行く」「一人で食べる」那样，表示方式。",
+    "ja": "「一人」は、一人の人という数です。「で」がつくと、「一人で行く」「一人で食べる」のように、しかたを表します。",
+    "romaji": "'Hitori' wa, hitori no hito to iu kazu desu. 'De' ga tsuku to, 'hitori de iku' 'hitori de taberu' no you ni, shikata o arawashimasu."
+  },
+  "vl7.w10": {
+    "en": "But working hard alone is not the only good way. The help of friends and family is also “taisetsu.” “Taisetsu” means important and precious, something you don't want to lose.",
+    "ru": "Но упорно трудиться в одиночку — не единственный хороший путь. Помощь друзей и семьи тоже «тайсэцу». «Тайсэцу» — важное, дорогое, то, что не хочется потерять.",
+    "zh": "不过，一个人努力并不是唯一的好办法。朋友和家人的帮助也很「大切」。「大切」是重要、不想失去的东西。",
+    "ja": "でも、一人でがんばるだけが、いいわけではありません。友達や家族の助けも、「大切」です。「大切」は、大事で、なくしたくないもののことです。",
+    "romaji": "Demo, hitori de ganbaru dake ga, ii wake de wa arimasen. Tomodachi ya kazoku no tasuke mo, 'taisetsu' desu. 'Taisetsu' wa, daiji de, nakushitakunai mono no koto desu."
+  },
+  "vl7.p5_prompt": {
+    "en": "Now for the last question. “Which is better: practicing alone, or practicing with everyone?” What do you say?",
+    "ru": "Теперь последний вопрос. «Что лучше: тренироваться в одиночку или вместе со всеми?» Что вы скажете?",
+    "zh": "最后一个问题。“一个人练习和大家一起练习，哪个更好？”你会怎么回答？",
+    "ja": "では、最後の質問です。「一人で練習するのと、みんなで練習するのと、どちらがいいですか？」何と言いますか？",
+    "romaji": "Dewa, saigo no shitsumon desu. 'Hitori de renshuu suru no to, minna de renshuu suru no to, dochira ga ii desu ka?' Nan to iimasu ka?"
+  },
+  "vl7.c5_natural": {
+    "en": "“I practice alone too, but practicing with friends is important as well.”",
+    "ru": "«Я тренируюсь и один, но с друзьями тоже важно».",
+    "zh": "“我也会一个人练习，不过和朋友一起也很重要。”",
+    "ja": "「一人でも練習しますが、友達と一緒も、大切です。」",
+    "romaji": "'Hitori demo renshuu shimasu ga, tomodachi to issho mo, taisetsu desu.'"
+  },
+  "vl7.c5_formal": {
+    "en": "“Solitary training is, of course, important, but I believe joint study is indispensable as well.”",
+    "ru": "«Индивидуальная тренировка, безусловно, важна, но совместное обучение, полагаю, тоже необходимо».",
+    "zh": "“单独锻炼当然重要，不过我认为共同钻研也是不可或缺的。”",
+    "ja": "「単独での鍛錬も、無論、重要ではございますが、共同の研鑽も、不可欠かと存じます。」",
+    "romaji": "'Tandoku de no tanren mo, muron, juuyou de wa gozaimasu ga, kyoudou no kensan mo, fukaketsu ka to zonjimasu.'"
+  },
+  "vl7.c5_mistake": {
+    "en": "“One person practices.”",
+    "ru": "«Один человек тренируется».",
+    "zh": "“一个人在练习。”",
+    "ja": "「一人が、練習します。」",
+    "romaji": "'Hitori ga, renshuu shimasu.'"
+  },
+  "vl7.c5_own": {
+    "en": "“Alone is fine too, but my friends' opinions are important. So today, I want to try it together.”",
+    "ru": "«Одному тоже нормально, но мнение друзей важно. Поэтому сегодня я хочу попробовать вместе».",
+    "zh": "“一个人也没关系，不过朋友的意见也很重要。所以今天我想一起试试。”",
+    "ja": "「一人でも、大丈夫ですが、友達の意見も、大切です。だから、今日は、一緒にやってみたいです。」",
+    "romaji": "'Hitori demo, daijoubu desu ga, tomodachi no iken mo, taisetsu desu. Dakara, kyou wa, issho ni yatte mitai desu.'"
+  },
+  "vl7.c5_min": {
+    "en": "“Alone...”",
+    "ru": "«В одиночку…»",
+    "zh": "“一个人……”",
+    "ja": "「一人で…」",
+    "romaji": "'Hitori de...'"
+  },
+  "vl7.p5_nat_mei": {
+    "en": "Right? I'm truly grateful that everyone came today.",
+    "ru": "Верно. Я по-настоящему благодарна, что сегодня все пришли.",
+    "zh": "是吧。今天大家都来了，我真的很感激。",
+    "ja": "そうですよね。今日は、みんなが来てくれて、本当にありがたいです。",
+    "romaji": "Sou desu yo ne. Kyou wa, minna ga kite kurete, hontou ni arigatai desu."
+  },
+  "vl7.p5_form_ken": {
+    "en": "Haha, that's too difficult. “Hitori demo renshuu shimasu. Tomodachi mo taisetsu desu” is fine.",
+    "ru": "Ха-ха, слишком сложно. Достаточно «хитори дэмо рэнсю симас. Томодати мо тайсэцу дэс».",
+    "zh": "哈哈，太难了。说「一人でも練習します。友達も大切です」就好。",
+    "ja": "あはは、むずかしすぎます。「一人でも練習します。友達も大切です」で、いいですよ。",
+    "romaji": "Ahaha, muzukashisugimasu. 'Hitori demo renshuu shimasu. Tomodachi mo taisetsu desu' de, ii desu yo."
+  },
+  "vl7.p5_mis_tanaka": {
+    "en": "Close. It is “hitori de,” not “hitori ga.” When you express the manner, you use “de.”",
+    "ru": "Почти. Нужно «хитори дэ», а не «хитори га». Когда выражаете способ, используют «дэ».",
+    "zh": "很接近。不是「一人が」，而是「一人で」。表示方式时要用「で」。",
+    "ja": "惜しいです。「一人が」ではなく、「一人で」です。しかたを表すときは、「で」を使います。",
+    "romaji": "Oshii desu. 'Hitori ga' de wa naku, 'hitori de' desu. Shikata o arawasu toki wa, 'de' o tsukaimasu."
+  },
+  "vl7.p5_mis_retry": {
+    "en": "Oh, I practice alone. But practicing with everyone is important too.",
+    "ru": "Ой, я тренируюсь один. Но с друзьями тоже важно.",
+    "zh": "啊，我一个人练习。不过和大家一起也很重要。",
+    "ja": "あっ、一人で練習します。でも、みんなと一緒も、大切です。",
+    "romaji": "A, hitori de renshuu shimasu. Demo, minna to issho mo, taisetsu desu."
+  },
+  "vl7.p5_mis_relief": {
+    "en": "Yes, that's it. A very good answer.",
+    "ru": "Да, именно так. Очень хороший ответ.",
+    "zh": "对，就是这个。回答得很好。",
+    "ja": "はい、それです。とても、いい答えです。",
+    "romaji": "Hai, sore desu. Totemo, ii kotae desu."
+  },
+  "vl7.p5_own_mei": {
+    "en": "Thank you. Your feelings make me happiest.",
+    "ru": "Спасибо. Ваши чувства радуют меня больше всего.",
+    "zh": "谢谢。你的心意让我最高兴。",
+    "ja": "ありがとう。あなたの気持ちが、いちばん、うれしいです。",
+    "romaji": "Arigatou. Anata no kimochi ga, ichiban, ureshii desu."
+  },
+  "vl7.p5_min_yuki": {
+    "en": "Working hard alone is fine too. But next time, try adding “tomodachi mo taisetsu desu.”",
+    "ru": "Стараться в одиночку тоже неплохо. Но в следующий раз попробуйте добавить «томодати мо тайсэцу дэс».",
+    "zh": "一个人努力也很好。不过下次试着加上「友達も大切です」。",
+    "ja": "一人で頑張るのも、いいですよ。でも、次は、「友達も大切です」と、言ってみましょう。",
+    "romaji": "Hitori de ganbaru no mo, ii desu yo. Demo, tsugi wa, 'tomodachi mo taisetsu desu' to, itte mimashou."
+  },
+  "vl7.talk_open": {
+    "en": "Now let's talk. Out of today's ten words, which one do you want to use every day starting tomorrow?",
+    "ru": "Теперь поговорим. Какое из сегодняшних десяти слов вы хотите использовать каждый день, начиная с завтрашнего?",
+    "zh": "现在来聊聊。今天这十个词里，你想从明天起每天使用哪一个？",
+    "ja": "では、話しましょう。今日の十の言葉の中で、あしたから、毎日使いたい言葉は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no juu no kotoba no naka de, ashita kara, mainichi tsukaitai kotoba wa, dore desu ka?"
+  },
+  "vl7.talk_mei": {
+    "en": "For me, it's “yatte miru.” I'll first try tomorrow's speech, too.",
+    "ru": "Для меня это «яттэ миру». Завтрашнюю речь я тоже сначала просто попробую.",
+    "zh": "我是「やってみる」。明天的演讲，也先试一试。",
+    "ja": "わたしは、「やってみる」です。あしたのスピーチも、まず、やってみます。",
+    "romaji": "Watashi wa, 'yatte miru' desu. Ashita no supiichi mo, mazu, yatte mimasu."
+  },
+  "vl7.talk_ken": {
+    "en": "For me, it's “omoshiroi.” I want to find lots of interesting stories every day.",
+    "ru": "Для меня это «омосирой». Я хочу каждый день находить много интересных историй.",
+    "zh": "我是「面白い」。我想每天发现很多有趣的故事。",
+    "ja": "ぼくは、「面白い」です。毎日、面白い話を、たくさん見つけたいです。",
+    "romaji": "Boku wa, 'omoshiroi' desu. Mainichi, omoshiroi hanashi o, takusan mitsuketai desu."
+  },
+  "vl7.talk_yuki": {
+    "en": "For me, it's “shourai.” I want to think about my work and my dreams little by little.",
+    "ru": "Для меня это «сёрай». Я хочу понемногу подумать и о работе, и о мечтах.",
+    "zh": "我是「将来」。工作和梦想，我都想一点一点地去想。",
+    "ja": "わたしは、「将来」です。仕事も、夢も、少しずつ、考えたいです。",
+    "romaji": "Watashi wa, 'shourai' desu. Shigoto mo, yume mo, sukoshi zutsu, kangaetai desu."
+  },
+  "vl7.talk_tanaka": {
+    "en": "Lovely. If you keep doing what you like every day, it becomes the strength for your future.",
+    "ru": "Прекрасно. Если каждый день заниматься любимым делом, это станет силой для вашего будущего.",
+    "zh": "真好。每天坚持做自己喜欢的事，它就会成为将来的力量。",
+    "ja": "すてきですね。好きなことを、毎日続けると、それが、将来の力になりますよ。",
+    "romaji": "Suteki desu ne. Suki na koto o, mainichi tsuzukeru to, sore ga, shourai no chikara ni narimasu yo."
+  },
+  "vl7.talk_player": {
+    "en": "(Watching anime, reading books, trying things, alone or with everyone. Today's words connected my daily life with my dreams for the future. Tomorrow, I'll cheer for Mei in a loud voice.)",
+    "ru": "(Смотреть аниме, читать книги, пробовать — в одиночку или со всеми. Сегодняшние слова связали мою повседневную жизнь с мечтами о будущем. Завтра я буду громко поддерживать Мэй.)",
+    "zh": "（看动画，读书，无论一个人还是和大家一起，都去试一试。今天的词，把每天的生活和将来的梦想连了起来。明天，我要大声为小梅加油。）",
+    "ja": "（アニメを見る、本を読む、一人でも、みんなとでも、やってみる。今日の言葉は、毎日の生活と、将来の夢を、つなげてくれた。あしたは、メイを大きな声で応援しよう。）",
+    "romaji": "(Anime o miru, hon o yomu, hitori demo, minna to demo, yatte miru. Kyou no kotoba wa, mainichi no seikatsu to, shourai no yume o, tsunagete kureta. Ashita wa, Mei o ookina koe de ouen shiyou.)"
+  },
+  "vl7.talk_close": {
+    "en": "Good lesson, everyone. You used all ten words about interests and the future in real situations.",
+    "ru": "Хороший урок, все. Вы использовали все десять слов об увлечениях и будущем в настоящих ситуациях.",
+    "zh": "各位，这节课很棒。你们在真实的场景中用上了这十个关于兴趣和将来的词。",
+    "ja": "みなさん、いいレッスンでした。好きなことと将来についての十の言葉を、本当の場面で使えましたね。",
+    "romaji": "Minasan, ii ressun deshita. Suki na koto to shourai ni tsuite no juu no kotoba o, hontou no bamen de tsukaemashita ne."
+  },
+  "vl7.complete": {
+    "en": "End of Vocabulary Lesson 7.",
+    "ru": "Конец урока лексики 7.",
+    "zh": "词汇课 7 结束。",
+    "ja": "語彙レッスン7、おわり。",
+    "romaji": "Goi ressun nana, owari."
+  }
+}

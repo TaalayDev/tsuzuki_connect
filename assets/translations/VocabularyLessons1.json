@@ -1,0 +1,513 @@
+{
+  "vl1.title": {
+    "en": "Classroom Greetings",
+    "ru": "Приветствия в классе",
+    "zh": "教室里的问候",
+    "ja": "教室のあいさつ",
+    "romaji": "Kyoushitsu no aisatsu"
+  },
+  "vl1.subtitle": {
+    "en": "Five phrases for your first conversation",
+    "ru": "Пять фраз для первого разговора",
+    "zh": "第一次对话要用的五个表达",
+    "ja": "最初の会話で使う五つの表現",
+    "romaji": "Saisho no kaiwa de tsukau itsutsu no hyougen"
+  },
+  "vl1.description": {
+    "en": "Practice five essential greetings with Tanaka-sensei and your classmates.",
+    "ru": "Потренируйте пять основных приветствий с Танака-сэнсэем и одноклассниками.",
+    "zh": "和田中老师、同学们一起练习五个最基本的问候语。",
+    "ja": "田中先生とクラスメートと一緒に、基本のあいさつを五つ練習します。",
+    "romaji": "Tanaka-sensei to kurasumeeto to issho ni, kihon no aisatsu o itsutsu renshuu shimasu."
+  },
+  "vl1.setup": {
+    "en": "Tanaka-sensei writes five phrases on the whiteboard, scattered rather than in a list. They are words for talking, not just memorizing.",
+    "ru": "Танака-сэнсэй пишет на доске пять фраз вразброс, а не списком. Это слова для разговора, а не для зубрёжки.",
+    "zh": "田中老师在白板上零散地写下了五个短语，不是列成清单，而是拿来交谈的词句，不只是背诵。",
+    "ja": "田中先生が、ホワイトボードに五つの言葉をばらばらに書いた。リストではなく、話すための言葉だ。",
+    "romaji": "Tanaka-sensei ga, howaitobōdo ni itsutsu no kotoba o barabara ni kaita. Risuto de wa naku, hanasu tame no kotoba da."
+  },
+  "vl1.t_intro": {
+    "en": "Today's theme is greetings and polite words. We'll talk about five phrases slowly. No need to rush to memorize them.",
+    "ru": "Тема сегодня — приветствия и вежливые слова. Мы неспешно поговорим о пяти фразах. Не нужно торопиться их запоминать.",
+    "zh": "今天的主题是问候语和礼貌用语。我们慢慢聊这五个表达，不用急着背下来。",
+    "ja": "今日のテーマは、あいさつとていねいな言葉です。五つの言葉を、ゆっくり話しましょう。急いで覚えなくても大丈夫です。",
+    "romaji": "Kyou no teema wa, aisatsu to teinei na kotoba desu. Itsutsu no kotoba o, yukkuri hanashimashou. Isoide oboenakute mo daijoubu desu."
+  },
+  "vl1.w1": {
+    "en": "First: “ohayou gozaimasu.” It is a morning greeting you can use with anyone.",
+    "ru": "Первая: «охаё годзаимасу». Это утреннее приветствие, которое подходит для любого человека.",
+    "zh": "首先是「おはようございます」。这是早上的问候语，对任何人都可以用。",
+    "ja": "最初は「おはようございます」。朝、だれに会っても使える、あいさつです。",
+    "romaji": "Saisho wa 'ohayou gozaimasu'. Asa, dare ni attemo tsukaeru, aisatsu desu."
+  },
+  "vl1.w1_q": {
+    "en": "Is “ohayou” the same as “ohayou gozaimasu”?",
+    "ru": "«Охаё» и «охаё годзаимасу» — это одно и то же?",
+    "zh": "「おはよう」和「おはようございます」是一样的吗？",
+    "ja": "「おはよう」と「おはようございます」は、同じですか？",
+    "romaji": "'Ohayou' to 'ohayou gozaimasu' wa, onaji desu ka?"
+  },
+  "vl1.w1_a": {
+    "en": "The meaning is the same, but adding “gozaimasu” makes it polite. Use “ohayou” with friends, and “ohayou gozaimasu” with teachers or people you don't know.",
+    "ru": "Значение одно и то же, но с «годзаимасу» фраза становится вежливой. Друзьям говорят «охаё», а учителям и незнакомым — «охаё годзаимасу».",
+    "zh": "意思相同，但加上「ございます」就变得礼貌了。对朋友说「おはよう」，对老师或不认识的人说「おはようございます」。",
+    "ja": "意味は同じです。でも「ございます」がつくと、ていねいになります。友だちには「おはよう」、先生や知らない人には「おはようございます」です。",
+    "romaji": "Imi wa onaji desu. Demo 'gozaimasu' ga tsuku to, teinei ni narimasu. Tomodachi ni wa 'ohayou', sensei ya shiranai hito ni wa 'ohayou gozaimasu' desu."
+  },
+  "vl1.w1_mei": {
+    "en": "I do that too: “ohayou” to my family, and “ohayou gozaimasu” to my teachers.",
+    "ru": "Я тоже так делаю: семье говорю «охаё», а учителям — «охаё годзаимасу».",
+    "zh": "我也是这样，对家人说「おはよう」，对老师说「おはようございます」。",
+    "ja": "わたしも、家族には「おはよう」、先生には「おはようございます」と言います。",
+    "romaji": "Watashi mo, kazoku ni wa 'ohayou', sensei ni wa 'ohayou gozaimasu' to iimasu."
+  },
+  "vl1.w2": {
+    "en": "Next: “konnichiwa.” You use it when you meet someone around midday.",
+    "ru": "Дальше: «конничива». Так здороваются, когда встречают кого-то в середине дня.",
+    "zh": "接下来是「こんにちは」。中午前后遇到人的时候用。",
+    "ja": "次は「こんにちは」。昼ごろに人に会ったとき、使います。",
+    "romaji": "Tsugi wa 'konnichiwa'. Hirugoro ni hito ni atta toki, tsukaimasu."
+  },
+  "vl1.w2_q": {
+    "en": "Do we say “konnichiwa” at night too?",
+    "ru": "Вечером и ночью тоже говорят «конничива»?",
+    "zh": "晚上也说「こんにちは」吗？",
+    "ja": "夜も「こんにちは」ですか？",
+    "romaji": "Yoru mo 'konnichiwa' desu ka?"
+  },
+  "vl1.w2_a": {
+    "en": "At night it is “konbanwa.” “Konnichiwa” is the daytime greeting, and you can use it with both teachers and friends.",
+    "ru": "Ночью говорят «конбанва». «Конничива» — дневное приветствие, его можно говорить и учителям, и друзьям.",
+    "zh": "晚上说「こんばんは」。「こんにちは」是白天的问候语，对老师和朋友都可以用。",
+    "ja": "夜は「こんばんは」です。「こんにちは」は、昼のあいさつです。先生にも友だちにも使えます。",
+    "romaji": "Yoru wa 'konbanwa' desu. 'Konnichiwa' wa, hiru no aisatsu desu. Sensei ni mo tomodachi ni mo tsukaemasu."
+  },
+  "vl1.w2_ken": {
+    "en": "So it is “ohayou” in the morning and “konnichiwa” in the daytime. It changes with the time.",
+    "ru": "Значит, утром «охаё», днём «конничива». Приветствие зависит от времени.",
+    "zh": "所以早上是「おはよう」，白天是「こんにちは」。会随时间变化呢。",
+    "ja": "朝は「おはよう」、昼は「こんにちは」ですね。時間で変わるんだ。",
+    "romaji": "Asa wa 'ohayou', hiru wa 'konnichiwa' desu ne. Jikan de kawarun da."
+  },
+  "vl1.w3": {
+    "en": "Next: “arigatou gozaimasu.” You say it when someone has been kind to you.",
+    "ru": "Дальше: «аригато годзаимасу». Это говорят, когда кто-то поступил с вами по-доброму.",
+    "zh": "接下来是「ありがとうございます」。别人对你好的时候说。",
+    "ja": "次は「ありがとうございます」。人がやさしくしてくれたとき、言います。",
+    "romaji": "Tsugi wa 'arigatou gozaimasu'. Hito ga yasashiku shite kureta toki, iimasu."
+  },
+  "vl1.w3_q": {
+    "en": "Is just “arigatou” okay with friends?",
+    "ru": "Друзьям можно сказать просто «аригато»?",
+    "zh": "对朋友只说「ありがとう」可以吗？",
+    "ja": "友だちには、「ありがとう」だけでもいいですか？",
+    "romaji": "Tomodachi ni wa, 'arigatou' dake demo ii desu ka?"
+  },
+  "vl1.w3_a": {
+    "en": "Yes, “arigatou” is fine with friends. With teachers or shop staff, say “arigatou gozaimasu.” Do the same when you really mean it.",
+    "ru": "Да, друзьям достаточно «аригато». Учителям и работникам магазинов лучше говорить «аригато годзаимасу». Так же — когда вы искренне благодарны.",
+    "zh": "可以，对朋友说「ありがとう」就行。对老师或店员，要说「ありがとうございます」。真心感谢的时候也一样。",
+    "ja": "はい、友だちには「ありがとう」で大丈夫です。先生や店の人には、「ありがとうございます」と言いましょう。ほんとうに感謝しているときも、そうです。",
+    "romaji": "Hai, tomodachi ni wa 'arigatou' de daijoubu desu. Sensei ya mise no hito ni wa, 'arigatou gozaimasu' to iimashou. Hontou ni kansha shite iru toki mo, sou desu."
+  },
+  "vl1.w3_gozaimasu": {
+    "en": "There is “gozaimasu” here too. Just like in “ohayou gozaimasu,” it is what makes the phrase polite.",
+    "ru": "Здесь тоже есть «годзаимасу». Как и в «охаё годзаимасу», это слово делает фразу вежливой.",
+    "zh": "这里也有「ございます」呢。和「おはようございます」一样，它是让说法变礼貌的词。",
+    "ja": "ここにも「ございます」がありますね。「おはようございます」と同じで、ていねいにする言葉です。",
+    "romaji": "Koko ni mo 'gozaimasu' ga arimasu ne. 'Ohayou gozaimasu' to onaji de, teinei ni suru kotoba desu."
+  },
+  "vl1.w3_mei": {
+    "en": "You're right. So adding “gozaimasu” makes it polite.",
+    "ru": "Точно. Значит, «годзаимасу» делает фразу вежливой.",
+    "zh": "真的呢。加上「ございます」就变礼貌了。",
+    "ja": "本当だ。「ございます」をつけると、ていねいになるんですね。",
+    "romaji": "Hontou da. 'Gozaimasu' o tsukeru to, teinei ni narun desu ne."
+  },
+  "vl1.p1_prompt": {
+    "en": "Now let's practice a request and a thank-you together. You want to borrow a pen from me during class. What do you say?",
+    "ru": "Теперь потренируем просьбу и благодарность вместе. На уроке вы хотите одолжить у меня ручку. Что вы скажете?",
+    "zh": "现在一起练习请求和道谢。上课时你想向我借一支笔，你会怎么说？",
+    "ja": "では、お願いする言葉とお礼を、いっしょに練習しましょう。授業中に、わたしからペンをかりたいです。何と言いますか？",
+    "romaji": "Dewa, onegai suru kotoba to orei o, issho ni renshuu shimashou. Jugyouchuu ni, watashi kara pen o karitai desu. Nan to iimasu ka?"
+  },
+  "vl1.c1_natural": {
+    "en": "“Excuse me, could you lend me a pen? Thank you!”",
+    "ru": "«Извините, одолжите мне, пожалуйста, ручку. Спасибо!»",
+    "zh": "“打扰一下，能借我一支笔吗？谢谢！”",
+    "ja": "「すみません、ペンをかしてください。ありがとうございます！」",
+    "romaji": "'Sumimasen, pen o kashite kudasai. Arigatou gozaimasu!'"
+  },
+  "vl1.c1_formal": {
+    "en": "“I am terribly sorry to trouble you, but would it be possible for you to lend me a pen? I am deeply grateful.”",
+    "ru": "«Прошу прощения за беспокойство, не могли бы вы одолжить мне ручку? Я искренне благодарен».",
+    "zh": "“非常抱歉打扰您，不知能否借我一支笔？我深表感谢。”",
+    "ja": "「大変申し訳ございませんが、ペンをおかしいただけませんでしょうか。心より感謝いたします。」",
+    "romaji": "'Taihen moushiwake gozaimasen ga, pen o okashi itadakemasen deshou ka. Kokoro yori kansha itashimasu.'"
+  },
+  "vl1.c1_mistake": {
+    "en": "“Lend me a pen. Thanks.”",
+    "ru": "«Дай ручку. Спасибо».",
+    "zh": "“笔借我。谢谢。”",
+    "ja": "「ペン、かして。ありがとう。」",
+    "romaji": "'Pen, kashite. Arigatou.'"
+  },
+  "vl1.c1_own": {
+    "en": "“Could I use a café example instead? Excuse me, coffee please. Thank you.”",
+    "ru": "«Можно я приведу пример в кафе? Извините, кофе, пожалуйста. Спасибо».",
+    "zh": "“我可以换成咖啡店的例子吗？打扰一下，请给我咖啡。谢谢。”",
+    "ja": "「カフェの例でもいいですか？すみません、コーヒーをください。ありがとうございます。」",
+    "romaji": "'Kafe no rei demo ii desu ka? Sumimasen, koohii o kudasai. Arigatou gozaimasu.'"
+  },
+  "vl1.c1_min": {
+    "en": "“Um... pen... excuse me...”",
+    "ru": "«Э-э… ручку… извините…»",
+    "zh": "“呃……笔……不好意思……”",
+    "ja": "「あの…ペン…すみません…」",
+    "romaji": "'Ano... pen... sumimasen...'"
+  },
+  "vl1.p1_nat_ken": {
+    "en": "That's how I'd say it too. Short, polite, and just right.",
+    "ru": "Я бы сказал так же. Коротко, вежливо и в самый раз.",
+    "zh": "我也会这样说。简短、礼貌，刚刚好。",
+    "ja": "ぼくもそう言います。短くて、ていねいで、ちょうどいいです。",
+    "romaji": "Boku mo sou iimasu. Mijikakute, teinei de, choudo ii desu."
+  },
+  "vl1.p1_form_yuki": {
+    "en": "Ha, it's correct, but that is far too polite for just borrowing a pen!",
+    "ru": "Ха-ха, всё правильно, но это слишком вежливо для одной ручки!",
+    "zh": "哈哈，虽然没错，但只是借支笔，也太客气了！",
+    "ja": "ふふ、正しいけど、ペンをかりるだけなのに、ていねいすぎます！",
+    "romaji": "Fufu, tadashii kedo, pen o kariru dake na noni, teinei sugimasu!"
+  },
+  "vl1.p1_mis_ken": {
+    "en": "Huh, “kashite”? That is how you talk to a friend, not to a teacher.",
+    "ru": "Что, «кашитэ»? Так говорят друзьям, а не учителю.",
+    "zh": "咦，「かして」？那是对朋友的说法，不是对老师说的。",
+    "ja": "えっ、「かして」ですか？先生にそれは、友だちの言い方ですよ。",
+    "romaji": "E, 'kashite' desu ka? Sensei ni sore wa, tomodachi no iikata desu yo."
+  },
+  "vl1.p1_mis_retry": {
+    "en": "Excuse me, could you lend me a pen?",
+    "ru": "Извините, одолжите мне, пожалуйста, ручку.",
+    "zh": "打扰一下，能借我一支笔吗？",
+    "ja": "すみません、ペンをかしてください。",
+    "romaji": "Sumimasen, pen o kashite kudasai."
+  },
+  "vl1.p1_mis_relief": {
+    "en": "Exactly. Adding “kudasai” makes it a proper request.",
+    "ru": "Вот именно. С «кудасай» это становится нормальной просьбой.",
+    "zh": "没错。加上「ください」就成了正式的请求。",
+    "ja": "そうそう。「ください」をつけると、ちゃんとしたお願いになります。",
+    "romaji": "Sou sou. 'Kudasai' o tsukeru to, chanto shita onegai ni narimasu."
+  },
+  "vl1.p1_own_mei": {
+    "en": "Nice! You can use it in a café too, so it is a really useful example.",
+    "ru": "Отлично! Это можно использовать и в кафе, очень полезный пример.",
+    "zh": "不错！在咖啡店也能用，真是很实用的例子。",
+    "ja": "いいですね！カフェでも使えるから、本当に役に立つ例です。",
+    "romaji": "Ii desu ne! Kafe demo tsukaeru kara, hontou ni yaku ni tatsu rei desu."
+  },
+  "vl1.p1_min_yuki": {
+    "en": "That gets across just fine. But next time, try a full sentence. It gets more natural after a few tries.",
+    "ru": "Вас поймут. Но в следующий раз попробуйте сказать целое предложение. После нескольких раз станет естественнее.",
+    "zh": "这样也能听懂。不过下次试试说完整的句子，多说几次就会变自然。",
+    "ja": "ちゃんと伝わりますよ。でも次は、文で言ってみましょう。何回か言うと、自然になります。",
+    "romaji": "Chanto tsutawarimasu yo. Demo tsugi wa, bun de itte mimashou. Nankai ka iu to, shizen ni narimasu."
+  },
+  "vl1.w4": {
+    "en": "Next: “sumimasen.” You say it to call someone's attention. It is the same when you want someone to let you pass.",
+    "ru": "Дальше: «сумимасэн». Так привлекают внимание человека. Так же говорят, если хотят, чтобы вас пропустили.",
+    "zh": "接下来是「すみません」。叫住别人的时候说「すみません」。想请别人让路时也一样。",
+    "ja": "次は「すみません」。人を呼ぶとき、「すみません」と言います。道をあけてほしいときも、同じです。",
+    "romaji": "Tsugi wa 'sumimasen'. Hito o yobu toki, 'sumimasen' to iimasu. Michi o akete hoshii toki mo, onaji desu."
+  },
+  "vl1.w4b": {
+    "en": "And it is also what you say when you make a mistake. It is a word for apologizing.",
+    "ru": "А ещё «сумимасэн» говорят, когда сделали ошибку. Это слово-извинение.",
+    "zh": "另外，做错事的时候也说「すみません」，这是道歉的话。",
+    "ja": "それから、失敗したときも「すみません」です。あやまる言葉です。",
+    "romaji": "Sorekara, shippai shita toki mo 'sumimasen' desu. Ayamaru kotoba desu."
+  },
+  "vl1.w4_q": {
+    "en": "Wait, it's the same for calling and apologizing? That's hard.",
+    "ru": "Что, и для обращения, и для извинения одно и то же? Сложно.",
+    "zh": "咦，叫人和道歉是同一个词吗？好难啊。",
+    "ja": "えっ、呼ぶときもあやまるときも同じですか？むずかしいなあ。",
+    "romaji": "E, yobu toki mo ayamaru toki mo onaji desu ka? Muzukashii naa."
+  },
+  "vl1.w4_a": {
+    "en": "The word is the same, but the situation is your clue. Before you do something, it is “sumimasen” to get attention. After a mistake, it is “sumimasen” to apologize.",
+    "ru": "Слово одно, но подсказкой служит ситуация. Перед действием — «сумимасэн», чтобы обратиться к человеку. После ошибки — «сумимасэн», чтобы извиниться.",
+    "zh": "词是一样的，但情境就是线索。做某事之前，是用来搭话的「すみません」；犯错之后，是用来道歉的「すみません」。",
+    "ja": "言葉は同じですが、場面がヒントです。何かをする前なら、声をかける「すみません」。失敗したあとなら、あやまる「すみません」です。",
+    "romaji": "Kotoba wa onaji desu ga, bamen ga hinto desu. Nani ka o suru mae nara, koe o kakeru 'sumimasen'. Shippai shita ato nara, ayamaru 'sumimasen' desu."
+  },
+  "vl1.w4_mei": {
+    "en": "Thinking of it as “before” and “after” makes it easy to understand.",
+    "ru": "Если думать о «до» и «после», всё становится понятнее.",
+    "zh": "用“之前”和“之后”来想，就好懂了呢。",
+    "ja": "「前」と「あと」で考えると、分かりやすいですね。",
+    "romaji": "'Mae' to 'ato' de kangaeru to, wakariyasui desu ne."
+  },
+  "vl1.p2_prompt": {
+    "en": "Let's check that it clicked. When do you use “sumimasen”? Explain it in your own words.",
+    "ru": "Давайте проверим. Когда используют «сумимасэн»? Объясните своими словами.",
+    "zh": "来确认一下你是否理解了。「すみません」什么时候用？请用自己的话说明。",
+    "ja": "では、確認しましょう。「すみません」は、いつ使いますか？自分の言葉で説明してください。",
+    "romaji": "Dewa, kakunin shimashou. 'Sumimasen' wa, itsu tsukaimasu ka? Jibun no kotoba de setsumei shite kudasai."
+  },
+  "vl1.c2_correct": {
+    "en": "“Before doing something, to call someone. And after a mistake, to apologize.”",
+    "ru": "«Перед действием — чтобы позвать человека, и после ошибки — чтобы извиниться».",
+    "zh": "“做某事之前用来叫人，出错之后用来道歉。”",
+    "ja": "「何かをする前に人を呼ぶときと、失敗したあとにあやまるときです。」",
+    "romaji": "'Nani ka o suru mae ni hito o yobu toki to, shippai shita ato ni ayamaru toki desu.'"
+  },
+  "vl1.c2_own": {
+    "en": "“If I bump into someone on the stairs, “sumimasen.” When I call a waiter at a restaurant, also “sumimasen.””",
+    "ru": "«Если я толкнул человека на лестнице — «сумимасэн». Если зову официанта в ресторане — тоже «сумимасэн»».",
+    "zh": "“在楼梯上撞到人就说「すみません」。在餐厅叫服务员，也是「すみません」。”",
+    "ja": "「かいだんで人にぶつかったら「すみません」。レストランで店の人を呼ぶときも「すみません」です。」",
+    "romaji": "'Kaidan de hito ni butsukattara 'sumimasen'. Resutoran de mise no hito o yobu toki mo 'sumimasen' desu.'"
+  },
+  "vl1.c2_mixed": {
+    "en": "“When I bump into someone, I say “arigatou gozaimasu.””",
+    "ru": "«Когда я толкнул человека, я говорю «аригато годзаимасу»».",
+    "zh": "“撞到人的时候，我说「ありがとうございます」。”",
+    "ja": "「人にぶつかったとき、「ありがとうございます」と言います。」",
+    "romaji": "'Hito ni butsukatta toki, 'arigatou gozaimasu' to iimasu.'"
+  },
+  "vl1.c2_min": {
+    "en": "“Um... calling someone, and apologizing... I think?”",
+    "ru": "«Э-э… когда зовёшь и когда извиняешься… наверное?»",
+    "zh": "“呃……叫人的时候，和道歉的时候……是这样吧？”",
+    "ja": "「えっと…呼ぶときと、あやまるとき…かな？」",
+    "romaji": "'Etto... yobu toki to, ayamaru toki... kana?'"
+  },
+  "vl1.p2_cor_ken": {
+    "en": "Well done. You understand it clearly.",
+    "ru": "Отлично. Вы всё ясно понимаете.",
+    "zh": "做得好，你理解得很清楚。",
+    "ja": "よくできました。はっきり分かっていますね。",
+    "romaji": "Yoku dekimashita. Hakkiri wakatte imasu ne."
+  },
+  "vl1.p2_own_ken": {
+    "en": "Good examples. I'll remember it through those scenes too.",
+    "ru": "Хорошие примеры. Я тоже запомню через эти ситуации.",
+    "zh": "例子很好。我也要通过这些场景来记住。",
+    "ja": "いい例ですね。ぼくも、その場面で覚えます。",
+    "romaji": "Ii rei desu ne. Boku mo, sono bamen de oboemasu."
+  },
+  "vl1.p2_mix_mei": {
+    "en": "Huh? Isn't it “sumimasen” when you bump into someone?",
+    "ru": "Ой? Разве при столкновении не говорят «сумимасэн»?",
+    "zh": "咦？撞到人的时候，不是应该说「すみません」吗？",
+    "ja": "あれ？ぶつかったときは、「すみません」じゃないですか？",
+    "romaji": "Are? Butsukatta toki wa, 'sumimasen' ja nai desu ka?"
+  },
+  "vl1.p2_mix_retry": {
+    "en": "Oh, sorry! I mean “sumimasen.”",
+    "ru": "Ой, простите! То есть «сумимасэн».",
+    "zh": "啊，对不起！我是说「すみません」。",
+    "ja": "あっ、すみません！「すみません」です。",
+    "romaji": "A, sumimasen! 'Sumimasen' desu."
+  },
+  "vl1.p2_mix_relief": {
+    "en": "Right. And that “sumimasen” you just said was a perfect apology moment!",
+    "ru": "Верно. И это ваше «сумимасэн» прозвучало как раз в нужной ситуации!",
+    "zh": "对。而且你刚才说的这句「すみません」，正好用在了道歉的场合！",
+    "ja": "そうです。しかも今の「すみません」は、ちゃんとあやまる場面で使えていますよ！",
+    "romaji": "Sou desu. Shikamo ima no 'sumimasen' wa, chanto ayamaru bamen de tsukaete imasu yo!"
+  },
+  "vl1.p2_min_ken": {
+    "en": "That's right. But adding an example like “when you bump into someone” makes it easier to remember.",
+    "ru": "Верно. Но если добавить пример, например «когда толкнул кого-то», запомнить легче.",
+    "zh": "没错。不过再加上「撞到人的时候」这样的例子，会更容易记住。",
+    "ja": "合っていますよ。でも、「ぶつかったとき」みたいな例も言うと、覚えやすいです。",
+    "romaji": "Atte imasu yo. Demo, 'butsukatta toki' mitai na rei mo iu to, oboeyasui desu."
+  },
+  "vl1.w5": {
+    "en": "Last: “yoroshiku onegaishimasu.” You say it after introducing yourself, or to someone you will be working or studying with.",
+    "ru": "Последняя: «ёросику онэгайсимасу». Так говорят после самопредставления и людям, с которыми вы будете что-то делать вместе.",
+    "zh": "最后是「よろしくお願いします」。自我介绍之后，或是对将要一起做事、一起学习的人说。",
+    "ja": "最後は「よろしくお願いします」。自己紹介のあとや、これから一緒に何かをする人に言います。",
+    "romaji": "Saigo wa 'yoroshiku onegaishimasu'. Jikoshoukai no ato ya, korekara issho ni nani ka o suru hito ni iimasu."
+  },
+  "vl1.w5_q": {
+    "en": "Is just “yoroshiku” okay?",
+    "ru": "А можно сказать просто «ёросику»?",
+    "zh": "只说「よろしく」可以吗？",
+    "ja": "「よろしく」だけでもいいですか？",
+    "romaji": "'Yoroshiku' dake demo ii desu ka?"
+  },
+  "vl1.w5_a": {
+    "en": "With friends, “yoroshiku” is fine. With teachers or people you meet for the first time, say “yoroshiku onegaishimasu.”",
+    "ru": "Друзьям достаточно «ёросику». Учителям и людям, с которыми вы знакомитесь впервые, говорите «ёросику онэгайсимасу».",
+    "zh": "对朋友说「よろしく」就行。对老师或初次见面的人，要说「よろしくお願いします」。",
+    "ja": "友だちには「よろしく」で大丈夫です。先生や、はじめて会う人には「よろしくお願いします」と言いましょう。",
+    "romaji": "Tomodachi ni wa 'yoroshiku' de daijoubu desu. Sensei ya, hajimete au hito ni wa 'yoroshiku onegaishimasu' to iimashou."
+  },
+  "vl1.w5_ken": {
+    "en": "“Ohayou” and “arigatou” both had polite forms too. It is the same rule.",
+    "ru": "У «охаё» и «аригато» тоже были вежливые формы. Правило то же самое.",
+    "zh": "「おはよう」和「ありがとう」也都有礼貌的形式呢。规则是一样的。",
+    "ja": "「おはよう」も「ありがとう」も、ていねいな形がありましたね。同じルールだ。",
+    "romaji": "'Ohayou' mo 'arigatou' mo, teinei na katachi ga arimashita ne. Onaji ruuru da."
+  },
+  "vl1.w5_ken_a": {
+    "en": "Exactly. In Japanese, it matters to choose the polite form to suit the person you are talking to.",
+    "ru": "Именно. В японском важно выбирать вежливую форму, подходящую собеседнику.",
+    "zh": "没错。在日语里，根据对象选择合适的礼貌形式很重要。",
+    "ja": "そのとおりです。日本語では、相手に合わせて、ていねいな形をえらぶことが大切です。",
+    "romaji": "Sono toori desu. Nihongo de wa, aite ni awasete, teinei na katachi o erabu koto ga taisetsu desu."
+  },
+  "vl1.p3_prompt": {
+    "en": "Finally, let's introduce ourselves. What do you say to a classmate you are meeting for the first time?",
+    "ru": "Напоследок представимся. Что вы скажете однокласснику, которого видите впервые?",
+    "zh": "最后来做自我介绍吧。对第一次见面的同学，你会说什么？",
+    "ja": "最後に、自己紹介をしましょう。はじめて会うクラスメートに、何と言いますか？",
+    "romaji": "Saigo ni, jikoshoukai o shimashou. Hajimete au kurasumeeto ni, nan to iimasu ka?"
+  },
+  "vl1.c3_natural": {
+    "en": "“Nice to meet you. Please treat me kindly.”",
+    "ru": "«Приятно познакомиться. Прошу вашего расположения».",
+    "zh": "“初次见面，请多关照。”",
+    "ja": "「はじめまして。よろしくお願いします。」",
+    "romaji": "'Hajimemashite. Yoroshiku onegaishimasu.'"
+  },
+  "vl1.c3_formal": {
+    "en": "“Nice to meet you. I am but a humble person, but I humbly ask for your kindness.”",
+    "ru": "«Приятно познакомиться. Я скромный человек, но покорнейше прошу вашего расположения».",
+    "zh": "“初次见面。我只是个微不足道的人，恳请您多多关照。”",
+    "ja": "「はじめまして。わたしのような者ですが、どうぞよろしくお願いいたします。」",
+    "romaji": "'Hajimemashite. Watashi no you na mono desu ga, douzo yoroshiku onegai itashimasu.'"
+  },
+  "vl1.c3_mistake": {
+    "en": "“Hello. Thank you.”",
+    "ru": "«Здравствуйте. Спасибо».",
+    "zh": "“你好。谢谢。”",
+    "ja": "「こんにちは。ありがとうございます。」",
+    "romaji": "'Konnichiwa. Arigatou gozaimasu.'"
+  },
+  "vl1.c3_own": {
+    "en": "“Since Mei is a friend, is “yoroshiku ne” okay?”",
+    "ru": "«Мэй — моя подруга, можно сказать просто «ёросику нэ»?»",
+    "zh": "“小梅是我的朋友，说「よろしくね」可以吗？”",
+    "ja": "「メイさんは友だちだから、「よろしくね」でもいいですか？」",
+    "romaji": "'Mei-san wa tomodachi dakara, 'yoroshiku ne' demo ii desu ka?'"
+  },
+  "vl1.c3_min": {
+    "en": "“Yoroshiku...”",
+    "ru": "«Ёросику…»",
+    "zh": "“请多……”",
+    "ja": "「よろしく…」",
+    "romaji": "'Yoroshiku...'"
+  },
+  "vl1.p3_nat_mei": {
+    "en": "Nice to meet you too!",
+    "ru": "Мне тоже приятно познакомиться!",
+    "zh": "我也请你多多关照！",
+    "ja": "こちらこそ、よろしくお願いします！",
+    "romaji": "Kochira koso, yoroshiku onegaishimasu!"
+  },
+  "vl1.p3_form_yuki": {
+    "en": "Haha, that is very polite. With a classmate, something shorter is fine.",
+    "ru": "Ха-ха, очень вежливо. Однокласснику можно сказать и короче.",
+    "zh": "哈哈，太礼貌了。对同学的话，简短一点就可以。",
+    "ja": "あはは、すごくていねいですね。クラスメートには、もっと短くて大丈夫です。",
+    "romaji": "Ahaha, sugoku teinei desu ne. Kurasumeeto ni wa, motto mijikakute daijoubu desu."
+  },
+  "vl1.p3_mis_mei": {
+    "en": "Huh? “Arigatou gozaimasu”? After an introduction it is “yoroshiku onegaishimasu.”",
+    "ru": "Ой? «Аригато годзаимасу»? После знакомства говорят «ёросику онэгайсимасу».",
+    "zh": "咦？「ありがとうございます」？自我介绍之后应该说「よろしくお願いします」哦。",
+    "ja": "あれ？「ありがとうございます」ですか？自己紹介のあとは「よろしくお願いします」ですよ。",
+    "romaji": "Are? 'Arigatou gozaimasu' desu ka? Jikoshoukai no ato wa 'yoroshiku onegaishimasu' desu yo."
+  },
+  "vl1.p3_mis_retry": {
+    "en": "Oh, nice to meet you. Yoroshiku onegaishimasu.",
+    "ru": "Ой, приятно познакомиться. Ёросику онэгайсимасу.",
+    "zh": "啊，初次见面，请多关照。",
+    "ja": "あっ、はじめまして。よろしくお願いします。",
+    "romaji": "A, hajimemashite. Yoroshiku onegaishimasu."
+  },
+  "vl1.p3_mis_relief": {
+    "en": "Yes, that's it!",
+    "ru": "Да, именно так!",
+    "zh": "对，就是这个！",
+    "ja": "はい、それです！",
+    "romaji": "Hai, sore desu!"
+  },
+  "vl1.p3_own_tanaka": {
+    "en": "Good question. With a friend, that's fine. Matching the other person is what matters.",
+    "ru": "Хороший вопрос. Для подруги это нормально. Главное — подстраиваться под собеседника.",
+    "zh": "问得好。对朋友的话，可以。重要的是配合对方。",
+    "ja": "いい質問です。友だちなら、大丈夫ですよ。相手に合わせるのが大切です。",
+    "romaji": "Ii shitsumon desu. Tomodachi nara, daijoubu desu yo. Aite ni awaseru no ga taisetsu desu."
+  },
+  "vl1.p3_min_mei": {
+    "en": "Cheerful and nice. Next time, add “onegaishimasu” too.",
+    "ru": "Бодро и приятно. В следующий раз добавьте ещё «онэгайсимасу».",
+    "zh": "很有精神，很好。下次也加上「お願いします」吧。",
+    "ja": "元気でいいですね。次は「お願いします」もつけましょう。",
+    "romaji": "Genki de ii desu ne. Tsugi wa 'onegaishimasu' mo tsukemashou."
+  },
+  "vl1.talk_open": {
+    "en": "Now let's talk. Out of the five, which one do you think will be hardest to remember, and why?",
+    "ru": "Теперь поговорим. Какая из пяти фраз, по-вашему, самая трудная, и почему?",
+    "zh": "现在来聊聊。这五个里面，你觉得哪一个最难记？为什么？",
+    "ja": "では、話しましょう。五つの中で、どれがいちばんむずかしいと思いますか？どうしてですか？",
+    "romaji": "Dewa, hanashimashou. Itsutsu no naka de, dore ga ichiban muzukashii to omoimasu ka? Doushite desu ka?"
+  },
+  "vl1.talk_mei": {
+    "en": "For me, it is “sumimasen.” I get confused about whether it is for calling someone or for apologizing.",
+    "ru": "Для меня это «сумимасэн». Я путаюсь, звать человека или извиняться.",
+    "zh": "对我来说是「すみません」。我总是搞不清是用来叫人还是用来道歉。",
+    "ja": "わたしは「すみません」です。呼ぶときとあやまるとき、どっちか迷います。",
+    "romaji": "Watashi wa 'sumimasen' desu. Yobu toki to ayamaru toki, docchi ka mayoimasu."
+  },
+  "vl1.talk_yuki": {
+    "en": "For me, it is choosing between polite and casual words. Maybe saying everything politely is the safe choice.",
+    "ru": "Для меня — выбор между вежливыми и обычными словами. Может, безопаснее всё говорить вежливо?",
+    "zh": "对我来说是礼貌用语和普通用语的区分。也许全部都说得礼貌一点最保险。",
+    "ja": "わたしは、ていねいな言葉とふつうの言葉の使い分けです。全部ていねいに言えば、安心かな。",
+    "romaji": "Watashi wa, teinei na kotoba to futsuu no kotoba no tsukaiwake desu. Zenbu teinei ni ieba, anshin kana."
+  },
+  "vl1.talk_ken": {
+    "en": "For me, it is choosing between “arigatou” and “arigatou gozaimasu.” I tend to say the same thing to friends and teachers.",
+    "ru": "Для меня — выбор между «аригато» и «аригато годзаимасу». Я часто говорю одно и то же и друзьям, и учителям.",
+    "zh": "对我来说是「ありがとう」和「ありがとうございます」的区分。我常常对朋友和老师说一样的话。",
+    "ja": "ぼくは、「ありがとう」と「ありがとうございます」の使い分けです。友だちにも先生にも、つい同じ言い方をしてしまいます。",
+    "romaji": "Boku wa, 'arigatou' to 'arigatou gozaimasu' no tsukaiwake desu. Tomodachi ni mo sensei ni mo, tsui onaji iikata o shite shimaimasu."
+  },
+  "vl1.talk_tanaka": {
+    "en": "That is a good idea too. Speaking politely rarely comes across as rude.",
+    "ru": "Это тоже хорошая мысль. Вежливая речь редко звучит грубо.",
+    "zh": "这也是个好想法。礼貌地说话，很少会显得失礼。",
+    "ja": "それも、いい考えです。ていねいに言って、失礼になることは、あまりありません。",
+    "romaji": "Sore mo, ii kangae desu. Teinei ni itte, shitsurei ni naru koto wa, amari arimasen."
+  },
+  "vl1.talk_player": {
+    "en": "(Honestly, I'm glad I learned that adding “gozaimasu” makes things polite. And “sumimasen” made sense once I thought of it as before and after.)",
+    "ru": "(Честно говоря, хорошо, что я понял правило: с «годзаимасу» речь становится вежливой. И «сумимасэн» стало понятнее, когда я разделил его на «до» и «после».)",
+    "zh": "（说实话，我很高兴学到了加上「ございます」就会变礼貌这个规则。「すみません」也是，用“之前”和“之后”来想就明白了。）",
+    "ja": "(正直、「ございます」がつくと、ていねいになるというルールが分かって、よかった。「すみません」も、前とあとで考えたら分かりやすかった。)",
+    "romaji": "(Shoujiki, 'gozaimasu' ga tsuku to, teinei ni naru to iu ruuru ga wakatte, yokatta. 'Sumimasen' mo, mae to ato de kangaetara wakariyasukatta.)"
+  },
+  "vl1.talk_close": {
+    "en": "Good lesson, everyone. You used all five phrases in real conversation.",
+    "ru": "Хороший урок, все. Вы использовали все пять фраз в настоящем разговоре.",
+    "zh": "各位，今天的课很棒。你们在真实的对话中用上了这五个表达。",
+    "ja": "みなさん、いいレッスンでした。五つの言葉を、本当の会話で使えましたね。",
+    "romaji": "Minasan, ii ressun deshita. Itsutsu no kotoba o, hontou no kaiwa de tsukaemashita ne."
+  },
+  "vl1.complete": {
+    "en": "End of Vocabulary Lesson 1.",
+    "ru": "Конец урока лексики 1.",
+    "zh": "词汇课 1 结束。",
+    "ja": "語彙レッスン1、おわり。",
+    "romaji": "Goi ressun ichi, owari."
+  }
+}

@@ -1,0 +1,3762 @@
+{
+  "s7.title": {
+    "en": "The Return",
+    "ru": "Возвращение",
+    "zh": "归来",
+    "ko": "귀환",
+    "ja": "帰郷",
+    "romaji": "Kikyō"
+  },
+  "s7.subtitle": {
+    "en": "帰ってきた街",
+    "ru": "Город, в который я вернулся",
+    "zh": "归家之城",
+    "ko": "돌아온 거리",
+    "ja": "帰ってきた街",
+    "romaji": "Kaette kita machi"
+  },
+  "s7.desc": {
+    "en": "Follow Jamie Park, 29, as they return to Tokyo five years after their exchange year—and discover that revisiting a place you loved is not the same as going home.",
+    "ru": "Следуйте за Джеми Пак, 29 лет, который возвращается в Токио через пять лет после своего года учебы по обмену — и обнаруживает, что вернуться в любимое место — это не то же самое, что вернуться домой.",
+    "zh": "跟随29岁的杰米·帕克在大二交换生一年后，时隔五年重返东京。他发现，故地重游虽美，却终究不再是心理意义上的“回家”。",
+    "ko": "교환학생 시절 이후 5년 만에 도쿄로 돌아온 29세 제이미 박을 따라가 보세요. 사랑했던 장소를 다시 찾는 것이 집으로 돌아가는 것과는 다르다는 사실을 깨닫게 됩니다.",
+    "ja": "留学から五年を経て東京へ戻ってきた29歳のジェイミー・パーク。かつて愛した街を再び訪れることは、かつての「我が家」に戻ることとは違うのだと気づいていく。",
+    "romaji": "Ryūgaku kara go-nen o hete Tōkyō e modotte kita nijūkyū-sai no Jēmī Pāku. Katsute aishita machi o futatabi otozureru koto wa, katsute no \"waga ya\" ni modoru koto to wa chigau no da to kizuite iku."
+  },
+  "s7.card_title": {
+    "en": "STORY 7",
+    "ru": "ИСТОРИЯ 7",
+    "zh": "故事 7",
+    "ko": "이야기 7",
+    "ja": "第7話",
+    "romaji": "Dai-nana-wa"
+  },
+  "s7.card_subtitle": {
+    "en": "The Return",
+    "ru": "Возвращение",
+    "zh": "归来",
+    "ko": "귀환",
+    "ja": "帰郷",
+    "romaji": "Kikyō"
+  },
+  "s7.v.kawaru": {
+    "en": "To change (intransitive)",
+    "ru": "Меняться (непереходный)",
+    "zh": "改变（不及物）",
+    "ko": "변하다 (자동사)",
+    "ja": "変わる",
+    "romaji": "Kawaru"
+  },
+  "s7.v.kaeru": {
+    "en": "To change (transitive)",
+    "ru": "Менять (переходный)",
+    "zh": "改变（及物）",
+    "ko": "바꾸다 (타동사)",
+    "ja": "変える",
+    "romaji": "Kaeru"
+  },
+  "s7.v.izen": {
+    "en": "Before / previously / formerly",
+    "ru": "Раньше / прежде / формально",
+    "zh": "以前 / 之前 / 曾今",
+    "ko": "이전 / 이전에 / 예전에는",
+    "ja": "以前",
+    "romaji": "Izen"
+  },
+  "s7.v.touji": {
+    "en": "At that time / back then",
+    "ru": "В то время / тогда",
+    "zh": "当时 / 那时",
+    "ko": "당시 / 그때",
+    "ja": "当時",
+    "romaji": "Tōji"
+  },
+  "s7.v.mukashi": {
+    "en": "Long ago / the old days / once",
+    "ru": "Давным-давно / старые времена",
+    "zh": "很久以前 / 昔日",
+    "ko": "옛날 / 옛적",
+    "ja": "昔",
+    "romaji": "Mukashi"
+  },
+  "s7.v.ima_demo": {
+    "en": "Even now / still",
+    "ru": "Даже сейчас / все еще",
+    "zh": "现在也 / 依然",
+    "ko": "지금도 / 여전히",
+    "ja": "今でも",
+    "romaji": "Ima demo"
+  },
+  "s7.v.nakunaru": {
+    "en": "To disappear / to be gone / to run out",
+    "ru": "Исчезать / пропадать / заканчиваться",
+    "zh": "消失 / 没了 / 用完",
+    "ko": "없어지다 / 사라지다 / 다 떨어지다",
+    "ja": "なくなる",
+    "romaji": "Nakunaru"
+  },
+  "s7.v.nokoru": {
+    "en": "To remain / to be left behind",
+    "ru": "Оставаться",
+    "zh": "留下 / 剩余",
+    "ko": "남다 / 남겨지다",
+    "ja": "残る",
+    "romaji": "Nokoru"
+  },
+  "s7.v.natsukashii": {
+    "en": "Nostalgic / dear / fondly remembered",
+    "ru": "Ностальгический / дорогой сердцу",
+    "zh": "怀念 / 令人怀旧的",
+    "ko": "그립다 / 정겹다",
+    "ja": "懐かしい",
+    "romaji": "Natsukashii"
+  },
+  "s7.v.sabishii": {
+    "en": "Lonely / lonesome / desolate",
+    "ru": "Одинокий / тоскливый",
+    "zh": "寂寞 / 孤单",
+    "ko": "외롭다 / 적적하다",
+    "ja": "寂しい",
+    "romaji": "Sabishii"
+  },
+  "s7.v.setsunai": {
+    "en": "Bittersweet / aching / painfully sweet",
+    "ru": "Горько-сладкий / щемящий",
+    "zh": "难受 / 纠结 / 辛酸",
+    "ko": "애틋하다 / 안타깝다 / 애절하다",
+    "ja": "切ない",
+    "romaji": "Setsunai"
+  },
+  "s7.v.kangai_fukai": {
+    "en": "Deeply moving / filled with emotion",
+    "ru": "Глубоко трогательный",
+    "zh": "感慨万千 / 深有感触",
+    "ko": "감개무량하다 / 깊은 감동을 주다",
+    "ja": "感慨深い",
+    "romaji": "Kangai fukai"
+  },
+  "s7.v.kitai_hazure": {
+    "en": "Disappointment / not living up to expectations",
+    "ru": "Разочарование / не оправдывающее ожиданий",
+    "zh": "事与愿违 / 失望",
+    "ko": "기대 이하 / 기대에 어긋남",
+    "ja": "期待外れ",
+    "romaji": "Kitaihazure"
+  },
+  "s7.v.saihou": {
+    "en": "Return visit / revisiting",
+    "ru": "Повторный визит / возвращение",
+    "zh": "再访 / 重游",
+    "ko": "재방문",
+    "ja": "再訪",
+    "romaji": "Saihō"
+  },
+  "s7.v.kikoku": {
+    "en": "Returning to one's home country",
+    "ru": "Возвращение на родину",
+    "zh": "归国 / 回国",
+    "ko": "귀국",
+    "ja": "帰国",
+    "romaji": "Kikoku"
+  },
+  "s7.v.taizai": {
+    "en": "Stay / sojourn",
+    "ru": "Пребывание",
+    "zh": "停留 / 逗留",
+    "ko": "체재 / 머무름",
+    "ja": "滞在",
+    "romaji": "Taizai"
+  },
+  "s7.v.ryuugaku": {
+    "en": "Study abroad",
+    "ru": "Учеба за границей",
+    "zh": "留学",
+    "ko": "유학",
+    "ja": "留学",
+    "romaji": "Ryūgaku"
+  },
+  "s7.v.ibasho": {
+    "en": "One's place / somewhere one belongs",
+    "ru": "Место, где чувствуешь себя своим",
+    "zh": "归宿 / 容身之处",
+    "ko": "거처 / 마음 둘 곳",
+    "ja": "居場所",
+    "romaji": "Ibasho"
+  },
+  "s7.v.yosomono": {
+    "en": "Outsider / stranger / newcomer",
+    "ru": "Чужак / посторонний",
+    "zh": "局外人 / 陌生人",
+    "ko": "외지인 / 낯선 사람",
+    "ja": "よそ者",
+    "romaji": "Yosomono"
+  },
+  "s7.v.najimu": {
+    "en": "To become familiar with / to fit in / to blend in",
+    "ru": "Привыкать / осваиваться",
+    "zh": "适应 / 熟谙 / 融合",
+    "ko": "익숙해지다 / 친숙해지다 / 어우러지다",
+    "ja": "馴染む",
+    "romaji": "Najimu"
+  },
+  "s7.v.futokoro_ni_hairu": {
+    "en": "To be welcomed in / to be taken into someone's heart",
+    "ru": "Быть принятым / войти в доверие",
+    "zh": "深得人心 / 被接纳",
+    "ko": "마음을 얻다 / 품에 안기다",
+    "ja": "懐に入る",
+    "romaji": "Futokoro ni hairu"
+  },
+  "s7.v.torikohawasu": {
+    "en": "To demolish / to tear down",
+    "ru": "Сносить / разрушать",
+    "zh": "拆除 / 拆毁",
+    "ko": "헐다 / 철거하다",
+    "ja": "取り壊す",
+    "romaji": "Torikowasu"
+  },
+  "s7.v.tatekaheru": {
+    "en": "To rebuild / to reconstruct",
+    "ru": "Перестраивать",
+    "zh": "改建 / 重建",
+    "ko": "개축하다 / 재건축하다",
+    "ja": "建て替える",
+    "romaji": "Tatekaeru"
+  },
+  "s7.v.atochi": {
+    "en": "Site of a demolished building / former location",
+    "ru": "Место снесенного здания",
+    "zh": "旧址 / 遗迹",
+    "ko": "철거 부지 / 흔적",
+    "ja": "跡地",
+    "romaji": "Atochi"
+  },
+  "s7.v.omokage": {
+    "en": "Trace / vestige / lingering image",
+    "ru": "След / отголосок / облик",
+    "zh": "面影 / 痕迹 / 残影",
+    "ko": "옛 모습 / 자취 / 흔적",
+    "ja": "面影",
+    "romaji": "Omokage"
+  },
+  "s7.v.ta_mono_da": {
+    "en": "Used to ~ (nostalgic recollection)",
+    "ru": "Бывало ~ (ностальгическое воспоминание)",
+    "zh": "过去常常~（怀旧回忆）",
+    "ko": "하곤 했다 (추억의 회상)",
+    "ja": "〜たものだ",
+    "romaji": "~ta mono da"
+  },
+  "s7.v.te_ita": {
+    "en": "Was doing ~ / used to do ~ (continuous past)",
+    "ru": "Делал ~ (длительное прошлое)",
+    "zh": "正在做~ / 以前做过~（过去进行）",
+    "ko": "하고 있었다 / 하곤 했다 (과거의 지속 / 습관)",
+    "ja": "〜ていた",
+    "romaji": "~te ita"
+  },
+  "s7.v.you_ni_natta": {
+    "en": "Has come to ~ / now ~ (change over time)",
+    "ru": "Стал ~ (изменение со временем)",
+    "zh": "变得~ / 已经可以~（随时间的变化）",
+    "ko": "하게 되었다 (시간에 따른 변화)",
+    "ja": "〜ようになった",
+    "romaji": "~yō ni natta"
+  },
+  "s7.v.naku_natta": {
+    "en": "Has stopped ~ / no longer ~ (change / loss)",
+    "ru": "Перестал ~ / больше не ~ (потеря)",
+    "zh": "已经不再~ / 没了（变化/损失）",
+    "ko": "하지 않게 되었다 / 없어졌다 (변화 / 상실)",
+    "ja": "〜なくなった",
+    "romaji": "~naku natta"
+  },
+  "s7.v.natsukashii_2": {
+    "en": "Nostalgic / fondly remembered",
+    "ru": "Ностальгический / памятный",
+    "zh": "怀旧 / 值得怀念的",
+    "ko": "그립다 / 정겹다",
+    "ja": "懐かしい",
+    "romaji": "Natsukashii"
+  },
+  "s7.v.nakunaru_2": {
+    "en": "To disappear / to be gone",
+    "ru": "Исчезать",
+    "zh": "消失 / 没了",
+    "ko": "없어지다 / 사라지다",
+    "ja": "なくなる",
+    "romaji": "Nakunaru"
+  },
+  "s7.v.okaeri": {
+    "en": "Welcome back (said to someone returning)",
+    "ru": "С возвращением",
+    "zh": "欢迎回来",
+    "ko": "어서 와",
+    "ja": "お帰り",
+    "romaji": "Okaeri"
+  },
+  "s7.v.buri": {
+    "en": "For the first time in ~ / after ~ (time expression)",
+    "ru": "Впервые за ~",
+    "zh": "隔了~ / 时隔~",
+    "ko": "~만(에)",
+    "ja": "〜ぶり",
+    "romaji": "~buri"
+  },
+  "s7.v.kitai_hazure_2": {
+    "en": "Disappointment / not meeting expectations",
+    "ru": "Разочарование",
+    "zh": "期待落空 / 失望",
+    "ko": "기대 이하 / 기대에 어긋남",
+    "ja": "期待外れ",
+    "romaji": "Kitaihazure"
+  },
+  "s7.v.najimu_2": {
+    "en": "To blend in / to become familiar",
+    "ru": "Осваиваться",
+    "zh": "融合 / 变熟悉",
+    "ko": "친숙해지다 / 익숙해지다",
+    "ja": "馴染む",
+    "romaji": "Najimu"
+  },
+  "s7.v.okaeri_2": {
+    "en": "Welcome back (said to someone returning home)",
+    "ru": "С возвращением домой",
+    "zh": "欢迎回家",
+    "ko": "잘 돌아왔어",
+    "ja": "おかえりなさい",
+    "romaji": "Okaerinasai"
+  },
+  "s7.v.tadaima": {
+    "en": "I'm home / I'm back (said by person returning)",
+    "ru": "Я дома",
+    "zh": "我回来了",
+    "ko": "다녀왔어",
+    "ja": "ただいま",
+    "romaji": "Tadaima"
+  },
+  "s7.v.naku_natta_2": {
+    "en": "Has stopped ~ / no longer ~",
+    "ru": "Больше не ~",
+    "zh": "不再~ / 没了",
+    "ko": "않게 되었다 / 없어졌다",
+    "ja": "〜なくなった",
+    "romaji": "~naku natta"
+  },
+  "s7.v.igokochi_ga_ii": {
+    "en": "Comfortable / feels right / at ease there",
+    "ru": "Уютный / комфортный",
+    "zh": "惬意 / 感觉很舒服",
+    "ko": "기분이 좋다 / 아늑하다 / 편안하다",
+    "ja": "居心地がいい",
+    "romaji": "Igokochi ga ii"
+  },
+  "s7.c001": {
+    "en": "Everything to be the same",
+    "ru": "Чтобы все осталось прежним",
+    "zh": "希望一切如旧",
+    "ko": "모든 것이 그대로이길",
+    "ja": "すべてが元のままであること",
+    "romaji": "Subete ga moto no mama de aru koto"
+  },
+  "s7.c002": {
+    "en": "To feel at home immediately",
+    "ru": "Сразу почувствовать себя как дома",
+    "zh": "立刻有宾至如归的感觉",
+    "ko": "즉시 고향처럼 느껴지길",
+    "ja": "すぐに懐かしい我が家のように感じられること",
+    "romaji": "Sugu ni natsukashii waga ya no yō ni kanjirareru koto"
+  },
+  "s7.c003": {
+    "en": "I don't know",
+    "ru": "Я не знаю",
+    "zh": "我不知道",
+    "ko": "잘 모르겠어",
+    "ja": "わからない",
+    "romaji": "Wakaranai"
+  },
+  "s7.h001": {
+    "en": "I think I expected it to be... waiting for me.",
+    "ru": "Думаю, я ожидал, что оно будет... ждать меня.",
+    "zh": "我想我曾期待它会……一直在这里等着我。",
+    "ko": "내심 모든 것이 나를 기다려주고 있을 거라 생각했나 봐.",
+    "ja": "この街が……私を待っていてくれると期待していたのだと思う。",
+    "romaji": "Kono machi ga... watashi o matte ite kureru to kitai shite ita no da to omou."
+  },
+  "s7.h002": {
+    "en": "I expected to feel it. That feeling. Immediately.",
+    "ru": "Я ожидал почувствовать это. То самое чувство. Сразу.",
+    "zh": "我曾期待能立刻感受到……那种回归的感觉。",
+    "ko": "그 느낌을 곧바로 느낄 수 있을 거라 기대했어.",
+    "ja": "あの感覚を。あの気持ちを。すぐに実感できると期待していた。",
+    "romaji": "Ano kankaku o. Ano kimochi o. Sugu ni jikkan dekiru to kitai shite ita."
+  },
+  "s7.h003": {
+    "en": "I'm not sure. That's the honest answer.",
+    "ru": "Я не уверен. Это честный ответ.",
+    "zh": "我不确定。这是最诚实的回答。",
+    "ko": "확실하지 않아. 그게 솔직한 대답이야.",
+    "ja": "よくわからない。それが正直な答えだ。",
+    "romaji": "Yoku wakaranai. Sore ga shōjiki na kotae da."
+  },
+  "s7.l001": {
+    "en": "Narita International Airport. Terminal 2. Arrivals.",
+    "ru": "Международный аэропорт Нарита. Терминал 2. Прибытие.",
+    "zh": "成田国际机场。2号航站楼。到达大厅。",
+    "ko": "나리타 국제공항. 제2터미널. 도착.",
+    "ja": "成田国際空港。第2ターミナル。到着ロビー。",
+    "romaji": "Narita kokusai kūkō. Dai-ni tāminaru. Tōchaku robī."
+  },
+  "s7.l002": {
+    "en": "The sign above the automatic doors says: ようこそ日本へ。(Youkoso Nihon e.)",
+    "ru": "Над автоматическими дверями висит табличка: ようこそ日本へ (Добро пожаловать в Японию).",
+    "zh": "自动门上方的牌子写着：ようこそ日本へ。（欢迎来到日本。）",
+    "ko": "자동문 위의 표지판에는 '일본에 오신 것을 환영합니다(ようこそ日本へ)'라고 적혀 있습니다.",
+    "ja": "自動ドアの上の看板には「ようこそ日本へ」と書かれている。",
+    "romaji": "Jidō doa no ue no kamban ni wa \"Yōkoso Nihon e\" to kakarete iru."
+  },
+  "s7.l003": {
+    "en": "Welcome to Japan.",
+    "ru": "Добро пожаловать в Японию.",
+    "zh": "欢迎来到日本。",
+    "ko": "일본에 오신 것을 환영합니다.",
+    "ja": "日本へようこそ。",
+    "romaji": "Nihon e yōkoso."
+  },
+  "s7.l004": {
+    "en": "You are Jamie Park. Twenty-nine years old. Korean-American, raised in Seattle.",
+    "ru": "Вы — Джеми Пак. Двадцать девять лет. Кореец американского происхождения, выросший в Сиэтле.",
+    "zh": "你是杰米·帕克。二十九岁。在西雅图长大的韩裔美国人。",
+    "ko": "당신은 제이미 박입니다. 29세. 시애틀에서 자란 한국계 미국인이죠.",
+    "ja": "あなたの名はジェイミー・パーク。二十九歳。シアトル育ちの韓国系アメリカ人だ。",
+    "romaji": "Anata no na wa Jēmī Pāku. Nijūkyū-sai. Shiatoru sodachi no kankokukei amerikajin da."
+  },
+  "s7.l005": {
+    "en": "Five years ago, you spent one year here as an exchange student.",
+    "ru": "Пять лет назад вы провели здесь один год в качестве студента по обмену.",
+    "zh": "五年前，你曾作为交换生在这里度过了一年时间。",
+    "ko": "5년 전, 당신은 이곳에서 교환학생으로 1년을 보냈습니다.",
+    "ja": "五年前、あなたは留学生としてここで一年間を過ごした。",
+    "romaji": "Go-nen mae, anata wa ryūgakusei to shite koko de ichinenkan o sugoshita."
+  },
+  "s7.l006": {
+    "en": "It was the best year of your life.",
+    "ru": "Это был лучший год в вашей жизни.",
+    "zh": "那是你生命中最美好的一年。",
+    "ko": "인생에서 가장 행복했던 1년이었죠.",
+    "ja": "人生で最高の年だった。",
+    "romaji": "Jinsei de saikō no toshi datta."
+  },
+  "s7.l007": {
+    "en": "You've been telling yourself that ever since.",
+    "ru": "С тех пор вы постоянно себе это повторяете.",
+    "zh": "自那以后，你一直在对自己重复这句话。",
+    "ko": "그때부터 줄곧 자신에게 그렇게 되뇌어 왔습니다.",
+    "ja": "それ以来ずっと、自分にそう言い聞かせ続けてきた。",
+    "romaji": "Sore irai zutto, jibun ni sō iikikase tsudzukete kita."
+  },
+  "s7.l008": {
+    "en": "(One year. Three hundred and sixty-two days.)",
+    "ru": "(Один год. Триста шестьдесят два дня.)",
+    "zh": "（一年。三百六十二天。）",
+    "ko": "(1년. 362일.)",
+    "ja": "（一年間。三百六十二日。）",
+    "romaji": "(Ichinenkan. Sambyaku rokujūni-nichi.)"
+  },
+  "s7.l009": {
+    "en": "(You know the exact number because you counted them at the time.)",
+    "ru": "(Вы знаете точное число, потому что считали дни тогда.)",
+    "zh": "（你之所以知道确切的数字，是因为当时你就在计算天数。）",
+    "ko": "(그때 날짜를 꼬박꼬박 세었기 때문에 정확한 숫자를 알고 있습니다.)",
+    "ja": "（当時は一日一日を数えていたから、正確な日数がわかる。）",
+    "romaji": "(Tōji wa ichinichi ichinichi o kazoete ita kara, seikaku na nissū ga wakaru.)"
+  },
+  "s7.l010": {
+    "en": "(You also know the exact number of days since you left: one thousand, eight hundred and twenty-six.)",
+    "ru": "(Вы также знаете точное количество дней с момента вашего отъезда: одна тысяча восемьсот двадцать шесть.)",
+    "zh": "（你也知道自你离开以来确切的天数：一千八百二十六天。）",
+    "ko": "(떠난 지 며칠이 지났는지도 정확히 압니다. 1,826일이죠.)",
+    "ja": "（去ってからの日数も正確に覚えている。千八百二十六日。）",
+    "romaji": "(Satte kara no nissū mo seikaku ni oboete iru. Sen happyaku nijūroku-nichi.)"
+  },
+  "s7.l011": {
+    "en": "(Five years.)",
+    "ru": "(Пять лет.)",
+    "zh": "（五年。）",
+    "ko": "(5년.)",
+    "ja": "（五年だ。）",
+    "romaji": "(Go-nen da.)"
+  },
+  "s7.l012": {
+    "en": "You've booked two weeks. No fixed plans.",
+    "ru": "Вы забронировали две недели. Никаких четких планов.",
+    "zh": "你预定了两周的时间。没有固定的计划。",
+    "ko": "2주를 예약했습니다. 딱히 정해진 계획은 없어요.",
+    "ja": "二週間の滞在を予約した。決まった予定は何もない。",
+    "romaji": "Ni-shūkan no taizai o yoyaku shita. Kimatta yotei wa nani mo nai."
+  },
+  "s7.l013": {
+    "en": "Just—go back. See what's still there.",
+    "ru": "Просто... вернуться. Посмотреть, что там осталось.",
+    "zh": "只是……回去。看看还有什么依然如故。",
+    "ko": "그저... 돌아가 보는 것. 무엇이 그대로 남아 있는지 확인하는 것.",
+    "ja": "ただ――戻ってみたかった。何がまだそこにあるのかを確かめるために。",
+    "romaji": "Tada -- modotte mitakatta. Nani ga mada soko ni aru no ka o tashikameru tame ni."
+  },
+  "s7.l014": {
+    "en": "See what you remember.",
+    "ru": "Посмотреть, что вы помните.",
+    "zh": "看看你还记得什么。",
+    "ko": "무엇을 기억하고 있는지 확인하는 것.",
+    "ja": "自分が何を覚えているのかを見るために。",
+    "romaji": "Jibun ga nani o oboete iru no ka o miru tame ni."
+  },
+  "s7.l015": {
+    "en": "You step through the doors into the arrivals hall.",
+    "ru": "Вы проходите через двери в зал прибытия.",
+    "zh": "你穿过自动门，走进了到达大厅。",
+    "ko": "문을 지나 도착 로비로 발을 내딛습니다.",
+    "ja": "自動ドアを抜けて到着ロビーへと足を踏み出す。",
+    "romaji": "Jidō doa o nukete tōchaku robī e to ashi o fumidasu."
+  },
+  "s7.l016": {
+    "en": "The smell of the airport hits first: that particular combination of recirculated air and convenience store coffee.",
+    "ru": "Первым делом ударяет запах аэропорта: то самое сочетание спертого воздуха и кофе из круглосуточного магазина.",
+    "zh": "机场的味道扑面而来：那种循环空气与便利店咖啡混合在一起的独特气息。",
+    "ko": "공항 특유의 냄새가 소매 끝을 스칩니다. 재순환된 공기와 편의점 커피 향이 뒤섞인 바로 그 냄새예요.",
+    "ja": "まず空港独特の匂いが鼻をつく。循環された空気とコンビニのコーヒーが混ざり合った、あの特有の香りだ。",
+    "romaji": "Mazu kūkō dokutoku no nioi ga hana o tsuku. Junkan sareta kūki to kombini no kōhī ga mazariatta, ano tokuyū no kaori da."
+  },
+  "s7.l017": {
+    "en": "Your chest does something complicated.",
+    "ru": "В груди возникает какое-то сложное чувство.",
+    "zh": "你的内心感到一阵复杂的情绪起伏。",
+    "ko": "가슴 한구석이 뭐라 설명하기 힘든 감정으로 가득 찹니다.",
+    "ja": "胸の奥に複雑な感情が湧き上がる。",
+    "romaji": "Mune no oku ni fukuzatsu na kanjō ga wakiagaru."
+  },
+  "s7.l018": {
+    "en": "Nostalgic.",
+    "ru": "Ностальгия.",
+    "zh": "怀念。",
+    "ko": "그립다.",
+    "ja": "懐かしい。",
+    "romaji": "Natsukashii."
+  },
+  "s7.l019": {
+    "en": "You pick up your bag and head for the Narita Express.",
+    "ru": "Вы забираете сумку и направляетесь к Narita Express.",
+    "zh": "你拿上行李，朝成田特快（Narita Express）走去。",
+    "ko": "가방을 챙겨 나리타 익스프레스 승강장으로 향합니다.",
+    "ja": "荷物を手に取り、成田エクスプレスの乗り場へと向かう。",
+    "romaji": "Nimotsu o te ni tori, Narita Ekusupuresu no noriba e to mukau."
+  },
+  "s7.l020": {
+    "en": "The train cuts through the outskirts of the city.",
+    "ru": "Поезд проезжает через окраины города.",
+    "zh": "列车穿梭在城市的郊外。",
+    "ko": "열차가 도시 외곽을 가로지릅니다.",
+    "ja": "列車は東京の郊外を走り抜けていく。",
+    "romaji": "Ressha wa Tōkyō no kōgai o hashirinukete iku."
+  },
+  "s7.l021": {
+    "en": "You press your face against the window like you're twenty-four again.",
+    "ru": "Вы прижимаетесь лицом к окну, словно вам снова двадцать четыре.",
+    "zh": "你把脸贴在窗户上，仿佛回到了二十四岁那年。",
+    "ko": "마치 스물네 살 때로 돌아간 것처럼 창문에 얼굴을 바짝 갖다 댑니다.",
+    "ja": "二十四歳の頃のように、窓ガラスに顔をぴったりと押し当てる。",
+    "romaji": "Nijūyon-sai no koro no yō ni, mado garasu ni kao o pittari to oshiateteru."
+  },
+  "s7.l022": {
+    "en": "The skyline is the same. Mostly.",
+    "ru": "Линия горизонта осталась прежней. Почти.",
+    "zh": "天际线依然如昨。大部分吧。",
+    "ko": "도시의 외관은 그대로입니다. 대부은 요.",
+    "ja": "街並みは以前のままだ。ほとんどは。",
+    "romaji": "Machinami wa izen no mama da. Hotondo wa."
+  },
+  "s7.l023": {
+    "en": "A new tower where there wasn't one. A construction site where something used to be.",
+    "ru": "Новая башня там, где ее не было. Стройплощадка там, где раньше что-то стояло.",
+    "zh": "以前没有塔的地方多了一座塔。以前有建筑物的地方成了一片建筑工地。",
+    "ko": "예전에는 없던 새로운 타워가 보이고, 무언가 있었을 장소는 공사장으로 바뀌어 있네요.",
+    "ja": "以前はなかった新しいタワー。かつて何かがあったはずの工事現場。",
+    "romaji": "Izen wa nakatta atarashii tawā. Katsute nanika ga atta hazu no kōji gemba."
+  },
+  "s7.l024": {
+    "en": "(The city doesn't know I'm back.)",
+    "ru": "(Город не знает, что я вернулся.)",
+    "zh": "（这座城市并不知道我回来了。）",
+    "ko": "(이 도시는 내가 돌아온 걸 모를 거야.)",
+    "ja": "（この街は、僕が戻ってきたことなんて知らないんだな。）",
+    "romaji": "(Kono machi wa, boku ga modotte kita koto nante shiranai n da na.)"
+  },
+  "s7.l025": {
+    "en": "(That should be obvious. But it lands strangely.)",
+    "ru": "(Это должно быть очевидно. Но это ощущается странно.)",
+    "zh": "（这本该是显而易见的。但听起来却很奇怪。）",
+    "ko": "(당연한 일인데, 기분이 묘하네.)",
+    "ja": "（当たり前のことだ。けれど、なぜか不思議な重みで胸に落ちる。）",
+    "romaji": "(Atarimae no koto da. Keredo, naze ka fushigi na omomi de mune ni ochiru.)"
+  },
+  "s7.l026": {
+    "en": "You check your phone. A message from your friend Sota—",
+    "ru": "Вы проверяете телефон. Сообщение от вашего друга Соты —",
+    "zh": "你查看手机。收到一条来自朋友飒太的消息——",
+    "ko": "휴대폰을 확인합니다. 친구 소타가 보낸 메시지네요.",
+    "ja": "スマートフォンを確認する。友人の颯太からのメッセージだ――",
+    "romaji": "Sumātofon o kakunin suru. Yūjin no Sōta kara no messēji da--"
+  },
+  "s7.l027": {
+    "en": "Your closest friend from the exchange year. Still in Tokyo, still in the same neighborhood.",
+    "ru": "Ваш лучший друг со времен учебы по обмену. Все еще в Токио, все еще в том же районе.",
+    "zh": "他是你交換生期间最好的朋友。依然在东京，依然住在同一个街区。",
+    "ko": "교환학생 시절 가장 친했던 친구. 그는 여전히 도쿄의 그 동네에 살고 있습니다.",
+    "ja": "留学時代の一番の親友。今でも東京にいて、あの頃と同じ街に住んでいる。",
+    "romaji": "Ryūgaku jidai no ichiban no shin'yū. Ima demo Tōkyō ni ite, ano koro to onaji machi ni sunde iru."
+  },
+  "s7.l028": {
+    "en": "「おかえり！まじで来たんだ笑　今日の夜空いてる？」(Okaeri! Maji de kitanda lol kyou no yoru aiteru?)",
+    "ru": "«С возвращением! Ты реально приехал, ха-ха. Свободен сегодня вечером?»",
+    "zh": "「欢迎回来！你真的来了啊（笑）今天晚上有空吗？」",
+    "ko": "「어서 와! 진짜 왔네(웃음) 오늘 저녁에 시간 돼?」",
+    "ja": "「おかえり！まじで来たんだ笑　今日の夜空いてる？」",
+    "romaji": "\"Okaeri! Maji de kitanda wara kyō no yoru aiteru?\""
+  },
+  "s7.l029": {
+    "en": "\"Welcome back! You actually came lol. Free tonight?\"",
+    "ru": "«С возвращением! Ты правда приехал, лол. Свободен сегодня?»",
+    "zh": "“欢迎回来！你真的来了啊（笑）。今晚有空吗？”",
+    "ko": "\"어서 와! 진짜 왔구나(웃음). 오늘 저녁에 시간 있어?\"",
+    "ja": "「おかえり！ 本当に来たんだな（笑） 今夜空いてる？」",
+    "romaji": "\"Okaeri! Hontō ni kita n da na (wara) Konya aiteru?\""
+  },
+  "s7.l030": {
+    "en": "Welcome back.",
+    "ru": "С возвращением.",
+    "zh": "欢迎回来。",
+    "ko": "잘 돌아왔어.",
+    "ja": "おかえり。",
+    "romaji": "Okaeri."
+  },
+  "s7.l031": {
+    "en": "(He said okaeri. As if this is still home.)",
+    "ru": "(Он сказал «окаэри». Будто я все еще дома.)",
+    "zh": "（他说“欢迎回来（okaeri）”。仿佛这里依然是家。）",
+    "ko": "('어서 와(okaeri)'라고 말해주네. 마치 여기가 아직 내 집인 것처럼.)",
+    "ja": "（彼は「おかえり」と言ってくれた。まるでここが、今でも僕の家であるかのように。）",
+    "romaji": "(Kare wa \"okaeri\" to itte kureta. Marude koko ga, ima demo boku no ie de aru ka no yō ni.)"
+  },
+  "s7.l032": {
+    "en": "(Is it still home?)",
+    "ru": "(Это все еще дом?)",
+    "zh": "（这里依然是家吗？）",
+    "ko": "(여기가 여전히 내 집일까?)",
+    "ja": "（ここはまだ、僕の家なのだろうか？）",
+    "romaji": "(Koko wa mada, boku no ie na no darō ka?)"
+  },
+  "s7.l033": {
+    "en": "You type back: 「もちろん。場所決めて。」(Mochiron. Basho kimete.)",
+    "ru": "Вы отвечаете: «Конечно. Выбирай место».",
+    "zh": "你回道：「当然。你定地方。」",
+    "ko": "답장을 보냅니다. 「물론이지. 장소 정해줘.」",
+    "ja": "返信を打ち込む。「もちろん。場所決めて」",
+    "romaji": "Henshin o uchikomu. \"Mochiron. Basho kimete\""
+  },
+  "s7.l034": {
+    "en": "Of course. You pick the place.",
+    "ru": "Конечно. Место за тобой.",
+    "zh": "当然。地点由你决定。",
+    "ko": "물론이죠. 장소는 소타가 정해주세요.",
+    "ja": "もちろん。場所はお前に任せるよ。",
+    "romaji": "Mochiron. Basho wa omae ni makaseru yo."
+  },
+  "s7.l035": {
+    "en": "Shimokitazawa. Your old neighborhood.",
+    "ru": "Симо-Китадзава. Ваш старый район.",
+    "zh": "下北泽。你曾经住过的街区。",
+    "ko": "시모키타자와. 당신이 살던 동네입니다.",
+    "ja": "下北沢。かつて暮らした街。",
+    "romaji": "Shimokitazawa. Katsute kurashita machi."
+  },
+  "s7.l036": {
+    "en": "You lived here for nine months in a tiny share house with six other students.",
+    "ru": "Вы прожили здесь девять месяцев в крошечном гостевом доме с шестью другими студентами.",
+    "zh": "你曾在这里的合租房里住了九个月，和另外六名学生挤在一起。",
+    "ko": "이곳의 작은 쉐어하우스에서 다른 학생 6명과 함께 9개월 동안 지냈었죠.",
+    "ja": "他の留学生六人と小さなシェアハウスで九ヶ月間暮らした場所だ。",
+    "romaji": "Hoka no ryūgakusei roku-nin to chiisana shea hausu de kyūkagetsukan kurashita basho da."
+  },
+  "s7.l037": {
+    "en": "You knew every shortcut, every vending machine, every stray cat with a name.",
+    "ru": "Вы знали каждый короткий путь, каждый торговый автомат, каждую бродячую кошку по имени.",
+    "zh": "你熟悉这里的每一条捷径、每一个自动售货机，甚至每一只叫得出名字的流浪猫。",
+    "ko": "지름길이며 자판기 위치, 이름 붙여준 길고양이들까지 모르는 게 없었습니다.",
+    "ja": "あらゆる抜け道も、すべての自販機も、名前のついた野良猫たちも、全部知っていた。",
+    "romaji": "Arayuru nukemichi mo, subete no jihanki mo, namae no tsuita noraneko-tachi mo, zembu shitte ita."
+  },
+  "s7.l038": {
+    "en": "You step off the Odakyu line and walk out of the east exit.",
+    "ru": "Вы выходите с линии Одакю и направляетесь к восточному выходу.",
+    "zh": "你走下小田急线列车，从东出口走了出来。",
+    "ko": "오다큐선에서 내려 동쪽 출구로 걸어 나옵니다.",
+    "ja": "小田急線を降りて、東口の改札を出る。",
+    "romaji": "Odakyū-sen o orite, higashiguchi no kaisatsu o deru."
+  },
+  "s7.l039": {
+    "en": "And stop.",
+    "ru": "И замираете.",
+    "zh": "然后停下了脚步。",
+    "ko": "그리고 걸음을 멈춥니다.",
+    "ja": "そして足を止める。",
+    "romaji": "Soshite ashi o tomeru."
+  },
+  "s7.l040": {
+    "en": "(The record shop.)",
+    "ru": "(Магазин пластинок.)",
+    "zh": "（那家唱片店。）",
+    "ko": "(레코드 가게.)",
+    "ja": "（あのレコード屋……）",
+    "romaji": "(Ano rekōdo-ya...)"
+  },
+  "s7.l041": {
+    "en": "(It's gone.)",
+    "ru": "(Он исчез.)",
+    "zh": "（没了。）",
+    "ko": "(없어졌다.)",
+    "ja": "（なくなっている。）",
+    "romaji": "(Nakunatte iru.)"
+  },
+  "s7.l042": {
+    "en": "Where Kazuya's Vinyl had been—floor-to-ceiling used records, a cat named Pepper who slept on the jazz section—",
+    "ru": "Там, где раньше был «Винил Кадзуи» — полки с пластинками до потолка и кошка Пеппер, спавшая в секции джаза, —",
+    "zh": "曾经的“和也黑胶店”所在的地方——那里曾有堆到天花板的二手唱片，还有一只叫“胡椒”的猫总爱在爵士乐区睡觉——",
+    "ko": "천장까지 중고 레코드가 가득하고, 재즈 코너 위에서 페퍼라는 고양이가 낮잠을 자던 '카즈야네 레코드' 자리에는—",
+    "ja": "天井まで届く中古レコードの棚と、ジャズの棚の上で眠っていたペッパーという猫がいた「カズヤのレコード屋」の跡地に――",
+    "romaji": "Tenjō made todoku chūko rekōdo no tana to, jazu no tana no ue de nemutte ita Peppā to iu neko ga ita \"Kazuya no rekōdo-ya\" no atochi ni--"
+  },
+  "s7.l043": {
+    "en": "there is now a bubble tea chain with a pink neon sign.",
+    "ru": "теперь находится сетевая чайная с розовой неоновой вывеской.",
+    "zh": "现在已经变成了一家挂着粉色霓虹灯招牌的连锁奶茶店。",
+    "ko": "이제 핑크색 네온사인이 반짝이는 버블티 체인점이 들어서 있습니다.",
+    "ja": "今はピンクのネオン看板を掲げたタピオカティーのチェーン店が建っている。",
+    "romaji": "Ima wa pinku no neon kamban o kakageta tapioka tī no chēn-ten ga tatte iru."
+  },
+  "s7.l044": {
+    "en": "(Okay.)",
+    "ru": "(Ладно.)",
+    "zh": "（好吧。）",
+    "ko": "(그래.)",
+    "ja": "（まあ、いい。）",
+    "romaji": "(Maa, ii.)"
+  },
+  "s7.l045": {
+    "en": "(Shops close.)",
+    "ru": "(Магазины закрываются.)",
+    "zh": "（商店总会关门的。）",
+    "ko": "(가게는 문을 닫기도 하니까.)",
+    "ja": "（店が閉まることくらいある。）",
+    "romaji": "(Mise ga shimaru koto kurai aru.)"
+  },
+  "s7.l046": {
+    "en": "(That's normal.)",
+    "ru": "(Это нормально.)",
+    "zh": "（这很正常。）",
+    "ko": "(당연한 일이야.)",
+    "ja": "（よくあることだ。）",
+    "romaji": "(Yoku aru koto da.)"
+  },
+  "s7.l047": {
+    "en": "You walk your old route toward the share house.",
+    "ru": "Вы идете по своему старому маршруту к гостевому дому.",
+    "zh": "你走上熟悉的老路，朝合租房走去。",
+    "ko": "쉐어하우스로 향하는 익숙한 길을 걷습니다.",
+    "ja": "シェアハウスへ向かう懐かしい道を歩く。",
+    "romaji": "Shea hausu e mukau natsukashii michi o aruku."
+  },
+  "s7.l048": {
+    "en": "The curry restaurant on the corner: still there. Good.",
+    "ru": "Ресторан карри на углу: все еще там. Хорошо.",
+    "zh": "转角处的那家咖喱店：还在。太好了。",
+    "ko": "모퉁이의 카레 가게는 그대로네요. 다행입니다.",
+    "ja": "角のカレー屋：まだある。よかった。",
+    "romaji": "Kado no karē-ya: mada aru. Yokatta."
+  },
+  "s7.l049": {
+    "en": "The tiny park where you used to eat コンビニ lunches: still there. Good.",
+    "ru": "Крошечный парк, где вы ели обеды из комбини: все еще там. Хорошо.",
+    "zh": "以前常在那儿吃便利店午餐的小公园：还在。太好了。",
+    "ko": "편의점 도시락을 즐겨 먹던 작은 공원도 그대로군요. 좋네요.",
+    "ja": "コンビニ弁当をよく食べた小さな公園：まだある。よかった。",
+    "romaji": "Kombini bentō o yoku tabeta chiisana kōen: mada aru. Yokatta."
+  },
+  "s7.l050": {
+    "en": "The share house itself—",
+    "ru": "Сам гостевой дом —",
+    "zh": "至于合租房本身——",
+    "ko": "그리고 쉐어하우스 건물은—",
+    "ja": "そして、シェアハウスそのものは――",
+    "romaji": "Soshite, shea hausu sonomono wa--"
+  },
+  "s7.l051": {
+    "en": "The share house is now a parking lot.",
+    "ru": "На месте гостевого дома теперь парковка.",
+    "zh": "合租房现在已经变成了一个停车场。",
+    "ko": "주차장이 되어 있습니다.",
+    "ja": "シェアハウスは、駐車場になっていた。",
+    "romaji": "Shea hausu wa, chūshajō ni natte ita."
+  },
+  "s7.l052": {
+    "en": "(Oh.)",
+    "ru": "(Ох.)",
+    "zh": "（噢。）",
+    "ko": "(아...)",
+    "ja": "（あ……）",
+    "romaji": "(A...)"
+  },
+  "s7.l053": {
+    "en": "You stand on the sidewalk looking at eight parking spaces where you used to sleep.",
+    "ru": "Вы стоите на тротуаре, глядя на восемь парковочных мест там, где вы раньше спали.",
+    "zh": "你站在人行道上，盯着那八个车位发呆，那里曾是你睡觉的地方。",
+    "ko": "예전에 잠을 자던 그 자리에 주차 공간 8개가 줄지어 있는 걸 멍하니 바라봅니다.",
+    "ja": "かつて自分が眠っていた場所に並ぶ、八台分の駐車スペースを歩道から見つめる。",
+    "romaji": "Katsute jibun ga nemutte ita basho ni narabu, hachidai-bun no chūsha supēsu o hodō kara mitsumeru."
+  },
+  "s7.l054": {
+    "en": "Where Ananya from India had covered her bedroom wall with postcards.",
+    "ru": "Где Ананья из Индии обклеивала стену своей спальни открытками.",
+    "zh": "那里曾有来自印度的阿南亚，她在卧室墙上贴满了明信片。",
+    "ko": "인도에서 온 아난야가 침실 벽에 엽서를 가득 붙여두었던 곳.",
+    "ja": "インド出身のアナンニャが部屋の壁一面にポストカードを貼っていた場所。",
+    "romaji": "Indo shusshin no Anan'nya ga heya no kabe ichimen ni posutokādo o hatte ita basho."
+  },
+  "s7.l055": {
+    "en": "Where you and Sota used to sit on the fire escape after midnight, talking about everything.",
+    "ru": "Где вы с Сотой сидели на пожарной лестнице после полуночи, болтая обо всем на свете.",
+    "zh": "那里曾是你和飒太在午夜后坐在消防通道上，无所不谈的地方。",
+    "ko": "한밤중에 소타와 비상구 계단에 앉아 온갖 이야기를 나누던 곳.",
+    "ja": "深夜過ぎ、颯太と非常階段に腰掛けてありとあらゆることを語り合った場所。",
+    "romaji": "Shin'ya-sugi, Sōta to hijō kaidan ni koshikakete ari to arayuru koto o katariatta basho."
+  },
+  "s7.l056": {
+    "en": "(The fire escape faced east.)",
+    "ru": "(Пожарная лестница выходила на восток.)",
+    "zh": "（消防通道是朝向东方的。）",
+    "ko": "(비상구 계단은 동쪽을 향하고 있었지.)",
+    "ja": "（非常階段は東向きだった。）",
+    "romaji": "(Hijō kaidan wa higashimuki datta.)"
+  },
+  "s7.l057": {
+    "en": "(You used to watch the sky get lighter and pretend you'd stay up to see sunrise.)",
+    "ru": "(Вы наблюдали, как светлеет небо, и притворялись, что дождетесь рассвета.)",
+    "zh": "（你曾看着天空渐渐变亮，假装自己能熬到看日出。）",
+    "ko": "(서서히 밝아오는 하늘을 보며 일출까지 버텨보겠노라 다짐하곤 했어.)",
+    "ja": "（白んでいく空を眺めながら、日の出を見るまで起きていようと意気込んだものだ。）",
+    "romaji": "(Shirande iku sora o nagamenagara, hinode o miru made okite iyō to ikigonda mono da.)"
+  },
+  "s7.l058": {
+    "en": "(You never did. You always went to bed at 3 AM, almost.)",
+    "ru": "(Вы так ни разу и не дождались. Почти всегда ложились часа в три ночи.)",
+    "zh": "（但你从未成功过。几乎每次到了凌晨三点，你就会跑去睡觉。）",
+    "ko": "(한 번도 성공한 적은 없지만. 늘 새벽 3시쯤 잠들었으니까.)",
+    "ja": "（結局一度も起きちゃいられず、大体いつも午前三時前には寝てしまっていたけれど。）",
+    "romaji": "(Kekkyoku ichido mo okicha irarezu, daitai itsumo gozen san-ji mae ni wa nete shimatte ita keredo.)"
+  },
+  "s7.l059": {
+    "en": "A car pulls into the parking lot. A middle-aged man gets out, not noticing you.",
+    "ru": "На парковку заезжает машина. Выходит мужчина средних лет, не замечая вас.",
+    "zh": "一辆车开进停车场。一名中年男子走下车，完全没注意到你。",
+    "ko": "차 한 대가 주차장으로 들어옵니다. 내린 중년 남성은 당신의 존재를 알아채지도 못한 채 지나쳐 갑니다.",
+    "ja": "一台の車が駐車場に入ってきた。中年の男性が降りてきたが、こちらには気づきもしない。",
+    "romaji": "Ichidai no kuruma ga chūshajō ni haitte kita. Chūnen no dansei ga orite kita ga, kochira ni wa kizuki mo shinai."
+  },
+  "s7.l060": {
+    "en": "He locks his car and walks away.",
+    "ru": "Он запирает машину и уходит.",
+    "zh": "他锁上车门，兀自走开了。",
+    "ko": "차 문을 잠그고 멀어지는 그의 뒷모습.",
+    "ja": "彼は車にロックをかけ、歩き去っていく。",
+    "romaji": "Kare wa kuruma ni rokku o kake, arukisatte iku."
+  },
+  "s7.l061": {
+    "en": "He has no idea what used to be here.",
+    "ru": "Он и понятия не имеет, что здесь было раньше.",
+    "zh": "他根本不知道这里曾经是什么样子。",
+    "ko": "이 자리에 무엇이 있었는지 그는 전혀 모를 겁니다.",
+    "ja": "かつてここに何があったのか、彼は知る由もない。",
+    "romaji": "Katsute koko ni nani ga atta no ka, kare wa shiru yoshi mo nai."
+  },
+  "s7.l062": {
+    "en": "Sota hasn't changed. This is both a relief and somehow disorienting.",
+    "ru": "Сота не изменился. Это и успокаивает, и как-то дезориентирует одновременно.",
+    "zh": "飒太一点没变。这既让你感到欣慰，又让你觉得有些恍惚。",
+    "ko": "소타는 변하지 않았습니다. 안심이 되면서도 묘하게 어색한 기분이 드네요.",
+    "ja": "颯太は変わっていなかった。それは安堵でもあり、どこか奇妙な戸惑いでもあった。",
+    "romaji": "Sōta wa kawatte inakatta. Sore wa ando de mo ari, dokoka kimyō na tomadoi de mo atta."
+  },
+  "s7.l063": {
+    "en": "He's thirty now, slightly better at dressing himself, but the laugh is identical.",
+    "ru": "Ему теперь тридцать, он стал чуть лучше одеваться, но смех остался прежним.",
+    "zh": "他现在三十岁了，穿衣打扮稍微讲究了点，但笑声还是和以前一模一样。",
+    "ko": "이제 서른 살인 그는 예전보다 옷도 잘 입지만, 웃음소리만큼은 그대로입니다.",
+    "ja": "彼も三十歳になり、身なりは少し垢抜けたけれど、あの笑い声は当時のままだ。",
+    "romaji": "Kare mo sanjū-sai ni nari, minari wa sukoshi akanuketa keredo, ano waraigoe wa tōji no mama da."
+  },
+  "s7.l064": {
+    "en": "Jamie! It's really you!",
+    "ru": "Джеми! Это правда ты!",
+    "zh": "杰米！真的是你啊！",
+    "ko": "제이미! 정말 너 맞아?!",
+    "ja": "「ジェイミー！ まじでお前か！」",
+    "romaji": "\"Jēmī! Maji de omae ka!\""
+  },
+  "s7.l065": {
+    "en": "You hug. He smells like the same cheap deodorant.",
+    "ru": "Вы обнимаетесь. От него пахнет тем же дешевым дезодорантом.",
+    "zh": "你们拥抱着。他闻起来还是那种廉价除臭剂的味道。",
+    "ko": "포옹을 나눕니다. 그에게선 여전히 그때 그 저렴한 데오도란트 냄새가 나네요.",
+    "ja": "二人は抱き合う。彼からは当時と同じ安い制汗剤の匂いがした。",
+    "romaji": "Futari wa dakiau. Kare kara wa tōji to onaji yasui seikanzai no nioi ga shita."
+  },
+  "s7.l066": {
+    "en": "Some things don't change. That's also a fact.",
+    "ru": "Кое-что не меняется. И это тоже факт.",
+    "zh": "有些东西是不会变的。这也是事实。",
+    "ko": "변하지 않는 것도 있다. 그것 또한 사실이죠.",
+    "ja": "変わらないものもある。それもまた確かな事実だ。",
+    "romaji": "Kawaranai mono mo aru. Sore mo mata tashika na jijitsu da."
+  },
+  "s7.l067": {
+    "en": "Yeah, it's me.",
+    "ru": "Да, это я.",
+    "zh": "是我啊。",
+    "ko": "응, 나 맞아.",
+    "ja": "「ああ、僕だよ」",
+    "romaji": "\"Aa, boku da yo\""
+  },
+  "s7.l068": {
+    "en": "It's been five years, right? How does it feel?",
+    "ru": "Пять лет прошло, да? Ну, как ощущения?",
+    "zh": "时隔五年了对吧。感觉如何？",
+    "ko": "5년 만이지? 기분이 어때?",
+    "ja": "「五年ぶりだろ？ どんな感じだ？」",
+    "romaji": "\"Go-nen-buri daro? Donna kanji da?\""
+  },
+  "s7.l069": {
+    "en": "(Five years in one question. How does it feel.)",
+    "ru": "(Пять лет в одном вопросе. Каково это.)",
+    "zh": "（五年的时光浓缩成了一个问题：感觉如何。）",
+    "ko": "(5년의 세월을 담은 하나의 질문. 기분이 어떠냐니.)",
+    "ja": "（五年という月日を一つの問いに凝縮した。『どんな感じか』と。）",
+    "romaji": "(Go-nen to iu tsukihi o hitotsu no toi ni gyōshuku shita. 'Donna kanji ka' to.)"
+  },
+  "s7.l070": {
+    "en": "Both. It feels nostalgic, and also somehow different.",
+    "ru": "И то, и другое. Кажется знакомым и в то же время каким-то другим.",
+    "zh": "两者兼而有之。既感到怀念，又觉得哪里不太一样。",
+    "ko": "둘 다야. 그립기도 하면서, 왠지 다른 느낌도 들고.",
+    "ja": "「両方だよ。懐かしい気もするし、何だか違う気もする」",
+    "romaji": "\"Ryōhō da yo. Natsukashii ki mo suru shi, nandaka chigau ki mo suru\""
+  },
+  "s7.l071": {
+    "en": "Both, huh. Yeah, that makes sense.",
+    "ru": "И то, и другое, значит. Ну да, логично.",
+    "zh": "都有啊。也对，可以理解。",
+    "ko": "둘 다라니, 그럴 만도 하네.",
+    "ja": "「両方か。まあ、そうだよな」",
+    "romaji": "\"Ryōhō ka. Maa, sō da yo na\""
+  },
+  "s7.l072": {
+    "en": "Did you know the share house is gone?",
+    "ru": "Ты знал, что гостевой дом снесли?",
+    "zh": "你知道合租房已经没了吗？",
+    "ko": "쉐어하우스 없어진 거 알고 있었어?",
+    "ja": "「シェアハウスがなくなったの、知ってたか？」",
+    "romaji": "\"Shea hausu ga nakunatta no, shitteta ka?\""
+  },
+  "s7.l073": {
+    "en": "I saw it today.",
+    "ru": "Сегодня увидел.",
+    "zh": "我今天看到了。",
+    "ko": "오늘 봤어.",
+    "ja": "「今日見てきたよ」",
+    "romaji": "\"Kyō mite kita yo\""
+  },
+  "s7.l074": {
+    "en": "It had become a parking lot.",
+    "ru": "Там теперь парковка.",
+    "zh": "变成停车场了。",
+    "ko": "주차장이 됐더라.",
+    "ja": "「駐車場になってた」",
+    "romaji": "\"Chūshajō ni natteta\""
+  },
+  "s7.l075": {
+    "en": "Last year. They tore it down.",
+    "ru": "В прошлом году. Его снесли.",
+    "zh": "就在去年。他们把它给拆了。",
+    "ko": "작년에 헐었어.",
+    "ja": "「去年だよ。取り壊されたんだ」",
+    "romaji": "\"Kyonen da yo. Torikowasareta n da\""
+  },
+  "s7.l076": {
+    "en": "At first, I felt weird about it too.",
+    "ru": "Поначалу мне тоже было как-то не по себе.",
+    "zh": "刚开始我心里也觉得怪怪的。",
+    "ko": "나도 처음엔 기분 참 이상하더라고.",
+    "ja": "「俺も最初は変な感じがしたよ」",
+    "romaji": "\"Ore mo saisho wa hen na kanji ga shita yo\""
+  },
+  "s7.l077": {
+    "en": "Kazuya-san's record shop too.",
+    "ru": "Магазин пластинок Кадзуи тоже.",
+    "zh": "和也桑的唱片店也是。",
+    "ko": "카즈야 씨 레코드 가게도 말이야.",
+    "ja": "「カズヤさんのレコード屋もな」",
+    "romaji": "\"Kazuya-san no rekōdo-ya mo na\""
+  },
+  "s7.l078": {
+    "en": "Yeah. Three years ago. I heard Kazuya-san went back to Osaka.",
+    "ru": "Ага. Три года назад. Слышал, Кадзуя вернулся в Осаку.",
+    "zh": "是啊。三年前的事了。听说和也桑回大阪去了。",
+    "ko": "응. 3년 전이었지. 카즈야 씨는 오사카로 돌아갔다고 들었어.",
+    "ja": "「ああ。三年前だな。カズヤさんは大阪へ帰ったらしい」",
+    "romaji": "\"Aa. Sannen mae da na. Kazuya-san wa Ōsaka e kaetta rashii\""
+  },
+  "s7.l079": {
+    "en": "You sit with that for a moment.",
+    "ru": "Вы молчите какое-то время, переваривая это.",
+    "zh": "你沉默了一会儿。",
+    "ko": "잠시 침묵에 빠집니다.",
+    "ja": "あなたはその言葉を静かに噛みしめる。",
+    "romaji": "Anata wa sono kotoba o shizuka ni kamishimeru."
+  },
+  "s7.l080": {
+    "en": "Sota refills your glass without being asked.",
+    "ru": "Сота подливает вам в бокал, не спрашивая.",
+    "zh": "飒太没说话，默默地给你的杯子满上。",
+    "ko": "소타는 말없이 당신의 잔을 채워줍니다.",
+    "ja": "颯太は何も言わずにグラスにお酒を注ぎ足してくれた。",
+    "romaji": "Sōta wa nani mo iwazu ni gurasu ni osake o tsugitashite kureta."
+  },
+  "s7.l081": {
+    "en": "What were you expecting?",
+    "ru": "А чего ты ожидал?",
+    "zh": "你原本期待的是什么样的？",
+    "ko": "뭘 기대했던 거야?",
+    "ja": "「お前、何を期待してたんだ？」",
+    "romaji": "\"Omae, nani o kitai shiteta n da?\""
+  },
+  "s7.l082": {
+    "en": "(What were you expecting?)",
+    "ru": "(А чего ты ожидал?)",
+    "zh": "（你原本期待的是什么样的？）",
+    "ko": "(난 대체 뭘 기대한 걸까?)",
+    "ja": "（何を期待していたのだろう？）",
+    "romaji": "(Nani o kitai shite ita no darō?)"
+  },
+  "s7.l083": {
+    "en": "Jamie.",
+    "ru": "Джеми.",
+    "zh": "杰米。",
+    "ko": "제이미.",
+    "ja": "「ジェイミー」",
+    "romaji": "\"Jēmī\""
+  },
+  "s7.l084": {
+    "en": "The things from back then haven't disappeared.",
+    "ru": "То, что было тогда, никуда не исчезло.",
+    "zh": "那时候的东西并没有消失。",
+    "ko": "그때의 기억들이 사라진 건 아냐.",
+    "ja": "「当時のものが消えてなくなったわけじゃない」",
+    "romaji": "\"Tōji no mono ga kiete nakunatta wake ja nai\""
+  },
+  "s7.l085": {
+    "en": "It's just that Tokyo back then isn't the same place as Tokyo now.",
+    "ru": "Просто тот Токио — это уже не тот Токио, который сейчас.",
+    "zh": "只是那个时候的东京，已经和现在的东京不是同一个地方了。",
+    "ko": "다만 그때의 도쿄가 지금의 도쿄와 같은 장소가 아닐 뿐이지.",
+    "ja": "「ただ、あの頃の東京と今の東京は、同じ場所じゃないってだけだ」",
+    "romaji": "\"Tada, ano koro no Tōkyō to ima no Tōkyō wa, onaji basho ja nai tte dake da\""
+  },
+  "s7.l086": {
+    "en": "(The Tokyo I loved and the Tokyo that exists now are not the same place.)",
+    "ru": "(Токио, который я любил, и Токио, который существует сейчас, — это разные места.)",
+    "zh": "（你所爱的那个东京，和现在这个城市，已经不再是同一个地方了。）",
+    "ko": "(내가 사랑했던 도쿄와 지금 존재하는 도쿄는 더 이상 같은 곳이 아니구나.)",
+    "ja": "（僕が愛した東京と、今ここにある東京は、同じ場所ではない。）",
+    "romaji": "(Boku ga aishita Tōkyō to, ima koko ni aru Tōkyō wa, onaji basho dewa nai.)"
+  },
+  "s7.l087": {
+    "en": "(Even though they occupy the same map.)",
+    "ru": "(Несмотря на то, что они находятся на одной и той же карте.)",
+    "zh": "（即便它们都在同一个地图模板上。）",
+    "ko": "(지도는 그대로인데 말이야.)",
+    "ja": "（同じ地図の上に乗っかっているとしても。）",
+    "romaji": "(Onaji chizu no ue ni nokkatte iru to shitemo.)"
+  },
+  "s7.l088": {
+    "en": "Anyway, let's drink. What are you doing tomorrow?",
+    "ru": "В общем, давай выпьем. Что делаешь завтра?",
+    "zh": "不管怎样，咱们先喝吧。你明天打算做什么？",
+    "ko": "아무튼, 일단 마시자. 내일은 뭐 해?",
+    "ja": "「ま、飲もうぜ。明日はどうするんだ？」",
+    "romaji": "\"Ma, nomō ze. Ashita wa dō suru n da?\""
+  },
+  "s7.l089": {
+    "en": "I was thinking of visiting all the old places.",
+    "ru": "Я думал обойти все старые места.",
+    "zh": "我想把以前的老地方都逛一遍。",
+    "ko": "옛날에 자주 가던 곳들을 다 돌아볼까 해서.",
+    "ja": "「昔の場所を全部回ってみようと思ってる」",
+    "romaji": "\"Mukashi no basho o zembu mawatte miyō to omotteru\""
+  },
+  "s7.l090": {
+    "en": "All of them?",
+    "ru": "Все до одного?",
+    "zh": "全去一遍？",
+    "ko": "전부 다?",
+    "ja": "「全部か？」",
+    "romaji": "\"Zembu ka?\""
+  },
+  "s7.l091": {
+    "en": "As many as I can.",
+    "ru": "Сколько смогу.",
+    "zh": "尽我所能吧。",
+    "ko": "갈 수 있는 데까지는.",
+    "ja": "「行けるだけたくさん」",
+    "romaji": "\"Ikeru dake takusan\""
+  },
+  "s7.l092": {
+    "en": "Then that's going to be rough.",
+    "ru": "Тогда тебе придется несладко.",
+    "zh": "那可有的忙了。",
+    "ko": "그거 참 빡빡하겠네.",
+    "ja": "「そりゃ骨が折れそうだな」",
+    "romaji": "\"Sorya hone ga oresō da na\""
+  },
+  "s7.l093": {
+    "en": "Want me to come with you?",
+    "ru": "Хочешь, я пойду с тобой?",
+    "zh": "想让我陪你一起去吗？",
+    "ko": "나도 같이 갈까?",
+    "ja": "「一緒に行こうか？」",
+    "romaji": "\"Issho ni ikō ka?\""
+  },
+  "s7.l094": {
+    "en": "I want to try doing it alone.",
+    "ru": "Я хочу попробовать один.",
+    "zh": "我想试着自己一个人逛逛。",
+    "ko": "혼자 한번 해보고 싶어.",
+    "ja": "「一人で回ってみたいんだ」",
+    "romaji": "\"Hitori de mawatte mitai n da\""
+  },
+  "s7.l095": {
+    "en": "Got it. Message me tonight.",
+    "ru": "Понял. Напиши мне сегодня вечером.",
+    "zh": "明白了。今晚给我发消息。",
+    "ko": "알겠어. 저녁에 연락해.",
+    "ja": "「了解。今夜メッセージくれよ」",
+    "romaji": "\"Ryōkai. Konya messēji kure yo\""
+  },
+  "s7.l096": {
+    "en": "You make a list. The places that mattered.",
+    "ru": "Вы составляете список. Места, которые имели значение.",
+    "zh": "你列了一个清单。那些重要的地方。",
+    "ko": "중요했던 장소들의 목록을 만듭니다.",
+    "ja": "リストを作る。かつて大切だった場所のリストだ。",
+    "romaji": "Risuto o tsukuru. Katsute taisetsu datta basho no risuto da."
+  },
+  "s7.l097": {
+    "en": "The ones you've been carrying around in your head for five years.",
+    "ru": "Те самые, что вы хранили в памяти все пять лет.",
+    "zh": "那些在你脑海里珍藏了五年的地方。",
+    "ko": "5년 동안 머릿속에 간직해 온 장소들입니다.",
+    "ja": "この五年間、ずっと記憶の中で抱え続けてきた場所たち。",
+    "romaji": "Kono go-nenkan, zutto kioku no naka de kakaetsudzukete kita basho-tachi."
+  },
+  "s7.l098": {
+    "en": "You move through them methodically, like a person settling a debt.",
+    "ru": "Вы методично обходите их, словно выплачиваете долг.",
+    "zh": "你会有条不紊地一一走访，就像在偿还某种债务一样。",
+    "ko": "빚을 갚는 사람처럼 하나씩 차근차근 그곳들을 찾아갑니다.",
+    "ja": "まるで借金を一つずつ清算するかのように、几帳面に一つひとつ巡っていく。",
+    "romaji": "Marude shakkin o hitotsu zutsu seisan suru ka no yō ni, kichōmen ni hitotsu hitotsu megutte iku."
+  },
+  "s7.l099": {
+    "en": "The café in Harajuku where you studied for finals. STILL THERE.",
+    "ru": "Кафе в Харадзюку, где вы готовились к экзаменам. ВСЕ ЕЩЕ ТАМ.",
+    "zh": "原宿的那家曾让你埋头苦读期末考的咖啡馆。还在那儿。",
+    "ko": "기말고사를 공부하던 하라주쿠의 그 카페. 여전히 그 자리에 있네요.",
+    "ja": "原宿のカフェ。期末試験の勉強をした場所。まだある。",
+    "romaji": "Harajuku no kafe. Kimatsu shiken no benkyō o shita basho. Mada aru."
+  },
+  "s7.l100": {
+    "en": "Same wooden tables. Different menu. The owner, an older woman with white hair, is still behind the counter.",
+    "ru": "Те же деревянные столы. Другое меню. Хозяйка, пожилая женщина с седыми волосами, по-прежнему за стойкой.",
+    "zh": "同样的原木桌。不一样的菜单。店主还是那位白发苍苍的老妇人，依然守在柜台后。",
+    "ko": "똑같은 나무 테이블. 메뉴는 바뀌었지만, 백발의 여주인장은 여전히 카운터를 지키고 계십니다.",
+    "ja": "木製のテーブルは同じ。メニューは変わっている。白髪の年配の女性店主は、今もカウンターの奥に立っていた。",
+    "romaji": "Mokusei no tēburu wa onaji. Menyū wa kawatte iru. Shiraga no nempai no josei tenshu wa, ima mo kauntā no oku ni tatte ita."
+  },
+  "s7.l101": {
+    "en": "She does not remember you, of course.",
+    "ru": "Разумеется, она вас не помнит.",
+    "zh": "当然，她已经不记得你了。",
+    "ko": "물론, 그녀는 당신을 기억하지 못하죠.",
+    "ja": "もちろん、彼女が僕を覚えているはずもない。",
+    "romaji": "Mochiron, kanojo ga boku o oboete iru hazu mo nai."
+  },
+  "s7.l102": {
+    "en": "You order the same coffee you always ordered. It tastes the same.",
+    "ru": "Вы заказываете тот же кофе, что и всегда. Вкус остался прежним.",
+    "zh": "你点了份和以前一模一样的咖啡。味道也还是一样。",
+    "ko": "늘 마시던 것과 같은 커피를 주문합니다. 맛도 그대로네요.",
+    "ja": "昔いつも頼んでいたのと同じコーヒーを注文する。味は変わらない。",
+    "romaji": "Mukashi itsumo tanonde ita no to onaji kōhī o chūmon suru. Aji wa kawaranai."
+  },
+  "s7.l103": {
+    "en": "That helps, a little.",
+    "ru": "Это немного помогает.",
+    "zh": "这让你多少感到了一丝慰藉。",
+    "ko": "그게 조금은 위안이 됩니다.",
+    "ja": "少しだけ心が落ち着いた。",
+    "romaji": "Sukoshi dake kokoro ga ochitsuita."
+  },
+  "s7.l104": {
+    "en": "Long time no see?",
+    "ru": "Давно не виделись?",
+    "zh": "好久不见？",
+    "ko": "오랜만이네요?",
+    "ja": "「お久しぶりですか？」",
+    "romaji": "\"Ohisashiburi desu ka?\""
+  },
+  "s7.l105": {
+    "en": "It's been five years. I used to come here often.",
+    "ru": "Прошло пять лет. Раньше я часто сюда заходил.",
+    "zh": "已经五年了。我以前经常来这里。",
+    "ko": "5년 만이에요. 예전에 자주 오곤 했거든요.",
+    "ja": "「五年ぶりです。昔、よく通っていたんです」",
+    "romaji": "\"Go-nen-buri desu. Mukashi, yoku kayotte ita n desu\""
+  },
+  "s7.l106": {
+    "en": "I see. Thank you very much.",
+    "ru": "Понимаю. Большое спасибо.",
+    "zh": "这样啊。非常感谢。",
+    "ko": "그렇군요. 정말 감사합니다.",
+    "ja": "「そうですか。ありがとうございます」",
+    "romaji": "\"Sō desu ka. Arigatō gozaimasu\""
+  },
+  "s7.l107": {
+    "en": "Please come again anytime.",
+    "ru": "Пожалуйста, заходите еще в любое время.",
+    "zh": "欢迎随时再来。",
+    "ko": "언제든 또 들러주세요.",
+    "ja": "「またいつでもいらしてくださいね」",
+    "romaji": "\"Mata itsudemo irashite kudasai ne\""
+  },
+  "s7.l108": {
+    "en": "(She said 'please come again anytime.')",
+    "ru": "(Она сказала «заходите еще в любое время».)",
+    "zh": "（她说：“欢迎随时再来。”）",
+    "ko": "(그녀는 '언제든 또 들러주세요'라고 말했습니다.)",
+    "ja": "（彼女は「またいつでもいらしてくださいね」と言った。）",
+    "romaji": "(Kanojo wa \"mata itsudemo irashite kudasai ne\" to itta.)"
+  },
+  "s7.l109": {
+    "en": "(Not: I remember you. Or: you've grown. Just: come back anytime.)",
+    "ru": "(Не «я тебя помню» или «как ты вырос». Просто «заходи еще».)",
+    "zh": "（不是“我记得你”或者“你长大了”。仅仅是“欢迎随时再来”。）",
+    "ko": "('기억하고 있어요'라거나 '많이 컸네요'가 아니라, 그저 '또 오세요'라니.)",
+    "ja": "（「覚えていますよ」でも、「大人になったわね」でもない。ただ「またいつでも」。）",
+    "romaji": "(\"Oboete imasu yo\" demo, \"otona ni natta wa ne\" demo nai. Tada \"mata itsudemo\".)"
+  },
+  "s7.l110": {
+    "en": "(That is its own kind of kindness.)",
+    "ru": "(В этом есть своя особая доброта.)",
+    "zh": "（这本身就是一种独特的温柔。）",
+    "ko": "(그것만으로도 충분한 친절함이 느껴집니다.)",
+    "ja": "（それは、それ自体が一つの温かな優しさだった。）",
+    "romaji": "(Sore wa, sore jitai ga hitotsu no atataka na yasashisa datta.)"
+  },
+  "s7.l111": {
+    "en": "Your old university. The Japanese language faculty.",
+    "ru": "Ваш старый университет. Факультет японского языка.",
+    "zh": "你曾经就读的大学。日语系。",
+    "ko": "당신이 다니던 대학. 일본어 학부입니다.",
+    "ja": "かつて通った大学。日本語学科。",
+    "romaji": "Katsute kayotta daigaku. Nihongo-gakka."
+  },
+  "s7.l112": {
+    "en": "Professor Nishimura. She was the reason you came here.",
+    "ru": "Профессор Нисимура. Именно ради нее вы сюда приехали.",
+    "zh": "西村教授。她是当年来到这里的初衷。",
+    "ko": "니시무라 교수님. 그녀는 당신이 이곳에 온 이유이기도 했죠.",
+    "ja": "西村教授。僕がここへ留学してきた一番の理由だった先生だ。",
+    "romaji": "Nishimura-kyōju. Boku ga koko e ryūgaku shite kita ichiban no riyū datta sensei da."
+  },
+  "s7.l113": {
+    "en": "Her paper on code-switching in diaspora communities—you read it at nineteen, in Seattle, and thought: I want to learn from her.",
+    "ru": "Ее статья о переключении кодов в диаспорах — вы прочитали ее в девятнадцать лет в Сиэтле и подумали: «Я хочу у нее учиться».",
+    "zh": "那篇关于海外社群语码转换的论文——你在十九岁时的西雅图读到它，当时便想：我想跟着她学习。",
+    "ko": "디아스포라 공동체의 코드 스위칭에 관한 그녀의 논문. 시애틀에서 열아홉 살 때 그 논문을 읽고, 당신은 그녀에게 배우고 싶다는 결심을 했습니다.",
+    "ja": "ディアスポラ共同体におけるコードスイッチングに関する教授の論文――十九歳の時、シアトルでそれを読んで「この人に学びたい」と思ったのだ。",
+    "romaji": "Diasupora kyōdōtai ni okeru kōdosuitchingu ni kansuru kyōju no rombun -- nijūkyū-sai no toki, Shiatoru de sore o yonde \"kono hito ni manabitai\" to omotta no da."
+  },
+  "s7.l114": {
+    "en": "You emailed ahead. She remembered you. She said come by.",
+    "ru": "Вы написали ей заранее. Она вас вспомнила. Сказала заходить.",
+    "zh": "你提前发了邮件。她还记得你。她说欢迎过来坐坐。",
+    "ko": "미리 이메일을 보냈더니, 교수님은 당신을 기억하고 한번 들르라고 하셨습니다.",
+    "ja": "事前にメールを送っておいた。先生は僕を覚えていて、研究室へおいでと言ってくれた。",
+    "romaji": "Jizen ni mēru o okutte oita. Sensei wa boku o oboete ite, kenkyūshitsu e oide to itte kureta."
+  },
+  "s7.l115": {
+    "en": "She looks exactly like her faculty photo, except her hair is shorter.",
+    "ru": "Она выглядит в точности как на фотографии факультета, только волосы стали короче.",
+    "zh": "她看起来和教职员照片上一模一样，只是头发短了些。",
+    "ko": "학부 사진 속 모습과 똑같지만, 머리 스타일은 짧아지셨네요.",
+    "ja": "髪が少し短くなった以外は、教員紹介の写真と寸分違わぬ姿だった。",
+    "romaji": "Kami ga sukoshi mijikaku natta igai wa, kyōin shōkai no shashin to sumbun chigawanu sugata datta."
+  },
+  "s7.l116": {
+    "en": "Park Jamie-san. Wow, you've really become an adult.",
+    "ru": "Пак Джеми-сан. Ух ты, вы совсем взрослым стали.",
+    "zh": "杰米·帕克。哇，你真的成长为一个大人了呢。",
+    "ko": "박제이미 씨. 와, 정말 어른이 다 되셨네요.",
+    "ja": "「パク・ジェイミーさん。まあ、すっかり大人になって」",
+    "romaji": "\"Paku Jēmī-san. Maa, sukkari otona ni natte\""
+  },
+  "s7.l117": {
+    "en": "You haven't changed much either, Sensei.",
+    "ru": "Вы тоже не особо изменились, сэнсэй.",
+    "zh": "老师，您也几乎没变呢。",
+    "ko": "선생님도 별로 변하지 않으셨어요.",
+    "ja": "「先生もあまりお変わりありませんね」",
+    "romaji": "\"Sensei mo amari okawari arimasen ne\""
+  },
+  "s7.l118": {
+    "en": "You're too flattering.",
+    "ru": "Вы мне льстите.",
+    "zh": "你太会说话了。",
+    "ko": "빈말이라도 고맙네요.",
+    "ja": "「お上手ですね」",
+    "romaji": "\"O-jōzu desu ne\""
+  },
+  "s7.l119": {
+    "en": "Sit down. How is Tokyo for you?",
+    "ru": "Присаживайтесь. Как вам Токио?",
+    "zh": "坐吧。你觉得东京怎么样？",
+    "ko": "앉으세요. 도쿄는 좀 어때요?",
+    "ja": "「お掛けになって。東京はどうですか？」",
+    "romaji": "\"O-kake ni natte. Tōkyō wa dō desu ka?\""
+  },
+  "s7.l120": {
+    "en": "It has changed. But there are parts that haven't changed too.",
+    "ru": "Он изменился. Но есть и то, что осталось прежним.",
+    "zh": "变了不少呢。不过也有一些地方没怎么变。",
+    "ko": "많이 변했더라고요. 하지만 그대로인 부분도 있고요.",
+    "ja": "「変わりました。でも、変わっていないところもあります」",
+    "romaji": "\"Kawarimashita. Demo, kawatte inai tokoro mo arimasu\""
+  },
+  "s7.l121": {
+    "en": "Which do you feel is greater?",
+    "ru": "Чего, по-вашему, больше?",
+    "zh": "你觉得哪部分的感觉更强烈？",
+    "ko": "어느 쪽이 더 큰 것 같아요?",
+    "ja": "「どちらの方を強く感じますか？」",
+    "romaji": "\"Dochira no hō o tsuyoku kanjimasu ka?\""
+  },
+  "s7.l122": {
+    "en": "(Which is more. Changed or unchanged.)",
+    "ru": "(Чего больше. Перемен или постоянства.)",
+    "zh": "（哪部分更多一些。是改变了的，还是没变的。）",
+    "ko": "(어느 게 더 많을까. 변한 것과 변하지 않은 것.)",
+    "ja": "（どちらが大きいか。変わったことか、変わらないことか。）",
+    "romaji": "(Dochira ga ookii ka. Kawatta koto ka, kawaranai koto ka.)"
+  },
+  "s7.l123": {
+    "en": "I think more has changed. But I don't know whether that's the problem, or if I'm the problem—",
+    "ru": "Думаю, перемен больше. Но я не знаю, в этом ли проблема, или проблема во мне —",
+    "zh": "我觉得改变的地方更多。但我不知道这是环境的问题，还是我自己的问题——",
+    "ko": "변한 게 더 많은 것 같아요. 하지만 그게 문제인 건지, 아니면 제가 문제인 건지—",
+    "ja": "「変わったことの方が多い気がします。でも、それが問題なのか、僕自身が問題なのか――」",
+    "romaji": "\"Kawatta koto no hō ga ooi ki ga shimasu. Demo, sore ga mondai na no ka, boku jishin ga mondai na no ka--\""
+  },
+  "s7.l124": {
+    "en": "I really don't know.",
+    "ru": "Я правда не знаю.",
+    "zh": "我真的不知道。",
+    "ko": "잘 모르겠어요.",
+    "ja": "「本当によくわからないんです」",
+    "romaji": "\"Hontō ni yoku wakaranai n desu\""
+  },
+  "s7.l125": {
+    "en": "That's an honest answer.",
+    "ru": "Это честный ответ.",
+    "zh": "这是个诚实的回答。",
+    "ko": "솔직한 대답이네요.",
+    "ja": "「正直な答えですね」",
+    "romaji": "\"Shōjiki na kotae desu ne\""
+  },
+  "s7.l126": {
+    "en": "Actually, I often ask former exchange students what it felt like when they came back.",
+    "ru": "На самом деле, я часто спрашиваю бывших студентов по обмену об их чувствах по возвращении.",
+    "zh": "事实上，我经常问以前的交换生，当他们回来时会有什么感觉。",
+    "ko": "사실, 예전 유학생 친구들이 다시 돌아왔을 때 어떤 기분이었는지 종종 묻곤 해요.",
+    "ja": "「実はね、かつての留学生たちが戻ってきたとき、どんな気持ちだったかよく聞くんです」",
+    "romaji": "\"Jitsu wa ne, katsute no ryūgakusei-tachi ga modotte kita toki, donna kimochi datta ka yoku kiku n desu\""
+  },
+  "s7.l127": {
+    "en": "They all say the same thing.",
+    "ru": "Они все говорят одно и то же.",
+    "zh": "他们说的都一样。",
+    "ko": "다들 똑같이 말하더라고요.",
+    "ja": "「みんな同じことを言いますよ」",
+    "romaji": "\"Minna onaji koto o iimasu yo\""
+  },
+  "s7.l128": {
+    "en": "What do they say?",
+    "ru": "Что именно они говорят?",
+    "zh": "他们说了什么？",
+    "ko": "뭐라고 하던가요?",
+    "ja": "「何て言うんですか？」",
+    "romaji": "\"Nante iu n desu ka?\""
+  },
+  "s7.l129": {
+    "en": "\"It was sadder than I expected.\"",
+    "ru": "«Это было грустнее, чем я ожидал».",
+    "zh": "“这比我预想中的还要令人难过。”",
+    "ko": "\"생각보다 더 슬펐어요.\"",
+    "ja": "「『思っていたよりも寂しかったです』と」",
+    "romaji": "\"\"Omotte ita yori mo sabishikatta desu\" to\""
+  },
+  "s7.l130": {
+    "en": "Sadder than I expected.",
+    "ru": "Грустнее, чем я ожидал.",
+    "zh": "比我预想中的还要令人难过。",
+    "ko": "생각보다 더 슬펐어요.",
+    "ja": "思っていたよりも寂しかった。",
+    "romaji": "Omotte ita yori mo sabishikatta."
+  },
+  "s7.l131": {
+    "en": "Are they mourning the change itself, or mourning that they themselves changed—",
+    "ru": "Оплакивают ли они сами перемены или то, что изменились они сами —",
+    "zh": "他们是在感叹变迁本身，还是在感叹自己已经变了模样——",
+    "ko": "변화 그 자체를 슬퍼하는 건지, 아니면 자신이 변해버린 걸 슬퍼하는 건지—",
+    "ja": "「街の変化を惜しんでいるのか、それとも自分自身が変わってしまったことを惜しんでいるのか――」",
+    "romaji": "\"Machi no henka o oshinde iru no ka, soretomo jibun jishin ga kawatte shimatta koto o oshinde iru no ka--\""
+  },
+  "s7.l132": {
+    "en": "At first, it's hard to tell.",
+    "ru": "Поначалу трудно сказать.",
+    "zh": "起初，这很难说清楚。",
+    "ko": "처음에는 알기 어렵죠.",
+    "ja": "「最初は区別がつかないものなんです」",
+    "romaji": "\"Saisho wa kubetsu ga tsukanai mono nan desu\""
+  },
+  "s7.l133": {
+    "en": "(Mourning the change in the city. Or mourning the change in myself.)",
+    "ru": "(Оплакивать перемены в городе. Или оплакивать перемены во мне.)",
+    "zh": "（是在感伤城市的变迁，还是在感伤我自己的改变。）",
+    "ko": "(도시의 변화를 슬퍼하는 걸까. 아니면 나의 변화를 슬퍼하는 걸까.)",
+    "ja": "（街の変化を惜しんでいるのか。それとも自分自身の変化を惜しんでいるのか。）",
+    "romaji": "(Machi no henka o oshinde iru no ka. Soretomo jibun jishin no henka o oshinde iru no ka.)"
+  },
+  "s7.l134": {
+    "en": "(I've been assuming it's the city.)",
+    "ru": "(Я предполагал, что дело в городе.)",
+    "zh": "（我一直以为是城市变了。）",
+    "ko": "(지금까지는 도시가 변한 거라고만 생각했어.)",
+    "ja": "（ずっと、街のせいだと思い込んできた。）",
+    "romaji": "(Zutto, machi no sei da to omoikonde kita.)"
+  },
+  "s7.l135": {
+    "en": "But in most cases—",
+    "ru": "Но в большинстве случаев —",
+    "zh": "但在大多数情况下——",
+    "ko": "하지만 대부분의 경우—",
+    "ja": "「けれど大抵の場合――」",
+    "romaji": "\"Keredo taitei no baai--\""
+  },
+  "s7.l136": {
+    "en": "the sadness is not because this place changed—",
+    "ru": "грустно не потому, что это место изменилось —",
+    "zh": "难过并不是因为这个地方变了——",
+    "ko": "슬픈 건 이곳이 변했기 때문이 아니에요—",
+    "ja": "「寂しいのは、この場所が変わってしまったからではなく――」",
+    "romaji": "\"Sabishii no wa, kono basho ga kawatte shimatta kara dewa naku--\""
+  },
+  "s7.l137": {
+    "en": "it's just that you've changed, so it no longer looks the same.",
+    "ru": "просто вы изменились, поэтому оно больше не выглядит прежним.",
+    "zh": "只是因为你也变了，所以它看起来不再像从前那样了。",
+    "ko": "그저 당신이 변했기에, 예전과 똑같이 보이지 않을 뿐이죠.",
+    "ja": "「あなたが変わり、かつてと同じようには見えなくなってしまったからなんです」",
+    "romaji": "\"Anata ga kawari, katsute to onaji yō ni wa mienaku natte shimatta kara nan desu\""
+  },
+  "s7.l138": {
+    "en": "You changed. So you can no longer see it the same way.",
+    "ru": "Вы изменились. Поэтому больше не можете смотреть на него так же.",
+    "zh": "你变了。所以你再也无法以同样的方式看待它了。",
+    "ko": "당신이 변했기 때문에, 더 이상 같은 방식으로 바라볼 수 없는 거예요.",
+    "ja": "自分が変わった。だからもう、同じようには見えないのだ。",
+    "romaji": "Jibun ga kawatta. Dakara mō, onaji yō ni wa mienai no da."
+  },
+  "s7.l139": {
+    "en": "(That's different from being disappointed.)",
+    "ru": "(Это не то же самое, что разочарование.)",
+    "zh": "（这与失望不同。）",
+    "ko": "(실망한 것과는 결이 달라.)",
+    "ja": "（それは、期待外れということとは違う。）",
+    "romaji": "(Sore wa, kitaihazure to iu koto to wa chigau.)"
+  },
+  "s7.l140": {
+    "en": "(That's just being five years older.)",
+    "ru": "(Это просто результат того, что я стал на пять лет старше.)",
+    "zh": "（这仅仅是因为我老了五岁。）",
+    "ko": "(단순히 5년의 세월이 흐른 것뿐이야.)",
+    "ja": "（ただ単に、自分が五歳年をとったということだ。）",
+    "romaji": "(Tada tanni, jibun ga go-sai toshi o totta to iu koto da.)"
+  },
+  "s7.l141": {
+    "en": "That's not a bad thing. It's growth.",
+    "ru": "В этом нет ничего плохого. Это рост.",
+    "zh": "这并不是什么坏事。这是成长。",
+    "ko": "나쁜 일이 아니에요. 성장이니까요.",
+    "ja": "「それは悪いことではありませんよ。成長ですから」",
+    "romaji": "\"Sore wa warui koto dewa arimasen yo. Seichō desu kara\""
+  },
+  "s7.l142": {
+    "en": "Growth can feel a little lonely sometimes, right?",
+    "ru": "Рост иногда может казаться немного одиноким, верно?",
+    "zh": "成长有时会让人感到有些寂寞，不是吗？",
+    "ko": "성장은 가끔 외로움을 동반하곤 하죠, 그렇죠?",
+    "ja": "「成長というのは、時に少し切ないものでしょう？」",
+    "romaji": "\"Seichō to iu no wa, toki ni sukoshi setsunai mono deshō?\""
+  },
+  "s7.l143": {
+    "en": "Yes.",
+    "ru": "Да.",
+    "zh": "是的。",
+    "ko": "네.",
+    "ja": "「はい」",
+    "romaji": "\"Hai\""
+  },
+  "s7.l144": {
+    "en": "But being able to feel that loneliness is proof you treasured something.",
+    "ru": "Но способность чувствовать это одиночество — доказательство того, что вы чем-то дорожили.",
+    "zh": "但能感受到那种寂寞，正说明你曾珍视过某些东西。",
+    "ko": "하지만 그 외로움을 느낄 수 있다는 건, 무언가를 소중히 여겼다는 증거랍니다.",
+    "ja": "「けれど、その寂しさを感じられることこそ、何かを大切にしていた証拠です」",
+    "romaji": "\"Keredo, sono sabishisa o kanjirareru koto koso, nanika o taisetsu ni shite ita shōko desu\""
+  },
+  "s7.l145": {
+    "en": "Loneliness is proof you valued something.",
+    "ru": "Одиночество — это доказательство того, что вы что-то ценили.",
+    "zh": "寂寞，是你曾重视过某些事物的明证。",
+    "ko": "외로움은 무언가에 가치를 두었다는 증거입니다.",
+    "ja": "寂しさは、大切に思っていた証拠。",
+    "romaji": "Sabishisa wa, taisetsu ni omotte ita shōko."
+  },
+  "s7.l146": {
+    "en": "You write that in the small notebook you've been carrying all trip.",
+    "ru": "Вы записываете это в свой маленький блокнот, который носите с собой всю поездку.",
+    "zh": "你把这句话记在了随身携带的小笔记本上。",
+    "ko": "여행 내내 들고 다니던 작은 수첩에 그 말을 적어 넣습니다.",
+    "ja": "旅のあいだずっと持ち歩いている小さなノートに、その言葉を書き留める。",
+    "romaji": "Tabi no aida zutto mochiaruite iru chiisana nōto ni, sono kotoba o kakitomeru."
+  },
+  "s7.l147": {
+    "en": "Day four.",
+    "ru": "День четвертый.",
+    "zh": "第四天。",
+    "ko": "나흘째.",
+    "ja": "四日目。",
+    "romaji": "Yokkame."
+  },
+  "s7.l148": {
+    "en": "Yoyogi Park.",
+    "ru": "Парк Йойоги.",
+    "zh": "代代木公园。",
+    "ko": "요요기 공원.",
+    "ja": "代々木公園。",
+    "romaji": "Yoyogi kōen."
+  },
+  "s7.l149": {
+    "en": "This one, at least, cannot be torn down or turned into a parking lot.",
+    "ru": "Его-то уж точно нельзя снести или превратить в парковку.",
+    "zh": "至少这里，是不会被拆掉或者变成停车场的。",
+    "ko": "이곳만큼은 적어도 헐리거나 주차장으로 변할 일은 없겠지.",
+    "ja": "ここだけは、取り壊されたり駐車場になったりする心配がない。",
+    "romaji": "Koko dake wa, torikowasaretari chūshajō ni nattari suru shimpai ga nai."
+  },
+  "s7.l150": {
+    "en": "You sit on the grass near the spot where you used to eat lunch.",
+    "ru": "Вы садитесь на траву неподалеку от того места, где раньше обедали.",
+    "zh": "你坐在草地上，就在以前吃午饭的地方附近。",
+    "ko": "예전에 점심을 먹던 곳 근처 잔디밭에 앉습니다.",
+    "ja": "かつてよく昼食を食べていた場所の近くの芝生に腰を下ろす。",
+    "romaji": "Katsute yoku chūshoku o tabete ita basho no chikaku no shibafu ni koshi o orosu."
+  },
+  "s7.l151": {
+    "en": "Under a particular tree—a zelkova, you learned the name—that makes a distinctive shape against the sky.",
+    "ru": "Под тем самым деревом — дзельквой, вы выучили его название, — которое рисует на фоне неба свой особый силуэт.",
+    "zh": "在一棵特殊的树下——那是一棵榉树，你记住了它的名字——它在天空中勾勒出独特的轮廓。",
+    "ko": "어느 나무 아래—그 이름이 느티나무라는 걸 알게 된—하늘을 배경으로 독특한 모양을 그리는 그 나무 아래입니다.",
+    "ja": "あの一本の木の下――空を背景に独特の枝ぶりを描く、ケヤキという名前を覚えた木だ。",
+    "romaji": "Ano ippon no ki no shita -- sora o haikei ni dokutoku no edaburi o egaku, keyaki to iu namae o oboeta ki da."
+  },
+  "s7.l152": {
+    "en": "It's still there. The tree has no idea you left.",
+    "ru": "Оно все еще там. Дерево и не подозревает, что вы уезжали.",
+    "zh": "它依旧在那里。这棵树完全不知道你曾离开过。",
+    "ko": "그대로네요. 나무는 당신이 떠났었다는 사실조차 모를 겁니다.",
+    "ja": "木は今もそこにある。自分がここを去っていたことなど、木は知る由もない。",
+    "romaji": "Ki wa ima mo soko ni aru. Jibun ga koko o satte ita koto nado, ki wa shiru yoshi mo nai."
+  },
+  "s7.l153": {
+    "en": "You sit for a long time.",
+    "ru": "Вы сидите долго.",
+    "zh": "你坐了很久。",
+    "ko": "한참을 그렇게 앉아 있었습니다.",
+    "ja": "長い時間、じっと座っていた。",
+    "romaji": "Nagai jikan, jitto suwatte ita."
+  },
+  "s7.l154": {
+    "en": "Around you: families, students, a man with a boom box playing city pop.",
+    "ru": "Вокруг вас: семьи, студенты, мужчина с бумбоксом, из которого льется сити-поп.",
+    "zh": "在你周围：有家庭，有学生，还有一个带着收音机放着城市流行乐（city pop）的男人。",
+    "ko": "주변에는 가족들, 학생들, 그리고 가슴이 뻥 뚫리는 시티팝을 틀어놓은 남자가 보입니다.",
+    "ja": "周囲には、家族連れ、学生たち、ラジカセでシティポップを流している男の姿。",
+    "romaji": "Shūi ni wa, kazokudzure, gakusei-tachi, rajikase de shitī poppu o nagashite iru otoko no sugata."
+  },
+  "s7.l155": {
+    "en": "The same sounds as five years ago. Different people making them.",
+    "ru": "Те же звуки, что и пять лет назад. Только издают их другие люди.",
+    "zh": "声音和五年前一样。只是发出这些声音的人已经换了。",
+    "ko": "5년 전과 같은 소리들. 하지만 그 소리를 내는 사람들은 달라졌네요.",
+    "ja": "五年前と同じ音。それを奏でている人々だけが違っている。",
+    "romaji": "Go-nen mae to onaji oto. Sore o kanadete iru hitobito dake ga chigatte iru."
+  },
+  "s7.l156": {
+    "en": "(I keep looking for the version of me that lived here.)",
+    "ru": "(Я все еще ищу ту версию себя, которая жила здесь.)",
+    "zh": "（我一直在寻找曾经住在这里的那个我。）",
+    "ko": "(이곳에 살던 그때의 내 모습을 계속 찾게 돼.)",
+    "ja": "（僕は、ここに暮らしていたかつての自分の姿を探し続けている。）",
+    "romaji": "(Boku wa, koko ni kurashite ita katsute no jibun no sugata o sagashitsudzukete iru.)"
+  },
+  "s7.l157": {
+    "en": "(But she doesn't exist anymore either.)",
+    "ru": "(Но ее тоже больше не существует.)",
+    "zh": "（但那个我也已经不在了。）",
+    "ko": "(하지만 그 시절의 나는 이제 존재하지 않아.)",
+    "ja": "（けれど、その姿の自分ももう存在しないのだ。）",
+    "romaji": "(Keredo, sono sugata no jibun mo mō sonzai shinai no da.)"
+  },
+  "s7.l158": {
+    "en": "(She grew up into me.)",
+    "ru": "(Она выросла в меня.)",
+    "zh": "（那个小女孩，已经成长为了现在的我。）",
+    "ko": "(그 아이가 자라서 지금의 내가 된 거니까.)",
+    "ja": "（彼女は成長して、今の僕になった。）",
+    "romaji": "(Kanojo wa seichō shite, ima no boku ni natta.)"
+  },
+  "s7.l159": {
+    "en": "Your phone buzzes. Your mom, Seattle.",
+    "ru": "Ваш телефон вибрирует. Это мама из Сиэтла.",
+    "zh": "你的手机响了。是西雅图的妈妈发来的。",
+    "ko": "휴대폰이 울립니다. 시애틀에 계신 어머니네요.",
+    "ja": "スマートフォンが震える。シアトルの母からだ。",
+    "romaji": "Sumātofon ga furueru. Shiatoru no haha kara da."
+  },
+  "s7.l160": {
+    "en": "「どうよ？楽しんでる？」(Dou yo? Tanoshinderu?)",
+    "ru": "«Ну как ты? Развлекаешься?»",
+    "zh": "「怎么样？玩得开心吗？」",
+    "ko": "「어떠니? 잘 지내고 있어?」",
+    "ja": "「どうよ？楽しんでる？」",
+    "romaji": "\"Dō yo? Tanoshinderu?\""
+  },
+  "s7.l161": {
+    "en": "(In Korean: \"How is it? Are you having fun?\")",
+    "ru": "(На корейском: «Как дела? Тебе весело?»)",
+    "zh": "（韩语： “怎么样？玩得开心吗？”）",
+    "ko": "(한국어로: \"어때요? 재미있게 놀고 있어요?\")",
+    "ja": "（韓国語で『どう？ 楽しんでる？』とある。）",
+    "romaji": "(Kankokugo de 'Dō? Tanoshinderu?' to aru.)"
+  },
+  "s7.l162": {
+    "en": "You stare at the message for a while.",
+    "ru": "Вы какое-то время смотрите на сообщение.",
+    "zh": "你盯着那个消息看了好一会儿。",
+    "ko": "한참 동안 그 메시지를 바라봅니다.",
+    "ja": "しばらくメッセージを見つめる。",
+    "romaji": "Shibaraku messēji o mitsumeru."
+  },
+  "s7.l163": {
+    "en": "Are you having fun?",
+    "ru": "Тебе весело?",
+    "zh": "开心吗？",
+    "ko": "재미있냐고요?",
+    "ja": "楽しんでいるだろうか？",
+    "romaji": "Tanoshinde iru darō ka?"
+  },
+  "s7.l164": {
+    "en": "(I don't know if 'fun' is the right word.)",
+    "ru": "(Я не знаю, подходит ли здесь слово «весело».)",
+    "zh": "（我不知道“开心”这个词是不是最贴切。）",
+    "ko": "('재미있다'는 말이 맞는 건진 모르겠어.)",
+    "ja": "（「楽しい」という言葉がぴったりくるのか、よくわからない。）",
+    "romaji": "(\"Tanoshii\" to iu kotoba ga pittari kuru no ka, yoku wakaranai.)"
+  },
+  "s7.l165": {
+    "en": "(Something more complicated than fun.)",
+    "ru": "(Что-то посложнее, чем просто веселье.)",
+    "zh": "（那是比“开心”更复杂的一种情绪。）",
+    "ko": "(재미있다는 말보다 더 복잡한 감정이야.)",
+    "ja": "（楽しさよりも、もっと複雑な何かだ。）",
+    "romaji": "(Tanoshisa yori mo, motto fukuzatsu na nanika da.)"
+  },
+  "s7.l166": {
+    "en": "You type back: 「楽しいよ。でも、思ってたのと少し違う。」(Tanoshii yo. Demo, omotteta no to sukoshi chigau.)",
+    "ru": "Вы отвечаете: «Мне нравится. Но это немного не то, чего я ожидал».",
+    "zh": "你回复道： 「挺开心的。但和我预想的有点不一样。」",
+    "ko": "답장을 보냅니다. 「좋아. 하지만 생각했던 거랑은 조금 다르네.」",
+    "ja": "「楽しいよ。でも、思ってたのと少し違う」と返信する。",
+    "romaji": "\"Tanoshii yo. Demo, omotteta no to sukoshi chigau\" to henshin suru."
+  },
+  "s7.l167": {
+    "en": "It's good. But a little different from what I expected.",
+    "ru": "Все хорошо. Но немного отличается от того, что я ожидал.",
+    "zh": "挺好的。但和我预想的确实有点不一样。",
+    "ko": "좋아요. 하지만 기대했던 것과는 조금 다르네요.",
+    "ja": "楽しいよ。でも、思っていたのとは少し違うんだ。",
+    "romaji": "Tanoshii yo. Demo, omotte ita no to wa sukoshi chigau n da."
+  },
+  "s7.l168": {
+    "en": "Your mom sends back a single emoji: a small heart.",
+    "ru": "Мама присылает один-единственный эмодзи: маленькое сердечко.",
+    "zh": "妈妈回了一个表情：一颗小红心。",
+    "ko": "어머니는 하트 이모티콘 하나를 보내주셨습니다.",
+    "ja": "母は小さなハートのエモジを一つだけ送り返してきた。",
+    "romaji": "Haha wa chiisana hāto no emoji o hitotsu dake okurikaeshite kita."
+  },
+  "s7.l169": {
+    "en": "That's enough.",
+    "ru": "Этого достаточно.",
+    "zh": "这就足够了。",
+    "ko": "그것으로 충분합니다.",
+    "ja": "それで十分だった。",
+    "romaji": "Sore de jūbun datta."
+  },
+  "s7.l170": {
+    "en": "The word 期待外れ (kitai hazure) surfaces in your mind.",
+    "ru": "В голове всплывает слово 期待外れ (китай-хадзурэ — разочарование).",
+    "zh": "“期待落空（kitai hazure）”这个词浮现在你的脑海中。",
+    "ko": "'기대에 어긋남(期待外れ)'이라는 단어가 머릿속을 스칩니다.",
+    "ja": "「期待外れ」という言葉が頭に浮かぶ。",
+    "romaji": "\"Kitaihazure\" to iu kotoba ga atama ni ukabu."
+  },
+  "s7.l171": {
+    "en": "You turn it over.",
+    "ru": "Вы обдумываете его.",
+    "zh": "你反复思索着这个词。",
+    "ko": "그 말을 곱씹어 봅니다.",
+    "ja": "その言葉をじっくりと見つめ直してみる。",
+    "romaji": "Sono kotoba o jikkuri to mitsumenaoshite miru."
+  },
+  "s7.l172": {
+    "en": "Is this that? Disappointment?",
+    "ru": "Это оно? Разочарование?",
+    "zh": "是这样吗？这就是失望？",
+    "ko": "이게 그런 걸까? 실망감?",
+    "ja": "これは期待外れなのだろうか？ 単なる失望なのだろうか？",
+    "romaji": "Kore wa kitaihazure na no darō ka? Tannaru shitsubō na no darō ka?"
+  },
+  "s7.l173": {
+    "en": "Or is it something else—the feeling of finding out a memory was not quite true?",
+    "ru": "Или это что-то другое — чувство от осознания того, что воспоминание было не совсем верным?",
+    "zh": "还是别的什么——比如发现一段回忆并非全然真实的某种感觉？",
+    "ko": "아니면 다른 무언가일까—기억이 사실과 완벽히 일치하지 않는다는 걸 깨달았을 때의 기분?",
+    "ja": "それとも別の何か――自分の記憶が必ずしも真実ではなかったと気づいたときの感覚なのだろうか？",
+    "romaji": "Soretomo betsu no nanika -- jibun no kioku ga kanarazushimo shinjitsu dewa nakatta to kidzuita toki no kankaku na no darō ka?"
+  },
+  "s7.l174": {
+    "en": "(My memory of Tokyo was a story I told myself.)",
+    "ru": "(Мое воспоминание о Токио было историей, которую я сам себе рассказывал.)",
+    "zh": "（我对东京的记忆，不过是自编自导的一段故事。）",
+    "ko": "(나의 도쿄에 대한 기억은 스스로에게 들려준 이야기였을 뿐이야.)",
+    "ja": "（僕の東京の記憶は、自分自身に語り聞かせていた物語だったのだ。）",
+    "romaji": "(Boku no Tōkyō no kioku wa, jibun jishin ni katarikikasete ita monogatari datta no da.)"
+  },
+  "s7.l175": {
+    "en": "(With the best parts highlighted and the bad mornings edited out.)",
+    "ru": "(В которой лучшие моменты были подчеркнуты, а плохие утра вырезаны.)",
+    "zh": "（那段故事里，最好的时刻被高光放大，而糟糕的清晨则被隐匿删减。）",
+    "ko": "(가장 좋았던 순간들만 남겨두고, 힘들었던 기억들은 다 지워버린 채로.)",
+    "ja": "（一番輝いていた部分だけを強調し、憂鬱だった朝を切り落とした物語。）",
+    "romaji": "(Ichiban kagayaite ita bubun dake o kyōchō shi, yūutsu datta asa o kiriotoshita monogatari.)"
+  },
+  "s7.l176": {
+    "en": "(The real city is more complicated and more ordinary and somehow—)",
+    "ru": "(Настоящий город сложнее, будничнее и как-то...)",
+    "zh": "（真实的城市更加复杂，平淡日常，而且不知为何——）",
+    "ko": "(진짜 도쿄는 훨씬 복잡하고 평범하지만, 어쩐지—)",
+    "ja": "（本物の街はもっと複雑で、もっと平凡で、そしてどういうわけか――）",
+    "romaji": "(Hommono no machi wa motto fukuzatsu de, motto heibon de, soshite dō iu wake ka--)"
+  },
+  "s7.l177": {
+    "en": "(More loveable?)",
+    "ru": "(Более достойный любви?)",
+    "zh": "（也更加可爱？）",
+    "ko": "(더 사랑스러워?)",
+    "ja": "（もっと愛おしいのではないだろうか？）",
+    "romaji": "(Motto itooshii no dewa nai darō ka?)"
+  },
+  "s7.l178": {
+    "en": "You're wandering without destination—which, actually, is how you spent most of your exchange year too.",
+    "ru": "Вы бродите без цели — собственно, так же вы проводили большую часть своего года по обмену.",
+    "zh": "你漫无目的地闲逛着——其实，交换生那年的大部分时光，你也是这样度过的。",
+    "ko": "목적지 없이 떠돌아다닙니다—사실 교환학생 시절에도 대부분은 이렇게 보냈었죠.",
+    "ja": "あてもなく街を彷徨う――実はそれこそが、留学時代の大半を過ごしたやり方でもあった。",
+    "romaji": "Ate mo naku machi o samayou -- jitsu wa sore koso ga, ryūgaku jidai no taihan o sugoshita yarikata de mo atta."
+  },
+  "s7.l179": {
+    "en": "You find a small live music bar you don't remember.",
+    "ru": "Вы находите маленький музыкальный бар, которого не помните.",
+    "zh": "你发现了一家没什么印象的小型音乐酒吧。",
+    "ko": "기억에 없는 작은 라이브 바를 발견합니다.",
+    "ja": "記憶にない小さなライブバーを見つける。",
+    "romaji": "Kioku ni nai chiisana raibu bā o mitsukeru."
+  },
+  "s7.l180": {
+    "en": "New place. Or maybe it was always there and you never found it.",
+    "ru": "Новое место. Или, может быть, оно было здесь всегда, просто вы его не замечали.",
+    "zh": "以前没来过。或许它一直都在，只是你从未发现。",
+    "ko": "새로 생긴 곳일까요. 아니면 늘 거기 있었는데 발견하지 못했던 걸까요.",
+    "ja": "新しい店だろうか。それとも昔からそこにあって、僕が見落としていただけだろうか。",
+    "romaji": "Atarashii mise darō ka. Soretomo mukashi kara soko ni atte, boku ga miotoshite ita dake darō ka."
+  },
+  "s7.l181": {
+    "en": "The bartender is around your age, with the easy confidence of someone who built something and likes it.",
+    "ru": "Бармен примерно вашего возраста, с непринужденной уверенностью человека, который создал что-то свое и доволен этим.",
+    "zh": "酒保和你年龄相仿，浑身散发着一种成功创业者的自信和愉悦。",
+    "ko": "바텐더는 당신과 비슷한 또래로 보입니다. 자신이 일군 공간을 사랑하는 사람 특유의 여유로운 자신감이 느껴지네요.",
+    "ja": "バーテンダーは自分と同じ年頃で、自分で店を立ち上げてそれを気に入っている人特有の、落ち着いた自信に満ちていた。",
+    "romaji": "Bātendā wa jibun to onaji toshigoro de, jibun de mise o tachiagete sore o kiniitte iru hito tokuyū no, ochitsuita jishin ni michite ita."
+  },
+  "s7.l182": {
+    "en": "Welcome. Just one?",
+    "ru": "Добро пожаловать. Вы один?",
+    "zh": "欢迎。一个人吗？",
+    "ko": "어서 오세요. 한 분이신가요?",
+    "ja": "「いらっしゃい。お一人ですか？」",
+    "romaji": "\"Irasshai. O-hitori desu ka?\""
+  },
+  "s7.l183": {
+    "en": "Yes. Just me.",
+    "ru": "Да. Только я.",
+    "zh": "是的。就我一个。",
+    "ko": "네. 혼자예요.",
+    "ja": "「はい。一人です」",
+    "romaji": "\"Hai. Hitori desu\""
+  },
+  "s7.l184": {
+    "en": "Counter seat is fine. We have live music tonight, though it's a small one.",
+    "ru": "За стойкой свободно. Сегодня у нас живая музыка, хоть концерт и небольшой.",
+    "zh": "柜台可以坐。今晚有现场音乐，虽然规模不大。",
+    "ko": "카운터석으로 안내해 드릴게요. 오늘 저녁엔 작은 라이브 공연이 있습니다.",
+    "ja": "「カウンターへどうぞ。今夜は小さなライブがありますよ」",
+    "romaji": "\"Kauntā e dōzo. Konya wa chiisana raibu ga arimasu yo\""
+  },
+  "s7.l185": {
+    "en": "You sit at the counter. You order a whisky highball.",
+    "ru": "Вы садитесь за стойку. Заказываете виски-хайбол.",
+    "zh": "你坐在柜台前。点了一杯威士忌苏打（highball）。",
+    "ko": "카운터에 앉아 위스키 하이볼을 주문합니다.",
+    "ja": "カウンター席に座り、ウイスキーのハイボールを頼む。",
+    "romaji": "Kauntā-seki ni suwari, uisukī no haibōru o tanomu."
+  },
+  "s7.l186": {
+    "en": "The band sets up—a quartet, late twenties, wearing the relaxed clothes of people who do this for love not money.",
+    "ru": "Группа готовится к выступлению — квартет, ребятам под тридцать, одеты в непринужденную одежду людей, играющих ради любви к искусству, а не ради денег.",
+    "zh": "乐队正在调试设备——一个由二十多岁的年轻人组成的四重奏，穿着随性，看起来是那种为了热爱而非金钱而演奏的人。",
+    "ko": "밴드가 무대를 준비합니다—20대 후반의 4인조 밴드네요. 돈보다는 음악을 사랑해서 연주하는 듯한 편안한 옷차림입니다.",
+    "ja": "バンドが準備を始める――二十代後半のカルテットで、金のためではなく好きでやっている人たちのリラックスした装いをしている。",
+    "romaji": "Bando ga jumbi o hajimeru -- nijūdai kōhan no karutetto de, kane no tame dewa naku suki de yatte iru hito-tachi no rirakkusu shita yosooi o shite iru."
+  },
+  "s7.l187": {
+    "en": "They play. It's good. Not famous. Just good.",
+    "ru": "Они начинают играть. Хорошо. Не звездный уровень, просто душевно.",
+    "zh": "他们开始了演奏。挺棒的。并不出名。但很动听。",
+    "ko": "연주가 시작됩니다. 꽤 괜찮네요. 유명하진 않아도, 충분히요.",
+    "ja": "演奏が始まる。いい演奏だ。有名ではないけれど、ただただ心地いい。",
+    "romaji": "Ensō ga hajimaru. Ii ensō da. Yūmei dewa nai keredo, tada tada kokochiii."
+  },
+  "s7.l188": {
+    "en": "The bar fills slowly with regulars who all seem to know each other but make space easily.",
+    "ru": "Бар медленно заполняется завсегдатаями; кажется, все они знают друг друга, но легко принимают новичков.",
+    "zh": "酒吧里慢慢坐满了熟客，大家看上去都彼此相识，却也能很自然地为新客人腾出空间。",
+    "ko": "바 안은 단골들로 서서히 채워집니다. 서로 잘 아는 사이인 것 같지만, 낯선 이에게도 기꺼이 자리를 내어주는 분위기예요.",
+    "ja": "互いを知り尽くしていながらも新参者をすんなり受け入れてくれる常連客たちで、バーは次第に満たされていく。",
+    "romaji": "Tagai o shiritsukushite inagara mo shinsanmono o sunnari ukeirete kureru jōrenkyaku-tachi de, bā wa shidai ni mitasarete iku."
+  },
+  "s7.l189": {
+    "en": "A woman next to you—forty-ish, reading a paperback—looks up when the music starts.",
+    "ru": "Женщина лет сорока, сидевшая рядом и читавшая книгу, поднимает глаза, когда начинается музыка.",
+    "zh": "坐在你身边的一位女士——约莫四十岁，正读着一本平装书——在音乐响起时抬起了头。",
+    "ko": "옆자리에 앉아 문고판 책을 읽던 40대 즈음의 여성이 음악이 시작되자 고개를 듭니다.",
+    "ja": "隣に座っていた四十歳くらいの文庫本を読んでいた女性が、音楽が始まったところで顔を上げた。",
+    "romaji": "Tonari ni suwatte ita yonjū-sai kurai no bunkobon o yonde ita josei ga, ongaku ga hajimatta tokoro de kao o ageta."
+  },
+  "s7.l190": {
+    "en": "Nice place, isn't it?",
+    "ru": "Хорошее место, правда?",
+    "zh": "这地方不错吧？",
+    "ko": "여기 참 좋죠?",
+    "ja": "「いい店でしょう？」",
+    "romaji": "\"Ii mise deshō?\""
+  },
+  "s7.l191": {
+    "en": "Yes, it's my first time here.",
+    "ru": "Да, я здесь впервые.",
+    "zh": "是的，我第一次来。",
+    "ko": "네, 처음 와봤는데 좋네요.",
+    "ja": "「はい、ここへは初めて来ました」",
+    "romaji": "\"Hai, koko e wa hajimete kimashita\""
+  },
+  "s7.l192": {
+    "en": "Are you traveling?",
+    "ru": "Вы путешествуете?",
+    "zh": "你在旅行吗？",
+    "ko": "여행 중이신가요?",
+    "ja": "「ご旅行ですか？」",
+    "romaji": "\"Go-ryokō desu ka?\""
+  },
+  "s7.l193": {
+    "en": "I studied abroad here before. I came back after a long time.",
+    "ru": "Я когда-то здесь учился. Вернулся спустя долгое время.",
+    "zh": "我以前在这里留过学。时隔很久又回来了。",
+    "ko": "예전에 여기서 유학했었거든요. 오랜만에 다시 왔어요.",
+    "ja": "「以前、ここに留学していたんです。久しぶりに戻ってきました」",
+    "romaji": "\"Izen, koko ni ryūgaku shite ita n desu. Hisashiburi ni modotte kimashita\""
+  },
+  "s7.l194": {
+    "en": "Ah, like a return home.",
+    "ru": "А, значит это своего рода возвращение домой.",
+    "zh": "啊，就像回老家一样啊。",
+    "ko": "아, 고향에 돌아온 것 같은 기분이겠네요.",
+    "ja": "「ああ、里帰りみたいなものね」",
+    "romaji": "\"Aa, satogaeri mitai na mono ne\""
+  },
+  "s7.l195": {
+    "en": "Returning to one's hometown.",
+    "ru": "Как возвращение в родные края.",
+    "zh": "回到故乡的感觉呢。",
+    "ko": "고향으로 돌아가는 것.",
+    "ja": "故郷への里帰り。",
+    "romaji": "Kokyō e no satogaeri."
+  },
+  "s7.l196": {
+    "en": "(That's not quite accurate. But it's not wrong either.)",
+    "ru": "(Не совсем точно. Но и не то чтобы неверно.)",
+    "zh": "（没那么贴切。但似乎也没说错。）",
+    "ko": "(아주 정확한 말은 아니지만, 틀린 말도 아니네.)",
+    "ja": "（正確とは言えない。けれど、完全に間違っているわけでもない。）",
+    "romaji": "(Seikaku to wa ienai. Keredo, kanzen ni machigatte iru wake de mo nai.)"
+  },
+  "s7.l197": {
+    "en": "Yeah, something like that.",
+    "ru": "Да, вроде того.",
+    "zh": "是啊，差不多吧。",
+    "ko": "네, 그런 셈이죠.",
+    "ja": "「ええ、そんな感じです」",
+    "romaji": "\"Ee, sonna kanji desu\""
+  },
+  "s7.l198": {
+    "en": "How is it?",
+    "ru": "Ну и как оно?",
+    "zh": "感觉如何？",
+    "ko": "어떠신가요?",
+    "ja": "「どうですか？」",
+    "romaji": "\"Dō desu ka?\""
+  },
+  "s7.l199": {
+    "en": "It's more complicated than I expected.",
+    "ru": "Все сложнее, чем я ожидал.",
+    "zh": "比我预想的要复杂得多。",
+    "ko": "생각했던 것보다 마음이 복잡하네요.",
+    "ja": "「思っていたより複雑ですね」",
+    "romaji": "\"Omotte ita yori fukuzatsu desu ne\""
+  },
+  "s7.l200": {
+    "en": "The changed places make me sad, and the unchanged places make me feel relieved.",
+    "ru": "Места, которые изменились, меня печалят, а те, что остались прежними, приносят облегчение.",
+    "zh": "变样的地方让我感到难过，而没变的地方则让我觉得安心。",
+    "ko": "변해버린 곳들을 보면 슬프기도 하고, 그대로인 곳을 보면 안심이 되기도 하고요.",
+    "ja": "「変わってしまった場所には寂しくなり、変わらない場所にはほっとして」",
+    "romaji": "\"Kawatte shimatta basho ni wa sabishiku nari, kawaranai basho ni wa hotto shite\""
+  },
+  "s7.l201": {
+    "en": "But I didn't know places like this.",
+    "ru": "Но таких мест я раньше не знал.",
+    "zh": "但我以前并不知道这种地方。",
+    "ko": "하지만 예전엔 이런 곳이 있는 줄도 몰랐어요.",
+    "ja": "「でも、こういう場所は知らなかったんです」",
+    "romaji": "\"Demo, kōiu basho wa shiranakatta n desu\""
+  },
+  "s7.l202": {
+    "en": "I never came here when I lived here before.",
+    "ru": "Я никогда не заходил сюда, когда жил здесь раньше.",
+    "zh": "我以前住在这儿的时候从来没来过这里。",
+    "ko": "여기 살 때는 한 번도 와본 적이 없거든요.",
+    "ja": "「昔住んでいたときは、一度も来ませんでした」",
+    "romaji": "\"Mukashi sunde ita toki wa, ichido mo kimasen deshita\""
+  },
+  "s7.l203": {
+    "en": "Well, of course. You didn't know it back then.",
+    "ru": "Ну, конечно. Вы тогда о нем просто не знали.",
+    "zh": "那当然啰。你当时根本就不知道这儿嘛。",
+    "ko": "그야 당연하죠. 그때는 모르셨으니까요.",
+    "ja": "「まあ、当然よね。あの頃は知らなかったんだから」",
+    "romaji": "\"Maa, tōzen yo ne. Ano koro wa shiranakatta n da kara\""
+  },
+  "s7.l204": {
+    "en": "(Of course. I didn't know about it then, so I couldn't have come.)",
+    "ru": "(Ну да. Я тогда об этом не знал, так что и прийти не мог.)",
+    "zh": "（也对。我以前不知道这里，所以当然不可能来过。）",
+    "ko": "(당연하지. 그때는 몰랐으니까 올 수도 없었겠구나.)",
+    "ja": "（当然だ。当時は知らなかったのだから、来られるはずもない。）",
+    "romaji": "(Tōzen da. Tōji wa shiranakatta no da kara, korareru hazu mo nai.)"
+  },
+  "s7.l205": {
+    "en": "(Tokyo is also full of things I haven't discovered yet.)",
+    "ru": "(Токио также полон вещей, которые мне еще только предстоит открыть.)",
+    "zh": "（东京也充满了许多我尚未发掘的事物。）",
+    "ko": "(도쿄에는 아직 내가 발견하지 못한 것들로 가득해.)",
+    "ja": "（東京には、僕がまだ出会っていないものもたくさん溢れている。）",
+    "romaji": "(Tōkyō ni wa, boku ga mada deatte inai mono mo takusan afurete iru.)"
+  },
+  "s7.l206": {
+    "en": "(It's not just about what's gone.)",
+    "ru": "(Дело не только в том, что исчезло.)",
+    "zh": "（事情并不只是关乎那些已经消失的东西。）",
+    "ko": "(사라져버린 것들만이 전부는 아냐.)",
+    "ja": "（消えてしまったものばかりがすべてではないのだ。）",
+    "romaji": "(Kiete shimatta mono bakari ga subete dewa nai no da.)"
+  },
+  "s7.l207": {
+    "en": "The band plays something slow and sure.",
+    "ru": "Группа заиграла что-то медленное и уверенное.",
+    "zh": "乐队奏响了一段节奏缓慢而沉稳的乐章。",
+    "ko": "밴드가 느릿하면서도 힘 있는 선율을 연주합니다.",
+    "ja": "バンドはゆったりとした、確かな響きを持つ曲を奏でる。",
+    "romaji": "Bando wa yuttari to shita, tashika na hibiki o motsu kyoku o kanaderu."
+  },
+  "s7.l208": {
+    "en": "The woman goes back to her book.",
+    "ru": "Женщина вернулась к своей книге.",
+    "zh": "女士重新读起了她的书。",
+    "ko": "여성은 다시 책으로 시선을 돌립니다.",
+    "ja": "女性は再び本に目を落とした。",
+    "romaji": "Josei wa futatabi hon ni me o otoshita."
+  },
+  "s7.l209": {
+    "en": "You stay for the whole set.",
+    "ru": "Вы остаетесь до конца выступления.",
+    "zh": "你留下听完了整场演出。",
+    "ko": "공연이 끝날 때까지 자리를 지켰습니다.",
+    "ja": "ステージが終わるまで、ずっとその場に留まっていた。",
+    "romaji": "Sutēji ga owaru made, zutto sono ba ni todomatte ita."
+  },
+  "s7.l210": {
+    "en": "Day seven. Halfway.",
+    "ru": "День седьмой. Экватор.",
+    "zh": "第七天。行程过半。",
+    "ko": "이레째. 여행의 절반이 지났습니다.",
+    "ja": "七日目。旅の折り返し地点。",
+    "romaji": "Nanokame. Tabi no orikaeshi chiten."
+  },
+  "s7.l211": {
+    "en": "You meet Sota for lunch at the curry restaurant that survived.",
+    "ru": "Вы встречаетесь с Сотой за обедом в той самой уцелевшей закусочной с карри.",
+    "zh": "你和飒太约在一家幸存下来的咖喱店吃午餐。",
+    "ko": "아직 남아 있는 그 카레 가게에서 소타와 점심을 먹기로 했습니다.",
+    "ja": "あの生き残っていたカレー屋で、颯太と昼食を共にする。",
+    "romaji": "Ano ikinokotte ita karē-ya de, Sōta to chūshoku o tomo ni suru."
+  },
+  "s7.l212": {
+    "en": "The owner—Mr. Yamamoto, seventy-something, same apron—comes out to take your order.",
+    "ru": "Хозяин — господин Ямамото, которому уже за семьдесят, в том же самом фартуке — выходит принять заказ.",
+    "zh": "店主山本先生——七十多岁，还围着以前那条围裙——走出来帮你们点餐。",
+    "ko": "주인인 야마모토 씨—일흔 살 정도 되셨을까요, 예전 그 앞치마 그대로—가 주문을 받으러 나오십니다.",
+    "ja": "店主の山本さん――七十代半ばで、当時と同じエプロン姿――が注文を取りに現れた。",
+    "romaji": "Tenshu no Yamamoto-san -- nanajūdai nakaba de, tōji to onaji epuron sugata -- ga chūmon o tori ni arawareta."
+  },
+  "s7.l213": {
+    "en": "Huh? Foreign young man? Have you been here before?",
+    "ru": "А? Молодой иностранец? Вы здесь уже бывали?",
+    "zh": "嗯？外国小伙子？以前来过吗？",
+    "ko": "어라? 외국인 청년? 전에 온 적이 있었나?",
+    "ja": "「ん？ 外国の兄ちゃん、前にもうちに来たことあるかい？」",
+    "romaji": "\"N? Gaikoku no niichan, mae ni mo uchi ni kita koto aru kai?\""
+  },
+  "s7.l214": {
+    "en": "Yes, five years ago. I used to come often.",
+    "ru": "Да, пять лет назад. Часто сюда заходил.",
+    "zh": "是的，五年前。我以前经常来。",
+    "ko": "네, 5년 전에요. 자주 왔었습니다.",
+    "ja": "「はい、五年前です。よく通っていました」",
+    "romaji": "\"Hai, go-nen mae desu. Yoku kayotte imashita\""
+  },
+  "s7.l215": {
+    "en": "Five years ago!",
+    "ru": "Пять лет назад!",
+    "zh": "五年前！",
+    "ko": "5년 전이라고!",
+    "ja": "「五年前！ ……ああ！ チキンカレーの！」",
+    "romaji": "\"Go-nen mae! ......Aa! Chikin karē no!\""
+  },
+  "s7.l216": {
+    "en": "...Ah! The chicken curry person!",
+    "ru": "...А! Тот парень, который брал куриный карри!",
+    "zh": "……啊！那个点鸡肉咖喱的人！",
+    "ko": "...아! 치킨 카레 청년!",
+    "ja": "……ああ！ チキンカレーの人だ！",
+    "romaji": "......Aa! Chikin karē no hito da!"
+  },
+  "s7.l217": {
+    "en": "You cannot breathe.",
+    "ru": "У вас перехватывает дыхание.",
+    "zh": "你屏住了呼吸。",
+    "ko": "숨이 멎을 것 같습니다.",
+    "ja": "息が止まる。",
+    "romaji": "Iki ga tomaru."
+  },
+  "s7.l218": {
+    "en": "He remembers.",
+    "ru": "Он помнит.",
+    "zh": "他竟然还记得。",
+    "ko": "그가 기억하고 있어요.",
+    "ja": "覚えていてくれたのだ。",
+    "romaji": "Oboete ite kureta no da."
+  },
+  "s7.l219": {
+    "en": "You're that foreign student who always ordered chicken curry, extra spicy, right?",
+    "ru": "Вы тот самый иностранный студент, который всегда заказывал очень острый куриный карри, верно?",
+    "zh": "你就是那个总是点超辣鸡肉咖喱的外国留学生，对吧？",
+    "ko": "항상 아주 매운 치킨 카레를 주문하던 그 외국인 학생 맞지?",
+    "ja": "「いつもチキンカレーの激辛を頼んでた留学生の兄ちゃんだろ？」",
+    "romaji": "\"Itsumo chikin karē no gekikara o tanondeta ryūgakusei no niichan daro?\""
+  },
+  "s7.l220": {
+    "en": "Welcome back!",
+    "ru": "С возвращением!",
+    "zh": "欢迎回来！",
+    "ko": "어서 와요!",
+    "ja": "「おかえり！」",
+    "romaji": "\"Okaeri!\""
+  },
+  "s7.l221": {
+    "en": "Welcome back.",
+    "ru": "С возвращением.",
+    "zh": "欢迎回来。",
+    "ko": "어서 오세요.",
+    "ja": "おかえり。",
+    "romaji": "Okaeri."
+  },
+  "s7.l222": {
+    "en": "(Two times now.)",
+    "ru": "(Уже дважды.)",
+    "zh": "（这已经是第二次了。）",
+    "ko": "(벌써 두 번째네.)",
+    "ja": "（これで二回目だ。）",
+    "romaji": "(Kore de nikaime da.)"
+  },
+  "s7.l223": {
+    "en": "You don't trust yourself to speak for a moment.",
+    "ru": "Вы боитесь, что голос дрогнет, поэтому мгновение молчите.",
+    "zh": "那一刻，你甚至不敢开口说话。",
+    "ko": "잠시 동안 아무 말도 할 수 없었습니다.",
+    "ja": "声が震えそうになり、一瞬言葉が出てこない。",
+    "romaji": "Koe ga furuesō ni nari, isshun kotoba ga dete konai."
+  },
+  "s7.l224": {
+    "en": "Sota is watching you, smiling.",
+    "ru": "Сота смотрит на вас и улыбается.",
+    "zh": "飒太正含笑看着你。",
+    "ko": "소타가 미소를 지으며 당신을 바라봅니다.",
+    "ja": "颯太が微笑みながらこちらを見ている。",
+    "romaji": "Sōta ga hohoeminagara kochira o mite iru."
+  },
+  "s7.l225": {
+    "en": "You okay?",
+    "ru": "Ты в порядке?",
+    "zh": "你还好吗？",
+    "ko": "괜찮아?",
+    "ja": "「大丈夫か？」",
+    "romaji": "\"Daijōbu ka?\""
+  },
+  "s7.l226": {
+    "en": "Yeah. I'm okay.",
+    "ru": "Да. В норме.",
+    "zh": "嗯。我没事。",
+    "ko": "응. 괜찮아.",
+    "ja": "「ああ。大丈夫だ」",
+    "romaji": "\"Aa. Daijōbu da\""
+  },
+  "s7.l227": {
+    "en": "Chicken curry?",
+    "ru": "Куриный карри?",
+    "zh": "还是鸡肉咖喱？",
+    "ko": "치킨 카레?",
+    "ja": "「チキンカレーかい？」",
+    "romaji": "\"Chikin karē kai?\""
+  },
+  "s7.l228": {
+    "en": "Extra spicy.",
+    "ru": "Очень острый.",
+    "zh": "超辣的。",
+    "ko": "아주 맵게.",
+    "ja": "「激辛でお願いします」",
+    "romaji": "\"Gekikara de onegai shimasu\""
+  },
+  "s7.l229": {
+    "en": "You haven't changed.",
+    "ru": "Вы совсем не изменились.",
+    "zh": "你还真是没变呢。",
+    "ko": "변한 게 없네.",
+    "ja": "「変わらねえなあ！」",
+    "romaji": "\"Kawaranee naa!\""
+  },
+  "s7.l230": {
+    "en": "He disappears into the kitchen.",
+    "ru": "Он исчезает на кухне.",
+    "zh": "他转身钻进了厨房。",
+    "ko": "그는 주방으로 사라집니다.",
+    "ja": "店主は厨房へと戻っていった。",
+    "romaji": "Tenshu wa chūbō e to modotte itta."
+  },
+  "s7.l231": {
+    "en": "Sota laughs quietly.",
+    "ru": "Сота тихо смеется.",
+    "zh": "飒太轻声笑了起来。",
+    "ko": "소타가 나직이 웃습니다.",
+    "ja": "颯太が静かに笑う。",
+    "romaji": "Sōta ga shizuka ni warau."
+  },
+  "s7.l232": {
+    "en": "That's it.",
+    "ru": "Вот оно.",
+    "zh": "就是那个。",
+    "ko": "저거야.",
+    "ja": "「それだよ」",
+    "romaji": "\"Sore da yo\""
+  },
+  "s7.l233": {
+    "en": "What's it?",
+    "ru": "Что «оно»?",
+    "zh": "哪个？",
+    "ko": "뭐가?",
+    "ja": "「それって？」",
+    "romaji": "\"Sorette?\""
+  },
+  "s7.l234": {
+    "en": "The thing you were looking for was right there.",
+    "ru": "То, что ты искал, было прямо здесь.",
+    "zh": "你一直寻找的东西，就在那儿。",
+    "ko": "네가 찾고 있던 게 바로 저거라고.",
+    "ja": "「お前が探してたもの、そこにあったじゃん」",
+    "romaji": "\"Omae ga sagashiteta mono, soko ni atta jan\""
+  },
+  "s7.l235": {
+    "en": "The share house is gone, the record store is gone—",
+    "ru": "Дома больше нет, магазина пластинок — тоже...",
+    "zh": "合租房没了，唱片店也没了——",
+    "ko": "쉐어하우스도 없어졌고, 레코드 가게도 없어졌지만—",
+    "ja": "「シェアハウスもレコード屋もなくなっちまったけど――」",
+    "romaji": "\"Shea hausu mo rekōdo-ya mo nakunacchimatta kedo--\""
+  },
+  "s7.l236": {
+    "en": "But Yamamoto-san remembered.",
+    "ru": "Но господин Ямамото вспомнил.",
+    "zh": "但山本先生还记得你。",
+    "ko": "야마모토 씨는 기억하고 있었잖아.",
+    "ja": "「でも山本さんはちゃんと覚えてた」",
+    "romaji": "\"Demo Yamamoto-san wa chanto oboeteta\""
+  },
+  "s7.l237": {
+    "en": "(Mr. Yamamoto remembered the chicken curry. Medium-hot.)",
+    "ru": "(Господин Ямамото вспомнил про куриный карри. Средней остроты.)",
+    "zh": "（山本先生还记得那个中辣的鸡肉咖喱。）",
+    "ko": "(야마모토 씨는 기억하고 있었어. 그 아주 매운 치킨 카레를.)",
+    "ja": "（山本さんはチキンカレーの激辛を覚えていてくれた。）",
+    "romaji": "(Yamamoto-san wa chikin karē no gekikara o oboete ite kureta.)"
+  },
+  "s7.l238": {
+    "en": "(What you ordered.)",
+    "ru": "(То, что я заказывал.)",
+    "zh": "（你点过的餐。）",
+    "ko": "(내가 주문했던 것.)",
+    "ja": "（僕がいつも注文していたものを。）",
+    "romaji": "(Boku ga itsumo chūmon shite ita mono o.)"
+  },
+  "s7.l239": {
+    "en": "(Not your name. Not your face.)",
+    "ru": "(Не мое имя. Не мое лицо.)",
+    "zh": "（不是你的名字。也不是你的长相。）",
+    "ko": "(이름도, 얼굴도 아니라.)",
+    "ja": "（名前でも、顔でもなく。）",
+    "romaji": "(Namae demo, kao demo naku.)"
+  },
+  "s7.l240": {
+    "en": "(What you wanted.)",
+    "ru": "(А то, чего я хотел.)",
+    "zh": "（而是你想要的东西。）",
+    "ko": "(내가 원했던 것을.)",
+    "ja": "（僕が求めていたものを。）",
+    "romaji": "(Boku ga motomete ita mono o.)"
+  },
+  "s7.l241": {
+    "en": "Is that enough, though?",
+    "ru": "Но разве этого достаточно?",
+    "zh": "可是，这就足够了吗？",
+    "ko": "그치만, 그걸로 충분할까?",
+    "ja": "「でも、それだけで十分なのかな？」",
+    "romaji": "\"Demo, sore dake de jūbun na no kana?\""
+  },
+  "s7.l242": {
+    "en": "I think it's enough.",
+    "ru": "Я думаю, достаточно.",
+    "zh": "我觉得足够了。",
+    "ko": "나름 충분하다고 봐.",
+    "ja": "「十分だと思うぜ」",
+    "romaji": "\"Jūbun da to omou ze\""
+  },
+  "s7.l243": {
+    "en": "Not everything remains. But something remains.",
+    "ru": "Не всё сохраняется. Но что-то остается.",
+    "zh": "并非所有东西都会留下。但总有些东西会留下来。",
+    "ko": "모든 게 남지는 않겠지. 하지만 무언가는 남아.",
+    "ja": "「すべてが残るわけじゃない。でも、何かが残る」",
+    "romaji": "\"Subete ga nokoru wake ja nai. Demo, nanika ga nokoru\""
+  },
+  "s7.l244": {
+    "en": "Not everything remains. But something does.",
+    "ru": "Не всё остается прежним. Но кое-что — да.",
+    "zh": "并非所有东西都能永恒。但总有东西得以幸存。",
+    "ko": "전부가 그대로일 순 없어도, 무언가는 그대로인 법이야.",
+    "ja": "すべてが残るわけではない。けれど、確かに何かが残るのだ。",
+    "romaji": "Subete ga nokoru wake dewa nai. Keredo, tashika ni nanika ga nokoru no da."
+  },
+  "s7.l245": {
+    "en": "A bookshop in the afternoon.",
+    "ru": "Книжный магазин днем.",
+    "zh": "午后的书店。",
+    "ko": "어느 오후의 서점.",
+    "ja": "午後の書店。",
+    "romaji": "Gogo no shoten."
+  },
+  "s7.l246": {
+    "en": "You find a section you couldn't have read five years ago: literary fiction in Japanese, no furigana.",
+    "ru": "Вы находите отдел, который пять лет назад был бы вам не по зубам: художественная литература на японском, без фуриганы.",
+    "zh": "你发现了一个五年前来看不懂的分区：没有注音（furigana）的日文文学小说。",
+    "ko": "5년 전이라면 시도조차 못 했을 구역을 발견합니다. 후리가나 없는 일본어 문학 소설 코너네요.",
+    "ja": "五年前にはとても読めなかったコーナーに足が止まる。ふりがなのない、大人の日本語文学の棚だ。",
+    "romaji": "Go-nen mae ni wa totemo yomenakatta kōnā ni ashi ga tomaru. Furigana no nai, otona no nihongo bungaku no tana da."
+  },
+  "s7.l247": {
+    "en": "You pick one up. Read the back cover. Understand it.",
+    "ru": "Вы берете одну книгу. Читаете аннотацию на задней обложке. И понимаете её.",
+    "zh": "你拿起一本。读了读封底的介绍。读懂了。",
+    "ko": "책 한 권을 집어 듭니다. 뒤표지의 글을 읽어봅니다. 내용이 머릿속에 들어오네요.",
+    "ja": "一冊を手に取り、裏表紙のあらすじを読む。内容が理解できる。",
+    "romaji": "Issatsu o te ni tori, urabyōshi no arasuji o yomu. Naiyō ga rikai dekiru."
+  },
+  "s7.l248": {
+    "en": "(I couldn't have read this five years ago.)",
+    "ru": "(Пять лет назад я бы не смог это прочитать.)",
+    "zh": "（五年前的我肯定读不懂这个。）",
+    "ko": "(5년 전엔 절대 못 읽었겠지.)",
+    "ja": "（五年前の僕には、これは読めなかった。）",
+    "romaji": "(Go-nen mae no boku ni wa, kore wa yomenakatta.)"
+  },
+  "s7.l249": {
+    "en": "(I was N4 at best. Maybe N3 by the end.)",
+    "ru": "(В лучшем случае у меня был N4. Может, N3 к концу года.)",
+    "zh": "（那时我顶多是N4水平。走的时候大概到了N3吧。）",
+    "ko": "(그땐 잘해봐야 N4였고, 떠날 때쯤이나 N3 정도였으니까.)",
+    "ja": "（せいぜいN4、留学が終わる頃でも良くてN3だった。）",
+    "romaji": "(Seizei N-yon, ryūgaku ga owaru koro demo yokute N-san datta.)"
+  },
+  "s7.l250": {
+    "en": "(I can read this now.)",
+    "ru": "(А сейчас — могу.)",
+    "zh": "（现在我能读懂了。）",
+    "ko": "(지금은 읽을 수 있어.)",
+    "ja": "（今の僕には、これが読める。）",
+    "romaji": "(Ima no boku ni wa, kore ga yomeru.)"
+  },
+  "s7.l251": {
+    "en": "You buy it. You sit in the bookshop's corner and read the first chapter.",
+    "ru": "Вы покупаете книгу. Садитесь в уголке магазина и читаете первую главу.",
+    "zh": "你买下了它。坐在书店的一角，读完了第一章。",
+    "ko": "책을 삽니다. 서점 한쪽 구석에 앉아 첫 편을 읽어 내려갑니다.",
+    "ja": "本を買い、書店の片隅に座って第一章を読み進める。",
+    "romaji": "Hon o kai, shoten no katasumi ni suwatte dai-isshō o yomisusumeru."
+  },
+  "s7.l252": {
+    "en": "It takes you forty minutes. You look up words twice.",
+    "ru": "Это занимает сорок минут. Вы всего дважды заглядываете в словарь.",
+    "zh": "花了你四十分钟。期间只查了两次词典。",
+    "ko": "40분 정도 걸렸네요. 모르는 단어는 딱 두 번 찾아봤고요.",
+    "ja": "四十分かかった。辞書を引いたのは二回だけだった。",
+    "romaji": "Yonjuppun kakatta. Jisho o hiita no wa nikai dake datta."
+  },
+  "s7.l253": {
+    "en": "You understand it.",
+    "ru": "И вы всё поняли.",
+    "zh": "你真的读懂了。",
+    "ko": "완벽히 이해했습니다.",
+    "ja": "内容が、ちゃんと理解できる。",
+    "romaji": "Naiyō ga, chanto rikai dekiru."
+  },
+  "s7.l254": {
+    "en": "(I didn't lose Tokyo.)",
+    "ru": "(Я не потерял Токио.)",
+    "zh": "（我并没有弄丢东京。）",
+    "ko": "(난 도쿄를 잃어버린 게 아냐.)",
+    "ja": "（僕は東京を失ったわけではないのだ。）",
+    "romaji": "(Boku wa Tōkyō o ushinatta wake dewa nai no da.)"
+  },
+  "s7.l255": {
+    "en": "(I took pieces of it with me.)",
+    "ru": "(Я увез частички этого с собой.)",
+    "zh": "（我带走了它的一部分。）",
+    "ko": "(나는 그 파편들을 내 안에 품고 왔어.)",
+    "ja": "（その欠片を、自分の中に持ち帰っていたのだ。）",
+    "romaji": "(Sono kakera o, jibun no naka ni mochikaette ita no da.)"
+  },
+  "s7.l256": {
+    "en": "(And they kept growing while I wasn't looking.)",
+    "ru": "(И они продолжали расти во мне всё это время.)",
+    "zh": "（而在我没注意的时候，这些碎片一直在悄悄成长。）",
+    "ko": "(그리고 내가 모르는 사이에 그것들은 계속 자라고 있었어.)",
+    "ja": "（そしてそれは、僕が見ていない間にも自分の中で育ち続けていた。）",
+    "romaji": "(Soshite sore wa, boku ga mite inai aida ni mo jibun no naka de sodachitsudzukete ita.)"
+  },
+  "s7.l257": {
+    "en": "You've spent a week feeling like a よそ者 in a place that used to be home.",
+    "ru": "Вы провели неделю, чувствуя себя よそ者 (чужаком) в месте, которое когда-то было домом.",
+    "zh": "在曾经被称为家的地方，你花了一整周时间去感受那种“外来者（yosomono）”的感觉。",
+    "ko": "한때 집이라 불렀던 이곳에서, 당신은 일주일 동안 '외부인(よそ者)'이 된 기분을 느껴야 했죠.",
+    "ja": "かつて我が家だったはずの街で、この一週間ずっと「よそ者」のような心地を味わってきた。",
+    "romaji": "Katsute waga ya datta hazu no machi de, kono isshūkan zutto \"yosomono\" no yō na kokochi o ajiwatte kita."
+  },
+  "s7.l258": {
+    "en": "But maybe the question was always wrong.",
+    "ru": "Но, возможно, сам вопрос всегда был неверным.",
+    "zh": "但也许，那个问题打从一开始就错了。",
+    "ko": "하지만 어쩌면 질문 자체가 틀렸던 건지도 모릅니다.",
+    "ja": "だが、問いの立て方そのものが間違っていたのかもしれない。",
+    "romaji": "Daga, toi no tatekata sonomono ga machigatte ita no kamoshirenai."
+  },
+  "s7.l259": {
+    "en": "Maybe it was never about whether you belong here.",
+    "ru": "Возможно, дело никогда не было в том, подходите ли вы этому месту.",
+    "zh": "也许根本就不在于你是否属于这里。",
+    "ko": "당신이 이곳에 속했느냐 아니냐의 문제가 아니었을 거예요.",
+    "ja": "自分がここに属しているかどうかなど、最初から問題ではなかったのかもしれない。",
+    "romaji": "Jibun ga koko ni zokushite iru ka dōka nado, saisho kara mondai dewa nakatta no kamoshirenai."
+  },
+  "s7.l260": {
+    "en": "Maybe it's about what you carry from here.",
+    "ru": "А в том, что вы уносите отсюда в себе.",
+    "zh": "而是在于你从这里带走了什么。",
+    "ko": "중요한 건 당신이 이곳에서 무엇을 품고 가느냐 하는 것이겠죠.",
+    "ja": "大切なのは、ここから何を持ち帰ったかなのだ。",
+    "romaji": "Taisetsu na no wa, koko kara nani o mochikaetta ka na no da."
+  },
+  "s7.l261": {
+    "en": "Last night. Sota again, the bar again.",
+    "ru": "Последний вечер. Снова Сота, снова бар.",
+    "zh": "最后一晚。又是飒太，又是那家酒吧。",
+    "ko": "마지막 밤. 다시 소타를 만나고, 다시 그 바에 왔습니다.",
+    "ja": "最後の夜。再び颯太と、あのバーで飲む。",
+    "romaji": "Saigo no yoru. Futatabi Sōta to, ano bā de nomu."
+  },
+  "s7.l262": {
+    "en": "You've stopped being disappointed and started being present.",
+    "ru": "Вы перестали разочаровываться и начали просто быть здесь и сейчас.",
+    "zh": "你不再感到失望，而是开始全身心地感受当下。",
+    "ko": "더 이상 실망하지 않습니다. 그저 지금 이 순간에 집중할 뿐이죠.",
+    "ja": "期待外れに落ち込むのをやめ、ただこの瞬間を生きられるようになっていた。",
+    "romaji": "Kitaihazure ni ochikomu no o yame, tada kono shunkan o ikirareru yō ni natte ita."
+  },
+  "s7.l263": {
+    "en": "It's a subtle shift. But it changed everything.",
+    "ru": "Это едва заметный сдвиг. Но он изменил всё.",
+    "zh": "这只是个微妙的转变。却改变了一切。",
+    "ko": "작은 변화였지만, 모든 것이 달라졌습니다.",
+    "ja": "それは小さな変化だった。だが、すべてを変えてくれた。",
+    "romaji": "Sore wa chiisana henka datta. Daga, subete o kaete kureta."
+  },
+  "s7.l264": {
+    "en": "You go back tomorrow, right?",
+    "ru": "Завтра улетаешь, да?",
+    "zh": "明天就回去了吧？",
+    "ko": "내일 돌아가는 거지?",
+    "ja": "「明日帰るんだろ？」",
+    "romaji": "\"Ashita kaeru n daro?\""
+  },
+  "s7.l265": {
+    "en": "Yeah. Narita, 10:30.",
+    "ru": "Ага. Нарита, 10:30.",
+    "zh": "嗯。成田机场，10:30的飞机。",
+    "ko": "응. 나리타에서 10시 반.",
+    "ja": "「ああ。成田発、10時半だ」",
+    "romaji": "\"Aa. Narita-hatsu, jū-ji han da\""
+  },
+  "s7.l266": {
+    "en": "So how was it, in the end?",
+    "ru": "Ну и как оно всё прошло в итоге?",
+    "zh": "那么，最后感觉怎么样？",
+    "ko": "그래서, 결국 어땠어?",
+    "ja": "「で、結局どうだった？」",
+    "romaji": "\"De, kekkyoku dō datta?\""
+  },
+  "s7.l267": {
+    "en": "(How was it, in the end.)",
+    "ru": "(Ну и как оно всё прошло в итоге.)",
+    "zh": "（最后感觉怎么样。）",
+    "ko": "(결국, 어땠냐니.)",
+    "ja": "（結局、どうだったか。）",
+    "romaji": "(Kekkyoku, dō datta ka.)"
+  },
+  "s7.l268": {
+    "en": "(Two weeks. Everything I came to find.)",
+    "ru": "(Две недели. Всё, что я надеялся найти.)",
+    "zh": "（两周时间。我此行寻找的一切。）",
+    "ko": "(2주 동안. 내가 찾으려 했던 모든 것들.)",
+    "ja": "（二週間。見つけに来たものすべて。）",
+    "romaji": "(Ni-shūkan. Mitsuke ni kita mono subete.)"
+  },
+  "s7.l269": {
+    "en": "The share house was gone. The record store was gone.",
+    "ru": "Дома больше нет. Магазина пластинок — тоже.",
+    "zh": "合租房没了。唱片店也没了。",
+    "ko": "쉐어하우스도, 레코드 가게도 사라졌지만.",
+    "ja": "「シェアハウスもレコード屋もなくなっていた」",
+    "romaji": "\"Shea hausu mo rekōdo-ya mo nakunatte ita\""
+  },
+  "s7.l270": {
+    "en": "But Yamamoto-san was there. Professor Nishimura was there. You were there.",
+    "ru": "Но господин Ямамото был на месте. Профессор Нисимура была там. И ты был рядом.",
+    "zh": "但山本先生在。西村教授在。你也在。",
+    "ko": "야마모토 씨도, 니시무라 교수님도, 그리고 너도 거기 있었잖아.",
+    "ja": "「でも山本さんはいたし、西村先生もいた。お前もいてくれた」",
+    "romaji": "\"Demo Yamamoto-san wa ita shi, Nishimura-sensei mo ita. Omae mo ite kureta\""
+  },
+  "s7.l271": {
+    "en": "I found new places too. Places I didn't know before.",
+    "ru": "Я нашел и новые места. Те, о которых раньше и не знал.",
+    "zh": "我也发现了一些新的地方。以前没去过的地方。",
+    "ko": "새로운 장소들도 발견했어. 전에는 몰랐던 곳들 말이야.",
+    "ja": "「新しい場所も見つけたよ。昔は知らなかった場所を」",
+    "romaji": "\"Atarashii basho mo mitsuketa yo. Mukashi wa shiranakatta basho o\""
+  },
+  "s7.l272": {
+    "en": "I thought I came to look for something.",
+    "ru": "Я думал, что приехал что-то искать.",
+    "zh": "我原以为我是来寻找什么的。",
+    "ko": "난 내가 뭔가를 찾으러 왔다고 생각했거든.",
+    "ja": "「何かを探しに来たつもりだったんだ」",
+    "romaji": "\"Nanika o sagashi ni kita tsumori datta n da\""
+  },
+  "s7.l273": {
+    "en": "Actually, maybe I came to confirm that I had changed.",
+    "ru": "На самом деле, возможно, я приехал подтвердить, что я изменился.",
+    "zh": "其实，也许我是来确认自己已经改变了这个事实。",
+    "ko": "그런데 실은, 내가 변했다는 걸 확인하러 온 걸지도 몰라.",
+    "ja": "「でも本当は、自分が変わったことを確かめに来たのかもしれない」",
+    "romaji": "\"Demo hontō wa, jibun ga kawatta koto o tashikame ni kita no kamoshirenai\""
+  },
+  "s7.l274": {
+    "en": "What do you mean?",
+    "ru": "Что ты имеешь в виду?",
+    "zh": "什么意思？",
+    "ko": "그게 무슨 소리야?",
+    "ja": "「どういう意味だ？」",
+    "romaji": "\"Dō iu imi da?\""
+  },
+  "s7.l275": {
+    "en": "That the time I spent here made who I am now.",
+    "ru": "Что время, проведенное здесь, сделало меня тем, кто я есть сейчас.",
+    "zh": "在这里度过的时光，造就 现在的我。",
+    "ko": "여기서 보낸 시간들이 지금의 나를 만들었다는 거.",
+    "ja": "「ここで過ごした時間が、今の自分を作ってくれたんだってこと」",
+    "romaji": "\"Koko de sugoshita jikan ga, ima no jibun o tsukutte kureta n datte koto\""
+  },
+  "s7.l276": {
+    "en": "I think maybe I wanted to confirm that.",
+    "ru": "Думаю, я хотел это подтвердить.",
+    "zh": "我觉得我可能只是想来确认这一点。",
+    "ko": "그걸 확인하고 싶었던 게 아닐까 싶어.",
+    "ja": "「それを確かめたかったんだと思う」",
+    "romaji": "\"Sore o tashikametakatta n da to omou\""
+  },
+  "s7.l277": {
+    "en": "Did you confirm it?",
+    "ru": "И как, подтвердил?",
+    "zh": "那你确认了吗？",
+    "ko": "확인했어?",
+    "ja": "「確かめられたか？」",
+    "romaji": "\"Tashikamerareta ka?\""
+  },
+  "s7.l278": {
+    "en": "Yeah.",
+    "ru": "Ага.",
+    "zh": "嗯。",
+    "ko": "응.",
+    "ja": "「うん」",
+    "romaji": "\"Un\""
+  },
+  "s7.l279": {
+    "en": "Sota raises his glass.",
+    "ru": "Сота поднимает свой бокал.",
+    "zh": "飒太举起了酒杯。",
+    "ko": "소타가 잔을 들어 올립니다.",
+    "ja": "颯太がグラスを掲げる。",
+    "romaji": "Sōta ga gurasu o kakageru."
+  },
+  "s7.l280": {
+    "en": "Welcome back, Jamie.",
+    "ru": "С возвращением, Джеми.",
+    "zh": "欢迎回来，杰米。",
+    "ko": "어서 와, 제이미.",
+    "ja": "「おかえり、ジェイミー」",
+    "romaji": "\"Okaeri, Jēmī\""
+  },
+  "s7.l281": {
+    "en": "(He said it again.)",
+    "ru": "(Он сказал это снова.)",
+    "zh": "（他又说了一次。）",
+    "ko": "(그가 또 그렇게 말해주네.)",
+    "ja": "（彼はもう一度そう言ってくれた。）",
+    "romaji": "(Kare wa mō ichido sō itte kureta.)"
+  },
+  "s7.l282": {
+    "en": "(And this time—)",
+    "ru": "(И в этот раз —)",
+    "zh": "（而这一次——）",
+    "ko": "(그리고 이번에는—)",
+    "ja": "（そして今回は――）",
+    "romaji": "(Soshite konkai wa--)"
+  },
+  "s7.l283": {
+    "en": "(It fits.)",
+    "ru": "(Звучит правильно.)",
+    "zh": "（感觉很对。）",
+    "ko": "(딱 들어맞는 기분이야.)",
+    "ja": "（しっくりときた。）",
+    "romaji": "(Shikkuri to kita.)"
+  },
+  "s7.l284": {
+    "en": "I'm home.",
+    "ru": "Я дома.",
+    "zh": "我回来了。",
+    "ko": "다녀왔어.",
+    "ja": "「ただいま」",
+    "romaji": "\"Tadaima\""
+  },
+  "s7.l285": {
+    "en": "The word surprises you on the way out.",
+    "ru": "Слово удивляет тебя на выходе.",
+    "zh": "走出酒吧时，这句话让你有些惊讶。",
+    "ko": "가게를 나오는데 그 말이 입안을 맴돕니다.",
+    "ja": "口から出たその言葉に、自分自身が驚く。",
+    "romaji": "Kuchi kara deta sono kotoba ni, jibun jishin ga odoroku."
+  },
+  "s7.l286": {
+    "en": "You've said it a thousand times, automatically, going home to your apartment in Seattle.",
+    "ru": "Вы произносили его тысячи раз, на автомате, возвращаясь в свою квартиру в Сиэтле.",
+    "zh": "在西雅图回到公寓时，你曾无数次机械地说出这句话。",
+    "ko": "시애틀 집으로 돌아갈 때면 습관적으로 수천 번도 더 했던 말이었죠.",
+    "ja": "シアトルのアパートに帰るとき、何千回と機械的に口にしてきた言葉だ。",
+    "romaji": "Shiatoru no apāto ni kaeru toki, nanzen-kai to kikaiteki ni kuchi ni shite kita kotoba da."
+  },
+  "s7.l287": {
+    "en": "But this time you mean something different by it.",
+    "ru": "Но в этот раз вы вкладываете в него иной смысл.",
+    "zh": "但这一次，它蕴含了截然不同的意义。",
+    "ko": "하지만 이번엔 그 의미가 조금 다르게 다가옵니다.",
+    "ja": "けれど今回は、まったく異なる意味が宿っていた。",
+    "romaji": "Keredo konkai wa, mattaku kotonaru imi ga yadotte ita."
+  },
+  "s7.l288": {
+    "en": "Not a place.",
+    "ru": "Не место.",
+    "zh": "不是指某个地点。",
+    "ko": "장소가 아니에요.",
+    "ja": "場所のことではない。",
+    "romaji": "Basho no koto dewa nai."
+  },
+  "s7.l289": {
+    "en": "A feeling.",
+    "ru": "Ощущение.",
+    "zh": "而是一种感觉。",
+    "ko": "어떤 감정이죠.",
+    "ja": "心の中にある感情のことだ。",
+    "romaji": "Kokoro no naka ni aru kanjō no koto da."
+  },
+  "s7.l290": {
+    "en": "Narita Airport. Terminal 2. Departures.",
+    "ru": "Аэропорт Нарита. Терминал 2. Вылет.",
+    "zh": "成田机场。2号航站楼。出发大厅。",
+    "ko": "나리타 공항. 제2터미널. 출국.",
+    "ja": "成田空港。第2ターミナル。出発ロビー。",
+    "romaji": "Narita kūkō. Dai-ni tāminaru. Shuppatsu robī."
+  },
+  "s7.l291": {
+    "en": "The sign above the gate says: またのお越しをお待ちしております。(Mata no okoshi o omachi shiteorimasu.)",
+    "ru": "Надпись над гейтом гласит: またのお越しをお待ちしております。 (Мы будем ждать вашего возвращения.)",
+    "zh": "登机口上方的标牌写着： 「またのお越しをお待ちしております。」（期待您的再次光临。）",
+    "ko": "게이트 위 표지판에 적혀 있습니다. 「또 오시기를 기다리고 있겠습니다(またのお越しをお待ちしております).」",
+    "ja": "搭乗口の上の案内板には「またのお越しをお待ちしております」とある。",
+    "romaji": "Tōjōguchi no ue no annaiban ni wa \"Mata no okoshi o omachi shiteorimasu\" to aru."
+  },
+  "s7.l292": {
+    "en": "We look forward to your return.",
+    "ru": "Мы с нетерпением ждем вашего возвращения.",
+    "zh": "我们期待着您的归来。",
+    "ko": "당신이 돌아오기를 기다리겠습니다.",
+    "ja": "またのお越しをお待ちしております。",
+    "romaji": "Mata no okoshi o omachi shiteorimasu."
+  },
+  "s7.l293": {
+    "en": "Gate 27. Seattle via San Francisco. Boarding in twenty minutes.",
+    "ru": "Гейт 27. Сиэтл через Сан-Франциско. Посадка через двадцать минут.",
+    "zh": "27号登机口。经旧金山飞往西雅图。20分钟后开始登机。",
+    "ko": "27번 게이트. 샌프란시스코 경유 시애틀행. 20분 후 탑승 시작입니다.",
+    "ja": "27番ゲート。サンフランシスコ経由シアトル行き。搭乗まであと二十分。",
+    "romaji": "Nijūnana-ban gēto. Sanfuranshisuko keiyu Shiatoru yuki. Tōjō made ato nijuppun."
+  },
+  "s7.l294": {
+    "en": "You have the novel from the bookshop in your bag. Forty pages left.",
+    "ru": "В вашей сумке лежит роман из книжного. Осталось сорок страниц.",
+    "zh": "你的包里放着那本在书店买的小说。还剩四十页就读完了。",
+    "ko": "가방 안에는 서점에서 산 소설책이 들어 있습니다. 40페이지 정도 남았네요.",
+    "ja": "バッグの中には本屋で買った小説。残り四十ページ。",
+    "romaji": "Baggu no naka ni wa hon'ya de katta shōsetsu. Nokori yonjū-pēji."
+  },
+  "s7.l295": {
+    "en": "You have Sota's number, which you always had, but now you've used it.",
+    "ru": "У вас есть номер Соты — он был у вас всегда, но теперь вы им воспользовались.",
+    "zh": "你存着飒太的号码，以前也一直存着，但这一次，你终于拨通了它。",
+    "ko": "늘 가지고 있었지만, 드디어 사용하게 된 소타의 번호도 있습니다.",
+    "ja": "颯太の連絡先もある。ずっと持っていたけれど、今回はちゃんと使った。",
+    "romaji": "Sōta no renrakusaki mo aru. Zutto motte ita keredo, konkai wa chanto tsukatta."
+  },
+  "s7.l296": {
+    "en": "You have Professor Nishimura's recommendation for a language immersion program in Kyoto next spring.",
+    "ru": "У вас есть рекомендация профессора Нисимуры для программы языкового погружения в Киото следующей весной.",
+    "zh": "你拿到了西村教授的推荐信，准备明年春天去京都参加一项语言沉浸式项目。",
+    "ko": "내년 봄, 교토에서 열리는 언어 연수 프로그램에 대한 니시무라 교수님의 추천서도 있죠.",
+    "ja": "来春の京都での語学研修プログラムに向けた西村先生の推薦状もある。",
+    "romaji": "Raishun no Kyōto de no gogaku kenshū puroguramu ni muketa Nishimura-sensei no suisenjō mo aru."
+  },
+  "s7.l297": {
+    "en": "You have a photo of the zelkova tree in Yoyogi Park.",
+    "ru": "У вас есть фотография дзельквы в парке Йойоги.",
+    "zh": "你手机里存着一张代代木公园那棵榉树的照片。",
+    "ko": "요요기 공원에서 찍은 느티나무 사진도 한 장 있고요.",
+    "ja": "代々木公園のケヤキの木の写真もある。",
+    "romaji": "Yoyogi kōen no keyaki no ki no shashin mo aru."
+  },
+  "s7.l298": {
+    "en": "(I came back to find what I left here.)",
+    "ru": "(Я вернулся, чтобы найти то, что здесь оставил.)",
+    "zh": "（我回来是为了寻找当初留在这里的东西。）",
+    "ko": "(여기에 두고 간 것을 찾으러 돌아왔어.)",
+    "ja": "（ここに置いていったものを探すために戻ってきた。）",
+    "romaji": "(Koko ni oite itta mono o sagasu tame ni modotte kita.)"
+  },
+  "s7.l299": {
+    "en": "(I found something I didn't know I'd made: the person I am now.)",
+    "ru": "(Я нашел то, о чем и не подозревал: того человека, которым я стал.)",
+    "zh": "（我发现了一些连我自己都没察觉到的成就：现在的我。）",
+    "ko": "(내가 이뤄낸 줄도 몰랐던 것을 발견했어. 바로 지금의 나 자신을.)",
+    "ja": "（そして、いつの間にか作り上げていた自分自身を見つけた。今の自分を。）",
+    "romaji": "(Soshite, itsu no ma ni ka tsukuriagete ita jibun jishin o mitsuketa. Ima no jibun o.)"
+  },
+  "s7.l300": {
+    "en": "Your gate opens.",
+    "ru": "Посадка началась.",
+    "zh": "登机口开放了。",
+    "ko": "게이트가 열립니다.",
+    "ja": "ゲートが開く。",
+    "romaji": "Gēto ga hiraku."
+  },
+  "s7.l301": {
+    "en": "You pick up your bag.",
+    "ru": "Вы берете свою сумку.",
+    "zh": "你拿起包。",
+    "ko": "가방을 챙겨 듭니다.",
+    "ja": "荷物を持ち上げる。",
+    "romaji": "Nimotsu o mochiageru."
+  },
+  "s7.l302": {
+    "en": "You look at the departures board—rows and rows of places—and think:",
+    "ru": "Вы смотрите на табло вылетов — ряды и ряды городов — и думаете:",
+    "zh": "你看着出发大厅的显示屏——上面排列着一行又一行的目的地——心想：",
+    "ko": "행선지들이 빼곡히 적힌 출발 안내판을 바라보며 생각합니다.",
+    "ja": "行き先がずらりと並ぶ出発案内板を見上げ、思う。",
+    "romaji": "Ikisaki ga zurari to narabu shuppatsu annaiban o miage, omou."
+  },
+  "s7.l303": {
+    "en": "(I want to come back.)",
+    "ru": "(Я хочу вернуться.)",
+    "zh": "（我想再回来。）",
+    "ko": "(다시 오고 싶어.)",
+    "ja": "（また戻ってきたい。）",
+    "romaji": "(Mata modotte kitai.)"
+  },
+  "s7.l304": {
+    "en": "(Not to find the past.)",
+    "ru": "(Не для того, чтобы искать прошлое.)",
+    "zh": "（不是为了寻找过去。）",
+    "ko": "(과거를 찾기 위해서가 아니라.)",
+    "ja": "（過去を探すためではなく。）",
+    "romaji": "(Kako o sagasu tame dewa naku.)"
+  },
+  "s7.l305": {
+    "en": "(Just to keep coming back.)",
+    "ru": "(А просто чтобы продолжать возвращаться.)",
+    "zh": "（仅仅是为了能一直回来。）",
+    "ko": "(그저 계속해서 돌아오고 싶어서.)",
+    "ja": "（ただ、これからも戻り続けるために。）",
+    "romaji": "(Tada, kore kara mo modoritsudzukeru tame ni.)"
+  },
+  "s7.l306": {
+    "en": "That feels like a different kind of belonging.",
+    "ru": "Это похоже на другое чувство сопричастности.",
+    "zh": "这感觉像是一种别样的归属感。",
+    "ko": "그건 또 다른 종류의 소속감처럼 느껴집니다.",
+    "ja": "それは、これまでとは違う種類の居場所のように感じられる。",
+    "romaji": "Sore wa, kore made to wa chigau shurui no ibasho no yō ni kanjirareru."
+  },
+  "s7.l307": {
+    "en": "Not roots.",
+    "ru": "Не корни.",
+    "zh": "不是落地生根。",
+    "ko": "뿌리가 내린 건 아닐지라도.",
+    "ja": "根を下ろすことではない。",
+    "romaji": "Ne o orosu koto dewa nai."
+  },
+  "s7.l308": {
+    "en": "Something more like a thread.",
+    "ru": "А что-то больше похожее на нить.",
+    "zh": "而更像是一根线。",
+    "ko": "가느다란 실 하나로 이어진 것처럼.",
+    "ja": "一本の糸のようなものだ。",
+    "romaji": "Ippon no ito no yō na mono da."
+  },
+  "s7.l309": {
+    "en": "That keeps pulling you back to a place that keeps surprising you.",
+    "ru": "Которая тянет вас обратно в место, которое не перестает вас удивлять.",
+    "zh": "将你引回那个总能带给你惊喜的地方。",
+    "ko": "당신을 계속 놀라게 만드는 장소로 자꾸만 당신을 끌어당깁니다.",
+    "ja": "自分を驚かせ続けてくれる場所へと、いつでも引き戻してくれる糸。",
+    "romaji": "Jibun o odorokasetsudzukete kureru basho e to, itsudemo hikimodoshite kureru ito."
+  },
+  "s7.l310": {
+    "en": "You board the plane.",
+    "ru": "Вы садитесь в самолет.",
+    "zh": "你登上了飞机。",
+    "ko": "비행기에 올라탑니다.",
+    "ja": "飛行機に乗り込む。",
+    "romaji": "Hikōki ni norikomu."
+  },
+  "s7.l311": {
+    "en": "End of Story 7: The Return",
+    "ru": "Конец Истории 7: Возвращение",
+    "zh": "第七章结束：重逢",
+    "ko": "에피소드 7 종료: 귀환",
+    "ja": "第7話 完：帰郷",
+    "romaji": "Dai-nana-wa Kan: Kikyō"
+  },
+  "s7.l312": {
+    "en": "The classroom. Winter light. Bare trees in the window.",
+    "ru": "Класс. Зимний свет. Голые деревья в окне.",
+    "zh": "教室。冬日的阳光。窗外枯萎的树木。",
+    "ko": "교실. 겨울의 햇살. 창밖으로 보이는 앙상한 나무들.",
+    "ja": "教室。冬の光。窓の外には葉を落とした梢。",
+    "romaji": "Kyōshitsu. Fuyu no hikari. Mado no soto ni wa ha o otoshita kozue."
+  },
+  "s7.l313": {
+    "en": "Someone has draped a small string of lights around the bookshelf—it wasn't there before.",
+    "ru": "Кто-то повесил маленькую гирлянду на книжную полку — раньше её здесь не было.",
+    "zh": "有人在书架上挂了一串小彩灯——以前那儿可没有。",
+    "ko": "누군가 책장에 작은 전구 장식을 달아두었네요—전엔 없던 거예요.",
+    "ja": "誰かが本棚に小さなイルミネーションライトを飾っていた――以前はなかったものだ。",
+    "romaji": "Dareka ga hondana ni chiisana iruminēshon raito o kazatte ita -- izen wa nakatta mono da."
+  },
+  "s7.l314": {
+    "en": "Nobody mentions it, but it makes the room warmer.",
+    "ru": "Никто об этом не говорит, но в комнате стало уютнее.",
+    "zh": "没人提起这件事，但教室里确实变得温馨了些。",
+    "ko": "아무도 말은 안 하지만, 덕분에 교실 분위기가 한결 따뜻해졌습니다.",
+    "ja": "誰も口にはしないけれど、部屋全体が少し暖かく感じられた。",
+    "romaji": "Dare mo kuchi ni wa shinai keredo, heya zentai ga sukoshi atatakaku kanjirareta."
+  },
+  "s7.l315": {
+    "en": "Tanaka-sensei doesn't start right away.",
+    "ru": "Танака-сэнсэй начинает не сразу.",
+    "zh": "田中老师没有立刻开始讲课。",
+    "ko": "다나카 선생님은 바로 수업을 시작하지 않으십니다.",
+    "ja": "田中先生はすぐには話し始めなかった。",
+    "romaji": "Tanaka-sensei wa sugu ni wa hanashihajimenakatta."
+  },
+  "s7.l316": {
+    "en": "She sets her coffee down. Looks at all of you.",
+    "ru": "Она ставит кофе. Оглядывает всех вас.",
+    "zh": "她放下咖啡。环视着你们每一个人。",
+    "ko": "커피를 내려놓고 학생들을 한 명 한 명 바라보시네요.",
+    "ja": "コーヒーを置き、生徒たち全員をゆっくりと見渡す。",
+    "romaji": "Kōhī o oki, seitotachi zen'in o yukkuri to miwatasu."
+  },
+  "s7.l317": {
+    "en": "There's something different in her face today.",
+    "ru": "Сегодня её лицо выглядит иначе.",
+    "zh": "今天她的神色有些不一样。",
+    "ko": "오늘 선생님의 표정은 어딘가 달라 보입니다.",
+    "ja": "今日の先生の表情には、どこかいつもと違うものがあった。",
+    "romaji": "Kyō no sensei no hyōjō ni wa, dokoka itsumo to chigau mono ga atta."
+  },
+  "s7.l318": {
+    "en": "You can't place it yet.",
+    "ru": "Вы пока не понимаете, что именно изменилось.",
+    "zh": "你还说不上来具体在哪里。",
+    "ko": "아직은 그게 뭔지 정확히 모르겠네요.",
+    "ja": "それが何なのか、まだうまく言葉にできない。",
+    "romaji": "Sore ga nan na no ka, mada umaku kotoba ni dekinai."
+  },
+  "s7.l319": {
+    "en": "Seven stories.",
+    "ru": "Семь историй.",
+    "zh": "七个故事。",
+    "ko": "일곱 개의 이야기.",
+    "ja": "「七つの物語」",
+    "romaji": "\"Nanatsu no monogatari\""
+  },
+  "s7.l320": {
+    "en": "This story closes one arc, but not our class journey.",
+    "ru": "Эта история завершает одну главу, но не наше совместное путешествие.",
+    "zh": "这个故事为一个阶段画上了句号，但并不意味着我们课堂旅程的终结。",
+    "ko": "이 이야기로 하나의 막은 내리지만, 우리 수업의 여정은 끝나지 않았습니다.",
+    "ja": "「この物語で一つの節目を迎えますが、私たちの教室の旅が終わるわけではありません」",
+    "romaji": "\"Kono monogatari de hitotsu no fushime o mukaemasu ga, watashitachi no kyōshitsu no tabi ga owaru wake dewa arimasen\""
+  },
+  "s7.l321": {
+    "en": "Nobody says anything for a moment. The room settles into focus.",
+    "ru": "Какое-то время все молчат. В классе воцаряется сосредоточенная тишина.",
+    "zh": "教室内顿时鸦雀无声。大家的神情都专注了起来。",
+    "ko": "잠시 정적이 흐릅니다. 교실 안에는 묘한 긴장감이 감돌 뿐이죠.",
+    "ja": "しばし誰も口を開かなかった。教室が静かな集中に包まれる。",
+    "romaji": "Shibashi dare mo kuchi o hirakanakatta. Kyōshitsu ga shizuka na shūchū ni tsutsumareru."
+  },
+  "s7.l322": {
+    "en": "That went fast.",
+    "ru": "Пролетело быстро.",
+    "zh": "时间过得真快啊。",
+    "ko": "정말 순식간이었어요.",
+    "ja": "「あっという間でしたね」",
+    "romaji": "\"Atto iu ma deshita ne\""
+  },
+  "s7.l323": {
+    "en": "And also really slow.",
+    "ru": "И в то же время — очень медленно.",
+    "zh": "但也感觉很漫长。",
+    "ko": "그러면서도 참 길게 느껴지기도 했고요.",
+    "ja": "「でも、すごくじっくり進んだ気もします」",
+    "romaji": "\"Demo, sugoku jikkuri susunda ki mo shimasu\""
+  },
+  "s7.l324": {
+    "en": "Yes.",
+    "ru": "Да.",
+    "zh": "是的。",
+    "ko": "맞아요.",
+    "ja": "「そうですね」",
+    "romaji": "\"Sō desu ne\""
+  },
+  "s7.l325": {
+    "en": "How was Jamie's story?",
+    "ru": "Ну и как вам история Джеми?",
+    "zh": "觉得杰米的故事怎么样？",
+    "ko": "제이미의 이야기는 어땠나요?",
+    "ja": "「ジェイミーの物語はどうでしたか？」",
+    "romaji": "\"Jēmī no monogatari wa dō deshita ka?\""
+  },
+  "s7.l326": {
+    "en": "I kept expecting Jamie to find what they came for.",
+    "ru": "Я всё ждал, что Джеми найдёт то, за чем приехал.",
+    "zh": "我一直在等杰米找到他此行寻找的东西。",
+    "ko": "전 제이미가 원래 찾으려 했던 걸 찾게 될 줄 알았어요.",
+    "ja": "「ジェイミーが探しに来たものを見つけられるといいな、ってずっと思っていました」",
+    "romaji": "\"Jēmī ga sagashi ni kita mono o mitsukerareru to ii na, tte zutto omotte imashita\""
+  },
+  "s7.l327": {
+    "en": "Like—the share house would still be there. The record shop.",
+    "ru": "Например — что дом будет на месте. Или магазин пластинок.",
+    "zh": "比如——那个合租房还在，还有那家唱片店。",
+    "ko": "쉐어하우스나 레코드 가게가 그대로 남아있을 줄 알았거든요.",
+    "ja": "「たとえば――シェアハウスがまだ残っているとか。レコード屋があるとか」",
+    "romaji": "\"Tatoeba -- shea hausu ga mada nokotte iru toka. Rekōdo-ya ga aru toka\""
+  },
+  "s7.l328": {
+    "en": "And then everything was gone.",
+    "ru": "А оказалось, что всё исчезло.",
+    "zh": "结果全都没了。",
+    "ko": "그런데 전부 사라져 버렸잖아요.",
+    "ja": "「それなのに、全部なくなっちゃってて」",
+    "romaji": "\"Sore na no ni, zembu nakunacchattete\""
+  },
+  "s7.l329": {
+    "en": "And yet it wasn't a sad ending.",
+    "ru": "И всё равно финал не ощущался грустным.",
+    "zh": "但即便如此，结局并不忧伤。",
+    "ko": "그런데도 슬픈 결말은 아니었어요.",
+    "ja": "「それなのに、悲しい結末には感じられませんでした」",
+    "romaji": "\"Sore na no ni, kanashii ketsumatsu ni wa kanjiraremasen deshita\""
+  },
+  "s7.l330": {
+    "en": "Because of Mr. Yamamoto.",
+    "ru": "Благодаря господину Ямамото.",
+    "zh": "是因为山本先生吧。",
+    "ko": "야마모토 씨 덕분이죠.",
+    "ja": "「山本さんのおかげだよ」",
+    "romaji": "\"Yamamoto-san no okage da yo\""
+  },
+  "s7.l331": {
+    "en": "He remembered the chicken curry. That destroyed me.",
+    "ru": "Он вспомнил про куриный карри. Это меня просто добило.",
+    "zh": "他还记得那个鸡肉咖喱。在那一刻我真的泪目了。",
+    "ko": "치킨 카레를 기억하고 계셨잖아요. 거기서 정말 울컥했어요.",
+    "ja": "「チキンカレーのことを覚えていてくれたの、本当にグッときました」",
+    "romaji": "\"Chikin karē no koto o oboete ite kureta no, hontō ni gutto kimashita\""
+  },
+  "s7.l332": {
+    "en": "Why that moment? Of all the moments?",
+    "ru": "Почему именно этот момент? Из всех возможных?",
+    "zh": "为什么是那一刻？在所有那些时刻中？",
+    "ko": "왜 하필 그 순간이었을까요? 수많은 순간들 중에서?",
+    "ja": "「どうしてあの瞬間だったのでしょう？ 数ある場面の中で」",
+    "romaji": "\"Dōshite ano shunkan datta no deshō? Kazu aru bamen no naka de\""
+  },
+  "s7.l333": {
+    "en": "Because it wasn't... a big thing.",
+    "ru": "Потому что это не было... чем-то грандиозным.",
+    "zh": "因为那并不是……什么大事。",
+    "ko": "대단한 게 아니었기 때문이겠죠.",
+    "ja": "「大げさなことじゃないからだと思います」",
+    "romaji": "\"Oogesa na koto ja nai kara da to omou n desu\""
+  },
+  "s7.l334": {
+    "en": "It was just—what Jamie ordered. What Jamie wanted.",
+    "ru": "Это был просто — заказ Джеми. То, чего хотел Джеми.",
+    "zh": "那仅仅是——杰米点过的餐。杰米想要的东西。",
+    "ko": "그저 제이미가 주문했던 것, 제이미가 좋아했던 것일 뿐이니까요.",
+    "ja": "「ただの――ジェイミーが注文していたもの。ジェイミーが望んでいたものだったから」",
+    "romaji": "\"Tada no -- Jēmī ga chūmon shite ita mono. Jēmī ga nozonde ita mono datta kara\""
+  },
+  "s7.l335": {
+    "en": "That he remembered that.",
+    "ru": "И то, что он это запомнил.",
+    "zh": "可他竟然记得。",
+    "ko": "그걸 기억하고 계셨다는 게 중요한 거죠.",
+    "ja": "「それを覚えていてくれたということが」",
+    "romaji": "\"Sore o oboete ite kureta to iu koto ga\""
+  },
+  "s7.l336": {
+    "en": "Yes.",
+    "ru": "Да.",
+    "zh": "没错。",
+    "ko": "맞아요.",
+    "ja": "「ええ」",
+    "romaji": "\"Ee\""
+  },
+  "s7.l337": {
+    "en": "People remember small things when they paid attention.",
+    "ru": "Люди запоминают мелочи, когда они были по-настоящему внимательны.",
+    "zh": "当人们倾注心力时，就会记得那些小细节。",
+    "ko": "누군가에게 진심을 다했을 때, 사람들은 그런 사소한 것들을 기억하곤 하죠.",
+    "ja": "「人は、心を配っていたときの小さなことを覚えているものです」",
+    "romaji": "\"Hito wa, kokoro o kubatte ita toki no chiisana koto o oboete iru mono desu\""
+  },
+  "s7.l338": {
+    "en": "The small things are the real things.",
+    "ru": "Маленькие вещи — самые настоящие.",
+    "zh": "琐碎之事，方为真实。",
+    "ko": "그런 사소한 것들이야말로 진짜인 법이에요.",
+    "ja": "「ささやかなことこそが、本物なんですね」",
+    "romaji": "\"Sasayaka na koto koso ga, hommono nan desu ne\""
+  },
+  "s7.l339": {
+    "en": "This story was built on a grammar point I want to highlight.",
+    "ru": "Эта история была построена на грамматической теме, которую я хочу подчеркнуть.",
+    "zh": "这个故事围绕着我想强调的一个语法点展开。",
+    "ko": "이번 이야기는 제가 강조하고 싶은 문법 요소를 바탕으로 만들어졌습니다.",
+    "ja": "「この物語には、ぜひ注目してほしい文法が使われていました」",
+    "romaji": "\"Kono monogatari ni wa, zehi chūmoku shite hoshii bumpō ga tsukawarete imashita\""
+  },
+  "s7.l340": {
+    "en": "She turns to the chalkboard. Writes:",
+    "ru": "Она поворачивается к доске. Пишет:",
+    "zh": "她转身面向黑板。写下：",
+    "ko": "칠판을 향해 돌아서서 받아 적으십니다.",
+    "ja": "先生は黒板に向き直り、文字を書いた。",
+    "romaji": "Sensei wa kokuban ni mukinaori, moji o kaita."
+  },
+  "s7.l341": {
+    "en": "〜たものだ / 〜ていた / 〜ようになった / 〜なくなった",
+    "ru": "〜たものだ / 〜ていた / 〜ようになった / 〜なくなった",
+    "zh": "〜たものだ / 〜ていた / 〜ようになった / 〜なくなった",
+    "ko": "〜たものだ / 〜ていた / 〜ようになった / 〜なくなった",
+    "ja": "〜たものだ / 〜ていた / 〜ようになった / 〜なくなった",
+    "romaji": "~ta mono da / ~te ita / ~yō ni natta / ~naku natta"
+  },
+  "s7.l342": {
+    "en": "In Japanese, there are very precise ways to talk about change over time.",
+    "ru": "В японском языке есть очень точные способы говорить об изменениях с течением времени.",
+    "zh": "在日语中，有非常精确的方式来描述随时间而产生的变化。",
+    "ko": "일본어에는 시간이 흐름에 따른 변화를 아주 정교하게 표현하는 방법들이 있습니다.",
+    "ja": "「日本語には、時間の経過に伴う変化を表す非常にきめ細かな表現があります」",
+    "romaji": "\"Nihongo ni wa, jikan no keika ni tomonau henka o arawasu hijō ni kimekoma ka na hyōgen ga arimasu\""
+  },
+  "s7.l343": {
+    "en": "Used to do something. It carries nostalgia.",
+    "ru": "Было дело, что-то делали. Это слово наполнено ностальгией.",
+    "zh": "曾经经常做某事。这带有一种怀旧感。",
+    "ko": "과거에 자주 하곤 했던 일. 향수를 불러일으키는 표현이죠.",
+    "ja": "「昔よく〜したものだ。そこには懐かしさが宿ります」",
+    "romaji": "\"Mukashi yoku ~shita mono da. Soko ni wa natsukashisa ga yadorimasu\""
+  },
+  "s7.l344": {
+    "en": "Something that used to exist no longer does.",
+    "ru": "То, что существовало раньше, больше не существует.",
+    "zh": "曾经存在的东西，现在不复存在了。",
+    "ko": "과거에 존재했던 것이 이제는 존재하지 않을 때.",
+    "ja": "「かつてあったものが、もう存在しなくなった」",
+    "romaji": "\"Katsute atta mono ga, mō sonzai shinaku natta\""
+  },
+  "s7.l345": {
+    "en": "Something that didn't happen before, now happens.",
+    "ru": "То, чего не происходило раньше, теперь происходит.",
+    "zh": "过去不曾发生的事，现在发生了。",
+    "ko": "전에는 일어나지 않았던 일이 이제는 일어날 때.",
+    "ja": "「以前は起きなかったことが、今は起きるようになった」",
+    "romaji": "\"Izen wa okinakatta koto ga, ima wa okiru yō ni natta\""
+  },
+  "s7.l346": {
+    "en": "The share house is gone.",
+    "ru": "Дома больше нет.",
+    "zh": "合租房没了。",
+    "ko": "쉐어하우스는 사라졌어요.",
+    "ja": "「シェアハウスはなくなってしまった」",
+    "romaji": "\"Shea hausu wa nakunatte shimatta\""
+  },
+  "s7.l347": {
+    "en": "Jamie came to be able to read Japanese novels.",
+    "ru": "Джеми стал способен читать японские романы.",
+    "zh": "杰米变得能读懂日文小说了。",
+    "ko": "제이미는 일본어 소설을 읽을 수 있게 되었고요.",
+    "ja": "「ジェイミーは日本語の小説が読めるようになった」",
+    "romaji": "\"Jēmī wa nihongo no shōsetsu ga yomeru yō ni natta\""
+  },
+  "s7.l348": {
+    "en": "Exactly right.",
+    "ru": "Совершенно верно.",
+    "zh": "完全正确。",
+    "ko": "맞습니다.",
+    "ja": "「その通りです」",
+    "romaji": "\"Sono tōri desu\""
+  },
+  "s7.l349": {
+    "en": "One story. Both directions of change.",
+    "ru": "Одна история. Оба направления перемен.",
+    "zh": "一个故事。涵盖了变化的两个维度。",
+    "ko": "하나의 이야기 안에 변화의 두 갈래가 모두 담겨 있죠.",
+    "ja": "「一つの物語の中に、変化の二つの方向性が描かれているのです」",
+    "romaji": "\"Hitotsu no monogatari no naka ni, henka no futatsu no hōkōsei ga egakarete iru no desu\""
+  },
+  "s7.l350": {
+    "en": "Loss and growth happening at the same time.",
+    "ru": "Утрата и рост, происходящие одновременно.",
+    "zh": "失去与成长在同一时刻上演。",
+    "ko": "상실과 성장이 동시에 일어나고 있는 거예요.",
+    "ja": "「喪失と成長が、同時に起きている」",
+    "romaji": "\"Sōshitsu to seichō ga, dōji ni okite iru\""
+  },
+  "s7.l351": {
+    "en": "I want to ask something personal.",
+    "ru": "Я хочу спросить о чем-то личном.",
+    "zh": "我想问大家一个比较私人的问题。",
+    "ko": "개인적인 질문을 하나 하고 싶네요.",
+    "ja": "「少し個人的な質問をしてもいいですか？」",
+    "romaji": "\"Sukoshi kojinteki na shitsumon o shitemo ii desu ka?\""
+  },
+  "s7.l352": {
+    "en": "And you don't have to answer.",
+    "ru": "Вы не обязаны отвечать.",
+    "zh": "你们不一定要回答。",
+    "ko": "물론 대답하지 않으셔도 괜찮습니다.",
+    "ja": "「無理に答えなくても構いませんよ」",
+    "romaji": "\"Muri ni kotaenakutemo kamaimasen yo\""
+  },
+  "s7.l353": {
+    "en": "The room feels different. Attentive.",
+    "ru": "Атмосфера в классе меняется. Все во внимании.",
+    "zh": "教室内变得有些不一样。大家都屏气凝神地听着。",
+    "ko": "교실 안의 분위기가 사뭇 달라집니다. 모두가 귀를 기울이고 있어요.",
+    "ja": "教室の空気が変わる。皆が耳を澄ませる。",
+    "romaji": "Kyōshitsu no kūki ga kawaru. Mina ga mimi o sumaseru."
+  },
+  "s7.l354": {
+    "en": "Is there somewhere—or something—you've left and never been back to?",
+    "ru": "Есть ли место — или что-то еще — откуда вы ушли и куда больше не возвращались?",
+    "zh": "有没有某个地方——或者某件事——是你们离开了就再也没有回去过的？",
+    "ko": "떠나온 뒤로 단 한 번도 돌아가지 않은 곳, 혹은 그런 무언가가 있나요?",
+    "ja": "「一度離れてから、二度と戻っていない場所やものはありませんか？」",
+    "romaji": "\"Ichido hanarete kara, nido to modotte inai basho ya mono wa arimasen ka?\""
+  },
+  "s7.l355": {
+    "en": "A place. A time in your life. A version of yourself.",
+    "ru": "Место. Период в вашей жизни. Версия вас самих.",
+    "zh": "一个地点。生命中的一段时光。亦或是曾经的自己。",
+    "ko": "장소일 수도, 삶의 한 조각일 수도, 혹은 과거의 자기 자신일 수도 있겠죠.",
+    "ja": "「ある場所。人生のある時期。かつての自分自身の姿」",
+    "romaji": "\"Aru basho. Jinsei no aru jiki. Katsute no jibun jishin no sugata\""
+  },
+  "s7.l356": {
+    "en": "Something you're keeping as it was because going back might change it?",
+    "ru": "То, что вы храните в памяти неизменным, потому что боитесь, что возвращение всё испортит?",
+    "zh": "有些东西你们想让它保持原样，因为一旦回去，可能一切都会随之改变？",
+    "ko": "돌아가면 변해버릴까 봐, 예전 모습 그대로 간직하고 있는 것이 있나요?",
+    "ja": "「戻ってしまうと変わってしまうのが怖くて、昔のままの姿で心の中に留めているような何かが」",
+    "romaji": "\"Modotte shimau to kawatte shimau no ga kowakute, mukashi no mama no sugata de kokoro no naka ni tomete iru yō na nanika ga\""
+  },
+  "s7.l357": {
+    "en": "Silence.",
+    "ru": "Тишина.",
+    "zh": "沉默。",
+    "ko": "침묵.",
+    "ja": "沈黙が流れる。",
+    "romaji": "Chinmoku ga nagareru."
+  },
+  "s7.l358": {
+    "en": "The kind that means people are thinking, not avoiding.",
+    "ru": "Такая тишина, когда люди думают, а не пытаются уйти от ответа.",
+    "zh": "那是种深思熟虑的沉默，而非刻意的回避。",
+    "ko": "피하는 게 아니라, 깊은 생각에 잠겼을 때 찾아오는 그런 정적이 흐릅니다.",
+    "ja": "言葉を避けているのではなく、誰もが深く考えているときの静けさだ。",
+    "romaji": "Kotoba o sakete iru no dewa naku, daremo ga fukaku kangaete iru toki no shizukesa da."
+  },
+  "s7.l359": {
+    "en": "My hometown.",
+    "ru": "Мой родной город.",
+    "zh": "我的家乡。",
+    "ko": "제 고향요.",
+    "ja": "「僕の故郷です」",
+    "romaji": "\"Boku no kokyō desu\""
+  },
+  "s7.l360": {
+    "en": "Christchurch. I haven't been back in four years.",
+    "ru": "Крайстчерч. Я не был там четыре года.",
+    "zh": "基督城（Christchurch）。我已经四年没回去了。",
+    "ko": "크라이스트처치요. 4년 동안 한 번도 안 갔어요.",
+    "ja": "「クライストチャーチ。四年戻っていません」",
+    "romaji": "\"Kuraisutochāchi. Yo-nen modotte imasen\""
+  },
+  "s7.l361": {
+    "en": "After my relationship ended—it was our city. We met there.",
+    "ru": "После того как отношения закончились... Это был наш город. Мы там познакомились.",
+    "zh": "分手之后——那里就成了只属于我们的回忆之城。我们在那儿相遇。",
+    "ko": "헤어지고 나서요—거긴 우리 둘만의 도시였거든요. 거기서 만났으니까.",
+    "ja": "「彼女と別れた後――あそこは二人の街だったから。そこで出会ったんです」",
+    "romaji": "\"Kanojo to wakareta ato -- asoko wa futari no machi datta kara. Soko de deatta n desu\""
+  },
+  "s7.l362": {
+    "en": "I came to Japan partly to get away from it.",
+    "ru": "Я приехал в Японию отчасти для того, чтобы сбежать от всего этого.",
+    "zh": "我来日本，部分原因也是为了逃离那里。",
+    "ko": "일본에 온 것도 사실 거기서 도망치고 싶었던 마음이 컸어요.",
+    "ja": "「日本に来た理由の一つは、あそこから逃れるためでもありました」",
+    "romaji": "\"Nihon ni kita riyū no hitotsu wa, asoko kara nogareru tame de mo arimashita\""
+  },
+  "s7.l363": {
+    "en": "But also because if I go back—",
+    "ru": "Но еще и потому, что если я вернусь...",
+    "zh": "但也因为如果我回去——",
+    "ko": "하지만 돌아가게 되면—",
+    "ja": "「でも、もし今戻ってしまったら――」",
+    "romaji": "\"Demo, moshi ima modotte shimattara--\""
+  },
+  "s7.l364": {
+    "en": "He doesn't finish the sentence.",
+    "ru": "Он не заканчивает фразу.",
+    "zh": "他话没说完。",
+    "ko": "그는 말을 맺지 못합니다.",
+    "ja": "彼は言葉を最後まで続けなかった。",
+    "romaji": "Kare wa kotoba o saigo made tsudzukenakatta."
+  },
+  "s7.l365": {
+    "en": "It'll be different.",
+    "ru": "Всё будет по-другому.",
+    "zh": "一切都会变得不同。",
+    "ko": "모든 게 달라져 있겠죠.",
+    "ja": "「違ったものになってしまうのが怖いんだね」",
+    "romaji": "\"Chigatta mono ni natte shimau no ga kowai n da ne\""
+  },
+  "s7.l366": {
+    "en": "Yeah.",
+    "ru": "Да.",
+    "zh": "是的。",
+    "ko": "네.",
+    "ja": "「ええ」",
+    "romaji": "\"Ee\""
+  },
+  "s7.l367": {
+    "en": "For me it's Shanghai.",
+    "ru": "Для меня это Шанхай.",
+    "zh": "对我来说，那是上海。",
+    "ko": "전 상하이요.",
+    "ja": "「私にとっては上海かな」",
+    "romaji": "\"Watashi ni totte wa Shanhai kana\""
+  },
+  "s7.l368": {
+    "en": "I grew up there. I haven't been back since university.",
+    "ru": "Я там вырос. Не возвращался со времен университета.",
+    "zh": "我在那里长大。大学毕业后就再也没回去过。",
+    "ko": "거기서 자랐는데, 대학 간 뒤로 한 번도 안 갔어요.",
+    "ja": "「そこで育ったんだけど、大学を出てから一度も戻っていなくて」",
+    "romaji": "\"Soko de sodatta n dakedo, daigaku o dete kara ichido mo modotte inakute\""
+  },
+  "s7.l369": {
+    "en": "I'm scared I'll go back and feel nothing.",
+    "ru": "Боюсь, что вернусь и ничего не почувствую.",
+    "zh": "我害怕回去之后会变得麻木，毫无感觉。",
+    "ko": "돌아갔을 때 아무런 감정도 들지 않을까 봐 겁나요.",
+    "ja": "「戻っても何も感じないんじゃないかって、それが怖くて」",
+    "romaji": "\"Modottemo nani mo kanjinai n ja nai ka tte, sore ga kowakute\""
+  },
+  "s7.l370": {
+    "en": "Or feel too much. I'm not sure which is worse.",
+    "ru": "Или, наоборот, почувствую слишком много. Не знаю, что хуже.",
+    "zh": "或者是感触太多。我不确定哪种更糟。",
+    "ko": "아니면 너무 많은 감정이 휘몰아칠까 봐요. 어느 쪽이 더 나쁠지 모르겠네요.",
+    "ja": "「あるいは、感じすぎてしまうか。どっちが怖いのかわからないの」",
+    "romaji": "\"Aruiwa, kanjisugite shimau ka. Docchi ga kowai no ka wakaranai no\""
+  },
+  "s7.l371": {
+    "en": "Yuki doesn't speak.",
+    "ru": "Юки молчит.",
+    "zh": "由纪没有说话。",
+    "ko": "유키는 말이 없습니다.",
+    "ja": "ユキは何も言わなかった。",
+    "romaji": "Yuki wa nani mo iwanakatta."
+  },
+  "s7.l372": {
+    "en": "But she nods, slowly, once.",
+    "ru": "Но она один раз медленно кивает.",
+    "zh": "但她缓缓地、用力地点了下头。",
+    "ko": "하지만 고개를 천천히 한 번 끄덕이네요.",
+    "ja": "けれど、ゆっくりと、一度だけ頷いた。",
+    "romaji": "Keredo, yukkuri to, ichido dake unazuita."
+  },
+  "s7.l373": {
+    "en": "As if something was just named that she didn't have words for.",
+    "ru": "Как будто было названо то, для чего у неё самой не находилось слов.",
+    "zh": "仿佛某种她无法言传的情绪，终于找到了它的名字。",
+    "ko": "차마 말로 표현하지 못했던 무언가에 이름이 붙여진 것처럼요.",
+    "ja": "言葉を持たなかった何かに、今まさに名前が与えられたかのように。",
+    "romaji": "Kotoba o motanakatta nanika ni, ima masa ni namae ga ataerareta ka no yō ni."
+  },
+  "s7.l374": {
+    "en": "Jamie went back.",
+    "ru": "Джеми вернулся.",
+    "zh": "杰米回去了。",
+    "ko": "제이미는 돌아갔죠.",
+    "ja": "ジェイミーは戻った。",
+    "romaji": "Jēmī wa modotta."
+  },
+  "s7.l375": {
+    "en": "It hurt. And it was okay.",
+    "ru": "Это было больно. И это было нормально.",
+    "zh": "那很痛。但也没关系。",
+    "ko": "아팠지만, 괜찮았어요.",
+    "ja": "胸が痛んだ。けれど、それでよかったのだ。",
+    "romaji": "Mune ga itanda. Keredo, sore de yokatta no da."
+  },
+  "s7.l376": {
+    "en": "Both.",
+    "ru": "И то, и другое.",
+    "zh": "两者兼而有之。",
+    "ko": "두 가지 모두였죠.",
+    "ja": "両方なのだ。",
+    "romaji": "Ryōhō na no da."
+  },
+  "s7.l377": {
+    "en": "Something shifts in the room.",
+    "ru": "Что-то в классе неуловимо меняется.",
+    "zh": "教室里的气氛发生了一些微妙的变化。",
+    "ko": "교실 안의 공기가 바뀝니다.",
+    "ja": "教室の空気が何かに満たされていく。",
+    "romaji": "Kyōshitsu no kūki ga nanika ni mitasarete iku."
+  },
+  "s7.l378": {
+    "en": "The story discussion winds down, but no one seems done talking yet.",
+    "ru": "Обсуждение истории затихает, но кажется, что людям еще есть что сказать.",
+    "zh": "关于故事的讨论渐入尾声，但大家似乎都还没聊够。",
+    "ko": "이야기에 대한 토론은 마무리되어 가지만, 다들 아직 할 말이 남은 표정입니다.",
+    "ja": "物語の話し合いは一段落したけれど、まだ誰も話を終えたくないようだった。",
+    "romaji": "Monogatari no hanashiai wa ichidanraku shita keredo, mada dare mo hanashi o oetaku nai yō datta."
+  },
+  "s7.l379": {
+    "en": "The class has changed shape over these weeks.",
+    "ru": "За эти недели сам класс как будто изменил форму.",
+    "zh": "几周下来，这个班级已经焕然一新。",
+    "ko": "지난 몇 주 동안 수업의 분위기는 많이 달라졌어요.",
+    "ja": "この数週間で、教室のあり方そのものが形を変えていた。",
+    "romaji": "Kono sū-shūkan de, kyōshitsu no arikata sonomono ga katachi o kaete ita."
+  },
+  "s7.l380": {
+    "en": "Next week, we'll begin the next set of stories.",
+    "ru": "На следующей неделе мы перейдем к следующему циклу историй.",
+    "zh": "下周，我们将开始学习下一组故事。",
+    "ko": "다음 주부터는 새로운 이야기들을 시작할 거예요.",
+    "ja": "「来週からは、次の物語のシリーズに入ります」",
+    "romaji": "\"Raishū kara wa, tsugi no monogatari no shirīzu ni hairimasu\""
+  },
+  "s7.l381": {
+    "en": "Good.",
+    "ru": "Хорошо.",
+    "zh": "太好了。",
+    "ko": "좋네요.",
+    "ja": "「よかった」",
+    "romaji": "\"Yokatta\""
+  },
+  "s7.l382": {
+    "en": "I don't feel finished yet.",
+    "ru": "Я чувствую, что мы еще не закончили.",
+    "zh": "我觉得还没学够呢。",
+    "ko": "아직 끝난 것 같지 않거든요.",
+    "ja": "「まだ終わってほしくない気がしていたんです」",
+    "romaji": "\"Mada owatte hoshikunai ki ga shite ita n desu\""
+  },
+  "s7.l383": {
+    "en": "What kind of stories?",
+    "ru": "Что это будут за истории?",
+    "zh": "是什么样的故事？",
+    "ko": "어떤 이야기들인가요?",
+    "ja": "「どんな物語なんですか？」",
+    "romaji": "\"Donna monogatari nan desu ka?\""
+  },
+  "s7.l384": {
+    "en": "New people, new situations, same language heart.",
+    "ru": "Новые люди, новые ситуации, но то же самое сердце языка.",
+    "zh": "新的人物，新的境遇，但语言的核心依旧未变。",
+    "ko": "새로운 인물, 새로운 상황, 하지만 언어의 본질은 같습니다.",
+    "ja": "「新しい人々、新しい境遇。けれど言語の根底にある想いは同じです」",
+    "romaji": "\"Atarashii hitobito, atarashii kyōgū. Keredo gengo no kontei ni aru omoi wa onaji desu\""
+  },
+  "s7.l385": {
+    "en": "You'll keep meeting versions of yourselves through them.",
+    "ru": "Вы продолжите встречать в них разные версии самих себя.",
+    "zh": "通过这些故事，你们将继续遇见不同版本的自己。",
+    "ko": "그 이야기들을 통해 여러분 자신의 또 다른 모습들을 만나게 될 거예요.",
+    "ja": "「物語を通して、皆さんはこれからも自分自身の様々な姿に出会い続けるでしょう」",
+    "romaji": "\"Monogatari o tōshite, minasan wa kore kara mo jibun jishin no samazama na sugata ni deai tsudzukeru deshō\""
+  },
+  "s7.l386": {
+    "en": "I'm glad.",
+    "ru": "Я рад.",
+    "zh": "我很期待。",
+    "ko": "다행이네요.",
+    "ja": "「楽しみです」",
+    "romaji": "\"Tanoshimi desu\""
+  },
+  "s7.l387": {
+    "en": "One more thing before today is over.",
+    "ru": "И еще кое-что, прежде чем мы закончим на сегодня.",
+    "zh": "在今天结束之前，还有一件事。",
+    "ko": "오늘 수업을 마치기 전에 한 가지 더 말씀드릴 게 있어요.",
+    "ja": "「今日が終わる前にもう一つだけ」",
+    "romaji": "\"Kyō ga owaru mae ni mō hitotsu dake\""
+  },
+  "s7.l388": {
+    "en": "I want each of you to think about this before next class:",
+    "ru": "Я хочу, чтобы каждый из вас подумал об этом до следующего занятия:",
+    "zh": "我想让你们每个人在下次上课前都思考一下：",
+    "ko": "다음 수업 전까지 각자 이 질문에 대해 고민해 봤으면 합니다.",
+    "ja": "「次の授業までに、それぞれ考えてみてほしいことがあります」",
+    "romaji": "\"Tsugi no jugyō made ni, sorezore kangaete mite hoshii koto ga arimasu\""
+  },
+  "s7.l389": {
+    "en": "What did you come here to find?",
+    "ru": "Что вы пришли сюда найти?",
+    "zh": "你们来这里是为了寻找什么？",
+    "ko": "여러분은 무엇을 찾으러 이곳에 왔나요?",
+    "ja": "「皆さんは、何を見つけにここへ来ましたか？」",
+    "romaji": "\"Minasan wa, nani o mitsuke ni koko e kimashita ka?\""
+  },
+  "s7.l390": {
+    "en": "And what did you actually find?",
+    "ru": "И что вы нашли на самом деле?",
+    "zh": "而你们实际上又找到了什么？",
+    "ko": "그리고 실제로 발견한 것은 무엇인가요?",
+    "ja": "「そして、実際に見つけたものは何でしたか？」",
+    "romaji": "\"Soshite, jissai ni mitsuketa mono wa nan deshita ka?\""
+  },
+  "s7.l391": {
+    "en": "She lets it land.",
+    "ru": "Она дает этим словам уложиться в голове.",
+    "zh": "她让这个问题在每个人心中激起涟漪。",
+    "ko": "그 질문이 모두의 마음에 닿을 때까지 잠시 기다리십니다.",
+    "ja": "先生はその問いを静かに教室に投げかけた。",
+    "romaji": "Sensei wa sono toi o shizuka ni kyōshitsu ni nagekaketa."
+  },
+  "s7.l392": {
+    "en": "Nobody answers.",
+    "ru": "Никто не отвечает.",
+    "zh": "没有人回答。",
+    "ko": "아무도 대답하지 않습니다.",
+    "ja": "誰も答えない。",
+    "romaji": "Dare mo kotaenai."
+  },
+  "s7.l393": {
+    "en": "That's the right answer, for now.",
+    "ru": "На данный момент это самый правильный ответ.",
+    "zh": "目前的沉默，就是最好的答案。",
+    "ko": "지금으로서는 그 정적이 정답이겠네요.",
+    "ja": "今のところは、それが正しい答えだった。",
+    "romaji": "Ima no tokoro wa, sore ga tadashii kotae datta."
+  },
+  "s7.l394": {
+    "en": "See you all next class.",
+    "ru": "Увидимся на следующем занятии.",
+    "zh": "下次课见。",
+    "ko": "그럼 다음 수업 시간에 봐요.",
+    "ja": "「では、また次の授業で」",
+    "romaji": "\"Dewa, mata tsugi no jugyō de\""
+  },
+  "s7.l395": {
+    "en": "Nobody leaves right away.",
+    "ru": "Никто не уходит сразу.",
+    "zh": "没人立刻离开。",
+    "ko": "아무도 바로 자리를 뜨지 않습니다.",
+    "ja": "すぐには誰も立ち上がらなかった。",
+    "romaji": "Sugu ni wa dare mo tachiagaranakatta."
+  },
+  "s7.l396": {
+    "en": "That's new. In the early weeks everyone was out the door in two minutes.",
+    "ru": "Это что-то новенькое. В первые недели все разбегались за пару минут.",
+    "zh": "真是难得。开课的前几周，大家两分钟内就全走光了。",
+    "ko": "새로운 풍경이네요. 학기 초만 해도 다들 수업 끝나기 무섭게 나가곤 했거든요.",
+    "ja": "最初の頃は、誰もが二分で教室を飛び出していたのに。",
+    "romaji": "Saisho no koro wa, daremo ga nifun de kyōshitsu o tobidashite ita no ni."
+  },
+  "s7.l397": {
+    "en": "Now you're all staying a little longer.",
+    "ru": "Теперь же вы все задерживаетесь.",
+    "zh": "而现在，大家都想多留一会儿。",
+    "ko": "그런데 이젠 다들 조금씩 더 머물다 가네요.",
+    "ja": "今では皆、少しでも長くその場に留まろうとしている。",
+    "romaji": "Ima dewa mina, sukoshi demo nagaku sono ba ni todomarō to shite iru."
+  },
+  "s7.l398": {
+    "en": "Should we do something before next class?",
+    "ru": "Может, сделаем что-нибудь до следующего занятия?",
+    "zh": "下次课之前，我们要不要聚一聚？",
+    "ko": "다음 수업 전에 우리 다 같이 뭐 좀 할까요?",
+    "ja": "「次の授業の前に、何かみんなでしない？」",
+    "romaji": "\"Tsugi no jugyō no mae ni, nanika minna de shinai?\""
+  },
+  "s7.l399": {
+    "en": "Like—all of us. Go somewhere.",
+    "ru": "Например — все вместе. Пойдем куда-нибудь.",
+    "zh": "就我们这些人。一起去个地方什么的。",
+    "ko": "우리 다 같이 어디 가는 거요.",
+    "ja": "「ほら――みんなでどこかに行ったりとか」",
+    "romaji": "\"Hora -- minna de dokoka ni ittari toka\""
+  },
+  "s7.l400": {
+    "en": "Dinner?",
+    "ru": "Поужинаем?",
+    "zh": "去吃晚饭？",
+    "ko": "저녁 식사 어때요?",
+    "ja": "「ご飯でも行く？」",
+    "romaji": "\"Gohan demo iku?\""
+  },
+  "s7.l401": {
+    "en": "I know a place.",
+    "ru": "Я знаю одно место.",
+    "zh": "我知道一个好地方。",
+    "ko": "제가 아는 곳이 하나 있어요.",
+    "ja": "「私、いいお店知ってる」",
+    "romaji": "\"Watashi, ii omise shitteru\""
+  },
+  "s7.l402": {
+    "en": "Everyone looks at her.",
+    "ru": "Все смотрят на неё.",
+    "zh": "大家都转头看向她。",
+    "ko": "모두의 시선이 그녀에게 향합니다.",
+    "ja": "全員が彼女を見る。",
+    "romaji": "Zen'in ga kanojo o miru."
+  },
+  "s7.l403": {
+    "en": "Yuki doesn't often volunteer places.",
+    "ru": "Юки нечасто что-то предлагает.",
+    "zh": "由纪通常不怎么主动提议去哪儿。",
+    "ko": "유키가 먼저 어딜 가자고 제안하는 일은 드문 일이니까요.",
+    "ja": "ユキが自分から店を提案することなど滅多になかった。",
+    "romaji": "Yuki ga jibun kara mise o teian suru koto nado metta ni nakatta."
+  },
+  "s7.l404": {
+    "en": "It's in Shimokitazawa.",
+    "ru": "Это в Симокитадзаве.",
+    "zh": "就在下北泽。",
+    "ko": "시모키타자와에 있는 곳이에요.",
+    "ja": "「下北沢にあるの」",
+    "romaji": "\"Shimokitazawa ni aru no\""
+  },
+  "s7.l405": {
+    "en": "I found it a few weeks ago. It's... good.",
+    "ru": "Я нашла его несколько недель назад. Оно... хорошее.",
+    "zh": "我几周前发现的。那儿……挺不错的。",
+    "ko": "몇 주 전에 가봤는데... 좋더라고요.",
+    "ja": "「数週間前に見つけたんだけど……すごく、いいよ」",
+    "romaji": "\"Sū-shūkan mae ni mitsuketa n dakedo... sugoku, ii yo\""
+  },
+  "s7.l406": {
+    "en": "It feels right here.",
+    "ru": "Здесь так, как надо.",
+    "zh": "感觉那里的氛围很对。",
+    "ko": "거기라면 괜찮을 거예요.",
+    "ja": "「居心地がいいんだ」",
+    "romaji": "\"Igokochi ga ii n da\""
+  },
+  "s7.l407": {
+    "en": "It feels right.",
+    "ru": "Оно ощущается правильным.",
+    "zh": "感觉很对。",
+    "ko": "딱 좋을 거예요.",
+    "ja": "「居心地がいいの」",
+    "romaji": "\"Igokochi ga ii no\""
+  },
+  "s7.l408": {
+    "en": "That's the word.",
+    "ru": "Именно так.",
+    "zh": "没错，就是那种感觉。",
+    "ko": "정말 그 말대로네요.",
+    "ja": "「まさにその言葉通り」",
+    "romaji": "\"Masa ni sono kotobadōri\""
+  },
+  "s7.l409": {
+    "en": "Saturday?",
+    "ru": "В субботу?",
+    "zh": "周六吗？",
+    "ko": "토요일에 볼까요?",
+    "ja": "「土曜日にする？」",
+    "romaji": "\"Doyōbi ni suru?\""
+  },
+  "s7.l410": {
+    "en": "You all agree on Saturday.",
+    "ru": "Вы все договариваетесь на субботу.",
+    "zh": "大家都定在了周六。",
+    "ko": "모두 토요일에 만나기로 약속합니다.",
+    "ja": "全員が土曜日に集まることで合意した。",
+    "romaji": "Zen'in ga doyōbi ni atsumaru koto de gōi shita."
+  },
+  "s7.l411": {
+    "en": "It's the first time you've planned something together outside of class.",
+    "ru": "Это первый раз, когда вы планируете что-то вместе вне занятий.",
+    "zh": "这是你们第一次在课外共同筹划活动。",
+    "ko": "수업 시간 외에 무언가를 함께 계획한 건 이번이 처음이었습니다.",
+    "ja": "授業の外で、みんなで一緒に何かを計画するのはこれが初めてだった。",
+    "romaji": "Jugyō no soto de, minna de issho ni nanika o keikaku suru no wa kore ga hajimete datta."
+  },
+  "s7.l412": {
+    "en": "That's also new.",
+    "ru": "Это тоже в новинку.",
+    "zh": "这种感觉也是全新的。",
+    "ko": "색다른 기분이 드네요.",
+    "ja": "それもまた、新しい変化だ。",
+    "romaji": "Sore mo mata, atarashii henka da."
+  },
+  "s7.l413": {
+    "en": "Everything this late in a story is.",
+    "ru": "Как и всё на этом этапе истории.",
+    "zh": "到了故事的这个阶段，一切似乎都是崭新的。",
+    "ko": "이야기의 끝자락에선 모든 게 그렇게 느껴지기 마련이죠.",
+    "ja": "物語のこの段階に至って、目にするものすべてがそうであるように。",
+    "romaji": "Monogatari no kono dankai ni itatte, me ni suru mono subete ga sō de aru yō ni."
+  },
+  "s7.l414": {
+    "en": "You linger in the doorway.",
+    "ru": "Вы медлите в дверном проеме.",
+    "zh": "你在门口徘徊了一会儿。",
+    "ko": "당신은 문가에서 잠시 머뭇거립니다.",
+    "ja": "出入り口のところで少し立ち止まる。",
+    "romaji": "Deiriguchi no tokoro de sukoshi tachidomaru."
+  },
+  "s7.l415": {
+    "en": "The string of lights on the bookshelf is still on.",
+    "ru": "Гирлянда на книжной полке всё еще горит.",
+    "zh": "书架上的那一串小彩灯依然亮着。",
+    "ko": "책장에 걸린 전구 장식은 여전히 반짝이고 있습니다.",
+    "ja": "本棚のイルミネーションライトは、まだ静かに瞬いている。",
+    "romaji": "Hondana no iruminēshon raito wa, mada shizuka ni matataite iru."
+  },
+  "s7.l416": {
+    "en": "The classroom looks warmer than it did on your first day.",
+    "ru": "Класс кажется теплее, чем в ваш первый день.",
+    "zh": "教室看起来比你第一天来时要温馨得多。",
+    "ko": "교실이 첫날보다 훨씬 따뜻해진 것 같습니다.",
+    "ja": "教室は、初日の頃よりもずっと温かく見えた。",
+    "romaji": "Kyōshitsu wa, shonichi no koro yori mo zutto atatakaku mieta."
+  },
+  "s7.l417": {
+    "en": "Or maybe you do.",
+    "ru": "Или, может быть, это вы стали теплее.",
+    "zh": "也许，是你自己变了。",
+    "ko": "어쩌면, 당신의 마음이 그렇게 느끼고 있는 걸지도 모르죠.",
+    "ja": "あるいは、自分自身が温かくなったからなのかもしれない。",
+    "romaji": "Aruiwa, jibun jishin ga atatakaku natta kara na no kamoshirenai."
+  },
+  "s7.l418": {
+    "en": "These stories continue next class.",
+    "ru": "Эти истории продолжатся на следующем занятии.",
+    "zh": "这些故事将在下次课堂上继续。",
+    "ko": "이 이야기들은 다음 수업 시간에도 이어집니다.",
+    "ja": "物語は、次の授業でも続いていく。",
+    "romaji": "Monogatari wa, tsugi no jugyō demo tsudzuite iku."
+  },
+  "s7.l419": {
+    "en": "And so do yours.",
+    "ru": "Как и ваша собственная история.",
+    "zh": "正如你们的故事一样。",
+    "ko": "그리고 당신의 이야기도요.",
+    "ja": "そして、あなた自身の物語も。",
+    "romaji": "Soshite, anata jishin no monogatari mo."
+  },
+  "s7.l420": {
+    "en": "End of Story 7: The Return",
+    "ru": "Конец Истории 7: Возвращение",
+    "zh": "第七章结束：重逢",
+    "ko": "에피소드 7 종료: 귀환",
+    "ja": "第7話 完：帰郷",
+    "romaji": "Dai-nana-wa Kan: Kikyō"
+  }
+}

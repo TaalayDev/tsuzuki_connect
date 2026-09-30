@@ -1,0 +1,576 @@
+{
+  "vl5.title": {
+    "en": "Grandpa's Garden",
+    "ru": "Сад дедушки",
+    "zh": "爷爷的院子",
+    "ja": "おじいちゃんの庭",
+    "romaji": "Ojiichan no niwa"
+  },
+  "vl5.subtitle": {
+    "en": "A day of flowers, vegetables, and helping each other",
+    "ru": "День цветов, овощей и взаимной помощи",
+    "zh": "有花、有蔬菜、大家互相帮忙的一天",
+    "ja": "花と野菜と、みんなで手伝う一日",
+    "romaji": "Hana to yasai to, minna de tetsudau ichinichi"
+  },
+  "vl5.description": {
+    "en": "At Ken's grandparents' home, practice ten words about nature and food while helping with gardening and cooking.",
+    "ru": "В доме бабушки и дедушки Кена потренируйте десять слов о природе и еде, помогая с садом и готовкой.",
+    "zh": "在健的爷爷奶奶家，一边帮忙园艺和做饭，一边练习十个关于自然和食物的词。",
+    "ja": "ケンの祖父母の家で、庭仕事と料理を手伝いながら、自然と食べものに関する十の言葉を練習します。",
+    "romaji": "Ken no sofubo no ie de, niwashigoto to ryouri o tetsudainagara, shizen to tabemono ni kansuru juu no kotoba o renshuu shimasu."
+  },
+  "vl5.setup": {
+    "en": "On the weekend, everyone gathers in the garden at Ken's home. His grandpa waves happily.",
+    "ru": "В выходные все собираются в саду у Кена. Дедушка радостно машет рукой.",
+    "zh": "周末，大家聚集在健家的院子里。爷爷高兴地挥着手。",
+    "ja": "週末、ケンの家の庭に、みんなが集まった。おじいちゃんが、うれしそうに手をふっている。",
+    "romaji": "Shuumatsu, Ken no ie no niwa ni, minna ga atsumatta. Ojiichan ga, ureshisou ni te o futte iru."
+  },
+  "vl5.g_welcome": {
+    "en": "Welcome. This is our garden. Please take your time and look around.",
+    "ru": "Добро пожаловать. Это наш сад. Не спеша осмотритесь.",
+    "zh": "欢迎欢迎。这里就是我们家的院子。请慢慢看。",
+    "ja": "よく来ましたね。ここが、うちの庭です。ゆっくり見てください。",
+    "romaji": "Yoku kimashita ne. Koko ga, uchi no niwa desu. Yukkuri mite kudasai."
+  },
+  "vl5.t_intro": {
+    "en": "Today's theme is the garden and cooking. Let's practice words about nature and food while we move around.",
+    "ru": "Тема сегодня — сад и готовка. Давайте потренируем слова о природе и еде в движении.",
+    "zh": "今天的主题是院子和做饭。我们一边活动身体，一边练习关于自然和食物的词。",
+    "ja": "今日のテーマは、庭と料理です。自然と食べものの言葉を、体を動かしながら、練習しましょう。",
+    "romaji": "Kyou no teema wa, niwa to ryouri desu. Shizen to tabemono no kotoba o, karada o ugokashinagara, renshuu shimashou."
+  },
+  "vl5.w1": {
+    "en": "First: “niwa,” the garden. It is the place around a house with trees and flowers.",
+    "ru": "Первое: «нива» — сад. Это место вокруг дома, где растут деревья и цветы.",
+    "zh": "首先是「庭」。是房子周围有树木和花的地方。",
+    "ja": "まず、「庭」。家のまわりにある、木や花がある場所です。",
+    "romaji": "Mazu, 'niwa'. Ie no mawari ni aru, ki ya hana ga aru basho desu."
+  },
+  "vl5.w1_q": {
+    "en": "Is a “niwa” different from a “kouen,” a park?",
+    "ru": "«Нива» и «коэн», парк, — это разные вещи?",
+    "zh": "「庭」和「公園」有什么不同吗？",
+    "ja": "「庭」と「公園」は、ちがいますか？",
+    "romaji": "'Niwa' to 'kouen' wa, chigaimasu ka?"
+  },
+  "vl5.w1_a": {
+    "en": "Yes. A “niwa” belongs to the people of that house. A “kouen” belongs to everyone.",
+    "ru": "Да. «Нива» принадлежит жильцам дома. «Коэн» — общий для всех.",
+    "zh": "是的。「庭」属于那户人家。「公園」是大家共有的。",
+    "ja": "はい。「庭」は、その家の人のものです。「公園」は、みんなのものです。",
+    "romaji": "Hai. 'Niwa' wa, sono ie no hito no mono desu. 'Kouen' wa, minna no mono desu."
+  },
+  "vl5.w2": {
+    "en": "A garden has many kinds of “hana,” flowers. Flowers “saku,” bloom, in spring, so the garden becomes bright.",
+    "ru": "В саду растут разные «хана» — цветы. Весной цветы «саку» — распускаются, и сад становится ярким.",
+    "zh": "院子里有各种各样的「花」。花在春天「咲く」，让院子变得明亮。",
+    "ja": "庭には、いろいろな「花」があります。花は、春になると「咲く」ので、庭が明るくなります。",
+    "romaji": "Niwa ni wa, iroiro na 'hana' ga arimasu. Hana wa, haru ni naru to 'saku' node, niwa ga akaruku narimasu."
+  },
+  "vl5.w2_q": {
+    "en": "Is “saku” used only for flowers?",
+    "ru": "«Саку» используют только для цветов?",
+    "zh": "「咲く」只用于花吗？",
+    "ja": "「咲く」は、花だけに使いますか？",
+    "romaji": "'Saku' wa, hana dake ni tsukaimasu ka?"
+  },
+  "vl5.w2_a": {
+    "en": "Mostly, yes. It is often used in the form “hana ga saku.” Flowers of trees and of grass both “saku.”",
+    "ru": "В основном да. Чаще всего говорят «хана га саку». И цветы деревьев, и цветы трав «саку».",
+    "zh": "大致是这样。常用「花が咲く」的形式。树上的花、草上的花，都用「咲く」。",
+    "ja": "だいたい、そうです。「花が咲く」の形で、よく使います。木の花も、草の花も、「咲く」です。",
+    "romaji": "Daitai, sou desu. 'Hana ga saku' no katachi de, yoku tsukaimasu. Ki no hana mo, kusa no hana mo, 'saku' desu."
+  },
+  "vl5.g_hana": {
+    "en": "This red flower bloomed last week. It's very pretty, isn't it?",
+    "ru": "Этот красный цветок распустился на прошлой неделе. Правда, очень красивый?",
+    "zh": "这朵红花上周开了。很漂亮吧。",
+    "ja": "この赤い花は、先週、咲きましたよ。とてもきれいでしょう。",
+    "romaji": "Kono akai hana wa, senshuu, sakimashita yo. Totemo kirei deshou."
+  },
+  "vl5.w3": {
+    "en": "This is “kirei.” You say it when you see flowers or scenery and feel that it is beautiful.",
+    "ru": "Это «кирэй». Так говорят, когда смотрят на цветы или пейзаж и находят их красивыми.",
+    "zh": "这就是「きれい」。看到花或风景觉得美丽时说。",
+    "ja": "これが「きれい」です。花や景色を見て、美しいと感じたときに言います。",
+    "romaji": "Kore ga 'kirei' desu. Hana ya keshiki o mite, utsukushii to kanjita toki ni iimasu."
+  },
+  "vl5.w3_q": {
+    "en": "Can “kirei” be used for people too?",
+    "ru": "«Кирэй» можно говорить и о людях?",
+    "zh": "「きれい」可以用在人身上吗？",
+    "ja": "「きれい」は、人にも使えますか？",
+    "romaji": "'Kirei' wa, hito ni mo tsukaemasu ka?"
+  },
+  "vl5.w3_a": {
+    "en": "Yes. You can use it for people and for rooms too. If a room is “kirei,” it means it has been cleaned.",
+    "ru": "Да. Можно говорить о людях и о комнатах. Если комната «кирэй», значит, она убрана.",
+    "zh": "可以。对人也可以，对房间也可以。房间「きれい」，就是打扫干净了的意思。",
+    "ja": "はい。人にも、部屋にも使います。へやが「きれい」なら、そうじしてあるという意味です。",
+    "romaji": "Hai. Hito ni mo, heya ni mo tsukaimasu. Heya ga 'kirei' nara, souji shite aru to iu imi desu."
+  },
+  "vl5.p1_prompt": {
+    "en": "Now let's practice. Grandpa asks, “How do you like this flower?” What do you say?",
+    "ru": "Теперь практика. Дедушка спрашивает: «Как вам этот цветок?» Что вы скажете?",
+    "zh": "现在来练习。爷爷问：“这朵花怎么样？”你会怎么说？",
+    "ja": "では、練習です。おじいちゃんが、「この花は、どうですか？」と聞きました。何と言いますか？",
+    "romaji": "Dewa, renshuu desu. Ojiichan ga, 'Kono hana wa, dou desu ka?' to kikimashita. Nan to iimasu ka?"
+  },
+  "vl5.c1_natural": {
+    "en": "“It's pretty!”",
+    "ru": "«Красиво!»",
+    "zh": "“真漂亮！”",
+    "ja": "「きれいですね！」",
+    "romaji": "'Kirei desu ne!'"
+  },
+  "vl5.c1_formal": {
+    "en": "“It is truly splendid, a most beautiful flower.”",
+    "ru": "«Поистине великолепный, чрезвычайно прекрасный цветок».",
+    "zh": "“真是太出色了，是一朵非常美丽的花。”",
+    "ja": "「実に見事で、たいへん美しい花でございます。」",
+    "romaji": "'Jitsu ni migoto de, taihen utsukushii hana de gozaimasu.'"
+  },
+  "vl5.c1_mistake": {
+    "en": "“It's not very pretty, is it.”",
+    "ru": "«Не очень-то красиво».",
+    "zh": "“不怎么漂亮呢。”",
+    "ja": "「あまり、きれいじゃないですね。」",
+    "romaji": "'Amari, kirei ja nai desu ne.'"
+  },
+  "vl5.c1_own": {
+    "en": "“The flowers bloomed, and the garden has become pretty.”",
+    "ru": "«Цветы распустились, и сад стал красивым».",
+    "zh": "“花开了，院子变漂亮了呢。”",
+    "ja": "「花が咲いて、庭がきれいになりましたね。」",
+    "romaji": "'Hana ga saite, niwa ga kirei ni narimashita ne.'"
+  },
+  "vl5.c1_min": {
+    "en": "“Ah... pretty...”",
+    "ru": "«А… красиво…»",
+    "zh": "“啊……漂亮……”",
+    "ja": "「あ…きれい…」",
+    "romaji": "'A... kirei...'"
+  },
+  "vl5.p1_nat_grandpa": {
+    "en": "Thank you. I'm glad to hear you say that.",
+    "ru": "Спасибо. Мне приятно это слышать.",
+    "zh": "谢谢。听你这么说，我很高兴。",
+    "ja": "ありがとう。そう言ってもらえて、うれしいです。",
+    "romaji": "Arigatou. Sou itte moraete, ureshii desu."
+  },
+  "vl5.p1_form_grandpa": {
+    "en": "Ha ha ha. Thank you. But “kirei desu ne” would make me just as happy.",
+    "ru": "Ха-ха-ха. Спасибо. Но мне будет так же приятно от «кирэй дэс нэ».",
+    "zh": "哈哈哈。谢谢。不过你说「きれいですね」我就很高兴了。",
+    "ja": "はっはっは。ありがとう。でも、「きれいですね」で、うれしいですよ。",
+    "romaji": "Ha ha ha. Arigatou. Demo, 'kirei desu ne' de, ureshii desu yo."
+  },
+  "vl5.p1_mis_ken": {
+    "en": "Oh, my grandpa raised this flower all by himself. He would be pleased if you said “kirei desu ne.”",
+    "ru": "Ой, этот цветок дедушка вырастил сам. Ему будет приятно услышать «кирэй дэс нэ».",
+    "zh": "啊，这朵花是爷爷一个人养大的。你说「きれいですね」，他会很高兴。",
+    "ja": "あっ、おじいちゃんが、一人で育てた花です。「きれいですね」と言うと、喜びますよ。",
+    "romaji": "A, ojiichan ga, hitori de sodateta hana desu. 'Kirei desu ne' to iu to, yorokobimasu yo."
+  },
+  "vl5.p1_mis_retry": {
+    "en": "Oh, excuse me. It's really pretty!",
+    "ru": "Ой, простите. Очень красиво!",
+    "zh": "啊，不好意思。真的很漂亮！",
+    "ja": "あっ、すみません。とても、きれいですね！",
+    "romaji": "A, sumimasen. Totemo, kirei desu ne!"
+  },
+  "vl5.p1_mis_relief": {
+    "en": "Ha ha ha, thank you. The flower is happy too.",
+    "ru": "Ха-ха-ха, спасибо. Цветок тоже рад.",
+    "zh": "哈哈哈，谢谢。花儿也很开心呢。",
+    "ja": "はっはっは、ありがとう。花も、喜んでいますよ。",
+    "romaji": "Ha ha ha, arigatou. Hana mo, yorokonde imasu yo."
+  },
+  "vl5.p1_own_grandpa": {
+    "en": "You look carefully. When the flowers bloom, the garden looks completely different.",
+    "ru": "Вы внимательны. Когда цветы распускаются, сад совершенно преображается.",
+    "zh": "你观察得真仔细。花一开，院子看起来就完全不同了。",
+    "ja": "よく見ていますね。花が咲くと、庭が、ぜんぜんちがいます。",
+    "romaji": "Yoku mite imasu ne. Hana ga saku to, niwa ga, zenzen chigaimasu."
+  },
+  "vl5.p1_min_mei": {
+    "en": "Ha, your feeling comes across. Next time, try a full sentence: “Kirei desu ne.”",
+    "ru": "Ха-ха, ваше чувство понятно. В следующий раз скажите целую фразу: «Кирэй дэс нэ».",
+    "zh": "呵呵，你的心意能传达。下次试着说完整的句子：「きれいですね」。",
+    "ja": "ふふ、気持ちは伝わりますよ。次は、「きれいですね」と、文で言ってみましょう。",
+    "romaji": "Fufu, kimochi wa tsutawarimasu yo. Tsugi wa, 'kirei desu ne' to, bun de itte mimashou."
+  },
+  "vl5.g_plant": {
+    "en": "Today, let's all plant a new flower together.",
+    "ru": "Сегодня давайте все вместе посадим новый цветок.",
+    "zh": "今天我们大家一起种一株新花吧。",
+    "ja": "今日は、新しい花を、みんなで植えましょう。",
+    "romaji": "Kyou wa, atarashii hana o, minna de uemashou."
+  },
+  "vl5.w4": {
+    "en": "“Ueru” means to put flowers or trees into the soil. You use it like “hana o ueru.”",
+    "ru": "«Уэру» — это сажать цветы или деревья в землю. Говорят, например, «хана о уэру».",
+    "zh": "「植える」是把花或树放进土里。用法如「花を植える」。",
+    "ja": "「植える」は、花や木を、土に入れることです。「花を植える」のように使います。",
+    "romaji": "'Ueru' wa, hana ya ki o, tsuchi ni ireru koto desu. 'Hana o ueru' no you ni tsukaimasu."
+  },
+  "vl5.g_water": {
+    "en": "After planting, please give it water. Water is a flower's food.",
+    "ru": "После посадки полейте, пожалуйста. Вода — еда для цветов.",
+    "zh": "种好之后，请给它浇水。水就是花的食物。",
+    "ja": "植えたら、水をあげてください。水は、花のごはんです。",
+    "romaji": "Uetara, mizu o agete kudasai. Mizu wa, hana no gohan desu."
+  },
+  "vl5.w5": {
+    "en": "This is “mizu,” water. When you water a flower, you say “mizu o ageru.”",
+    "ru": "Это «мидзу» — вода. Когда поливаете цветок, говорят «мидзу о агэру».",
+    "zh": "这就是「水」。给花浇水时，说「水をあげる」。",
+    "ja": "これが「水」です。花に水をあげるときは、「水をあげる」と言います。",
+    "romaji": "Kore ga 'mizu' desu. Hana ni mizu o ageru toki wa, 'mizu o ageru' to iimasu."
+  },
+  "vl5.w5_q": {
+    "en": "“Ageru” means “give,” right? “Mizu o ageru” sounds curious.",
+    "ru": "«Агэру» означает «давать», верно? Фраза «мидзу о агэру» звучит необычно.",
+    "zh": "「あげる」是“给”的意思吧？「水をあげる」听起来挺有意思。",
+    "ja": "「あげる」は、「give」の意味ですよね。「水をあげる」は、ふしぎです。",
+    "romaji": "'Ageru' wa, 'give' no imi desu yo ne. 'Mizu o ageru' wa, fushigi desu."
+  },
+  "vl5.w5_a": {
+    "en": "Right. You “ageru” water or food to flowers and animals. It is a gentle way of saying it.",
+    "ru": "Верно. Цветам и животным «агэру» воду или еду. Это ласковая манера говорить.",
+    "zh": "是的。对花和动物，说给它们水和食物用「あげる」。这是一种温柔的说法。",
+    "ja": "そうですね。花や動物に、水やごはんを「あげる」と言います。気持ちがやさしい言い方です。",
+    "romaji": "Sou desu ne. Hana ya doubutsu ni, mizu ya gohan o 'ageru' to iimasu. Kimochi ga yasashii iikata desu."
+  },
+  "vl5.planted": {
+    "en": "Everyone plants the flower and waters it. Then Grandpa starts to carry a heavy flower pot.",
+    "ru": "Все посадили цветок и полили его. Тут дедушка начинает нести тяжёлый цветочный горшок.",
+    "zh": "大家一起种下花，又给它浇了水。这时，爷爷开始搬一个很重的花盆。",
+    "ja": "みんなで花を植えて、水をあげた。そのとき、おじいちゃんが、重い植木ばちを運びはじめた。",
+    "romaji": "Minna de hana o uete, mizu o ageta. Sono toki, ojiichan ga, omoi uekibachi o hakobihajimeta."
+  },
+  "vl5.w6": {
+    "en": "At a time like this, we use “tetsudau.” It means to join in and do someone's work with them.",
+    "ru": "В такие моменты используют «тэцудау». Это значит вместе с кем-то выполнять его работу.",
+    "zh": "这种时候，就用「手伝う」。是和别人一起做他的事情的意思。",
+    "ja": "こんなとき、「手伝う」です。人の仕事を、いっしょにすることです。",
+    "romaji": "Konna toki, 'tetsudau' desu. Hito no shigoto o, issho ni suru koto desu."
+  },
+  "vl5.w6_q": {
+    "en": "Are “tetsudaimashou ka?” and “tetsudatte kudasai” different?",
+    "ru": "«Тэцудаимасё ка?» и «тэцудатэ кудасай» отличаются?",
+    "zh": "「手伝いましょうか？」和「手伝ってください」有区别吗？",
+    "ja": "「手伝いましょうか？」と、「手伝ってください」は、ちがいますか？",
+    "romaji": "'Tetsudaimashou ka?' to, 'tetsudatte kudasai' wa, chigaimasu ka?"
+  },
+  "vl5.w6_a": {
+    "en": "Yes. You say “tetsudaimashou ka?” when you want to help. You say “tetsudatte kudasai” when you want to be helped.",
+    "ru": "Да. «Тэцудаимасё ка?» говорят, когда хотят помочь. «Тэцудатэ кудасай» — когда хотят, чтобы помогли вам.",
+    "zh": "是的。想帮助别人时说「手伝いましょうか？」。希望别人帮自己时说「手伝ってください」。",
+    "ja": "はい。「手伝いましょうか？」は、自分が助けたいときに言います。「手伝ってください」は、自分が助けてほしいときに言います。",
+    "romaji": "Hai. 'Tetsudaimashou ka?' wa, jibun ga tasuketai toki ni iimasu. 'Tetsudatte kudasai' wa, jibun ga tasukete hoshii toki ni iimasu."
+  },
+  "vl5.p2_prompt": {
+    "en": "Now, Grandpa is holding a heavy flower pot, and you want to help. What do you say?",
+    "ru": "Теперь дедушка держит тяжёлый горшок, и вы хотите помочь. Что вы скажете?",
+    "zh": "现在，爷爷正拿着一个很重的花盆，你想帮忙。你会怎么说？",
+    "ja": "では、おじいちゃんが、重い植木ばちを持っています。あなたは、助けたいです。何と言いますか？",
+    "romaji": "Dewa, ojiichan ga, omoi uekibachi o motte imasu. Anata wa, tasuketai desu. Nan to iimasu ka?"
+  },
+  "vl5.c2_natural": {
+    "en": "“Shall I help?”",
+    "ru": "«Помочь вам?»",
+    "zh": "“我来帮忙好吗？”",
+    "ja": "「手伝いましょうか？」",
+    "romaji": "'Tetsudaimashou ka?'"
+  },
+  "vl5.c2_formal": {
+    "en": "“Pardon me, but would it be acceptable for me to be allowed to help?”",
+    "ru": "«Прошу прощения, но не позволите ли вы мне оказать вам помощь?»",
+    "zh": "“打扰了，不知我是否可以帮您一下？”",
+    "ja": "「おそれいりますが、お手伝いさせていただいてもよろしいでしょうか。」",
+    "romaji": "'Osoreirimasu ga, otetsudai sasete itadaite mo yoroshii deshou ka.'"
+  },
+  "vl5.c2_mistake": {
+    "en": "“Please help me!”",
+    "ru": "«Помогите мне, пожалуйста!»",
+    "zh": "“请帮我！”",
+    "ja": "「手伝ってください！」",
+    "romaji": "'Tetsudatte kudasai!'"
+  },
+  "vl5.c2_own": {
+    "en": "“Shall I help you carry that flower to the garden?”",
+    "ru": "«Помочь вам отнести этот цветок в сад?»",
+    "zh": "“我来帮您把那盆花搬到院子里好吗？”",
+    "ja": "「その花を、庭に運ぶのを、手伝いましょうか？」",
+    "romaji": "'Sono hana o, niwa ni hakobu no o, tetsudaimashou ka?'"
+  },
+  "vl5.c2_min": {
+    "en": "“Ah... help...?”",
+    "ru": "«А… помочь…?»",
+    "zh": "“啊……帮忙……？”",
+    "ja": "「あ…手伝う…？」",
+    "romaji": "'A... tetsudau...?'"
+  },
+  "vl5.p2_nat_grandpa": {
+    "en": "Thank you. Then please hold that side.",
+    "ru": "Спасибо. Тогда держите с той стороны.",
+    "zh": "谢谢。那你扶着那一头吧。",
+    "ja": "ありがとう。では、そっちを持ってください。",
+    "romaji": "Arigatou. Dewa, socchi o motte kudasai."
+  },
+  "vl5.p2_form_ken": {
+    "en": "Haha, Grandpa froze a bit. “Tetsudaimashou ka?” is fine.",
+    "ru": "Ха-ха, дедушка слегка замер. Достаточно «тэцудаимасё ка?».",
+    "zh": "哈哈，爷爷都愣住了。说「手伝いましょうか？」就可以了。",
+    "ja": "あはは、おじいちゃんが、ちょっと固まっていますよ。「手伝いましょうか？」で、大丈夫です。",
+    "romaji": "Ahaha, ojiichan ga, chotto katamatte imasu yo. 'Tetsudaimashou ka?' de, daijoubu desu."
+  },
+  "vl5.p2_mis_mei": {
+    "en": "Ha, “tetsudatte kudasai” is when you want to be helped. Right now, it's Grandpa who is carrying the heavy thing.",
+    "ru": "Ха-ха, «тэцудатэ кудасай» говорят, когда помощь нужна вам. А сейчас тяжёлое несёт дедушка.",
+    "zh": "呵呵，「手伝ってください」是你想请别人帮忙时说的。现在是爷爷拿着重东西哦。",
+    "ja": "ふふ、「手伝ってください」は、あなたが助けてほしいときですよ。今は、おじいちゃんが重い物を持っています。",
+    "romaji": "Fufu, 'tetsudatte kudasai' wa, anata ga tasukete hoshii toki desu yo. Ima wa, ojiichan ga omoi mono o motte imasu."
+  },
+  "vl5.p2_mis_retry": {
+    "en": "Oh, shall I help?",
+    "ru": "Ой, помочь вам?",
+    "zh": "啊，我来帮忙好吗？",
+    "ja": "あっ、手伝いましょうか？",
+    "romaji": "A, tetsudaimashou ka?"
+  },
+  "vl5.p2_mis_relief": {
+    "en": "Ha ha ha, thank you. That helps.",
+    "ru": "Ха-ха-ха, спасибо. Выручаете.",
+    "zh": "哈哈哈，谢谢。帮大忙了。",
+    "ja": "はっはっは、ありがとう。助かります。",
+    "romaji": "Ha ha ha, arigatou. Tasukarimasu."
+  },
+  "vl5.p2_own_grandpa": {
+    "en": "Thank you. Then let's carry it together. One, two, three!",
+    "ru": "Спасибо. Тогда понесём вместе. Раз, два, три!",
+    "zh": "谢谢。那我们一起搬吧。一、二、三！",
+    "ja": "ありがとう。じゃあ、いっしょに持ちましょう。せーの！",
+    "romaji": "Arigatou. Jaa, issho ni mochimashou. Seeno!"
+  },
+  "vl5.p2_min_yuki": {
+    "en": "It gets across fine. But saying “tetsudaimashou ka?” sounds more natural.",
+    "ru": "Поймут. Но «тэцудаимасё ка?» звучит естественнее.",
+    "zh": "能听懂。不过说「手伝いましょうか？」会更自然。",
+    "ja": "ちゃんと伝わりますよ。でも、「手伝いましょうか？」と言うと、もっと自然です。",
+    "romaji": "Chanto tsutawarimasu yo. Demo, 'tetsudaimashou ka?' to iu to, motto shizen desu."
+  },
+  "vl5.kitchen": {
+    "en": "Evening. Everyone goes into the kitchen. Grandma is arranging vegetables picked from the garden on the table.",
+    "ru": "Вечер. Все заходят на кухню. Бабушка раскладывает на столе овощи, собранные в саду.",
+    "zh": "傍晚，大家走进厨房。奶奶把院子里摘来的蔬菜摆在桌上。",
+    "ja": "夕方。みんなは、台所に入った。おばあちゃんが、庭でとれた野菜を、テーブルにならべている。",
+    "romaji": "Yuugata. Minna wa, daidokoro ni haitta. Obaachan ga, niwa de toreta yasai o, teeburu ni narabete iru."
+  },
+  "vl5.gm_welcome": {
+    "en": "Welcome back. These are vegetables from the garden. They're fresh and delicious.",
+    "ru": "С возвращением. Это овощи из сада. Они свежие и вкусные.",
+    "zh": "欢迎回来。这是院子里的蔬菜。又新鲜又好吃哦。",
+    "ja": "おかえりなさい。庭の野菜です。新しくて、おいしいですよ。",
+    "romaji": "Okaerinasai. Niwa no yasai desu. Atarashikute, oishii desu yo."
+  },
+  "vl5.w7": {
+    "en": "These are “yasai,” vegetables. Tomatoes and cucumbers are all vegetables.",
+    "ru": "Это «ясай» — овощи. И помидоры, и огурцы — всё это овощи.",
+    "zh": "这就是「野菜」。番茄、黄瓜，都是蔬菜。",
+    "ja": "これが「野菜」です。トマトも、キュウリも、みんな野菜です。",
+    "romaji": "Kore ga 'yasai' desu. Tomato mo, kyuuri mo, minna yasai desu."
+  },
+  "vl5.w8": {
+    "en": "Today we will do “ryouri,” cooking, using the vegetables. “Ryouri” means both making food and the food that is made.",
+    "ru": "Сегодня мы будем «рёри» — готовить из этих овощей. «Рёри» означает и приготовление еды, и готовое блюдо.",
+    "zh": "今天我们用这些蔬菜做「料理」。「料理」既指做食物，也指做好的菜。",
+    "ja": "野菜を使って、今日は「料理」をします。「料理」は、食べものを作ることと、できた食べもののことです。",
+    "romaji": "Yasai o tsukatte, kyou wa 'ryouri' o shimasu. 'Ryouri' wa, tabemono o tsukuru koto to, dekita tabemono no koto desu."
+  },
+  "vl5.w8_q": {
+    "en": "Are both “ryouri o suru” and “ryouri o tsukuru” okay?",
+    "ru": "Можно ли сказать и «рёри о суру», и «рёри о цукуру»?",
+    "zh": "「料理をする」和「料理を作る」都可以吗？",
+    "ja": "「料理をする」と「料理を作る」は、どちらもいいですか？",
+    "romaji": "'Ryouri o suru' to 'ryouri o tsukuru' wa, dochira mo ii desu ka?"
+  },
+  "vl5.w9": {
+    "en": "Yes, both are fine. “Tsukuru,” to make, is used broadly, not only for cooking but whenever you create something new.",
+    "ru": "Да, оба варианта подходят. «Цукуру» — «делать» — используется широко, не только для готовки, но и для создания чего-то нового.",
+    "zh": "可以，两个都行。「作る」不只用于做菜，凡是创造出新东西时都可以广泛使用。",
+    "ja": "はい、どちらも大丈夫です。「作る」は、料理だけでなく、ものを新しく生み出すときに、広く使います。",
+    "romaji": "Hai, dochira mo daijoubu desu. 'Tsukuru' wa, ryouri dake de naku, mono o atarashiku umidasu toki ni, hiroku tsukaimasu."
+  },
+  "vl5.gm_ask": {
+    "en": "What shall we make today?",
+    "ru": "Что мы сегодня приготовим?",
+    "zh": "今天做什么好呢？",
+    "ja": "今日は、何を作りましょうか？",
+    "romaji": "Kyou wa, nani o tsukurimashou ka?"
+  },
+  "vl5.p3_prompt": {
+    "en": "Grandma is asking. You want to make vegetable soup. What do you say to her?",
+    "ru": "Бабушка спрашивает. Вы хотите приготовить овощной суп. Что вы ей скажете?",
+    "zh": "奶奶在问你。你想做蔬菜汤。你会对她说什么？",
+    "ja": "おばあちゃんが、聞いています。あなたは、野菜のスープを作りたいです。おばあちゃんに、何と言いますか？",
+    "romaji": "Obaachan ga, kiite imasu. Anata wa, yasai no suupu o tsukuritai desu. Obaachan ni, nan to iimasu ka?"
+  },
+  "vl5.c3_natural": {
+    "en": "“I want to make vegetable soup. Please help me.”",
+    "ru": "«Я хочу приготовить овощной суп. Помогите мне, пожалуйста».",
+    "zh": "“我想做蔬菜汤。请帮帮我。”",
+    "ja": "「野菜のスープを作りたいです。手伝ってください。」",
+    "romaji": "'Yasai no suupu o tsukuritai desu. Tetsudatte kudasai.'"
+  },
+  "vl5.c3_formal": {
+    "en": "“Pardon me, but might you kindly make a vegetable soup?”",
+    "ru": "«Прошу прощения, не могли бы вы любезно приготовить овощной суп?»",
+    "zh": "“打扰了，不知您能否为我们做一份蔬菜汤？”",
+    "ja": "「恐れ入りますが、お野菜の汁物を、お作りいただけますでしょうか。」",
+    "romaji": "'Osoreirimasu ga, oyasai no shirumono o, otsukuri itadakemasu deshou ka.'"
+  },
+  "vl5.c3_mistake": {
+    "en": "“Make soup!”",
+    "ru": "«Приготовь суп!»",
+    "zh": "“做汤！”",
+    "ja": "「スープ、作って！」",
+    "romaji": "'Suupu, tsukutte!'"
+  },
+  "vl5.c3_own": {
+    "en": "“Please teach me your cooking, Grandma. I want to make it together.”",
+    "ru": "«Бабушка, научите меня своей готовке. Я хочу готовить вместе с вами».",
+    "zh": "“奶奶，请教我您的拿手菜。我想和您一起做。”",
+    "ja": "「おばあちゃんの料理を、教えてください。いっしょに作りたいです。」",
+    "romaji": "'Obaachan no ryouri o, oshiete kudasai. Issho ni tsukuritai desu.'"
+  },
+  "vl5.c3_min": {
+    "en": "“Ah... cooking...”",
+    "ru": "«А… готовка…»",
+    "zh": "“啊……做饭……”",
+    "ja": "「あ…料理…」",
+    "romaji": "'A... ryouri...'"
+  },
+  "vl5.p3_nat_grandma": {
+    "en": "Nice. Then let's cut the vegetables together.",
+    "ru": "Отлично. Тогда давайте вместе нарежем овощи.",
+    "zh": "好啊。那我们一起来切蔬菜吧。",
+    "ja": "いいですね。じゃあ、いっしょに野菜を切りましょう。",
+    "romaji": "Ii desu ne. Jaa, issho ni yasai o kirimashou."
+  },
+  "vl5.p3_form_grandma": {
+    "en": "Oh my, that sounds like a restaurant. Let's make it together.",
+    "ru": "Ой-ой, как в ресторане. Давайте приготовим вместе.",
+    "zh": "哎呀哎呀，像在餐厅一样呢。我们一起做吧。",
+    "ja": "あらあら、レストランみたいですね。いっしょに作りましょう。",
+    "romaji": "Ara ara, resutoran mitai desu ne. Issho ni tsukurimashou."
+  },
+  "vl5.p3_mis_ken": {
+    "en": "Haha, you could say that to me, but to Grandma it should be “tsukutte kudasai.”",
+    "ru": "Ха-ха, мне можно так сказать, но бабушке нужно «цукутэ кудасай».",
+    "zh": "哈哈，对我说可以，但对奶奶要说「作ってください」哦。",
+    "ja": "あはは、ぼくには言えても、おばあちゃんには、「作ってください」ですよ。",
+    "romaji": "Ahaha, boku ni wa iete mo, obaachan ni wa, 'tsukutte kudasai' desu yo."
+  },
+  "vl5.p3_mis_retry": {
+    "en": "Oh, Grandma, please make some soup.",
+    "ru": "Ой, бабушка, приготовьте, пожалуйста, суп.",
+    "zh": "啊，奶奶，请做汤吧。",
+    "ja": "あっ、おばあちゃん、スープを作ってください。",
+    "romaji": "A, obaachan, suupu o tsukutte kudasai."
+  },
+  "vl5.p3_mis_relief": {
+    "en": "All right. Then you help me too, please.",
+    "ru": "Хорошо-хорошо. Тогда и вы мне помогите.",
+    "zh": "好好。那你也要来帮忙哦。",
+    "ja": "はいはい。じゃあ、あなたも、手伝ってくださいね。",
+    "romaji": "Hai hai. Jaa, anata mo, tetsudatte kudasai ne."
+  },
+  "vl5.p3_own_grandma": {
+    "en": "What a lovely thing to say. Then I'll teach you my flavor.",
+    "ru": "Как приятно это слышать. Тогда я научу вас своему вкусу.",
+    "zh": "你说的话真让人高兴。那我就把我的味道教给你吧。",
+    "ja": "うれしいことを言ってくれますね。じゃあ、わたしの味を、教えましょう。",
+    "romaji": "Ureshii koto o itte kuremasu ne. Jaa, watashi no aji o, oshiemashou."
+  },
+  "vl5.p3_min_mei": {
+    "en": "Ha, it's okay. Next time, try saying “ryouri o tsukuritai desu.”",
+    "ru": "Ха-ха, ничего страшного. В следующий раз скажите «рёри о цукуритай дэс».",
+    "zh": "呵呵，没关系。下次试着说「料理を作りたいです」。",
+    "ja": "ふふ、大丈夫です。次は、「料理を作りたいです」と、言ってみましょう。",
+    "romaji": "Fufu, daijoubu desu. Tsugi wa, 'ryouri o tsukuritai desu' to, itte mimashou."
+  },
+  "vl5.dinner": {
+    "en": "The vegetable soup everyone made is ready. A warm feeling spreads around the table.",
+    "ru": "Овощной суп, который приготовили все вместе, готов. Вокруг стола разливается тёплая атмосфера.",
+    "zh": "大家一起做的蔬菜汤做好了。餐桌周围弥漫着温暖的气氛。",
+    "ja": "みんなで作った野菜のスープが、できあがった。テーブルのまわりに、あたたかい空気が広がる。",
+    "romaji": "Minna de tsukutta yasai no suupu ga, dekiagatta. Teeburu no mawari ni, atatakai kuuki ga hirogaru."
+  },
+  "vl5.talk_itadaki": {
+    "en": "Let's eat!",
+    "ru": "Приятного аппетита!",
+    "zh": "我开动了！",
+    "ja": "いただきます！",
+    "romaji": "Itadakimasu!"
+  },
+  "vl5.talk_open": {
+    "en": "Let's talk as we eat. Out of today's ten words, which one stayed with you the most?",
+    "ru": "Давайте поговорим за едой. Какое из сегодняшних десяти слов больше всего запомнилось?",
+    "zh": "边吃边聊吧。今天这十个词里，哪个词让你印象最深？",
+    "ja": "食べながら、話しましょう。今日の十の言葉の中で、いちばん心に残った言葉は、何ですか？",
+    "romaji": "Tabenagara, hanashimashou. Kyou no juu no kotoba no naka de, ichiban kokoro ni nokotta kotoba wa, nan desu ka?"
+  },
+  "vl5.talk_mei": {
+    "en": "For me, it's “saku.” I now want to watch flowers bloom every day.",
+    "ru": "Для меня это «саку». Мне захотелось каждый день смотреть, как распускаются цветы.",
+    "zh": "我是「咲く」。我想每天都看花开的样子。",
+    "ja": "わたしは、「咲く」です。花が咲くところを、毎日、見たくなりました。",
+    "romaji": "Watashi wa, 'saku' desu. Hana ga saku tokoro o, mainichi, mitaku narimashita."
+  },
+  "vl5.talk_ken": {
+    "en": "For me, it's “tetsudau.” I want to help my grandpa and grandma more.",
+    "ru": "Для меня это «тэцудау». Я хочу больше помогать дедушке и бабушке.",
+    "zh": "我是「手伝う」。我想多帮帮爷爷奶奶。",
+    "ja": "ぼくは、「手伝う」です。おじいちゃんとおばあちゃんを、もっと手伝いたいです。",
+    "romaji": "Boku wa, 'tetsudau' desu. Ojiichan to obaachan o, motto tetsudaitai desu."
+  },
+  "vl5.talk_yuki": {
+    "en": "For me, it's “tsukuru.” Food you make yourself tastes completely different.",
+    "ru": "Для меня это «цукуру». Еда, приготовленная своими руками, совсем иная на вкус.",
+    "zh": "我是「作る」。自己做的菜，味道完全不一样呢。",
+    "ja": "わたしは、「作る」です。自分で作った料理は、ぜんぜん味がちがいますね。",
+    "romaji": "Watashi wa, 'tsukuru' desu. Jibun de tsukutta ryouri wa, zenzen aji ga chigaimasu ne."
+  },
+  "vl5.talk_grandpa": {
+    "en": "Thank you, everyone. The garden and the kitchen are both lively, and I'm happy.",
+    "ru": "Спасибо всем. И в саду, и на кухне стало оживлённо, и мне радостно.",
+    "zh": "谢谢大家。院子里、厨房里都热热闹闹的，我很高兴。",
+    "ja": "みんな、ありがとう。庭も、台所も、にぎやかで、うれしいです。",
+    "romaji": "Minna, arigatou. Niwa mo, daidokoro mo, nigiyaka de, ureshii desu."
+  },
+  "vl5.talk_player": {
+    "en": "(Planting flowers, giving them water, cooking vegetables. The Japanese words became real in the garden and at the table. I'd like to come again.)",
+    "ru": "(Сажать цветы, поливать их, готовить овощи. Японские слова стали реальностью — в саду и за столом. Хочу прийти снова.)",
+    "zh": "（种花、浇水、做蔬菜料理。日语的词在院子里和餐桌上变成了真实的东西。我还想再来。）",
+    "ja": "（花を植えて、水をあげて、野菜を料理する。日本語の言葉が、庭とテーブルの上で、本当のことになった。また、来たいな。）",
+    "romaji": "(Hana o uete, mizu o agete, yasai o ryouri suru. Nihongo no kotoba ga, niwa to teeburu no ue de, hontou no koto ni natta. Mata, kitai na.)"
+  },
+  "vl5.talk_close": {
+    "en": "Good lesson, everyone. You used all ten words about nature and food in real situations.",
+    "ru": "Хороший урок, все. Вы использовали все десять слов о природе и еде в настоящих ситуациях.",
+    "zh": "各位，这节课很棒。你们在真实的场景中用上了这十个关于自然和食物的词。",
+    "ja": "みなさん、いいレッスンでした。自然と食べものの十の言葉を、本当の場面で使えましたね。",
+    "romaji": "Minasan, ii ressun deshita. Shizen to tabemono no juu no kotoba o, hontou no bamen de tsukaemashita ne."
+  },
+  "vl5.complete": {
+    "en": "End of Vocabulary Lesson 5.",
+    "ru": "Конец урока лексики 5.",
+    "zh": "词汇课 5 结束。",
+    "ja": "語彙レッスン5、おわり。",
+    "romaji": "Goi ressun go, owari."
+  }
+}

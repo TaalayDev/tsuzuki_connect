@@ -1,0 +1,2162 @@
+{
+  "s1.card_subtitle": {
+    "en": "The Exchange Partner",
+    "ru": "Партнер по языковому обмену",
+    "zh": "语言交换伙伴",
+    "ko": "언어 교환 파트너",
+    "ja": "言語交換パートナー",
+    "romaji": "Gengo koukan paatonaa"
+  },
+  "s1.card_title": {
+    "en": "STORY 1",
+    "ru": "ИСТОРИЯ 1",
+    "zh": "故事 1",
+    "ko": "이야기 1",
+    "ja": "ストーリー1",
+    "romaji": "Sutoorii 1"
+  },
+  "s1.debrief1.back": {
+    "en": "You're back in the classroom with your classmates.",
+    "ru": "Вы снова в классе со своими одноклассниками.",
+    "zh": "你回到了教室，和同学在一起。",
+    "ko": "반 친구들과 함께 교실로 돌아왔습니다.",
+    "ja": "あなたはクラスメイトのいる教室へと戻ってくる。",
+    "romaji": "Anata wa kurasumeito no iru kyoushitsu e to modotte kuru."
+  },
+  "s1.debrief1.fade": {
+    "en": "The screen fades to black, and the story ends.",
+    "ru": "Экран гаснет, и история заканчивается.",
+    "zh": "屏幕淡出，故事结束。",
+    "ko": "화면이 어두워지며 이야기가 끝납니다.",
+    "ja": "画面が暗転し、物語の幕が閉じる。",
+    "romaji": "Gamen ga anten shi, monogatari no maku ga tojiru."
+  },
+  "s1.debrief1.ken_edit": {
+    "en": "Because like... online you can edit yourself, you know?",
+    "ru": "Потому что... в интернете ты можешь редактировать себя, понимаешь?",
+    "zh": "因为……在网上你可以修饰自己，对吧？",
+    "ko": "왜냐면... 온라인에서는 자기를 편집할 수 있잖아요?",
+    "ja": "だって、オンラインならいくらでも自分を取り繕えるじゃん？",
+    "romaji": "Datte, onrain nara ikurademo jibun o toritsukuroeru jan?"
+  },
+  "s1.debrief1.ken_just_you": {
+    "en": "In person, you're just... you.",
+    "ru": "А в жизни ты просто... ты.",
+    "zh": "但现实中，你就是……你。",
+    "ko": "직접 만나면 그냥... 자기 자신이니까요.",
+    "ja": "でも直接会うと、もう……ありのままの自分しかないっていうか。",
+    "romaji": "Demo chokusetsu au to, mou... arinomama no jibun shika nai tte iu ka."
+  },
+  "s1.debrief1.ken_relate": {
+    "en": "Man, I totally related to that nervousness.",
+    "ru": "Блин, мне так знакома эта нервозность.",
+    "zh": "天呐，我也感同身受那种紧张感。",
+    "ko": "와, 저도 그 긴장감 정말 공감됐어요.",
+    "ja": "いやあ、あの緊張感、めっちゃ共感したわ。",
+    "romaji": "Iyaa, ano kinchoukan, meccha kyoukan shita wa."
+  },
+  "s1.debrief1.ken_terrifying": {
+    "en": "Meeting someone online in person is terrifying!",
+    "ru": "Личная встреча с кем-то из интернета — это ужасно страшно!",
+    "zh": "在线下见网友真的太可怕了！",
+    "ko": "온라인에서 알게 된 사람을 직접 만나는 건 정말 떨리는 일이죠!",
+    "ja": "ネットで知り合った人とリアルで会うのって、めちゃくちゃ怖くない？！",
+    "romaji": "Netto de shiriatta hito to riaru de au no tte, mechakucha kowaku nai?!"
+  },
+  "s1.debrief1.tanaka_ask": {
+    "en": "So... what did everyone think of that story?",
+    "ru": "Ну как... что вы думаете об этой истории?",
+    "zh": "那么……大家觉得这个故事怎么样？",
+    "ko": "자... 이 이야기에 대해 다들 어떻게 생각하나요?",
+    "ja": "さて……今の物語、皆さんはどう思いましたか？",
+    "romaji": "Sate... ima no monogatari, mina-san wa dou omoimashita ka?"
+  },
+  "s1.debrief1.tanaka_jibun": {
+    "en": "That's very insightful. 自分 (jibun)—ourselves—can feel different in different contexts.",
+    "ru": "Это очень проницательно. 自分 (дзибун) — мы сами — можем чувствовать себя по-разному в разных ситуациях.",
+    "zh": "很有见地。“自分”（jibun）——也就是我们自己——在不同的环境下会有不同的感受。",
+    "ko": "정말 예리하네요. '지분(自分)'—자기 자신—은 환경에 따라 다르게 느껴질 수 있죠.",
+    "ja": "とても深い気付きですね。「自分」というものは、状況によって違って感じられることがあります。",
+    "romaji": "Totemo fukai kidzuki desu ne. 「Jibun」 to iu mono wa, joukyou ni yotte chigatte kanjirareru koto ga arimasu."
+  },
+  "s1.debrief1.tanaka_look": {
+    "en": "Tanaka-sensei looks around the room with a warm smile.",
+    "ru": "Танака-сэнсэй оглядывает класс с теплой улыбкой.",
+    "zh": "田中老师带着温暖的微笑环视着教室。",
+    "ko": "다나카 선생님이 따뜻한 미소를 지으며 교실을 둘러봅니다.",
+    "ja": "田中先生は温かい笑みを浮かべ、教室を見渡す。",
+    "romaji": "Tanaka-sensei wa atatakai emi o ukabe, kyoushitsu o miwatasu."
+  },
+  "s1.debrief1.tanaka_why": {
+    "en": "Excellent observations! Ken-san, why do you think it's scary?",
+    "ru": "Отличные наблюдения! Кэн-сан, почему ты считаешь, что это страшно?",
+    "zh": "观察得非常好！健（Ken），为什么你觉得这很可怕呢？",
+    "ko": "훌륭한 관찰이에요! 켄 군, 왜 무섭다고 생각했나요?",
+    "ja": "素晴らしい着眼点ですね！ケンさん、どうして怖いと感じるんだと思いますか？",
+    "romaji": "Subarashii chakuganten desu ne! Ken-san, doushite kowai to kanjiru n da to omoimasu ka?"
+  },
+  "s1.debrief1.yuki_beautiful": {
+    "en": "I... I thought it was beautiful.",
+    "ru": "Мне... мне показалось, это было красиво.",
+    "zh": "我……我觉得故事很美。",
+    "ko": "저... 전 아름답다고 생각했어요.",
+    "ja": "私……すごく素敵な物語だと思いました。",
+    "romaji": "Watashi... sugoku suteki na monogatari da to omoimashita."
+  },
+  "s1.debrief1.yuki_same": {
+    "en": "The way they were both worried about the same thing...",
+    "ru": "То, как они оба переживали об одном и том же...",
+    "zh": "他们都在担心同样的事情……",
+    "ko": "두 사람이 똑같은 걱정을 하고 있었다는 게...",
+    "ja": "二人とも同じことを心配し合っていたところがすごく良くて……",
+    "romaji": "Futari tomo onaji koto o shinpai shiatte ita tokoro ga sugoku yokute..."
+  },
+  "s1.debrief2.class_laugh": {
+    "en": "The class shares a laugh.",
+    "ru": "Класс смеется.",
+    "zh": "教室里响起一阵笑声。",
+    "ko": "반 친구들이 함께 웃습니다.",
+    "ja": "教室に笑い声が広がる。",
+    "romaji": "Kyoushitsu ni waraigoe ga hirogaru."
+  },
+  "s1.debrief2.ken_class": {
+    "en": "So I could say 'This class makes me ドキドキ (dokidoki)'?",
+    "ru": "То есть я могу сказать: «Этот класс заставляет меня ドキドキ (доки-доки)»?",
+    "zh": "所以我可以说“这个班级让我‘ドキドキ’（dokidoki）”吗？",
+    "ko": "그럼 '이 수업 때문에 두근두근(ドキドキ)해요'라고 말해도 돼요?",
+    "ja": "じゃあ、「この授業受けてるとドキドキする」って言っていいの？",
+    "romaji": "Jaa, 「kono jugyou uketeru to dokidoki suru」 tte itte ii no?"
+  },
+  "s1.debrief2.tanaka_dokidoki": {
+    "en": "Who remembers what 'dokidoki' means?",
+    "ru": "Кто помнит, что значит «доки-доки»?",
+    "zh": "谁还记得“dokidoki”是什么意思？",
+    "ko": "'두근두근(dokidoki)'이 무슨 뜻인지 기억하는 사람 있나요?",
+    "ja": "「ドキドキ」の意味を覚えている人はいますか？",
+    "romaji": "「Dokidoki」 no imi o oboete iru hito wa imasu ka?"
+  },
+  "s1.debrief2.tanaka_laugh": {
+    "en": "Haha! Yes, but I hope it's the good kind of ドキドキ (dokidoki)!",
+    "ru": "Ха-ха! Да, но надеюсь, это приятное доки-доки!",
+    "zh": "哈哈！没错，但我希望那是好的那种“ドキドキ”！",
+    "ko": "하하! 맞아요, 하지만 기분 좋은 두근두근함이었으면 좋겠네요!",
+    "ja": "ふふっ！そうですね、でも良い意味のドキドキだと嬉しいです！",
+    "romaji": "Fufu'! Sou desu ne, demo yoi imi no dokidoki da to ureshii desu!"
+  },
+  "s1.debrief2.tanaka_subarashii": {
+    "en": "すばらしい (Subarashii)! (Wonderful!) ドキドキ (dokidoki) is the sound of a beating heart.",
+    "ru": "Субарасии (Subarashii)! Прекрасно! Доки-доки — это звук бьющегося сердца.",
+    "zh": "太棒了（Subarashii）！“ドキドキ”（dokidoki）是心跳的声音。",
+    "ko": "대단해요(Subarashii)! '두근두근(dokidoki)'은 심장이 뛰는 소리예요.",
+    "ja": "すばらしい！ドキドキは心臓の鼓動を表すオノマトペ（擬音語・擬態語）です。",
+    "romaji": "Subarashii! Dokidoki wa shinzou no kodou o arawasu onomatope (giongo/gitaigo) desu."
+  },
+  "s1.debrief2.tanaka_talk": {
+    "en": "Let's talk about some of the Japanese we learned in this story.",
+    "ru": "Давайте обсудим японский язык, который мы узнали из этой истории.",
+    "zh": "让我们聊聊在这个故事里学到的一些日语吧。",
+    "ko": "이 이야기에서 배운 일본어에 대해 이야기해 봅시다.",
+    "ja": "この物語の中で学んだ日本語について少し話し合ってみましょう。",
+    "romaji": "Kono monogatari no naka de mananda nihongo ni tsuite sukoshi hanashiatte mimashou."
+  },
+  "s1.debrief2.tanaka_use": {
+    "en": "We use it when we're nervous, excited, or falling in love!",
+    "ru": "Мы используем его, когда нервничаем, радуемся или влюбляемся!",
+    "zh": "当我们紧张、兴奋或者恋爱时，都会用到它！",
+    "ko": "긴장될 때, 설레거나 사랑에 빠졌을 때 사용하는 말이죠!",
+    "ja": "緊張したとき、ワクワクしたとき、それから恋をしたときにも使いますよ！",
+    "romaji": "Kinchou shita toki, wakuwaku shita toki, sorekara koi o shita toki ni mo tsukaimasu yo!"
+  },
+  "s1.debrief2.yuki_ono": {
+    "en": "It's... onomatopoeia for your heart pounding?",
+    "ru": "Это... звукоподражание биению сердца?",
+    "zh": "那是……心跳声的拟声词吗？",
+    "ko": "그건... 심장이 고동치는 소리를 흉내 낸 말인가요?",
+    "ja": "胸がドキドキ高鳴るオノマトペ……ですよね？",
+    "romaji": "Mune ga dokidoki takanaru onomatope... desu yo ne?"
+  },
+  "s1.debrief3.ken_confused": {
+    "en": "Oh! The character was confused about which to use!",
+    "ru": "О! Персонаж не знал, какой вариант выбрать!",
+    "zh": "噢！角色纠结过该用哪一个！",
+    "ko": "아! 주인공이 어떤 말을 써야 할지 헷갈려 했었죠!",
+    "ja": "あ！主人公がどっちを使うか迷ってましたね！",
+    "romaji": "A! Shujinkou ga docchi o tsukau ka mayottemashita ne!"
+  },
+  "s1.debrief3.tanaka_culture": {
+    "en": "There's an important cultural point in this story too.",
+    "ru": "В этой истории есть и важный культурный момент.",
+    "zh": "这个故事里还有一个重要的文化点。",
+    "ko": "이 이야기에는 중요한 문화적 포인트도 있어요.",
+    "ja": "この物語には、重要な文化的ポイントも含まれています。",
+    "romaji": "Kono monogatari ni wa, juuyou na bunkateki pointo mo fukumarete imasu."
+  },
+  "s1.debrief3.tanaka_deai": {
+    "en": "出会い (deai) means 'encounter' or 'meeting'—but it's more than physical.",
+    "ru": "出会い (дзиаи) означает «встреча» или «знакомство» — но это не только физическая встреча.",
+    "zh": "“出会い”（deai）的意思是“邂逅”或“会面”——但它不仅仅是指肉体上的碰面。",
+    "ko": "'만남(出会い)'은 마주침이나 미팅을 뜻하지만, 단순한 물리적 만남 이상의 의미가 있어요.",
+    "ja": "「出会い」には「巡り会い」という意味がありますが、単に物理的に会うこと以上の深みがあります。",
+    "romaji": "「Deai」 ni wa 「meguriai」 to iu imi ga arimasu ga, tan ni butsuriteki ni au koto ijou no fukami ga arimasu."
+  },
+  "s1.debrief3.tanaka_deai_exp": {
+    "en": "Rin and Sora's 出会い (deai) was two years ago, even through a screen.",
+    "ru": "Встреча (deai) Рин и Соры произошла два года назад, пусть и через экран.",
+    "zh": "凛（Rin）和空（Sora）的邂逅在两年前就开始了，即便隔着屏幕。",
+    "ko": "린과 소라의 만남(deai)은 화면 너머였지만 2년 전부터 시작된 거예요.",
+    "ja": "りんとソラの「出会い」は、たとえ画面越しであっても、すでに2年前に始まっていたのです。",
+    "romaji": "Rin to Sora no 「deai」 wa, tatoe gamen-goshi de attemo, sude ni ninen mae ni hajimatte ita no desu."
+  },
+  "s1.debrief3.tanaka_diff": {
+    "en": "Did anyone notice the difference between 初めまして (hajimemashite) and 久しぶり (hisashiburi)?",
+    "ru": "Кто-нибудь заметил разницу между «хадзимэмаситэ» и «хисасибури»?",
+    "zh": "有人注意到“初めまして”（hajimemashite）和“久しぶり”（hisashiburi）的区别了吗？",
+    "ko": "'하지메마시테(初めまして)'와 '히사시부리(久しぶり)'의 차이점을 발견한 사람 있나요?",
+    "ja": "「初めまして」と「久しぶり」の違いに気付いた人はいますか？",
+    "romaji": "「Hajimemashite」 to 「hisashiburi」 no chigai ni kidzuita hito wa imasu ka?"
+  },
+  "s1.debrief3.tanaka_exactly": {
+    "en": "Exactly. This is interesting because...",
+    "ru": "Именно. Это интересно, потому что...",
+    "zh": "没错。这很有趣，因为……",
+    "ko": "맞아요. 이건 꽤 흥미로운 부분인데...",
+    "ja": "その通りです。ここが面白いところなんですよ……",
+    "romaji": "Sono toori desu. Koko ga omoshiroi tokoro nan desu yo..."
+  },
+  "s1.debrief3.tanaka_first": {
+    "en": "初めまして (hajimemashite) is for meeting someone for the first time ever.",
+    "ru": "«Хадзимэмаситэ» — для самой первой встречи в жизни.",
+    "zh": "“初めまして”（hajimemashite）是用于有史以来的第一次见面。",
+    "ko": "'하지메마시테(hajimemashite)'는 태어나서 처음 만났을 때 하는 인사예요.",
+    "ja": "「初めまして」は、人生で本当に初めて会う人に対して使う挨拶です。",
+    "romaji": "「Hajimemashite」 wa, jinsei de hontou ni hajimete au hito ni taishite tsukau aisatsu desu."
+  },
+  "s1.debrief3.tanaka_history": {
+    "en": "In Japanese, the greeting depends on your relationship history.",
+    "ru": "В японском языке приветствие зависит от истории ваших отношений.",
+    "zh": "在日语中，问候语取决于你们以往的关系。",
+    "ko": "일본어 인사는 서로의 관계가 어떠했는지에 따라 달라지죠.",
+    "ja": "日本語では、二人の関係の歴史によって挨拶が変わるんです。",
+    "romaji": "Nihongo de wa, futari no kankei no rekishi ni yotte aisatsu ga kawarun desu."
+  },
+  "s1.debrief3.tanaka_question": {
+    "en": "That's the question, isn't it?",
+    "ru": "В этом и вопрос, не так ли?",
+    "zh": "这就是问题所在，不是吗？",
+    "ko": "그게 바로 핵심 질문이죠?",
+    "ja": "まさにそこが問題ですよね？",
+    "romaji": "Masa ni soko ga mondai desu yo ne?"
+  },
+  "s1.debrief3.tanaka_reflect": {
+    "en": "Language reflects how we see relationships.",
+    "ru": "Язык отражает то, как мы видим отношения.",
+    "zh": "语言反映了我们看待关系的方式。",
+    "ko": "언어는 우리가 관계를 어떻게 바라보는지 반영합니다.",
+    "ja": "言葉は、私たちが人間関係をどう捉えているかを映し出しています。",
+    "romaji": "Kotoba wa, watashitachi ga ningen kankei o dou toraete iru ka o utsushidashite imasu."
+  },
+  "s1.debrief3.tanaka_two_years": {
+    "en": "But Rin and Sora had talked for two years online!",
+    "ru": "Но Рин и Сора общались в интернете целых два года!",
+    "zh": "但凛和空在网上已经聊了两年了！",
+    "ko": "하지만 린과 소라는 온라인에서 2년 동안이나 대화를 나눴잖아요!",
+    "ja": "でも、りんとソラはすでにオンラインで2年間も会話を重ねてきました！",
+    "romaji": "Demo, Rin to Sora wa sude ni onrain de ninenkan mo kaiwa o kasanete kimashita!"
+  },
+  "s1.debrief3.yuki_puzzle": {
+    "en": "So... it wasn't really a 'first meeting'?",
+    "ru": "То есть... это не совсем была «первая встреча»?",
+    "zh": "所以……那并不是真正的“第一次见面”？",
+    "ko": "그럼... 사실상 '첫 만남'은 아니었던 걸까요?",
+    "ja": "ということは……本当の意味での「初対面」ではなかったってことですか？",
+    "romaji": "To iu koto wa... hontou no imi de no 「shotaimen」 de wa nakatta tte koto desu ka?"
+  },
+  "s1.debrief4.ken_deep": {
+    "en": "Yuki being deep as always!",
+    "ru": "Юки, как всегда, мыслит глубоко!",
+    "zh": "由纪（Yuki）还是一如既往地有深度啊！",
+    "ko": "유키는 역시 오늘도 심오하네요!",
+    "ja": "ユキ、相変わらず深いこと言うなぁ！",
+    "romaji": "Yuki, aikawarazu fukai koto iu naa!"
+  },
+  "s1.debrief4.laughter": {
+    "en": "The room fills with gentle laughter.",
+    "ru": "Комната наполняется добрым смехом.",
+    "zh": "房间里充满了轻轻的笑声。",
+    "ko": "교실 안에 잔잔한 웃음꽃이 피어납니다.",
+    "ja": "教室が和やかな笑い声に包まれる。",
+    "romaji": "Kyoushitsu ga nagoyaka na waraigoe ni tsutsumareru."
+  },
+  "s1.debrief4.silence": {
+    "en": "There's a moment of silence.",
+    "ru": "Наступает момент тишины.",
+    "zh": "沉默了一会儿。",
+    "ko": "잠시 정적이 흐릅니다.",
+    "ja": "教室が一瞬静まり返る。",
+    "romaji": "Kyoushitsu ga isshun shizumarikaeru."
+  },
+  "s1.debrief4.surprise": {
+    "en": "Everyone looks at Yuki with surprise.",
+    "ru": "Все с удивлением смотрят на Юки.",
+    "zh": "大家都惊讶地看着由纪。",
+    "ko": "모두가 놀란 표정으로 유키를 바라봅니다.",
+    "ja": "みんな驚いた表情でユキを見つめる。",
+    "romaji": "Minna odoroita hyoujou de Yuki o mitsumeru."
+  },
+  "s1.debrief4.tanaka_beautiful": {
+    "en": "That's a beautiful way to put it, Yuki-san.",
+    "ru": "Это прекрасные слова, Юки-сан.",
+    "zh": "说得真好，由纪。",
+    "ko": "정말 멋진 표현이네요, 유키 양.",
+    "ja": "とても素敵な表現ですね、ユキさん。",
+    "romaji": "Totemo suteki na hyougen desu ne, Yuki-san."
+  },
+  "s1.debrief4.tanaka_exp": {
+    "en": "Has anyone here had a similar experience?",
+    "ru": "У кого-нибудь здесь был подобный опыт?",
+    "zh": "这里有人有过类似的经历吗？",
+    "ko": "혹시 비슷한 경험이 있는 사람 있나요?",
+    "ja": "同じような経験をしたことがある人はいますか？",
+    "romaji": "Onaji you na keiken o shita koto ga aru hito wa imasu ka?"
+  },
+  "s1.debrief4.tanaka_go": {
+    "en": "And how did it go?",
+    "ru": "И как все прошло?",
+    "zh": "那后来怎么样了？",
+    "ko": "어땠나요?",
+    "ja": "それで、実際会ってみてどうでしたか？",
+    "romaji": "Sorede, jissai atte mite dou deshita ka?"
+  },
+  "s1.debrief4.tanaka_online": {
+    "en": "Meeting someone online in person?",
+    "ru": "Встреча вживую с кем-то из интернета?",
+    "zh": "在线下见网友的经历？",
+    "ko": "온라인 친구를 직접 만나본 적요.",
+    "ja": "ネットで知り合った友達と実際に会った経験です。",
+    "romaji": "Netto de shiriatta tomodachi to jissai ni atta keiken desu."
+  },
+  "s1.debrief4.yuki_have": {
+    "en": "I... I have.",
+    "ru": "У... у меня была.",
+    "zh": "我……我有过。",
+    "ko": "저... 저요.",
+    "ja": "私……実はあります。",
+    "romaji": "Watashi... jitsu wa arimasu."
+  },
+  "s1.debrief4.yuki_ken": {
+    "en": "Ken-san!",
+    "ru": "Кэн-сан!",
+    "zh": "健（Ken）！",
+    "ko": "켄 군!",
+    "ja": "ケンくん！茶化さないでよ！",
+    "romaji": "Ken-kun! Chakasanai de yo!"
+  },
+  "s1.debrief4.yuki_real": {
+    "en": "The friendship was real either way.",
+    "ru": "Дружба была настоящей в любом случае.",
+    "zh": "无论如何，那段友谊都是真实的。",
+    "ko": "어느 쪽이든 그 우정은 진심이었으니까요.",
+    "ja": "どっちにしても、友達であることに変わりはなかったんです。",
+    "romaji": "Docchi ni shitemo, tomodachi de aru koto ni kawari wa nakattan desu."
+  },
+  "s1.debrief4.yuki_same": {
+    "en": "They were... the same. Different, but the same.",
+    "ru": "Они были... теми же самыми. Другими, но теми же.",
+    "zh": "他们……是一样的。虽然感觉不同，但依然是那个人。",
+    "ko": "그들은... 같았어요. 다르면서도 같았죠.",
+    "ja": "その人たち……同じでした。ちょっと違ったけど、やっぱり同じだったんです。",
+    "romaji": "Sono hitotachi... onaji deshita. Chotto chigatta kedo, yappari onaji dattan desu."
+  },
+  "s1.debrief4.yuki_scary": {
+    "en": "Meeting them was... scary. Like the story said.",
+    "ru": "Встреча с ними была... пугающей. Как и говорилось в истории.",
+    "zh": "见面的那一刻……真的很紧张。就像故事里写的那样。",
+    "ko": "만나는 건... 무서웠어요. 이야기에서처럼요.",
+    "ja": "会うときは……すっごく怖かったです。物語と同じで。",
+    "romaji": "Au toki wa... suggoku kowakatta desu. Monogatari to onaji de."
+  },
+  "s1.debrief4.yuki_story": {
+    "en": "When I moved back to Japan... I had online friends here.",
+    "ru": "Когда я вернулась в Японию... у меня здесь были друзья по переписке.",
+    "zh": "当我搬回日本时……在这里有一些网友。",
+    "ko": "일본으로 돌아왔을 때... 여기 온라인 친구들이 있었거든요.",
+    "ja": "日本に戻ってきたとき……こっちにネットの友達がいたんです。",
+    "romaji": "Nihon ni modotte kita toki... kocchi ni netto no tomodachi ga itan desu."
+  },
+  "s1.debrief5.bridge": {
+    "en": "Language is just the bridge...",
+    "ru": "Язык — это всего лишь мост...",
+    "zh": "语言只是一座桥梁……",
+    "ko": "언어는 단지 가교일 뿐...",
+    "ja": "言葉は単なる架け橋にすぎない……",
+    "romaji": "Kotoba wa tannaru kakehashi ni suginai..."
+  },
+  "s1.debrief5.clap": {
+    "en": "Tanaka-sensei claps her hands together.",
+    "ru": "Танака-сэнсэй хлопает в ладоши.",
+    "zh": "田中老师拍了拍手。",
+    "ko": "다나카 선생님이 손뼉을 칩니다.",
+    "ja": "田中先生がパンパンと手を叩く。",
+    "romaji": "Tanaka-sensei ga panpan to te o tataku."
+  },
+  "s1.debrief5.class_repeat": {
+    "en": "The class repeats together.",
+    "ru": "Класс повторяет хором.",
+    "zh": "全班同学跟着一起重复。",
+    "ko": "반 친구들이 함께 따라 합니다.",
+    "ja": "クラス全員で声を合わせて復唱する。",
+    "romaji": "Kurasu zen'in de koe o awasete fukushou suru."
+  },
+  "s1.debrief5.complete": {
+    "en": "Story 1: The Exchange Partner - Complete",
+    "ru": "История 1: Партнер по переписке — Завершено",
+    "zh": "故事 1：语言交换伙伴 —— 完成",
+    "ko": "이야기 1: 언어 교환 파트너 - 완료",
+    "ja": "ストーリー1：言語交換パートナー――完了",
+    "romaji": "Sutoorii 1: Gengo koukan paatonaa -- Kanryou"
+  },
+  "s1.debrief5.connection": {
+    "en": "The connection is what matters.",
+    "ru": "Связь — вот что важно.",
+    "zh": "重要的是那份羁绊。",
+    "ko": "중요한 건 마음의 유대감이에요.",
+    "ja": "本当に大切なのは、心のつながりなのだ。",
+    "romaji": "Hontou ni taisetsu na no wa, kokoro no tsunagari na no da."
+  },
+  "s1.debrief5.deeper": {
+    "en": "But from understanding something deeper about connection.",
+    "ru": "Но благодаря пониманию чего-то более глубокого в отношениях.",
+    "zh": "而是源于对关系的更深层理解。",
+    "ko": "대신 관계에 대한 더 깊은 이해를 얻었죠.",
+    "ja": "人と人とのつながりについての、より深い理解から湧き上がる達成感だ。",
+    "romaji": "Hito to hito to no tsunagari ni tsuite no, yori fukai rikai kara wakiagaru tasseikan da."
+  },
+  "s1.debrief5.great_work": {
+    "en": "Great work today, everyone! See you next time.",
+    "ru": "Отличная работа сегодня, ребята! Увидимся в следующий раз.",
+    "zh": "大家今天表现得很好！下次见。",
+    "ko": "오늘 다들 수고 많았어요! 다음에 봐요.",
+    "ja": "皆さん、今日もよく頑張りました！また次回お会いしましょう。",
+    "romaji": "Mina-san, kyou mo yoku gambarimashita! Mata jikai oai shimashou."
+  },
+  "s1.debrief5.ken_repeat": {
+    "en": "やっと会えた！(Yatto aeta!)",
+    "ru": "Ятто аэта! (Наконец-то мы встретились!)",
+    "zh": "终于见到了！ (Yatto aeta!)",
+    "ko": "마침내 만났네요! (Yatto aeta!)",
+    "jp": "やっと会えた！",
+    "transc": "Yatto aeta!",
+    "ja": "やっと会えた！",
+    "romaji": "Yatto aeta!"
+  },
+  "s1.debrief5.learning": {
+    "en": "Not just from learning new words...",
+    "ru": "Не только от изучения новых слов...",
+    "zh": "不仅是因为学到了新单词……",
+    "ko": "단순히 새로운 단어를 배우는 것뿐만 아니라...",
+    "ja": "新しい単語を覚えたことだけではない……",
+    "romaji": "Atarashii tango o oboeta koto dake de wa nai..."
+  },
+  "s1.debrief5.next_story": {
+    "en": "次の物語も楽しみにしててね！(Tsugi no monogatari mo tanoshimi ni shitete ne!) (Look forward to the next story!)",
+    "ru": "Пожалуйста, ждите следующей истории! (Tsugi no monogatari mo tanoshimi ni shitete ne!)",
+    "zh": "敬请期待下一个故事！ (Tsugi no monogatari mo tanoshimi ni shitete ne!)",
+    "ko": "다음 이야기기도 기대해 주세요! (Tsugi no monogatari mo tanoshimi ni shitete ne!)",
+    "jp": "次の物語も楽しみにしててね！",
+    "transc": "Tsugi no monogatari mo tanoshimi ni shitete ne!",
+    "ja": "次の物語も楽しみにしててね！",
+    "romaji": "Tsugi no monogatari mo tanoshimi ni shitete ne!"
+  },
+  "s1.debrief5.packing": {
+    "en": "The class begins to pack up, chatting among themselves.",
+    "ru": "Класс начинает собираться, переговариваясь между собой.",
+    "zh": "同学们开始收拾东西，一边互相聊天。",
+    "ko": "학생들이 서로 담소를 나누며 짐을 챙기기 시작합니다.",
+    "ja": "生徒たちはおしゃべりしながら荷物をまとめ始める。",
+    "romaji": "Seitotachi wa oshaberi shinagara nimotsu o matomehajimeru."
+  },
+  "s1.debrief5.player_repeat": {
+    "en": "やっと会えた！(Yatto aeta!)",
+    "ru": "Ятто аэта! (Наконец-то мы встретились!)",
+    "zh": "终于见到了！ (Yatto aeta!)",
+    "ko": "마침내 만났네요! (Yatto aeta!)",
+    "jp": "やっと会えた！",
+    "transc": "Yatto aeta!",
+    "ja": "やっと会えた！",
+    "romaji": "Yatto aeta!"
+  },
+  "s1.debrief5.tanaka_aeta": {
+    "en": "And 会えた (aeta) is the past tense of 'being able to meet'.",
+    "ru": "А 会えた (аэта) — это прошедшее время от глагола «мочь встретиться».",
+    "zh": "而“会えた”（aeta）是“能够见面”的过去式。",
+    "ko": "그리고 '아에타(会えた)'는 '만날 수 있었다'는 뜻의 과거형이죠.",
+    "ja": "そして「会えた」は「会うことができる」の過去形ですね。",
+    "romaji": "Soshite 「aeta」 wa 「au koto ga dekiru」 no kakokei desu ne."
+  },
+  "s1.debrief5.tanaka_meaning": {
+    "en": "Excellent! Remember, 'yatto' means 'finally' or 'at last'.",
+    "ru": "Отлично! Запомните, «ятто» означает «наконец-то» или «в конце концов».",
+    "zh": "太棒了！记住，“yatto”的意思是“终于”或“总算”。",
+    "ko": "좋아요! '얏토(yatto)'는 '마침내' 또는 '겨우'라는 뜻이라는 걸 기억하세요.",
+    "ja": "素晴らしい！覚えておいてくださいね、「やっと」は「ついに」「ようやく」という意味です。",
+    "romaji": "Subarashii! Oboete oite kudasai ne, 「yatto」 wa 「tsuini」「youyaku」 to iu imi desu."
+  },
+  "s1.debrief5.tanaka_practice": {
+    "en": "Before we end, let's practice one phrase from the story.",
+    "ru": "Прежде чем мы закончим, давайте попрактикуем одну фразу из истории.",
+    "zh": "在结束之前，让我们练习一下故事里的一句话吧。",
+    "ko": "마치기 전에 이야기 속에 나온 문장을 하나 연습해 봅시다.",
+    "ja": "終わる前に、物語に出てきたフレーズを一つ練習してみましょう。",
+    "romaji": "Owaru mae ni, monogatari ni dete kita fureezu o hitotsu renshuu shite mimashou."
+  },
+  "s1.debrief5.tanaka_relief": {
+    "en": "It expresses relief after waiting for something.",
+    "ru": "Она выражает облегчение после долгого ожидания чего-либо.",
+    "zh": "它表达了在等待后的那种如释重负的感觉。",
+    "ko": "무언가를 기다려온 뒤에 느끼는 안도감을 표현하는 말이에요.",
+    "ja": "待ち望んでいたことがようやく叶ったときの安堵の気持ちを表します。",
+    "romaji": "Machinozonde ita koto ga youyaku kanatta toki no ando no kimochi o arawashimasu."
+  },
+  "s1.debrief5.tanaka_repeat": {
+    "en": "Repeat after me: やっと会えた！(Yatto aeta!)",
+    "ru": "Повторяйте за мной: Ятто аэта!",
+    "zh": "跟我重复：终于见到了！ (Yatto aeta!)",
+    "ko": "저를 따라 해 보세요: 마침내 만났네요! (Yatto aeta!)",
+    "ja": "私の後に続いて言ってください：「やっと会えた！」",
+    "romaji": "Watashi no ato ni tsuzuite itte kudasai: 「Yatto aeta!」"
+  },
+  "s1.debrief5.tanaka_together": {
+    "en": "So together: 'Finally (I was) able to meet (you)!'",
+    "ru": "Теперь все вместе: «Наконец-то мы смогли встретиться!»",
+    "zh": "所以大家一起来：“终于能（和你）见面了！”",
+    "ko": "자, 같이 해볼까요? '드디어 만났어!'",
+    "ja": "つまり合わせて、「ついに（あなたに）会うことができた！」という意味になります。",
+    "romaji": "Tsumari awasete, 「tsuini (anata ni) au koto ga dekita!」 to iu imi ni narimasu."
+  },
+  "s1.debrief5.warm": {
+    "en": "You feel a warm sense of accomplishment.",
+    "ru": "Вы чувствуете приятное чувство выполненного долга.",
+    "zh": "你感到一种充实的成就感。",
+    "ko": "마음이 훈훈해지는 성취감을 느낍니다.",
+    "ja": "胸の中に温かい達成感が満ちてくる。",
+    "romaji": "Mune no naka ni atatakai tasseikan ga michite kuru."
+  },
+  "s1.debrief5.yuki_repeat": {
+    "en": "やっと会えた... (Yatto aeta...)",
+    "ru": "Ятто аэта... (Наконец-то мы встретились...)",
+    "zh": "终于见到了…… (Yatto aeta...)",
+    "ko": "마침내 만났네요... (Yatto aeta...)",
+    "jp": "やっと会えた...",
+    "transc": "Yatto aeta...",
+    "ja": "やっと会えた……",
+    "romaji": "Yatto aeta..."
+  },
+  "s1.desc": {
+    "en": "Experience the anxiety and joy of meeting an online friend for the first time",
+    "ru": "Переживите волнение и радость от первой встречи с онлайн-другом",
+    "zh": "体验第一次见网友时的紧张与喜悦",
+    "ko": "온라인 친구를 처음 만날 때의 불안함과 기쁨을 경험해 보세요",
+    "ja": "8ヶ月間のビデオ通話を経て、りんはオンラインの言語交換パートナーであるソラと初めて対面で会う。",
+    "romaji": "Hachikagetsukan no bideo tsuuwa o hete, Rin wa onrain no gengo koukan paatonaa de aru Sora to hajimete taimen de au."
+  },
+  "s1.epilogue.barrier": {
+    "en": "The language barrier, the screen between you—none of it mattered in the end.",
+    "ru": "Языковой барьер, экран между вами — в конце концов, все это не имело значения.",
+    "zh": "语言障碍，隔在你们中间的屏幕——最后这一切都不再重要了。",
+    "ko": "언어 장벽도, 두 사람 사이의 화면도, 결국엔 아무런 문제가 되지 않았습니다.",
+    "ja": "言葉の壁も、二人を隔てていた画面も、最後には何の問題でもなかった。",
+    "romaji": "Kotoba no kabe mo, futari o hedatete ita gamen mo, saigo ni wa nan no mondai demo nakatta."
+  },
+  "s1.epilogue.ceiling": {
+    "en": "You put your phone down and stare at the ceiling.",
+    "ru": "Вы кладете телефон и смотрите в потолок.",
+    "zh": "你放下手机，盯着天花板发呆。",
+    "ko": "휴대전화를 내려놓고 천장을 멍하니 바라봅니다.",
+    "ja": "スマホを置き、天井を見つめる。",
+    "romaji": "Sumaho o oki, tenjou o mitsumeru."
+  },
+  "s1.epilogue.connect": {
+    "en": "What mattered was the connection you'd built over two years.",
+    "ru": "Важна лишь та связь, которую вы выстраивали целых два года.",
+    "zh": "重要的是你们这两年来建立起的羁绊。",
+    "ko": "중요한 건 지난 2년 동안 쌓아온 유대감이었어요.",
+    "ja": "本当に大切だったのは、2年間かけて築き上げてきた心のつながりだった。",
+    "romaji": "Hontou ni taisetsu datta no wa, ninenkan kakete kizikiagete kita kokoro no tsunagari datta."
+  },
+  "s1.epilogue.more_so": {
+    "en": "Maybe even more so.",
+    "ru": "Может быть, даже в большей степени.",
+    "zh": "也许甚至有过之而无不及。",
+    "ko": "어쩌면 그 이상이었을지도 몰라요.",
+    "ja": "いや、それ以上かもしれない。",
+    "romaji": "Iya, sore ijou kamo shirenai."
+  },
+  "s1.epilogue.msg": {
+    "en": "A message from Sora lights up the screen.",
+    "ru": "Экран освещает сообщение от Соры.",
+    "zh": "屏幕亮起，那是空（Sora）发来的消息。",
+    "ko": "화면에 소라가 보낸 메시지가 뜹니다.",
+    "ja": "ソラからのメッセージで画面がパッと明るくなった。",
+    "romaji": "Sora kara no messeeji de gamen ga patto akaruku natta."
+  },
+  "s1.epilogue.night": {
+    "en": "Later that night, you lie in bed, scrolling through your phone.",
+    "ru": "Позже той же ночью вы лежите в постели, листая ленту в телефоне.",
+    "zh": "深夜，你躺在床上翻看着手机。",
+    "ko": "그날 밤 늦은 시간, 당신은 침대에 누워 휴대전화를 뒤적거립니다.",
+    "ja": "その夜遅く、ベッドに横たわりながらスマホを眺める。",
+    "romaji": "Sono yoru osoku, beddo ni yokotawari nagara sumaho o nagameru."
+  },
+  "s1.epilogue.not_first": {
+    "en": "But it wasn't 初めまして (hajimemashite)—meeting someone new.",
+    "ru": "Но это не было «хадзимэмаситэ» — знакомством с кем-то новым.",
+    "zh": "但这并不是“初めまして”（hajimemashite）——也就是遇见一个陌生人。",
+    "ko": "하지만 그건 '하지메마시테(hajimemashite)'—새로운 누군가를 만나는 게 아니었습니다.",
+    "ja": "でも、それは新しい誰かと出会う「初めまして」ではなかった。",
+    "romaji": "Demo, sore wa atarashii dareka to deau 「hajimemashite」 de wa nakatta."
+  },
+  "s1.epilogue.player_reply": {
+    "en": "おやすみ、Sora-kun. また会おうね。(Oyasumi, Sora-kun. Mata aou ne.)",
+    "ru": "Спокойной ночи, Сора-кун. Увидимся снова. (Oyasumi, Sora-kun. Mata aou ne.)",
+    "zh": "晚安，空。以后再见喽。 (Oyasumi, Sora-kun. Mata aou ne.)",
+    "ko": "잘 자, 소라 군. 우리 또 만나자. (Oyasumi, Sora-kun. Mata aou ne.)",
+    "jp": "おやすみ、Sora-kun. また会おうね。",
+    "transc": "Oyasumi, Sora-kun. Mata aou ne.",
+    "ja": "おやすみ、ソラくん。また会おうね。",
+    "romaji": "Oyasumi, Sora-kun. Mata aou ne."
+  },
+  "s1.epilogue.real": {
+    "en": "And that connection was just as real in person as it was online.",
+    "ru": "И эта связь была настолько же реальной в жизни, насколько и в интернете.",
+    "zh": "这份羁绊在现实中也和在网上一样真实。",
+    "ko": "그리고 그 유대감은 온라인에서만큼이나 현실에서도 생생했습니다.",
+    "ja": "そしてそのつながりは、オンラインと同じように、直接会っても少しも揺るがなかった。",
+    "romaji": "Soshite sono tsunagari wa, onrain to onaji you ni, chokusetsu attemo sukoshi mo yuruganatta."
+  },
+  "s1.epilogue.reunion": {
+    "en": "It was 久しぶり (hisashiburi)—reuniting with someone I already knew.",
+    "ru": "Это было «хисасибури» — воссоединение с кем-то, кого я уже знала.",
+    "zh": "那是“久しぶり”（hisashiburi）——与已经熟识的人重逢。",
+    "ko": "그건 이미 알고 있던 사람과 재회하는 '히사시부리(hisashiburi)'였습니다.",
+    "ja": "それは、すでによく知っている大切な人との「久しぶり」の再会だった。",
+    "romaji": "Sore wa, sude ni yoku shitte iru taisetsu na hito to no 「hisashiburi」 no saikai datta."
+  },
+  "s1.epilogue.scared": {
+    "en": "I was so scared of this meeting...",
+    "ru": "Я так боялась этой встречи...",
+    "zh": "我原本对这次见面感到如此害怕……",
+    "ko": "이번 만남이 참 걱정됐었는데...",
+    "ja": "今日会うのがあんなに怖かったのに……",
+    "romaji": "Kyou au no ga anna ni kowakatta no ni..."
+  },
+  "s1.epilogue.smile": {
+    "en": "You smile, typing out a reply.",
+    "ru": "Вы улыбаетесь, печатая ответ.",
+    "zh": "你微笑着打出回复。",
+    "ko": "미소를 지으며 답장을 입력합니다.",
+    "ja": "思わず微笑みながら、返信を打ち込む。",
+    "romaji": "Omowazu hohoeminagara, henshin o uchikomu."
+  },
+  "s1.epilogue.sora_msg": {
+    "en": "今日会えて本当に良かった！また絶対会おうね。おやすみ！🌙 (Kyou aete hontou ni yokatta! Mata zettai aou ne. Oyasumi!) (I'm really glad we met today! Let's definitely meet again. Good night!)",
+    "ru": "Я так рад, что мы сегодня встретились! Обязательно увидимся снова. Спокойной ночи! 🌙 (Kyou aete hontou ni yokatta!)",
+    "zh": "今天能见面真的太好了！下次一定还要再见哦。晚安！🌙 (Kyou aete hontou ni yokatta!)",
+    "ko": "오늘 만나서 정말 반가웠어! 우리 꼭 다시 만나자. 잘 자! 🌙 (Kyou aete hontou ni yokatta!)",
+    "jp": "今日会えて本当に良かった！また絶対会おうね。おやすみ！🌙",
+    "transc": "Kyou aete hontou ni yokatta! Mata zettai aou ne. Oyasumi!",
+    "ja": "今日会えて本当に良かった！また絶対会おうね。おやすみ！🌙",
+    "romaji": "Kyou aete hontou ni yokatta! Mata zettai aou ne. Oyasumi!"
+  },
+  "s1.s0.alarm": {
+    "en": "The alarm cuts through the silence of early morning.",
+    "ru": "Будильник прорезает предутреннюю тишину.",
+    "zh": "闹钟声划破了清晨的宁静。",
+    "ko": "이른 아침의 정적을 깨고 알람 소리가 울려 퍼집니다.",
+    "ja": "早朝の静寂を切り裂いて、目覚ましのアラームが鳴り響く。",
+    "romaji": "Souchou no seijaku o kirisaite, mezamashi no araamu ga narihibiku."
+  },
+  "s1.s0.check_phone": {
+    "en": "You check your phone. A message notification glows on the screen.",
+    "ru": "Вы проверяете телефон. На экране светится уведомление о сообщении.",
+    "zh": "你查看手机，屏幕上闪烁着新消息通知。",
+    "ko": "휴대전화를 확인합니다. 화면에 메시지 알림이 떠 있습니다.",
+    "ja": "スマホを確認すると、画面にメッセージの通知が光っている。",
+    "romaji": "Sumaho o kakunin suru to, gamen ni messeeji no tsuuchi ga hikatte iru."
+  },
+  "s1.s0.get_ready": {
+    "en": "...I should get ready.",
+    "ru": "...Надо собираться.",
+    "zh": "……我该准备一下了。",
+    "ko": "...준비해야겠다.",
+    "ja": "……準備しなきゃ。",
+    "romaji": "...Junbi shinakya."
+  },
+  "s1.s0.heart_pounding": {
+    "en": "Your heart is ドキドキ (dokidoki)—pounding with a mixture of excitement and nervousness.",
+    "ru": "Ваше сердце делает «доки-доки» — колотится от смеси восторга и волнения.",
+    "zh": "你的心跳得飞快（dokidoki）——既兴奋又紧张。",
+    "ko": "심장이 '두근두근(dokidoki)'—설렘과 긴장감이 뒤섞여 요동칩니다.",
+    "ja": "期待と不安が入り混じり、胸がドキドキと高鳴っている。",
+    "romaji": "Kitai to fuan ga irimajiri, mune ga dokidoki to takanatte iru."
+  },
+  "s1.s0.message_from_sora": {
+    "en": "It's from Sora, your language exchange partner.",
+    "ru": "Это от Соры, вашего партнера по языковому обмену.",
+    "zh": "是空（Sora）发来的消息，他是你的语言交换伙伴。",
+    "ko": "당신의 언어 교환 파트너, 소라에게서 온 메시지입니다.",
+    "ja": "言語交換パートナーのソラからのメッセージだ。",
+    "romaji": "Gengo koukan paatonaa no Sora kara no messeeji da."
+  },
+  "s1.s0.sora_msg": {
+    "en": "おはよう！今日楽しみにしてるよ！(Ohayou! Kyou tanoshimi ni shiteru yo!) (Good morning! I'm looking forward to today!)",
+    "ru": "Доброе утро! Жду не дождусь сегодняшней встречи! (Ohayou! Kyou tanoshimi ni shiteru yo!)",
+    "zh": "早安！我很期待今天哦！ (Ohayou! Kyou tanoshimi ni shiteru yo!)",
+    "ko": "좋은 아침! 오늘 정말 기대돼! (Ohayou! Kyou tanoshimi ni shiteru yo!)",
+    "jp": "おはよう！今日楽しみにしてるよ！",
+    "transc": "Ohayou! Kyou tanoshimi ni shiteru yo!",
+    "ja": "おはよう！今日楽しみにしてるよ！",
+    "romaji": "Ohayou! Kyou tanoshimi ni shiteru yo!"
+  },
+  "s1.s0.think_different": {
+    "en": "What if I'm different from what he expects?",
+    "ru": "А что если я не такая, как он ожидает?",
+    "zh": "万一我表现出来的样子和他期待的不一样怎么办？",
+    "ko": "소라가 생각했던 내 모습과 다르면 어쩌지?",
+    "ja": "彼の思い描いている私と違ったらどうしよう？",
+    "romaji": "Kare no omoiegaite iru watashi to chigattara dou shiyou?"
+  },
+  "s1.s0.think_face_to_face": {
+    "en": "And now we'll finally meet face to face.",
+    "ru": "И вот теперь мы наконец встретимся лицом к лицу.",
+    "zh": "而现在，我们终于要面对面见到了。",
+    "ko": "그리고 이제 마침내 직접 얼굴을 마주 보게 되겠지.",
+    "ja": "そして今日、ついに直接顔を合わせるんだ。",
+    "romaji": "Soshite kyou, tsuini chokusetsu kao o awaserun da."
+  },
+  "s1.s0.think_history": {
+    "en": "Two years of messages, video calls, late-night conversations...",
+    "ru": "Два года сообщений, видеозвонков, ночных разговоров...",
+    "zh": "整整两年的简讯、视频通话、深夜长谈……",
+    "ko": "2년 동안 주고받은 메시지, 화상 통화, 밤늦게까지 나눈 대화들...",
+    "ja": "2年間のメッセージ、ビデオ通話、夜遅くまでの会話……",
+    "romaji": "Ninenkan no messeeji, bideo tsuuwa, yoru osoku made no kaiwa..."
+  },
+  "s1.s0.think_meet": {
+    "en": "Today... I finally meet Sora.",
+    "ru": "Сегодня... я наконец-то встречусь с Сорой.",
+    "zh": "今天……我终于要见到空（Sora）了。",
+    "ko": "오늘... 드디어 소라를 만나네.",
+    "ja": "今日……ついにソラと会うんだ。",
+    "romaji": "Kyou... tsuini Sora to aun da."
+  },
+  "s1.s0.think_screen": {
+    "en": "What if our friendship only works through a screen?",
+    "ru": "А что если наша дружба работает только через экран?",
+    "zh": "万一我们的友谊只能存在于屏幕里该怎么办？",
+    "ko": "우리 우정이 화면 너머에서만 통하는 거면 어쩌지?",
+    "ja": "画面越しだからこそうまくいっていた友達関係だったらどうしよう？",
+    "romaji": "Gamen-goshi dakara koso umaku itte ita tomodachi kankei dattara dou shiyou?"
+  },
+  "s1.s0.today_dread": {
+    "en": "Today is the day you've been waiting for—and dreading—for two years.",
+    "ru": "Сегодня тот самый день, которого вы ждали — и которого боялись — целых два года.",
+    "zh": "这一天，你等了两年，也担心了两年。",
+    "ko": "오늘은 당신이 2년 동안 기다려왔으면서도 동시에 두려워했던 바로 그날입니다.",
+    "ja": "今日はこの2年間待ち望み、そして同時にどこか恐れていた日だ。",
+    "romaji": "Kyou wa kono ninenkan machinozomi, soshite douji ni dokoka osorete ita hi da."
+  },
+  "s1.s1.confusion": {
+    "en": "What do you even say when you meet someone you've known for years but never seen in person?",
+    "ru": "Что вообще говорят при встрече человеку, которого знаешь годами, но никогда не видел вживую?",
+    "zh": "当你终于要见到那个认识了很久却从未谋面的人时，到底该开口说什么呢？",
+    "ko": "오랫동안 알고 지냈지만 단 한 번도 직접 본 적 없는 사람을 만나면, 대체 무슨 말부터 해야 할까요?",
+    "ja": "何年も前から知っているのに一度も会ったことがない相手に、一体どんな言葉をかければいいのだろう？",
+    "romaji": "Nannen mo mae kara shitte iru no ni ichido mo atta koto ga nai aite ni, ittai donna kotoba o kakeba ii no darou?"
+  },
+  "s1.s1.mirror": {
+    "en": "In the mirror, you practice your greeting.",
+    "ru": "Перед зеркалом вы репетируете приветствие.",
+    "zh": "你对着镜子练习着打招呼。",
+    "ko": "거울을 보며 인사 연습을 합니다.",
+    "ja": "鏡に向かって挨拶の練習をする。",
+    "romaji": "Kagami ni mukatte aisatsu no renshuu o suru."
+  },
+  "s1.s1.practice_fail": {
+    "en": "初めまして (hajimemashite)... いや、違う (iya, chigau). We've already met online...",
+    "ru": "Хадзимэмаситэ... Нет, не то. Мы же уже общались в сети...",
+    "zh": "幸会（Hajimemashite）……不，不对。我们在网上已经见过了……",
+    "ko": "하지메마시테(Hajimemashite)... 아니, 그건 아니지. 우리 이미 온라인에서 봤었는데...",
+    "ja": "「初めまして」……いや、違う。オンラインではもう会ってるし……",
+    "romaji": "「Hajimemashite」... iya, chigau. Onrain de wa mou atteru shi..."
+  },
+  "s1.s1.practice_retry": {
+    "en": "久しぶり (hisashiburi)? But we talked just yesterday...",
+    "ru": "Хисасибури? Но мы же только вчера разговаривали...",
+    "zh": "好久不见（Hisashiburi）？可我们昨天才聊过天……",
+    "ko": "히사시부리(Hisashiburi)? 근데 우리 어제도 연락했잖아...",
+    "ja": "「久しぶり」？でも昨日も話したばかりだし……",
+    "romaji": "「Hisashiburi」? Demo kinou mo hanashita bakari da shi..."
+  },
+  "s1.s1.splash": {
+    "en": "You splash cold water on your face, trying to calm your nerves.",
+    "ru": "Вы плещете холодной водой в лицо, стараясь унять нервную дрожь.",
+    "zh": "你用凉水洗了把脸，试图平复紧张的心情。",
+    "ko": "찬물로 세수를 하며 긴장을 풀어보려 애씁니다.",
+    "ja": "冷たい水を顔にバシャッとかけ、緊張を落ち着かせようとする。",
+    "romaji": "Tsumetai mizu o kao ni bashatto kake, kinchou o ochitsukaseyou to suru."
+  },
+  "s1.s1.think_advice": {
+    "en": "Sora always says Japanese isn't about perfect words—it's about genuine feeling.",
+    "ru": "Сора всегда говорит, что в японском важны не идеальные слова, а искренние чувства.",
+    "zh": "空（Sora）总是说，日语不在于辞藻多么华丽，而在于真情实感。",
+    "ko": "소라는 항상 말했죠. 일본어는 완벽한 단어보다 진심 어린 마음이 더 중요하다고.",
+    "ja": "ソラはいつも言ってくれる。日本語で大事なのは完璧な言葉遣いじゃなくて、素直な気持ちなんだって。",
+    "romaji": "Sora wa itsumo itte kureru. Nihongo de daiji na no wa kampeki na kotobadzukai ja nakute, sunao na kimochi nan datte."
+  },
+  "s1.s1.think_hope": {
+    "en": "He'll understand... I hope.",
+    "ru": "Он поймет... надеюсь.",
+    "zh": "他会理解的……我希望如此。",
+    "ko": "이해해 줄 거야... 그랬으면 좋겠어.",
+    "ja": "彼ならきっと分かってくれる……そう信じたい。",
+    "romaji": "Kare nara kitto wakatte kureru... sou shinjitai."
+  },
+  "s1.s2.announcement": {
+    "en": "The train announcement breaks your thoughts.",
+    "ru": "Объявление в поезде прерывает ваши мысли.",
+    "zh": "电车里的广播打断了你的思绪。",
+    "ko": "열차 안내 방송에 정신이 번쩍 듭니다.",
+    "ja": "車内アナウンスが響き、思考がふっと途切れる。",
+    "romaji": "Shanai anaunsu ga hibiki, shikou ga futto togireru."
+  },
+  "s1.s2.nervous_overwhelming": {
+    "en": "But now the 緊張 (nervousness) is overwhelming.",
+    "ru": "Но сейчас 緊張 (нервозность) просто захлестывает.",
+    "zh": "但现在的这种“紧张”（Kinchou）感简直让人喘不过气来。",
+    "ko": "지금은 그 긴장감(緊張)이 온몸을 휘감는 기분입니다.",
+    "ja": "だけど今、圧倒的な緊張感が押し寄せてくる。",
+    "romaji": "Dakedo ima, attouteki na kinchoukan ga oshiyosete kuru."
+  },
+  "s1.s2.now": {
+    "en": "Now...",
+    "ru": "Теперь...",
+    "zh": "现在……",
+    "ko": "이제...",
+    "ja": "そして今……",
+    "romaji": "Soshite ima..."
+  },
+  "s1.s2.remember_cry": {
+    "en": "You remember the late-night video call when you were crying over a failed test.",
+    "ru": "Вы вспоминаете ночной видеозвонок, когда вы плакали из-за проваленного теста.",
+    "zh": "你记得那是次深夜视频通话，你因为考试没及格而大哭了一场。",
+    "ko": "시험을 망치고 울면서 했던 밤샘 화상 통화가 떠오릅니다.",
+    "ja": "テストに落ちて悔しくて、夜遅くのビデオ通話で泣いてしまったときのことを思い出す。",
+    "romaji": "Tesuto ni ochite kuyashikute, yoru osoku no bideo tsuuwa de naite shimatta toki no koto o omoidasu."
+  },
+  "s1.s2.scroll": {
+    "en": "You scroll through your conversation history with Sora.",
+    "ru": "Вы листаете историю переписки с Сорой.",
+    "zh": "你翻看着和空（Sora）之间的聊天记录。",
+    "ko": "소라와 나눈 대화 기록을 훑어봅니다.",
+    "ja": "ソラとのメッセージのやり取りをスクロールして見返す。",
+    "romaji": "Sora to no messeeji no yaritori o sukurooru shite mikaesu."
+  },
+  "s1.s2.sora_comfort": {
+    "en": "大丈夫だよ. 明日また頑張ろう! (Daijoubu da yo. Ashita mata ganbarou!) (It's okay. Let's try again tomorrow!)",
+    "ru": "Все в порядке. Завтра попробуем еще раз! (Daijoubu da yo. Ashita mata ganbarou!)",
+    "zh": "没事的。明天再努力吧！ (Daijoubu da yo. Ashita mata ganbarou!)",
+    "ko": "괜찮아. 내일 다시 힘내보자! (Daijoubu da yo. Ashita mata ganbarou!)",
+    "jp": "大丈夫だよ。明日また頑張ろう。",
+    "transc": "Daijoubu da yo. Ashita mata ganbarou.",
+    "ja": "大丈夫だよ。明日また頑張ろう！",
+    "romaji": "Daijoubu da yo. Ashita mata ganbarou!"
+  },
+  "s1.s2.stranger": {
+    "en": "Two years ago, you were just another stranger on a language exchange app.",
+    "ru": "Два года назад вы были просто еще одним незнакомцем в приложении для языкового обмена.",
+    "zh": "两年前，你只是语言交换软件上的又一个陌生人。",
+    "ko": "2년 전, 당신은 언어 교환 앱의 수많은 낯선 사람 중 한 명에 불과했습니다.",
+    "ja": "2年前、お互いに言語交換アプリのただの見知らぬ他人だった。",
+    "romaji": "Ninen mae, otagai ni gengo koukan apuri no tada no mishiranu tanin datta."
+  },
+  "s1.s2.think_belief": {
+    "en": "He just... believed in me.",
+    "ru": "Он просто... верил в меня.",
+    "zh": "他只是……一直相信我。",
+    "ko": "그는 그냥... 나를 믿어줬어.",
+    "ja": "彼はただ……私を信じてくれたんだ。",
+    "romaji": "Kare wa tada... watashi o shinjite kuretan da."
+  },
+  "s1.s2.think_give_up": {
+    "en": "When I wanted to give up on Japanese, he was there.",
+    "ru": "Когда я хотела бросить японский, он был рядом.",
+    "zh": "每当我想放弃日语时，他总是在我身边。",
+    "ko": "내가 일본어를 포기하고 싶을 때마다 곁에 있어 줬지.",
+    "ja": "日本語を諦めそうになったとき、いつも彼がそばにいてくれた。",
+    "romaji": "Nihongo o akiramesou ni natta toki, itsumo kare ga soba ni ite kureta."
+  },
+  "s1.s2.think_help": {
+    "en": "He helped me through my worst days of studying.",
+    "ru": "Он поддерживал меня в самые трудные дни учебы.",
+    "zh": "他在我学习最痛苦的日子里帮助了我。",
+    "ko": "공부가 정말 안 될 때도 큰 힘이 되어 줬고.",
+    "ja": "一番つらかった勉強の日々を、彼が支えてくれた。",
+    "romaji": "Ichiban tsurakatta benkyou no hibi o, kare ga sasaete kureta."
+  },
+  "s1.s2.think_no_judgment": {
+    "en": "He never judged me for my mistakes.",
+    "ru": "Он никогда не осуждал меня за ошибки.",
+    "zh": "他从未因为我的错误而评判过我。",
+    "ko": "내 실수에 대해서도 한 번도 비웃지 않았어.",
+    "ja": "私がいくら間違えても、彼は一度も馬鹿にしたりしなかった。",
+    "romaji": "Watashi ga ikura machigaetemo, kare wa ichido mo baka ni shitari shinakatta."
+  },
+  "s1.s2.think_reality": {
+    "en": "What if real life is different from video calls?",
+    "ru": "А что если реальная встреча будет отличаться от видеозвонков?",
+    "zh": "万一现实生活和视频通话里不一样该怎么办？",
+    "ko": "현실에서의 모습이 화상 통화 때랑 다르면 어떡하지?",
+    "ja": "実際の現実は、ビデオ通話と違っていたらどうしよう？",
+    "romaji": "Jissai no genjitsu wa, bideo tsuuwa to chigatte itara dou shiyou?"
+  },
+  "s1.s2.think_stop": {
+    "en": "This is my stop.",
+    "ru": "Это моя остановка.",
+    "zh": "该下车了。",
+    "ko": "여기서 내려야 해.",
+    "ja": "降りる駅だ。",
+    "romaji": "Oriru eki da."
+  },
+  "s1.s2.train_sway": {
+    "en": "The train sways gently as it carries you toward the station where you'll meet.",
+    "ru": "Поезд плавно покачивается, неся вас к станции, где назначена встреча.",
+    "zh": "列车轻轻摇晃着，载着你前往见面的那个车站。",
+    "ko": "열차가 가볍게 흔들리며 약속 장소인 역으로 당신을 데려갑니다.",
+    "ja": "待ち合わせの駅へ向かう電車が、ゴトゴトと優しく揺れる。",
+    "romaji": "Machiawase no eki e mukau densha ga, gotogoto to yasashiku yureru."
+  },
+  "s1.s2.train_voice": {
+    "en": "「次は渋谷、渋谷です。」(Tsugi wa Shibuya, Shibuya desu.) (Next stop is Shibuya, Shibuya.)",
+    "ru": "«Следующая станция — Сибуя, Сибуя». (Tsugi wa Shibuya, Shibuya desu.)",
+    "zh": "“下一站是涩谷，涩谷。” (Tsugi wa Shibuya, Shibuya desu.)",
+    "ko": "“다음 역은 시부야, 시부야입니다.” (Tsugi wa Shibuya, Shibuya desu.)",
+    "jp": "次は渋谷、渋谷です。",
+    "transc": "Tsugi wa Shibuya, Shibuya desu.",
+    "ja": "「次は渋谷、渋谷です。」",
+    "romaji": "「Tsugi wa Shibuya, Shibuya desu.」"
+  },
+  "s1.s3.and_then": {
+    "en": "And then—",
+    "ru": "И тогда—",
+    "zh": "紧接着——",
+    "ko": "그리고—",
+    "ja": "そして――",
+    "romaji": "Soshite --"
+  },
+  "s1.s3.choice.run": {
+    "en": "Run toward him excitedly",
+    "ru": "Радостно побежать к нему навстречу",
+    "zh": "兴奋地朝他跑过去",
+    "ko": "설레는 마음으로 그에게 달려간다",
+    "ja": "嬉しさのあまり彼に向かって駆け寄る",
+    "romaji": "Ureshisa no amari kare ni mukatte kakeyoru"
+  },
+  "s1.s3.choice.walk": {
+    "en": "Walk over slowly, nervously",
+    "ru": "Подойти медленно, нервничая",
+    "zh": "紧张地慢慢走过去",
+    "ko": "긴장한 채 천천히 걸어간다",
+    "ja": "緊張しながらゆっくり歩いて近づく",
+    "romaji": "Kinchou shinagara yukkuri aruite chikadzuku"
+  },
+  "s1.s3.crowded": {
+    "en": "The station is crowded with morning commuters.",
+    "ru": "Станция переполнена утренними пассажирами.",
+    "zh": "车站里挤满了早高峰的通勤者。",
+    "ko": "역은 아침 통근자들로 붐빕니다.",
+    "ja": "駅は朝の通勤客で混雑している。",
+    "romaji": "Eki wa asa no tsuukinkyaku de konzatsu shite iru."
+  },
+  "s1.s3.freeze": {
+    "en": "For a moment, you freeze.",
+    "ru": "На мгновение вы замираете.",
+    "zh": "那一刻，你愣住了。",
+    "ko": "잠시 몸이 굳어버립니다.",
+    "ja": "一瞬、足が止まって固まってしまう。",
+    "romaji": "Isshun, ashi ga tomatte katamatte shimau."
+  },
+  "s1.s3.look_frantic": {
+    "en": "You look around more frantically.",
+    "ru": "Вы начинаете оглядываться еще более неистово.",
+    "zh": "你更加焦急地环顾四周。",
+    "ko": "더욱 안달 난 표정으로 주위를 살핍니다.",
+    "ja": "必死になってあたりを見回す。",
+    "romaji": "Hisshi ni natte atari o mimawasu."
+  },
+  "s1.s3.person_real": {
+    "en": "The person you've talked to for two years is standing right there.",
+    "ru": "Человек, с которым вы общались два года, стоит прямо там.",
+    "zh": "那个和你聊了两年的人，此刻就站在那里。",
+    "ko": "당신이 2년 동안 대화해온 그 사람이 바로 저기 서 있습니다.",
+    "ja": "2年間話してきたその人が、すぐそこに立っている。",
+    "romaji": "Ninenkan hanashite kita sono hito ga, sugu soko ni tatte iru."
+  },
+  "s1.s3.phone_buzz": {
+    "en": "Your phone buzzes.",
+    "ru": "Ваш телефон жужжит.",
+    "zh": "你的手机震动了一下。",
+    "ko": "휴대전화가 울립니다.",
+    "ja": "スマホがブブッと震える。",
+    "romaji": "Sumaho ga bubutto furueru."
+  },
+  "s1.s3.really_him": {
+    "en": "It's him. It's really him.",
+    "ru": "Это он. Это действительно он.",
+    "zh": "是他。真的是他。",
+    "ko": "그 사람이에요. 정말 그 사람이야.",
+    "ja": "彼だ。本当に彼がいる。",
+    "romaji": "Kare da. Hontou ni kare ga iru."
+  },
+  "s1.s3.scan": {
+    "en": "You stand near the ticket gates, scanning every face.",
+    "ru": "Вы стоите у турникетов, вглядываясь в каждое лицо.",
+    "zh": "你站在检票口附近，扫视着每一张面孔。",
+    "ko": "개찰구 근처에 서서 지나가는 얼굴들을 하나하나 살핍니다.",
+    "ja": "改札の近くに立ち、行き交う人々の顔を一人ひとり見つめる。",
+    "romaji": "Kaisatsu no chikaku ni tachi, ikikau hitobito no kao o hitorihitori mitsumeru."
+  },
+  "s1.s3.see_him": {
+    "en": "A young man in a blue jacket waves at you, a warm smile on his face.",
+    "ru": "Молодой человек в синей куртке машет вам рукой, на его лице теплая улыбка.",
+    "zh": "一个穿着蓝色夹克的年轻男人正向你挥手，脸上挂着温暖的微笑。",
+    "ko": "파란색 재킷을 입은 한 청년이 따뜻한 미소를 지으며 당신에게 손을 흔듭니다.",
+    "ja": "青いジャケットを着た青年が、温かい笑顔を浮かべてこちらに手を振っている。",
+    "romaji": "Aoi jaketto o kita seinen ga, atatakai egao o ukabete kochira ni te o futte iru."
+  },
+  "s1.s3.sora_here": {
+    "en": "着いた！改札の前にいるよ。(Tsuita! Kaisatsu no mae ni iru yo.) (I'm here! I'm in front of the ticket gates.)",
+    "ru": "Я пришел! Я у турникетов. (Tsuita! Kaisatsu no mae ni iru yo.)",
+    "zh": "我到了！就在检票口前面。 (Tsuita! Kaisatsu no mae ni iru yo.)",
+    "ko": "도착했어! 개찰구 앞에 있어. (Tsuita! Kaisatsu no mae ni iru yo.)",
+    "jp": "着いた！改札の前にいるよ。",
+    "transc": "Tsuita! Kaisatsu no mae ni iru yo.",
+    "ja": "着いた！改札の前にいるよ。",
+    "romaji": "Tsuita! Kaisatsu no mae ni iru yo."
+  },
+  "s1.s3.sora_wave": {
+    "en": "りんさん！こっち、こっち！(Rin-san! Kocchi, kocchi!)",
+    "ru": "Рин-сан! Сюда, сюда! (Rin-san! Kocchi, kocchi!)",
+    "zh": "凛！这里，这里！ (Rin-san! Kocchi, kocchi!)",
+    "ko": "린 씨! 여기예요, 여기! (Rin-san! Kocchi, kocchi!)",
+    "jp": "りんさん！こっち、こっち！",
+    "transc": "Rin-san! Kocchi, kocchi!",
+    "ja": "りんさん！こっち、こっち！",
+    "romaji": "Rin-san! Kocchi, kocchi!"
+  },
+  "s1.s3.tangible": {
+    "en": "Real. Tangible. Waiting for you.",
+    "ru": "Настоящий. Осязаемый. Ждет вас.",
+    "zh": "真实的。触手可及的。就在那里等你。",
+    "ko": "현실적이고, 실재하는 그가 당신을 기다리고 있습니다.",
+    "ja": "本物だ。触れられる距離にいる。私を待ってくれている。",
+    "romaji": "Honmono da. Furerareru kyori ni iru. Watashi o matte kurete iru."
+  },
+  "s1.s3.think_blue": {
+    "en": "He said he'd be wearing a blue jacket...",
+    "ru": "Он сказал, что будет в синей куртке...",
+    "zh": "他说他会穿着蓝色夹克……",
+    "ko": "파란색 재킷을 입고 있겠다고 했지...",
+    "ja": "青いジャケットを着てるって言ってたっけ……",
+    "romaji": "Aoi jaketto o kiteru tte itteta kke..."
+  },
+  "s1.s3.think_close": {
+    "en": "That means... he's close.",
+    "ru": "Значит... он близко.",
+    "zh": "这意味着……他就在附近。",
+    "ko": "그렇다는 건... 근처에 있다는 뜻이야.",
+    "ja": "ということは……すぐ近くにいる。",
+    "romaji": "To iu koto wa... sugu chikaku ni iru."
+  },
+  "s1.s4a.awkward": {
+    "en": "It's a little awkward—Japanese people don't usually hug—but he laughs.",
+    "ru": "Это немного неловко — японцы обычно не обнимаются при встрече, — но он смеется.",
+    "zh": "这有点尴尬——日本人通常不会拥抱——但他笑了。",
+    "ko": "조금 어색하네요. 일본 사람들은 보통 포옹을 하지 않으니까요. 하지만 그는 웃어 넘깁니다.",
+    "ja": "日本人はあまりハグをしないので少し不器用な感じになったが、彼は笑ってくれた。",
+    "romaji": "Nihonjin wa amari hagu o shinai node sukoshi bukiyou na kanji ni natta ga, kare wa waratte kureta."
+  },
+  "s1.s4a.call": {
+    "en": "Sora-kun!",
+    "ru": "Сора-кун!",
+    "zh": "空（Sora）！",
+    "ko": "소라 군!",
+    "ja": "ソラくん！",
+    "romaji": "Sora-kun!"
+  },
+  "s1.s4a.hug": {
+    "en": "He opens his arms, and without thinking, you give him a quick hug.",
+    "ru": "Он раскрывает объятия, и вы, не раздумывая, быстро обнимаете его.",
+    "zh": "他张开双臂，你没多想，给了他一个短促的拥抱。",
+    "ko": "그가 팔을 벌리자, 당신은 생각지도 못한 채 가볍게 그를 안아줍니다.",
+    "ja": "彼が両手を広げると、考える間もなく思わずぎゅっと抱きついていた。",
+    "romaji": "Kare ga ryoute o hirogeru to, kangaeru ma mo naku omowazu gyutto dakitsuite ita."
+  },
+  "s1.s4a.player_disbelief": {
+    "en": "I... I can't believe you're really here!",
+    "ru": "Я... я не могу поверить, что ты здесь, по-настоящему!",
+    "zh": "我……我不敢相信你真的就在这里！",
+    "ko": "정말... 정말 여기 있는 거 맞죠? 믿어지질 않아요!",
+    "ja": "本当に……本当にここにいるなんて信じられない！",
+    "romaji": "Hontou ni... hontou ni koko ni iru nante shinjirarenai!"
+  },
+  "s1.s4a.run": {
+    "en": "You find yourself running before you even realize it.",
+    "ru": "Вы ловите себя на том, что уже бежите, прежде чем успеваете это осознать.",
+    "zh": "还没意识到，你就已经跑了起来。",
+    "ko": "자신도 모르게 그를 향해 뛰어가고 있습니다.",
+    "ja": "気づいたときには、自分でも思わず駆け出していた。",
+    "romaji": "Kidzuita toki ni wa, jibun demo omowazu kakedashite ita."
+  },
+  "s1.s4a.sora_glad": {
+    "en": "りんさん、元気そうで良かった！(Rin-san, genki sou de yokatta!) (I'm glad you look well!)",
+    "ru": "Рин-сан, я рад, что ты в порядке! (Rin-san, genki sou de yokatta!)",
+    "zh": "凛，看到你这么有精神真是太好了！ (Rin-san, genki sou de yokatta!)",
+    "ko": "린 씨, 건강해 보여서 다행이에요! (Rin-san, genki sou de yokatta!)",
+    "jp": "りんさん、元気そうで良かった！",
+    "transc": "Rin-san, genki sou de yokatta!",
+    "ja": "りんさん、元気そうで良かった！",
+    "romaji": "Rin-san, genki sou de yokatta!"
+  },
+  "s1.s4a.sora_meet": {
+    "en": "おお！やっと会えた！(Oo! Yatto aeta!) (Finally we meet!)",
+    "ru": "О! Наконец-то мы встретились! (Oo! Yatto aeta!)",
+    "zh": "哦！终于见到了！ (Oo! Yatto aeta!)",
+    "ko": "오! 드디어 만났네요! (Oo! Yatto aeta!)",
+    "jp": "おお！やっと会えた！",
+    "transc": "Oo! Yatto aeta!",
+    "ja": "おお！やっと会えた！",
+    "romaji": "Oo! Yatto aeta!"
+  },
+  "s1.s4b.admission": {
+    "en": "His honest admission catches you off guard.",
+    "ru": "Его честное признание застает вас врасплох.",
+    "zh": "他坦诚的表白让你措手不及。",
+    "ko": "그의 솔직한 고백에 당황하고 맙니다.",
+    "ja": "彼の素直な告白に、思わず拍子抜けしてしまった。",
+    "romaji": "Kare no sunao na kokuhaku ni, omowazu hyoushinuhe shite shimatta."
+  },
+  "s1.s4b.bow": {
+    "en": "When you reach him, you bow slightly—maybe too formally.",
+    "ru": "Подойдя к нему, вы слегка кланяетесь — возможно, слишком официально.",
+    "zh": "走到他面前时，你微微鞠了一躬——也许有些太正式了。",
+    "ko": "그의 앞에 서서 가볍게 목례를 합니다. 어쩌면 너무 격식을 차린 걸지도 모르겠네요.",
+    "ja": "彼の前にたどり着くと、少し丁寧すぎるくらい軽くお辞儀をする。",
+    "romaji": "Kare no mae ni tadoritsuku to, sukoshi teinei sugiru kurai karuku ojigi o suru."
+  },
+  "s1.s4b.player_surprised": {
+    "en": "You're... nervous too?",
+    "ru": "Ты... тоже нервничаешь?",
+    "zh": "你也……很紧张吗？",
+    "ko": "당신도... 긴장했나요?",
+    "ja": "ソラくんも……緊張してるの？",
+    "romaji": "Sora-kun mo... kinchou shiteru no?"
+  },
+  "s1.s4b.scratch": {
+    "en": "He scratches the back of his head, looking a bit embarrassed himself.",
+    "ru": "Он чешет затылок, сам выглядя немного смущенным.",
+    "zh": "他抓了抓后脑勺，看起来也有点尴尬。",
+    "ko": "그는 뒷머리를 긁적이며 자신도 조금 쑥스러운 듯 보이네요.",
+    "ja": "彼は少し照れくさそうに後頭部をポリポリとかいた。",
+    "romaji": "Kare wa sukoshi terekusasou ni koutoubu o poripori to kaita."
+  },
+  "s1.s4b.sora_course": {
+    "en": "もちろん！二年間チャットしてた人に初めて会うんだよ？(Mochiron! Ni-nenkan chatto shiteta hito ni hajimete au n da yo?) (Of course! Meeting someone I've chatted with for two years for the first time?)",
+    "ru": "Конечно! Я впервые встречаюсь с человеком, с которым переписывался два года! (Mochiron!)",
+    "zh": "那是当然！这可是第一次见到聊了两年的人啊！ (Mochiron!)",
+    "ko": "당연하죠! 2년 동안이나 채팅했던 사람을 처음 만나는 거잖아요? (Mochiron!)",
+    "jp": "もちろん！二年間チャットしてた人に初めて会うんだよ？",
+    "transc": "Mochiron! Ni-nenkan chatto shiteta hito ni hajimete au n da yo?",
+    "ja": "もちろん！2年間チャットしてた人に初めて会うんだよ？",
+    "romaji": "Mochiron! Ninenkan chatto shiteta hito ni hajimete au n da yo?"
+  },
+  "s1.s4b.sora_happy": {
+    "en": "でも、やっと会えて嬉しい！(Demo, yatto aete ureshii!) (But I'm happy we finally meet!)",
+    "ru": "Но я так рад, что мы наконец встретились! (Demo, yatto aete ureshii!)",
+    "zh": "不过，终于见到了，我真的很开心！ (Demo, yatto aete ureshii!)",
+    "ko": "그래도 이렇게 만나게 돼서 정말 기뻐요! (Demo, yatto aete ureshii!)",
+    "jp": "でも、やっと会えて嬉しい！",
+    "transc": "Demo, yatto aete ureshii!",
+    "ja": "でも、やっと会えて嬉しい！",
+    "romaji": "Demo, yatto aete ureshii!"
+  },
+  "s1.s4b.sora_nervous": {
+    "en": "りんさん！緊張してる？僕もだよ！(Rin-san! Kinchou shiteru? Boku mo da yo!) (Are you nervous? Me too!)",
+    "ru": "Рин-сан! Нервничаешь? Я тоже! (Rin-san! Kinchou shiteru? Boku mo da yo!)",
+    "zh": "凛！你很紧张吗？我也是！ (Rin-san! Kinchou shiteru? Boku mo da yo!)",
+    "ko": "린 씨! 긴장하셨어요? 저도 그래요! (Rin-san! Kinchou shiteru? Boku mo da yo!)",
+    "jp": "りんさん！緊張してる？僕もだよ！",
+    "transc": "Rin-san! Kinchou shiteru? Boku mo da yo!",
+    "ja": "りんさん！緊張してる？僕もだよ！",
+    "romaji": "Rin-san! Kinchou shiteru? Boku mo da yo!"
+  },
+  "s1.s4b.stutter": {
+    "en": "あ、あの... Sora-kun... (A, ano... Sora-kun...)",
+    "ru": "А, э-э... Сора-кун... (A, ano... Sora-kun...)",
+    "zh": "啊，那个……空（Sora）…… (A, ano... Sora-kun...)",
+    "ko": "아, 저기... 소라 군... (A, ano... Sora-kun...)",
+    "jp": "あ、あの... Sora-kun...",
+    "transc": "A, ano... Sora-kun...",
+    "ja": "あ、あの……ソラくん……",
+    "romaji": "A, ano... Sora-kun..."
+  },
+  "s1.s4b.walk": {
+    "en": "You walk over slowly, your legs feeling like lead.",
+    "ru": "Вы медленно подходите, ноги словно налиты свинцом.",
+    "zh": "你慢慢走过去，双腿沉重得像灌了铅一样。",
+    "ko": "다리가 천근만근 무겁게 느껴지지만, 천천히 그에게로 다가갑니다.",
+    "ja": "足が鉛のように重く感じられながらも、ゆっくりと歩み寄る。",
+    "romaji": "Ashi ga namari no you ni omoku kanjirarenagara mo, yukkuri to aumiyoru."
+  },
+  "s1.s5.online_time": {
+    "en": "Online, there was always time to think of what to say.",
+    "ru": "В интернете всегда было время подумать над ответом.",
+    "zh": "在网上聊的时候，总有时间思考该说什么。",
+    "ko": "온라인에서는 할 말을 생각할 시간이 항상 있었죠.",
+    "ja": "オンラインなら、何を言うか考える時間がいつだってあった。",
+    "romaji": "Onrain nara, nani o iu ka kangaeru jikan ga itsudatte atta."
+  },
+  "s1.s5.player_lead": {
+    "en": "Okay... lead the way!",
+    "ru": "Хорошо... веди!",
+    "zh": "好吧……你带路吧！",
+    "ko": "좋아요... 안내해 주세요!",
+    "ja": "うん……案内して！",
+    "romaji": "Un... annai shite!"
+  },
+  "s1.s5.player_taller": {
+    "en": "Yeah... you're... taller than I imagined.",
+    "ru": "Да... ты... выше, чем я представляла.",
+    "zh": "是啊……你……比我想象中的要高。",
+    "ko": "네... 당신... 생각했던 것보다 키가 크네요.",
+    "ja": "うん……思ってたより背が高いね。",
+    "romaji": "Un... omotteta yori se ga takai ne."
+  },
+  "s1.s5.real_time": {
+    "en": "Here, in real time, everything feels more... immediate.",
+    "ru": "Здесь, в реальном времени, все кажется более... непосредственным.",
+    "zh": "而在这里，在现实中，一切都显得更加……直接。",
+    "ko": "하지만 여기, 현실에서는 모든 것이 훨씬 더... 즉각적으로 느껴집니다.",
+    "ja": "でもこの現実の空間では、すべてがもっと直に迫ってくる。",
+    "romaji": "Demo kono genjitsu no kuukan de wa, subete ga motto jika ni sematte kuru."
+  },
+  "s1.s5.silence": {
+    "en": "There's a brief awkward silence.",
+    "ru": "Наступает короткое неловкое молчание.",
+    "zh": "出现了一阵短暂而尴尬的沉默。",
+    "ko": "잠시 어색한 침묵이 흐릅니다.",
+    "ja": "ふと、少しぎこちない沈黙が流れた。",
+    "romaji": "Futo, sukoshi gikochinai chinmoku ga nagareta."
+  },
+  "s1.s5.sora_cafe": {
+    "en": "あ、カフェ行こう！ずっと話してた店があるんだ。(A, kafe ikou! Zutto hanashiteta mise ga aru nda.) (Ah, let's go to a café! There's a place I've been wanting to take you.)",
+    "ru": "О, пойдем в кафе! Есть одно место, о котором я все время говорил. (A, kafe ikou!)",
+    "zh": "啊，去咖啡馆吧！有一家店我一直想带你去的。 (A, kafe ikou!)",
+    "ko": "아, 카페 가요! 전부터 말했던 가보고 싶은 곳이 있거든요. (A, kafe ikou!)",
+    "jp": "あ、カフェ行こう！ずっと話してた店があるんだ。",
+    "transc": "A, kafe ikou! Zutto hanashiteta mise ga aru nda.",
+    "ja": "あ、カフェ行こう！ずっと話してた店があるんだ。",
+    "romaji": "A, kafe ikou! Zutto hanashiteta mise ga arun da."
+  },
+  "s1.s5.sora_diff": {
+    "en": "画面越しと、なんか違うね。(Gamen-goshi to, nanka chigau ne.) (It's somehow different from through a screen, isn't it?)",
+    "ru": "Вживую все как-то иначе, чем через экран, да? (Gamen-goshi to...)",
+    "zh": "感觉和隔着屏幕看不太一样呢。 (Gamen-goshi to...)",
+    "ko": "화면으로 볼 때랑은 뭔가 느낌이 다르네요. (Gamen-goshi to...)",
+    "jp": "画面越しと、なんか違うね。",
+    "transc": "Gamen-goshi to, nanka chigau ne.",
+    "ja": "画面越しと、なんか違うね。",
+    "romaji": "Gamen-goshi to, nanka chigau ne."
+  },
+  "s1.s5.sora_really": {
+    "en": "え、本当？画面じゃわからないもんね。(E, hontou? Gamen ja wakaranai mon ne.) (Really? I guess you can't tell through a screen.)",
+    "ru": "О, правда? Ну, через экран этого не видно. (E, hontou?)",
+    "zh": "诶，真的吗？隔着屏幕确实看不出来呢。 (E, hontou?)",
+    "ko": "어, 정말요? 화면으로는 잘 몰랐나 보네요. (E, hontou?)",
+    "jp": "え、本当？画面じゃわからないもんね。",
+    "transc": "E, hontou? Gamen ja wakaranai mon ne.",
+    "ja": "え、本当？画面じゃわからないもんね。",
+    "romaji": "E, hontou? Gamen ja wakaranai mon ne."
+  },
+  "s1.s5.stand": {
+    "en": "For a moment, you both just stand there, taking each other in.",
+    "ru": "На мгновение вы оба просто стоите, разглядывая друг друга.",
+    "zh": "有那么一会儿，你们两个只是站在那里，打量着彼此。",
+    "ko": "잠시 동안 두 사람은 서로를 바라보며 서 있습니다.",
+    "ja": "少しの間、二人はただ立ち尽くし、お互いの姿をまじまじと見つめ合った。",
+    "romaji": "Sukoshi no aida, futari wa tada tachitsukushi, otagai no sugata o majimaji to mitsumeatta."
+  },
+  "s1.s6.dissolve": {
+    "en": "His easy laugh helps dissolve some of your tension.",
+    "ru": "Его непринужденный смех помогает снять часть вашего напряжения.",
+    "zh": "他那爽朗的笑声帮你缓解了不少紧张情绪。",
+    "ko": "그의 소탈한 웃음소리에 긴장이 조금씩 풀립니다.",
+    "ja": "彼の屈託のない笑い声を聞いているうちに、胸の緊張がすっとほどけていく。",
+    "romaji": "Kare no kuttaku no nai waraigoe o kiite iru uchi ni, mune no kinchou ga sutto hodokete iku."
+  },
+  "s1.s6.glow": {
+    "en": "You feel a warm glow at the compliment.",
+    "ru": "Вы чувствуете приятное тепло от этого комплимента.",
+    "zh": "听到这个赞美，你感到心里暖暖的。",
+    "ko": "칭찬을 들으니 마음 한구석이 훈훈해집니다.",
+    "ja": "褒められて、心がじんわりと温かくなる。",
+    "romaji": "Homerarete, kokoro ga jinwari to atatakaku naru."
+  },
+  "s1.s6.player_3mo": {
+    "en": "Um... 三ヶ月くらい... です。(San-kagetsu kurai... desu.) (About three months...)",
+    "ru": "Э-э... Около трех месяцев... (San-kagetsu kurai... desu.)",
+    "zh": "嗯……大概三个月左右。 (San-kagetsu kurai... desu.)",
+    "ko": "음... 3개월 정도 됐어요. (San-kagetsu kurai... desu.)",
+    "jp": "三ヶ月くらい... です。",
+    "transc": "San-kagetsu kurai... desu.",
+    "ja": "えっと……3ヶ月くらい……です。",
+    "romaji": "Etto... sankagetsu kurai... desu."
+  },
+  "s1.s6.player_hontou": {
+    "en": "本当に (Hontou ni)? I still make so many mistakes...",
+    "ru": "Правда (Hontou ni)? Я все еще делаю так много ошибок...",
+    "zh": "真的吗（Hontou ni）？我还是会犯很多错误……",
+    "ko": "정말요(Hontou ni)? 아직 실수투성이라서...",
+    "ja": "本当に？まだまだいっぱい間違えるんだけど……",
+    "romaji": "Hontou ni? Madamada ippai machigaerun dakedo..."
+  },
+  "s1.s6.sora_english": {
+    "en": "僕の英語もまだまだだよ. お互い様だね。(Boku no eigo mo mada mada da yo. Otagai-sama da ne.) (My English still has a long way to go too. We're even!)",
+    "ru": "Мой английский тоже еще далек от идеала. Так что мы в расчете! (Boku no eigo mo mada mada da yo.)",
+    "zh": "我的英语也还差得远呢。彼此彼此啦！ (Boku no eigo mo mada mada da yo.)",
+    "ko": "제 영어도 아직 멀었는걸요. 피장파장이네요! (Boku no eigo mo mada mada da yo.)",
+    "jp": "僕の英語もまだまだだよ。お互い様だね。",
+    "transc": "Boku no eigo mo mada mada da yo. Otagai-sama da ne.",
+    "ja": "僕の英語もまだまだだよ。お互い様だね。",
+    "romaji": "Boku no eigo mo madamada da yo. Otagai-sama da ne."
+  },
+  "s1.s6.sora_praise": {
+    "en": "おお、すごい！日本語、上手になったね！(Oo, sugoi! Nihongo, jouzu ni natta ne!) (Wow, amazing! Your Japanese has gotten better!)",
+    "ru": "О, круто! Твой японский стал намного лучше! (Oo, sugoi! Nihongo, jouzu ni natta ne!)",
+    "zh": "噢，厉害！你的日语进步很大呢！ (Oo, sugoi! Nihongo, jouzu ni natta ne!)",
+    "ko": "오, 대단해요! 일본어 실력이 정말 많이 늘었네요! (Oo, sugoi! Nihongo, jouzu ni natta ne!)",
+    "jp": "おお、すごい！日本語、上手になったね！",
+    "transc": "Oo, sugoi! Nihongo, jouzu ni natta ne!",
+    "ja": "おお、すごい！日本語、上手になったね！",
+    "romaji": "Oo, sugoi! Nihongo, jouzu ni natta ne!"
+  },
+  "s1.s6.sora_time": {
+    "en": "日本に来て、どのくらい？(Nihon ni kite, dono kurai?) (How long have you been in Japan?)",
+    "ru": "Как давно ты в Японии? (Nihon ni kite, dono kurai?)",
+    "zh": "你来日本多久了？ (Nihon ni kite, dono kurai?)",
+    "ko": "일본에 온 지는 얼마나 됐나요? (Nihon ni kite, dono kurai?)",
+    "jp": "日本に来て、どのくらい？",
+    "transc": "Nihon ni kite, dono kurai?",
+    "ja": "日本に来て、どのくらい？",
+    "romaji": "Nihon ni kite, dono kurai?"
+  },
+  "s1.s6.surreal": {
+    "en": "It feels surreal—the person next to you was just pixels on a screen yesterday.",
+    "ru": "Это кажется нереальным — человек рядом с вами еще вчера был просто пикселями на экране.",
+    "zh": "这感觉很不真实——昨天还只是屏幕上像素点的那个他，此刻就坐在你身边。",
+    "ko": "비현실적인 기분이에요. 어제까지만 해도 화면 속 픽셀에 불과했던 사람이 곁에 있다니.",
+    "ja": "昨日まで画面の中の画素に過ぎなかった人が隣にいるなんて、なんだか不思議な感覚だ。",
+    "romaji": "Kinou made gamen no naka no gaso ni suginakatta hito ga tonari ni iru nante, nandaka fushigi na kankaku da."
+  },
+  "s1.s6.think_natural": {
+    "en": "This feels... natural. Like talking online, but warmer.",
+    "ru": "Это кажется... естественным. Как общение в сети, только теплее.",
+    "zh": "这种感觉……很自然。就像在网上聊天一样，但更温暖。",
+    "ko": "기분이... 자연스러워요. 온라인 대화와 비슷하지만 훨씬 따뜻한 느낌이죠.",
+    "ja": "すごく自然に話せる。オンラインのときと同じだけど、もっと温かい。",
+    "romaji": "Sugoku shizen ni hanaseru. Onrain no toki to onaji dakedo, motto atatakai."
+  },
+  "s1.s6.walk": {
+    "en": "You walk side by side through the busy streets of Shibuya.",
+    "ru": "Вы идете плечом к плечу по оживленным улицам Сибуи.",
+    "zh": "你们并肩走在涩谷繁忙的街道上。",
+    "ko": "당신은 시부야의 번화한 거리를 나란히 걷습니다.",
+    "ja": "二人は賑やかな渋谷の街を肩を並べて歩いていく。",
+    "romaji": "Futari wa nigiyaka na Shibuya no machi o kata o narabete aruite iku."
+  },
+  "s1.s7.cafe_desc": {
+    "en": "The café is cozy, filled with the aroma of fresh coffee and soft jazz music.",
+    "ru": "В кафе уютно, пахнет свежим кофе и играет тихий джаз.",
+    "zh": "咖啡馆很温馨，弥漫着新鲜咖啡的香气和柔和的爵士乐。",
+    "ko": "카페는 아늑하고 신선한 커피 향과 부드러운 재즈 음악으로 가득 차 있습니다.",
+    "ja": "カフェは居心地がよく、挽きたてのコーヒーの香りと穏やかなジャズの調べに満ちている。",
+    "romaji": "Kafe wa igokochi ga yoku, hikitate no koohii no kaori to odayaka na jazu no shirabe ni michite iru."
+  },
+  "s1.s7.choice.en": {
+    "en": "Order in English (play it safe)",
+    "ru": "Заказать на английском (так надежнее)",
+    "zh": "用英语点单（保守起见）",
+    "ko": "영어로 주문하기(안전하게)",
+    "ja": "英語で注文する（安全策をとる）",
+    "romaji": "Eigo de chuumon suru (anzensaku o toru)"
+  },
+  "s1.s7.choice.jp": {
+    "en": "Order in Japanese (try your best)",
+    "ru": "Заказать на японском (постараться)",
+    "zh": "用日语点单（尽力尝试）",
+    "ko": "일본어로 주문하기(최선을 다해)",
+    "ja": "日本語で注文する（ベストを尽くしてみる）",
+    "romaji": "Nihongo de chuumon suru (besuto o tsukushite miru)"
+  },
+  "s1.s7.lead_table": {
+    "en": "Sora leads you to a corner table by the window.",
+    "ru": "Сора ведет вас к угловому столику у окна.",
+    "zh": "空（Sora）领着你来到窗边的一个角落位子上。",
+    "ko": "소라는 창가 쪽 구석 테이블로 당신을 안내합니다.",
+    "ja": "ソラは窓際の落ち着いた角の席へと案内してくれた。",
+    "romaji": "Sora wa madogiwa no ochitsuita kado no seki e to annai shite kureta."
+  },
+  "s1.s7.server": {
+    "en": "A server approaches your table.",
+    "ru": "Официант подходит к вашему столику.",
+    "zh": "服务员向你们走来。",
+    "ko": "종업원이 테이블로 다가옵니다.",
+    "ja": "店員がテーブルに近づいてくる。",
+    "romaji": "Ten'in ga teeburu ni chikadzuite kuru."
+  },
+  "s1.s7.server_ask": {
+    "en": "ご注文は？(Gochuumon wa?) (What would you like to order?)",
+    "ru": "Что будете заказывать? (Gochuumon wa?)",
+    "zh": "您要点什么？ (Gochuumon wa?)",
+    "ko": "주문하시겠어요? (Gochuumon wa?)",
+    "jp": "ご注文は？",
+    "transc": "Gochuumon wa?",
+    "ja": "ご注文は？",
+    "romaji": "Gochuumon wa?"
+  },
+  "s1.s7.sora_fave": {
+    "en": "ここ、僕のお気に入りの場所なんだ。(Koko, boku no okiniiri no basho nan da.) (This is my favorite spot.)",
+    "ru": "Это мое любимое место. (Koko, boku no okiniiri no basho nan da.)",
+    "zh": "这里我是最喜欢的地方。 (Koko, boku no okiniiri no basho nan da.)",
+    "ko": "여긴 제가 정말 좋아하는 곳이에요. (Koko, boku no okiniiri no basho nan da.)",
+    "jp": "ここ、僕のお気に入りの場所なんだ。",
+    "transc": "Koko, boku no okiniiri no basho nan da.",
+    "ja": "ここ、僕のお気に入りの場所なんだ。",
+    "romaji": "Koko, boku no okiniiri no basho nan da."
+  },
+  "s1.s7.sora_order": {
+    "en": "僕は抹茶ラテで。りんさんは？(Boku wa matcha rate de. Rin-san wa?) (I'll have a matcha latte. What about you, Rin-san?)",
+    "ru": "Мне матча-латте. А тебе, Рин-сан? (Boku wa matcha rate de. Rin-san wa?)",
+    "zh": "我要一杯抹茶拿铁。凛呢？ (Boku wa matcha rate de. Rin-san wa?)",
+    "ko": "저는 말차 라떼로 할게요. 린 씨는요? (Boku wa matcha rate de. Rin-san wa?)",
+    "jp": "僕は抹茶ラテで. りんさんは？",
+    "transc": "Boku wa matcha rate de. Rin-san wa?",
+    "ja": "僕は抹茶ラテで。りんさんは？",
+    "romaji": "Boku wa matcha rate de. Rin-san wa?"
+  },
+  "s1.s8a.player_order": {
+    "en": "あの... コーヒーを... お願いします。(Ano... koohii o... onegaishimasu.)",
+    "ru": "Э-э... кофе, пожалуйста. (Ano... koohii o... onegaishimasu.)",
+    "zh": "那个……请给我一杯咖啡。 (Ano... koohii o... onegaishimasu.)",
+    "ko": "저기... 커피 한 잔... 부탁드려요. (Ano... koohii o... onegaishimasu.)",
+    "jp": "あの... コーヒーを... お願いします。",
+    "transc": "Ano... koohii o... onegaishimasu.",
+    "ja": "あの……コーヒーを……お願いします。",
+    "romaji": "Ano... koohii o... onegaishimasu."
+  },
+  "s1.s8a.player_shaking": {
+    "en": "Really? I felt like my voice was shaking...",
+    "ru": "Правда? Мне показалось, у меня голос дрожал...",
+    "zh": "真的吗？我觉得我的声音都在发抖……",
+    "ko": "정말요? 목소리가 좀 떨렸던 것 같은데...",
+    "ja": "本当？声が震えてた気がしたんだけど……",
+    "romaji": "Hontou? Koe ga furueteta ki ga shitan dakedo..."
+  },
+  "s1.s8a.server_confirm": {
+    "en": "かしこまりました。少々お待ちください。(Kashikomarimashita. Shoushou omachi kudasai.) (Certainly. Please wait a moment.)",
+    "ru": "Слушаюсь. Пожалуйста, подождите немного. (Kashikomarimashita.)",
+    "zh": "好的。请稍等。 (Kashikomarimashita.)",
+    "ko": "알겠습니다. 잠시만 기다려 주세요. (Kashikomarimashita.)",
+    "jp": "かしこまりました。少々お待ちください。",
+    "transc": "Kashikomarimashita. Shoushou omachi kudasai.",
+    "ja": "かしこまりました。少々お待ちください。",
+    "romaji": "Kashikomarimashita. Shoushou omachi kudasai."
+  },
+  "s1.s8a.sora_fine": {
+    "en": "大丈夫、ちゃんと通じてたよ。(Daijoubu, chanto tsuujiteta yo.) (It's fine, they understood you perfectly.)",
+    "ru": "Все хорошо, тебя прекрасно поняли. (Daijoubu, chanto tsuujiteta yo.)",
+    "zh": "没关系，他们听得很明白。 (Daijoubu, chanto tsuujiteta yo.)",
+    "ko": "괜찮아요, 충분히 잘 전달됐어요. (Daijoubu, chanto tsuujiteta yo.)",
+    "jp": "大丈夫、ちゃんと通じてたよ。",
+    "transc": "Daijoubu, chanto tsuujiteta yo.",
+    "ja": "大丈夫、ちゃんと通じてたよ。",
+    "romaji": "Daijoubu, chanto tsuujiteta yo."
+  },
+  "s1.s8a.sora_perfect": {
+    "en": "完璧！(Kanpeki!) (Perfect!)",
+    "ru": "Идеально! (Kanpeki!)",
+    "zh": "完美！ (Kanpeki!)",
+    "ko": "완벽해요! (Kanpeki!)",
+    "jp": "完璧！",
+    "transc": "Kanpeki!",
+    "ja": "完璧！",
+    "romaji": "Kanpeki!"
+  },
+  "s1.s8a.think_encourage": {
+    "en": "He always encourages me like this...",
+    "ru": "Он всегда меня так подбадривает...",
+    "zh": "他总是像这样鼓励我……",
+    "ko": "그는 항상 이런 식으로 저를 격려해 주곤 해요...",
+    "ja": "彼はいつもこうして励ましてくれる……",
+    "romaji": "Kare wa itsumo kou shite hagemashite kureru..."
+  },
+  "s1.s8a.walk_away": {
+    "en": "The server walks away, and Sora gives you a thumbs up.",
+    "ru": "Официант уходит, и Сора показывает вам большой палец.",
+    "zh": "服务员走开了，空（Sora）朝你竖起了大拇指。",
+    "ko": "종업원이 가고 나자, 소라가 당신에게 엄지를 치켜세웁니다.",
+    "ja": "店員が離れると、ソラが親指を立ててグッジョブのサインをしてくれた。",
+    "romaji": "Ten'in ga hanareru to, Sora ga oyayubi o tatete gujjobu no sain o shite kureta."
+  },
+  "s1.s8b.player_order": {
+    "en": "Could I have a coffee, please?",
+    "ru": "Можно мне кофе, пожалуйста?",
+    "zh": "请给我一杯咖啡好吗？",
+    "ko": "커피 한 잔 주시겠어요?",
+    "ja": "Could I have a coffee, please?（コーヒーを一杯いただけますか？）",
+    "romaji": "Could I have a coffee, please? (Koohii o ippai itadakemasu ka?)"
+  },
+  "s1.s8b.player_sorry": {
+    "en": "I... I got nervous. Sorry.",
+    "ru": "Я... я разнервничалась. Извини.",
+    "zh": "我……我有点紧张。抱歉。",
+    "ko": "저... 긴장해서요. 미안해요.",
+    "ja": "私……緊張しちゃって。ごめんね。",
+    "romaji": "Watashi... kinchou shichatte. Gomen ne."
+  },
+  "s1.s8b.server_nod": {
+    "en": "The server nods and walks away.",
+    "ru": "Официант кивает и уходит.",
+    "zh": "服务员点点头，走开了。",
+    "ko": "종업원이 고개를 끄덕이고는 자리를 뜹니다.",
+    "ja": "店員はうなずいて去っていった。",
+    "romaji": "Ten'in wa unazuite satte itta."
+  },
+  "s1.s8b.sora_challenge": {
+    "en": "次は日本語で挑戦してみよう？(Tsugi wa nihongo de chousen shite miyou?) (Want to try in Japanese next time?)",
+    "ru": "В следующий раз попробуем на японском? (Tsugi wa nihongo de chousen shite miyou?)",
+    "zh": "下次试着用日语挑战一下？ (Tsugi wa nihongo de chousen shite miyou?)",
+    "ko": "다음번에는 일본어로 도전해 볼까요? (Tsugi wa nihongo de chousen shite miyou?)",
+    "jp": "次は日本語で挑戦してみよう？",
+    "transc": "Tsugi wa nihongo de chousen shite miyou?",
+    "ja": "次は日本語で挑戦してみよう？",
+    "romaji": "Tsugi wa nihongo de chousen shite miyou?"
+  },
+  "s1.s8b.sora_comfort": {
+    "en": "謝らないで！僕だって英語圏で注文するの緊張するし。(Ayamaranai de! Boku datte eigoken de chuumon suru no kinchou suru shi.) (Don't apologize! I get nervous ordering in English-speaking countries too.)",
+    "ru": "Не извиняйся! Я и сам нервничаю, когда заказываю что-то в англоязычных странах. (Ayamaranai de!)",
+    "zh": "别道歉！我在英语国家点餐的时候也会紧张的。 (Ayamaranai de!)",
+    "ko": "사과하지 마세요! 저도 영어권 국가에서 주문할 때는 긴장한단 말이에요. (Ayamaranai de!)",
+    "jp": "謝らないで！僕だって英語圏で注文するの緊張するし。",
+    "transc": "Ayamaranai de! Boku datte eigoken de chuumon suru no kinchou suru shi.",
+    "ja": "謝らないで！僕だって英語圏で注文するの緊張するし。",
+    "romaji": "Ayamaranai de! Boku datte eigoken de chuumon suru no kinchou suru shi."
+  },
+  "s1.s8b.think_easy": {
+    "en": "He never makes me feel bad about taking the easy way...",
+    "ru": "Он никогда не заставляет меня чувствовать себя плохо из-за того, что я выбираю путь попроще...",
+    "zh": "他从来不会因为我选择简单的方式而让我感到惭愧……",
+    "ko": "그는 쉬운 길을 택한다고 해서 저를 무안하게 만든 적이 없어요...",
+    "ja": "楽な道を選んだからって、彼が私を責めたりすることは絶対にない……",
+    "romaji": "Raku na michi o eranda kara tte, kare ga watashi o semetari suru koto wa zettai ni nai..."
+  },
+  "s1.s9.arrive": {
+    "en": "Your drinks arrive, steam rising from the cups.",
+    "ru": "Приносят ваши напитки, от чашек поднимается пар.",
+    "zh": "你们点的饮品到了，杯子里冒着热气。",
+    "ko": "주문한 음료가 나오고, 컵 위로 김이 모락모락 피어오릅니다.",
+    "ja": "カップから湯気を立ち上らせながら、飲み物が運ばれてきた。",
+    "romaji": "Kappu kara yuge o tachinoborasenagara, nomimono ga hakobarete kita."
+  },
+  "s1.s9.player_confused": {
+    "en": "You? But you always seem so confident online...",
+    "ru": "Ты? Но в сети ты всегда кажешься таким уверенным...",
+    "zh": "你？可你在网上看起来总是那么自信……",
+    "ko": "당신이요? 온라인에서는 항상 그렇게 당당해 보였는데...",
+    "ja": "ソラくんが？でもオンラインだといつも堂々としてるように見えるよ……",
+    "romaji": "Sora-kun ga? Demo onrain da to itsumo doudou to shiteru you ni mieru yo..."
+  },
+  "s1.s9.player_itadakimasu": {
+    "en": "いただきます... (Itadakimasu...)",
+    "ru": "Итадакимасу... (Приступаем к еде...)",
+    "zh": "我不客气了…… (Itadakimasu...)",
+    "ko": "잘 먹겠습니다... (Itadakimasu...)",
+    "jp": "いただきます...",
+    "transc": "Itadakimasu...",
+    "ja": "いただきます……",
+    "romaji": "Itadakimasu..."
+  },
+  "s1.s9.player_same": {
+    "en": "I was worried about the same thing...",
+    "ru": "Я беспокоилась о том же самом...",
+    "zh": "我也一直在担心同样的事情……",
+    "ko": "저도 똑같은 걱정을 했었어요...",
+    "ja": "私も同じこと心配してたんだ……",
+    "romaji": "Watashi mo onaji koto shinpai shiteta nda..."
+  },
+  "s1.s9.player_worry": {
+    "en": "That maybe our friendship only works through a screen.",
+    "ru": "Что, возможно, наша дружба работает только через экран.",
+    "zh": "担心我们的友谊也许只能存在于屏幕之中。",
+    "ko": "우리 우정이 화면 너머에서만 유효한 거면 어쩌나 하고요.",
+    "ja": "画面越しでしか成り立たない友情だったらどうしようって。",
+    "romaji": "Gamen-goshi de shika naritatanai yuujou dattara dou shiyou tte."
+  },
+  "s1.s9.resonate": {
+    "en": "His words resonate deeply with you.",
+    "ru": "Его слова находят глубокий отклик в вашей душе.",
+    "zh": "他的话让你深有感触。",
+    "ko": "그의 말에 가슴 깊이 공감합니다.",
+    "ja": "彼の言葉が、胸の奥深くに強く響く。",
+    "romaji": "Kare no kotoba ga, mune no okufukaku ni tsuyoku hibiku."
+  },
+  "s1.s9.silence": {
+    "en": "Then, a comfortable silence settles between you.",
+    "ru": "Затем между вами устанавливается уютное молчание.",
+    "zh": "随后，你们之间陷入了一种自在的沉默。",
+    "ko": "그러자 두 사람 사이에 편안한 정적이 감돕니다.",
+    "ja": "それから、二人の間に心地よい静けさが訪れた。",
+    "romaji": "Sorekara, futari no aida ni kokochiyoi shizukesa ga otozureta."
+  },
+  "s1.s9.sip": {
+    "en": "You both take a sip.",
+    "ru": "Вы оба делаете по глотку.",
+    "zh": "你们都喝了一小口。",
+    "ko": "두 사람 모두 한 모금씩 마십니다.",
+    "ja": "二人で一口飲む。",
+    "romaji": "Futari de hitokuchi nomu."
+  },
+  "s1.s9.sora_actually": {
+    "en": "実はね... (Jitsu wa ne...)",
+    "ru": "Вообще-то... (Jitsu wa ne...)",
+    "zh": "其实呢…… (Jitsu wa ne...)",
+    "ko": "사실은 말이죠... (Jitsu wa ne...)",
+    "jp": "実はね...",
+    "transc": "Jitsu wa ne...",
+    "ja": "実はね……",
+    "romaji": "Jitsu wa ne..."
+  },
+  "s1.s9.sora_confess": {
+    "en": "今日会うの、すごく緊張してたんだ。(Kyou au no, sugoku kinchou shiteta nda.) (Actually... I was really nervous about meeting today.)",
+    "ru": "На самом деле я очень нервничал из-за сегодняшней встречи. (Kyou au no...)",
+    "zh": "其实我对于今天的见面，也感到非常紧张。 (Kyou au no...)",
+    "ko": "오늘 만나는 거, 사실 엄청 긴장했었어요. (Kyou au no...)",
+    "jp": "今日会うの、すごく緊張してたんだ。",
+    "transc": "Kyou au no, sugoku kinchou shiteta nda.",
+    "ja": "今日会うの、すごく緊張してたんだ。",
+    "romaji": "Kyou au no, sugoku kinchou shiteta nda."
+  },
+  "s1.s9.sora_itadakimasu": {
+    "en": "いただきます！(Itadakimasu!)",
+    "ru": "Итадакимасу! (Приступаем к еде!)",
+    "zh": "我不客气了！ (Itadakimasu!)",
+    "ko": "잘 먹겠습니다! (Itadakimasu!)",
+    "jp": "いただきます！",
+    "transc": "Itadakimasu!",
+    "ja": "いただきます！",
+    "romaji": "Itadakimasu!"
+  },
+  "s1.s9.sora_online": {
+    "en": "オンラインだと、考える時間があるでしょ？(Onrain da to, kangaeru jikan ga aru desho?) (Online, you have time to think, right?)",
+    "ru": "В интернете есть время подумать, верно? (Onrain da to...)",
+    "zh": "在网上聊的时候，总有时间思考的对吧？ (Onrain da to...)",
+    "ko": "온라인에서는 생각할 시간이 있잖아요? (Onrain da to...)",
+    "jp": "オンラインだと、考える時間があるでしょ？",
+    "transc": "Onrain da to, kangaeru jikan ga aru desho?",
+    "ja": "オンラインだと、考える時間があるでしょ？",
+    "romaji": "Onrain da to, kangaeru jikan ga aru desho?"
+  },
+  "s1.s9.sora_real": {
+    "en": "でも直接会うと... なんか、本当の自分を見せるみたいで。(Demo chokusetsu au to... nanka, hontou no jibun o miseru mitai de.) (But meeting in person... it's like showing your real self.)",
+    "ru": "Но при личной встрече... это как будто показываешь себя настоящего. (Demo chokusetsu au to...)",
+    "zh": "但当面见到的时候……总感觉像是在展示真实的自己。 (Demo chokusetsu au to...)",
+    "ko": "하지만 직접 만나고 나니... 뭔가, 진짜 제 모습을 보여주는 것 같아서요. (Demo chokusetsu au to...)",
+    "jp": "でも直接会うと... なんか, 本当の自分を見せるみたいで。",
+    "transc": "Demo chokusetsu au to... nanka, hontou no jibun o miseru mitai de.",
+    "ja": "でも直接会うと……なんか、本当の自分を見せるみたいで。",
+    "romaji": "Demo chokusetsu au to... nanka, hontou no jibun o miseru mitai de."
+  },
+  "s1.s10.look_down": {
+    "en": "Sora looks down at his matcha latte, then back at you.",
+    "ru": "Сора переводит взгляд со своего матча-латте на вас.",
+    "zh": "空（Sora）低头看了看他的抹茶拿铁，然后又抬头看向你。",
+    "ko": "소라는 말차 라떼를 내려다보다가, 다시 당신을 봅니다.",
+    "ja": "ソラは抹茶ラテを見下ろし、それから視線を戻してこちらを見つめた。",
+    "romaji": "Sora wa matcha rate o mioroshi, sorekara shisen o modoshite kochira o mitsumeta."
+  },
+  "s1.s10.loosen": {
+    "en": "You feel something tight in your chest start to loosen.",
+    "ru": "Вы чувствуете, как что-то сжимавшееся в груди начинает отпускать.",
+    "zh": "你感到胸口压着的一块石头落地了。",
+    "ko": "답답했던 가슴이 조금씩 풀리는 기분입니다.",
+    "ja": "胸の奥で固く縮こまっていたものが、ふっとほどけていくのを感じる。",
+    "romaji": "Mune no oku de kataku chijikomatte ita mono ga, futto hodokete iku no o kanjiru."
+  },
+  "s1.s10.player_feel": {
+    "en": "I feel the same way.",
+    "ru": "Я чувствую то же самое.",
+    "zh": "我也深有同感。",
+    "ko": "저도 같은 생각이에요.",
+    "ja": "私も同じ気持ちだよ。",
+    "romaji": "Watashi mo onaji kimochi da yo."
+  },
+  "s1.s10.player_important": {
+    "en": "君も、私にとって大切な友達。(Kimi mo, watashi ni totte taisetsu na tomodachi.)",
+    "ru": "Ты тоже важный друг для меня. (Kimi mo, watashi ni totte taisetsu na tomodachi.)",
+    "zh": "你对我来说，也是很重要的朋友。 (Kimi mo, watashi ni totte taisetsu na tomodachi.)",
+    "ko": "당신도 저에게 정말 소중한 친구예요. (Kimi mo, watashi ni totte taisetsu na tomodachi.)",
+    "jp": "君も、私にとって大切な友達。",
+    "transc": "Kimi mo, watashi ni totte taisetsu na tomodachi.",
+    "ja": "君も、私にとって大切な友達。",
+    "romaji": "Kimi mo, watashi ni totte taisetsu na tomodachi."
+  },
+  "s1.s10.player_name": {
+    "en": "Sora-kun...",
+    "ru": "Сора-кун...",
+    "zh": "空……",
+    "ko": "소라 군...",
+    "ja": "ソラくん……",
+    "romaji": "Sora-kun..."
+  },
+  "s1.s10.sora_change": {
+    "en": "画面越しでも、直接会っても、それは変わらない。(Gamen-goshi demo, chokusetsu atte mo, sore wa kawaranai.) (Whether through a screen or in person, that doesn't change.)",
+    "ru": "Будь то через экран или вживую — это не меняется. (Gamen-goshi demo...)",
+    "zh": "无论是隔着屏幕，还是当面相见，这一点都不会改变。 (Gamen-goshi demo...)",
+    "ko": "화면 너머로 보든, 직접 만나든, 그건 변하지 않아요. (Gamen-goshi demo...)",
+    "jp": "画面越しでも、直接会っても、それは変わらない。",
+    "transc": "Gamen-goshi demo, chokusetsu atte mo, sore wa kawaranai.",
+    "ja": "画面越しでも、直接会っても、それは変わらない。",
+    "romaji": "Gamen-goshi demo, chokusetsu atte mo, sore wa kawaranai."
+  },
+  "s1.s10.sora_friend": {
+    "en": "りんさん... 僕にとって、君は本当の友達だよ。(Rin-san... boku ni totte, kimi wa hontou no tomodachi da yo.) (Rin-san... to me, you're a real friend.)",
+    "ru": "Рин-сан... для меня ты настоящий друг. (Rin-san... boku ni totte...)",
+    "zh": "凛……对我来说，你就是真正的朋友。 (Rin-san... boku ni totte...)",
+    "ko": "린 씨... 저에게 당신은 정말 진정한 친구예요. (Rin-san... boku ni totte...)",
+    "jp": "りんさん... 僕にとって、君は本当の友達だよ。",
+    "transc": "Rin-san... boku ni totte, kimi wa hontou no tomodachi da yo.",
+    "ja": "りんさん……僕にとって、君は本当の友達だよ。",
+    "romaji": "Rin-san... boku ni totte, kimi wa hontou no tomodachi da yo."
+  },
+  "s1.s10.sora_glad_jp": {
+    "en": "...日本語で言ってくれたの、嬉しいな。(... Nihongo de itte kureta no, ureshii na.) (I'm happy you said that in Japanese.)",
+    "ru": "...Приятно, что ты сказала это на японском. (...Nihongo de itte kureta no...)",
+    "zh": "……你能用日语对我说这些，我很开心。 (...Nihongo de itte kureta no...)",
+    "ko": "...일본어로 말해 주니까 더 기쁘네요. (...Nihongo de itte kureta no...)",
+    "jp": "日本語で言ってくれたの、嬉しいな。",
+    "transc": "Nihongo de itte kureta no, ureshii na.",
+    "ja": "……日本語で言ってくれたの、嬉しいな。",
+    "romaji": "...Nihongo de itte kureta no, ureshii na."
+  },
+  "s1.s10.sora_important": {
+    "en": "言語交換から始まったけど、今は... もっと大切な存在。(Gengo koukan kara hajimatta kedo, ima wa... motto taisetsu na sonzai.) (It started as language exchange, but now... you're someone more important.)",
+    "ru": "Все началось с языкового обмена, но сейчас... ты для меня нечто большее. (Gengo koukan kara...)",
+    "zh": "虽然是从语言交换开始的，但现在……你对我来说是更重要的存在。 (Gengo koukan kara...)",
+    "ko": "언어 교환으로 시작했지만, 지금은... 저에게 훨씬 더 소중한 존재예요. (Gengo koukan kara...)",
+    "jp": "言語交換から始まったけど、今は... もっと大切な存在。",
+    "transc": "Gengo koukan kara hajimatta kedo, ima wa... motto taisetsu na sonzai.",
+    "ja": "言語交換から始まったけど、今は……もっと大切な存在。",
+    "romaji": "Gengo koukan kara hajimatta kedo, ima wa... motto taisetsu na sonzai."
+  },
+  "s1.s10.unnecessary": {
+    "en": "All my worries... maybe they were unnecessary.",
+    "ru": "Все мои тревоги... возможно, они были напрасными.",
+    "zh": "我所有的担心……也许都是多余的。",
+    "ko": "지금까지 했던 모든 고민들... 아마 필요 없었던 것 같아요.",
+    "ja": "これまでの悩みや不安……全部取り越し苦労だったのかもしれない。",
+    "romaji": "Kore made no nayami ya fuan... zenbu torikoshigurou datta no kamo shirenai."
+  },
+  "s1.s10.wash": {
+    "en": "A feeling of 安心 (relief) washes over you.",
+    "ru": "Чувство 安心 (облегчения) накрывает вас.",
+    "zh": "一种“安心”（Anshin）的感觉油然而生。",
+    "ko": "안도감(安心)이 온몸을 감쌉니다.",
+    "ja": "心いっぱいに安心感が広がっていく。",
+    "romaji": "Kokoro ippai ni anshinkan ga hirogatte iku."
+  },
+  "s1.s11.bench": {
+    "en": "You sit together on a bench, watching people pass by.",
+    "ru": "Вы сидите вместе на скамейке, наблюдая за прохожими.",
+    "zh": "你们并肩坐在长椅上，看着来往的行人。",
+    "ko": "벤치에 함께 앉아 지나가는 사람들을 구경합니다.",
+    "ja": "ベンチに並んで座り、通り過ぎる人々を眺める。",
+    "romaji": "Benchi ni narande suwari, toorisugiru hitobito o nagameru."
+  },
+  "s1.s11.park": {
+    "en": "After the café, Sora takes you to a small park nearby.",
+    "ru": "После кафе Сора ведет вас в небольшой парк неподалеку.",
+    "zh": "离开咖啡馆后，空（Sora）带你去了附近的一个小公园。",
+    "ko": "카페를 나와서 소라는 근처의 작은 공원으로 당신을 데려갑니다.",
+    "ja": "カフェを出た後、ソラは近くの小さな公園へ案内してくれた。",
+    "romaji": "Kafe o deta ato, Sora wa chikaku no chiisana kouen e annai shite kureta."
+  },
+  "s1.s11.player_pressure": {
+    "en": "Pressure?",
+    "ru": "Давление?",
+    "zh": "压力？",
+    "ko": "부담감이요?",
+    "ja": "プレッシャー？",
+    "romaji": "Puresshaa?"
+  },
+  "s1.s11.player_thank": {
+    "en": "Thank you... for today.",
+    "ru": "Спасибо... за сегодня.",
+    "zh": "谢谢你……今天的相伴。",
+    "ko": "오늘 하루... 정말 고마웠어요.",
+    "ja": "ありがとう……今日のこと。",
+    "romaji": "Arigatou... kyou no koto."
+  },
+  "s1.s11.serious": {
+    "en": "He turns to you with a more serious expression.",
+    "ru": "Он поворачивается к вам с более серьезным выражением лица.",
+    "zh": "他转向你，表情变得严肃了一些。",
+    "ko": "그가 좀 더 진지한 표정으로 당신을 돌아봅니다.",
+    "ja": "彼は少し真面目な面持ちでこちらを向いた。",
+    "romaji": "Kare wa sukoshi majime na omomochi de kochira o muita."
+  },
+  "s1.s11.sora_honest": {
+    "en": "ね、正直に言うと... (Ne, shoujiki ni iu to...) (Hey, to be honest...)",
+    "ru": "Послушай, если честно... (Ne, shoujiki ni iu to...)",
+    "zh": "呐，说实话…… (Ne, shoujiki ni iu to...)",
+    "ko": "있잖아요, 솔직히 말하면... (Ne, shoujiki ni iu to...)",
+    "jp": "ね、正直に言うと...",
+    "transc": "Ne, shoujiki ni iu to...",
+    "ja": "ね、正直に言うと……",
+    "romaji": "Ne, shoujiki ni iu to..."
+  },
+  "s1.s11.sora_pressure": {
+    "en": "りんさんに会う前、変なプレッシャー感じてたんだ。(Rin-san ni au mae, hen na puresshaa kanjiteta nda.) (Before meeting you, I felt this weird pressure.)",
+    "ru": "Перед встречей с тобой я чувствовал странное давление. (Rin-san ni au mae...)",
+    "zh": "在见到你之前，我感觉到一种奇怪的压力。 (Rin-san ni au mae...)",
+    "ko": "린 씨를 만나기 전에, 묘한 압박감을 느꼈었거든요. (Rin-san ni au mae...)",
+    "jp": "りんさんに会う前、変なプレッシャー感じてたんだ。",
+    "transc": "Rin-san ni au mae, hen na puresshaa kanjiteta nda.",
+    "ja": "りんさんに会う前、変なプレッシャー感じてたんだ。",
+    "romaji": "Rin-san ni au mae, hen na puresshaa kanjiteta nda."
+  },
+  "s1.s11.sora_thank": {
+    "en": "こちらこそ！やっと会えて良かった。(Kochira koso! Yatto aete yokatta.) (Thank you too! I'm glad we finally met.)",
+    "ru": "И тебе спасибо! Я так рад, что мы наконец встретились. (Kochira koso!)",
+    "zh": "我才要谢谢你呢！终于见到了，真好。 (Kochira koso!)",
+    "ko": "저야말로요! 드디어 만나게 돼서 정말 좋았어요. (Kochira koso!)",
+    "jp": "こちらこそ！やっと会えて良かった。",
+    "transc": "Kochira koso! Yatto aete yokatta.",
+    "ja": "こちらこそ！やっと会えて良かった。",
+    "romaji": "Kochira koso! Yatto aete yokatta."
+  },
+  "s1.s11.sora_think": {
+    "en": "ここ、よく来るんだ。考え事するとき。(Koko, yoku kuru n da. Kangaegoto suru toki.) (I come here often. When I need to think.)",
+    "ru": "Я часто сюда прихожу. Когда нужно о чем-то подумать. (Koko, yoku kuru n da.)",
+    "zh": "我经常来这里。在需要思考的时候。 (Koko, yoku kuru n da.)",
+    "ko": "생각할 게 있을 때 여기 자주 와요. (Koko, yoku kuru n da.)",
+    "jp": "ここ、よく来るんだ。考え事するとき。",
+    "transc": "Koko, yoku kuru n da. Kangaegoto suru toki.",
+    "ja": "ここ、よく来るんだ。考え事するとき。",
+    "romaji": "Koko, yoku kuru n da. Kangaegoto suru toki."
+  },
+  "s1.s11.sora_whatif": {
+    "en": "オンラインの僕と、本物の僕が違ったらどうしようって。(Onrain no boku to, honmono no boku ga chigattara dou shiyou tte.) (What if online-me and real-me are different?)",
+    "ru": "А что если настоящий я отличается от того, каким я был в сети? (Onrain no boku to...)",
+    "zh": "万一网上的我和真实的我表现得不一样该怎么办。 (Onrain no boku to...)",
+    "ko": "온라인에서의 저와 실제의 제가 다르면 어쩌나 하고 생각했거든요. (Onrain no boku to...)",
+    "jp": "オンラインの僕と、本物の僕が違ったらどうしようって。",
+    "transc": "Onrain no boku to, honmono no boku ga chigattara dou shiyou tte.",
+    "ja": "オンラインの僕と、本物の僕が違ったらどうしようって。",
+    "romaji": "Onrain no boku to, honmono no boku ga chigattara dou shiyou tte."
+  },
+  "s1.s11.sun": {
+    "en": "The afternoon sun filters through the trees.",
+    "ru": "Полуденное солнце пробивается сквозь листву деревьев.",
+    "zh": "午后的阳光透过树叶洒下来。",
+    "ko": "오후의 햇살이 나뭇잎 사이로 내리쨉니다.",
+    "ja": "木漏れ日の光が優しく差し込んでいる。",
+    "romaji": "Komorebi no hikari ga yasashiku sashikonde iru."
+  },
+  "s1.s12.laugh": {
+    "en": "You both laugh—a genuine, relieved laugh.",
+    "ru": "Вы оба смеетесь — искренним, полным облегчения смехом.",
+    "zh": "你们都笑了起来——那是发自内心的、如释重负的笑声。",
+    "ko": "두 사람은 정답게 웃음을 터뜨립니다. 진심 어린, 안도 섞인 웃음이죠.",
+    "ja": "二人は笑い合った――心からの、ホッとした笑い声だった。",
+    "romaji": "Futari wa waraiatta -- kokoro kara no, hotto shita waraigoe datta."
+  },
+  "s1.s12.player_thought": {
+    "en": "I thought the exact same thing...",
+    "ru": "Я думала точно о том же...",
+    "zh": "我也一直在想同样的事情……",
+    "ko": "저도 정확히 똑같은 생각을 했어요...",
+    "ja": "私もまったく同じこと考えてたよ……",
+    "romaji": "Watashi mo mattaku onaji koto kangaeteta yo..."
+  },
+  "s1.s12.player_touch": {
+    "en": "...That means a lot to me.",
+    "ru": "...Это много значит для меня.",
+    "zh": "……这对我的意义很大。",
+    "ko": "...그 말, 저에게 정말 큰 힘이 돼요.",
+    "ja": "……その言葉、すごく嬉しい。",
+    "romaji": "...Sono kotoba, sugoku ureshii."
+  },
+  "s1.s12.player_worry1": {
+    "en": "What if I'm not as interesting in person?",
+    "ru": "А что если в жизни я не такая интересная?",
+    "zh": "万一我本人没有在网上那么有趣怎么办？",
+    "ko": "제가 실제로 만나면 별로 재미없는 사람이면 어쩌나 했거든요.",
+    "ja": "直接会ったら私、あんまり面白くない人だと思われるかもって。",
+    "romaji": "Chokusetsu attara watashi, anmari omoshirokunai hito da to omowareru kamo tte."
+  },
+  "s1.s12.player_worry2": {
+    "en": "What if our conversations feel forced?",
+    "ru": "Что если наш разговор будет казаться натянутым?",
+    "zh": "万一我们的对话变得很僵硬怎么办？",
+    "ko": "대화가 뚝뚝 끊기면 어쩌지 하고요.",
+    "ja": "会話がぎこちなくなっちゃったらどうしようって。",
+    "romaji": "Kaiwa ga gikochinaku nacchattara dou shiyou tte."
+  },
+  "s1.s12.sora_conclusion": {
+    "en": "オンラインでも、オフラインでも、りんさんはりんさんだよ。(Onrain demo, ofurain demo, Rin-san wa Rin-san da yo.) (Online or offline, Rin-san is still Rin-san.)",
+    "ru": "И в сети, и в жизни Рин-сан остается Рин-сан. (Onrain demo...) ",
+    "zh": "无论是在网上还是在线下，凛就是凛啊。 (Onrain demo...) ",
+    "ko": "온라인이든 오프라인이든, 린 씨는 린 씨인걸요. (Onrain demo...) ",
+    "jp": "オンラインでも、オフラインでも、りんさんはりんさんだよ。",
+    "transc": "Onrain demo, ofurain demo, Rin-san wa Rin-san da yo.",
+    "ja": "オンラインでも、オフラインでも、りんさんはりんさんだよ。",
+    "romaji": "Onrain demo, ofurain demo, Rin-san wa Rin-san da yo."
+  },
+  "s1.s12.sora_realize": {
+    "en": "でも、今日会って思ったんだ。(Demo, kyou atte omotta nda.) (But after meeting today, I realized something.)",
+    "ru": "Но после сегодняшней встречи я понял одну вещь. (Demo, kyou atte omotta nda.)",
+    "zh": "但是今天之后，我意识到了一件事。 (Demo, kyou atte omotta nda.)",
+    "ko": "그런데 오늘 만나보고 깨달았어요. (Demo, kyou atte omotta nda.)",
+    "jp": "でも、今日会って思ったんだ。",
+    "transc": "Demo, kyou atte omotta nda.",
+    "ja": "でも、今日会って思ったんだ。",
+    "romaji": "Demo, kyou atte omotta nda."
+  },
+  "s1.s12.sora_surprised": {
+    "en": "やっぱり！同じこと考えてたんだ。(Yappari! Onaji koto kangaeteta nda.)",
+    "ru": "Так и знал! Мы думали об одном и том же. (Yappari!)",
+    "zh": "果然！我们想到一块儿去了。 (Yappari!)",
+    "ko": "역시! 우리 같은 생각을 하고 있었네요. (Yappari!)",
+    "jp": "やっぱり！同じこと考えてたんだ。",
+    "transc": "Yappari! Onaji koto kangaeteta nda.",
+    "ja": "やっぱり！同じこと考えてたんだ。",
+    "romaji": "Yappari! Onaji koto kangaeteta nda."
+  },
+  "s1.s12.sunset": {
+    "en": "You watch the sun begin to set, painting the sky in warm colors.",
+    "ru": "Вы наблюдаете, как начинает садиться солнце, окрашивая небо в теплые тона.",
+    "zh": "你看着太阳开始落下，云霞色彩斑斓。",
+    "ko": "당신은 따뜻한 색으로 하늘을 물들이며 저물어가는 노을을 바라봅니다.",
+    "ja": "夕日が沈み始め、空を温かな茜色に染めていくのを眺める。",
+    "romaji": "Yuuhi ga shizumihajime, sora o tatakana akaneiro ni somete iku no o nagameru."
+  },
+  "s1.s12.think_connection": {
+    "en": "This is what connection feels like.",
+    "ru": "Вот что такое настоящая связь.",
+    "zh": "这就是羁绊的感觉。",
+    "ko": "이게 바로 유대감이라는 거군요.",
+    "ja": "これが、心がつながるということなんだ。",
+    "romaji": "Kore ga, kokoro ga tsunagaru to iu koto nan da."
+  },
+  "s1.s12.think_more": {
+    "en": "Maybe even more real.",
+    "ru": "Может быть, даже более реальная.",
+    "zh": "也许甚至更加真实。",
+    "ko": "어쩌면 그 어느 때보다 더 생생하게요.",
+    "ja": "もしかしたら、それ以上かもしれない。",
+    "romaji": "Moshikashitara, sore ijou kamo shirenai."
+  },
+  "s1.s12.think_real": {
+    "en": "Different from a screen... but not less real.",
+    "ru": "Не так, как через экран... но не менее реально.",
+    "zh": "和隔着屏幕的感觉不同……但同样真实。",
+    "ko": "화면 너머와는 다르지만... 그렇다고 덜 선명한 건 아니에요.",
+    "ja": "画面越しとは違う……でも決して劣らない、確かな温もり。",
+    "romaji": "Gamen-goshi to wa chigau... demo kesshite otoranai, tashika na nukumori."
+  },
+  "s1.s13.gate": {
+    "en": "You stand at the ticket gates, neither wanting to leave.",
+    "ru": "Вы стоите перед турникетами, и никому из вас не хочется уходить.",
+    "zh": "你们站在检票口，谁都不想离开。",
+    "ko": "개찰구 앞에 서서, 두 사람 모두 발걸음을 떼지 못합니다.",
+    "ja": "改札の前に立つ二人は、どちらも名残惜しそうにその場を離れられない。",
+    "romaji": "Kaisatsu no mae ni tatsu futari wa, dochira mo nagorioshisou ni sono ba o hanarerarenai."
+  },
+  "s1.s13.home": {
+    "en": "As the train carries you home, you think about the day.",
+    "ru": "Пока поезд везет вас домой, вы думаете о сегодняшнем дне.",
+    "zh": "在回家的电车上，你回想着今天发生的一切。",
+    "ko": "집으로 가는 기차 안에서 당신은 오늘을 떠올립니다.",
+    "ja": "帰りの電車に揺られながら、今日という一日を思い返す。",
+    "romaji": "Kaeri no densha ni yurare nagara, kyou to iu ichinichi o omoikaesu."
+  },
+  "s1.s13.player_bye": {
+    "en": "またね、Sora-kun. (Mata ne, Sora-kun.)",
+    "ru": "До встречи, Сора-кун. (Mata ne, Sora-kun.)",
+    "zh": "再见，空。 (Mata ne, Sora-kun.)",
+    "ko": "다음에 봐요, 소라 군. (Mata ne, Sora-kun.)",
+    "jp": "またね、Sora-kun.",
+    "transc": "Mata ne, Sora-kun.",
+    "ja": "またね、ソラくん。",
+    "romaji": "Mata ne, Sora-kun."
+  },
+  "s1.s13.player_def": {
+    "en": "Definitely. 絶対 (zettai)! (Absolutely!)",
+    "ru": "Обязательно (zettai)! (Конечно!)",
+    "zh": "一定。绝对（Zettai）！ (Absolutely!)",
+    "ko": "물론이죠. 꼭(絶対)이요! (Absolutely!)",
+    "ja": "もちろん。絶対！",
+    "romaji": "Mochiron. Zettai!"
+  },
+  "s1.s13.player_met": {
+    "en": "Me too. I'm so glad we finally met.",
+    "ru": "Я тоже. Я так рада, что мы наконец встретились.",
+    "zh": "我也一样。很高兴我们终于见面了。",
+    "ko": "저도요. 드디어 만나게 되어서 정말 기뻐요.",
+    "ja": "私も。やっと会えて本当に嬉しかった。",
+    "romaji": "Watashi mo. Yatto aete hontou ni ureshikatta."
+  },
+  "s1.s13.sky": {
+    "en": "The sky has turned orange as you return to the station together.",
+    "ru": "Небо стало оранжевым, когда вы вместе вернулись на станцию.",
+    "zh": "当你们一起回到车站时，天空已经变成了橘黄色。",
+    "ko": "함께 역으로 돌아오니 하늘은 어느새 오렌지빛으로 물들어 있습니다.",
+    "ja": "一緒に駅へ戻る頃には、空は鮮やかなオレンジ色に染まっていた。",
+    "romaji": "Issho ni eki e modoru koro ni wa, sora wa azayaka na orenji-iro ni somatte ita."
+  },
+  "s1.s13.smile_new": {
+    "en": "But somehow, seeing it in person makes it feel completely new.",
+    "ru": "Но почему-то вживую она кажется совершенно другой.",
+    "zh": "但不知为何，这种亲眼见到的感觉是全新的。",
+    "ko": "하지만 직접 마주하니 왠지 모든 게 새롭게만 느껴집니다.",
+    "ja": "でも直接目の当たりにすると、まるで初めて見るかのように新鮮に感じられた。",
+    "romaji": "Demo chokusetsu me no atari ni suru to, marude hajimete miru ka no you ni shinsen ni kanjirareta."
+  },
+  "s1.s13.smile_vid": {
+    "en": "The same smile you've seen countless times on video calls.",
+    "ru": "Та же улыбка, которую вы бесчисленное количество раз видели в видеозвонках.",
+    "zh": "那是你在视频通话中见过无数次的微笑。",
+    "ko": "영상 통화에서 수없이 봤던 바로 그 미소네요.",
+    "ja": "ビデオ通話で数え切れないほど見てきた、あのいつもの笑顔だ。",
+    "romaji": "Bideo tsuuwa de kazoekirenai hodo mite kita, ano itsumo no egao da."
+  },
+  "s1.s13.sora_bye": {
+    "en": "じゃあ... またね、りんさん。(Jaa... mata ne, Rin-san.) (Well then... see you, Rin-san.)",
+    "ru": "Ну, до встречи... Рин-сан. (Jaa... mata ne, Rin-san.)",
+    "zh": "那么……再见啦，凛。 (Jaa... mata ne, Rin-san.)",
+    "ko": "그럼... 다음에 봐요, 린 씨. (Jaa... mata ne, Rin-san.)",
+    "jp": "じゃあ... またね、りんさん。",
+    "transc": "Jaa... mata ne, Rin-san.",
+    "ja": "じゃあ……またね、りんさん。",
+    "romaji": "Jaa... mata ne, Rin-san."
+  },
+  "s1.s13.sora_fun": {
+    "en": "今日、本当に楽しかった。(Kyou, hontou ni tanoshikatta.) (Today was really fun.)",
+    "ru": "Сегодня было очень весело. (Kyou, hontou ni tanoshikatta.)",
+    "zh": "今天真的很开心。 (Kyou, hontou ni tanoshikatta.)",
+    "ko": "오늘 정말 즐거웠어요. (Kyou, hontou ni tanoshikatta.)",
+    "jp": "今日、本当に楽しかった。",
+    "transc": "Kyou, hontou ni tanoshikatta.",
+    "ja": "今日、本当に楽しかった。",
+    "romaji": "Kyou, hontou ni tanoshikatta."
+  },
+  "s1.s13.sora_next": {
+    "en": "また会おうね？今度は僕がそっち行くよ。(Mata aou ne? Kondo wa boku ga socchi iku yo.) (Let's meet again, okay? Next time I'll come to you.)",
+    "ru": "Еще увидимся, ладно? В следующий раз я приеду к тебе. (Mata aou ne?)",
+    "zh": "还要再见面哦？下次换我去你那里。 (Mata aou ne?)",
+    "ko": "우리 또 만나요, 알았죠? 다음엔 제가 그쪽으로 갈게요. (Mata aou ne?)",
+    "jp": "また会おうね？今度は僕がそっち行くよ。",
+    "transc": "Mata aou ne? Kondo wa boku ga socchi iku yo.",
+    "ja": "また会おうね？今度は僕がそっち行くよ。",
+    "romaji": "Mata aou ne? Kondo wa boku ga socchi iku yo."
+  },
+  "s1.s13.think_medium": {
+    "en": "Friendship doesn't change just because the medium does.",
+    "ru": "Дружба не меняется только от того, что меняется способ общения.",
+    "zh": "友谊不会因为交流方式的改变而改变。",
+    "ko": "매체가 바뀐다고 해서 우정이 변하는 건 아니에요.",
+    "ja": "伝える手段が変わったからといって、友情が変わるわけじゃない。",
+    "romaji": "Tsutaeru shudan ga kawatta kara to itte, yuujou ga kawaru wake ja nai."
+  },
+  "s1.s13.think_same": {
+    "en": "But in the end, it was the same. We were the same.",
+    "ru": "Но в конце концов все осталось по-прежнему. Мы остались прежними.",
+    "zh": "但最终，一切如旧。我们还是那样的我们。",
+    "ko": "결국 모든 건 그대로였어요. 우리는 여전히 우리였죠.",
+    "ja": "でも結局、同じだった。私たちは何も変わっていなかった。",
+    "romaji": "Demo kekkyoku, onaji datta. Watashitachi wa nanimo kawatte inakatta."
+  },
+  "s1.s13.think_worried": {
+    "en": "We were both so worried...",
+    "ru": "Мы оба так волновались...",
+    "zh": "我们当时都那么担心……",
+    "ko": "우리 둘 다 그렇게 걱정했었는데...",
+    "ja": "お互いに、あんなに不安がっていたのに……",
+    "romaji": "Otagai ni, anna ni fuangatte ita no ni..."
+  },
+  "s1.s13.wave": {
+    "en": "He waves, that same warm smile on his face.",
+    "ru": "Он машет рукой, и на его лице та же теплая улыбка.",
+    "zh": "他挥着手，脸上挂着同样的温暖微笑。",
+    "ko": "그가 손을 흔듭니다. 얼굴에는 여전히 따뜻한 미소를 띤 채로요.",
+    "ja": "彼はあの温かい笑顔を浮かべたまま、手を振ってくれた。",
+    "romaji": "Kare wa ano atatakai egao o ukabeta mama, te o futte kureta."
+  },
+  "s1.subtitle": {
+    "en": "言語交換パートナー (Gengo koukan paatonaa)",
+    "ru": "Партнер по языковому обмену (Gengo koukan paatonaa)",
+    "zh": "语言交换伙伴 (Gengo koukan paatonaa)",
+    "ko": "언어 교환 파트너 (Gengo koukan paatonaa)",
+    "ja": "言語交換パートナー",
+    "romaji": "Gengo koukan paatonaa"
+  },
+  "s1.title": {
+    "en": "The Exchange Partner",
+    "ru": "Партнер по обмену",
+    "zh": "交换吧，伙伴",
+    "ko": "교환 파트너",
+    "ja": "言語交換パートナー",
+    "romaji": "Gengo koukan paatonaa"
+  },
+  "s1.bond.ken_meeting": {
+    "en": "You had an enthusiastic first meeting with Sora.",
+    "ru": "У вас состоялась восторженная первая встреча с Сорой.",
+    "zh": "你与空（Sora）进行了一次充满热情的初次见面。",
+    "ko": "소라와 열정적인 첫 만남을 가졌습니다.",
+    "ja": "ソラと熱烈な初対面を果たした。",
+    "romaji": "Sora to netsuretsu na shotaimen o hatashita."
+  },
+  "s1.bond.ken_vulnerability": {
+    "en": "You shared a moment of mutual vulnerability.",
+    "ru": "Вы разделили момент взаимной искренности.",
+    "zh": "你们分享了一个展示彼此脆弱面的时刻。",
+    "ko": "서로의 솔직한 속마음을 나누는 시간을 가졌습니다.",
+    "ja": "お互いの不安や弱さを分かち合った。",
+    "romaji": "Otagai no fuan ya yowasa o wakachiatta."
+  },
+  "s1.bond.ken_heart_to_heart": {
+    "en": "You had a deep heart-to-heart at the café.",
+    "ru": "У вас состоялся глубокий разговор по душам в кафе.",
+    "zh": "你们在咖啡馆进行了一次深入的心灵交流。",
+    "ko": "카페에서 깊은 대화를 나누며 마음을 주고받았습니다.",
+    "ja": "カフェで深く心を通わせる会話をした。",
+    "romaji": "Kafe de fukaku kokoro o kayowaseru kaiwa o shita."
+  },
+  "s1.bond.yuki_experience": {
+    "en": "Yuki appreciated you sharing your story.",
+    "ru": "Юки оценила то, что вы поделились своей историей.",
+    "zh": "由纪（Yuki）很感激你分享了自己的故事。",
+    "ko": "유키는 당신이 이야기를 들려준 것에 고마워했습니다.",
+    "ja": "ユキは自分の経験を話してくれたことに感謝している。",
+    "romaji": "Yuki wa jibun no keiken o hanashite kureta koto ni kansha shite iru."
+  }
+}

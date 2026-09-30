@@ -1,0 +1,723 @@
+{
+  "vl4.title": {
+    "en": "Words for the Classroom",
+    "ru": "Слова для класса",
+    "zh": "教室里用的词",
+    "ja": "教室で使う言葉",
+    "romaji": "Kyoushitsu de tsukau kotoba"
+  },
+  "vl4.subtitle": {
+    "en": "What to say when you don't understand",
+    "ru": "Что сказать, когда не понимаешь",
+    "zh": "听不懂时怎么说",
+    "ja": "わからないときの言い方",
+    "romaji": "Wakaranai toki no iikata"
+  },
+  "vl4.description": {
+    "en": "In a Japanese classroom, practice ten words for introducing yourself, asking someone to repeat, making requests, answering praise, and encouraging others.",
+    "ru": "В классе японского языка потренируйте десять слов: самопредставление, просьба повторить, просьбы, ответ на похвалу и слова поддержки.",
+    "zh": "在日语教室里，练习自我介绍、请对方重说、提出请求、回应称赞和鼓励别人的十个词。",
+    "ja": "日本語の教室で、自己紹介、聞き返し、お願い、ほめ言葉への答え、はげます言葉を十つ練習します。",
+    "romaji": "Nihongo no kyoushitsu de, jikoshoukai, kikikaeshi, onegai, homekotoba e no kotae, hagemasu kotoba o touka renshuu shimasu."
+  },
+  "vl4.setup": {
+    "en": "A morning in the classroom. Tanaka-sensei is speaking in front of the blackboard. Today is a day for practicing the words you use in Japanese class.",
+    "ru": "Утро в классе. Танака-сэнсэй говорит перед доской. Сегодня мы тренируем слова, которые используются на уроке японского.",
+    "zh": "早晨的教室。田中老师站在黑板前讲话。今天要练习日语课上用到的词。",
+    "ja": "朝の教室。黒板の前で、田中先生が話している。今日は、日本語の授業で使う言葉を練習する日だ。",
+    "romaji": "Asa no kyoushitsu. Kokuban no mae de, Tanaka-sensei ga hanashite iru. Kyou wa, nihongo no jugyou de tsukau kotoba o renshuu suru hi da."
+  },
+  "vl4.t_intro": {
+    "en": "Good morning. Today's theme is words for the classroom. Let's think together about what to say when you don't understand.",
+    "ru": "Доброе утро. Тема сегодня — слова для класса. Давайте вместе подумаем, что говорить, когда что-то непонятно.",
+    "zh": "早上好。今天的主题是教室里用的词。我们一起想想听不懂的时候该怎么说。",
+    "ja": "おはようございます。今日のテーマは、教室で使う言葉です。わからないときに、どう言えばいいか、いっしょに考えましょう。",
+    "romaji": "Ohayou gozaimasu. Kyou no teema wa, kyoushitsu de tsukau kotoba desu. Wakaranai toki ni, dou ieba ii ka, issho ni kangaemashou."
+  },
+  "vl4.w1": {
+    "en": "First: I am the “sensei,” and you are the “gakusei,” students. You add “sensei” after my name and call me “Tanaka-sensei.”",
+    "ru": "Сначала: я «сэнсэй», а вы «гакусэй» — ученики. Вы добавляете «сэнсэй» после имени и называете меня «Танака-сэнсэй».",
+    "zh": "首先，我是「先生」，各位是「学生」。在名字后面加上「先生」，称呼我「田中先生」。",
+    "ja": "まず、私は「先生」で、みなさんは「学生」です。名前のあとに「先生」をつけて、「田中先生」と呼びます。",
+    "romaji": "Mazu, watashi wa 'sensei' de, minasan wa 'gakusei' desu. Namae no ato ni 'sensei' o tsukete, 'Tanaka-sensei' to yobimasu."
+  },
+  "vl4.w1_q": {
+    "en": "Is “Tanaka-san” not okay?",
+    "ru": "Нельзя сказать «Танака-сан»?",
+    "zh": "叫「田中さん」不行吗？",
+    "ja": "「田中さん」ではだめですか？",
+    "romaji": "'Tanaka-san' de wa dame desu ka?"
+  },
+  "vl4.w1_a": {
+    "en": "It is not wrong, but for a teacher, “sensei” is more natural. “San” is for ordinary people.",
+    "ru": "Это не запрещено, но учителю естественнее говорить «сэнсэй». «Сан» используют для обычных людей.",
+    "zh": "不是不行，但对老师来说，用「先生」更自然。「さん」是对一般人用的。",
+    "ja": "だめではありませんが、先生には、「先生」のほうが自然です。「さん」は、ふつうの人に使います。",
+    "romaji": "Dame de wa arimasen ga, sensei ni wa, 'sensei' no hou ga shizen desu. 'San' wa, futsuu no hito ni tsukaimasu."
+  },
+  "vl4.w2": {
+    "en": "This is the “kyoushitsu,” the classroom. Here we “benkyou,” study, “nihongo,” Japanese.",
+    "ru": "Это «кёсицу» — класс. Здесь мы «бэнкё» — изучаем — «нихонго», японский язык.",
+    "zh": "这里是「教室」。我们在这里「勉強」「日本語」。",
+    "ja": "ここは「教室」です。私たちは、ここで「日本語」を「勉強」します。",
+    "romaji": "Koko wa 'kyoushitsu' desu. Watashitachi wa, koko de 'nihongo' o 'benkyou' shimasu."
+  },
+  "vl4.w2_q": {
+    "en": "Is “benkyou” only for the classroom?",
+    "ru": "«Бэнкё» — только в классе?",
+    "zh": "「勉強」只能在教室里吗？",
+    "ja": "「勉強」は、教室だけですか？",
+    "romaji": "'Benkyou' wa, kyoushitsu dake desu ka?"
+  },
+  "vl4.w2_a": {
+    "en": "No, you can study anywhere: at home, on the train, anywhere. Watching anime in Japanese is also studying.",
+    "ru": "Нет, учиться можно где угодно: дома, в поезде. Смотреть аниме на японском — тоже учёба.",
+    "zh": "不是，在家里、在电车里，哪里都可以学习。看日语动画也算学习。",
+    "ja": "いいえ、家でも、電車の中でも、どこでも勉強できます。日本語のアニメを見ることも、勉強です。",
+    "romaji": "Iie, ie demo, densha no naka demo, doko demo benkyou dekimasu. Nihongo no anime o miru koto mo, benkyou desu."
+  },
+  "vl4.w2_ken": {
+    "en": "Then I have been studying every day.",
+    "ru": "Тогда получается, что я учусь каждый день.",
+    "zh": "那我每天都在学习呢。",
+    "ja": "それなら、ぼくは毎日、勉強していますね。",
+    "romaji": "Sore nara, boku wa mainichi, benkyou shite imasu ne."
+  },
+  "vl4.p1_prompt": {
+    "en": "Now let's practice self-introduction. Who are you, and what are you doing?",
+    "ru": "Теперь практика самопредставления. Кто вы и чем занимаетесь?",
+    "zh": "现在练习自我介绍。你是谁，正在做什么？",
+    "ja": "では、自己紹介の練習です。あなたは、だれで、何をしていますか？",
+    "romaji": "Dewa, jikoshoukai no renshuu desu. Anata wa, dare de, nani o shite imasu ka?"
+  },
+  "vl4.c1_natural": {
+    "en": "“I am a student. I am studying Japanese.”",
+    "ru": "«Я ученик. Я изучаю японский».",
+    "zh": "“我是学生。我在学习日语。”",
+    "ja": "「私は学生です。日本語を勉強しています。」",
+    "romaji": "'Watashi wa gakusei desu. Nihongo o benkyou shite imasu.'"
+  },
+  "vl4.c1_formal": {
+    "en": "“I am a single student who attends a Japanese classroom.”",
+    "ru": "«Я — один из учеников, посещающих класс японского языка».",
+    "zh": "“我是一名就读日语教室的学生。”",
+    "ja": "「私は、日本語の教室に通っている、一人の学生でございます。」",
+    "romaji": "'Watashi wa, nihongo no kyoushitsu ni kayotte iru, hitori no gakusei de gozaimasu.'"
+  },
+  "vl4.c1_mistake": {
+    "en": "“I am a sensei. I am studying Japanese.”",
+    "ru": "«Я сэнсэй. Я изучаю японский».",
+    "zh": "“我是老师。我在学习日语。”",
+    "ja": "「私は先生です。日本語を勉強しています。」",
+    "romaji": "'Watashi wa sensei desu. Nihongo o benkyou shite imasu.'"
+  },
+  "vl4.c1_own": {
+    "en": "“I am a student. I study Japanese in the classroom every day.”",
+    "ru": "«Я ученик. Каждый день я изучаю японский в классе».",
+    "zh": "“我是学生。我每天在教室里学习日语。”",
+    "ja": "「私は学生です。毎日、教室で日本語を勉強します。」",
+    "romaji": "'Watashi wa gakusei desu. Mainichi, kyoushitsu de nihongo o benkyou shimasu.'"
+  },
+  "vl4.c1_min": {
+    "en": "“Student... Japanese...”",
+    "ru": "«Ученик… японский…»",
+    "zh": "“学生……日语……”",
+    "ja": "「学生…日本語…」",
+    "romaji": "'Gakusei... nihongo...'"
+  },
+  "vl4.p1_nat_mei": {
+    "en": "Yes, that is easy to understand. Well done.",
+    "ru": "Да, понятно. Отлично.",
+    "zh": "好的，很容易懂。做得很好。",
+    "ja": "はい、分かりやすいです。よくできました。",
+    "romaji": "Hai, wakariyasui desu. Yoku dekimashita."
+  },
+  "vl4.p1_form_yuki": {
+    "en": "Ha, that is too polite. “Watashi wa gakusei desu” is enough.",
+    "ru": "Ха-ха, слишком вежливо. Достаточно «ватаси ва гакусэй дэс».",
+    "zh": "呵呵，太礼貌了。说「私は学生です」就够了。",
+    "ja": "ふふ、ていねいすぎます。「私は学生です」で、じゅうぶんです。",
+    "romaji": "Fufu, teinei sugimasu. 'Watashi wa gakusei desu' de, juubun desu."
+  },
+  "vl4.p1_mis_mei": {
+    "en": "Huh, a “sensei”? The teacher is Tanaka-sensei.",
+    "ru": "Что, «сэнсэй»? Учитель здесь — Танака-сэнсэй.",
+    "zh": "咦，「先生」？老师是田中老师哦。",
+    "ja": "えっ、「先生」ですか？先生は、田中先生ですよ。",
+    "romaji": "E, 'sensei' desu ka? Sensei wa, Tanaka-sensei desu yo."
+  },
+  "vl4.p1_mis_retry": {
+    "en": "Oh, I am a student. I am studying Japanese.",
+    "ru": "Ой, я ученик. Я изучаю японский.",
+    "zh": "啊，我是学生。我在学习日语。",
+    "ja": "あっ、私は学生です。日本語を勉強しています。",
+    "romaji": "A, watashi wa gakusei desu. Nihongo o benkyou shite imasu."
+  },
+  "vl4.p1_mis_relief": {
+    "en": "Yes, that's it. “Sensei” and “gakusei” are easy to mix up.",
+    "ru": "Да, именно так. «Сэнсэй» и «гакусэй» легко перепутать.",
+    "zh": "对，就是这个。「先生」和「学生」很容易弄混。",
+    "ja": "はい、それです。先生と学生、まちがえやすいですね。",
+    "romaji": "Hai, sore desu. Sensei to gakusei, machigaeyasui desu ne."
+  },
+  "vl4.p1_own_ken": {
+    "en": "Nice. That's the same as me. Let's study together.",
+    "ru": "Здорово. Как и у меня. Давайте учиться вместе.",
+    "zh": "不错，和我一样。我们一起学习吧。",
+    "ja": "いいですね。ぼくと同じです。いっしょに勉強しましょう。",
+    "romaji": "Ii desu ne. Boku to onaji desu. Issho ni benkyou shimashou."
+  },
+  "vl4.p1_min_tanaka": {
+    "en": "That gets across. But next time, try a full sentence: “Watashi wa gakusei desu.”",
+    "ru": "Вас поймут. Но в следующий раз попробуйте сказать целое предложение: «Ватаси ва гакусэй дэс».",
+    "zh": "能听懂。不过下次试着说完整的句子：「私は学生です」。",
+    "ja": "伝わりますよ。でも次は、「私は学生です」と、文で言ってみましょう。",
+    "romaji": "Tsutawarimasu yo. Demo tsugi wa, 'watashi wa gakusei desu' to, bun de itte mimashou."
+  },
+  "vl4.fast": {
+    "en": "Suddenly, Tanaka-sensei starts speaking very fast. You can't catch a single word.",
+    "ru": "Вдруг Танака-сэнсэй начинает говорить очень быстро. Вы не можете разобрать ни слова.",
+    "zh": "这时，田中老师突然开始说得很快。你一个词也听不清。",
+    "ja": "そのとき、田中先生が、とても早く話しはじめた。ことばが、ぜんぜん聞き取れない。",
+    "romaji": "Sono toki, Tanaka-sensei ga, totemo hayaku hanashihajimeta. Kotoba ga, zenzen kikitorenai."
+  },
+  "vl4.fast_line": {
+    "en": "Today's homework is to read the book, write a passage, and hand it in by tomorrow morning.",
+    "ru": "Домашнее задание на сегодня: прочитать книгу, написать текст и сдать до завтрашнего утра.",
+    "zh": "今天的作业是读书、写文章，明天早上之前交上来。",
+    "ja": "きょうのしゅくだいは、ほんをよんで、ぶんしょうをかいて、あしたのあさまでにだしてください。",
+    "romaji": "Kyou no shukudai wa, hon o yonde, bunshou o kaite, ashita no asa made ni dashite kudasai."
+  },
+  "vl4.w3": {
+    "en": "That was hard, wasn't it? At times like this, you say “mou ichido.” It is the phrase for when you want someone to say it once more.",
+    "ru": "Это было сложно, правда? В такие моменты говорят «мо итидо». Так просят повторить ещё раз.",
+    "zh": "这很难吧。这种时候，说「もう一度」。这是希望对方再说一遍时用的话。",
+    "ja": "これは、むずかしいですね。そんなとき、「もう一度」と言います。もう一回、言ってほしいときの言葉です。",
+    "romaji": "Kore wa, muzukashii desu ne. Sonna toki, 'mou ichido' to iimasu. Mou ikkai, itte hoshii toki no kotoba desu."
+  },
+  "vl4.w4": {
+    "en": "And “yukkuri,” slowly. When someone is too fast, say “yukkuri, onegaishimasu.”",
+    "ru": "А ещё «юккури», медленно. Если говорят слишком быстро, скажите «юккури, онэгайсимасу».",
+    "zh": "还有「ゆっくり」。对方说得太快时，说「ゆっくり、お願いします」。",
+    "ja": "それから、「ゆっくり」。早すぎるときは、「ゆっくり、お願いします」と言います。",
+    "romaji": "Sorekara, 'yukkuri'. Hayasugiru toki wa, 'yukkuri, onegaishimasu' to iimasu."
+  },
+  "vl4.w4_q": {
+    "en": "Is just “mou ichido” okay?",
+    "ru": "А можно сказать просто «мо итидо»?",
+    "zh": "只说「もう一度」可以吗？",
+    "ja": "「もう一度」だけでも、いいですか？",
+    "romaji": "'Mou ichido' dake demo, ii desu ka?"
+  },
+  "vl4.w4_a": {
+    "en": "Yes, that gets across. But saying “mou ichido, yukkuri, onegaishimasu” is more polite and clearer.",
+    "ru": "Да, поймут. Но «мо итидо, юккури, онэгайсимасу» звучит вежливее и понятнее.",
+    "zh": "可以，能听懂。不过说「もう一度、ゆっくり、お願いします」会更礼貌，也更清楚。",
+    "ja": "はい、伝わります。でも、「もう一度、ゆっくり、お願いします」と言うと、もっとていねいで、分かりやすいです。",
+    "romaji": "Hai, tsutawarimasu. Demo, 'mou ichido, yukkuri, onegaishimasu' to iu to, motto teinei de, wakariyasui desu."
+  },
+  "vl4.p2_prompt": {
+    "en": "Now, I'll say the homework once more. But was that still too fast? What do you say?",
+    "ru": "Теперь я повторю задание ещё раз. Но не слишком ли быстро? Что вы скажете?",
+    "zh": "那我再说一遍刚才的作业。不过是不是还是太快了？你会怎么说？",
+    "ja": "では、もう一度、さっきのしゅくだいを言います。でも、まだ早かったですか？何と言いますか？",
+    "romaji": "Dewa, mou ichido, sakki no shukudai o iimasu. Demo, mada hayakatta desu ka? Nan to iimasu ka?"
+  },
+  "vl4.c2_natural": {
+    "en": "“Excuse me, once more, slowly, please.”",
+    "ru": "«Извините, ещё раз, помедленнее, пожалуйста».",
+    "zh": "“不好意思，请再说一遍，慢一点。”",
+    "ja": "「すみません、もう一度、ゆっくり、お願いします。」",
+    "romaji": "'Sumimasen, mou ichido, yukkuri, onegaishimasu.'"
+  },
+  "vl4.c2_formal": {
+    "en": "“I am terribly sorry, but might you be so kind as to repeat that slowly once more?”",
+    "ru": "«Прошу прощения, не будете ли вы так любезны повторить это медленнее?»",
+    "zh": "“很抱歉，能否请您再慢慢说一遍呢？”",
+    "ja": "「恐れ入りますが、もう一度、ゆっくりとおっしゃっていただけないでしょうか。」",
+    "romaji": "'Osoreirimasu ga, mou ichido, yukkuri to osshatte itadakenai deshou ka.'"
+  },
+  "vl4.c2_mistake": {
+    "en": "“Huh? What?”",
+    "ru": "«Э? Что?»",
+    "zh": "“啊？什么？”",
+    "ja": "「え？何？」",
+    "romaji": "'E? Nani?'"
+  },
+  "vl4.c2_own": {
+    "en": "“Please say it once more, slowly. I will write it down, so please wait.”",
+    "ru": "«Скажите, пожалуйста, ещё раз, помедленнее. Я запишу, так что подождите».",
+    "zh": "“请再慢慢说一遍。我要写下来，请稍等。”",
+    "ja": "「もう一度、ゆっくり言ってください。書くから、待ってください。」",
+    "romaji": "'Mou ichido, yukkuri itte kudasai. Kaku kara, matte kudasai.'"
+  },
+  "vl4.c2_min": {
+    "en": "“...Huh?”",
+    "ru": "«…Э?»",
+    "zh": "“……啊？”",
+    "ja": "「…え？」",
+    "romaji": "'...E?'"
+  },
+  "vl4.p2_nat_tanaka": {
+    "en": "Yes. Then I'll say it slowly. For homework, please read the book and write a passage.",
+    "ru": "Хорошо. Тогда скажу медленно. Задание: прочитайте книгу и напишите текст.",
+    "zh": "好的。那我慢慢说。作业是读书，然后写一篇文章。",
+    "ja": "はい。では、ゆっくり言いますね。しゅくだいは、本を読んで、文章を書いてください。",
+    "romaji": "Hai. Dewa, yukkuri iimasu ne. Shukudai wa, hon o yonde, bunshou o kaite kudasai."
+  },
+  "vl4.p2_form_ken": {
+    "en": "Haha, the teacher will be at a loss. “Mou ichido, yukkuri, onegaishimasu” is fine.",
+    "ru": "Ха-ха, учитель растеряется. Достаточно «мо итидо, юккури, онэгайсимасу».",
+    "zh": "哈哈，老师会不知所措的。说「もう一度、ゆっくり、お願いします」就行了。",
+    "ja": "あはは、先生が、こまってしまいますよ。「もう一度、ゆっくり、お願いします」で、いいです。",
+    "romaji": "Ahaha, sensei ga, komatte shimaimasu yo. 'Mou ichido, yukkuri, onegaishimasu' de, ii desu."
+  },
+  "vl4.p2_mis_mei": {
+    "en": "Huh, “Nani?” is how friends talk to each other. It is a little rude to a teacher.",
+    "ru": "Что, «нани?» — так говорят друг другу друзья. Учителю это звучит немного грубо.",
+    "zh": "咦，「何？」是朋友之间的说法。对老师来说有点失礼。",
+    "ja": "えっ、「何？」は、友だち同士の言い方ですよ。先生には、ちょっと失礼です。",
+    "romaji": "E, 'Nani?' wa, tomodachi doushi no iikata desu yo. Sensei ni wa, chotto shitsurei desu."
+  },
+  "vl4.p2_mis_retry": {
+    "en": "Oh, excuse me. Once more, slowly, please.",
+    "ru": "Ой, извините. Ещё раз, помедленнее, пожалуйста.",
+    "zh": "啊，不好意思。请再说一遍，慢一点。",
+    "ja": "あっ、すみません。もう一度、ゆっくり、お願いします。",
+    "romaji": "A, sumimasen. Mou ichido, yukkuri, onegaishimasu."
+  },
+  "vl4.p2_mis_relief": {
+    "en": "Yes, that's it. With this, the teacher can feel at ease too.",
+    "ru": "Да, именно так. Так и учитель будет спокоен.",
+    "zh": "对，就是这个。这样老师也会放心。",
+    "ja": "はい、それです。これなら、先生も安心します。",
+    "romaji": "Hai, sore desu. Kore nara, sensei mo anshin shimasu."
+  },
+  "vl4.p2_own_yuki": {
+    "en": "That's a good way. Listening while writing makes it easier to remember.",
+    "ru": "Хороший способ. Если слушать и записывать, легче запомнить.",
+    "zh": "这是个好办法。边写边听，更容易记住。",
+    "ja": "いい方法ですね。書きながら聞くと、覚えやすいです。",
+    "romaji": "Ii houhou desu ne. Kakinagara kiku to, oboeyasui desu."
+  },
+  "vl4.p2_min_tanaka": {
+    "en": "When you don't understand, it's okay not to stay silent. Try saying “mou ichido.”",
+    "ru": "Если вы не понимаете, не молчите. Попробуйте сказать «мо итидо».",
+    "zh": "听不懂的时候，不必沉默。试着说「もう一度」吧。",
+    "ja": "分からないときは、だまらないで大丈夫です。「もう一度」と、言ってみましょう。",
+    "romaji": "Wakaranai toki wa, damaranaide daijoubu desu. 'Mou ichido' to, itte mimashou."
+  },
+  "vl4.w5": {
+    "en": "Next: “oshiete kudasai.” You use it when you ask a teacher about something you don't understand.",
+    "ru": "Дальше: «осиэтэ кудасай». Так просят учителя объяснить непонятное.",
+    "zh": "接下来是「教えてください」。向老师询问不懂的地方时使用。",
+    "ja": "次は、「教えてください」。分からないことを、先生に聞くときに使います。",
+    "romaji": "Tsugi wa, 'oshiete kudasai'. Wakaranai koto o, sensei ni kiku toki ni tsukaimasu."
+  },
+  "vl4.w5_q": {
+    "en": "Do you say “oshiete kudasai” to friends too?",
+    "ru": "Друзьям тоже говорят «осиэтэ кудасай»?",
+    "zh": "对朋友也说「教えてください」吗？",
+    "ja": "友だちにも、「教えてください」と言いますか？",
+    "romaji": "Tomodachi ni mo, 'oshiete kudasai' to iimasu ka?"
+  },
+  "vl4.w5_a": {
+    "en": "With friends, just “oshiete” is fine. But with a teacher or someone you don't know well, say “oshiete kudasai.”",
+    "ru": "Друзьям можно сказать просто «осиэтэ». Но учителю и малознакомым людям говорите «осиэтэ кудасай».",
+    "zh": "对朋友说「教えて」就可以。但对老师或不太熟的人，要说「教えてください」。",
+    "ja": "友だちには、「教えて」でも大丈夫です。でも、先生や、あまり知らない人には、「教えてください」と言いましょう。",
+    "romaji": "Tomodachi ni wa, 'oshiete' demo daijoubu desu. Demo, sensei ya, amari shiranai hito ni wa, 'oshiete kudasai' to iimashou."
+  },
+  "vl4.p3_prompt": {
+    "en": "I have written a new word on the board. You don't know what it means. What do you say to the teacher?",
+    "ru": "Я написал на доске новое слово. Вы не знаете его значения. Что вы скажете учителю?",
+    "zh": "我在黑板上写了一个新词。你不知道它的意思。你会对老师说什么？",
+    "ja": "黒板に、新しい言葉を書きました。あなたは、この言葉の意味が分かりません。先生に、何と言いますか？",
+    "romaji": "Kokuban ni, atarashii kotoba o kakimashita. Anata wa, kono kotoba no imi ga wakarimasen. Sensei ni, nan to iimasu ka?"
+  },
+  "vl4.c3_natural": {
+    "en": "“Excuse me, please teach me this word.”",
+    "ru": "«Извините, объясните, пожалуйста, это слово».",
+    "zh": "“不好意思，请教我这个词。”",
+    "ja": "「すみません、この言葉を、教えてください。」",
+    "romaji": "'Sumimasen, kono kotoba o, oshiete kudasai.'"
+  },
+  "vl4.c3_formal": {
+    "en": "“Forgive my lack of study, but might I be favored with your instruction on this word's meaning?”",
+    "ru": "«Простите за недостаточную подготовку, не соблаговолите ли вы разъяснить значение этого слова?»",
+    "zh": "“惭愧我学习不够，不知能否请您赐教这个词的意思？”",
+    "ja": "「不勉強で申し訳ございませんが、この言葉の意味を、ご教示いただけますか。」",
+    "romaji": "'Fubenkyou de moushiwake gozaimasen ga, kono kotoba no imi o, gokyouji itadakemasu ka.'"
+  },
+  "vl4.c3_mistake": {
+    "en": "“Teach me!”",
+    "ru": "«Объясни!»",
+    "zh": "“教我！”",
+    "ja": "「教えて！」",
+    "romaji": "'Oshiete!'"
+  },
+  "vl4.c3_own": {
+    "en": "“Excuse me, please teach me what this word means. And could you show me how to use it, too?”",
+    "ru": "«Извините, объясните, пожалуйста, значение этого слова. А ещё расскажите, как его использовать».",
+    "zh": "“不好意思，请教我这个词的意思。另外，也请告诉我它的用法。”",
+    "ja": "「すみません、この言葉の意味を、教えてください。それから、使い方も、お願いします。」",
+    "romaji": "'Sumimasen, kono kotoba no imi o, oshiete kudasai. Sorekara, tsukaikata mo, onegaishimasu.'"
+  },
+  "vl4.c3_min": {
+    "en": "“This... teach...”",
+    "ru": "«Это… объясни…»",
+    "zh": "“这个……教我……”",
+    "ja": "「これ…教えて…」",
+    "romaji": "'Kore... oshiete...'"
+  },
+  "vl4.p3_nat_tanaka": {
+    "en": "Yes, this word means “together.” Good question.",
+    "ru": "Да, это слово означает «вместе». Хороший вопрос.",
+    "zh": "好的，这个词是“一起”的意思。问得好。",
+    "ja": "はい、この言葉は「いっしょに」という意味です。いい質問ですね。",
+    "romaji": "Hai, kono kotoba wa 'issho ni' to iu imi desu. Ii shitsumon desu ne."
+  },
+  "vl4.p3_form_yuki": {
+    "en": "Haha, that is a very big phrase. “Oshiete kudasai” alone is enough.",
+    "ru": "Ха-ха, какие громкие слова. Достаточно просто «осиэтэ кудасай».",
+    "zh": "哈哈，说得太隆重了。只说「教えてください」就足够了。",
+    "ja": "あはは、とても大きな言葉ですね。「教えてください」だけで、じゅうぶんです。",
+    "romaji": "Ahaha, totemo ookina kotoba desu ne. 'Oshiete kudasai' dake de, juubun desu."
+  },
+  "vl4.p3_mis_ken": {
+    "en": "Ah, “oshiete” to a teacher is friend-talk. Let's add “kudasai.”",
+    "ru": "Ой, «осиэтэ» учителю — это язык друзей. Давайте добавим «кудасай».",
+    "zh": "啊，对老师说「教えて」是朋友之间的说法。加上「ください」吧。",
+    "ja": "あ、先生に「教えて」は、友だち言葉です。「ください」をつけましょう。",
+    "romaji": "A, sensei ni 'oshiete' wa, tomodachi kotoba desu. 'Kudasai' o tsukemashou."
+  },
+  "vl4.p3_mis_retry": {
+    "en": "Oh, excuse me. Please teach me this word.",
+    "ru": "Ой, извините. Объясните, пожалуйста, это слово.",
+    "zh": "啊，不好意思。请教我这个词。",
+    "ja": "あっ、すみません。この言葉を、教えてください。",
+    "romaji": "A, sumimasen. Kono kotoba o, oshiete kudasai."
+  },
+  "vl4.p3_mis_relief": {
+    "en": "Right! Now it's perfect.",
+    "ru": "Верно! Теперь всё отлично.",
+    "zh": "对！这样就完美了。",
+    "ja": "そうです！これで、ばっちりです。",
+    "romaji": "Sou desu! Kore de, batchiri desu."
+  },
+  "vl4.p3_own_tanaka": {
+    "en": "Wonderful. Asking about how to use it and not only what it means is an excellent way to study.",
+    "ru": "Прекрасно. Спрашивать не только значение, но и способ использования — отличный способ учиться.",
+    "zh": "太好了。不仅问意思，还问用法，这是非常好的学习方式。",
+    "ja": "すばらしい。意味だけでなく、使い方も聞くのは、とてもいい勉強のしかたです。",
+    "romaji": "Subarashii. Imi dake de naku, tsukaikata mo kiku no wa, totemo ii benkyou no shikata desu."
+  },
+  "vl4.p3_min_mei": {
+    "en": "It's okay, I understand. Next time, try saying “kono kotoba o, oshiete kudasai.”",
+    "ru": "Ничего, я понимаю. В следующий раз попробуйте сказать «коно котоба о, осиэтэ кудасай».",
+    "zh": "没关系，我明白。下次试着说「この言葉を、教えてください」。",
+    "ja": "だいじょうぶ、分かりますよ。次は、「この言葉を、教えてください」と言ってみましょう。",
+    "romaji": "Daijoubu, wakarimasu yo. Tsugi wa, 'kono kotoba o, oshiete kudasai' to itte mimashou."
+  },
+  "vl4.w6": {
+    "en": "Everyone, do you know this word? For example, “jouzu,” skilled. You say it to someone who can speak Japanese well.",
+    "ru": "Все, знаете ли вы это слово? Например, «дзёдзу» — умелый. Так говорят человеку, который хорошо говорит по-японски.",
+    "zh": "各位，你们知道这个词吗？比如「上手」。对日语说得好的人使用。",
+    "ja": "みなさん、この言葉は分かりますか。たとえば、「上手」。じょうずに、日本語を話せる人に言います。",
+    "romaji": "Minasan, kono kotoba wa wakarimasu ka. Tatoeba, 'jouzu'. Jouzu ni, nihongo o hanaseru hito ni iimasu."
+  },
+  "vl4.w6_yuki": {
+    "en": "Your Japanese is very good!",
+    "ru": "Вы прекрасно говорите по-японски!",
+    "zh": "你的日语真好！",
+    "ja": "日本語が上手ですね！",
+    "romaji": "Nihongo ga jouzu desu ne!"
+  },
+  "vl4.w6_q": {
+    "en": "What do you answer when someone says that to you?",
+    "ru": "Что отвечают, когда вам так говорят?",
+    "zh": "别人这样夸你时，该怎么回答？",
+    "ja": "そう言われたら、何と答えますか？",
+    "romaji": "Sou iwaretara, nan to kotaemasu ka?"
+  },
+  "vl4.w6_a": {
+    "en": "You say “arigatou gozaimasu. madamada desu.” “Madamada” means “I still have a long way to go.” In Japan, people tend to answer praise a little modestly.",
+    "ru": "Говорят «аригато годзаимасу. Мадамада дэс». «Мадамада» означает «мне ещё есть куда расти». В Японии на похвалу обычно отвечают немного скромно.",
+    "zh": "说「ありがとうございます。まだまだです」。「まだまだ」的意思是“还差得远”。在日本，被夸奖时通常会稍微谦虚地回答。",
+    "ja": "「ありがとうございます。まだまだです」と言います。「まだまだ」は、「まだ、これからです」という意味です。日本では、ほめられたとき、少し控えめに答えます。",
+    "romaji": "'Arigatou gozaimasu. Madamada desu' to iimasu. 'Madamada' wa, 'mada, kore kara desu' to iu imi desu. Nihon de wa, homerareta toki, sukoshi hikaeme ni kotaemasu."
+  },
+  "vl4.p4_prompt": {
+    "en": "Let's practice. “Your Japanese is very good!” What do you say?",
+    "ru": "Давайте потренируемся. «Вы прекрасно говорите по-японски!» Что вы ответите?",
+    "zh": "来练习吧。“你的日语真好！”你会怎么回答？",
+    "ja": "では、練習しましょう。「日本語が上手ですね！」あなたは、何と言いますか？",
+    "romaji": "Dewa, renshuu shimashou. 'Nihongo ga jouzu desu ne!' Anata wa, nan to iimasu ka?"
+  },
+  "vl4.c4_natural": {
+    "en": "“Thank you. I still have a long way to go.”",
+    "ru": "«Спасибо. Мне ещё расти и расти».",
+    "zh": "“谢谢。我还差得远。”",
+    "ja": "「ありがとうございます。まだまだです。」",
+    "romaji": "'Arigatou gozaimasu. Madamada desu.'"
+  },
+  "vl4.c4_formal": {
+    "en": "“Such kind words are more than I deserve. I am still but an unskilled beginner.”",
+    "ru": "«Ваши слова слишком добры для меня. Я всего лишь неопытный новичок».",
+    "zh": "“过奖了。我还只是个不成熟的新手。”",
+    "ja": "「もったいないお言葉でございます。わたくしなど、まだ未熟者でございます。」",
+    "romaji": "'Mottainai okotoba de gozaimasu. Watakushi nado, mada mijukumono de gozaimasu.'"
+  },
+  "vl4.c4_mistake": {
+    "en": "“Yes, I'm good!”",
+    "ru": "«Да, я хорош!»",
+    "zh": "“是的，我很棒！”",
+    "ja": "「はい、上手です！」",
+    "romaji": "'Hai, jouzu desu!'"
+  },
+  "vl4.c4_own": {
+    "en": "“Thank you. I'll do my best!”",
+    "ru": "«Спасибо. Буду стараться!»",
+    "zh": "“谢谢。我会加油的！”",
+    "ja": "「ありがとうございます。頑張ります！」",
+    "romaji": "'Arigatou gozaimasu. Ganbarimasu!'"
+  },
+  "vl4.c4_min": {
+    "en": "“Ah... thanks...”",
+    "ru": "«А… спасибо…»",
+    "zh": "“啊……谢谢……”",
+    "ja": "「あ…どうも…」",
+    "romaji": "'A... doumo...'"
+  },
+  "vl4.p4_nat_yuki": {
+    "en": "Wonderful. That is a very Japanese answer.",
+    "ru": "Прекрасно. Это очень по-японски.",
+    "zh": "太棒了。这是很有日本风格的回答。",
+    "ja": "すばらしい。とても日本らしい答えです。",
+    "romaji": "Subarashii. Totemo nihon rashii kotae desu."
+  },
+  "vl4.p4_form_mei": {
+    "en": "Ha, that is exaggerated. “Arigatou gozaimasu” is fine.",
+    "ru": "Ха-ха, слишком пафосно. Достаточно «аригато годзаимасу».",
+    "zh": "呵呵，太夸张了。说「ありがとうございます」就好。",
+    "ja": "ふふ、大げさです。「ありがとうございます」で、いいですよ。",
+    "romaji": "Fufu, oogesa desu. 'Arigatou gozaimasu' de, ii desu yo."
+  },
+  "vl4.p4_mis_ken": {
+    "en": "Haha, you're honest. But in Japan, saying “hai, jouzu desu” is a bit unusual.",
+    "ru": "Ха-ха, вы честны. Но в Японии говорить «хай, дзёдзу дэс» несколько необычно.",
+    "zh": "哈哈，你真诚实。不过在日本，说「はい、上手です」有点少见。",
+    "ja": "あはは、正直ですね。でも、日本では、「はい、上手です」と言うのは、少し珍しいです。",
+    "romaji": "Ahaha, shoujiki desu ne. Demo, Nihon de wa, 'hai, jouzu desu' to iu no wa, sukoshi mezurashii desu."
+  },
+  "vl4.p4_mis_retry": {
+    "en": "Oh, thank you. I still have a long way to go.",
+    "ru": "Ой, спасибо. Мне ещё расти.",
+    "zh": "啊，谢谢。我还差得远。",
+    "ja": "あっ、ありがとうございます。まだまだです。",
+    "romaji": "A, arigatou gozaimasu. Madamada desu."
+  },
+  "vl4.p4_mis_relief": {
+    "en": "Yes, that's it! Lovely answer.",
+    "ru": "Да, именно так! Прекрасный ответ.",
+    "zh": "对，就是这个！很棒的回答。",
+    "ja": "はい、それです！すてきな答えです。",
+    "romaji": "Hai, sore desu! Suteki na kotae desu."
+  },
+  "vl4.p4_own_tanaka": {
+    "en": "A good answer. You will get even better from now on.",
+    "ru": "Хороший ответ. Дальше будет только лучше.",
+    "zh": "很好的回答。你以后会更擅长的。",
+    "ja": "いい答えです。これから、もっと上手になりますよ。",
+    "romaji": "Ii kotae desu. Korekara, motto jouzu ni narimasu yo."
+  },
+  "vl4.p4_min_yuki": {
+    "en": "Even “doumo” carries your feeling. But if you can say “arigatou gozaimasu” too, it's even better.",
+    "ru": "Даже «домо» передаёт чувство. Но если добавить «аригато годзаимасу», будет ещё лучше.",
+    "zh": "即使说「どうも」也能表达心意。不过如果能说「ありがとうございます」就更好了。",
+    "ja": "「どうも」でも、気持ちは伝わります。でも、「ありがとうございます」も言えると、もっといいですよ。",
+    "romaji": "'Doumo' demo, kimochi wa tsutawarimasu. Demo, 'arigatou gozaimasu' mo ieru to, motto ii desu yo."
+  },
+  "vl4.hall": {
+    "en": "After class, Ken sighs in the hallway. Tomorrow is the Japanese test.",
+    "ru": "После урока в коридоре Кен вздыхает. Завтра тест по японскому.",
+    "zh": "下课后，健在走廊里叹气。明天有日语考试。",
+    "ja": "授業のあと、廊下で、ケンがため息をついている。あしたは、日本語のテストだ。",
+    "romaji": "Jugyou no ato, rouka de, Ken ga tameiki o tsuite iru. Ashita wa, nihongo no tesuto da."
+  },
+  "vl4.h_ken": {
+    "en": "I'm a little worried about tomorrow's test...",
+    "ru": "Немного переживаю из-за завтрашнего теста…",
+    "zh": "我有点担心明天的考试……",
+    "ja": "あしたのテスト、ちょっと心配です…。",
+    "romaji": "Ashita no tesuto, chotto shinpai desu..."
+  },
+  "vl4.w7": {
+    "en": "To a friend like that, say “ganbatte ne.” “Ganbaru” means to give it your all.",
+    "ru": "Такому другу скажите «гамбатэ нэ». «Гамбару» означает делать всё возможное.",
+    "zh": "对这样的朋友，说「頑張ってね」。「頑張る」的意思是拼命努力。",
+    "ja": "そんな友だちには、「頑張ってね」と言いましょう。「頑張る」は、一生けんめいするという意味です。",
+    "romaji": "Sonna tomodachi ni wa, 'ganbatte ne' to iimashou. 'Ganbaru' wa, isshoukenmei suru to iu imi desu."
+  },
+  "vl4.w7_q": {
+    "en": "Is it okay for me to say “ganbarimasu” about myself?",
+    "ru": "Можно ли самому сказать «гамбаримас»?",
+    "zh": "自己说「頑張ります」可以吗？",
+    "ja": "自分が「頑張ります」と言うのは、いいですか？",
+    "romaji": "Jibun ga 'ganbarimasu' to iu no wa, ii desu ka?"
+  },
+  "vl4.w7_a": {
+    "en": "Yes. “Ganbarimasu” expresses your own resolve. “Ganbatte ne” is a phrase to encourage the other person.",
+    "ru": "Да. «Гамбаримас» выражает вашу собственную решимость. «Гамбатэ нэ» — слова, чтобы подбодрить другого.",
+    "zh": "可以。「頑張ります」是表达自己的决心。「頑張ってね」是鼓励对方的话。",
+    "ja": "はい。「頑張ります」は、自分の気持ちです。「頑張ってね」は、相手をはげます言葉です。",
+    "romaji": "Hai. 'Ganbarimasu' wa, jibun no kimochi desu. 'Ganbatte ne' wa, aite o hagemasu kotoba desu."
+  },
+  "vl4.p5_prompt": {
+    "en": "Now, what do you say to Ken?",
+    "ru": "Что вы скажете Кену?",
+    "zh": "那么，你会对健说什么？",
+    "ja": "では、ケンさんに、何と言いますか？",
+    "romaji": "Dewa, Ken-san ni, nan to iimasu ka?"
+  },
+  "vl4.c5_natural": {
+    "en": "“Do your best!”",
+    "ru": "«Старайся!»",
+    "zh": "“加油哦！”",
+    "ja": "「頑張ってね！」",
+    "romaji": "'Ganbatte ne!'"
+  },
+  "vl4.c5_formal": {
+    "en": "“I am praying for your good fight.”",
+    "ru": "«Молюсь о вашей доблестной борьбе».",
+    "zh": "“祝愿您全力以赴，取得佳绩。”",
+    "ja": "「ご健闘をお祈りいたしております。」",
+    "romaji": "'Gokentou o oinori itashite orimasu.'"
+  },
+  "vl4.c5_mistake": {
+    "en": "“I'll do my best!”",
+    "ru": "«Я буду стараться!»",
+    "zh": "“我会加油的！”",
+    "ja": "「頑張ります！」",
+    "romaji": "'Ganbarimasu!'"
+  },
+  "vl4.c5_own": {
+    "en": "“Do your best. Shall I study with you?”",
+    "ru": "«Старайся. Может, я позанимаюсь с тобой?»",
+    "zh": "“加油哦。我要不要也和你一起学习？”",
+    "ja": "「頑張ってね。私も、いっしょに勉強しましょうか？」",
+    "romaji": "'Ganbatte ne. Watashi mo, issho ni benkyou shimashou ka?'"
+  },
+  "vl4.c5_min": {
+    "en": "“D-do your best.”",
+    "ru": "«С-старайся».",
+    "zh": "“加……加油。”",
+    "ja": "「が…頑張って」",
+    "romaji": "'Ga... ganbatte'"
+  },
+  "vl4.p5_nat_ken": {
+    "en": "Thank you. Somehow, I feel more energetic!",
+    "ru": "Спасибо. Как-то сразу прибавилось сил!",
+    "zh": "谢谢。不知怎么的，精神好起来了！",
+    "ja": "ありがとうございます。なんだか、元気が出ました！",
+    "romaji": "Arigatou gozaimasu. Nandaka, genki ga demashita!"
+  },
+  "vl4.p5_form_ken": {
+    "en": "Haha, it makes the test sound like a huge battle. “Ganbatte ne” is what makes me happy.",
+    "ru": "Ха-ха, теперь тест похож на грандиозную битву. Мне достаточно «гамбатэ нэ».",
+    "zh": "哈哈，听起来考试像一场大战似的。说「頑張ってね」我就很开心了。",
+    "ja": "あはは、テストが、すごく大きな戦いみたいです。「頑張ってね」で、うれしいです。",
+    "romaji": "Ahaha, tesuto ga, sugoku ookina tatakai mitai desu. 'Ganbatte ne' de, ureshii desu."
+  },
+  "vl4.p5_mis_ken": {
+    "en": "Huh, you're going to do your best too? Nice. But to me, it should be “ganbatte ne.”",
+    "ru": "Что, вы тоже будете стараться? Здорово. Но мне нужно сказать «гамбатэ нэ».",
+    "zh": "咦，你也要加油吗？不错。不过对我应该说「頑張ってね」哦。",
+    "ja": "えっ、あなたも、頑張りますか？いいですね。でも、ぼくには、「頑張ってね」ですよ。",
+    "romaji": "E, anata mo, ganbarimasu ka? Ii desu ne. Demo, boku ni wa, 'ganbatte ne' desu yo."
+  },
+  "vl4.p5_mis_retry": {
+    "en": "Oh, do your best, Ken!",
+    "ru": "Ой, старайся, Кен!",
+    "zh": "啊，加油哦，健！",
+    "ja": "あっ、頑張ってね、ケンさん！",
+    "romaji": "A, ganbatte ne, Ken-san!"
+  },
+  "vl4.p5_mis_relief": {
+    "en": "Yes, thank you!",
+    "ru": "Да, спасибо!",
+    "zh": "嗯，谢谢！",
+    "ja": "はい、ありがとうございます！",
+    "romaji": "Hai, arigatou gozaimasu!"
+  },
+  "vl4.p5_own_ken": {
+    "en": "Really? I'm happy. Then let's do it together!",
+    "ru": "Правда? Я рад. Тогда давайте вместе!",
+    "zh": "真的吗？我好开心。那我们一起来吧！",
+    "ja": "本当ですか？うれしいです。じゃあ、いっしょにやりましょう！",
+    "romaji": "Hontou desu ka? Ureshii desu. Jaa, issho ni yarimashou!"
+  },
+  "vl4.p5_min_mei": {
+    "en": "Ha, there is no need to be nervous. “Ganbatte ne” carries your feelings just fine.",
+    "ru": "Ха-ха, не нужно нервничать. «Гамбатэ нэ» прекрасно передаёт ваше чувство.",
+    "zh": "呵呵，不用紧张。说「頑張ってね」，心意就能传达。",
+    "ja": "ふふ、きんちょうしなくても大丈夫です。「頑張ってね」で、気持ちは伝わりますよ。",
+    "romaji": "Fufu, kinchou shinakute mo daijoubu desu. 'Ganbatte ne' de, kimochi wa tsutawarimasu yo."
+  },
+  "vl4.talk_open": {
+    "en": "Now let's talk. Out of today's ten words, is there one you want to use outside the classroom?",
+    "ru": "Теперь поговорим. Есть ли среди сегодняшних десяти слов такое, которое вы хотите использовать и вне класса?",
+    "zh": "现在来聊聊。今天这十个词里，有没有想在教室外也使用的词？",
+    "ja": "では、話しましょう。今日の十の言葉の中で、教室の外でも使いたい言葉は、ありますか？",
+    "romaji": "Dewa, hanashimashou. Kyou no juu no kotoba no naka de, kyoushitsu no soto demo tsukaitai kotoba wa, arimasu ka?"
+  },
+  "vl4.talk_mei": {
+    "en": "For me, it is “mou ichido, yukkuri, onegaishimasu.” It seems useful in shops too.",
+    "ru": "Для меня это «мо итидо, юккури, онэгайсимасу». Похоже, это пригодится и в магазинах.",
+    "zh": "我想用「もう一度、ゆっくり、お願いします」。在店里也用得上。",
+    "ja": "わたしは、「もう一度、ゆっくり、お願いします」です。お店でも、使えそうです。",
+    "romaji": "Watashi wa, 'mou ichido, yukkuri, onegaishimasu' desu. Omise demo, tsukaesou desu."
+  },
+  "vl4.talk_ken": {
+    "en": "For me, it is “ganbarimasu.” I'll do my best on tomorrow's test.",
+    "ru": "Для меня это «гамбаримас». Я буду стараться на завтрашнем тесте.",
+    "zh": "我想用「頑張ります」。明天的考试，我会加油。",
+    "ja": "ぼくは、「頑張ります」です。あしたのテスト、頑張ります。",
+    "romaji": "Boku wa, 'ganbarimasu' desu. Ashita no tesuto, ganbarimasu."
+  },
+  "vl4.talk_yuki": {
+    "en": "For me, it is “madamada desu.” I want to try using it when I'm praised.",
+    "ru": "Для меня это «мадамада дэс». Хочу попробовать использовать, когда меня хвалят.",
+    "zh": "我想用「まだまだです」。被夸奖的时候想试着说说看。",
+    "ja": "わたしは、「まだまだです」です。ほめられたとき、使ってみたいです。",
+    "romaji": "Watashi wa, 'madamada desu' desu. Homerareta toki, tsukatte mitai desu."
+  },
+  "vl4.talk_tanaka": {
+    "en": "Lovely. People who can put it into words when they don't understand get better and better.",
+    "ru": "Прекрасно. Те, кто умеет сказать вслух, когда не понимают, становятся всё лучше и лучше.",
+    "zh": "很好。听不懂时能开口说出来的人，会越来越擅长。",
+    "ja": "すてきですね。分からないときに、言葉にできる人は、どんどん上手になります。",
+    "romaji": "Suteki desu ne. Wakaranai toki ni, kotoba ni dekiru hito wa, dondon jouzu ni narimasu."
+  },
+  "vl4.talk_player": {
+    "en": "(If I say “mou ichido, yukkuri, onegaishimasu” when I don't understand, it's far better than staying silent. From now on, even if it's embarrassing, I'll try asking.)",
+    "ru": "(Если я скажу «мо итидо, юккури, онэгайсимасу», когда не понимаю, это гораздо лучше, чем молчать. Теперь, даже если мне неловко, я буду спрашивать.)",
+    "zh": "（听不懂的时候，说「もう一度、ゆっくり、お願いします」比沉默好得多。今后即使觉得害羞，也要试着开口问。）",
+    "ja": "（分からないときに、「もう一度、ゆっくり、お願いします」と言えば、だまっているより、ずっといい。これからは、恥ずかしくても、聞いてみよう。）",
+    "romaji": "(Wakaranai toki ni, 'mou ichido, yukkuri, onegaishimasu' to ieba, damatte iru yori, zutto ii. Korekara wa, hazukashikute mo, kiite miyou.)"
+  },
+  "vl4.talk_close": {
+    "en": "Good lesson, everyone. You used all ten classroom words in real situations.",
+    "ru": "Хороший урок, все. Вы использовали все десять слов для класса в настоящих ситуациях.",
+    "zh": "各位，这节课很棒。你们在真实的场景中用上了这十个教室里的词。",
+    "ja": "みなさん、いいレッスンでした。教室で使う十の言葉を、本当の場面で使えましたね。",
+    "romaji": "Minasan, ii ressun deshita. Kyoushitsu de tsukau juu no kotoba o, hontou no bamen de tsukaemashita ne."
+  },
+  "vl4.complete": {
+    "en": "End of Vocabulary Lesson 4.",
+    "ru": "Конец урока лексики 4.",
+    "zh": "词汇课 4 结束。",
+    "ja": "語彙レッスン4、おわり。",
+    "romaji": "Goi ressun yon, owari."
+  }
+}

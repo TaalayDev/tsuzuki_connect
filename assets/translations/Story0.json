@@ -1,0 +1,1554 @@
+{
+  "s0.desc": {
+    "en": "Begin your Japanese learning journey at Tsuzuki Language School",
+    "ru": "Начни своё путешествие в изучении японского в языковой школе Tsuzuki",
+    "zh": "在都筑语言学校开启你的日语学习之旅",
+    "ko": "츠즈키 어학원에서 일본어 학습 여정을 시작해 보세요",
+    "ja": "都筑日本語学校で日本語の学習の旅を始めよう",
+    "romaji": "Tsuzuki Nihongo Gakkou de nihongo no gakushuu no tabi o hajimeyou"
+  },
+  "s0.s1.around_corner": {
+    "en": "The school should be just around the corner.",
+    "ru": "Школа должна быть прямо за углом.",
+    "zh": "学校应该就在拐角处。",
+    "ko": "학교는 바로 저 모퉁이를 돌면 있을 것이다.",
+    "ja": "学校は角を曲がったところにあるはずだ。",
+    "romaji": "Gakkou wa kado o magatta tokoro ni aru hazu da."
+  },
+  "s0.s1.building_view": {
+    "en": "As you turn the corner, a modest but charming building comes into view.",
+    "ru": "Повернув за угол, ты видишь скромное, но уютное здание.",
+    "zh": "转过街角，一栋朴素却很有味道的建筑映入眼帘。",
+    "ko": "모퉁이를 도니 소박하지만 아늑한 건물이 눈에 들어온다.",
+    "ja": "角を曲がると、控えめながらも魅力的な建物が目に入ってくる。",
+    "romaji": "Kado o magaru to, hikaeme nagara mo miryokuteki na tatemono ga me ni haitte kuru."
+  },
+  "s0.s1.cherry_blossoms": {
+    "en": "Cherry blossom petals drift lazily in the breeze, painting the sidewalk in shades of pink.",
+    "ru": "Лепестки сакуры лениво кружатся на ветру, окрашивая тротуар в розовые оттенки.",
+    "zh": "樱花花瓣在微风中懒洋洋地飘落，把人行道染成一片粉色。",
+    "ko": "벚꽃 잎이 바람에 느긋하게 흩날리며, 인도를 분홍빛으로 물들인다.",
+    "ja": "桜の花びらがそよ風にのって舞い散り、歩道をピンク色に染めている。",
+    "romaji": "Sakura no hanabira ga soyokaze ni notte maichiri, hodou o pinku-iro ni somete iru."
+  },
+  "s0.s1.directions": {
+    "en": "You check the directions on your phone one more time...",
+    "ru": "Ты ещё раз проверяешь маршрут на телефоне...",
+    "zh": "你又一次查看手机上的路线……",
+    "ko": "너는 휴대폰으로 길 안내를 다시 한 번 확인한다...",
+    "ja": "スマホで道順をもう一度確認する……",
+    "romaji": "Sumaho de michijun o mou ichido kakunin suru..."
+  },
+  "s0.s1.dream": {
+    "en": "Learning Japanese has always been a dream of yours, and now it's finally becoming reality.",
+    "ru": "Изучение японского всегда было твоей мечтой, и теперь она наконец становится реальностью.",
+    "zh": "学习日语一直是你的梦想，而现在终于要成为现实。",
+    "ko": "일본어를 배우는 건 늘 꿈이었고, 이제 마침내 현실이 되려 한다.",
+    "ja": "日本語を学ぶことはずっとあなたの夢だった。そして今、ついにそれが現実になろうとしている。",
+    "romaji": "Nihongo o manabu koto wa zutto anata no yume datta. Soshite ima, tsuini sore ga genjitsu ni narou to shite iru."
+  },
+  "s0.s1.first_day": {
+    "en": "Today is your first day at Tsuzuki Language School. You've been looking forward to this for months.",
+    "ru": "Сегодня твой первый день в языковой школе Цудзуки. Ты ждёшь этого уже несколько месяцев.",
+    "zh": "今天是你在都筑语言学校的第一天。你已经期待了好几个月。",
+    "ko": "오늘은 츠즈키 어학원 첫날이다. 몇 달 동안 이 날을 기다려 왔다.",
+    "ja": "今日は都筑日本語学校の初日だ。何ヶ月も前からこの日を楽しみにしていた。",
+    "romaji": "Kyou wa Tsuzuki Nihongo Gakkou no shonichi da. Nan-kagetsu mo mae kara kono hi o tanoshimi ni shite ita."
+  },
+  "s0.s1.morning_air": {
+    "en": "The spring morning air is crisp and fresh as you walk through the streets of Tsuzuki.",
+    "ru": "Весенний утренний воздух свеж и прохладен, пока ты идёшь по улицам Цудзуки.",
+    "zh": "春日清晨的空气清爽微凉，你走在都筑的街道上。",
+    "ko": "봄 아침 공기는 상쾌하고 선선하다. 너는 츠즈키의 거리를 걸어간다.",
+    "ja": "都筑の街を歩く春の朝の空気は、澄んでいて爽やかだ。",
+    "romaji": "Tsuzuki no machi o aruku haru no asa no kuuki wa, sunde ite sawayaka da."
+  },
+  "s0.s1.sign": {
+    "en": "A wooden sign reads: 「つづき日本語学校」 - Tsuzuki Japanese Language School",
+    "ru": "На деревянной вывеске написано: 「つづき日本語学校」 — Tsuzuki Japanese Language School",
+    "zh": "木牌上写着：「つづき日本語学校」—— Tsuzuki Japanese Language School",
+    "ko": "나무 간판에는 「つづき日本語学校」 — Tsuzuki Japanese Language School 라고 적혀 있다.",
+    "ja": "木製の看板には「つづき日本語学校」と書かれている。",
+    "romaji": "Mokusei no kanban ni wa 「Tsuzuki Nihongo Gakkou」 to kakarete iru."
+  },
+  "s0.s1.think_early": {
+    "en": "I hope I'm not too early... or too late.",
+    "ru": "Надеюсь, я не слишком рано... и не слишком поздно.",
+    "zh": "希望我没有来得太早……或者太晚。",
+    "ko": "너무 일찍 온 건 아니겠지... 아니면 너무 늦었거나.",
+    "ja": "早く着きすぎてないといいけど……遅すぎても困るしな。",
+    "romaji": "Hayaku tsukisugite nai to ii kedo... ososugitemo komaru shi na."
+  },
+  "s0.s1.think_no_back": {
+    "en": "This is it. No turning back now!",
+    "ru": "Вот оно. Теперь пути назад нет!",
+    "zh": "就是这里了。没有回头路！",
+    "ko": "여기가 맞아. 이제 돌아갈 수 없어!",
+    "ja": "ここだな。もう後戻りはできないぞ！",
+    "romaji": "Koko da na. Mou atomodori wa dekinai zo!"
+  },
+  "s0.s1.think_others": {
+    "en": "What will the other students be like? The teacher?",
+    "ru": "Какими будут другие ученики? Учитель?",
+    "zh": "其他同学会是什么样？老师呢？",
+    "ko": "다른 학생들은 어떤 사람들일까? 선생님은?",
+    "ja": "他の生徒たちはどんな人たちだろう？先生はどんな人かな？",
+    "romaji": "Hoka no seitotachi wa donna hitotachi darou? Sensei wa donna hito kana?"
+  },
+  "s0.s2.chalkboard": {
+    "en": "A green chalkboard dominates the front wall, Japanese characters already written in neat rows.",
+    "ru": "Переднюю стену занимает зелёная доска; на ней уже аккуратными рядами написаны японские знаки.",
+    "zh": "前方的绿色黑板占据了整面墙，上面已经整整齐齐写满了日文字符。",
+    "ko": "앞벽을 가득 채운 초록 칠판에는 일본어 글자가 깔끔하게 줄지어 적혀 있다.",
+    "ja": "前方の壁には大きな緑色の黒板があり、日本語の文字がすでに綺麗に並んで書かれている。",
+    "romaji": "Zenpou no kabe ni wa ookina midoriiro no kokuban ga ari, nihongo no moji ga sude ni kirei ni narande kakarete iru."
+  },
+  "s0.s2.choice.okay": {
+    "en": "Oh, um, okay...",
+    "ru": "Э-э... ладно...",
+    "zh": "呃……好吧……",
+    "ko": "어... 응, 알겠어...",
+    "ja": "あ、えっと、うん……",
+    "romaji": "A, etto, un..."
+  },
+  "s0.s2.choice.sure": {
+    "en": "Sure, thanks!",
+    "ru": "Конечно, спасибо!",
+    "zh": "好呀，谢谢！",
+    "ko": "응, 고마워!",
+    "ja": "うん、ありがとう！",
+    "romaji": "Un, arigatou!"
+  },
+  "s0.s2.first_arrive": {
+    "en": "You're one of the first to arrive. Only a couple of other students are here.",
+    "ru": "Ты пришёл(а) одним из первых. В классе только пара других учеников.",
+    "zh": "你来得很早。教室里只有两三个同学。",
+    "ko": "너는 비교적 일찍 도착했다. 다른 학생은 두세 명뿐이다.",
+    "ja": "あなたが一番乗りした生徒の一人だ。教室にはまだ他に二人ほどしかいない。",
+    "romaji": "Anata ga ichibannori shita seito no hitori da. Kyoushitsu ni wa mada hoka ni futari hodo shika inai."
+  },
+  "s0.s2.ken_desc": {
+    "en": "A friendly-looking young man with messy brown hair waves at you from across the room.",
+    "ru": "Дружелюбный парень с растрёпанными каштановыми волосами машет тебе с другого конца класса.",
+    "zh": "对面一个看起来很友善、棕色乱发的年轻人朝你挥手。",
+    "ko": "헝클어진 갈색 머리의 친근해 보이는 청년이 교실 반대편에서 손을 흔든다.",
+    "ja": "無造作な茶髪の親しみやすそうな青年が、部屋の向こうからあなたに向かって手を振っている。",
+    "romaji": "Muzousa na chapatsu no shitashimiyasusa sou na seinen ga, heya no mukou kara anata ni mukatte te o futte iru."
+  },
+  "s0.s2.ken_greeting": {
+    "en": "Hey! You must be new too, right? Come sit over here!",
+    "ru": "Эй! Ты тоже новенький, да? Иди, садись сюда!",
+    "zh": "嘿！你也是新来的吧？来，坐这边！",
+    "ko": "헤이! 너도 새로 온 거지? 여기 와서 앉아!",
+    "ja": "おーい！君も新入生だよね？こっち来て座りなよ！",
+    "romaji": "Ooi! Kimi mo shinnyuusei da yo ne? Kocchi kite suwarina yo!"
+  },
+  "s0.s2.push_door": {
+    "en": "You push open the door and step into a bright, cozy classroom.",
+    "ru": "Ты толкаешь дверь и входишь в светлый, уютный класс.",
+    "zh": "你推开门，走进一间明亮又温馨的教室。",
+    "ko": "너는 문을 밀고 들어가 밝고 포근한 교실로 발을 들인다.",
+    "ja": "ドアを押して開けると、明るく居心地の良さそうな教室に足を踏み入れる。",
+    "romaji": "Doa o oshite akeru to, akaruku igokochi no yosa sou na kyoushitsu ni ashi o fumiireru."
+  },
+  "s0.s2.smell": {
+    "en": "The room smells faintly of chalk dust and fresh coffee.",
+    "ru": "В комнате едва ощущается запах мела и свежего кофе.",
+    "zh": "空气里淡淡地飘着粉笔灰和新鲜咖啡的味道。",
+    "ko": "교실에는 분필 가루와 갓 내린 커피 향이 희미하게 섞여 있다.",
+    "ja": "部屋にはチョークの粉と淹れたてのコーヒーのかすかな香りが漂っている。",
+    "romaji": "Heya ni wa chouku no kona to iretate no koohii no kasuka na kaori ga tadayotte iru."
+  },
+  "s0.s2.sunlight": {
+    "en": "Sunlight streams through the windows, illuminating rows of wooden desks.",
+    "ru": "Солнечные лучи льются через окна, освещая ряды деревянных парт.",
+    "zh": "阳光透过窗户洒进来，照亮一排排木制课桌。",
+    "ko": "햇빛이 창문으로 쏟아져 들어오며 나무 책상들이 줄지어 있는 모습을 비춘다.",
+    "ja": "窓から日差しが差し込み、整然と並んだ木の机を照らしている。",
+    "romaji": "Mado kara hizashi ga sashikomi, seizento naranda ki no tsukue o terashite iru."
+  },
+  "s0.s2a.ken_hajimemashite": {
+    "en": "初めまして！(Hajimemashite!) ...That's 'nice to meet you' in Japanese!",
+    "ru": "初めまして！(Hajimemashite!) ...Это по-японски «приятно познакомиться»!",
+    "zh": "初めまして！(Hajimemashite!) ……在日语里就是“很高兴认识你”的意思！",
+    "ko": "初めまして！(Hajimemashite!) ...일본어로 ‘처음 뵙겠습니다/만나서 반가워요’라는 뜻이야!",
+    "ja": "初めまして！(Hajimemashite!) ……日本語で「よろしく」って意味だよ！",
+    "romaji": "Hajimemashite! (Hajimemashite!) ...Nihongo de \"yoroshiku\" tte imi da yo!"
+  },
+  "s0.s2a.ken_name": {
+    "en": "I'm Ken, by the way. Ken Takahashi.",
+    "ru": "Я Кен, кстати. Кен Такахаси.",
+    "zh": "对了，我叫Ken。Ken Takahashi。",
+    "ko": "난 켄이야. 켄 타카하시.",
+    "ja": "そうそう、俺はケン。高橋ケンだよ。",
+    "romaji": "Sousou, ore wa Ken. Takahashi Ken da yo."
+  },
+  "s0.s2a.ken_reply": {
+    "en": "Haha, no way! I think most of us are beginners.",
+    "ru": "Ха-ха, да ну! Думаю, большинство из нас — новички.",
+    "zh": "哈哈，不会啦！我觉得我们大多数都是初学者。",
+    "ko": "하하, 설마! 우리 대부분은 초보자일 걸.",
+    "ja": "ハハ、まさか！みんな大体初心者だと思うよ。",
+    "romaji": "Haha, masaka! Minna daitai shoshinsha da to omou yo."
+  },
+  "s0.s2a.player_reply": {
+    "en": "Sure, thanks! I was worried I'd be the only new person.",
+    "ru": "Конечно, спасибо! Я переживал(а), что буду единственным новым человеком.",
+    "zh": "好呀，谢谢！我还担心我是唯一的新生呢。",
+    "ko": "응, 고마워! 나만 새로 온 줄 알고 걱정했어.",
+    "ja": "うん、ありがとう！自分だけが新しい人だったらどうしようって心配だったんだ。",
+    "romaji": "Un, arigatou! Jibun dake ga atarashii hito dattara dou shiyou tte shinpai dattan da."
+  },
+  "s0.s2a.seat": {
+    "en": "You make your way over and take a seat next to him.",
+    "ru": "Ты подходишь и садишься рядом с ним.",
+    "zh": "你走过去，在他旁边坐下。",
+    "ko": "너는 그쪽으로 가서 옆자리에 앉는다.",
+    "ja": "あなたはそちらへ向かい、彼の隣の席に座る。",
+    "romaji": "Anata wa sochira e mukai, kare no tonari no seki ni suwaru."
+  },
+  "s0.s2b.ken_beginner": {
+    "en": "Ken Takahashi. And you don't have to be nervous - we're all beginners here!",
+    "ru": "Кен Такахаси. И не надо волноваться — мы тут все новички!",
+    "zh": "Ken Takahashi。而且别紧张——我们都是初学者！",
+    "ko": "켄 타카하시. 그리고 긴장하지 마—여기선 다 초보자니까!",
+    "ja": "高橋ケンだよ。そんなに緊張しなくて大丈夫、ここにいるのはみんな初心者だから！",
+    "romaji": "Takahashi Ken da yo. Sonna ni kinchou shinakute daijoubu, koko ni iru no wa minna shoshinsha dakara!"
+  },
+  "s0.s2b.ken_daijoubu": {
+    "en": "大丈夫だよ！(Daijoubu da yo!) Means 'it's okay!'",
+    "ru": "大丈夫だよ！(Daijoubu da yo!) Это значит «всё в порядке!»",
+    "zh": "大丈夫だよ！(Daijoubu da yo!) 意思是“没关系！”",
+    "ko": "大丈夫だよ！(Daijoubu da yo!) ‘괜찮아!’라는 뜻이야!",
+    "ja": "大丈夫だよ！(Daijoubu da yo!) 「平気だよ！」って意味さ！",
+    "romaji": "Daijoubu da yo! (Daijoubu da yo!) \"Heiki da yo!\" tte imi sa!"
+  },
+  "s0.s2b.ken_reassurance": {
+    "en": "Don't worry, I don't bite! Name's Ken.",
+    "ru": "Не переживай, я не кусаюсь! Я Кен.",
+    "zh": "别担心，我又不咬人！我叫Ken。",
+    "ko": "걱정 마! 나 안 물어. 이름은 켄이야.",
+    "ja": "心配しないで、取って食ったりしないから！ケンって呼んで。",
+    "romaji": "Shinpai shinaide, totte kuttari shinai kara! Ken tte yonde."
+  },
+  "s0.s2b.player_reply": {
+    "en": "Oh, um, okay... Thanks.",
+    "ru": "Э-э... ладно... Спасибо.",
+    "zh": "呃……好吧……谢谢。",
+    "ko": "어, 응... 고마워.",
+    "ja": "あ、えっと、うん……ありがとう。",
+    "romaji": "A, etto, un... arigatou."
+  },
+  "s0.s2b.relax": {
+    "en": "His easygoing attitude helps you relax a little.",
+    "ru": "Его непринуждённость помогает тебе немного расслабиться.",
+    "zh": "他轻松的态度让你稍微放松了一点。",
+    "ko": "그의 느긋한 태도 덕분에 너도 조금 마음이 풀린다.",
+    "ja": "彼の気さくな態度のおかげで、少し緊張がほぐれる。",
+    "romaji": "Kare no kisaku na taido no okage de, sukoshi kinchou ga hogureru."
+  },
+  "s0.s2b.seat": {
+    "en": "You hesitantly make your way over, still feeling a bit nervous.",
+    "ru": "Ты нерешительно подходишь, всё ещё немного нервничая.",
+    "zh": "你犹豫着走过去，还是有点紧张。",
+    "ko": "너는 머뭇거리며 다가가지만 아직도 조금 긴장된다.",
+    "ja": "まだ少し緊張しながらも、あなたは恐る恐るそちらへ進んでいく。",
+    "romaji": "Mada sukoshi kinchou shinagara mo, anata wa osoruosoru sochira e susunde iku."
+  },
+  "s0.s3.ken_intense": {
+    "en": "She seems intense, huh?",
+    "ru": "Она какая-то серьёзная, да?",
+    "zh": "她看起来挺“狠”的，对吧？",
+    "ko": "좀 강렬해 보이지 않아?",
+    "ja": "あの子、なんか迫力あるよね？",
+    "romaji": "Ano ko, nanka hakuryoku aru yo ne?"
+  },
+  "s0.s3.ken_programmer": {
+    "en": "I heard she's a programmer or something. Super smart.",
+    "ru": "Слышал, она программист или типа того. Очень умная.",
+    "zh": "我听说她是程序员之类的。特别聪明。",
+    "ko": "프로그래머라나 뭐라나. 엄청 똑똑하대.",
+    "ja": "プログラマーかなんからしいよ。めちゃくちゃ頭いいんだって。",
+    "romaji": "Puroguramaa ka nanka rashii yo. Mechakucha atama ii n datte."
+  },
+  "s0.s3.mei_desc": {
+    "en": "She carries herself with a quiet confidence, her eyes scanning the room analytically.",
+    "ru": "В ней чувствуется спокойная уверенность; она внимательно, оценивающе оглядывает аудиторию.",
+    "zh": "她带着安静的自信，目光冷静地扫视着教室。",
+    "ko": "차분한 자신감이 느껴지고, 그녀의 시선은 분석하듯 교실을 훑는다.",
+    "ja": "彼女は静かな自信を漂わせ、分析するように部屋を見渡している。",
+    "romaji": "Kanojo wa shizuka na jishin o tadayowase, bunseki suru you ni heya o miwatashite iru."
+  },
+  "s0.s3.mei_enter": {
+    "en": "The door slides open again, and a young woman with dark hair in a neat ponytail walks in.",
+    "ru": "Дверь снова раздвигается, и в класс входит девушка с тёмными волосами, собранными в аккуратный хвост.",
+    "zh": "门又一次滑开，一个深色头发扎着利落马尾的女孩走了进来。",
+    "ko": "문이 다시 열리며, 어두운 머리를 깔끔한 포니테일로 묶은 젊은 여성이 들어온다.",
+    "ja": "再びドアがスライドして開き、黒髪をすっきりとしたポニーテールにまとめた若い女性が入ってくる。",
+    "romaji": "Futatabi doa ga suraido shite hiraki, kurokami o sukkiri to shita poniiteeru ni matometa wakai josei ga haitte kuru."
+  },
+  "s0.s3.mei_nod": {
+    "en": "She gives a small nod of acknowledgment before taking a seat near the front.",
+    "ru": "Она слегка кивает в знак приветствия и садится ближе к доске.",
+    "zh": "她轻轻点头示意，然后在前排坐下。",
+    "ko": "그녀는 가볍게 고개를 끄덕인 뒤 앞쪽 자리에 앉는다.",
+    "ja": "彼女は軽く会釈をしてから、前の方の席に座る。",
+    "romaji": "Kanojo wa karuku eshaku o shite kara, mae no hou no seki ni suwaru."
+  },
+  "s0.s3.mei_sensing": {
+    "en": "As if sensing she's being talked about, the woman glances back briefly.",
+    "ru": "Словно почувствовав, что о ней говорят, девушка на миг оборачивается.",
+    "zh": "仿佛察觉到有人在议论她，那女孩短暂地回头看了一眼。",
+    "ko": "자기 얘기가 들린 것처럼, 그녀가 잠깐 뒤를 힐끗 돌아본다.",
+    "ja": "噂されているのを察したのか、彼女は一瞬だけ振り返る。",
+    "romaji": "Uwasa sarete iru no o sasshita no ka, kanojo wa isshun dake furikaeru."
+  },
+  "s0.s3.mei_silent": {
+    "en": "...",
+    "ru": "...",
+    "zh": "……",
+    "ko": "...",
+    "ja": "……",
+    "romaji": "..."
+  },
+  "s0.s3.mei_smile": {
+    "en": "You could swear you see the faintest hint of a smile before she turns back around.",
+    "ru": "Тебе кажется, что ты замечаешь едва заметную улыбку, прежде чем она снова поворачивается вперёд.",
+    "zh": "你仿佛看到她嘴角掠过一丝若有若无的笑意，然后又转回去。",
+    "ko": "아주 희미한 미소가 스친 것 같다가, 곧 다시 앞을 향한다.",
+    "ja": "彼女が前を向き直す前に、ほんのかすかな笑みが浮かんだように見えた。",
+    "romaji": "Kanojo ga mae o mukinaosu mae ni, honno kasuka na emi ga ukanda you ni mieta."
+  },
+  "s0.s4.burst": {
+    "en": "Then the door bursts open with considerably more energy than before.",
+    "ru": "А потом дверь распахивается с куда большей энергией, чем раньше.",
+    "zh": "紧接着，门被比刚才更有劲儿地猛地推开。",
+    "ko": "그러다 문이 아까보다 훨씬 더 힘차게 벌컥 열린다.",
+    "ja": "すると、さっきよりもはるかに勢いよくドアがガラッと開いた。",
+    "romaji": "Suruto, sakki yori mo haruka ni ikioiyoku doa ga garatto aita."
+  },
+  "s0.s4.choice.career": {
+    "en": "Career opportunities",
+    "ru": "Карьерные возможности",
+    "zh": "职业发展",
+    "ko": "커리어 기회",
+    "ja": "キャリアの可能性を広げるため",
+    "romaji": "Kyaria no kanousei o hirogeru tame"
+  },
+  "s0.s4.choice.media": {
+    "en": "Japanese media (anime, games, etc.)",
+    "ru": "Японские медиа (аниме, игры и т. п.)",
+    "zh": "日系内容（动漫、游戏等）",
+    "ko": "일본 콘텐츠(애니, 게임 등)",
+    "ja": "日本のサブカルチャー（アニメ、ゲームなど）",
+    "romaji": "Nihon no sabukaruchaa (anime, geemu nado)"
+  },
+  "s0.s4.choice.travel": {
+    "en": "Travel and culture",
+    "ru": "Путешествия и культура",
+    "zh": "旅行与文化",
+    "ko": "여행과 문화",
+    "ja": "旅行と文化体験",
+    "romaji": "Ryokou to bunka taiken"
+  },
+  "s0.s4.ken_nope": {
+    "en": "Haha, nope! Teacher's not here yet.",
+    "ru": "Ха-ха, нет! Учителя ещё нет.",
+    "zh": "哈哈，没有！老师还没来呢。",
+    "ko": "하하, 아니! 선생님 아직 안 오셨어.",
+    "ja": "ハハ、セーフだよ！先生はまだ来てない。",
+    "romaji": "Haha, seefu da yo! Sensei wa mada kite nai."
+  },
+  "s0.s4.ken_same": {
+    "en": "Same here! What got you interested?",
+    "ru": "Я тоже! А что тебя заинтересовало?",
+    "zh": "我也是！你是怎么开始感兴趣的？",
+    "ko": "나도! 뭐가 계기였어?",
+    "ja": "俺もだよ！何がきっかけで興味持ったの？",
+    "romaji": "Ore mo da yo! Nani ga kikkake de kyoumi motta no?"
+  },
+  "s0.s4.trickle": {
+    "en": "A few more students trickle in over the next few minutes.",
+    "ru": "В течение следующих минут в класс заходят ещё несколько учеников.",
+    "zh": "接下来的几分钟里，又有几位同学陆续走进教室。",
+    "ko": "몇 분 동안 학생들이 더 조금씩 들어온다.",
+    "ja": "その後の数分間で、さらに数名の生徒がパラパラと入ってくる。",
+    "romaji": "Sono go no suufunkan de, sarani suumei no seito ga parapara to haitte kuru."
+  },
+  "s0.s4.yuki_anime": {
+    "en": "I stayed up way too late watching anime and almost slept through my alarm...",
+    "ru": "Я засиделась допоздна за аниме и чуть не проспала будильник...",
+    "zh": "我昨晚追动漫追太晚了，差点就睡过闹钟……",
+    "ko": "어젯밤에 애니 보느라 너무 늦게 자서, 알람 거의 못 들을 뻔했어...",
+    "ja": "アニメ見すぎて夜更かししちゃって、アラーム鳴っても起きられないところだったの……",
+    "romaji": "Anime misugite yofukashi shichatte, araamu nattemo okirarenai tokoro dattan no..."
+  },
+  "s0.s4.yuki_ask": {
+    "en": "What about you?",
+    "ru": "А ты почему?",
+    "zh": "那你呢？",
+    "ko": "너는?",
+    "ja": "君はどうなの？",
+    "romaji": "Kimi wa dou na no?"
+  },
+  "s0.s4.yuki_bag": {
+    "en": "She's carrying a tote bag covered in cute character pins and keychains.",
+    "ru": "В руках у неё шоппер, весь усыпанный милыми значками и брелоками.",
+    "zh": "她背着一个托特包，上面挂满了可爱的徽章和钥匙扣。",
+    "ko": "귀여운 캐릭터 핀과 키링이 잔뜩 달린 토트백을 들고 있다.",
+    "ja": "彼女は可愛いキャラクターの缶バッジやキーホルダーがぎっしり付いたトートバッグを持っている。",
+    "romaji": "Kanojo wa kawaii kyarakutaa no kanbajji ya kiihorudaa ga gisshiri tsuita tootobaggu o motte iru."
+  },
+  "s0.s4.yuki_desc": {
+    "en": "A cheerful young woman with bright eyes rushes in, slightly out of breath.",
+    "ru": "Влетает весёлая девушка с яркими глазами, чуть запыхавшаяся.",
+    "zh": "一个眼睛亮晶晶的开朗女孩冲了进来，微微喘着气。",
+    "ko": "반짝이는 눈의 명랑한 여성이 숨을 약간 헐떡이며 뛰어 들어온다.",
+    "ja": "目を輝かせた明るい雰囲気の女の子が、少し息を切らしながら駆け込んできた。",
+    "romaji": "Me o kagayakaseta akarui fun'iki no onna no ko ga, sukoshi iki o kirashinagara kakekonde kita."
+  },
+  "s0.s4.yuki_excited": {
+    "en": "I can't believe we're finally learning Japanese! I've wanted to do this forever!",
+    "ru": "Не верится, что мы наконец-то учим японский! Я мечтала об этом всегда!",
+    "zh": "真不敢相信我们终于要学日语了！我一直都想学！",
+    "ko": "드디어 일본어를 배우다니! 나 이거 정말 오래 꿈꿨거든!",
+    "ja": "ついに日本語を勉強できるなんて信じられない！ずっとやりたかったんだ〜！",
+    "romaji": "Tsuini nihongo o benkyou dekiru nante shinjirarenai! Zutto yaritakattan da~!"
+  },
+  "s0.s4.yuki_intro": {
+    "en": "I'm Yuki, by the way! Yuki Sato. Is this seat taken?",
+    "ru": "Я Юки, кстати! Юки Сато. Это место свободно?",
+    "zh": "对了，我叫Yuki！Yuki Sato。这个位置有人吗？",
+    "ko": "난 유키야! 유키 사토. 여기 자리 비었어?",
+    "ja": "あ、私ユキって言うの！佐藤ユキ。ここ、空いてる？",
+    "romaji": "A, watashi Yuki tte iu no! Satou Yuki. Koko, aiteru?"
+  },
+  "s0.s4.yuki_late": {
+    "en": "I made it! I'm not late, right?!",
+    "ru": "Я успела! Я же не опоздала, правда?!",
+    "zh": "我到了！我没迟到吧？！",
+    "ko": "나 왔어! 나 늦은 거 아니지?!",
+    "ja": "間に合ったー！遅刻してないよね？！",
+    "romaji": "Maniatta-! Chikoku shite nai yo ne?!"
+  },
+  "s0.s4.yuki_reason": {
+    "en": "Anime, manga, games... pretty much everything!",
+    "ru": "Аниме, манга, игры... да почти всё!",
+    "zh": "动漫、漫画、游戏……几乎什么都是！",
+    "ko": "애니, 만화, 게임... 거의 다!",
+    "ja": "アニメにマンガにゲーム……まあ、ほぼ全部だね！",
+    "romaji": "Anime ni manga ni geemu... maa, hobo zenbu da ne!"
+  },
+  "s0.s4.yuki_relief": {
+    "en": "Oh thank goodness! I was so worried!",
+    "ru": "Фух, слава богу! Я так переживала!",
+    "zh": "太好了！我刚才超担心！",
+    "ko": "아 다행이다! 진짜 걱정했어!",
+    "ja": "ああ、よかった〜！めっちゃ焦ったよ〜！",
+    "romaji": "Aa, yokatta~! Meccha asetta yo~!"
+  },
+  "s0.s4.yuki_sit": {
+    "en": "She plops down in the seat on your other side without really waiting for an answer.",
+    "ru": "Она плюхается на стул с другой стороны, почти не дожидаясь ответа.",
+    "zh": "她几乎没等你回答就一屁股坐在你另一边。",
+    "ko": "그녀는 대답을 기다리기도 전에 네 반대편 자리에 털썩 앉는다.",
+    "ja": "彼女は返事を待つこともなく、あなたの反対側の席にドサッと座る。",
+    "romaji": "Kanojo wa henji o matsu koto mo naku, anata no hantaigawa no seki ni dosatto suwaru."
+  },
+  "s0.s4a.ken": {
+    "en": "Haha, I'm more into the food myself, but that's cool!",
+    "ru": "Ха-ха, я больше по еде, но это круто!",
+    "zh": "哈哈，我更喜欢日本料理，不过这也很酷！",
+    "ko": "하하, 난 음식 쪽이 더 관심 있지만, 멋지다!",
+    "ja": "ハハ、俺はどっちかっていうと食べ物目当てだけど、それもいいね！",
+    "romaji": "Haha, ore wa docchi ka tte iu to tabemono meate dakedo, sore mo ii ne!"
+  },
+  "s0.s4a.player": {
+    "en": "Same as Yuki, actually! I love Japanese games and want to understand them without translations.",
+    "ru": "Вообще-то так же, как и у Юки! Я обожаю японские игры и хочу понимать их без переводов.",
+    "zh": "其实跟Yuki一样！我很喜欢日本游戏，想不靠翻译也能看懂。",
+    "ko": "나도 유키랑 비슷해! 일본 게임을 좋아해서 번역 없이 이해하고 싶어.",
+    "ja": "実はユキと同じ！日本のゲームが大好きで、翻訳なしで理解できるようになりたいんだ。",
+    "romaji": "Jitsu wa Yuki to onaji! Nihon no geemu ga daisuki de, hon'yaku nashi de rikai dekiru you ni naritain da."
+  },
+  "s0.s4a.yuki": {
+    "en": "Yes!! A kindred spirit!",
+    "ru": "Да!! Родственная душа!",
+    "zh": "太棒了！！同道中人！",
+    "ko": "좋아!! 동지다!",
+    "ja": "やったー！！同志発見！",
+    "romaji": "Yattaa!! Doushi hakken!"
+  },
+  "s0.s4b.ken": {
+    "en": "Oh nice! I've been a couple times. It's amazing.",
+    "ru": "О, здорово! Я был там пару раз. Это потрясающе.",
+    "zh": "哦不错！我去过几次，真的很棒。",
+    "ko": "오 좋다! 나도 몇 번 가 봤는데 정말 최고야.",
+    "ja": "お、いいね！俺も何回か行ったことあるよ。最高だった。",
+    "romaji": "O, ii ne! Ore mo nankai ka itta koto aru yo. Saikou datta."
+  },
+  "s0.s4b.player": {
+    "en": "I want to travel to Japan and experience the culture firsthand.",
+    "ru": "Хочу поехать в Японию и прочувствовать культуру своими глазами.",
+    "zh": "我想去日本旅行，亲身体验那里的文化。",
+    "ko": "일본에 여행 가서 문화를 직접 느껴 보고 싶어.",
+    "ja": "日本へ旅行に行って、文化を肌で体験してみたいんだ。",
+    "romaji": "Nihon e ryokou ni itte, bunka o hada de taiken shite mitain da."
+  },
+  "s0.s4b.yuki": {
+    "en": "Lucky! I've always wanted to go to Akihabara!",
+    "ru": "Повезло! Я всегда мечтала попасть в Акихабару!",
+    "zh": "好羡慕！我一直想去秋叶原！",
+    "ko": "부럽다! 난 아키하바라 꼭 가 보고 싶었어!",
+    "ja": "いいなぁ！私、ずっと秋葉原に行ってみたいんだよね！",
+    "romaji": "Ii naa! Watashi, zutto Akihabara ni itte mitain da yo ne!"
+  },
+  "s0.s4c.ken": {
+    "en": "Smart thinking! Always good to have practical goals.",
+    "ru": "Умный подход! Всегда хорошо иметь практичные цели.",
+    "zh": "想得很实际！有务实目标总是好事。",
+    "ko": "현명한 생각이야! 실용적인 목표는 언제나 좋지.",
+    "ja": "賢いね！現実的な目標を持つのはいいことだよ。",
+    "romaji": "Kashikoi ne! Genjitsuteki na mokuhyou o motsu no wa ii koto da yo."
+  },
+  "s0.s4c.notice_mei": {
+    "en": "You notice the woman in the front row - Mei, was it? - glance back with what might be interest.",
+    "ru": "Ты замечаешь, как девушка в первом ряду — Мэй, кажется? — оглядывается с чем-то похожим на интерес.",
+    "zh": "你注意到前排那位女生——是Mei来着？——回头看了一眼，似乎有点兴趣。",
+    "ko": "앞줄에 앉은 여성—메이였나?—가 잠깐 뒤를 돌아보며 관심을 보이는 듯하다.",
+    "ja": "前列の女性――芽衣だったっけ？――が興味を惹かれたように振り返るのに気づく。",
+    "romaji": "Zenretsu no josei -- Mei datta kke? -- ga kyoumi o hikareta you ni furikaeru no ni kizuku."
+  },
+  "s0.s4c.player": {
+    "en": "I'm hoping it'll help with my career. There's a lot of opportunities with Japanese companies.",
+    "ru": "Надеюсь, это поможет в карьере. С японскими компаниями много возможностей.",
+    "zh": "希望能对我的职业有帮助。和日本公司相关的机会很多。",
+    "ko": "커리어에 도움이 되면 좋겠어. 일본 기업 관련 기회가 많잖아.",
+    "ja": "仕事に役立てばいいなと思って。日本企業とのチャンスも多いしね。",
+    "romaji": "Shigoto ni yakudateba ii na to omotte. Nihon kigyou to no chansu mo ooi shi ne."
+  },
+  "s0.s5.call_me_sensei": {
+    "en": "But please, call me Tanaka-sensei!",
+    "ru": "Но, пожалуйста, зовите меня Танака-сэнсэй!",
+    "zh": "不过，请叫我Tanaka老师（Tanaka-sensei）！",
+    "ko": "하지만, 타나카 선생님(Tanaka-sensei)이라고 불러 주세요!",
+    "ja": "でも、田中先生って呼んでくださいね！",
+    "romaji": "Demo, Tanaka-sensei tte yonde kudasai ne!"
+  },
+  "s0.s5.door_open": {
+    "en": "The classroom door slides open one more time.",
+    "ru": "Дверь класса раздвигается ещё раз.",
+    "zh": "教室的门又一次滑开。",
+    "ko": "교실 문이 한 번 더 미끄러지듯 열린다.",
+    "ja": "教室のドアがもう一度ガラッと開く。",
+    "romaji": "Kyoushitsu no doa ga mou ichido garatto hiraku."
+  },
+  "s0.s5.journey": {
+    "en": "Learning a new language is a journey - sometimes challenging, but always rewarding.",
+    "ru": "Изучение нового языка — это путь: иногда сложный, но всегда благодарный.",
+    "zh": "学习一门新语言是一段旅程——有时很有挑战，但总会带来回报。",
+    "ko": "새로운 언어를 배우는 건 여행이에요—때로는 어렵지만, 언제나 보람이 있죠.",
+    "ja": "新しい言語を学ぶことは一つの旅です。大変なこともありますが、必ず大きなやりがいがあります。",
+    "romaji": "Atarashii gengo o manabu koto wa hitotsu no tabi desu. Taihen na koto mo arimasu ga, kanarazu ookina yarigai ga arimasu."
+  },
+  "s0.s5.promise": {
+    "en": "And I promise to be with you every step of the way.",
+    "ru": "И я обещаю быть рядом с вами на каждом шагу.",
+    "zh": "我保证会一路陪着你们。",
+    "ko": "그리고 저는 매 단계마다 여러분과 함께하겠다고 약속할게요.",
+    "ja": "そして、皆さんの歩みの一歩一歩に私が寄り添うことをお約束します。",
+    "romaji": "Soshite, mina-san no ayumi no ippo-ippo ni watashi ga yorisou koto o oyakusoku shimasu."
+  },
+  "s0.s5.quiet": {
+    "en": "The room falls quiet as everyone's attention turns to her.",
+    "ru": "В классе становится тихо — все взгляды обращаются к ней.",
+    "zh": "教室安静下来，大家的注意力都集中在她身上。",
+    "ko": "모두의 시선이 그녀에게 쏠리며 교실이 조용해진다.",
+    "ja": "全員の視線が彼女に向き、教室が静まり返る。",
+    "romaji": "Zen'in no shisen ga kanojo ni muki, kyoushitsu ga shizumarikaeru."
+  },
+  "s0.s5.tanaka_desc": {
+    "en": "She wears a cozy cardigan and carries a stack of papers and a worn notebook.",
+    "ru": "На ней уютный кардиган; в руках — стопка листов и потёртый блокнот.",
+    "zh": "她穿着舒适的开衫，手里抱着一摞纸和一本旧笔记本。",
+    "ko": "포근한 카디건을 입고, 종이 더미와 낡은 노트를 들고 있다.",
+    "ja": "温かそうなカーディガンを羽織り、書類の束と使い込まれたノートを抱えている。",
+    "romaji": "Atatakasou na kaadigan o haori, shorui no taba to tsukaikomareta nooto o kakaete iru."
+  },
+  "s0.s5.tanaka_enter": {
+    "en": "A woman with kind eyes and hair pulled back in a neat bun enters the room.",
+    "ru": "В комнату входит женщина с добрыми глазами и волосами, собранными в аккуратный пучок.",
+    "zh": "一位眼神温柔、头发整齐盘起的女性走了进来。",
+    "ko": "친절한 눈빛에 단정한 번 머리를 한 여성이 교실로 들어온다.",
+    "ja": "優しい目元と、すっきりとシニヨンにまとめた髪が印象的な女性が教室に入ってくる。",
+    "romaji": "Yasashii memoto to, sukkiri to shiniyon ni matometa kami ga inshouteki na josei ga kyoushitsu ni haitte kuru."
+  },
+  "s0.s5.tanaka_greeting_jp": {
+    "en": "おはようございます、皆さん！(Ohayou gozaimasu, mina-san!)",
+    "ru": "おはようございます、皆さん！(Ohayou gozaimasu, mina-san!)",
+    "zh": "おはようございます、皆さん！(Ohayou gozaimasu, mina-san!)",
+    "ko": "おはようございます、皆さん！(Ohayou gozaimasu, mina-san!)",
+    "ja": "おはようございます、皆さん！(Ohayou gozaimasu, mina-san!)",
+    "romaji": "Ohayou gozaimasu, mina-san!"
+  },
+  "s0.s5.tanaka_intro": {
+    "en": "Good morning, everyone. I'm Tanaka. Tanaka Yui.",
+    "ru": "Доброе утро, все. Я Танака. Танака Юи.",
+    "zh": "大家早上好。我叫Tanaka。Tanaka Yui。",
+    "ko": "좋은 아침이에요, 여러분. 저는 타나카예요. 타나카 유이.",
+    "ja": "おはようございます、皆さん。田中の由衣です。",
+    "romaji": "Ohayou gozaimasu, mina-san. Tanaka no Yui desu."
+  },
+  "s0.s5.tanaka_understand": {
+    "en": "Oh, don't worry - you'll understand everything soon enough!",
+    "ru": "О, не переживайте — совсем скоро вы всё начнёте понимать!",
+    "zh": "别担心——你们很快就都能听懂的！",
+    "ko": "걱정하지 마세요—곧 전부 이해하게 될 거예요!",
+    "ja": "あ、心配しないでくださいね。すぐに全部わかるようになりますから！",
+    "romaji": "A, shinpai shinaide kudasai ne. Sugu ni zenbu wakaru you ni narimasu kara!"
+  },
+  "s0.s5.tanaka_vibe": {
+    "en": "There's something immediately warm and welcoming about her presence.",
+    "ru": "В её присутствии сразу чувствуется тепло и гостеприимство.",
+    "zh": "她的出现让人立刻感到温暖、安心。",
+    "ko": "그녀의 존재는 즉시 따뜻하고 환영하는 분위기를 만든다.",
+    "ja": "彼女の佇まいには、人を自然とほっとさせる温かさがある。",
+    "romaji": "Kanojo no tatazumai ni wa, hito o shizen to hotto saseru atatakasa ga aru."
+  },
+  "s0.s5.welcome": {
+    "en": "Welcome to Tsuzuki Language School. I'm so happy to see all of you here.",
+    "ru": "Добро пожаловать в языковую школу Цудзуки. Я так рада видеть вас всех здесь.",
+    "zh": "欢迎来到都筑语言学校。看到大家我非常高兴。",
+    "ko": "츠즈키 어학원에 오신 걸 환영합니다. 여러분을 만나 정말 기뻐요.",
+    "ja": "都筑日本語学校へようこそ。皆さんにお会いできてとても嬉しいです。",
+    "romaji": "Tsuzuki Nihongo Gakkou e youkoso. Mina-san ni oaidekite totemo ureshii desu."
+  },
+  "s0.s6.beautiful": {
+    "en": "Beautiful pronunciation, Mei-san! Have you studied before?",
+    "ru": "Прекрасное произношение, Мэй-сан! Ты уже училась раньше?",
+    "zh": "发音很漂亮，Mei同学！你以前学过吗？",
+    "ko": "발음이 정말 좋네요, 메이 씨! 예전에 공부해 본 적 있나요?",
+    "ja": "素晴らしい発音ですね、芽衣さん！前に勉強したことがあるんですか？",
+    "romaji": "Subarashii hatsuon desu ne, Mei-san! Mae ni benkyou shita koto ga arun desu ka?"
+  },
+  "s0.s6.bow": {
+    "en": "She bows politely as she finishes.",
+    "ru": "Она вежливо кланяется, заканчивая.",
+    "zh": "说完，她礼貌地鞠了一躬。",
+    "ko": "말을 마치고 그녀는 공손하게 인사한다.",
+    "ja": "言い終えると、彼女は丁寧にお辞儀をした。",
+    "romaji": "Iioeru to, kanojo wa teinei ni ojigi o shita."
+  },
+  "s0.s6.choice.confident": {
+    "en": "Try confidently",
+    "ru": "Попробовать уверенно",
+    "zh": "自信地尝试",
+    "ko": "자신 있게 해 보기",
+    "ja": "自信を持って挑戦する",
+    "romaji": "Jishin o motte chousen suru"
+  },
+  "s0.s6.choice.nervous": {
+    "en": "Try nervously",
+    "ru": "Попробовать нервно",
+    "zh": "紧张地尝试",
+    "ko": "긴장한 채로 해 보기",
+    "ja": "緊張しながら挑戦する",
+    "romaji": "Kinchou shinagara chousen suru"
+  },
+  "s0.s6.culture": {
+    "en": "This phrase is very important in Japanese culture. It shows respect and humility.",
+    "ru": "Эта фраза очень важна в японской культуре. Она выражает уважение и скромность.",
+    "zh": "这句话在日本文化里很重要，表达尊重与谦逊。",
+    "ko": "이 표현은 일본 문화에서 아주 중요해요. 존중과 겸손을 담고 있죠.",
+    "ja": "この言葉は日本の文化においてとても大切です。敬意と謙虚さを表すんですよ。",
+    "romaji": "Kono kotoba wa Nihon no bunka ni oite totemo taisetsu desu. Keii to kenkyosa o arawasun desu yo."
+  },
+  "s0.s6.demo": {
+    "en": "Let me demonstrate first.",
+    "ru": "Сначала я покажу пример.",
+    "zh": "我先示范一下。",
+    "ko": "제가 먼저 시범을 보여 드릴게요.",
+    "ja": "まずは私がお手本を見せますね。",
+    "romaji": "Mazu wa watashi ga otehon o misemasu ne."
+  },
+  "s0.s6.dont_worry": {
+    "en": "Don't worry, don't worry! I'll teach you exactly what to say.",
+    "ru": "Не волнуйтесь, не волнуйтесь! Я научу вас, что именно говорить.",
+    "zh": "别紧张别紧张！我会教你们该怎么说。",
+    "ko": "괜찮아요, 괜찮아요! 제가 뭐라고 말하면 되는지 정확히 알려 드릴게요.",
+    "ja": "心配いりませんよ、大丈夫！なんて言えばいいかちゃんとお教えしますからね。",
+    "romaji": "Shinpai irimasen yo, daijoubu! Nante ieba ii ka chanto ooshie shimasu kara ne."
+  },
+  "s0.s6.excellent": {
+    "en": "Excellent energy, Yuki-san!",
+    "ru": "Отличная энергия, Юки-сан!",
+    "zh": "活力十足，Yuki同学！",
+    "ko": "에너지 최고예요, 유키 씨!",
+    "ja": "元気いっぱいで素晴らしいですね、ユキさん！",
+    "romaji": "Genki ippai de subarashii desu ne, Yuki-san!"
+  },
+  "s0.s6.finish": {
+    "en": "And we finish with:",
+    "ru": "И заканчиваем так:",
+    "zh": "最后用：",
+    "ko": "마지막으로:",
+    "ja": "そして最後はこう締めくくります：",
+    "romaji": "Soshite saigo wa kou shimekukuri masu:"
+  },
+  "s0.s6.hajimemashite": {
+    "en": "「初めまして」(Hajimemashite) - Nice to meet you",
+    "ru": "「初めまして」(Hajimemashite) — «приятно познакомиться»",
+    "zh": "「初めまして」(Hajimemashite) —— 很高兴认识你",
+    "ko": "「初めまして」(Hajimemashite) — 처음 뵙겠습니다 / 만나서 반가워요",
+    "ja": "「初めまして」(Hajimemashite) — 初めてお会いしたときの挨拶",
+    "romaji": "「Hajimemashite」 (Hajimemashite) - Hajimete oai shita toki no aisatsu"
+  },
+  "s0.s6.how_about_you": {
+    "en": "And how about you?",
+    "ru": "А теперь ты?",
+    "zh": "那你呢？",
+    "ko": "그럼, 당신은요?",
+    "ja": "そちらの方はどうですか？",
+    "romaji": "Sochira no kata wa dou desu ka?"
+  },
+  "s0.s6.ken_intro": {
+    "en": "Ha-ji-me-ma-shi-te... Watashi wa Ken desu. Yoroshiku onegaishimasu!",
+    "ru": "Ха-джи-ме-ма-ши-тэ... Watashi wa Ken desu. Yoroshiku onegaishimasu!",
+    "zh": "Ha-ji-me-ma-shi-te... Watashi wa Ken desu. Yoroshiku onegaishimasu!",
+    "ko": "Ha-ji-me-ma-shi-te... Watashi wa Ken desu. Yoroshiku onegaishimasu!",
+    "ja": "は・じ・め・ま・し・て……私はケンです。よろしくお願いします！",
+    "romaji": "Ha-ji-me-ma-shi-te... Watashi wa Ken desu. Yoroshiku onegaishimasu!"
+  },
+  "s0.s6.ken_vol": {
+    "en": "...I'll give it a shot!",
+    "ru": "...Я попробую!",
+    "zh": "……我来试试！",
+    "ko": "...제가 해 볼게요!",
+    "ja": "……よし、俺がやってみます！",
+    "romaji": "...Yoshi, ore ga yatte mimasu!"
+  },
+  "s0.s6.mei_intro": {
+    "en": "...初めまして。私は芽衣です。よろしくお願いします。",
+    "ru": "...初めまして。私は芽衣です。よろしくお願いします。",
+    "zh": "……初めまして。私は芽衣です。よろしくお願いします。",
+    "ko": "...初めまして。私は芽衣です。よろしくお願いします。",
+    "ja": "……初めまして。私は芽衣です。よろしくお願いします。",
+    "romaji": "...Hajimemashite. Watashi wa Mei desu. Yoroshiku onegaishimasu."
+  },
+  "s0.s6.mei_reply": {
+    "en": "...A little. Self-study.",
+    "ru": "...Немного. Самоучка.",
+    "zh": "……一点点。自学。",
+    "ko": "...조금. 독학.",
+    "ja": "……少しだけ。独学です。",
+    "romaji": "...Sukoshi dake. Dokugaku desu."
+  },
+  "s0.s6.murmur": {
+    "en": "A nervous murmur ripples through the class.",
+    "ru": "По классу прокатывается тревожный шёпот.",
+    "zh": "教室里响起一阵紧张的窃窃私语。",
+    "ko": "교실에 긴장된 웅성거림이 퍼진다.",
+    "ja": "緊張したざわめきが教室中に広がる。",
+    "romaji": "Kinchou shita zawameki ga kyoushitsujuu ni hirogaru."
+  },
+  "s0.s6.no_pressure": {
+    "en": "Take your time. There's no pressure here.",
+    "ru": "Не торопись. Здесь нет никакого давления.",
+    "zh": "慢慢来。这里没有压力。",
+    "ko": "천천히 해도 돼요. 여기선 부담 갖지 마세요.",
+    "ja": "焦らなくて大丈夫ですよ。プレッシャーを感じる必要はありません。",
+    "romaji": "Aseranakute daijoubu desu yo. Puresshaa o kanjiru hitsuyou wa arimasen."
+  },
+  "s0.s6.silence": {
+    "en": "The room is silent. Everyone avoids eye contact.",
+    "ru": "В классе тишина. Все избегают встречаться взглядом.",
+    "zh": "教室里一片安静，大家都避开视线。",
+    "ko": "교실이 조용해진다. 모두 눈을 피한다.",
+    "ja": "教室は静まり返り、誰もが目を合わせようとしない。",
+    "romaji": "Kyoushitsu wa shizumarikaeri, daremo ga me o awaseyou to shinai."
+  },
+  "s0.s6.start_intro": {
+    "en": "Now then, let's start with introductions! In Japanese, of course.",
+    "ru": "Ну что ж, начнём с представлений! В японском, конечно.",
+    "zh": "那么，我们先从自我介绍开始吧！当然，要用日语。",
+    "ko": "그럼, 이제 자기소개부터 시작해 볼까요! 물론 일본어로요.",
+    "ja": "それでは、自己紹介から始めましょう！もちろん日本語でね。",
+    "romaji": "Soredewa, jikoshoukai kara hajimemashou! Mochiron nihongo de ne."
+  },
+  "s0.s6.subarashii": {
+    "en": "すばらしい！(Subarashii!) Wonderful! Very good, Ken-san!",
+    "ru": "すばらしい！(Subarashii!) Великолепно! Очень хорошо, Кен-сан!",
+    "zh": "すばらしい！(Subarashii!) 太棒了！非常好，Ken同学！",
+    "ko": "すばらしい！(Subarashii!) 훌륭해요! 아주 잘했어요, 켄 씨!",
+    "ja": "すばらしい！(Subarashii!) お見事です！とても上手ですよ、ケンさん！",
+    "romaji": "Subarashii! (Subarashii!) Omigoto desu! Totemo jouzu desu yo, Ken-san!"
+  },
+  "s0.s6.tanaka_demo": {
+    "en": "初めまして。私は田中です。よろしくお願いします。",
+    "ru": "初めまして。私は田中です。よろしくお願いします。",
+    "zh": "初めまして。私は田中です。よろしくお願いします。",
+    "ko": "初めまして。私は田中です。よろしくお願いします。",
+    "ja": "初めまして。私は田中です。よろしくお願いします。",
+    "romaji": "Hajimemashite. Watashi wa Tanaka desu. Yoroshiku onegaishimasu."
+  },
+  "s0.s6.tanaka_encouraging": {
+    "en": "Tanaka-sensei turns to you with an encouraging smile.",
+    "ru": "Танака-сэнсэй поворачивается к тебе с ободряющей улыбкой.",
+    "zh": "Tanaka老师带着鼓励的微笑看向你。",
+    "ko": "타나카 선생님이 격려하는 미소로 너를 바라본다.",
+    "ja": "田中先生が励ますような笑みを浮かべてあなたの方を向く。",
+    "romaji": "Tanaka-sensei ga hagemasu you na emi o ukabete anata no hou o muku."
+  },
+  "s0.s6.teach_intro": {
+    "en": "When we introduce ourselves in Japanese, we start with:",
+    "ru": "Когда мы представляемся по-японски, мы начинаем с:",
+    "zh": "日语自我介绍一般从这句开始：",
+    "ko": "일본어로 자기소개할 때는 이렇게 시작해요:",
+    "ja": "日本語で自己紹介するときは、まずこう始めます：",
+    "romaji": "Nihongo de jikoshoukai suru toki wa, mazu kou hajimemasu:"
+  },
+  "s0.s6.watashi": {
+    "en": "Then, 「私は〇〇です」(Watashi wa [name] desu) - I am [name]",
+    "ru": "Затем: 「私は〇〇です」(Watashi wa [name] desu) — «Я [имя]»",
+    "zh": "然后是「私は〇〇です」(Watashi wa [name] desu) —— 我叫[name]",
+    "ko": "그리고 「私は〇〇です」(Watashi wa [name] desu) — 저는 [이름]입니다",
+    "ja": "次に、「私は〇〇です」(Watashi wa [name] desu) — 「私は［名前］です」",
+    "romaji": "Tsugi ni, 「Watashi wa [name] desu」 (Watashi wa [name] desu) - 「Watashi wa [namae] desu」"
+  },
+  "s0.s6.who_next": {
+    "en": "Now, who would like to try?",
+    "ru": "Ну что, кто хотел бы попробовать?",
+    "zh": "那么，谁想试试？",
+    "ko": "자, 누가 해 볼까요?",
+    "ja": "さあ、やってみたい人は誰かいませんか？",
+    "romaji": "Saa, yatte mitai hito wa dareka imasen ka?"
+  },
+  "s0.s6.yoroshiku_phrase": {
+    "en": "「よろしくお願いします」(Yoroshiku onegaishimasu)",
+    "ru": "「よろしくお願いします」(Yoroshiku onegaishimasu)",
+    "zh": "「よろしくお願いします」(Yoroshiku onegaishimasu)",
+    "ko": "「よろしくお願いします」(Yoroshiku onegaishimasu)",
+    "ja": "「よろしくお願いします」(Yoroshiku onegaishimasu)",
+    "romaji": "「Yoroshiku onegaishimasu」 (Yoroshiku onegaishimasu)"
+  },
+  "s0.s6.yuki_intro": {
+    "en": "Hajimemashite! Watashi wa Yuki desu! Yoroshiku onegaishimasu~!",
+    "ru": "Hajimemashite! Watashi wa Yuki desu! Yoroshiku onegaishimasu~!",
+    "zh": "Hajimemashite! Watashi wa Yuki desu! Yoroshiku onegaishimasu~!",
+    "ko": "Hajimemashite! Watashi wa Yuki desu! Yoroshiku onegaishimasu~!",
+    "ja": "初めまして！私はユキです！よろしくお願いします〜！",
+    "romaji": "Hajimemashite! Watashi wa Yuki desu! Yoroshiku onegaishimasu~!"
+  },
+  "s0.s6.yuki_vol": {
+    "en": "Ooh, me next!",
+    "ru": "О, я следующая!",
+    "zh": "哦哦，我下一個！",
+    "ko": "오오, 다음은 나!",
+    "ja": "わ、次私やります！",
+    "romaji": "Wa, tsugi watashi yarimasu!"
+  },
+  "s0.s6a.player": {
+    "en": "Hajimemashite! Watashi wa... [player] desu. Yoroshiku onegaishimasu!",
+    "ru": "Hajimemashite! Watashi wa... [player] desu. Yoroshiku onegaishimasu!",
+    "zh": "Hajimemashite! Watashi wa... [player] desu. Yoroshiku onegaishimasu!",
+    "ko": "Hajimemashite! Watashi wa... [player] desu. Yoroshiku onegaishimasu!",
+    "ja": "初めまして！私は……[player]です。よろしくお願いします！",
+    "romaji": "Hajimemashite! Watashi wa... [player] desu. Yoroshiku onegaishimasu!"
+  },
+  "s0.s6a.tanaka": {
+    "en": "Wonderful! You have a natural feel for the rhythm!",
+    "ru": "Чудесно! У тебя естественное чувство ритма!",
+    "zh": "太棒了！你的节奏感很自然！",
+    "ko": "훌륭해요! 리듬 감각이 자연스러워요!",
+    "ja": "素晴らしい！自然なリズム感が身についていますね！",
+    "romaji": "Subarashii! Shizen na rizumukan ga mi ni tsuite imasu ne!"
+  },
+  "s0.s6b.player1": {
+    "en": "Um... Ha-ji-me... mashite? Watashi wa... [player]... desu?",
+    "ru": "Эм... Ха-джи-ме... ма-сите? Watashi wa... [player]... desu?",
+    "zh": "呃……Ha-ji-me… mashite？Watashi wa… [player]… desu？",
+    "ko": "음... Ha-ji-me... mashite? Watashi wa... [player]... desu?",
+    "ja": "あの……は・じ・め……まして？私は……[player]……です？",
+    "romaji": "Ano... Ha-ji-me... mashite? Watashi wa... [player]... desu?"
+  },
+  "s0.s6b.player2": {
+    "en": "...Yoroshiku onegaishimasu.",
+    "ru": "...Yoroshiku onegaishimasu.",
+    "zh": "……Yoroshiku onegaishimasu。",
+    "ko": "...Yoroshiku onegaishimasu.",
+    "ja": "……よろしくお願いします。",
+    "romaji": "...Yoroshiku onegaishimasu."
+  },
+  "s0.s6b.tanaka1": {
+    "en": "Perfect! Don't be shy about speaking - that's exactly how you learn!",
+    "ru": "Идеально! Не стесняйся говорить — именно так ты и учишься!",
+    "zh": "完美！别害羞，开口说就是这样学会的！",
+    "ko": "완벽해요! 말하는 걸 부끄러워하지 마세요—바로 그렇게 배우는 거예요!",
+    "ja": "バッチリです！恥ずかしがらずに声に出すこと、まさにそれが上達への近道ですよ！",
+    "romaji": "Bacchiri desu! Hazukashigarazu ni koe ni dasu koto, masa ni sore ga joutatsu e no chikamichi desu yo!"
+  },
+  "s0.s6b.tanaka2": {
+    "en": "Making mistakes is part of the journey. Every expert was once a beginner.",
+    "ru": "Ошибки — часть пути. Каждый эксперт когда-то был новичком.",
+    "zh": "犯错也是旅程的一部分。每个专家都曾经是新手。",
+    "ko": "실수는 여정의 일부예요. 모든 전문가도 한때는 초보자였답니다.",
+    "ja": "間違えることも学びの旅の一部です。どんな達人も最初はみんな初心者だったんですよ。",
+    "romaji": "Machigaeru koto mo manabi no tabi no ichibu desu. Donna tatsujin mo saisho wa minna shoshinsha dattan desu yo."
+  },
+  "s0.s7.arigatou": {
+    "en": "First: 「ありがとうございます」(Arigatou gozaimasu) - Thank you (polite)",
+    "ru": "Сначала: 「ありがとうございます」(Arigatou gozaimasu) — «спасибо» (вежливо)",
+    "zh": "首先：「ありがとうございます」(Arigatou gozaimasu) —— 谢谢（礼貌）",
+    "ko": "첫 번째: 「ありがとうございます」(Arigatou gozaimasu) — 감사합니다(정중)",
+    "ja": "まずは：「ありがとうございます」(Arigatou gozaimasu) — 「ありがとう」（丁寧）",
+    "romaji": "Mazu wa: 「Arigatou gozaimasu」 (Arigatou gozaimasu) - 「Arigatou」 (teinei)"
+  },
+  "s0.s7.chalkboard": {
+    "en": "With introductions complete, Tanaka-sensei moves to the chalkboard.",
+    "ru": "Когда с представлениями покончено, Танака-сэнсэй подходит к доске.",
+    "zh": "自我介绍结束后，Tanaka老师走到黑板前。",
+    "ko": "자기소개가 끝나자 타나카 선생님은 칠판 앞으로 이동한다.",
+    "ja": "自己紹介が終わると、田中先生は黒板の前へ移動する。",
+    "romaji": "Jikoshoukai ga owaru to, Tanaka-sensei wa kokuban no mae e idou suru."
+  },
+  "s0.s7.correction": {
+    "en": "Close! The 'u' at the end is very soft - almost silent.",
+    "ru": "Почти! Звук «u» в конце очень мягкий — почти не слышен.",
+    "zh": "差一点！最后的“u”很轻，几乎不发出来。",
+    "ko": "거의 다 됐어요! 끝의 ‘u’는 아주 약하게—거의 안 들리게 발음해요.",
+    "ja": "惜しい！最後の「す(u)」の音はとても柔らかく、ほとんど息だけの音になります。",
+    "romaji": "Oshii! Saigo no 「su (u)」 no oto wa totemo yawarakaku, hotondo iki dake no oto ni narimasu."
+  },
+  "s0.s7.example": {
+    "en": "Arigatou gozaimas(u). Like that!",
+    "ru": "Arigatou gozaimas(u). Вот так!",
+    "zh": "Arigatou gozaimas(u)。像这样！",
+    "ko": "Arigatou gozaimas(u). 이렇게요!",
+    "ja": "ありがとうございます(u)。こんな感じです！",
+    "romaji": "Arigatou gozaimas(u). Konna kanji desu!"
+  },
+  "s0.s7.explanation": {
+    "en": "In a way! When someone does something for you, saying 'sumimasen' acknowledges the trouble they went through.",
+    "ru": "В некотором смысле! Когда кто-то делает для тебя что-то, «sumimasen» признаёт, что человек доставил себе хлопоты.",
+    "zh": "某种程度上是的！当别人为你费心做了什么时，说“sumimasen”是在承认对方的麻烦。",
+    "ko": "어느 정도는요! 누군가가 너를 위해 수고해 줬을 때 ‘sumimasen’은 그 수고를 인정하는 말이거든요.",
+    "ja": "ある意味ではね！誰かが自分のために何かしてくれたとき、「すみません」と言うのは相手の手間や気遣いへの感謝を表しているんです。",
+    "romaji": "Aru imi de wa ne! Dareka ga jibun no tame ni nanika shite kureta toki, 「sumimasen」 to iu no wa aite no tema ya kidzukai e no kansha o arawashite irun desu."
+  },
+  "s0.s7.ken_ask": {
+    "en": "Wait, it means thank you too?",
+    "ru": "Подожди, она тоже значит «спасибо»?",
+    "zh": "等等，它也能表示谢谢？",
+    "ko": "잠깐, 이것도 ‘고마워요’가 돼요?",
+    "ja": "えっ、「ありがとう」の意味にもなるんですか？",
+    "romaji": "E', 「arigatou」 no imi ni mo narun desu ka?"
+  },
+  "s0.s7.mei_comment": {
+    "en": "...Interesting. The cultural nuance.",
+    "ru": "...Интересно. Культурный нюанс.",
+    "zh": "……有意思。文化语感。",
+    "ko": "...흥미롭네. 문화적 뉘앙스.",
+    "ja": "……興味深い。文化的なニュアンスね。",
+    "romaji": "...Kyoumibukai. Bunkateki na nyuansu ne."
+  },
+  "s0.s7.phrases": {
+    "en": "Now, let's learn a few essential phrases for our time together.",
+    "ru": "А теперь давайте выучим несколько важных фраз на наше время вместе.",
+    "zh": "现在，我们来学几句在接下来相处中必不可少的短语。",
+    "ko": "이제 함께 지내는 동안 꼭 필요한 표현 몇 가지를 배워 봅시다.",
+    "ja": "では、私たちが一緒に過ごす時間の中で欠かせない基本フレーズをいくつか学びましょう。",
+    "romaji": "Dewa, watashitachi ga issho ni sugosu jikan no naka de kakasenai kihon fureezu o ikutsu ka manabimashou."
+  },
+  "s0.s7.sumimasen": {
+    "en": "Next: 「すみません」(Sumimasen) - Excuse me / I'm sorry",
+    "ru": "Дальше: 「すみません」(Sumimasen) — «извините / простите»",
+    "zh": "接着：「すみません」(Sumimasen) —— 不好意思 / 对不起",
+    "ko": "다음: 「すみません」(Sumimasen) — 실례합니다 / 죄송합니다",
+    "ja": "次は：「すみません」(Sumimasen) — すみません / ごめんなさい",
+    "romaji": "Tsugi wa: 「Sumimasen」 (Sumimasen) - Sumimasen / Gomennasai"
+  },
+  "s0.s7.usage": {
+    "en": "You'll use this one a LOT in Japan. It shows gratitude and respect.",
+    "ru": "Ты будешь пользоваться этой фразой ОЧЕНЬ часто в Японии. Она выражает благодарность и уважение.",
+    "zh": "你在日本会经常用到它，表达感谢与尊重。",
+    "ko": "일본에서 정말 자주 쓰게 될 거예요. 감사와 존중을 담고 있죠.",
+    "ja": "日本にいると本当に頻繁に使う言葉ですよ。感謝と敬意を表します。",
+    "romaji": "Nihon ni iru to hontou ni hinpan ni tsukau kotoba desu yo. Kansha to keii o arawashimasu."
+  },
+  "s0.s7.versatile": {
+    "en": "This one is very versatile. Use it to get attention, apologize, or express gratitude!",
+    "ru": "Эта фраза очень универсальна. Её используют, чтобы привлечь внимание, извиниться или выразить благодарность!",
+    "zh": "这句话非常万能：可以用来引起注意、道歉，甚至表达感谢！",
+    "ko": "이 표현은 정말 만능이에요. 주의를 끌 때, 사과할 때, 또는 감사의 뜻을 전할 때도 쓸 수 있어요!",
+    "ja": "この言葉はとても万能です。呼びかけ、謝罪、そして感謝を伝えるときにも使えます！",
+    "romaji": "Kono kotoba wa totemo bannou desu. Yobikake, shazai, soshite kansha o tsutaeru toki ni mo tsukaemasu!"
+  },
+  "s0.s7.yuki_try": {
+    "en": "Ah-ri-ga-tou go-zai-mas!",
+    "ru": "А-ри-га-то го-дзай-мас!",
+    "zh": "A-ri-ga-tou go-zai-mas！",
+    "ko": "아-리-가-토 고-자-이-마스!",
+    "ja": "あ・り・が・と・う・ご・ざ・い・ま・す！",
+    "romaji": "A-ri-ga-to-u go-za-i-ma-su!"
+  },
+  "s0.s8.ken_try": {
+    "en": "Um... Hajimemashite! Watashi wa Ken desu. Yoroshiku onegaishimasu!",
+    "ru": "Um... Hajimemashite! Watashi wa Ken desu. Yoroshiku onegaishimasu!",
+    "zh": "Um... Hajimemashite! Watashi wa Ken desu. Yoroshiku onegaishimasu!",
+    "ko": "Um... Hajimemashite! Watashi wa Ken desu. Yoroshiku onegaishimasu!",
+    "ja": "ええと……初めまして！私はケンです。よろしくお願いします！",
+    "romaji": "Eeto... Hajimemashite! Watashi wa Ken desu. Yoroshiku onegaishimasu!"
+  },
+  "s0.s8.ken_yuki_awkward": {
+    "en": "Ken and Yuki stand up, looking at each other somewhat awkwardly.",
+    "ru": "Кен и Юки встают и неловко смотрят друг на друга.",
+    "zh": "Ken和Yuki站起来，彼此有点尴尬地看着对方。",
+    "ko": "켄과 유키가 일어서서 서로를 조금 어색하게 바라본다.",
+    "ja": "ケンとユキが立ち上がり、少し気まずそうにお互いを見つめ合う。",
+    "romaji": "Ken to Yuki ga tachiagari, sukoshi kimazusou ni otagai o mitsumeau."
+  },
+  "s0.s8.mei_relax": {
+    "en": "Even Mei seems to relax slightly, though she mostly practices quietly to herself.",
+    "ru": "Даже Мэй, кажется, слегка расслабляется, хотя в основном практикуется тихо про себя.",
+    "zh": "连Mei似乎也稍微放松了一点，只是她大多还是安静地练习。",
+    "ko": "메이도 약간은 풀린 듯 보이지만, 대부분은 조용히 혼자 연습한다.",
+    "ja": "芽衣でさえ少し表情を和らげたように見えるが、基本的には静かに一人で練習している。",
+    "romaji": "Mei de sae sukoshi hyoujou o yawarageta you ni mieru ga, kihonteki ni wa shizuka ni hitori de renshuu shite iru."
+  },
+  "s0.s8.practice_fade": {
+    "en": "The class continues practicing, and gradually the nervousness in the room fades.",
+    "ru": "Класс продолжает тренироваться, и постепенно нервозность в комнате спадает.",
+    "zh": "大家继续练习，教室里的紧张感也渐渐消散。",
+    "ko": "연습이 계속되며 교실의 긴장감은 점차 사라진다.",
+    "ja": "クラス全体で練習が続き、教室の緊張感は次第に薄れていった。",
+    "romaji": "Kurasu zentai de renshuu ga tsuzuki, kyoushitsu no kinchoukan wa shidai ni usurete itta."
+  },
+  "s0.s8.tanaka_douzo": {
+    "en": "Excellent! Now try adding どうぞよろしく (Douzo yoroshiku) for a friendly touch!",
+    "ru": "Отлично! А теперь попробуйте добавить どうぞよろしく (Douzo yoroshiku), чтобы звучать дружелюбнее!",
+    "zh": "很好！再加一句 どうぞよろしく (Douzo yoroshiku)，听起来更亲切！",
+    "ko": "아주 좋아요! 이제 どうぞよろしく (Douzo yoroshiku)을 더해 친근한 느낌을 내 보세요!",
+    "ja": "素晴らしい！親しみを込めて「どうぞよろしく」(Douzo yoroshiku)を付け加えてみましょう！",
+    "romaji": "Subarashii! Shitashimi o komete 「Douzo yoroshiku」 (Douzo yoroshiku) o tsukekuwaete mimashou!"
+  },
+  "s0.s8.tanaka_instruct": {
+    "en": "Ken-san, greet Yuki-san. And Yuki-san, respond!",
+    "ru": "Кен-сан, поздоровайся с Юки-сан. А Юки-сан, ответь!",
+    "zh": "Ken同学，向Yuki同学问好。Yuki同学，再回应！",
+    "ko": "켄 씨는 유키 씨에게 인사하세요. 유키 씨는 대답하고요!",
+    "ja": "ケンさん、ユキさんに挨拶してください。そしてユキさん、返事をお願いします！",
+    "romaji": "Ken-san, Yuki-san ni aisatsu shite kudasai. Soshite Yuki-san, henji o onegai shimasu!"
+  },
+  "s0.s8.tanaka_pair": {
+    "en": "Ken-san, Yuki-san - please stand.",
+    "ru": "Кен-сан, Юки-сан — пожалуйста, встаньте.",
+    "zh": "Ken同学、Yuki同学——请起立。",
+    "ko": "켄 씨, 유키 씨 — 일어서 주세요.",
+    "ja": "ケンさん、ユキさん、立ってください。",
+    "romaji": "Ken-san, Yuki-san, tatte kudasai."
+  },
+  "s0.s8.tanaka_start": {
+    "en": "Let's practice a simple conversation!",
+    "ru": "Давайте потренируем простой разговор!",
+    "zh": "我们来练一个简单的对话！",
+    "ko": "간단한 대화를 연습해 봅시다!",
+    "ja": "簡単な会話を練習してみましょう！",
+    "romaji": "Kantan na kaiwa o renshuu shite mimashou!"
+  },
+  "s0.s8.yuki_reply": {
+    "en": "Hajimemashite! Watashi wa Yuki desu! Yoroshiku onegaishimasu~!",
+    "ru": "Hajimemashite! Watashi wa Yuki desu! Yoroshiku onegaishimasu~!",
+    "zh": "Hajimemashite! Watashi wa Yuki desu! Yoroshiku onegaishimasu~!",
+    "ko": "Hajimemashite! Watashi wa Yuki desu! Yoroshiku onegaishimasu~!",
+    "ja": "初めまして！私はユキです！よろしくお願いします〜！",
+    "romaji": "Hajimemashite! Watashi wa Yuki desu! Yoroshiku onegaishimasu~!"
+  },
+  "s0.s9.believe": {
+    "en": "I believe in all of you. See you next class!",
+    "ru": "Я верю в вас всех. До встречи на следующем занятии!",
+    "zh": "我相信你们。下次课见！",
+    "ko": "여러분을 믿어요. 다음 수업에 또 봐요!",
+    "ja": "皆さんならきっとできます。それでは、また次の授業でお会いしましょう！",
+    "romaji": "Mina-san nara kitto dekimasu. Soredewa, mata tsugi no jugyou de oai shimashou!"
+  },
+  "s0.s9.bow": {
+    "en": "Tanaka-sensei bows and begins gathering her materials.",
+    "ru": "Танака-сэнсэй кланяется и начинает собирать материалы.",
+    "zh": "Tanaka老师鞠了一躬，开始收拾她的材料。",
+    "ko": "타나카 선생님은 인사하고 자료를 챙기기 시작한다.",
+    "ja": "田中先生はお辞儀をし、教材をまとめ始める。",
+    "romaji": "Tanaka-sensei wa ojigi o shi, kyouzai o matomehajimeru."
+  },
+  "s0.s9.context": {
+    "en": "It's a great way to learn language in context!",
+    "ru": "Это отличный способ учить язык в контексте!",
+    "zh": "这是在语境中学习语言的好方法！",
+    "ko": "맥락 속에서 언어를 배우는 정말 좋은 방법이에요!",
+    "ja": "文脈の中で言葉を学ぶのにうってつけの方法ですよ！",
+    "romaji": "Bunmyaku no naka de kotoba o manabu no ni uttetsuke no houhou desu yo!"
+  },
+  "s0.s9.ganbatte_phrase": {
+    "en": "「頑張ってください」(Ganbatte kudasai) - Please do your best!",
+    "ru": "「頑張ってください」(Ganbatte kudasai) — «пожалуйста, старайтесь изо всех сил!»",
+    "zh": "「頑張ってください」(Ganbatte kudasai) —— 请加油 / 请尽力！",
+    "ko": "「頑張ってください」(Ganbatte kudasai) — 최선을 다하세요!",
+    "ja": "「頑張ってください」(Ganbatte kudasai) — どうぞベストを尽くして！",
+    "romaji": "「Ganbatte kudasai」 (Ganbatte kudasai) - Douzo besuto o tsukushite!"
+  },
+  "s0.s9.one_more": {
+    "en": "Oh, one more thing!",
+    "ru": "О, и ещё кое-что!",
+    "zh": "哦，还有一件事！",
+    "ko": "아, 한 가지 더!",
+    "ja": "あ、もう一つだけ！",
+    "romaji": "A, mou hitotsu dake!"
+  },
+  "s0.s9.practice": {
+    "en": "Remember: practice makes perfect. Try using what you learned today!",
+    "ru": "Помните: практика ведёт к совершенству. Попробуйте использовать то, что вы выучили сегодня!",
+    "zh": "记住：熟能生巧。试着把今天学到的用起来！",
+    "ko": "기억하세요: 연습이 완벽을 만들어요. 오늘 배운 걸 꼭 써 보세요!",
+    "ja": "覚えておいてくださいね、習うより慣れろです。今日学んだことをぜひ使ってみてください！",
+    "romaji": "Oboete oite kudasai ne, narau yori narero desu. Kyou mananda koto o zehi tsukatte mite kudasai!"
+  },
+  "s0.s9.short_story": {
+    "en": "Every lesson, we will look at a short story and analyze it together.",
+    "ru": "На каждом занятии мы будем читать короткий рассказ и разбирать его вместе.",
+    "zh": "每节课我们都会读一篇短故事，并一起分析。",
+    "ko": "매 수업마다 짧은 이야기를 읽고 함께 분석할 겁니다.",
+    "ja": "毎回の授業で、短い物語を一緒に読んで分析していきます。",
+    "romaji": "Maikai no jugyou de, mijikai monogatari o issho ni yonde bunseki shite ikimasu."
+  },
+  "s0.s9.special": {
+    "en": "Also, starting next time, we'll be doing something special.",
+    "ru": "А ещё, начиная со следующего раза, мы будем делать кое-что особенное.",
+    "zh": "另外，从下次开始我们会做点特别的事情。",
+    "ko": "그리고 다음부터는 특별한 것도 할 거예요.",
+    "ja": "それから、次回からはちょっと特別なことも始めますよ。",
+    "romaji": "Sorekara, jikai kara wa chotto tokubetsu na koto mo hajimemasu yo."
+  },
+  "s0.s9.tanaka_end": {
+    "en": "And that's all for today! You all did wonderfully.",
+    "ru": "И на сегодня всё! Вы все отлично справились.",
+    "zh": "今天就到这里！你们都做得很棒。",
+    "ko": "오늘은 여기까지! 여러분 모두 정말 잘했어요.",
+    "ja": "それでは、今日はここまでにしましょう！皆さん本当によく頑張りました。",
+    "romaji": "Soredewa, kyou wa koko made ni shimashou! Mina-san hontou ni yoku gambarimashita."
+  },
+  "s0.s9.time_flies": {
+    "en": "Before you know it, two hours have flown by.",
+    "ru": "Не успеваешь оглянуться, как проходят два часа.",
+    "zh": "不知不觉，两小时就过去了。",
+    "ko": "어느새 두 시간이 훌쩍 지나간다.",
+    "ja": "あっという間に2時間が過ぎ去っていた。",
+    "romaji": "Atto iu ma ni nijikan ga sugisatte ita."
+  },
+  "s0.s10.choice.go": {
+    "en": "Let's go! Sounds fun.",
+    "ru": "Пойдём! Звучит здорово.",
+    "zh": "走吧！听起来不错。",
+    "ko": "가자! 재밌겠다.",
+    "ja": "行こう！楽しそうだね。",
+    "romaji": "Ikou! Tanoshisou da ne."
+  },
+  "s0.s10.choice.skip": {
+    "en": "Maybe next time, I should review.",
+    "ru": "Может, в следующий раз — надо повторить.",
+    "zh": "还是下次吧，我想复习一下。",
+    "ko": "다음에 갈래. 복습 좀 하고 싶어.",
+    "ja": "また今度にするよ、復習しなきゃ。",
+    "romaji": "Mata kondo ni suru yo, fukushuu shinakya."
+  },
+  "s0.s10.ken_bad": {
+    "en": "Aw, that's too bad. Next time then!",
+    "ru": "Эх, жаль. Тогда в следующий раз!",
+    "zh": "啊，太可惜了。那下次吧！",
+    "ko": "아, 아쉽다. 그럼 다음에!",
+    "ja": "そっか、残念だな。じゃあ次の機会に！",
+    "romaji": "Sokka, zannen da na. Jaa tsugi no kikai ni!"
+  },
+  "s0.s10.ken_fun": {
+    "en": "Hey, that was actually pretty fun!",
+    "ru": "Эй, это было реально весело!",
+    "zh": "嘿，其实还挺好玩的！",
+    "ko": "야, 생각보다 꽤 재밌었어!",
+    "ja": "なあ、思ったよりかなり楽しかったよな！",
+    "romaji": "Naa, omotta yori kanari tanoshikatta yo na!"
+  },
+  "s0.s10.ken_invite": {
+    "en": "Some of us are gonna grab coffee at this cafe nearby. Wanna come?",
+    "ru": "Мы тут собираемся выпить кофе в кафе неподалёку. Пойдёшь?",
+    "zh": "我们几个打算去附近这家咖啡店喝杯咖啡。要一起来吗？",
+    "ko": "우리 몇 명이 근처 카페에서 커피 마시러 갈 건데, 같이 갈래?",
+    "ja": "近くのカフェで何人かとお茶しに行くんだけど、君も来ない？",
+    "romaji": "Chikaku no kafe de nannin ka to ocha shi ni ikun dakedo, kimi mo konai?"
+  },
+  "s0.s10.ken_invite_mei": {
+    "en": "You too, Mei-san! If you want!",
+    "ru": "И ты тоже, Мэй-сан! Если хочешь!",
+    "zh": "Mei同学你也来呀！如果你愿意的话！",
+    "ko": "메이 씨도! 원하면 같이 가자!",
+    "ja": "芽衣さんもどう？良かったら！",
+    "romaji": "Mei-san mo dou? Yokattara!"
+  },
+  "s0.s10.mei_maybe": {
+    "en": "...Maybe.",
+    "ru": "...Может быть.",
+    "zh": "……也许。",
+    "ko": "...아마도.",
+    "ja": "……機会があれば。",
+    "romaji": "...Kikai ga areba."
+  },
+  "s0.s10.mei_pause": {
+    "en": "Mei pauses while packing her bag, seemingly listening.",
+    "ru": "Мэй, собирая сумку, на мгновение замирает, будто прислушиваясь.",
+    "zh": "Mei收拾包的时候停了一下，似乎在听你们说话。",
+    "ko": "메이는 가방을 챙기다 말고 잠깐 멈춰, 무언가 듣고 있는 듯하다.",
+    "ja": "芽衣はカバンに荷物を詰めながら手を止め、こちらの話に耳を傾けているようだ。",
+    "romaji": "Mei wa kaban ni nimotsu o tsumenagara te o tome, kochira no hanashi ni mimi o katamukete iru you da."
+  },
+  "s0.s10.mei_smile": {
+    "en": "Is that a small smile? It's hard to tell as she turns to leave.",
+    "ru": "Это была улыбка? Трудно сказать — она отворачивается и уходит.",
+    "zh": "那是一抹笑吗？她转身离开，很难看清。",
+    "ko": "방금 미소였나? 그녀가 돌아서 나가 버려서 확실치 않다.",
+    "ja": "今のはかすかな微笑みだったのだろうか？彼女は立ち去るために背を向けてしまい、確かめることはできなかった。",
+    "romaji": "Ima no wa kasuka na hohoemi datta no darou ka? Kanojo wa tachisaru tame ni se o mukete shimai, tashikameru koto wa dekinakatta."
+  },
+  "s0.s10.mei_work": {
+    "en": "...I have work.",
+    "ru": "...У меня работа.",
+    "zh": "……我有工作。",
+    "ko": "...일이 있어.",
+    "ja": "……仕事があるので。",
+    "romaji": "...Shigoto ga aru no de."
+  },
+  "s0.s10.packing": {
+    "en": "Students begin packing up and filing out of the classroom.",
+    "ru": "Ученики начинают собирать вещи и выходить из класса.",
+    "zh": "同学们开始收拾东西，陆续离开教室。",
+    "ko": "학생들이 짐을 챙기며 교실 밖으로 나가기 시작한다.",
+    "ja": "生徒たちは荷物をまとめ、次々と教室を後にし始める。",
+    "romaji": "Seitotachi wa nimotsu o matome, tsugitsugi to kyoushitsu o ato ni shihajimeru."
+  },
+  "s0.s10.yuki_ask": {
+    "en": "So, what do you say?",
+    "ru": "Ну что, как тебе идея?",
+    "zh": "那你觉得呢？",
+    "ko": "그래서, 어때?",
+    "ja": "で、どうする？",
+    "romaji": "De, dou suru?"
+  },
+  "s0.s10.yuki_nice": {
+    "en": "Right?! Tanaka-sensei is so nice!",
+    "ru": "Правда?! Танака-сэнсэй такая милая!",
+    "zh": "对吧？！Tanaka老师好温柔！",
+    "ko": "그치?! 타나카 선생님 너무 친절해!",
+    "ja": "でしょ？！田中先生、すっごく優しかったよね！",
+    "romaji": "Desho?! Tanaka-sensei, suggoku yasashikatta yo ne!"
+  },
+  "s0.s10.yuki_study": {
+    "en": "Oh yes! It'll be like a study group!",
+    "ru": "О да! Это будет как учебная группа!",
+    "zh": "哦好呀！就像学习小组一样！",
+    "ko": "오 좋아! 스터디 모임 같겠다!",
+    "ja": "うんうん！勉強会みたいでいいね！",
+    "romaji": "Un'un! Benkyoukai mitai de ii ne!"
+  },
+  "s0.s10a.cafe_desc": {
+    "en": "Warm light spills from the windows, and the smell of fresh coffee welcomes you inside.",
+    "ru": "Тёплый свет льётся из окон, а запах свежего кофе встречает вас у входа.",
+    "zh": "窗里溢出温暖的灯光，刚烘好的咖啡香迎面而来。",
+    "ko": "창문 너머로 따뜻한 불빛이 새어 나오고, 신선한 커피 향이 너희를 맞이한다.",
+    "ja": "窓からは温かい光がこぼれ、挽きたてのコーヒーの香りがあなたを迎えてくれる。",
+    "romaji": "Mado kara wa atatakai hikari ga kobore, hikitate no koohii no kaori ga anata o mukaete kureru."
+  },
+  "s0.s10a.chat": {
+    "en": "You spend a pleasant hour chatting with your new friends.",
+    "ru": "Вы приятно проводите час, болтая с новыми друзьями.",
+    "zh": "你们愉快地聊了一个小时。",
+    "ko": "너희는 즐겁게 한 시간 정도 수다를 떤다.",
+    "ja": "新しい友人たちと、楽しいおしゃべりの時間を1時間ほど過ごした。",
+    "romaji": "Atarashii yuujintachi to, tanoshii oshaberi no jikan o ichijikan hodo sugoshita."
+  },
+  "s0.s10a.friends": {
+    "en": "And somehow, you feel like you've known them for much longer than a day.",
+    "ru": "И почему-то кажется, будто вы знакомы гораздо дольше одного дня.",
+    "zh": "不知为何，你感觉你们好像认识了不止一天那么久。",
+    "ko": "이상하게도, 하루 만에 훨씬 오래 알고 지낸 것 같은 기분이 든다.",
+    "ja": "そしてなぜか、出会ってまだ一日しか経っていないとは思えないほど親しみを感じていた。",
+    "romaji": "Soshite nazeka, deatte mada ichinichi shika tatte inai to wa omoenai hodo shitashimi o kanjite ita."
+  },
+  "s0.s10a.ken": {
+    "en": "That's the spirit!",
+    "ru": "Вот это настрой!",
+    "zh": "就是这个劲儿！",
+    "ko": "그거지!",
+    "ja": "その意気だよ！",
+    "romaji": "Sono iki da yo!"
+  },
+  "s0.s10a.ken_matcha": {
+    "en": "Ah, I love this place. Best matcha latte in town.",
+    "ru": "Ах, обожаю это место. Лучший маття-латте в городе.",
+    "zh": "啊，我超喜欢这家。城里最好喝的抹茶拿铁。",
+    "ko": "아, 나 여기 진짜 좋아해. 동네 최고 말차 라떼야.",
+    "ja": "あー、ここ大好きなんだよな。街で一番美味い抹茶ラテがあるんだ。",
+    "romaji": "Aa, koko daisuki nan da yo na. Machi de ichiban umai matcha rate ga arun da."
+  },
+  "s0.s10a.ken_staff": {
+    "en": "Haha, I don't think the staff here speaks Japanese...",
+    "ru": "Ха-ха, сомневаюсь, что тут персонал говорит по-японски...",
+    "zh": "哈哈，我觉得这里的店员应该不会说日语……",
+    "ko": "하하, 여기 직원이 일본어를 할 것 같진 않은데...",
+    "ja": "ハハ、ここの店員さん、日本語通じるかな……",
+    "romaji": "Haha, koko no ten'in-san, nihongo tsuujiru kana..."
+  },
+  "s0.s10a.ken_talk": {
+    "en": "Ken tells jokes and talks about his love of Japanese cuisine.",
+    "ru": "Кен шутит и рассказывает о своей любви к японской кухне.",
+    "zh": "Ken讲笑话，还聊起他有多喜欢日本料理。",
+    "ko": "켄은 농담을 하고 일본 음식에 대한 애정을 이야기한다.",
+    "ja": "ケンは冗談を交えながら、日本食への愛を熱く語る。",
+    "romaji": "Ken wa joudan o majienagara, nihonshoku e no ai o atsuku kataru."
+  },
+  "s0.s10a.player": {
+    "en": "Let's go! I could use some coffee after all that brain exercise.",
+    "ru": "Пойдём! После такой нагрузки мозгам нужен кофе.",
+    "zh": "走吧！刚才那一堆脑力活儿，正好需要咖啡补一补。",
+    "ko": "가자! 머리 좀 쓴 뒤엔 커피가 필요해.",
+    "ja": "行こう！頭をたくさん使ったから、コーヒーで一息つきたいな。",
+    "romaji": "Ikou! Atama o takusan tsukatta kara, koohii de hitoiki tsukitai na."
+  },
+  "s0.s10a.walk": {
+    "en": "The three of you walk to a cozy cafe a few blocks from the school.",
+    "ru": "Втроём вы идёте в уютное кафе в нескольких кварталах от школы.",
+    "zh": "你们三个人走到离学校几条街的一家温馨咖啡馆。",
+    "ko": "셋은 학교에서 몇 블록 떨어진 아늑한 카페로 걸어간다.",
+    "ja": "三人で学校から数ブロック先にある居心地の良いカフェへと歩いていく。",
+    "romaji": "Sannin de gakkou kara suuburokku saki ni aru igokochi no yoi kafe e to aruite iku."
+  },
+  "s0.s10a.yuki": {
+    "en": "Yay! New friends!",
+    "ru": "Ура! Новые друзья!",
+    "zh": "耶！新朋友！",
+    "ko": "야호! 새 친구!",
+    "ja": "わーい！新しいお友達だ！",
+    "romaji": "Waai! Atarashii otomodachi da!"
+  },
+  "s0.s10a.yuki_details": {
+    "en": "Details, details!",
+    "ru": "Детали, детали!",
+    "zh": "细节，细节嘛！",
+    "ko": "디테일, 디테일!",
+    "ja": "細かいことはいいの！",
+    "romaji": "Komakai koto wa ii no!"
+  },
+  "s0.s10a.yuki_order": {
+    "en": "Ooh, should we practice ordering in Japanese?",
+    "ru": "Ой, может, потренируемся заказывать по-японски?",
+    "zh": "哦哦，要不要练习用日语点单？",
+    "ko": "오오, 일본어로 주문 연습해 볼까?",
+    "ja": "ねえねえ、日本語で注文する練習してみない？",
+    "romaji": "Nee nee, nihongo de chuumon suru renshuu shite minai?"
+  },
+  "s0.s10a.yuki_talk": {
+    "en": "Yuki excitedly shares her favorite anime recommendations.",
+    "ru": "Юки с восторгом делится рекомендациями своих любимых аниме.",
+    "zh": "Yuki兴奋地分享她最喜欢的动漫推荐。",
+    "ko": "유키는 신이 나서 좋아하는 애니 추천을 쏟아 낸다.",
+    "ja": "ユキは興奮気味におすすめのアニメを紹介してくれる。",
+    "romaji": "Yuki wa koufungimi ni osusume no anime o shoukai shite kureru."
+  },
+  "s0.s10b.feels_good": {
+    "en": "It feels good. This feels right.",
+    "ru": "Приятно. Кажется, всё идёт как надо.",
+    "zh": "感觉真好。感觉一切都对了。",
+    "ko": "기분이 좋다. 뭔가 맞는 느낌이다.",
+    "ja": "清々しい気持ちだ。これでいいんだと感じる。",
+    "romaji": "Sugasugashii kimochi da. Kore de iin da to kanjiru."
+  },
+  "s0.s10b.ken": {
+    "en": "That's dedication! Respect.",
+    "ru": "Вот это дисциплина! Уважение.",
+    "zh": "真自律！佩服。",
+    "ko": "대단한데! 존경.",
+    "ja": "勉強熱心だな！リスペクトするよ。",
+    "romaji": "Benkyou nesshin da na! Risupekuto suru yo."
+  },
+  "s0.s10b.player": {
+    "en": "Maybe next time - I want to review what we learned while it's still fresh.",
+    "ru": "Может, в следующий раз — хочу повторить то, что мы выучили, пока всё свежо.",
+    "zh": "还是下次吧——我想趁着记忆还新鲜，把今天学的复习一下。",
+    "ko": "다음에 갈래—아직 기억이 생생할 때 오늘 배운 걸 복습하고 싶어.",
+    "ja": "また今度にするよ。記憶が新しいうちに今日習ったことを復習したくて。",
+    "romaji": "Mata kondo ni suru yo. Kioku ga atarashii uchi ni kyou naratta koto o fukushuu shitakute."
+  },
+  "s0.s10b.player_promise": {
+    "en": "It's a promise.",
+    "ru": "Обещаю.",
+    "zh": "一言为定。",
+    "ko": "약속할게.",
+    "ja": "約束するよ。",
+    "romaji": "Yakusoku suru yo."
+  },
+  "s0.s10b.practice_head": {
+    "en": "As you walk, you practice the phrases in your head.",
+    "ru": "Идя, ты повторяешь фразы про себя.",
+    "zh": "走着走着，你在脑海里练习刚学的句子。",
+    "ko": "걸어가며, 너는 머릿속으로 표현들을 연습한다.",
+    "ja": "歩きながら、頭の中でフレーズを何度も練習する。",
+    "romaji": "Arukinagara, atama no naka de fureezu o nando mo renshuu suru."
+  },
+  "s0.s10b.think_practice": {
+    "en": "Hajimemashite... Watashi wa [player] desu... Yoroshiku onegaishimasu...",
+    "ru": "Hajimemashite... Watashi wa [player] desu... Yoroshiku onegaishimasu...",
+    "zh": "Hajimemashite... Watashi wa [player] desu... Yoroshiku onegaishimasu...",
+    "ko": "Hajimemashite... Watashi wa [player] desu... Yoroshiku onegaishimasu...",
+    "ja": "初めまして……私は[player]です……よろしくお願いします……",
+    "romaji": "Hajimemashite... Watashi wa [player] desu... Yoroshiku onegaishimasu..."
+  },
+  "s0.s10b.wave": {
+    "en": "You wave goodbye and head home, the afternoon sun warm on your face.",
+    "ru": "Ты машешь им на прощание и идёшь домой; тёплое дневное солнце греет лицо.",
+    "zh": "你挥手道别，踏上回家的路；午后的阳光暖暖地照在脸上。",
+    "ko": "너는 손을 흔들고 집으로 향한다. 오후 햇살이 얼굴을 따뜻하게 감싼다.",
+    "ja": "手を振って別れを告げ、午後の暖かい日差しを顔に浴びながら家路につく。",
+    "romaji": "Te o futte wakare o tsuge, gogo no atatakai hizashi o kao ni abinagara ieji ni tsuku."
+  },
+  "s0.s10b.yuki": {
+    "en": "Aww okay! But you HAVE to come next time!",
+    "ru": "Ну ла-а-адно! Но в следующий раз ты ОБЯЗАН(А) пойти!",
+    "zh": "啊——好吧！但下次你一定要来！",
+    "ko": "아아 알겠어! 하지만 다음엔 꼭 와야 해!",
+    "ja": "えー、そっか！でも次は絶対来てよね！",
+    "romaji": "Ee, sokka! Demo tsugi wa zettai kite yo ne!"
+  },
+  "s0.s11.beginning": {
+    "en": "This is just the beginning of your journey.",
+    "ru": "Это только начало твоего пути.",
+    "zh": "这只是旅程的开始。",
+    "ko": "이건 너의 여정의 시작일 뿐이다.",
+    "ja": "これは、あなたの旅のほんの始まりに過ぎない。",
+    "romaji": "Kore wa, anata no tabi no honno hajimari ni suginai."
+  },
+  "s0.s11.complete": {
+    "en": "Story 0 Complete: First Day of Class",
+    "ru": "История 0 завершена: Первый день занятий",
+    "zh": "故事0完成：第一天上课",
+    "ko": "스토리 0 완료: 첫 수업 날",
+    "ja": "ストーリー0完了：初めての授業",
+    "romaji": "Sutoorii 0 Kanryou: Hajimete no jugyou"
+  },
+  "s0.s11.evening": {
+    "en": "Later that evening, you sit at home, reflecting on the day.",
+    "ru": "Позже вечером ты сидишь дома и вспоминаешь прошедший день.",
+    "zh": "那天傍晚，你坐在家里回想这一天。",
+    "ko": "그날 저녁, 너는 집에 앉아 하루를 되돌아본다.",
+    "ja": "その日の夜遅く、自宅でくつろぎながら今日という一日を振り返る。",
+    "romaji": "Sono hi no yoru osoku, jitaku de kutsuroginagara kyou to iu ichinichi o furikaeru."
+  },
+  "s0.s11.notebook": {
+    "en": "Your notebook lies open, filled with the day's vocabulary.",
+    "ru": "Тетрадь раскрыта — страницы заполнены сегодняшней лексикой.",
+    "zh": "你的笔记本摊开着，写满了今天学到的词汇。",
+    "ko": "노트는 펼쳐져 있고, 오늘 배운 단어들로 가득하다.",
+    "ja": "広げられたノートには、今日学んだ単語がびっしりと書き込まれている。",
+    "romaji": "Hirogerareta nooto ni wa, kyou mananda tango ga bisshiri to kakikomarete iru."
+  },
+  "s0.s11.practice_writing": {
+    "en": "You practice writing hiragana, tracing the characters carefully.",
+    "ru": "Ты тренируешься писать хирагану, аккуратно обводя знаки.",
+    "zh": "你练习写平假名，小心地描着每一个字形。",
+    "ko": "너는 히라가나를 연습하며 글자를 조심스럽게 따라 쓴다.",
+    "ja": "文字を一文字一文字、丁寧に確かめるようにひらがなをなぞって練習する。",
+    "romaji": "Moji o ichimoji-ichimoji, teinei ni tashikameru you ni hiragana o nazotte renshuu suru."
+  },
+  "s0.s11.separator": {
+    "en": "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+    "ru": "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+    "zh": "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+    "ko": "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+    "ja": "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+    "romaji": "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+  },
+  "s0.s11.stars": {
+    "en": "The cherry blossoms drift outside your window as the stars begin to appear.",
+    "ru": "Лепестки сакуры кружатся за окном, и на небе появляются первые звёзды.",
+    "zh": "窗外樱花花瓣轻轻飘过，星星也开始在天边出现。",
+    "ko": "창밖으로 벚꽃 잎이 흩날리고, 별들이 하나둘 모습을 드러낸다.",
+    "ja": "星が瞬き始める空の下、窓の外を桜の花びらが舞っていく。",
+    "romaji": "Hoshi ga matataki hajimeru sora no shita, mado no soto o sakura no hanabira ga matte iku."
+  },
+  "s0.s11.think_benkyou": {
+    "en": "勉強 - Benkyou - Study. That's what I'll do. I'll do my best.",
+    "ru": "勉強 — Benkyou — Учёба. Вот чем я займусь. Я постараюсь.",
+    "zh": "勉強 — Benkyou — 学习。我要做的就是这个。我会尽力。",
+    "ko": "勉強 - Benkyou - 공부. 내가 할 건 그거야. 최선을 다하자.",
+    "ja": "勉強 — Benkyou — 学習。やるぞ。精一杯頑張るんだ。",
+    "romaji": "Benkyou - Benkyou - Gakushuu. Yaru zo. Seiippai gambarun da."
+  },
+  "s0.s11.think_friends": {
+    "en": "Tanaka-sensei is kind. Ken is funny. Yuki is enthusiastic.",
+    "ru": "Танака-сэнсэй добрая. Кен смешной. Юки полна энтузиазма.",
+    "zh": "Tanaka老师很温柔。Ken很有趣。Yuki充满热情。",
+    "ko": "타나카 선생님은 친절하고, 켄은 웃기고, 유키는 열정적이다.",
+    "ja": "田中先生は優しい。ケンは面白い。ユキは情熱的だ。",
+    "romaji": "Tanaka-sensei wa yasashii. Ken wa omoshiroi. Yuki wa jounetsuteki da."
+  },
+  "s0.s11.think_ganbarimasu": {
+    "en": "頑張ります！ Ganbarimasu! I'll do my best!",
+    "ru": "頑張ります！ Ganbarimasu! Я постараюсь!",
+    "zh": "頑張ります！Ganbarimasu！我会加油！",
+    "ko": "頑張ります！ Ganbarimasu! 최선을 다할게!",
+    "ja": "頑張ります！ Ganbarimasu! 全力を尽くすぞ！",
+    "romaji": "Gambarimasu! Ganbarimasu! Zenryoku o tsukusu zo!"
+  },
+  "s0.s11.think_good": {
+    "en": "Today was a good day.",
+    "ru": "Сегодня был хороший день.",
+    "zh": "今天是个好日子。",
+    "ko": "오늘은 좋은 날이었다.",
+    "ja": "今日は良い一日だった。",
+    "romaji": "Kyou wa yoi ichinichi datta."
+  },
+  "s0.s11.think_mei": {
+    "en": "And Mei... she seems interesting. I hope we can talk more.",
+    "ru": "А Мэй... она кажется интересной. Надеюсь, мы ещё поговорим.",
+    "zh": "还有Mei……她看起来很有意思。希望能多聊聊。",
+    "ko": "그리고 메이... 흥미로운 사람 같아. 더 이야기해 보고 싶다.",
+    "ja": "それに芽衣……彼女、気になるな。もっと話せるといいな。",
+    "romaji": "Soreni Mei... kanojo, ki ni naru na. Motto hanaseru to ii na."
+  },
+  "s0.s11.wonderful": {
+    "en": "And somehow, you know it's going to be wonderful.",
+    "ru": "И почему-то ты уверен(а), что впереди будет прекрасно.",
+    "zh": "不知为什么，你知道这段旅程一定会很美好。",
+    "ko": "왠지 모르게, 분명 멋진 시간이 될 거라는 확신이 든다.",
+    "ja": "そしてどういうわけか、これから素晴らしい日々が待っていると確信している。",
+    "romaji": "Soshite dou iu wake ka, korekara subarashii hibi ga matte iru to kakushin shite iru."
+  },
+  "s0.s11.words": {
+    "en": "Words Learned: 15+",
+    "ru": "Выучено слов: 15+",
+    "zh": "学到的单词：15+",
+    "ko": "배운 단어: 15+",
+    "ja": "習得した単語：15語以上",
+    "romaji": "Shuutoku shita tango: 15-go ijou"
+  },
+  "s0.subtitle": {
+    "en": "初めての授業",
+    "ru": "初めての授業",
+    "zh": "初めての授業",
+    "ko": "初めての授業",
+    "ja": "初めての授業",
+    "romaji": "Hajimete no jugyou"
+  },
+  "s0.title": {
+    "en": "First Day of Class",
+    "ru": "Первый день занятий",
+    "zh": "第一天上课",
+    "ko": "첫 수업 날",
+    "ja": "初めての授業",
+    "romaji": "Hajimete no jugyou"
+  }
+}

@@ -1,0 +1,807 @@
+{
+  "vl8.title": {
+    "en": "Words for Town and the Hospital",
+    "ru": "Слова для города и больницы",
+    "zh": "在街上和医院里用的词",
+    "ja": "町と病院で使う言葉",
+    "romaji": "Machi to byouin de tsukau kotoba"
+  },
+  "vl8.subtitle": {
+    "en": "Asking the way and going to the hospital",
+    "ru": "Спросить дорогу и отправиться в больницу",
+    "zh": "问路，然后去医院",
+    "ja": "道をたずねて、病院へ行く",
+    "romaji": "Michi o tazunete, byouin e iku"
+  },
+  "vl8.description": {
+    "en": "While taking Ken's grandma to the hospital, practice ten words for asking the way, reception, greetings, and medicine.",
+    "ru": "Сопровождая бабушку Кена в больницу, потренируйте десять слов: как спросить дорогу, регистратура, приветствия и слова о лекарствах.",
+    "zh": "陪健的奶奶去医院，练习问路、挂号、问候和药品相关的十个词。",
+    "ja": "ケンのおばあちゃんを病院へ連れて行きながら、道の聞き方、受付、あいさつ、薬の言葉を十つ練習します。",
+    "romaji": "Ken no obaachan o byouin e tsurete ikinagara, michi no kikikata, uketsuke, aisatsu, kusuri no kotoba o touka renshuu shimasu."
+  },
+  "vl8.setup": {
+    "en": "After the gardening, Ken's grandma starts feeling a little unwell. Everyone brings her to the front of the station. The hospital is near the station.",
+    "ru": "После работы в саду бабушка Кена почувствовала себя нехорошо. Все привели её к вокзалу. Больница находится рядом с вокзалом.",
+    "zh": "干完园艺活之后，健的奶奶觉得有点不舒服。大家带着奶奶来到车站前。医院就在车站附近。",
+    "ja": "庭仕事のあと、ケンのおばあちゃんが、少し気分が悪くなった。みんなは、おばあちゃんを連れて、駅の前に来た。病院は、駅の近くにある。",
+    "romaji": "Niwashigoto no ato, Ken no obaachan ga, sukoshi kibun ga waruku natta. Minna wa, obaachan o tsurete, eki no mae ni kita. Byouin wa, eki no chikaku ni aru."
+  },
+  "vl8.t_intro": {
+    "en": "It's worrying. But let's go calmly. Today, let's practice words to use when you're in trouble in town.",
+    "ru": "Это тревожно. Но давайте пойдём спокойно. Сегодня потренируем слова, которые нужны, когда возникает проблема в городе.",
+    "zh": "真让人担心。不过我们冷静地过去吧。今天来练习在街上遇到困难时用的词。",
+    "ja": "心配ですね。でも、落ち着いて行きましょう。今日は、町で困ったときに使う言葉を、練習しましょう。",
+    "romaji": "Shinpai desu ne. Demo, ochitsuite ikimashou. Kyou wa, machi de komatta toki ni tsukau kotoba o, renshuu shimashou."
+  },
+  "vl8.g_sorry": {
+    "en": "I'm sorry, everyone. I'm just a bit dizzy, that's all.",
+    "ru": "Простите, все. У меня просто немного кружится голова.",
+    "zh": "大家，对不起啊。我只是有点头晕而已。",
+    "ja": "みんな、ごめんなさいね。ちょっと、めまいがするだけですから。",
+    "romaji": "Minna, gomennasai ne. Chotto, memai ga suru dake desu kara."
+  },
+  "vl8.w1": {
+    "en": "First, “eki,” the station. It is where trains stop. In a town, the station is a landmark.",
+    "ru": "Сначала «эки» — вокзал. Это место, где останавливаются поезда. В городе вокзал служит ориентиром.",
+    "zh": "首先是「駅」。是电车停靠的地方。在城镇里，车站是个地标。",
+    "ja": "まず、「駅」です。電車が止まる場所です。町では、駅が、目印になります。",
+    "romaji": "Mazu, 'eki' desu. Densha ga tomaru basho desu. Machi de wa, eki ga, mejirushi ni narimasu."
+  },
+  "vl8.w1_q": {
+    "en": "Is a place where buses stop also an “eki”?",
+    "ru": "Место, где останавливаются автобусы, тоже «эки»?",
+    "zh": "公交车停靠的地方也叫「駅」吗？",
+    "ja": "バスが止まる場所も、「駅」ですか？",
+    "romaji": "Basu ga tomaru basho mo, 'eki' desu ka?"
+  },
+  "vl8.w1_a": {
+    "en": "No, for buses you say “basutei,” bus stop. “Eki” is for trains and subways.",
+    "ru": "Нет, для автобусов говорят «басутэй», автобусная остановка. «Эки» — это для поездов и метро.",
+    "zh": "不是，公交车站叫「バス停」。「駅」是电车和地铁的站。",
+    "ja": "いいえ、バスは、「バス停」と言います。「駅」は、電車や地下鉄の場所です。",
+    "romaji": "Iie, basu wa, 'basutei' to iimasu. 'Eki' wa, densha ya chikatetsu no basho desu."
+  },
+  "vl8.w2": {
+    "en": "When you ask about an unfamiliar road, you use “oshieru.” “Oshieru” means to tell or teach someone something you know.",
+    "ru": "Когда спрашивают незнакомую дорогу, используют «осиэру». «Осиэру» — сообщить или научить человека тому, что вы знаете.",
+    "zh": "询问不熟悉的路时，用「教える」。「教える」是把自己知道的事告诉别人。",
+    "ja": "知らない道を聞くときは、「教える」を使います。「教える」は、知っていることを、人に伝えることです。",
+    "romaji": "Shiranai michi o kiku toki wa, 'oshieru' o tsukaimasu. 'Oshieru' wa, shitte iru koto o, hito ni tsutaeru koto desu."
+  },
+  "vl8.w2_q": {
+    "en": "Are “oshiete kudasai” and “oshieru” the same word?",
+    "ru": "«Осиэтэ кудасай» и «осиэру» — это одно и то же слово?",
+    "zh": "「教えてください」和「教える」是同一个词吗？",
+    "ja": "「教えてください」と「教える」は、同じ言葉ですか？",
+    "romaji": "'Oshiete kudasai' to 'oshieru' wa, onaji kotoba desu ka?"
+  },
+  "vl8.w2_a": {
+    "en": "Yes, it is the same word. “Oshieru” is the basic form. “Oshiete kudasai” adds “~te kudasai” to it, making a request.",
+    "ru": "Да, это одно слово. «Осиэру» — базовая форма. «Осиэтэ кудасай» получается добавлением «~тэ кудасай», это форма просьбы.",
+    "zh": "是的，是同一个词。「教える」是原形。「教えてください」是在后面加上「〜てください」，表示请求。",
+    "ja": "はい、同じ言葉です。「教える」が、もとの形です。「教えてください」は、それに「〜てください」をつけた、お願いの形です。",
+    "romaji": "Hai, onaji kotoba desu. 'Oshieru' ga, moto no katachi desu. 'Oshiete kudasai' wa, sore ni '~ te kudasai' o tsuketa, onegai no katachi desu."
+  },
+  "vl8.p1_prompt": {
+    "en": "Now let's practice. In front of the station, you ask a passer-by the way to the hospital. What do you say?",
+    "ru": "Теперь практика. Перед вокзалом вы спрашиваете у прохожего дорогу в больницу. Что вы скажете?",
+    "zh": "现在来练习。在车站前，你要向路过的人问去医院的路。你会怎么说？",
+    "ja": "では、練習です。駅の前で、通りかかった人に、病院への道を聞きます。何と言いますか？",
+    "romaji": "Dewa, renshuu desu. Eki no mae de, toorikakatta hito ni, byouin e no michi o kikimasu. Nan to iimasu ka?"
+  },
+  "vl8.c1_natural": {
+    "en": "“Excuse me, please tell me the way to the hospital.”",
+    "ru": "«Извините, подскажите, пожалуйста, дорогу в больницу».",
+    "zh": "“不好意思，请告诉我去医院的路。”",
+    "ja": "「すみません、病院への道を、教えてください。」",
+    "romaji": "'Sumimasen, byouin e no michi o, oshiete kudasai.'"
+  },
+  "vl8.c1_formal": {
+    "en": "“Pardon me. I wish to proceed to the hospital. Might you kindly instruct me on the route?”",
+    "ru": "«Прошу прощения. Я желаю проследовать в больницу, не могли бы вы любезно указать мне маршрут?»",
+    "zh": "“打扰了。我想去医院，能否请您赐教路线？”",
+    "ja": "「恐れ入ります。病院へ参りたいのですが、道順をご教示いただけませんでしょうか。」",
+    "romaji": "'Osoreirimasu. Byouin e mairitai no desu ga, michijun o gokyouji itadakemasen deshou ka.'"
+  },
+  "vl8.c1_mistake": {
+    "en": "“Hospital?”",
+    "ru": "«Больница?»",
+    "zh": "“医院？”",
+    "ja": "「病院は？」",
+    "romaji": "'Byouin wa?'"
+  },
+  "vl8.c1_own": {
+    "en": "“Excuse me, we're in a hurry. How many minutes does it take on foot from the station to the hospital? Please tell me the way.”",
+    "ru": "«Извините, мы спешим. Сколько минут идти пешком от вокзала до больницы? Подскажите дорогу, пожалуйста».",
+    "zh": "“不好意思，我们有点急。从车站走到医院要几分钟？请告诉我路怎么走。”",
+    "ja": "「すみません、急いでいます。駅から病院まで、歩いて何分ですか？道を教えてください。」",
+    "romaji": "'Sumimasen, isoide imasu. Eki kara byouin made, aruite nanpun desu ka? Michi o oshiete kudasai.'"
+  },
+  "vl8.c1_min": {
+    "en": "“Um... hospital...”",
+    "ru": "«Э-э… больница…»",
+    "zh": "“呃……医院……”",
+    "ja": "「あの…病院…」",
+    "romaji": "'Ano... byouin...'"
+  },
+  "vl8.p1_nat_yuki": {
+    "en": "The passer-by kindly explains with a smile: “Leave the station and go straight to the right.”",
+    "ru": "Прохожий с улыбкой объяснил: «Выйдите с вокзала и идите прямо направо».",
+    "zh": "路人微笑着告诉我们：“出了车站，向右一直走就到了。”",
+    "ja": "通りの人が、笑顔で教えてくれました。「駅を出て、右にまっすぐです」だそうです。",
+    "romaji": "Toori no hito ga, egao de oshiete kuremashita. 'Eki o dete, migi ni massugu desu' da sou desu."
+  },
+  "vl8.p1_form_ken": {
+    "en": "Haha, the person you asked looks startled. “Oshiete kudasai” is enough.",
+    "ru": "Ха-ха, человек, у которого вы спросили дорогу, удивился. Достаточно «осиэтэ кудасай».",
+    "zh": "哈哈，被你问路的人吓了一跳。说「教えてください」就足够了。",
+    "ja": "あはは、道を聞かれた人が、びっくりしていますよ。「教えてください」で、じゅうぶんです。",
+    "romaji": "Ahaha, michi o kikareta hito ga, bikkuri shite imasu yo. 'Oshiete kudasai' de, juubun desu."
+  },
+  "vl8.p1_mis_mei": {
+    "en": "Huh, just “Byouin wa?” Even when you're in a hurry, let's say “sumimasen” and “oshiete kudasai.”",
+    "ru": "Что, просто «бёин ва?» Даже если вы спешите, скажите «сумимасэн» и «осиэтэ кудасай».",
+    "zh": "咦，只说「病院は？」吗？就算着急，也要说「すみません」和「教えてください」。",
+    "ja": "えっ、「病院は？」だけですか？急いでいても、「すみません」と、「教えてください」を言いましょう。",
+    "romaji": "E, 'Byouin wa?' dake desu ka? Isoide ite mo, 'sumimasen' to, 'oshiete kudasai' o iimashou."
+  },
+  "vl8.p1_mis_retry": {
+    "en": "Oh, excuse me. Please tell me the way to the hospital.",
+    "ru": "Ой, извините. Подскажите, пожалуйста, дорогу в больницу.",
+    "zh": "啊，不好意思。请告诉我去医院的路。",
+    "ja": "あっ、すみません。病院への道を、教えてください。",
+    "romaji": "A, sumimasen. Byouin e no michi o, oshiete kudasai."
+  },
+  "vl8.p1_mis_relief": {
+    "en": "Yes, that's it! Look, they kindly told us the way.",
+    "ru": "Да, именно так! Смотрите, нам любезно подсказали.",
+    "zh": "对，就是这个！你看，人家很热心地告诉我们了。",
+    "ja": "はい、それです！ほら、親切に教えてくれました。",
+    "romaji": "Hai, sore desu! Hora, shinsetsu ni oshiete kuremashita."
+  },
+  "vl8.p1_own_tanaka": {
+    "en": "A good way to ask. Asking about the time helps you plan what comes next.",
+    "ru": "Хороший способ спросить. Если узнать и время, легче планировать дальше.",
+    "zh": "问得很好。连时间也问了，接下来的安排就好计划了。",
+    "ja": "いい聞き方です。時間も聞くと、あとの予定が立てやすいですね。",
+    "romaji": "Ii kikikata desu. Jikan mo kiku to, ato no yotei ga tateyasui desu ne."
+  },
+  "vl8.p1_min_yuki": {
+    "en": "I understand you're in a hurry. But let's say it clearly: “byouin e no michi o, oshiete kudasai.”",
+    "ru": "Я понимаю, что вы спешите. Но скажите чётко: «бёин э но мити о, осиэтэ кудасай».",
+    "zh": "我理解你很着急。不过还是清楚地说「病院への道を、教えてください」吧。",
+    "ja": "急いでいる気持ちは、わかります。でも、「病院への道を、教えてください」と、はっきり言いましょう。",
+    "romaji": "Isoide iru kimochi wa, wakarimasu. Demo, 'byouin e no michi o, oshiete kudasai' to, hakkiri iimashou."
+  },
+  "vl8.hospital": {
+    "en": "The hospital reception. Many people are seated in the large waiting room. The receptionist speaks in a quiet voice.",
+    "ru": "Регистратура больницы. В просторном зале ожидания сидит много людей. Сотрудник регистратуры тихо обращается к вам.",
+    "zh": "医院的挂号处。宽敞的候诊室里坐着很多人。工作人员轻声地跟你们说话。",
+    "ja": "病院の受付。広い待合室に、たくさんの人が座っている。受付の人が、小さな声で話しかけてくる。",
+    "romaji": "Byouin no uketsuke. Hiroi machiaishitsu ni, takusan no hito ga suwatte iru. Uketsuke no hito ga, chiisana koe de hanashikakete kuru."
+  },
+  "vl8.w3": {
+    "en": "This is the “byouin,” hospital. It is a place where you get illnesses and injuries treated.",
+    "ru": "Это «бёин» — больница. Здесь лечат болезни и травмы.",
+    "zh": "这里是「病院」。是看病和治疗受伤的地方。",
+    "ja": "ここは、「病院」です。病気やけがを見てもらう場所です。",
+    "romaji": "Koko wa, 'byouin' desu. Byouki ya kega o mite morau basho desu."
+  },
+  "vl8.w3_q": {
+    "en": "Is a place where you buy medicine also a hospital?",
+    "ru": "Место, где покупают лекарства, тоже больница?",
+    "zh": "买药的地方也算病院吗？",
+    "ja": "薬を買う場所も、病院ですか？",
+    "romaji": "Kusuri o kau basho mo, byouin desu ka?"
+  },
+  "vl8.w3_a": {
+    "en": "No, a place to buy medicine is a “yakkyoku,” pharmacy. At a hospital, a doctor examines you.",
+    "ru": "Нет, место, где покупают лекарства, — «якккёку», аптека. В больнице вас осматривает врач.",
+    "zh": "不是，买药的地方叫「薬局」。在医院是由医生给你看病。",
+    "ja": "いいえ、薬を買うところは、「薬局」です。病院では、先生に見てもらいます。",
+    "romaji": "Iie, kusuri o kau tokoro wa, 'yakkyoku' desu. Byouin de wa, sensei ni mite moraimasu."
+  },
+  "vl8.reception": {
+    "en": "The receptionist says, “Your name, please.”",
+    "ru": "Сотрудник регистратуры говорит: «Ваше имя, пожалуйста».",
+    "zh": "工作人员说：“请告诉我您的名字。”",
+    "ja": "受付の人が、言った。「お名前を、お願いします。」",
+    "romaji": "Uketsuke no hito ga, itta. 'Onamae o, onegaishimasu.'"
+  },
+  "vl8.w4": {
+    "en": "This is “namae,” name. Your own is “namae,” and someone else's is “onamae.”",
+    "ru": "Это «намаэ» — имя. Своё — «намаэ», чужое — «онамаэ».",
+    "zh": "这就是「名前」。自己的名字说「名前」，对方的名字说「お名前」。",
+    "ja": "これが「名前」です。自分の名前は、「名前」。相手の名前は、「お名前」と言います。",
+    "romaji": "Kore ga 'namae' desu. Jibun no namae wa, 'namae'. Aite no namae wa, 'onamae' to iimasu."
+  },
+  "vl8.w4_q": {
+    "en": "Do you add “o” to your own name too?",
+    "ru": "К собственному имени тоже добавляют «о»?",
+    "zh": "自己的名字也要加「お」吗？",
+    "ja": "自分の名前にも、「お」をつけますか？",
+    "romaji": "Jibun no namae ni mo, 'o' o tsukemasu ka?"
+  },
+  "vl8.w4_a": {
+    "en": "No, you don't. The “o” is a word to show respect for the other person. You don't use it for yourself.",
+    "ru": "Нет. «О» — это слово, которое выражает уважение к собеседнику. О себе его не используют.",
+    "zh": "不加。「お」是用来尊敬对方的。对自己不能用。",
+    "ja": "いいえ、つけません。「お」は、相手をうやまうための言葉です。自分には使いません。",
+    "romaji": "Iie, tsukemasen. 'O' wa, aite o uyamau tame no kotoba desu. Jibun ni wa tsukaimasen."
+  },
+  "vl8.p2_prompt": {
+    "en": "The receptionist says, “Your name, please.” Grandma is still sitting down, so you answer for her. What do you say?",
+    "ru": "Сотрудник регистратуры говорит: «Ваше имя, пожалуйста». Бабушка ещё сидит, и вы отвечаете за неё. Что вы скажете?",
+    "zh": "工作人员说：“请告诉我您的名字。”奶奶还坐着，所以由你代替回答。你会怎么说？",
+    "ja": "受付の人が、「お名前を、お願いします」と言いました。おばあちゃんは、まだ座っています。あなたが、代わりに答えます。何と言いますか？",
+    "romaji": "Uketsuke no hito ga, 'Onamae o, onegaishimasu' to iimashita. Obaachan wa, mada suwatte imasu. Anata ga, kawari ni kotaemasu. Nan to iimasu ka?"
+  },
+  "vl8.c2_natural": {
+    "en": "“This person's name is Hana Yamada. Please.”",
+    "ru": "«Эту женщину зовут Хана Ямада. Пожалуйста».",
+    "zh": "“这位的名字是山田花。拜托了。”",
+    "ja": "「この方の名前は、ヤマダハナです。お願いします。」",
+    "romaji": "'Kono kata no namae wa, Yamada Hana desu. Onegaishimasu.'"
+  },
+  "vl8.c2_formal": {
+    "en": "“This person is called Hana Yamada. I humbly ask for your kind arrangement.”",
+    "ru": "«Эту госпожу зовут Хана Ямада. Покорнейше прошу вашего содействия».",
+    "zh": "“这位叫山田花。还请您多多关照。”",
+    "ja": "「こちらは、ヤマダハナと申します。何卒、よろしくお取り計らいください。」",
+    "romaji": "'Kochira wa, Yamada Hana to moushimasu. Nanitozo, yoroshiku otorihakarai kudasai.'"
+  },
+  "vl8.c2_mistake": {
+    "en": "“This person's onamae is Hana Yamada.”",
+    "ru": "«Имя (онамаэ) этой женщины — Хана Ямада».",
+    "zh": "“这位的『お名前』是山田花。”",
+    "ja": "「この方の、お名前は、ヤマダハナです。」",
+    "romaji": "'Kono kata no, onamae wa, Yamada Hana desu.'"
+  },
+  "vl8.c2_own": {
+    "en": "“Hana Yamada. She is Ken's grandmother. She feels a little dizzy.”",
+    "ru": "«Хана Ямада. Это бабушка Кена. У неё немного кружится голова».",
+    "zh": "“山田花。是健的奶奶。她有点头晕。”",
+    "ja": "「ヤマダハナです。ケンさんの、おばあさんです。少し、めまいがします。」",
+    "romaji": "'Yamada Hana desu. Ken-san no, obaasan desu. Sukoshi, memai ga shimasu.'"
+  },
+  "vl8.c2_min": {
+    "en": "“Um... Yamada...”",
+    "ru": "«Э-э… Ямада…»",
+    "zh": "“呃……山田……”",
+    "ja": "「あの…ヤマダ…」",
+    "romaji": "'Ano... Yamada...'"
+  },
+  "vl8.p2_nat_mei": {
+    "en": "Hana Yamada. The receptionist wrote it down.",
+    "ru": "Хана Ямада. Сотрудница записала.",
+    "zh": "山田花女士。工作人员帮我们记下来了。",
+    "ja": "ヤマダハナさんですね。受付の人が、書いてくれました。",
+    "romaji": "Yamada Hana-san desu ne. Uketsuke no hito ga, kaite kuremashita."
+  },
+  "vl8.p2_form_ken": {
+    "en": "Haha, the receptionist looks a little troubled. Just “Yamada Hana desu” is fine.",
+    "ru": "Ха-ха, сотрудница регистратуры слегка растерялась. Достаточно просто «Ямада Хана дэс».",
+    "zh": "哈哈，工作人员有点不知所措了。只说「ヤマダハナです」就可以了。",
+    "ja": "あはは、受付の人が、少しこまっていますよ。「ヤマダハナです」だけで、大丈夫です。",
+    "romaji": "Ahaha, uketsuke no hito ga, sukoshi komatte imasu yo. 'Yamada Hana desu' dake de, daijoubu desu."
+  },
+  "vl8.p2_mis_tanaka": {
+    "en": "Close. Since it is someone else's name, “onamae” is acceptable. But “namae” sounds more natural here. When explaining to another person, try not to overuse “o.”",
+    "ru": "Почти. Раз это чужое имя, «онамаэ» допустимо. Но «намаэ» здесь звучит естественнее. Объясняя другому, старайтесь не злоупотреблять «о».",
+    "zh": "很接近。因为是别人的名字，说「お名前」也可以。不过在这里说「名前」更自然。向别人说明时，尽量不要过度使用「お」。",
+    "ja": "おしいです。ほかの人の名前だから、「お名前」でも、いいです。でも、「名前」が自然です。人に説明するときは、「お」を使いすぎないようにしましょう。",
+    "romaji": "Oshii desu. Hoka no hito no namae dakara, 'onamae' demo, ii desu. Demo, 'namae' ga shizen desu. Hito ni setsumei suru toki wa, 'o' o tsukaisuginai you ni shimashou."
+  },
+  "vl8.p2_mis_retry": {
+    "en": "Oh, this person's name is Hana Yamada.",
+    "ru": "Ой, эту женщину зовут Хана Ямада.",
+    "zh": "啊，这位的名字是山田花。",
+    "ja": "あっ、この方の名前は、ヤマダハナです。",
+    "romaji": "A, kono kata no namae wa, Yamada Hana desu."
+  },
+  "vl8.p2_mis_relief": {
+    "en": "Yes, that's it. It got across properly.",
+    "ru": "Да, именно так. Всё передано верно.",
+    "zh": "对，就是这个。已经准确传达了。",
+    "ja": "はい、それです。ちゃんと伝わりましたよ。",
+    "romaji": "Hai, sore desu. Chanto tsutawarimashita yo."
+  },
+  "vl8.p2_own_mei": {
+    "en": "Wonderful. You conveyed her condition at the same time.",
+    "ru": "Замечательно. Вы одновременно сообщили и о её состоянии.",
+    "zh": "太棒了。你连她的身体状况也一并说明了。",
+    "ja": "すばらしい。体の様子も、いっしょに伝えられました。",
+    "romaji": "Subarashii. Karada no yousu mo, issho ni tsutaeraremashita."
+  },
+  "vl8.p2_min_yuki": {
+    "en": "Let's say it properly: “Yamada Hana desu.” It makes it easier for the receptionist to hear.",
+    "ru": "Скажем как следует: «Ямада Хана дэс». Так сотруднице будет легче расслышать.",
+    "zh": "好好地说「ヤマダハナです」吧。这样工作人员更容易听清。",
+    "ja": "ちゃんと、「ヤマダハナです」と言いましょう。受付の人が、聞き取りやすくなります。",
+    "romaji": "Chanto, 'Yamada Hana desu' to iimashou. Uketsuke no hito ga, kikitoriyasuku narimasu."
+  },
+  "vl8.wait": {
+    "en": "Reception is done. After a while, a nurse guides Grandma to the examination room.",
+    "ru": "Регистрация закончена. Через некоторое время медсестра проводит бабушку в смотровой кабинет.",
+    "zh": "挂号完成了。过了一会儿，护士带奶奶去了诊室。",
+    "ja": "受付が終わった。しばらくして、看護師さんが、おばあちゃんを診察室に案内した。",
+    "romaji": "Uketsuke ga owatta. Shibaraku shite, kangoshi-san ga, obaachan o shinsatsushitsu ni annai shita."
+  },
+  "vl8.w5": {
+    "en": "When you enter a room, you say “shitsurei shimasu.” When you leave, you say “shitsurei shimasu” too.",
+    "ru": "Когда входите в комнату, говорят «сицурэй симас». И когда выходите, тоже «сицурэй симас».",
+    "zh": "进入房间时，说「失礼します」。离开房间时，也说「失礼します」。",
+    "ja": "部屋に入るときは、「失礼します」と言います。出るときも、「失礼します」です。",
+    "romaji": "Heya ni hairu toki wa, 'shitsurei shimasu' to iimasu. Deru toki mo, 'shitsurei shimasu' desu."
+  },
+  "vl8.w5_q": {
+    "en": "How is it different from “sumimasen”?",
+    "ru": "Чем это отличается от «сумимасэн»?",
+    "zh": "它和「すみません」有什么不同？",
+    "ja": "「すみません」と、何がちがいますか？",
+    "romaji": "'Sumimasen' to, nani ga chigaimasu ka?"
+  },
+  "vl8.w5_a": {
+    "en": "“Shitsurei shimasu” is a polite phrase. You use it when entering someone's room or ending a phone call. It is a much more formal way of speaking than “sumimasen.”",
+    "ru": "«Сицурэй симас» — вежливая фраза. Её используют, когда входят в чью-то комнату или заканчивают телефонный разговор. Это гораздо более формальная манера, чем «сумимасэн».",
+    "zh": "「失礼します」是礼貌的说法。进入别人房间或挂断电话时使用。比「すみません」正式得多。",
+    "ja": "「失礼します」は、ていねいな言葉です。人の部屋に入るときや、電話を切るときに使います。「すみません」より、ずっとあらたまった言い方です。",
+    "romaji": "'Shitsurei shimasu' wa, teinei na kotoba desu. Hito no heya ni hairu toki ya, denwa o kiru toki ni tsukaimasu. 'Sumimasen' yori, zutto aratamatta iikata desu."
+  },
+  "vl8.p3_prompt": {
+    "en": "You are in front of the examination room. After knocking on the door, you enter. What do you say?",
+    "ru": "Вы стоите перед смотровым кабинетом. Постучав в дверь, вы входите. Что вы скажете?",
+    "zh": "你站在诊室门前。敲门之后，走进房间。你会怎么说？",
+    "ja": "診察室の前です。ドアをノックしたあと、中に入ります。何と言いますか？",
+    "romaji": "Shinsatsushitsu no mae desu. Doa o nokku shita ato, naka ni hairimasu. Nan to iimasu ka?"
+  },
+  "vl8.c3_natural": {
+    "en": "“Excuse me for entering.”",
+    "ru": "«Разрешите войти».",
+    "zh": "“打扰了。”",
+    "ja": "「失礼します。」",
+    "romaji": "'Shitsurei shimasu.'"
+  },
+  "vl8.c3_formal": {
+    "en": "“Forgive me for troubling you when you are busy. I shall now enter, with your permission.”",
+    "ru": "«Прошу прощения, что отвлекаю вас в занятое время. С вашего позволения, сейчас я войду».",
+    "zh": "“百忙之中打扰您，实在抱歉。现在请允许我入内。”",
+    "ja": "「お忙しいところ、大変失礼いたします。ただいま、入室させていただきます。」",
+    "romaji": "'Oisogashii tokoro, taihen shitsurei itashimasu. Tadaima, nyuushitsu sasete itadakimasu.'"
+  },
+  "vl8.c3_mistake": {
+    "en": "“I'm home!”",
+    "ru": "«Я дома!»",
+    "zh": "“我回来了！”",
+    "ja": "「ただいま！」",
+    "romaji": "'Tadaima!'"
+  },
+  "vl8.c3_own": {
+    "en": "“Excuse me. I am accompanying Ms. Hana Yamada. Thank you for your care.”",
+    "ru": "«Разрешите войти. Я сопровождаю госпожу Хану Ямаду. Заранее благодарю за помощь».",
+    "zh": "“打扰了。我是陪同山田花女士来的。请多关照。”",
+    "ja": "「失礼します。ヤマダハナさんの、付き添いです。よろしくお願いします。」",
+    "romaji": "'Shitsurei shimasu. Yamada Hana-san no, tsukisoi desu. Yoroshiku onegaishimasu.'"
+  },
+  "vl8.c3_min": {
+    "en": "“Ah... I'm coming in...”",
+    "ru": "«А… захожу…»",
+    "zh": "“啊……我进来了……”",
+    "ja": "「あ…入ります…」",
+    "romaji": "'A... hairimasu...'"
+  },
+  "vl8.p3_nat_mei": {
+    "en": "You knocked properly and said “shitsurei shimasu.” A very neat greeting.",
+    "ru": "Вы как следует постучали и сказали «сицурэй симас». Очень опрятное приветствие.",
+    "zh": "好好敲了门，说了「失礼します」。是个很得体的问候。",
+    "ja": "ちゃんとノックして、「失礼します」。とても、きれいなあいさつです。",
+    "romaji": "Chanto nokku shite, 'shitsurei shimasu'. Totemo, kirei na aisatsu desu."
+  },
+  "vl8.p3_form_yuki": {
+    "en": "Ha, that's too long. Just “shitsurei shimasu” is enough, and the doctor will welcome you pleasantly.",
+    "ru": "Ха-ха, слишком длинно. Достаточно «сицурэй симас», и врач приветливо вас встретит.",
+    "zh": "呵呵，太长了。只说「失礼します」，医生也会愉快地迎接你。",
+    "ja": "ふふ、長すぎます。「失礼します」だけで、先生も、気持ちよく迎えてくれますよ。",
+    "romaji": "Fufu, nagasugimasu. 'Shitsurei shimasu' dake de, sensei mo, kimochi yoku mukaete kuremasu yo."
+  },
+  "vl8.p3_mis_ken": {
+    "en": "Oh, “tadaima” is for returning to your own home. This is a hospital, so it's “shitsurei shimasu.”",
+    "ru": "Ой, «тадаима» — это когда вы возвращаетесь в свой дом. Это больница, поэтому нужно «сицурэй симас».",
+    "zh": "啊，「ただいま」是回到自己家时说的。这里是医院，应该说「失礼します」。",
+    "ja": "あっ、「ただいま」は、自分の家に帰ったときですよ。ここは病院です。「失礼します」ですね。",
+    "romaji": "A, 'tadaima' wa, jibun no ie ni kaetta toki desu yo. Koko wa byouin desu. 'Shitsurei shimasu' desu ne."
+  },
+  "vl8.p3_mis_retry": {
+    "en": "Oh, excuse me for entering.",
+    "ru": "Ой, разрешите войти.",
+    "zh": "啊，打扰了。",
+    "ja": "あっ、失礼します。",
+    "romaji": "A, shitsurei shimasu."
+  },
+  "vl8.p3_mis_relief": {
+    "en": "Yes, that's it! Let's enter slowly.",
+    "ru": "Да, именно так! Давайте войдём не спеша.",
+    "zh": "对，就是这个！我们慢慢进去吧。",
+    "ja": "はい、それです！ゆっくり、入りましょう。",
+    "romaji": "Hai, sore desu! Yukkuri, hairimashou."
+  },
+  "vl8.p3_own_tanaka": {
+    "en": "Wonderful. Telling the doctor you are accompanying her makes it easier for them to talk with you.",
+    "ru": "Замечательно. Если сообщить, что вы сопровождающий, врачу будет легче с вами разговаривать.",
+    "zh": "太好了。说明自己是陪同人员，医生也更容易沟通。",
+    "ja": "すばらしい。付き添いだと伝えると、先生も、話しやすくなります。",
+    "romaji": "Subarashii. Tsukisoi da to tsutaeru to, sensei mo, hanashiyasuku narimasu."
+  },
+  "vl8.p3_min_mei": {
+    "en": "It's okay. Next time, try saying “shitsurei shimasu” before you enter.",
+    "ru": "Всё нормально. В следующий раз попробуйте сказать «сицурэй симас» перед тем, как войти.",
+    "zh": "没关系。下次试着在进去之前说「失礼します」。",
+    "ja": "大丈夫ですよ。次は、「失礼します」と、入る前に言ってみましょう。",
+    "romaji": "Daijoubu desu yo. Tsugi wa, 'shitsurei shimasu' to, hairu mae ni itte mimashou."
+  },
+  "vl8.doctor": {
+    "en": "The doctor tells Grandma, “Please open your mouth.” Grandma slowly opens her mouth.",
+    "ru": "Врач говорит бабушке: «Откройте рот, пожалуйста». Бабушка медленно открывает рот.",
+    "zh": "医生对奶奶说：“请张开嘴。”奶奶慢慢地张开了嘴。",
+    "ja": "お医者さんが、おばあちゃんに言った。「口を、開けてください。」おばあちゃんは、ゆっくり、口を開けた。",
+    "romaji": "Oishasan ga, obaachan ni itta. 'Kuchi o, akete kudasai.' Obaachan wa, yukkuri, kuchi o aketa."
+  },
+  "vl8.w6": {
+    "en": "This is “akeru,” to open. It means to put something like a door, a mouth, or a window into an open state. You use it like “doa o akeru.”",
+    "ru": "Это «акэру» — открывать. Оно означает привести дверь, рот или окно в открытое состояние. Используется, например, «доа о акэру».",
+    "zh": "这就是「開ける」。指把门、嘴、窗户等变成打开的状态。用法如「ドアを開ける」。",
+    "ja": "これが「開ける」です。ドアや口や、まどなどを、開いた状態にすることです。「ドアを開ける」のように使います。",
+    "romaji": "Kore ga 'akeru' desu. Doa ya kuchi ya, mado nado o, aita joutai ni suru koto desu. 'Doa o akeru' no you ni tsukaimasu."
+  },
+  "vl8.w6_q": {
+    "en": "Are “doa ga aku” and “doa o akeru” different?",
+    "ru": "«Доа га аку» и «доа о акэру» — это разное?",
+    "zh": "「ドアが開く」和「ドアを開ける」有区别吗？",
+    "ja": "「ドアが開く」と、「ドアを開ける」は、ちがいますか？",
+    "romaji": "'Doa ga aku' to, 'doa o akeru' wa, chigaimasu ka?"
+  },
+  "vl8.w6_a": {
+    "en": "Yes. “Doa ga aku” means a door opens by itself. “Doa o akeru” means a person opens the door.",
+    "ru": "Да. «Доа га аку» — дверь открывается сама. «Доа о акэру» — человек открывает дверь.",
+    "zh": "是的。「ドアが開く」是门自己打开。「ドアを開ける」是人把门打开。",
+    "ja": "はい。「ドアが開く」は、ドアが、自然に開くことです。「ドアを開ける」は、人が、ドアを開けることです。",
+    "romaji": "Hai. 'Doa ga aku' wa, doa ga, shizen ni hiraku koto desu. 'Doa o akeru' wa, hito ga, doa o akeru koto desu."
+  },
+  "vl8.medicine": {
+    "en": "After the examination, the doctor says, “There's no serious problem. Please take the medicine after meals.”",
+    "ru": "После осмотра врач говорит: «Серьёзных проблем нет. Принимайте лекарство после еды».",
+    "zh": "检查之后，医生说：“没有大问题。药请在饭后服用。”",
+    "ja": "診察のあと、お医者さんが、言った。「大きな問題は、ありません。薬は、食後に、飲んでください。」",
+    "romaji": "Shinsatsu no ato, oishasan ga, itta. 'Ookina mondai wa, arimasen. Kusuri wa, shokugo ni, nonde kudasai.'"
+  },
+  "vl8.w7": {
+    "en": "“Shokugo” means after eating a meal. The opposite is “shokuzen,” before meals. You often hear it in medicine instructions.",
+    "ru": "«Сёкуго» — это время после еды. Противоположное — «сёкудзэн», до еды. Это слово часто слышишь в инструкциях к лекарствам.",
+    "zh": "「食後」是吃完饭之后。反义词是「食前」。在药品说明中经常听到。",
+    "ja": "「食後」は、ごはんを食べたあとのことです。反対は、「食前」です。薬の説明で、よく聞きます。",
+    "romaji": "'Shokugo' wa, gohan o tabeta ato no koto desu. Hantai wa, 'shokuzen' desu. Kusuri no setsumei de, yoku kikimasu."
+  },
+  "vl8.w7_q": {
+    "en": "When do you take it after a meal? Right away?",
+    "ru": "Когда принимать после еды? Сразу?",
+    "zh": "「食後」是什么时候吃？马上吗？",
+    "ja": "「食後」は、いつ飲みますか？すぐですか？",
+    "romaji": "'Shokugo' wa, itsu nomimasu ka? Sugu desu ka?"
+  },
+  "vl8.w7_a": {
+    "en": "Roughly within thirty minutes of eating. But the best thing is to ask the doctor or the pharmacist.",
+    "ru": "Примерно в течение тридцати минут после еды. Но лучше всего спросить у врача или в аптеке.",
+    "zh": "大概是吃完后三十分钟以内。不过最好还是问医生或药店的人。",
+    "ja": "だいたい、食べてから三十分以内です。でも、お医者さんや薬局の人に、聞くのがいちばんです。",
+    "romaji": "Daitai, tabete kara sanjuppun inai desu. Demo, oishasan ya yakkyoku no hito ni, kiku no ga ichiban desu."
+  },
+  "vl8.pharmacy": {
+    "en": "Leaving the hospital, everyone comes to a nearby pharmacy. The medicine is on a high shelf. Grandma's hand can't reach it.",
+    "ru": "Выйдя из больницы, все идут в ближайшую аптеку. Лекарство лежит на высокой полке. Рука бабушки до неё не достаёт.",
+    "zh": "出了医院，大家来到附近的药店。药放在高高的架子上，奶奶的手够不到。",
+    "ja": "病院を出て、みんなは、近くの薬局に来た。薬が、高い棚に置いてある。おばあちゃんの手は、そこに届かない。",
+    "romaji": "Byouin o dete, minna wa, chikaku no yakkyoku ni kita. Kusuri ga, takai tana ni oite aru. Obaachan no te wa, soko ni todokanai."
+  },
+  "vl8.w8": {
+    "en": "“Todoku” means that a hand, a voice, or a package reaches somewhere. “Te ga todokanai” means your hand can't reach there.",
+    "ru": "«Тодоку» означает, что рука, голос или посылка достигает какого-то места. «Тэ га тодокунай» — рука туда не достаёт.",
+    "zh": "「届く」指手、声音或包裹到达某处。「手が届かない」就是手够不到那里。",
+    "ja": "「届く」は、手や声や荷物が、そこまで行くことです。「手が届かない」は、手が、そこまで行かないということです。",
+    "romaji": "'Todoku' wa, te ya koe ya nimotsu ga, soko made iku koto desu. 'Te ga todokanai' wa, te ga, soko made ikanai to iu koto desu."
+  },
+  "vl8.g_reach": {
+    "en": "Please take that medicine down for me. My hand can't reach it.",
+    "ru": "Возьмите, пожалуйста, то лекарство. Моя рука до него не достаёт.",
+    "zh": "请把那盒药拿下来。我的手够不到。",
+    "ja": "あの薬を、取ってください。手が届かないんです。",
+    "romaji": "Ano kusuri o, totte kudasai. Te ga todokanai n desu."
+  },
+  "vl8.w9": {
+    "en": "This is “toru,” to take. It means to grab something by hand and bring it toward yourself.",
+    "ru": "Это «тору» — брать. Это значит взять что-то рукой и принести к себе.",
+    "zh": "这就是「取る」。用手抓住东西，拿到自己这边来。",
+    "ja": "これが、「取る」です。手で、ものをつかんで、自分のほうへ持ってくることです。",
+    "romaji": "Kore ga, 'toru' desu. Te de, mono o tsukande, jibun no hou e motte kuru koto desu."
+  },
+  "vl8.p4_prompt": {
+    "en": "Grandma says, “Please take that medicine down for me.” You are tall. What do you say?",
+    "ru": "Бабушка говорит: «Возьмите, пожалуйста, то лекарство». Вы высокий. Что вы скажете?",
+    "zh": "奶奶说：“请把那盒药拿下来。”你个子很高。你会怎么说？",
+    "ja": "おばあちゃんが、「あの薬を、取ってください」と言いました。あなたは、背が高いです。何と言いますか？",
+    "romaji": "Obaachan ga, 'Ano kusuri o, totte kudasai' to iimashita. Anata wa, se ga takai desu. Nan to iimasu ka?"
+  },
+  "vl8.c4_natural": {
+    "en": "“Yes, I'll take it. Here you are.”",
+    "ru": "«Да, я возьму. Пожалуйста».",
+    "zh": "“好的，我来拿。给您。”",
+    "ja": "「はい、取ります。どうぞ。」",
+    "romaji": "'Hai, torimasu. Douzo.'"
+  },
+  "vl8.c4_formal": {
+    "en": "“Certainly. I shall take it down right away.”",
+    "ru": "«Слушаюсь. Сейчас же достану».",
+    "zh": "“明白了。我马上为您取下来。”",
+    "ja": "「かしこまりました。ただいま、お取りいたします。」",
+    "romaji": "'Kashikomarimashita. Tadaima, otori itashimasu.'"
+  },
+  "vl8.c4_mistake": {
+    "en": "“Yes, I'll open it.”",
+    "ru": "«Да, я открою».",
+    "zh": "“好的，我来打开。”",
+    "ja": "「はい、開けます。」",
+    "romaji": "'Hai, akemasu.'"
+  },
+  "vl8.c4_own": {
+    "en": "“Is it this one? I'll take it. It must have been hard when you couldn't reach it.”",
+    "ru": "«Вот это? Сейчас возьму. Вам, должно быть, было трудно, что вы не могли дотянуться».",
+    "zh": "“是这个吗？我来拿。您够不到，一定很不方便吧。”",
+    "ja": "「これですか？取りますね。手が届かなくて、大変でしたね。」",
+    "romaji": "'Kore desu ka? Torimasu ne. Te ga todokanakute, taihen deshita ne.'"
+  },
+  "vl8.c4_min": {
+    "en": "“Ah... yes...”",
+    "ru": "«А… да…»",
+    "zh": "“啊……好的……”",
+    "ja": "「あ…はい…」",
+    "romaji": "'A... hai...'"
+  },
+  "vl8.p4_nat_grandma": {
+    "en": "Thank you. That was a big help.",
+    "ru": "Спасибо. Вы очень помогли.",
+    "zh": "谢谢。帮了大忙了。",
+    "ja": "ありがとう。助かりました。",
+    "romaji": "Arigatou. Tasukarimashita."
+  },
+  "vl8.p4_form_grandma": {
+    "en": "Oh my, you sound like a shop clerk. “Hai, torimasu” is enough.",
+    "ru": "Ой-ой, как продавец в магазине. Достаточно «хай, торимас».",
+    "zh": "哎呀哎呀，像店员一样呢。说「はい、取ります」就足够了。",
+    "ja": "あらあら、お店の人みたいですね。「はい、取ります」で、じゅうぶんですよ。",
+    "romaji": "Ara ara, omise no hito mitai desu ne. 'Hai, torimasu' de, juubun desu yo."
+  },
+  "vl8.p4_mis_ken": {
+    "en": "Huh? We're not opening the medicine yet. Here it's “toru.”",
+    "ru": "Ой? Лекарство мы пока не открываем. Здесь нужно «тору».",
+    "zh": "咦？药现在还不用打开。这里应该说「取る」。",
+    "ja": "あれ？薬は、まだ開けませんよ。ここは、「取る」です。",
+    "romaji": "Are? Kusuri wa, mada akemasen yo. Koko wa, 'toru' desu."
+  },
+  "vl8.p4_mis_retry": {
+    "en": "Oh, yes, I'll take it. Here you are.",
+    "ru": "Ой, да, я возьму. Пожалуйста.",
+    "zh": "啊，好的，我来拿。给您。",
+    "ja": "あっ、はい、取ります。どうぞ。",
+    "romaji": "A, hai, torimasu. Douzo."
+  },
+  "vl8.p4_mis_relief": {
+    "en": "Thank you. Well done.",
+    "ru": "Спасибо. Молодец.",
+    "zh": "谢谢。做得好。",
+    "ja": "ありがとう。よくできました。",
+    "romaji": "Arigatou. Yoku dekimashita."
+  },
+  "vl8.p4_own_grandma": {
+    "en": "How kind. Thank you. Thanks to you, I feel at ease.",
+    "ru": "Как мило. Спасибо. Благодаря вам я успокоилась.",
+    "zh": "你真体贴。谢谢。多亏你，我放心了。",
+    "ja": "やさしいですね。ありがとう。おかげで、安心しました。",
+    "romaji": "Yasashii desu ne. Arigatou. Okage de, anshin shimashita."
+  },
+  "vl8.p4_min_mei": {
+    "en": "Instead of just saying yes, let's say “torimasu.”",
+    "ru": "Вместо простого «да» скажем «торимас».",
+    "zh": "除了说“好”，也试着说「取ります」吧。",
+    "ja": "はい、と言うだけでなく、「取ります」と、言ってみましょう。",
+    "romaji": "Hai, to iu dake de naku, 'torimasu' to, itte mimashou."
+  },
+  "vl8.slow": {
+    "en": "Leaving the pharmacy, everyone starts to walk home. But everyone's pace is a little too fast.",
+    "ru": "Выйдя из аптеки, все идут домой. Но темп у всех слишком быстрый.",
+    "zh": "出了药店，大家开始朝家里走。可是大家走得有点太快了。",
+    "ja": "薬局を出て、みんなは、家に向かって歩きはじめた。でも、みんなの足は、少し早すぎた。",
+    "romaji": "Yakkyoku o dete, minna wa, ie ni mukatte arukihajimeta. Demo, minna no ashi wa, sukoshi hayasugita."
+  },
+  "vl8.g_wait": {
+    "en": "Wait a moment. My legs can't keep up.",
+    "ru": "Подождите немного. Мои ноги не поспевают.",
+    "zh": "等一下。我的腿跟不上了。",
+    "ja": "ちょっと待って。足が、ついていけないんです。",
+    "romaji": "Chotto matte. Ashi ga, tsuiteikenai n desu."
+  },
+  "vl8.w10": {
+    "en": "This is “chotto matte.” You say it when you want the other person to wait for a little while. You use it with friends and family.",
+    "ru": "Это «чётто мацутэ». Так говорят, когда хотят, чтобы собеседник немного подождал. Это фраза для друзей и семьи.",
+    "zh": "这就是「ちょっと待って」。希望对方稍等一会儿时使用。对朋友和家人用。",
+    "ja": "これが「ちょっと待って」です。相手に、少しの間、待ってほしいときに言います。友達や家族に使います。",
+    "romaji": "Kore ga 'chotto matte' desu. Aite ni, sukoshi no aida, matte hoshii toki ni iimasu. Tomodachi ya kazoku ni tsukaimasu."
+  },
+  "vl8.w10_q": {
+    "en": "What do you say to a teacher or shop staff?",
+    "ru": "А что говорят учителю или сотруднику магазина?",
+    "zh": "对老师或店员该怎么说？",
+    "ja": "先生や、お店の人には、何と言いますか？",
+    "romaji": "Sensei ya, omise no hito ni wa, nan to iimasu ka?"
+  },
+  "vl8.w10_a": {
+    "en": "You say “shoushou, omachi kudasai” or “chotto matte kudasai.” Using the polite form is the safe choice.",
+    "ru": "Говорят «сёсё, омати кудасай» или «чётто мацутэ кудасай». Вежливая форма — надёжный выбор.",
+    "zh": "说「少々、お待ちください」或「ちょっと待ってください」。用礼貌的形式更保险。",
+    "ja": "「少々、お待ちください」や、「ちょっと待ってください」と言います。ていねいな形にすると、安心です。",
+    "romaji": "'Shoushou, omachi kudasai' ya, 'chotto matte kudasai' to iimasu. Teinei na katachi ni suru to, anshin desu."
+  },
+  "vl8.p5_prompt": {
+    "en": "Grandma says, “Chotto matte.” You were walking too fast. What do you say?",
+    "ru": "Бабушка говорит: «Чётто мацутэ». Вы шли слишком быстро. Что вы скажете?",
+    "zh": "奶奶说：“ちょっと待って。”你走得太快了。你会怎么说？",
+    "ja": "おばあちゃんが、「ちょっと待って」と言いました。あなたは、早く歩きすぎました。何と言いますか？",
+    "romaji": "Obaachan ga, 'Chotto matte' to iimashita. Anata wa, hayaku arukisugimashita. Nan to iimasu ka?"
+  },
+  "vl8.c5_natural": {
+    "en": "“Yes, I'll wait. Let's walk slowly.”",
+    "ru": "«Да, подожду. Давайте идти не спеша».",
+    "zh": "“好的，我等您。我们慢慢走吧。”",
+    "ja": "「はい、待ちます。ゆっくり、歩きましょう。」",
+    "romaji": "'Hai, machimasu. Yukkuri, arukimashou.'"
+  },
+  "vl8.c5_formal": {
+    "en": "“Understood. Please do not overexert yourself, and mind your step.”",
+    "ru": "«Слушаюсь. Не перенапрягайтесь, пожалуйста, и будьте осторожны, где ступаете».",
+    "zh": "“明白了。请不要勉强，注意脚下。”",
+    "ja": "「かしこまりました。ご無理なさらないよう、お足元にお気をつけください。」",
+    "romaji": "'Kashikomarimashita. Gomuri nasaranai you, oashimoto ni oki o tsukete kudasai.'"
+  },
+  "vl8.c5_mistake": {
+    "en": "“No, I won't wait.”",
+    "ru": "«Нет, я не буду ждать».",
+    "zh": "“不，我不等。”",
+    "ja": "「いいえ、待ちません。」",
+    "romaji": "'Iie, machimasen.'"
+  },
+  "vl8.c5_own": {
+    "en": "“Oh, I'm sorry. I was walking too fast. Please take my hand.”",
+    "ru": "«Ой, простите. Я шёл слишком быстро. Пожалуйста, возьмитесь за мою руку».",
+    "zh": "“啊，对不起。我走得太快了。请扶着我的手。”",
+    "ja": "「あっ、すみません。歩くのが、早かったですね。手を、どうぞ。」",
+    "romaji": "'A, sumimasen. Aruku no ga, hayakatta desu ne. Te o, douzo.'"
+  },
+  "vl8.c5_min": {
+    "en": "“Ah... yeah...”",
+    "ru": "«А… ну…»",
+    "zh": "“啊……嗯……”",
+    "ja": "「あ…うん…」",
+    "romaji": "'A... un...'"
+  },
+  "vl8.p5_nat_grandma": {
+    "en": "Thank you. Walking slowly feels pleasant.",
+    "ru": "Спасибо. Идти не спеша — приятно.",
+    "zh": "谢谢。慢慢走，感觉很舒服呢。",
+    "ja": "ありがとう。ゆっくり歩くと、気持ちがいいですね。",
+    "romaji": "Arigatou. Yukkuri aruku to, kimochi ga ii desu ne."
+  },
+  "vl8.p5_form_ken": {
+    "en": "Haha, Grandma is laughing. “Hai, machimasu” is fine.",
+    "ru": "Ха-ха, бабушка смеётся. Достаточно «хай, матимас».",
+    "zh": "哈哈，奶奶在笑呢。说「はい、待ちます」就好。",
+    "ja": "あはは、おばあちゃんが、笑っていますよ。「はい、待ちます」で、大丈夫です。",
+    "romaji": "Ahaha, obaachan ga, waratte imasu yo. 'Hai, machimasu' de, daijoubu desu."
+  },
+  "vl8.p5_mis_yuki": {
+    "en": "Huh!? Grandma will be troubled. When someone says “chotto matte,” let's wait.",
+    "ru": "Что!? Бабушка расстроится. Когда говорят «чётто мацутэ», нужно подождать.",
+    "zh": "什么！？奶奶会为难的。有人说「ちょっと待って」时，我们要等一下。",
+    "ja": "えっ！？おばあちゃんが、こまってしまいますよ。「ちょっと待って」と言われたら、待ちましょう。",
+    "romaji": "E!? Obaachan ga, komatte shimaimasu yo. 'Chotto matte' to iwaretara, machimashou."
+  },
+  "vl8.p5_mis_retry": {
+    "en": "Oh, I'm sorry. I'll wait. Let's walk slowly.",
+    "ru": "Ой, простите. Я подожду. Давайте идти не спеша.",
+    "zh": "啊，对不起。我等您。我们慢慢走吧。",
+    "ja": "あっ、ごめんなさい。待ちます。ゆっくり、歩きましょう。",
+    "romaji": "A, gomennasai. Machimasu. Yukkuri, arukimashou."
+  },
+  "vl8.p5_mis_relief": {
+    "en": "Yes, thank you. You are a kind child.",
+    "ru": "Да, спасибо. Вы добрый ребёнок.",
+    "zh": "好的，谢谢。你是个体贴的孩子。",
+    "ja": "はい、ありがとう。あなたは、やさしい子ですね。",
+    "romaji": "Hai, arigatou. Anata wa, yasashii ko desu ne."
+  },
+  "vl8.p5_own_grandma": {
+    "en": "Thank you. Your hand is warm.",
+    "ru": "Спасибо. У вас тёплая рука.",
+    "zh": "谢谢。你的手真暖和。",
+    "ja": "ありがとう。あなたの手は、あたたかいですね。",
+    "romaji": "Arigatou. Anata no te wa, atatakai desu ne."
+  },
+  "vl8.p5_min_mei": {
+    "en": "If you say clearly, “hai, machimasu,” Grandma will feel reassured.",
+    "ru": "Если сказать чётко «хай, матимас», бабушка успокоится.",
+    "zh": "如果清楚地说「はい、待ちます」，奶奶也会放心。",
+    "ja": "「はい、待ちます」と、はっきり言うと、おばあちゃんも、安心しますよ。",
+    "romaji": "'Hai, machimasu' to, hakkiri iu to, obaachan mo, anshin shimasu yo."
+  },
+  "vl8.home": {
+    "en": "In the evening, they arrive at Ken's home. Grandma sits down slowly and sips warm tea.",
+    "ru": "Вечером все приходят домой к Кену. Бабушка неторопливо садится и пьёт горячий чай.",
+    "zh": "傍晚，大家到了健的家。奶奶慢慢坐下，喝着热茶。",
+    "ja": "夕方、ケンの家に着いた。おばあちゃんは、ゆっくり座って、あたたかいお茶を飲んでいる。",
+    "romaji": "Yuugata, Ken no ie ni tsuita. Obaachan wa, yukkuri suwatte, atatakai ocha o nonde iru."
+  },
+  "vl8.talk_open": {
+    "en": "Now let's talk. Out of today's ten words, which one is most useful when you're in trouble in town?",
+    "ru": "Теперь поговорим. Какое из сегодняшних десяти слов будет самым полезным, когда вы попадёте в затруднительное положение в городе?",
+    "zh": "现在来聊聊。今天这十个词里，在街上遇到困难时，哪个词最有用？",
+    "ja": "では、話しましょう。今日の十の言葉の中で、町で困ったとき、いちばん役に立つ言葉は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no juu no kotoba no naka de, machi de komatta toki, ichiban yaku ni tatsu kotoba wa, dore desu ka?"
+  },
+  "vl8.talk_mei": {
+    "en": "For me, it's “oshieru.” Just being able to ask “oshiete kudasai” about the way gives me peace of mind.",
+    "ru": "Для меня это «осиэру». Уже одно то, что можно спросить дорогу «осиэтэ кудасай», успокаивает.",
+    "zh": "我是「教える」。只要能问路说「教えてください」，我就安心了。",
+    "ja": "わたしは、「教える」です。道を「教えてください」と、聞けるだけで、安心です。",
+    "romaji": "Watashi wa, 'oshieru' desu. Michi o 'oshiete kudasai' to, kikeru dake de, anshin desu."
+  },
+  "vl8.talk_ken": {
+    "en": "For me, it's “chotto matte.” I finally understood how Grandma felt.",
+    "ru": "Для меня это «чётто мацутэ». Я наконец понял чувства бабушки.",
+    "zh": "我是「ちょっと待って」。我终于明白了奶奶的心情。",
+    "ja": "ぼくは、「ちょっと待って」です。おばあちゃんの気持ちが、やっと分かりました。",
+    "romaji": "Boku wa, 'chotto matte' desu. Obaachan no kimochi ga, yatto wakarimashita."
+  },
+  "vl8.talk_yuki": {
+    "en": "For me, it's “shitsurei shimasu.” A polite greeting conveyed our feelings.",
+    "ru": "Для меня это «сицурэй симас». Вежливое приветствие передало наши чувства.",
+    "zh": "我是「失礼します」。礼貌的问候传达了我们的心意。",
+    "ja": "わたしは、「失礼します」です。ていねいなあいさつで、気持ちが伝わりました。",
+    "romaji": "Watashi wa, 'shitsurei shimasu' desu. Teinei na aisatsu de, kimochi ga tsutawarimashita."
+  },
+  "vl8.talk_grandma": {
+    "en": "Thank you all so much. It feels as if I've gained a lot of family.",
+    "ru": "Огромное спасибо всем. Такое чувство, будто у меня стало много родных.",
+    "zh": "真的谢谢大家。我感觉自己多了好多家人。",
+    "ja": "みんな、本当にありがとう。わたしの家族が、たくさん、できたみたいです。",
+    "romaji": "Minna, hontou ni arigatou. Watashi no kazoku ga, takusan, dekita mitai desu."
+  },
+  "vl8.talk_player": {
+    "en": "(Station, hospital, name, excuse me. The words we use when in trouble in town are short, but they quietly support people's hearts. I hope Grandma gets well soon.)",
+    "ru": "(Вокзал, больница, имя, разрешите войти. Слова, которые нужны в городе в трудную минуту, коротки, но тихо поддерживают сердце человека. Надеюсь, бабушка скоро поправится.)",
+    "zh": "（车站、医院、名字、打扰了。在街上遇到困难时用的词，虽然很短，却能悄悄地支撑人心。希望奶奶早日康复。）",
+    "ja": "（駅、病院、名前、失礼します。町で困ったときに使う言葉は、短いけれど、人の心を、そっとささえてくれる。おばあちゃんが、元気になりますように。）",
+    "romaji": "(Eki, byouin, namae, shitsurei shimasu. Machi de komatta toki ni tsukau kotoba wa, mijikai keredo, hito no kokoro o, sotto sasaete kureru. Obaachan ga, genki ni narimasu you ni.)"
+  },
+  "vl8.talk_close": {
+    "en": "Good lesson, everyone. You used all ten words for town and the hospital in real situations.",
+    "ru": "Хороший урок, все. Вы использовали все десять слов для города и больницы в настоящих ситуациях.",
+    "zh": "各位，这节课很棒。你们在真实的场景中用上了这十个在街上和医院里用的词。",
+    "ja": "みなさん、いいレッスンでした。町と病院で使う十の言葉を、本当の場面で使えましたね。",
+    "romaji": "Minasan, ii ressun deshita. Machi to byouin de tsukau juu no kotoba o, hontou no bamen de tsukaemashita ne."
+  },
+  "vl8.complete": {
+    "en": "End of Vocabulary Lesson 8.",
+    "ru": "Конец урока лексики 8.",
+    "zh": "词汇课 8 结束。",
+    "ja": "語彙レッスン8、おわり。",
+    "romaji": "Goi ressun hachi, owari."
+  }
+}

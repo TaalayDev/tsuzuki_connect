@@ -1,0 +1,1567 @@
+[
+  {
+    "id": "vocab_n3_301c_305f_3082_306e_3060",
+    "word": "〜たものだ",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "grammar",
+    "definition": "Used to ~ (nostalgic recollection)",
+    "translation": "(~ta mono da)",
+    "example": "〜たものだ",
+    "category": "grammar",
+    "tags": [
+      "N3",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Бывало ~ (ностальгическое воспоминание)",
+      "zh": "过去常常~（怀旧回忆）",
+      "ko": "하곤 했다 (추억의 회상)"
+    }
+  },
+  {
+    "id": "vocab_n3_301c_306a_304f_306a_3063_305f",
+    "word": "〜なくなった",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "grammar",
+    "definition": "Has stopped ~ / no longer ~ (change / loss)",
+    "translation": "(~naku natta)",
+    "example": "〜なくなった",
+    "category": "grammar",
+    "tags": [
+      "N3",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Больше не ~",
+      "zh": "不再~ / 没了",
+      "ko": "않게 되었다 / 없어졌다"
+    }
+  },
+  {
+    "id": "vocab_n3_301c_3076_308a",
+    "word": "〜ぶり",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "grammar",
+    "definition": "For the first time in ~ / after ~ (time expression)",
+    "translation": "(~buri)",
+    "example": "〜ぶり",
+    "category": "grammar",
+    "tags": [
+      "N3",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Впервые за ~",
+      "zh": "隔了~ / 时隔~",
+      "ko": "~만(에)"
+    }
+  },
+  {
+    "id": "vocab_n3_301c_3088_3046_306b_306a_3063_305f",
+    "word": "〜ようになった",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "grammar",
+    "definition": "Has come to ~ / now ~ (change over time)",
+    "translation": "(~you ni natta)",
+    "example": "〜ようになった",
+    "category": "grammar",
+    "tags": [
+      "N3",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Стал ~ (изменение со временем)",
+      "zh": "变得~ / 已经可以~（随时间的变化）",
+      "ko": "하게 되었다 (시간에 따른 변화)"
+    }
+  },
+  {
+    "id": "vocab_n3_304a_901a_3057",
+    "word": "お通し",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Appetizer charge",
+    "translation": "おとおし (otooshi)",
+    "example": "お通し",
+    "category": "nightlife",
+    "tags": [
+      "N3",
+      "story4"
+    ],
+    "tr": {
+      "ru": "Плата за закуску",
+      "zh": "饭前小菜费",
+      "ko": "오토오시 (기본 안주 요금)"
+    }
+  },
+  {
+    "id": "vocab_n3_3053_3053_306b_6765_3066",
+    "word": "ここに来て",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "phrase",
+    "definition": "Coming here / Since coming here",
+    "translation": "(koko ni kite)",
+    "example": "ここに来て",
+    "category": "phrases",
+    "tags": [
+      "N3",
+      "story5"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n3_306a_304f_306a_308b",
+    "word": "なくなる",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To disappear / to be gone / to run out",
+    "translation": "(nakunaru)",
+    "example": "なくなる",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Исчезать",
+      "zh": "消失 / 没了",
+      "ko": "없어지다 / 사라지다"
+    }
+  },
+  {
+    "id": "vocab_n3_306a_3058_3080",
+    "word": "なじむ",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To become familiar with / to fit in / to blend in",
+    "translation": "(najimu)",
+    "example": "なじむ",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Осваиваться",
+      "zh": "融合 / 变熟悉",
+      "ko": "친숙해지다 / 익숙해지다"
+    }
+  },
+  {
+    "id": "vocab_n3_30dc_30c8_30eb_30ad_30fc_30d7",
+    "word": "ボトルキープ",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Bottle keep (reserved bottle)",
+    "translation": "(botoru kiipu)",
+    "example": "ボトルキープ",
+    "category": "nightlife",
+    "tags": [
+      "N3",
+      "story4"
+    ],
+    "tr": {
+      "ru": "Система хранения бутылок",
+      "zh": "存酒服务",
+      "ko": "보틀 킵 (술 보관 서비스)"
+    }
+  },
+  {
+    "id": "vocab_n3_3082_306e_306e_3042_308f_308c",
+    "word": "もののあわれ",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "The pathos of things / bittersweet sensitivity to transience",
+    "translation": "(mono no aware)",
+    "example": "もののあわれ",
+    "category": "literary",
+    "tags": [
+      "N3",
+      "story6"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n3_3084_308a_304c_3044",
+    "word": "やりがい",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "A sense of purpose / fulfillment in work",
+    "translation": "(yarigai)",
+    "example": "やりがい",
+    "category": "work",
+    "tags": [
+      "N3",
+      "story6"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n3_3088_305d_8005",
+    "word": "よそ者",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Outsider / stranger / newcomer",
+    "translation": "よそもの (yosomono)",
+    "example": "よそ者",
+    "category": "social",
+    "tags": [
+      "N3",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Чужак / посторонний",
+      "zh": "局外人 / 陌生人",
+      "ko": "외지인 / 낯선 사람"
+    }
+  },
+  {
+    "id": "vocab_n3_308f_3073_3055_3073",
+    "word": "わびさび",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Beauty in imperfection and impermanence",
+    "translation": "(wabi-sabi)",
+    "example": "わびさび",
+    "category": "literary",
+    "tags": [
+      "N3",
+      "story6"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n3_4ee5_524d",
+    "word": "以前",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Before / previously / formerly",
+    "translation": "いぜん (izen)",
+    "example": "以前",
+    "category": "time",
+    "tags": [
+      "N3",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Раньше / прежде / формально",
+      "zh": "以前 / 之前 / 曾今",
+      "ko": "이전 / 이전에 / 예전에는"
+    }
+  },
+  {
+    "id": "vocab_n3_9060_616e",
+    "word": "遠慮",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Holding back / reserve / not wanting to impose",
+    "translation": "えんりょ (enryo)",
+    "example": "遠慮",
+    "category": "social",
+    "tags": [
+      "N3",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Сдержанность / нежелание навязываться",
+      "zh": "客气",
+      "ko": "엔료 (사양하다/조심하다)"
+    }
+  },
+  {
+    "id": "vocab_n3_5ac1",
+    "word": "嫁",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Daughter-in-law / bride",
+    "translation": "よめ (yome)",
+    "example": "嫁",
+    "category": "family",
+    "tags": [
+      "N3",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Невестка",
+      "zh": "儿媳",
+      "ko": "며느리"
+    }
+  },
+  {
+    "id": "vocab_n3_5bb6_8cc3",
+    "word": "家賃",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Rent",
+    "translation": "やちん (yachin)",
+    "example": "家賃",
+    "category": "business",
+    "tags": [
+      "N3",
+      "story4"
+    ],
+    "tr": {
+      "ru": "Арендная плата",
+      "zh": "房租",
+      "ko": "집세 (월세)"
+    }
+  },
+  {
+    "id": "vocab_n3_61d0_304b_3057_3044",
+    "word": "懐かしい",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Nostalgic / dear / fondly remembered",
+    "translation": "なつかしい (natsukashii)",
+    "example": "懐かしい",
+    "category": "emotions",
+    "tags": [
+      "N3",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Ностальгический / памятный",
+      "zh": "怀旧 / 值得怀念的",
+      "ko": "그립다 / 정겹다"
+    }
+  },
+  {
+    "id": "vocab_n3_61d0_306b_5165_308b",
+    "word": "懐に入る",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "phrase",
+    "definition": "To be welcomed in / to be taken into someone's heart",
+    "translation": "ふところにはいる (futokoro ni hairu)",
+    "example": "懐に入る",
+    "category": "phrases",
+    "tags": [
+      "N3",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Быть принятым / войти в доверие",
+      "zh": "深得人心 / 被接纳",
+      "ko": "마음을 얻다 / 품에 안기다"
+    }
+  },
+  {
+    "id": "vocab_n3_958b_696d",
+    "word": "開業",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Opening a business",
+    "translation": "かいぎょう (kaigyou)",
+    "example": "開業",
+    "category": "business",
+    "tags": [
+      "N3",
+      "story4"
+    ],
+    "tr": {
+      "ru": "Открытие дела",
+      "zh": "开业",
+      "ko": "개업"
+    }
+  },
+  {
+    "id": "vocab_n3_5272_308a_52d8",
+    "word": "割り勘",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Splitting the bill",
+    "translation": "わりかん (warikan)",
+    "example": "割り勘",
+    "category": "nightlife",
+    "tags": [
+      "N3",
+      "story4"
+    ],
+    "tr": {
+      "ru": "Разделение счета",
+      "zh": "均摊账单",
+      "ko": "더치페이 (비용 분담)"
+    }
+  },
+  {
+    "id": "vocab_n3_611f_6168_6df1_3044",
+    "word": "感慨深い",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Deeply moving / filled with emotion",
+    "translation": "かんがいぶかい (kangai fukai)",
+    "example": "感慨深い",
+    "category": "emotions",
+    "tags": [
+      "N3",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Глубоко трогательный",
+      "zh": "感慨万千 / 深有感触",
+      "ko": "감개무량하다 / 깊은 감동을 주다"
+    }
+  },
+  {
+    "id": "vocab_n3_9593",
+    "word": "間",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Pause / negative space / interval",
+    "translation": "ま (ma)",
+    "example": "間",
+    "category": "literary",
+    "tags": [
+      "N3",
+      "story6"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n3_671f_5f85_5916_308c",
+    "word": "期待外れ",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Disappointment / not living up to expectations",
+    "translation": "きたいはずれ (kitai hazure)",
+    "example": "期待外れ",
+    "category": "emotions",
+    "tags": [
+      "N3",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Разочарование",
+      "zh": "期待落空 / 失望",
+      "ko": "기대 이하 / 기대에 어긋남"
+    }
+  },
+  {
+    "id": "vocab_n3_6a5f_68b0_7684",
+    "word": "機械的",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "adjective",
+    "definition": "Mechanical / robotic (of manner)",
+    "translation": "きかいてき (kikaiteki)",
+    "example": "機械的",
+    "category": "adjectives",
+    "tags": [
+      "N3",
+      "story6"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n3_5e30_56fd",
+    "word": "帰国",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Returning to one's home country",
+    "translation": "きこく (kikoku)",
+    "example": "帰国",
+    "category": "travel",
+    "tags": [
+      "N3",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Возвращение на родину",
+      "zh": "归国 / 回国",
+      "ko": "귀국"
+    }
+  },
+  {
+    "id": "vocab_n3_6c17_3065_304f",
+    "word": "気づく",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To notice / to realize",
+    "translation": "きづく (kizuku)",
+    "example": "気づく",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "story6"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n3_6c17_3092_9063_3046",
+    "word": "気を遣う",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "To be considerate",
+    "translation": "きをつかう (ki wo tsukau)",
+    "example": "気を遣う",
+    "category": "emotions",
+    "tags": [
+      "N3",
+      "story4"
+    ],
+    "tr": {
+      "ru": "Быть внимательным",
+      "zh": "顾及他人感受",
+      "ko": "신경을 쓰다 (배려하다)"
+    }
+  },
+  {
+    "id": "vocab_n3_5b63_8a9e",
+    "word": "季語",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Season word (required in haiku)",
+    "translation": "きご (kigo)",
+    "example": "季語",
+    "category": "literary",
+    "tags": [
+      "N3",
+      "story6"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n3_5c45_5834_6240",
+    "word": "居場所",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "One's place / somewhere one belongs",
+    "translation": "いばしょ (ibasho)",
+    "example": "居場所",
+    "category": "social",
+    "tags": [
+      "N3",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Место, где чувствуешь себя своим",
+      "zh": "归宿 / 容身之处",
+      "ko": "거처 / 마음 둘 곳"
+    }
+  },
+  {
+    "id": "vocab_n3_5c45_5fc3_5730_304c_3044_3044",
+    "word": "居心地がいい",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Comfortable (of a place / situation)",
+    "translation": "いごこちがいい (igokochi ga ii)",
+    "example": "居心地がいい",
+    "category": "emotions",
+    "tags": [
+      "N3",
+      "story5",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Уютный / комфортный",
+      "zh": "惬意 / 感觉很舒服",
+      "ko": "기분이 좋다 / 아늑하다 / 편안하다"
+    }
+  },
+  {
+    "id": "vocab_n3_6559_3048_3066_3044_305f_3060_3051_307e_3059_304b",
+    "word": "教えていただけますか",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "phrase",
+    "definition": "Could you please tell me?",
+    "translation": "(oshiete itadakemasu ka)",
+    "example": "教えていただけますか",
+    "category": "polite_expressions",
+    "tags": [
+      "N3",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Не могли бы вы мне сказать?",
+      "zh": "能请您告诉我吗？",
+      "ko": "가르쳐 주시겠습니까?"
+    }
+  },
+  {
+    "id": "vocab_n3_90f7_6101",
+    "word": "郷愁",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Nostalgia / homesickness",
+    "translation": "きょうしゅう (kyoushuu)",
+    "example": "郷愁",
+    "category": "emotions",
+    "tags": [
+      "N3",
+      "story6"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n3_97ff_304f",
+    "word": "響く",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To resonate / to echo / to ring out",
+    "translation": "ひびく (hibiku)",
+    "example": "響く",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "story6"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n3_611a_75f4",
+    "word": "愚痴",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Complaints/grumbling",
+    "translation": "ぐち (guchi)",
+    "example": "愚痴",
+    "category": "emotions",
+    "tags": [
+      "N3",
+      "story4"
+    ],
+    "tr": {
+      "ru": "Жалобы",
+      "zh": "抱怨",
+      "ko": "푸념/불평"
+    }
+  },
+  {
+    "id": "vocab_n3_7a7a_6c17_3092_8aad_3080",
+    "word": "空気を読む",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "phrase",
+    "definition": "To read the atmosphere",
+    "translation": "くうきをよむ (kuuki wo yomu)",
+    "example": "空気を読む",
+    "category": "phrases",
+    "tags": [
+      "N3",
+      "story4"
+    ],
+    "tr": {
+      "ru": "Чувствовать атмосферу",
+      "zh": "察言观色",
+      "ko": "분위기를 파악하다"
+    }
+  },
+  {
+    "id": "vocab_n3_7d99_7d9a_306f_529b_306a_308a",
+    "word": "継続は力なり",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "Persistence is power (proverb)",
+    "translation": "けいぞくはちからなり (keizoku wa chikara nari)",
+    "example": "継続は力なり",
+    "category": "proverbs",
+    "tags": [
+      "N3",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Настойчивость — это сила (пословица)",
+      "zh": "坚持就是力量 (谚语)",
+      "ko": "계속하는 것이 힘이다 (격언)"
+    }
+  },
+  {
+    "id": "vocab_n3_8840_5727",
+    "word": "血圧",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Blood pressure",
+    "translation": "けつあつ (ketsuatsu)",
+    "example": "血圧",
+    "category": "medical",
+    "tags": [
+      "N3",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Кровяное давление",
+      "zh": "血压",
+      "ko": "혈압"
+    }
+  },
+  {
+    "id": "vocab_n3_5efa_3066_66ff_3048_308b",
+    "word": "建て替える",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To rebuild / to reconstruct",
+    "translation": "たてかえる (tatekaheru)",
+    "example": "建て替える",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Перестраивать",
+      "zh": "改建 / 重建",
+      "ko": "개축하다 / 재건축하다"
+    }
+  },
+  {
+    "id": "vocab_n3_539f_6587",
+    "word": "原文",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Original text",
+    "translation": "げんぶん (genbun)",
+    "example": "原文",
+    "category": "literary",
+    "tags": [
+      "N3",
+      "story6"
+    ],
+    "tr": {
+      "ru": "Оригинальный текст",
+      "zh": "原文",
+      "ko": "원문"
+    }
+  },
+  {
+    "id": "vocab_n3_8a00_8a9e_4ea4_63db",
+    "word": "言語交換",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Language exchange",
+    "translation": "げんごこうかん (gengo koukan)",
+    "example": "言語交換パートナーを探しています。",
+    "category": "daily-life",
+    "tags": [
+      "N3",
+      "story1"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n3_5f8c_6094",
+    "word": "後悔",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Regret",
+    "translation": "こうかい (koukai)",
+    "example": "後悔",
+    "category": "emotions",
+    "tags": [
+      "N3",
+      "story4"
+    ],
+    "tr": {
+      "ru": "Сожаление",
+      "zh": "后悔",
+      "ko": "후회"
+    }
+  },
+  {
+    "id": "vocab_n3_516c_6c11_9928",
+    "word": "公民館",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Community center",
+    "translation": "こうみんかん (kouminkan)",
+    "example": "公民館",
+    "category": "community",
+    "tags": [
+      "N3",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Общественный центр",
+      "zh": "社区中心",
+      "ko": "공민관 (주민 센터)"
+    }
+  },
+  {
+    "id": "vocab_n3_4eca_3067_3082",
+    "word": "今でも",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Even now / still",
+    "translation": "いまでも (ima demo)",
+    "example": "今でも",
+    "category": "time",
+    "tags": [
+      "N3",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Даже сейчас / все еще",
+      "zh": "现在也 / 依然",
+      "ko": "지금도 / 여전히"
+    }
+  },
+  {
+    "id": "vocab_n3_518d_8a2a",
+    "word": "再訪",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Return visit / revisiting",
+    "translation": "さいほう (saihou)",
+    "example": "再訪",
+    "category": "travel",
+    "tags": [
+      "N3",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Повторный визит / возвращение",
+      "zh": "再访 / 重游",
+      "ko": "재방문"
+    }
+  },
+  {
+    "id": "vocab_n3_6b8b_308b",
+    "word": "残る",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To remain / to be left behind",
+    "translation": "のこる (nokoru)",
+    "example": "残る",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Оставаться",
+      "zh": "留下 / 剩余",
+      "ko": "남다 / 남겨지다"
+    }
+  },
+  {
+    "id": "vocab_n3_8a69",
+    "word": "詩",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Poem / poetry (modern)",
+    "translation": "し (shi)",
+    "example": "詩",
+    "category": "literary",
+    "tags": [
+      "N3",
+      "story6"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n3_81ea_4fe1",
+    "word": "自信",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Confidence",
+    "translation": "じしん (jishin)",
+    "example": "自信",
+    "category": "emotions",
+    "tags": [
+      "N3",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Уверенность",
+      "zh": "自信",
+      "ko": "자신감"
+    }
+  },
+  {
+    "id": "vocab_n3_53d6_308a_58ca_3059",
+    "word": "取り壊す",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To demolish / to tear down",
+    "translation": "とりこわす (torikohawasu)",
+    "example": "取り壊す",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Сносить / разрушать",
+      "zh": "拆除 / 拆毁",
+      "ko": "헐다 / 철거하다"
+    }
+  },
+  {
+    "id": "vocab_n3_624b_82b8",
+    "word": "手芸",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Handicrafts",
+    "translation": "しゅげい (shugei)",
+    "example": "手芸",
+    "category": "hobbies",
+    "tags": [
+      "N3",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Рукоделие",
+      "zh": "手工艺",
+      "ko": "수공예"
+    }
+  },
+  {
+    "id": "vocab_n3_7fd2_3044_4e8b",
+    "word": "習い事",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Lessons / hobby class",
+    "translation": "ならいごと (naraigoto)",
+    "example": "習い事",
+    "category": "community",
+    "tags": [
+      "N3",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Уроки / хобби-класс",
+      "zh": "兴趣班",
+      "ko": "배움/취미 교실"
+    }
+  },
+  {
+    "id": "vocab_n3_51e6_65b9_7b8b",
+    "word": "処方箋",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Prescription",
+    "translation": "しょほうせん (shohousen)",
+    "example": "処方箋",
+    "category": "medical",
+    "tags": [
+      "N3",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Рецепт",
+      "zh": "处方",
+      "ko": "처방전"
+    }
+  },
+  {
+    "id": "vocab_n3_75c7_72b6",
+    "word": "症状",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Symptoms",
+    "translation": "しょうじょう (shoujou)",
+    "example": "症状",
+    "category": "medical",
+    "tags": [
+      "N3",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Симптомы",
+      "zh": "症状",
+      "ko": "증상"
+    }
+  },
+  {
+    "id": "vocab_n3_5e38_9023",
+    "word": "常連",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Regular customer",
+    "translation": "じょうれん (jouren)",
+    "example": "常連",
+    "category": "nightlife",
+    "tags": [
+      "N3",
+      "story4"
+    ],
+    "tr": {
+      "ru": "Постоянный клиент",
+      "zh": "老客户",
+      "ko": "단골 손님"
+    }
+  },
+  {
+    "id": "vocab_n3_632f_308a_8fd4_308b",
+    "word": "振り返る",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To look back (on)",
+    "translation": "ふりかえる (furikaeru)",
+    "example": "振り返る",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "story4"
+    ],
+    "tr": {
+      "ru": "Оглядываться назад",
+      "zh": "回顾",
+      "ko": "뒤돌아보다"
+    }
+  },
+  {
+    "id": "vocab_n3_4e16_8a71_306b_306a_308b",
+    "word": "世話になる",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "phrase",
+    "definition": "To be taken care of / to receive help",
+    "translation": "せわになる (sewa ni naru)",
+    "example": "世話になる",
+    "category": "phrases",
+    "tags": [
+      "N3",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Получать помощь / заботу",
+      "zh": "承蒙照顾",
+      "ko": "신세를 지다/도움을 받다"
+    }
+  },
+  {
+    "id": "vocab_n3_8de1_5730",
+    "word": "跡地",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Site of a demolished building / former location",
+    "translation": "あとち (atochi)",
+    "example": "跡地",
+    "category": "nouns",
+    "tags": [
+      "N3",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Место снесенного здания",
+      "zh": "旧址 / 遗迹",
+      "ko": "철거 부지 / 흔적"
+    }
+  },
+  {
+    "id": "vocab_n3_5207_306a_3044",
+    "word": "切ない",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Bittersweet / aching / painfully sweet",
+    "translation": "せつない (setsunai)",
+    "example": "切ない",
+    "category": "emotions",
+    "tags": [
+      "N3",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Горько-сладкий / щемящий",
+      "zh": "难受 / 纠结 / 辛酸",
+      "ko": "애틋하다 / 안타깝다 / 애절하다"
+    }
+  },
+  {
+    "id": "vocab_n2_758e_9060",
+    "word": "疎遠",
+    "level": "advanced",
+    "cefrLevel": "B2",
+    "partOfSpeech": "noun",
+    "definition": "Estranged",
+    "translation": "そえん (soen)",
+    "example": "疎遠",
+    "category": "family",
+    "tags": [
+      "N2",
+      "story4"
+    ],
+    "tr": {
+      "ru": "Отчужденный",
+      "zh": "疏远",
+      "ko": "소원해짐"
+    }
+  },
+  {
+    "id": "vocab_n3_76f8_69cc",
+    "word": "相槌",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "phrase",
+    "definition": "Conversational responses",
+    "translation": "あいづち (aizuchi)",
+    "example": "相槌",
+    "category": "phrases",
+    "tags": [
+      "N3",
+      "story4"
+    ],
+    "tr": {
+      "ru": "Поддакивание",
+      "zh": "附和（搭腔）",
+      "ko": "맞장구"
+    }
+  },
+  {
+    "id": "vocab_n3_6ede_5728",
+    "word": "滞在",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Stay / sojourn",
+    "translation": "たいざい (taizai)",
+    "example": "滞在",
+    "category": "travel",
+    "tags": [
+      "N3",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Пребывание",
+      "zh": "停留 / 逗留",
+      "ko": "체재 / 머무름"
+    }
+  },
+  {
+    "id": "vocab_n3_77ed_6b4c",
+    "word": "短歌",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Tanka (31-syllable poem)",
+    "translation": "たんか (tanka)",
+    "example": "短歌",
+    "category": "literary",
+    "tags": [
+      "N3",
+      "story6"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n3_5730_57df",
+    "word": "地域",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Local area / community",
+    "translation": "ちいき (chiiki)",
+    "example": "地域",
+    "category": "community",
+    "tags": [
+      "N3",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Местный район / община",
+      "zh": "社区",
+      "ko": "지역 사회"
+    }
+  },
+  {
+    "id": "vocab_n3_4ef2_9593",
+    "word": "仲間",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Companion / fellow member",
+    "translation": "なかま (nakama)",
+    "example": "仲間",
+    "category": "social",
+    "tags": [
+      "N3",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Товарищ / член группы",
+      "zh": "同伴 / 伙伴",
+      "ko": "동료/동지"
+    }
+  },
+  {
+    "id": "vocab_n3_6311_6226",
+    "word": "挑戦",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "Challenge / attempt",
+    "translation": "ちょうせん (chousen)",
+    "example": "挑戦",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Вызов / попытка",
+      "zh": "挑战",
+      "ko": "도전"
+    }
+  },
+  {
+    "id": "vocab_n3_753a_5185_4f1a",
+    "word": "町内会",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Neighborhood association",
+    "translation": "ちょうないかい (chounai kai)",
+    "example": "町内会",
+    "category": "community",
+    "tags": [
+      "N3",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Ассоциация соседей",
+      "zh": "居委会",
+      "ko": "반상회/부녀회"
+    }
+  },
+  {
+    "id": "vocab_n3_5b9a_671f_691c_8a3a",
+    "word": "定期検診",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Regular checkup",
+    "translation": "ていきけんしん (teiki kenshin)",
+    "example": "定期検診",
+    "category": "medical",
+    "tags": [
+      "N3",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Регулярный осмотр",
+      "zh": "定期检查",
+      "ko": "정기 검진"
+    }
+  },
+  {
+    "id": "vocab_n3_7de0_3081_5207_308a",
+    "word": "締め切り",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Deadline",
+    "translation": "しめきり (shimekiri)",
+    "example": "締め切り",
+    "category": "work",
+    "tags": [
+      "N3",
+      "story6"
+    ],
+    "tr": {
+      "ru": "Дедлайн",
+      "zh": "截止日期",
+      "ko": "마감"
+    }
+  },
+  {
+    "id": "vocab_n3_8ae6_3081_308b",
+    "word": "諦める",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To give up",
+    "translation": "あきらめる (akirameru)",
+    "example": "諦める",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Сдаваться",
+      "zh": "放弃",
+      "ko": "포기하다"
+    }
+  },
+  {
+    "id": "vocab_n3_5f53_6642",
+    "word": "当時",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "At that time / back then",
+    "translation": "とうじ (touji)",
+    "example": "当時",
+    "category": "time",
+    "tags": [
+      "N3",
+      "story7"
+    ],
+    "tr": {
+      "ru": "В то время / тогда",
+      "zh": "当时 / 那时",
+      "ko": "당시 / 그때"
+    }
+  },
+  {
+    "id": "vocab_n3_71c3_3048_5c3d_304d_308b",
+    "word": "燃え尽きる",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "To burn out (emotionally / professionally)",
+    "translation": "もえつきる (moetsukiru)",
+    "example": "燃え尽きる",
+    "category": "emotions",
+    "tags": [
+      "N3",
+      "story6"
+    ],
+    "tr": {
+      "ru": "Выгореть",
+      "zh": "燃尽 / 职业倦怠",
+      "ko": "불타 없어지다 / 번아웃 되다"
+    }
+  },
+  {
+    "id": "vocab_n3_4ff3_53e5",
+    "word": "俳句",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Haiku (17-syllable poem)",
+    "translation": "はいく (haiku)",
+    "example": "俳句",
+    "category": "literary",
+    "tags": [
+      "N3",
+      "story6"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n3_8868_73fe",
+    "word": "表現",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Expression / representation",
+    "translation": "ひょうげん (hyougen)",
+    "example": "表現",
+    "category": "literary",
+    "tags": [
+      "N3",
+      "story6"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n3_9589_5e97",
+    "word": "閉店",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Closing (a business)",
+    "translation": "へいてん (heiten)",
+    "example": "閉店",
+    "category": "business",
+    "tags": [
+      "N3",
+      "story4"
+    ],
+    "tr": {
+      "ru": "Закрытие (бизнеса)",
+      "zh": "停业",
+      "ko": "폐점"
+    }
+  },
+  {
+    "id": "vocab_n3_7ffb_8a33",
+    "word": "翻訳",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Translation",
+    "translation": "ほんやく (hon'yaku)",
+    "example": "翻訳",
+    "category": "work",
+    "tags": [
+      "N3",
+      "story6"
+    ],
+    "tr": {
+      "ru": "Перевод",
+      "zh": "翻译",
+      "ko": "번역"
+    }
+  },
+  {
+    "id": "vocab_n3_9762_5f71",
+    "word": "面影",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Trace / vestige / lingering image",
+    "translation": "おもかげ (omokage)",
+    "example": "面影",
+    "category": "literary",
+    "tags": [
+      "N3",
+      "story7"
+    ],
+    "tr": {
+      "ru": "След / отголосок / облик",
+      "zh": "面影 / 痕迹 / 残影",
+      "ko": "옛 모습 / 자취 / 흔적"
+    }
+  },
+  {
+    "id": "vocab_n3_6728_67af_3089_3057",
+    "word": "木枯らし",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Cold winter wind that strips leaves",
+    "translation": "こがらし (kogarashi)",
+    "example": "木枯らし",
+    "category": "nature",
+    "tags": [
+      "N3",
+      "story6"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n3_6728_6f0f_308c_65e5",
+    "word": "木漏れ日",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Sunlight filtering through leaves",
+    "translation": "こもれび (komorebi)",
+    "example": "木漏れ日",
+    "category": "nature",
+    "tags": [
+      "N3",
+      "story6"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n3_8a33_3059",
+    "word": "訳す",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To translate",
+    "translation": "やくす (yakusu)",
+    "example": "訳す",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "story6"
+    ],
+    "tr": {
+      "ru": "Переводить",
+      "zh": "翻译",
+      "ko": "번역하다"
+    }
+  },
+  {
+    "id": "vocab_n3_4f59_767d",
+    "word": "余白",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Blank space / margin / what is left unsaid",
+    "translation": "よはく (yohaku)",
+    "example": "余白",
+    "category": "literary",
+    "tags": [
+      "N3",
+      "story6"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n3_7559_5b66",
+    "word": "留学",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Study abroad",
+    "translation": "りゅうがく (ryuugaku)",
+    "example": "留学",
+    "category": "education",
+    "tags": [
+      "N3",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Учеба за границей",
+      "zh": "留学",
+      "ko": "유학"
+    }
+  },
+  {
+    "id": "vocab_n3_4f98_3057_3044",
+    "word": "侘しい",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Lonely / desolate / forlorn",
+    "translation": "わびしい (wabishii)",
+    "example": "侘しい",
+    "category": "emotions",
+    "tags": [
+      "N3",
+      "story6"
+    ],
+    "tr": {}
+  }
+]

@@ -1,0 +1,1544 @@
+[
+  {
+    "id": "vocab_n5_30a2_30cb_30e1",
+    "word": "アニメ",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Anime / Animation",
+    "translation": "(anime)",
+    "example": "アニメ",
+    "category": "daily-life",
+    "tags": [
+      "N5",
+      "story0"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_3042_308a_304c_3068_3046",
+    "word": "ありがとう",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "phrase",
+    "definition": "Thank you",
+    "translation": "(arigatou)",
+    "example": "手伝ってくれてありがとう。",
+    "category": "greetings",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_3042_308a_304c_3068_3046_3054_3056_3044_307e_3059",
+    "word": "ありがとうございます",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "phrase",
+    "definition": "Thank you (polite)",
+    "translation": "(arigatou gozaimasu)",
+    "example": "手伝ってくれて、ありがとうございます。",
+    "category": "greetings",
+    "tags": [
+      "N5",
+      "story0"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_3044_305f_3060_304d_307e_3059",
+    "word": "いただきます",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "phrase",
+    "definition": "Phrase before eating/drinking",
+    "translation": "(itadakimasu)",
+    "example": "いただきます！",
+    "category": "phrases",
+    "tags": [
+      "N5",
+      "story1"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_3044_3089_3063_3057_3083_3044_307e_305b",
+    "word": "いらっしゃいませ",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Welcome / Please come in",
+    "translation": "(irasshaimase)",
+    "example": "いらっしゃいませ",
+    "category": "service",
+    "tags": [
+      "N5",
+      "story5"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_304a_304b_3048_308a",
+    "word": "おかえり",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "phrase",
+    "definition": "Welcome home",
+    "translation": "(okaeri)",
+    "example": "おかえり、待ってたよ。",
+    "category": "greetings",
+    "tags": [
+      "N5",
+      "story2",
+      "story7"
+    ],
+    "tr": {
+      "ru": "С возвращением домой",
+      "zh": "欢迎回家",
+      "ko": "잘 돌아왔어"
+    }
+  },
+  {
+    "id": "vocab_n5_304a_3058_3044_3061_3083_3093",
+    "word": "おじいちゃん",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Grandpa (casual)",
+    "translation": "(ojiichan)",
+    "example": "おじいちゃん",
+    "category": "family",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_304a_3070_3042_3061_3083_3093",
+    "word": "おばあちゃん",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Grandma (casual)",
+    "translation": "(obaachan)",
+    "example": "おばあちゃん",
+    "category": "family",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_304a_306f_3088_3046_3054_3056_3044_307e_3059",
+    "word": "おはようございます",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "phrase",
+    "definition": "Good morning (polite)",
+    "translation": "(ohayou gozaimasu)",
+    "example": "先生、おはようございます。",
+    "category": "greetings",
+    "tags": [
+      "N5",
+      "story0"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_304a_9858_3044_3057_307e_3059",
+    "word": "お願いします",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "phrase",
+    "definition": "Please (request)",
+    "translation": "おねがいします (onegaishimasu)",
+    "example": "これ、お願いします。",
+    "category": "phrases",
+    "tags": [
+      "N5",
+      "story1",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_304a_7236_3055_3093",
+    "word": "お父さん",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Father (someone else's)",
+    "translation": "おとうさん (otousan)",
+    "example": "お父さん",
+    "category": "family",
+    "tags": [
+      "N5",
+      "story3"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_304a_6bcd_3055_3093",
+    "word": "お母さん",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Mother (someone else's)",
+    "translation": "おかあさん (okaasan)",
+    "example": "お母さん",
+    "category": "family",
+    "tags": [
+      "N5",
+      "story3"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_30ab_30d5_30a7",
+    "word": "カフェ",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Cafe",
+    "translation": "(kafe)",
+    "example": "カフェでコーヒーを飲みましょう。",
+    "category": "places",
+    "tags": [
+      "N5",
+      "story0",
+      "story1"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_304d_308c_3044",
+    "word": "きれい",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
+    "definition": "Beautiful/pretty",
+    "translation": "(kirei)",
+    "example": "きれい",
+    "category": "adjectives",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_30b3_30fc_30d2_30fc",
+    "word": "コーヒー",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Coffee",
+    "translation": "(koohii)",
+    "example": "コーヒーを一つください。",
+    "category": "food",
+    "tags": [
+      "N5",
+      "story1"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_3054_3081_3093_306a_3055_3044",
+    "word": "ごめんなさい",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "phrase",
+    "definition": "I'm sorry",
+    "translation": "(gomennasai)",
+    "example": "ごめんなさい",
+    "category": "phrases",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_3053_3093_306b_3061_306f",
+    "word": "こんにちは",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "phrase",
+    "definition": "Hello/Good afternoon",
+    "translation": "(konnichiwa)",
+    "example": "こんにちは",
+    "category": "greetings",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_3059_307f_307e_305b_3093",
+    "word": "すみません",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "phrase",
+    "definition": "Excuse me / I'm sorry",
+    "translation": "(sumimasen)",
+    "example": "すみません",
+    "category": "greetings",
+    "tags": [
+      "N5",
+      "story0",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Извините",
+      "zh": "不好意思 / 对不起",
+      "ko": "죄송합니다/실례합니다"
+    }
+  },
+  {
+    "id": "vocab_n5_305b_3093_3079_3044",
+    "word": "せんべい",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Rice crackers",
+    "translation": "(senbei)",
+    "example": "せんべい",
+    "category": "food",
+    "tags": [
+      "N5",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Рисовое печенье",
+      "zh": "仙贝 / 仙贝米饼",
+      "ko": "센베이 (쌀과자)"
+    }
+  },
+  {
+    "id": "vocab_n5_305d_3046_305d_3046",
+    "word": "そうそう",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "phrase",
+    "definition": "That's right / exactly",
+    "translation": "(sou sou)",
+    "example": "そうそう",
+    "category": "phrases",
+    "tags": [
+      "N5",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Верно / именно так",
+      "zh": "没错 / 正是如此",
+      "ko": "맞아요/바로 그거예요"
+    }
+  },
+  {
+    "id": "vocab_n5_305f_3060_3044_307e",
+    "word": "ただいま",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "phrase",
+    "definition": "I'm home / I'm back (said by person returning)",
+    "translation": "(tadaima)",
+    "example": "ただいま",
+    "category": "greetings",
+    "tags": [
+      "N5",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Я дома",
+      "zh": "我回来了",
+      "ko": "다녀왔어"
+    }
+  },
+  {
+    "id": "vocab_n5_3061_3087_3063_3068_5f85_3063_3066",
+    "word": "ちょっと待って",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "phrase",
+    "definition": "Wait a moment",
+    "translation": "(chotto matte)",
+    "example": "ちょっと待って",
+    "category": "phrases",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_3069_3046_305e",
+    "word": "どうぞ",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "phrase",
+    "definition": "Please / Go ahead",
+    "translation": "(douzo)",
+    "example": "どうぞ、座ってください。",
+    "category": "greetings",
+    "tags": [
+      "N5",
+      "story0"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_307e_305a",
+    "word": "まず",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "First",
+    "translation": "(mazu)",
+    "example": "まず",
+    "category": "sequence",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_307f_3093_306a",
+    "word": "みんな",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Everyone",
+    "translation": "(minna)",
+    "example": "みんなで植える。",
+    "category": "daily-life",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_3082_3046_4e00_5ea6",
+    "word": "もう一度",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "phrase",
+    "definition": "Once more / again",
+    "translation": "もういちど (mou ichido)",
+    "example": "もう一度",
+    "category": "phrases",
+    "tags": [
+      "N5",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Еще раз",
+      "zh": "再次",
+      "ko": "한 번 더"
+    }
+  },
+  {
+    "id": "vocab_n5_3084_3063_3066_307f_308b",
+    "word": "やってみる",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "phrase",
+    "definition": "Try it/give it a try",
+    "translation": "(yattemiru)",
+    "example": "やってみる",
+    "category": "phrases",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_3086_3063_304f_308a",
+    "word": "ゆっくり",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "verb",
+    "definition": "Slowly",
+    "translation": "(yukkuri)",
+    "example": "ゆっくり",
+    "category": "adverbs",
+    "tags": [
+      "N5",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Медленно",
+      "zh": "慢慢地",
+      "ko": "천천히"
+    }
+  },
+  {
+    "id": "vocab_n5_3088_308d_3057_304f_304a_9858_3044_3057_307e_3059",
+    "word": "よろしくお願いします",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "phrase",
+    "definition": "Please be kind to me / Nice to meet you",
+    "translation": "よろしくおねがいします (yoroshiku onegaishimasu)",
+    "example": "田中です。よろしくお願いします。",
+    "category": "greetings",
+    "tags": [
+      "N5",
+      "story0",
+      "story3"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_4e00_7dd2_306b",
+    "word": "一緒に",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "phrase",
+    "definition": "Together",
+    "translation": "いっしょに (issho ni)",
+    "example": "一緒に作業しましょう。",
+    "category": "phrases",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_4e00_4eba_3067",
+    "word": "一人で",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "phrase",
+    "definition": "Alone/by oneself",
+    "translation": "ひとりで (hitori de)",
+    "example": "一人で",
+    "category": "phrases",
+    "tags": [
+      "N5",
+      "story4"
+    ],
+    "tr": {
+      "ru": "В одиночку",
+      "zh": "独自一人",
+      "ko": "혼자서"
+    }
+  },
+  {
+    "id": "vocab_n5_99c5",
+    "word": "駅",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Station",
+    "translation": "えき (eki)",
+    "example": "駅で待っています。",
+    "category": "places",
+    "tags": [
+      "N5",
+      "story1",
+      "story2",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Станция",
+      "zh": "车站",
+      "ko": "역"
+    }
+  },
+  {
+    "id": "vocab_n5_5bb6_65cf",
+    "word": "家族",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Family",
+    "translation": "かぞく (kazoku)",
+    "example": "家族",
+    "category": "family",
+    "tags": [
+      "N5",
+      "story3"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_82b1",
+    "word": "花",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Flower",
+    "translation": "はな (hana)",
+    "example": "花",
+    "category": "garden",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_958b_3051_308b",
+    "word": "開ける",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "verb",
+    "definition": "To open/make",
+    "translation": "あける (akeru)",
+    "example": "開ける",
+    "category": "verbs",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_5b66_751f",
+    "word": "学生",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Student",
+    "translation": "がくせい (gakusei)",
+    "example": "私は日本語の学生です。",
+    "category": "classroom",
+    "tags": [
+      "N5",
+      "story0"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_9811_5f35_308b",
+    "word": "頑張る",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "verb",
+    "definition": "To do one's best",
+    "translation": "がんばる (ganbaru)",
+    "example": "頑張ります！",
+    "category": "verbs",
+    "tags": [
+      "N5",
+      "story0",
+      "story3"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_5b09_3057_3044",
+    "word": "嬉しい",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Happy/glad",
+    "translation": "うれしい (ureshii)",
+    "example": "会えて嬉しいです。",
+    "category": "emotions",
+    "tags": [
+      "N5",
+      "story1"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_6c17_6301_3061",
+    "word": "気持ち",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Feelings",
+    "translation": "きもち (kimochi)",
+    "example": "気持ちを言葉にする。",
+    "category": "emotions",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_4e45_3057_3076_308a",
+    "word": "久しぶり",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "phrase",
+    "definition": "Long time no see",
+    "translation": "ひさしぶり (hisashiburi)",
+    "example": "久しぶり！元気だった？",
+    "category": "greetings",
+    "tags": [
+      "N5",
+      "story1"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_6559_3048_3066_304f_3060_3055_3044",
+    "word": "教えてください",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "phrase",
+    "definition": "Please teach me",
+    "translation": "おしえてください (oshiete kudasai)",
+    "example": "教えてください",
+    "category": "phrases",
+    "tags": [
+      "N5",
+      "story3"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_6559_3048_308b",
+    "word": "教える",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "verb",
+    "definition": "To teach",
+    "translation": "おしえる (oshieru)",
+    "example": "教える",
+    "category": "verbs",
+    "tags": [
+      "N5",
+      "story3"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_6559_5ba4",
+    "word": "教室",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Classroom",
+    "translation": "きょうしつ (kyoushitsu)",
+    "example": "教室は二階にあります。",
+    "category": "classroom",
+    "tags": [
+      "N5",
+      "story0"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_7dca_5f35_3057_3066_308b",
+    "word": "緊張してる",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Being nervous",
+    "translation": "きんちょうしてる (kinchou shiteru)",
+    "example": "緊張してる",
+    "category": "emotions",
+    "tags": [
+      "N5",
+      "story1"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_7a74",
+    "word": "穴",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Hole",
+    "translation": "あな (ana)",
+    "example": "穴",
+    "category": "nouns",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_4eca_65e5",
+    "word": "今日",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Today",
+    "translation": "きょう (kyou)",
+    "example": "今日は楽しかったです。",
+    "category": "time",
+    "tags": [
+      "N5",
+      "story1"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_54b2_304f",
+    "word": "咲く",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "verb",
+    "definition": "To bloom/blossom",
+    "translation": "さく (saku)",
+    "example": "咲く",
+    "category": "verbs",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_4f5c_308b",
+    "word": "作る",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "verb",
+    "definition": "To make",
+    "translation": "つくる (tsukuru)",
+    "example": "作る",
+    "category": "verbs",
+    "tags": [
+      "N5",
+      "story3"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_4ed5_4e8b",
+    "word": "仕事",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Work / job",
+    "translation": "しごと (shigoto)",
+    "example": "仕事",
+    "category": "work",
+    "tags": [
+      "N5",
+      "story6"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_79c1",
+    "word": "私",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "I / me",
+    "translation": "わたし (watashi)",
+    "example": "私は学生です。",
+    "category": "daily-life",
+    "tags": [
+      "N5",
+      "story0"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_5931_793c_3057_307e_3059",
+    "word": "失礼します",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "phrase",
+    "definition": "Excuse me (formal)",
+    "translation": "しつれいします (shitsurei shimasu)",
+    "example": "失礼します",
+    "category": "phrases",
+    "tags": [
+      "N5",
+      "story3"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_53d6_308b",
+    "word": "取る",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "verb",
+    "definition": "To take/remove",
+    "translation": "とる (toru)",
+    "example": "取る",
+    "category": "verbs",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_624b_4f1d_3046",
+    "word": "手伝う",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "verb",
+    "definition": "To help",
+    "translation": "てつだう (tetsudau)",
+    "example": "庭仕事を手伝います。",
+    "category": "verbs",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_521d_3081_307e_3057_3066",
+    "word": "初めまして",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "phrase",
+    "definition": "Nice to meet you",
+    "translation": "はじめまして (hajimemashite)",
+    "example": "初めまして、私は田中です。",
+    "category": "greetings",
+    "tags": [
+      "N5",
+      "story0",
+      "story1",
+      "story3"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_6691_3044",
+    "word": "暑い",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Hot (weather)",
+    "translation": "あつい (atsui)",
+    "example": "暑い",
+    "category": "weather",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_5c06_6765",
+    "word": "将来",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Future",
+    "translation": "しょうらい (shourai)",
+    "example": "将来",
+    "category": "time",
+    "tags": [
+      "N5",
+      "story3"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_4e0a_624b",
+    "word": "上手",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Skilled / good at",
+    "translation": "じょうず (jouzu)",
+    "example": "上手",
+    "category": "praise",
+    "tags": [
+      "N5",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Умелый / хорош в чем-то",
+      "zh": "擅长",
+      "ko": "능숙하다/잘하다"
+    }
+  },
+  {
+    "id": "vocab_n5_690d_3048_308b",
+    "word": "植える",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "verb",
+    "definition": "To plant",
+    "translation": "うえる (ueru)",
+    "example": "花を植えます。",
+    "category": "verbs",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_98df_5f8c",
+    "word": "食後",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "After a meal",
+    "translation": "しょくご (shokugo)",
+    "example": "食後",
+    "category": "medical",
+    "tags": [
+      "N5",
+      "story5"
+    ],
+    "tr": {
+      "ru": "После еды",
+      "zh": "饭后",
+      "ko": "식후"
+    }
+  },
+  {
+    "id": "vocab_n5_5fc3",
+    "word": "心",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Heart/Spirit",
+    "translation": "こころ (kokoro)",
+    "example": "心",
+    "category": "emotions",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_5fc3_914d",
+    "word": "心配",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Worry/anxiety",
+    "translation": "しんぱい (shinpai)",
+    "example": "心配しないで。",
+    "category": "emotions",
+    "tags": [
+      "N5",
+      "story1",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_6c34",
+    "word": "水",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Water",
+    "translation": "みず (mizu)",
+    "example": "植物に水をあげます。",
+    "category": "daily-life",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_5148_751f",
+    "word": "先生",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Teacher",
+    "translation": "せんせい (sensei)",
+    "example": "田中先生は優しいです。",
+    "category": "classroom",
+    "tags": [
+      "N5",
+      "story0"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_7956_7236",
+    "word": "祖父",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Grandfather (formal)",
+    "translation": "そふ (sofu)",
+    "example": "祖父",
+    "category": "family",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_7956_6bcd",
+    "word": "祖母",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Grandmother (formal)",
+    "translation": "そぼ (sobo)",
+    "example": "祖母",
+    "category": "family",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_606f_5b50",
+    "word": "息子",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Son",
+    "translation": "むすこ (musuko)",
+    "example": "息子",
+    "category": "family",
+    "tags": [
+      "N5",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Сын",
+      "zh": "儿子",
+      "ko": "아들"
+    }
+  },
+  {
+    "id": "vocab_n5_5927_4e08_592b",
+    "word": "大丈夫",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "phrase",
+    "definition": "It's okay / All right",
+    "translation": "だいじょうぶ (daijoubu)",
+    "example": "大丈夫",
+    "category": "phrases",
+    "tags": [
+      "N5",
+      "story0",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_5927_5207",
+    "word": "大切",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
+    "definition": "Important/precious",
+    "translation": "たいせつ (taisetsu)",
+    "example": "大切",
+    "category": "adjectives",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_5ead",
+    "word": "庭",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Garden",
+    "translation": "にわ (niwa)",
+    "example": "庭で花を育てています。",
+    "category": "places",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_571f",
+    "word": "土",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Soil",
+    "translation": "つち (tsuchi)",
+    "example": "この土はやわらかいです。",
+    "category": "daily-life",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_8aad_3080",
+    "word": "読む",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "verb",
+    "definition": "To read",
+    "translation": "よむ (yomu)",
+    "example": "読む",
+    "category": "verbs",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_5c4a_304f",
+    "word": "届く",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "verb",
+    "definition": "To reach/arrive",
+    "translation": "とどく (todoku)",
+    "example": "届く",
+    "category": "verbs",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_65e5_672c_8a9e",
+    "word": "日本語",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Japanese language",
+    "translation": "にほんご (nihongo)",
+    "example": "日本語は難しいですか？",
+    "category": "classroom",
+    "tags": [
+      "N5",
+      "story0"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_65e5_672c_8a9e_5b66_6821",
+    "word": "日本語学校",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Japanese language school",
+    "translation": "にほんごがっこう (nihongo gakkou)",
+    "example": "日本語学校",
+    "category": "places",
+    "tags": [
+      "N5",
+      "story0"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_75b2_308c_3066_3044_308b",
+    "word": "疲れている",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Tired/exhausted",
+    "translation": "つかれている (tsukareteiru)",
+    "example": "疲れている",
+    "category": "state",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_75b2_308c_308b",
+    "word": "疲れる",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "To be tired",
+    "translation": "つかれる (tsukareru)",
+    "example": "疲れる",
+    "category": "state",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_7f8e_5473_3057_3044",
+    "word": "美味しい",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Delicious",
+    "translation": "おいしい (oishii)",
+    "example": "美味しい",
+    "category": "food",
+    "tags": [
+      "N5",
+      "story3"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_75c5_9662",
+    "word": "病院",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Hospital",
+    "translation": "びょういん (byouin)",
+    "example": "病院",
+    "category": "medical",
+    "tags": [
+      "N5",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Больница",
+      "zh": "医院",
+      "ko": "병원"
+    }
+  },
+  {
+    "id": "vocab_n5_7236",
+    "word": "父",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Father (my)",
+    "translation": "ちち (chichi)",
+    "example": "父",
+    "category": "family",
+    "tags": [
+      "N5",
+      "story3"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_52c9_5f37",
+    "word": "勉強",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Study",
+    "translation": "べんきょう (benkyou)",
+    "example": "毎日日本語を勉強します。",
+    "category": "classroom",
+    "tags": [
+      "N5",
+      "story0"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_6bcd",
+    "word": "母",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Mother (my)",
+    "translation": "はは (haha)",
+    "example": "母",
+    "category": "family",
+    "tags": [
+      "N5",
+      "story3"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_672c_5f53_306b",
+    "word": "本当に",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "phrase",
+    "definition": "Really/truly",
+    "translation": "ほんとうに (hontou ni)",
+    "example": "本当にありがとう。",
+    "category": "phrases",
+    "tags": [
+      "N5",
+      "story1"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_6bce_65e5",
+    "word": "毎日",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Every day",
+    "translation": "まいにち (mainichi)",
+    "example": "毎日",
+    "category": "time",
+    "tags": [
+      "N5",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Каждый день",
+      "zh": "每天",
+      "ko": "매일"
+    }
+  },
+  {
+    "id": "vocab_n5_5a18",
+    "word": "娘",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Daughter",
+    "translation": "むすめ (musume)",
+    "example": "娘",
+    "category": "family",
+    "tags": [
+      "N5",
+      "story4"
+    ],
+    "tr": {
+      "ru": "Дочь",
+      "zh": "女儿",
+      "ko": "딸"
+    }
+  },
+  {
+    "id": "vocab_n5_540d_524d",
+    "word": "名前",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Name",
+    "translation": "なまえ (namae)",
+    "example": "お名前は何ですか？",
+    "category": "daily-life",
+    "tags": [
+      "N5",
+      "story0"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_9762_767d_3044",
+    "word": "面白い",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Interesting / funny",
+    "translation": "おもしろい (omoshiroi)",
+    "example": "面白い",
+    "category": "emotions",
+    "tags": [
+      "N5",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Интересный / смешной",
+      "zh": "有趣",
+      "ko": "재미있다/흥미롭다"
+    }
+  },
+  {
+    "id": "vocab_n5_91ce_83dc",
+    "word": "野菜",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Vegetables",
+    "translation": "やさい (yasai)",
+    "example": "野菜",
+    "category": "food",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_53cb_9054",
+    "word": "友達",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Friend",
+    "translation": "ともだち (tomodachi)",
+    "example": "ケンは私の友達です。",
+    "category": "daily-life",
+    "tags": [
+      "N5",
+      "story0",
+      "story1",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Друг",
+      "zh": "朋友",
+      "ko": "친구"
+    }
+  },
+  {
+    "id": "vocab_n5_6765_308b",
+    "word": "来る",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "verb",
+    "definition": "To come",
+    "translation": "くる (kuru)",
+    "example": "来る",
+    "category": "verbs",
+    "tags": [
+      "N5",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_6599_7406",
+    "word": "料理",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Cooking/Cuisine",
+    "translation": "りょうり (ryouri)",
+    "example": "料理",
+    "category": "food",
+    "tags": [
+      "N5",
+      "story3"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n5_7dba_9e97",
+    "word": "綺麗",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
+    "definition": "Beautiful / pretty / clean",
+    "translation": "きれい (kirei)",
+    "example": "綺麗",
+    "category": "adjectives",
+    "tags": [
+      "N5",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Красивый / чистый",
+      "zh": "漂亮 / 干净",
+      "ko": "예쁘다/깨끗하다"
+    }
+  }
+]

@@ -1,0 +1,541 @@
+{
+  "vl2.title": {
+    "en": "Words for the Café",
+    "ru": "Слова для кафе",
+    "zh": "咖啡店里用的词",
+    "ja": "カフェで使う言葉",
+    "romaji": "Kafe de tsukau kotoba"
+  },
+  "vl2.subtitle": {
+    "en": "From ordering to apologizing",
+    "ru": "От заказа до извинения",
+    "zh": "从点单到道歉",
+    "ja": "注文から「ごめんなさい」まで",
+    "romaji": "Chuumon kara 'gomennasai' made"
+  },
+  "vl2.description": {
+    "en": "Practice eight words for ordering, the mealtime greeting, and apologizing at the café where Yuki works part-time.",
+    "ru": "Потренируйте восемь слов для заказа, приветствия перед едой и извинений в кафе, где подрабатывает Юки.",
+    "zh": "在由纪打工的咖啡店里，练习点单、用餐问候和道歉的八个词。",
+    "ja": "由紀のバイト先のカフェで、注文する言葉、食事のあいさつ、あやまる言葉を八つ練習します。",
+    "romaji": "Yuki no baito saki no kafe de, chuumon suru kotoba, shokuji no aisatsu, ayamaru kotoba o yattsu renshuu shimasu."
+  },
+  "vl2.setup": {
+    "en": "After class, Tanaka-sensei brings everyone to a café. Yuki is working her part-time shift today, and for today, this is the classroom.",
+    "ru": "После урока Танака-сэнсэй привёл всех в кафе. Сегодня здесь подрабатывает Юки, и на этот раз кафе — наш класс.",
+    "zh": "下课后，田中老师带大家来到咖啡店。今天由纪在这里打工，今天这里就是我们的教室。",
+    "ja": "田中先生は、授業のあと、みんなをカフェに連れてきた。今日のアルバイトは由紀。今日は、ここが教室だ。",
+    "romaji": "Tanaka-sensei wa, jugyou no ato, minna o kafe ni tsurete kita. Kyou no arubaito wa Yuki. Kyou wa, koko ga kyoushitsu da."
+  },
+  "vl2.y_welcome": {
+    "en": "Welcome! Three of you? Please, this way to your table.",
+    "ru": "Добро пожаловать! Вас трое? Проходите, пожалуйста, за этот столик.",
+    "zh": "欢迎光临！三位吗？这边请入座。",
+    "ja": "いらっしゃいませ！三人ですか？こちらのせきへどうぞ。",
+    "romaji": "Irasshaimase! Sannin desu ka? Kochira no seki e douzo."
+  },
+  "vl2.t_intro": {
+    "en": "Today's theme is words for the café. We will talk about eight words in a real situation.",
+    "ru": "Тема сегодня — слова для кафе. Мы поговорим о восьми словах в настоящей ситуации.",
+    "zh": "今天的主题是咖啡店里用的词。我们在真实的场景中聊这八个词。",
+    "ja": "今日のテーマは、カフェで使う言葉です。八つの言葉を、本当の場面で話しましょう。",
+    "romaji": "Kyou no teema wa, kafe de tsukau kotoba desu. Yattsu no kotoba o, hontou no bamen de hanashimashou."
+  },
+  "vl2.w1": {
+    "en": "First: “irasshaimase.” It is what shop staff say to customers.",
+    "ru": "Первое: «ирассяймасэ». Так работники магазина приветствуют покупателей.",
+    "zh": "首先是「いらっしゃいませ」。这是店员对客人说的话。",
+    "ja": "まず、「いらっしゃいませ」。お店の人が、お客さんに言う言葉です。",
+    "romaji": "Mazu, 'irasshaimase'. Omise no hito ga, okyakusan ni iu kotoba desu."
+  },
+  "vl2.w1_q": {
+    "en": "Should the customer answer something too?",
+    "ru": "Покупатель тоже должен что-то ответить?",
+    "zh": "客人也要回答什么吗？",
+    "ja": "お客さんも、何か答えますか？",
+    "romaji": "Okyakusan mo, nani ka kotaemasu ka?"
+  },
+  "vl2.w1_a": {
+    "en": "You do not have to answer. A small nod or a smile is enough.",
+    "ru": "Отвечать не обязательно. Достаточно лёгкого кивка или улыбки.",
+    "zh": "不用回答也没关系。小小点个头，或者微笑一下就够了。",
+    "ja": "答えなくても大丈夫です。小さく頭を下げたり、笑顔を見せたりすれば、十分です。",
+    "romaji": "Kotaenakute mo daijoubu desu. Chiisaku atama o sagetari, egao o misetari sureba, juubun desu."
+  },
+  "vl2.w1_yuki": {
+    "en": "Yes, I am happy too when I see a customer smile.",
+    "ru": "Да, я тоже радуюсь, когда вижу улыбку покупателя.",
+    "zh": "是的，看到客人的笑容，我也会很开心。",
+    "ja": "はい、わたしも、お客さんの笑顔を見ると、うれしいです。",
+    "romaji": "Hai, watashi mo, okyakusan no egao o miru to, ureshii desu."
+  },
+  "vl2.w2": {
+    "en": "Next is ordering. You say “koohii, onegaishimasu.” “Onegaishimasu” is used when you ask someone for something.",
+    "ru": "Дальше — заказ. Говорят «кохи, онэгайсимасу». «Онэгайсимасу» используют, когда о чём-то просят.",
+    "zh": "接下来是点单。说「コーヒー、お願いします」。「お願いします」用于请求别人。",
+    "ja": "次は、注文です。「コーヒー、お願いします」と言います。「お願いします」は、人にたのむときに使います。",
+    "romaji": "Tsugi wa, chuumon desu. 'Koohii, onegaishimasu' to iimasu. 'Onegaishimasu' wa, hito ni tanomu toki ni tsukaimasu."
+  },
+  "vl2.w2_q": {
+    "en": "Is “kudasai” different from “onegaishimasu”?",
+    "ru": "«Кудасай» и «онэгайсимасу» отличаются?",
+    "zh": "「ください」和「お願いします」有区别吗？",
+    "ja": "「ください」と「お願いします」は、ちがいますか？",
+    "romaji": "'Kudasai' to 'onegaishimasu' wa, chigaimasu ka?"
+  },
+  "vl2.w2_a": {
+    "en": "You can use both. But “onegaishimasu” is a little softer and sounds natural in a shop.",
+    "ru": "Можно использовать обе. Но «онэгайсимасу» звучит мягче и естественнее в магазине.",
+    "zh": "两个都可以用。但「お願いします」更委婉一些，在店里说更自然。",
+    "ja": "どちらも使えます。でも、「お願いします」のほうが、少しやわらかくて、お店では自然です。",
+    "romaji": "Dochira mo tsukaemasu. Demo, 'onegaishimasu' no hou ga, sukoshi yawarakakute, omise de wa shizen desu."
+  },
+  "vl2.p1_prompt": {
+    "en": "Now let's try ordering. You are asking Yuki for one coffee. What do you say?",
+    "ru": "Теперь попробуем сделать заказ. Вы просите у Юки одну чашку кофе. Что скажете?",
+    "zh": "现在来试着点单吧。你要向由纪点一杯咖啡，你会怎么说？",
+    "ja": "では、注文してみましょう。由紀さんに、コーヒーを一つたのみます。何と言いますか？",
+    "romaji": "Dewa, chuumon shite mimashou. Yuki-san ni, koohii o hitotsu tanomimasu. Nan to iimasu ka?"
+  },
+  "vl2.c1_natural": {
+    "en": "“Coffee, please.”",
+    "ru": "«Кофе, пожалуйста».",
+    "zh": "“请给我咖啡。”",
+    "ja": "「コーヒー、お願いします。」",
+    "romaji": "'Koohii, onegaishimasu.'"
+  },
+  "vl2.c1_formal": {
+    "en": "“Pardon me, but might I be permitted to receive one coffee?”",
+    "ru": "«Прошу прощения, не могли бы вы любезно подать мне одну чашку кофе?»",
+    "zh": "“不好意思，请问可否给我一杯咖啡呢？”",
+    "ja": "「失礼ですが、コーヒーを一ついただけますでしょうか。」",
+    "romaji": "'Shitsurei desu ga, koohii o hitotsu itadakemasu deshou ka.'"
+  },
+  "vl2.c1_mistake": {
+    "en": "“Coffee!”",
+    "ru": "«Кофе!»",
+    "zh": "“咖啡！”",
+    "ja": "「コーヒー！」",
+    "romaji": "'Koohii!'"
+  },
+  "vl2.c1_own": {
+    "en": "“Two hot coffees, please. One with milk.”",
+    "ru": "«Два горячих кофе, пожалуйста. Один с молоком».",
+    "zh": "“请给我两杯热咖啡。其中一杯加牛奶。”",
+    "ja": "「ホットコーヒーを二つ、お願いします。一つはミルク入りで。」",
+    "romaji": "'Hotto koohii o futatsu, onegaishimasu. Hitotsu wa miruku iri de.'"
+  },
+  "vl2.c1_min": {
+    "en": "“Um... coffee...”",
+    "ru": "«Э-э… кофе…»",
+    "zh": "“呃……咖啡……”",
+    "ja": "「あの…コーヒー…」",
+    "romaji": "'Ano... koohii...'"
+  },
+  "vl2.p1_nat_yuki": {
+    "en": "Yes, one coffee. Thank you!",
+    "ru": "Да, один кофе. Спасибо!",
+    "zh": "好的，一杯咖啡。谢谢！",
+    "ja": "はい、コーヒーですね。ありがとうございます！",
+    "romaji": "Hai, koohii desu ne. Arigatou gozaimasu!"
+  },
+  "vl2.p1_form_ken": {
+    "en": "Haha, that sounds like a hotel. At a café, something shorter is fine.",
+    "ru": "Ха-ха, как в отеле. В кафе можно говорить короче.",
+    "zh": "哈哈，像在酒店一样。在咖啡店说得更短一点就可以。",
+    "ja": "あはは、ホテルみたいですね。カフェでは、もっと短くて大丈夫です。",
+    "romaji": "Ahaha, hoteru mitai desu ne. Kafe de wa, motto mijikakute daijoubu desu."
+  },
+  "vl2.p1_mis_mei": {
+    "en": "Huh, just “Coffee!”? That sounds a little like an order.",
+    "ru": "Что, просто «Кофе!»? Это звучит как приказ.",
+    "zh": "咦，只说「コーヒー！」吗？听起来有点像命令。",
+    "ja": "えっ、「コーヒー！」だけですか？ちょっと、命令みたいですよ。",
+    "romaji": "E, 'Koohii!' dake desu ka? Chotto, meirei mitai desu yo."
+  },
+  "vl2.p1_mis_retry": {
+    "en": "Oh, coffee, please.",
+    "ru": "Ой, кофе, пожалуйста.",
+    "zh": "啊，请给我咖啡。",
+    "ja": "あっ、コーヒー、お願いします。",
+    "romaji": "A, koohii, onegaishimasu."
+  },
+  "vl2.p1_mis_relief": {
+    "en": "Right! Adding “onegaishimasu” makes it polite.",
+    "ru": "Верно! С «онэгайсимасу» звучит вежливо.",
+    "zh": "对！加上「お願いします」就变礼貌了。",
+    "ja": "そうです！「お願いします」がつくと、ていねいになります。",
+    "romaji": "Sou desu! 'Onegaishimasu' ga tsuku to, teinei ni narimasu."
+  },
+  "vl2.p1_own_yuki": {
+    "en": "Great! You gave the number and the milk clearly. That helps the staff a lot.",
+    "ru": "Здорово! Вы чётко назвали и количество, и молоко. Персоналу это очень помогает.",
+    "zh": "太棒了！数量和牛奶都说清楚了。这对店员帮助很大。",
+    "ja": "すごい！ちゃんと数もミルクも言えましたね。お店の人は、とても助かります。",
+    "romaji": "Sugoi! Chanto kazu mo miruku mo iemashita ne. Omise no hito wa, totemo tasukarimasu."
+  },
+  "vl2.p1_min_yuki": {
+    "en": "Yes, I understand. Next time, try adding “onegaishimasu.”",
+    "ru": "Да, я понимаю. В следующий раз попробуйте добавить «онэгайсимасу».",
+    "zh": "好的，我明白。下次试着加上「お願いします」吧。",
+    "ja": "はい、分かりますよ。次は、「お願いします」もつけてみましょう。",
+    "romaji": "Hai, wakarimasu yo. Tsugi wa, 'onegaishimasu' mo tsukete mimashou."
+  },
+  "vl2.w3_yuki": {
+    "en": "Thank you for waiting. Here is your coffee. Please, go ahead.",
+    "ru": "Спасибо, что подождали. Ваш кофе. Пожалуйста, берите.",
+    "zh": "让您久等了。这是您的咖啡。请用。",
+    "ja": "お待たせしました。コーヒーです。どうぞ。",
+    "romaji": "Omatase shimashita. Koohii desu. Douzo."
+  },
+  "vl2.w3": {
+    "en": "This is “douzo.” You say it when you hand something over or offer something to someone.",
+    "ru": "Это «дзодзо». Так говорят, когда подают что-то или предлагают.",
+    "zh": "这就是「どうぞ」。递东西给别人或请对方享用时说。",
+    "ja": "これが「どうぞ」です。ものをわたすときや、相手にすすめるときに言います。",
+    "romaji": "Kore ga 'douzo' desu. Mono o watasu toki ya, aite ni susumeru toki ni iimasu."
+  },
+  "vl2.w3_q": {
+    "en": "Oh, I have also heard “douzo” when someone offers a seat.",
+    "ru": "Ой, «дзодзо» я слышал и когда уступают место.",
+    "zh": "咦，让座的时候我也听到过「どうぞ」。",
+    "ja": "あれ、「どうぞ」は、席をゆずるときにも聞きました。",
+    "romaji": "Are, 'douzo' wa, seki o yuzuru toki ni mo kikimashita."
+  },
+  "vl2.w3_a": {
+    "en": "Exactly. “Douzo” carries the feeling of “please go ahead” or “please use it.”",
+    "ru": "Именно. «Дзодзо» несёт смысл «пожалуйста, вы первый» или «пользуйтесь».",
+    "zh": "没错。「どうぞ」有“请先用”“请使用”的意思。",
+    "ja": "そのとおりです。「どうぞ」は、「先にしてください」「使ってください」という気持ちです。",
+    "romaji": "Sono toori desu. 'Douzo' wa, 'saki ni shite kudasai' 'tsukatte kudasai' to iu kimochi desu."
+  },
+  "vl2.w4": {
+    "en": "Before you drink, you say “itadakimasu.” It is the same before you eat.",
+    "ru": "Перед тем как пить, говорят «итадакимасу». Так же говорят и перед едой.",
+    "zh": "喝之前说「いただきます」。吃之前也一样。",
+    "ja": "のむ前に、「いただきます」と言います。食べる前も同じです。",
+    "romaji": "Nomu mae ni, 'itadakimasu' to iimasu. Taberu mae mo onaji desu."
+  },
+  "vl2.w4_q": {
+    "en": "Do you say it when you are alone too?",
+    "ru": "Это говорят, даже когда вы один?",
+    "zh": "一个人的时候也要说吗？",
+    "ja": "一人のときも、言いますか？",
+    "romaji": "Hitori no toki mo, iimasu ka?"
+  },
+  "vl2.w4_a": {
+    "en": "Yes. It is not only for people; it also expresses thanks for the food and the person who made it.",
+    "ru": "Да. Это не только для других людей, но и благодарность еде и тому, кто её приготовил.",
+    "zh": "要说。这不只是对人说的，也是对食物和做食物的人的感谢。",
+    "ja": "はい。人だけでなく、食べものや作った人への感謝の気持ちでもあります。",
+    "romaji": "Hai. Hito dake de naku, tabemono ya tsukutta hito e no kansha no kimochi demo arimasu."
+  },
+  "vl2.w4_yuki": {
+    "en": "It makes me happy when a customer says “itadakimasu.”",
+    "ru": "Мне приятно, когда покупатель говорит «итадакимасу».",
+    "zh": "客人说「いただきます」，我会很开心。",
+    "ja": "お客さんが「いただきます」と言ってくれると、うれしいです。",
+    "romaji": "Okyakusan ga 'itadakimasu' to itte kureru to, ureshii desu."
+  },
+  "vl2.w5": {
+    "en": "After drinking, share your impression. When it is tasty, say “oishii.”",
+    "ru": "После того как выпьете, поделитесь впечатлением. Если вкусно, скажите «оисий».",
+    "zh": "喝完之后，说说感想吧。好喝的时候，说「美味しい」。",
+    "ja": "のんだあとは、感想を言いましょう。おいしいときは、「美味しい」です。",
+    "romaji": "Nonda ato wa, kansou o iimashou. Oishii toki wa, 'oishii' desu."
+  },
+  "vl2.p2_prompt": {
+    "en": "Now let's practice. You took a sip of the coffee, and Yuki asks, “How is it?” What do you say?",
+    "ru": "Теперь практика. Вы сделали глоток кофе, и Юки спрашивает: «Как вам?» Что вы скажете?",
+    "zh": "现在来练习。你喝了一口咖啡，由纪问：“怎么样？”你会怎么说？",
+    "ja": "では、練習です。コーヒーを一口のみました。由紀さんが、「どうですか？」と聞きました。何と言いますか？",
+    "romaji": "Dewa, renshuu desu. Koohii o hitokuchi nomimashita. Yuki-san ga, 'Dou desu ka?' to kikimashita. Nan to iimasu ka?"
+  },
+  "vl2.c2_natural": {
+    "en": "“It's delicious!”",
+    "ru": "«Вкусно!»",
+    "zh": "“很好喝！”",
+    "ja": "「美味しいです！」",
+    "romaji": "'Oishii desu!'"
+  },
+  "vl2.c2_formal": {
+    "en": "“This is a most excellent flavor.”",
+    "ru": "«Это в высшей степени превосходный вкус».",
+    "zh": "“味道非常好，令人满意。”",
+    "ja": "「大変結構なお味でございます。」",
+    "romaji": "'Taihen kekkou na oaji de gozaimasu.'"
+  },
+  "vl2.c2_mistake": {
+    "en": "“Itadakimasu!”",
+    "ru": "«Итадакимасу!»",
+    "zh": "“我开动了！”",
+    "ja": "「いただきます！」",
+    "romaji": "'Itadakimasu!'"
+  },
+  "vl2.c2_own": {
+    "en": "“Delicious! This coffee is a little sweet.”",
+    "ru": "«Вкусно! Этот кофе немного сладкий».",
+    "zh": "“好喝！这杯咖啡有一点甜呢。”",
+    "ja": "「美味しい！このコーヒーは、少しあまいですね。」",
+    "romaji": "'Oishii! Kono koohii wa, sukoshi amai desu ne.'"
+  },
+  "vl2.c2_min": {
+    "en": "“Ah... yeah...”",
+    "ru": "«А… ну…»",
+    "zh": "“啊……嗯……”",
+    "ja": "「あ…うん…」",
+    "romaji": "'A... un...'"
+  },
+  "vl2.p2_nat_yuki": {
+    "en": "Thank you! I'll tell the owner.",
+    "ru": "Спасибо! Я передам хозяину.",
+    "zh": "谢谢！我会转告老板的。",
+    "ja": "ありがとうございます！マスターに、つたえますね。",
+    "romaji": "Arigatou gozaimasu! Masutaa ni, tsutaemasu ne."
+  },
+  "vl2.p2_form_mei": {
+    "en": "Ha, that sounds like a review. “Oishii desu” is enough.",
+    "ru": "Ха-ха, как отзыв в интернете. Достаточно «оисий дэс».",
+    "zh": "呵呵，像写评论一样。说「美味しいです」就够了。",
+    "ja": "ふふ、まるでレビューみたいですね。「美味しいです」で、じゅうぶんです。",
+    "romaji": "Fufu, marude rebyuu mitai desu ne. 'Oishii desu' de, juubun desu."
+  },
+  "vl2.p2_mis_ken": {
+    "en": "Huh, “itadakimasu” is for before drinking. You already drank it.",
+    "ru": "Ой, «итадакимасу» говорят до того, как пьют. А вы уже выпили.",
+    "zh": "咦，「いただきます」是喝之前说的。你已经喝了呢。",
+    "ja": "あれ、「いただきます」は、のむ前ですよ。今は、もうのみましたね。",
+    "romaji": "Are, 'itadakimasu' wa, nomu mae desu yo. Ima wa, mou nomimashita ne."
+  },
+  "vl2.p2_mis_retry": {
+    "en": "Oh, right. It's delicious!",
+    "ru": "А, точно. Вкусно!",
+    "zh": "啊，对哦。很好喝！",
+    "ja": "あっ、そうか。美味しいです！",
+    "romaji": "A, sou ka. Oishii desu!"
+  },
+  "vl2.p2_mis_relief": {
+    "en": "That's it. Next time, say “itadakimasu” before drinking as well.",
+    "ru": "Вот так. В следующий раз ещё скажите «итадакимасу» перед тем, как пить.",
+    "zh": "就是这样。下次喝之前也说「いただきます」吧。",
+    "ja": "それです。次は、のむ前に「いただきます」も言いましょう。",
+    "romaji": "Sore desu. Tsugi wa, nomu mae ni 'itadakimasu' mo iimashou."
+  },
+  "vl2.p2_own_yuki": {
+    "en": "You noticed well! Customer comments are very helpful.",
+    "ru": "Вы хорошо заметили! Отзывы покупателей очень полезны.",
+    "zh": "你观察得真仔细！客人的感想对我们很有参考价值。",
+    "ja": "よく分かりましたね！お客さんの感想は、とても参考になります。",
+    "romaji": "Yoku wakarimashita ne! Okyakusan no kansou wa, totemo sankou ni narimasu."
+  },
+  "vl2.p2_min_tanaka": {
+    "en": "Take your time. Next time, try saying “oishii desu.”",
+    "ru": "Не торопитесь. В следующий раз попробуйте сказать «оисий дэс».",
+    "zh": "慢慢来没关系。下次试着说「美味しいです」吧。",
+    "ja": "ゆっくりで大丈夫です。今度は、「美味しいです」と言ってみましょう。",
+    "romaji": "Yukkuri de daijoubu desu. Kondo wa, 'oishii desu' to itte mimashou."
+  },
+  "vl2.spill": {
+    "en": "Just then, Ken's hand hits a glass, and water spills across the table.",
+    "ru": "В этот момент рука Кена задевает стакан, и вода разливается по столу.",
+    "zh": "这时，健的手碰到了杯子，水洒在了桌子上。",
+    "ja": "そのとき、ケンの手がコップにあたって、水がテーブルにこぼれた。",
+    "romaji": "Sono toki, Ken no te ga koppu ni atatte, mizu ga teeburu ni koboreta."
+  },
+  "vl2.w6_ken": {
+    "en": "Oh! I'm sorry!",
+    "ru": "Ой! Простите!",
+    "zh": "啊！对不起！",
+    "ja": "あっ！ごめんなさい！",
+    "romaji": "A! Gomennasai!"
+  },
+  "vl2.w6": {
+    "en": "That is “gomennasai.” It is what you say to apologize when you have made a mistake.",
+    "ru": "Это «гомэннасай». Так извиняются, когда вы совершили ошибку.",
+    "zh": "这就是「ごめんなさい」。自己犯了错时道歉用的话。",
+    "ja": "これが「ごめんなさい」です。自分がまちがえたときに、あやまる言葉です。",
+    "romaji": "Kore ga 'gomennasai' desu. Jibun ga machigaeta toki ni, ayamaru kotoba desu."
+  },
+  "vl2.w6_q": {
+    "en": "Which is better, this or “sumimasen”?",
+    "ru": "А что лучше: это или «сумимасэн»?",
+    "zh": "它和「すみません」哪个更好？",
+    "ja": "「すみません」と、どちらがいいですか？",
+    "romaji": "'Sumimasen' to, dochira ga ii desu ka?"
+  },
+  "vl2.w6_a": {
+    "en": "You can use both. “Sumimasen” works with anyone. “Gomennasai” is a slightly more personal way to say it, often used with friends and family.",
+    "ru": "Можно и то, и другое. «Сумимасэн» подходит для любого человека. «Гомэннасай» — более личная форма, её часто говорят друзьям и семье.",
+    "zh": "两个都可以用。「すみません」对谁都能用。「ごめんなさい」感觉更亲近一些，常对朋友和家人说。",
+    "ja": "どちらも使えます。「すみません」は、だれにでも使えます。「ごめんなさい」は、少し気持ちが近い言い方で、友だちや家族にもよく使います。",
+    "romaji": "Dochira mo tsukaemasu. 'Sumimasen' wa, dare ni demo tsukaemasu. 'Gomennasai' wa, sukoshi kimochi ga chikai iikata de, tomodachi ya kazoku ni mo yoku tsukaimasu."
+  },
+  "vl2.w6_yuki": {
+    "en": "In the shop, either “sumimasen” or “gomennasai” is fine. I'll wipe it up right away.",
+    "ru": "В магазине можно сказать и «сумимасэн», и «гомэннасай». Я сейчас же вытру.",
+    "zh": "在店里，说「すみません」或「ごめんなさい」都可以。我马上擦干净。",
+    "ja": "お店では、「すみません」でも「ごめんなさい」でも、大丈夫ですよ。すぐにふきますね。",
+    "romaji": "Omise de wa, 'sumimasen' demo 'gomennasai' demo, daijoubu desu yo. Sugu ni fukimasu ne."
+  },
+  "vl2.w7_yuki": {
+    "en": "Ken, are you all right? Are you wet?",
+    "ru": "Кен, вы в порядке? Вы не намокли?",
+    "zh": "健，你没事吧？有没有弄湿？",
+    "ja": "ケンさん、大丈夫ですか？ぬれていませんか？",
+    "romaji": "Ken-san, daijoubu desu ka? Nurete imasen ka?"
+  },
+  "vl2.w7_ken": {
+    "en": "Yes, I'm fine. Thank you.",
+    "ru": "Да, всё в порядке. Спасибо.",
+    "zh": "是的，我没事。谢谢。",
+    "ja": "はい、大丈夫です。ありがとうございます。",
+    "romaji": "Hai, daijoubu desu. Arigatou gozaimasu."
+  },
+  "vl2.w7": {
+    "en": "“Daijoubu” means “there is no problem.” It is a word that reassures someone who is worried about you.",
+    "ru": "«Дайдзёбу» означает «проблем нет». Это слово успокаивает человека, который беспокоится о вас.",
+    "zh": "「大丈夫」的意思是“没问题”。这是让担心你的人放心的话。",
+    "ja": "「大丈夫」は、「問題ありません」という意味です。心配している人に、安心してもらう言葉です。",
+    "romaji": "'Daijoubu' wa, 'mondai arimasen' to iu imi desu. Shinpai shite iru hito ni, anshin shite morau kotoba desu."
+  },
+  "vl2.p3_prompt": {
+    "en": "Now for the last practice. This time you have spilled the water, and Yuki asks, “Are you all right?” What do you say?",
+    "ru": "Теперь последняя практика. На этот раз воду пролили вы, и Юки спрашивает: «Вы в порядке?» Что вы скажете?",
+    "zh": "最后一个练习。这次是你把水洒了，由纪问：“你没事吧？”你会怎么说？",
+    "ja": "では、最後の練習です。今度は、あなたが水をこぼしました。由紀さんが、「大丈夫ですか？」と聞きました。何と言いますか？",
+    "romaji": "Dewa, saigo no renshuu desu. Kondo wa, anata ga mizu o koboshimashita. Yuki-san ga, 'Daijoubu desu ka?' to kikimashita. Nan to iimasu ka?"
+  },
+  "vl2.c3_natural": {
+    "en": "“I'm fine. I'm sorry!”",
+    "ru": "«Всё в порядке. Простите!»",
+    "zh": "“我没事。对不起！”",
+    "ja": "「大丈夫です。ごめんなさい！」",
+    "romaji": "'Daijoubu desu. Gomennasai!'"
+  },
+  "vl2.c3_formal": {
+    "en": "“I am grateful for your concern, and I am terribly sorry.”",
+    "ru": "«Благодарю за заботу, и приношу глубочайшие извинения».",
+    "zh": "“承蒙关心，不胜感激。实在非常抱歉。”",
+    "ja": "「お気づかいいただき、恐れ入ります。大変申し訳ございません。」",
+    "romaji": "'Okizukai itadaki, osoreirimasu. Taihen moushiwake gozaimasen.'"
+  },
+  "vl2.c3_mistake": {
+    "en": "“Itadakimasu!”",
+    "ru": "«Итадакимасу!»",
+    "zh": "“我开动了！”",
+    "ja": "「いただきます！」",
+    "romaji": "'Itadakimasu!'"
+  },
+  "vl2.c3_own": {
+    "en": "“I'm fine. But the table... I'm sorry, may I wipe it?”",
+    "ru": "«Я в порядке. Но стол… простите, можно я вытру?»",
+    "zh": "“我没事。可是桌子……对不起，我可以擦一下吗？”",
+    "ja": "「大丈夫です。でも、テーブルが…ごめんなさい、ふいてもいいですか？」",
+    "romaji": "'Daijoubu desu. Demo, teeburu ga... gomennasai, fuite mo ii desu ka?'"
+  },
+  "vl2.c3_min": {
+    "en": "“Yeah... fine...”",
+    "ru": "«Да… нормально…»",
+    "zh": "“嗯……没事……”",
+    "ja": "「うん…大丈夫…」",
+    "romaji": "'Un... daijoubu...'"
+  },
+  "vl2.p3_nat_yuki": {
+    "en": "Good. Please don't worry about it. I'll wipe it up right away.",
+    "ru": "Хорошо. Не переживайте. Я сейчас же вытру.",
+    "zh": "太好了。别放在心上。我马上擦。",
+    "ja": "よかった。気にしないでください。すぐにふきますね。",
+    "romaji": "Yokatta. Ki ni shinaide kudasai. Sugu ni fukimasu ne."
+  },
+  "vl2.p3_form_ken": {
+    "en": "Haha, even I couldn't say it that politely. “Daijoubu desu” is enough.",
+    "ru": "Ха-ха, даже я не смог бы сказать так вежливо. Достаточно «дайдзёбу дэс».",
+    "zh": "哈哈，我也说不出这么礼貌的话。说「大丈夫です」就可以了。",
+    "ja": "あはは、ぼくも、ここまでていねいには言えません。「大丈夫です」で、いいですよ。",
+    "romaji": "Ahaha, boku mo, koko made teinei ni wa iemasen. 'Daijoubu desu' de, ii desu yo."
+  },
+  "vl2.p3_mis_mei": {
+    "en": "Huh? You don't use “itadakimasu” now. You spilled the water, so it's “gomennasai.”",
+    "ru": "Что? «Итадакимасу» сейчас не подходит. Вы пролили воду, поэтому нужно «гомэннасай».",
+    "zh": "咦？现在不用说「いただきます」哦。你把水洒了，所以应该说「ごめんなさい」。",
+    "ja": "えっ？いま、「いただきます」は使わないですよ。水をこぼしたから、「ごめんなさい」ですね。",
+    "romaji": "E? Ima, 'itadakimasu' wa tsukawanai desu yo. Mizu o koboshita kara, 'gomennasai' desu ne."
+  },
+  "vl2.p3_mis_retry": {
+    "en": "Oh, I'm sorry! I'm fine.",
+    "ru": "Ой, простите! Я в порядке.",
+    "zh": "啊，对不起！我没事。",
+    "ja": "あっ、ごめんなさい！大丈夫です。",
+    "romaji": "A, gomennasai! Daijoubu desu."
+  },
+  "vl2.p3_mis_relief": {
+    "en": "Yes, that's it!",
+    "ru": "Да, именно так!",
+    "zh": "对，就是这个！",
+    "ja": "はい、それです！",
+    "romaji": "Hai, sore desu!"
+  },
+  "vl2.p3_own_tanaka": {
+    "en": "Wonderful. Being able to speak up on your own is a good thing.",
+    "ru": "Прекрасно. Умение самому заговорить — это хорошо.",
+    "zh": "太棒了。能主动开口是件好事。",
+    "ja": "すばらしい。自分から言えるのは、いいことです。",
+    "romaji": "Subarashii. Jibun kara ieru no wa, ii koto desu."
+  },
+  "vl2.p3_min_yuki": {
+    "en": "Good. But if you can add “gomennasai,” that is even better.",
+    "ru": "Хорошо. Но если добавить ещё «гомэннасай», будет ещё лучше.",
+    "zh": "太好了。不过如果再加上「ごめんなさい」会更好。",
+    "ja": "よかった。でも、「ごめんなさい」も言えると、もっといいですよ。",
+    "romaji": "Yokatta. Demo, 'gomennasai' mo ieru to, motto ii desu yo."
+  },
+  "vl2.talk_open": {
+    "en": "Now let's talk. Out of today's eight, which one do you want to use, and when?",
+    "ru": "Теперь поговорим. Какое из сегодняшних восьми слов вы хотите использовать и когда?",
+    "zh": "现在来聊聊。今天这八个词里，你最想在什么时候用哪一个？",
+    "ja": "では、話しましょう。今日の八つの中で、どれを、いつ使いたいですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no yattsu no naka de, dore o, itsu tsukaitai desu ka?"
+  },
+  "vl2.talk_mei": {
+    "en": "For me, it's “itadakimasu.” I want to say it at home and when I eat with friends.",
+    "ru": "Для меня это «итадакимасу». Я хочу говорить его и дома, и когда ем с друзьями.",
+    "zh": "我想用「いただきます」。在家里，和朋友吃饭的时候，我都想说。",
+    "ja": "わたしは「いただきます」です。家でも、友だちとごはんを食べるときも、言いたいです。",
+    "romaji": "Watashi wa 'itadakimasu' desu. Ie demo, tomodachi to gohan o taberu toki mo, iitai desu."
+  },
+  "vl2.talk_ken": {
+    "en": "For me, it's “gomennasai” and “daijoubu.” I got to use them right away today.",
+    "ru": "Для меня это «гомэннасай» и «дайдзёбу». Сегодня я сразу смог их использовать.",
+    "zh": "我想用「ごめんなさい」和「大丈夫」。今天马上就用上了。",
+    "ja": "ぼくは「ごめんなさい」と「大丈夫」です。今日、すぐに使えました。",
+    "romaji": "Boku wa 'gomennasai' to 'daijoubu' desu. Kyou, sugu ni tsukaemashita."
+  },
+  "vl2.talk_yuki": {
+    "en": "For me, it makes me happiest when customers say “oishii.”",
+    "ru": "Для меня самое приятное — когда покупатели говорят «оисий».",
+    "zh": "对我来说，客人说「美味しい」是最让我开心的事。",
+    "ja": "わたしは、お客さんが「美味しい」と言ってくれるのが、いちばんうれしいです。",
+    "romaji": "Watashi wa, okyakusan ga 'oishii' to itte kureru no ga, ichiban ureshii desu."
+  },
+  "vl2.talk_player": {
+    "en": "(Words for shops, like “onegaishimasu” and “douzo,” are short but really useful. I actually want to try speaking at a café now.)",
+    "ru": "(Слова для магазинов, такие как «онэгайсимасу» и «дзодзо», короткие, но очень полезные. Теперь мне и правда хочется поговорить в кафе.)",
+    "zh": "（在店里用的词，比如「お願いします」和「どうぞ」，虽然很短，却非常实用。我真的想在咖啡店里试着说说看。）",
+    "ja": "（お店で使う言葉は、「お願いします」や「どうぞ」みたいに、短いけれど、とても役に立つ。本当にカフェで話してみたくなった。）",
+    "romaji": "(Omise de tsukau kotoba wa, 'onegaishimasu' ya 'douzo' mitai ni, mijikai keredo, totemo yaku ni tatsu. Hontou ni kafe de hanashite mitaku natta.)"
+  },
+  "vl2.talk_close": {
+    "en": "Good lesson, everyone. You used all eight café words in a real situation.",
+    "ru": "Хороший урок, все. Вы использовали все восемь слов для кафе в настоящей ситуации.",
+    "zh": "各位，这节课很棒。你们在真实的场景中用上了这八个咖啡店里的词。",
+    "ja": "みなさん、いいレッスンでした。カフェで使う八つの言葉を、本当の場面で使えましたね。",
+    "romaji": "Minasan, ii ressun deshita. Kafe de tsukau yattsu no kotoba o, hontou no bamen de tsukaemashita ne."
+  },
+  "vl2.complete": {
+    "en": "End of Vocabulary Lesson 2.",
+    "ru": "Конец урока лексики 2.",
+    "zh": "词汇课 2 结束。",
+    "ja": "語彙レッスン2、おわり。",
+    "romaji": "Goi ressun ni, owari."
+  }
+}

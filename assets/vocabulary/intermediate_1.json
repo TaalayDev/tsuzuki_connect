@@ -1,0 +1,808 @@
+[
+  {
+    "id": "vocab_n4_301c_3066_3044_305f",
+    "word": "〜ていた",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "grammar",
+    "definition": "Was doing ~ / used to do ~ (continuous past)",
+    "translation": "(~te ita)",
+    "example": "〜ていた",
+    "category": "grammar",
+    "tags": [
+      "N4",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Делал ~ (длительное прошлое)",
+      "zh": "正在做~ / 以前做过~（过去进行）",
+      "ko": "하고 있었다 / 하곤 했다 (과거의 지속 / 습관)"
+    }
+  },
+  {
+    "id": "vocab_n4_304a_304b_308f_308a",
+    "word": "おかわり",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Another serving / refill",
+    "translation": "(okawari)",
+    "example": "おかわりしてもいいですか。",
+    "category": "food",
+    "tags": [
+      "N4",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n4_304a_5f85_305f_305b_3057_307e_3057_305f",
+    "word": "お待たせしました",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "phrase",
+    "definition": "Sorry for making you wait",
+    "translation": "おまたせしました (omatase shimashita)",
+    "example": "お待たせしました。行きましょう。",
+    "category": "greetings",
+    "tags": [
+      "N4",
+      "story1"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n4_30ab_30a6_30f3_30bf_30fc",
+    "word": "カウンター",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Counter (bar)",
+    "translation": "(kauntaa)",
+    "example": "カウンター",
+    "category": "nightlife",
+    "tags": [
+      "N4",
+      "story4"
+    ],
+    "tr": {
+      "ru": "Барная стойка",
+      "zh": "柜台（酒吧）",
+      "ko": "카운터 (바)"
+    }
+  },
+  {
+    "id": "vocab_n4_30b9_30ca_30c3_30af",
+    "word": "スナック",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Snack bar (small hostess bar)",
+    "translation": "(sunakku)",
+    "example": "スナック",
+    "category": "nightlife",
+    "tags": [
+      "N4",
+      "story4"
+    ],
+    "tr": {
+      "ru": "Снек-бар",
+      "zh": "小吃吧",
+      "ko": "스낵바"
+    }
+  },
+  {
+    "id": "vocab_n4_30c9_30ad_30c9_30ad",
+    "word": "ドキドキ",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Heart pounding (onomatopoeia)",
+    "translation": "(dokidoki)",
+    "example": "心がドキドキする。",
+    "category": "emotions",
+    "tags": [
+      "N4",
+      "story1"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n4_30d3_30c7_30aa_901a_8a71",
+    "word": "ビデオ通話",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Video call",
+    "translation": "ビデオつうわ (bideo tsuuwa)",
+    "example": "ビデオ通話しよう。",
+    "category": "daily-life",
+    "tags": [
+      "N4",
+      "story1"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n4_30e1_30c3_30bb_30fc_30b8",
+    "word": "メッセージ",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Message",
+    "translation": "(messeeji)",
+    "example": "メッセージを送りました。",
+    "category": "daily-life",
+    "tags": [
+      "N4",
+      "story1"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n4_3082_3089_3046",
+    "word": "もらう",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To receive",
+    "translation": "(morau)",
+    "example": "もう一つもらってもいいですか。",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n4_3084_3063_3068_4f1a_3048_305f",
+    "word": "やっと会えた",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "phrase",
+    "definition": "Finally we meet",
+    "translation": "やっとあえた (yatto aeta)",
+    "example": "やっと会えた！嬉しい！",
+    "category": "greetings",
+    "tags": [
+      "N4",
+      "story1"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n4_3084_3063_3071_308a",
+    "word": "やっぱり",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "phrase",
+    "definition": "As expected / After all",
+    "translation": "(yappari)",
+    "example": "やっぱりそうだと思った。",
+    "category": "phrases",
+    "tags": [
+      "N4",
+      "story1"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n4_3088_304b_3063_305f",
+    "word": "よかった",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "phrase",
+    "definition": "I'm glad / It was good",
+    "translation": "(yokatta)",
+    "example": "よかった",
+    "category": "phrases",
+    "tags": [
+      "N4",
+      "story5"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n4_5b89_5fc3",
+    "word": "安心",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Relief/peace of mind",
+    "translation": "あんしん (anshin)",
+    "example": "安心しました。",
+    "category": "emotions",
+    "tags": [
+      "N4",
+      "story1"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n4_80b2_3066_308b",
+    "word": "育てる",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To raise (a child)",
+    "translation": "そだてる (sodateru)",
+    "example": "育てる",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "story4"
+    ],
+    "tr": {
+      "ru": "Растить (ребенка)",
+      "zh": "抚养",
+      "ko": "키우다 (기르다)"
+    }
+  },
+  {
+    "id": "vocab_n4_6539_672d",
+    "word": "改札",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Ticket gate",
+    "translation": "かいさつ (kaisatsu)",
+    "example": "改札の前で会いましょう。",
+    "category": "places",
+    "tags": [
+      "N4",
+      "story1"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n4_611f_3058_308b",
+    "word": "感じる",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To feel / to sense",
+    "translation": "かんじる (kanjiru)",
+    "example": "感じる",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "story6"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n4_7dca_5f35",
+    "word": "緊張",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Nervousness/tension",
+    "translation": "きんちょう (kinchou)",
+    "example": "緊張しています。",
+    "category": "emotions",
+    "tags": [
+      "N4",
+      "story1",
+      "story3"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n4_8a00_8449",
+    "word": "言葉",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Words / language / expression",
+    "translation": "ことば (kotoba)",
+    "example": "言葉",
+    "category": "core",
+    "tags": [
+      "N4",
+      "story6"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n4_601d_3044_51fa",
+    "word": "思い出",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Memories",
+    "translation": "おもいで (omoide)",
+    "example": "思い出",
+    "category": "emotions",
+    "tags": [
+      "N4",
+      "story4"
+    ],
+    "tr": {
+      "ru": "Воспоминания",
+      "zh": "回忆",
+      "ko": "추억"
+    }
+  },
+  {
+    "id": "vocab_n4_601d_3044_51fa_3059",
+    "word": "思い出す",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To recall / remember",
+    "translation": "おもいだす (omoidasu)",
+    "example": "思い出す",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Вспоминать",
+      "zh": "想起 / 回忆起",
+      "ko": "생각나다/기억하다"
+    }
+  },
+  {
+    "id": "vocab_n4_81ea_5206",
+    "word": "自分",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Oneself / yourself",
+    "translation": "じぶん (jibun)",
+    "example": "自分を信じて。",
+    "category": "daily-life",
+    "tags": [
+      "N4",
+      "story1",
+      "story6"
+    ],
+    "tr": {
+      "ru": "Себя / сам",
+      "zh": "自己",
+      "ko": "자신"
+    }
+  },
+  {
+    "id": "vocab_n4_5b9f_306f",
+    "word": "実は",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "phrase",
+    "definition": "Actually / To tell the truth",
+    "translation": "じつは (jitsu wa)",
+    "example": "実は、緊張していました。",
+    "category": "phrases",
+    "tags": [
+      "N4",
+      "story1"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n4_5bc2_3057_3044",
+    "word": "寂しい",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Lonely / lonesome / desolate",
+    "translation": "さびしい (sabishii)",
+    "example": "寂しい",
+    "category": "emotions",
+    "tags": [
+      "N4",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Одинокий / тоскливый",
+      "zh": "寂寞 / 孤单",
+      "ko": "외롭다 / 적적하다"
+    }
+  },
+  {
+    "id": "vocab_n4_7a2e",
+    "word": "種",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Seed",
+    "translation": "たね (tane)",
+    "example": "春の種を買いました。",
+    "category": "daily-life",
+    "tags": [
+      "N4",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n4_8da3_5473",
+    "word": "趣味",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Hobby",
+    "translation": "しゅみ (shumi)",
+    "example": "趣味",
+    "category": "lifestyle",
+    "tags": [
+      "N4",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Хобби",
+      "zh": "爱好",
+      "ko": "취미"
+    }
+  },
+  {
+    "id": "vocab_n4_51fa_4f1a_3044",
+    "word": "出会い",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Encounter/meeting",
+    "translation": "であい (deai)",
+    "example": "素敵な出会いでした。",
+    "category": "daily-life",
+    "tags": [
+      "N4",
+      "story1"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n4_52a9_6570_8a5e",
+    "word": "助数詞",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "grammar",
+    "definition": "Counters / numerical classifiers",
+    "translation": "じょすうし (josuushi)",
+    "example": "助数詞",
+    "category": "grammar",
+    "tags": [
+      "N4",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Счетные суффиксы",
+      "zh": "助数词 / 计数用词",
+      "ko": "조수사 (숫자를 세는 단위)"
+    }
+  },
+  {
+    "id": "vocab_n4_6614",
+    "word": "昔",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Long ago / the old days / once",
+    "translation": "むかし (mukashi)",
+    "example": "昔",
+    "category": "time",
+    "tags": [
+      "N4",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Давным-давно / старые времена",
+      "zh": "很久以前 / 昔日",
+      "ko": "옛날 / 옛적"
+    }
+  },
+  {
+    "id": "vocab_n4_7d9a_3051_308b",
+    "word": "続ける",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To continue",
+    "translation": "つづける (tsuzukeru)",
+    "example": "続ける",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Продолжать",
+      "zh": "继续",
+      "ko": "계속하다"
+    }
+  },
+  {
+    "id": "vocab_n4_5b6b",
+    "word": "孫",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Grandchild",
+    "translation": "まご (mago)",
+    "example": "孫",
+    "category": "family",
+    "tags": [
+      "N4",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Внук/внучка",
+      "zh": "孙辈",
+      "ko": "손주"
+    }
+  },
+  {
+    "id": "vocab_n4_888b",
+    "word": "袋",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Bag/packet",
+    "translation": "ふくろ (fukuro)",
+    "example": "二袋ください。",
+    "category": "daily-life",
+    "tags": [
+      "N4",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n4_6065_305a_304b_3057_3044",
+    "word": "恥ずかしい",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Embarrassed / ashamed",
+    "translation": "はずかしい (hazukashii)",
+    "example": "恥ずかしい",
+    "category": "emotions",
+    "tags": [
+      "N4",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Смущенный / пристыженный",
+      "zh": "不好意思 / 羞愧",
+      "ko": "부끄럽다/창피하다"
+    }
+  },
+  {
+    "id": "vocab_n4_6ce8_6587",
+    "word": "注文",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Order",
+    "translation": "ちゅうもん (chuumon)",
+    "example": "ご注文はお決まりですか？",
+    "category": "daily-life",
+    "tags": [
+      "N4",
+      "story1"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n4_4e01_5be7",
+    "word": "丁寧",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adjective",
+    "definition": "Careful / polite / thorough",
+    "translation": "ていねい (teinei)",
+    "example": "丁寧",
+    "category": "adjectives",
+    "tags": [
+      "N4",
+      "story6"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n4_4f1d_3048_308b",
+    "word": "伝える",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To convey / to communicate / to pass on",
+    "translation": "つたえる (tsutaeru)",
+    "example": "伝える",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "story6"
+    ],
+    "tr": {
+      "ru": "Передавать",
+      "zh": "传达",
+      "ko": "전하다"
+    }
+  },
+  {
+    "id": "vocab_n4_7530_820e",
+    "word": "田舎",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Countryside",
+    "translation": "いなか (inaka)",
+    "example": "田舎の空気は静かです。",
+    "category": "places",
+    "tags": [
+      "N4",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n4_9053_306b_8ff7_3046",
+    "word": "道に迷う",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "phrase",
+    "definition": "To get lost",
+    "translation": "みちにまよう (michi ni mayou)",
+    "example": "道に迷う",
+    "category": "phrases",
+    "tags": [
+      "N4",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Заблудиться",
+      "zh": "迷路",
+      "ko": "길을 잃다"
+    }
+  },
+  {
+    "id": "vocab_n4_7279_5225",
+    "word": "特別",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adjective",
+    "definition": "Special",
+    "translation": "とくべつ (tokubetsu)",
+    "example": "特別",
+    "category": "adjectives",
+    "tags": [
+      "N4",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Особенный",
+      "zh": "特别",
+      "ko": "특별함"
+    }
+  },
+  {
+    "id": "vocab_n4_82d7",
+    "word": "苗",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Seedling",
+    "translation": "なえ (nae)",
+    "example": "新しい苗を植えます。",
+    "category": "daily-life",
+    "tags": [
+      "N4",
+      "story2"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n4_7269_8a9e",
+    "word": "物語",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Story / narrative / tale",
+    "translation": "ものがたり (monogatari)",
+    "example": "物語",
+    "category": "literary",
+    "tags": [
+      "N4",
+      "story6"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n4_5909_3048_308b",
+    "word": "変える",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To change (transitive)",
+    "translation": "かえる (kaeru)",
+    "example": "変える",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Менять (переходный)",
+      "zh": "改变（及物）",
+      "ko": "바꾸다 (타동사)"
+    }
+  },
+  {
+    "id": "vocab_n4_5909_308f_308b",
+    "word": "変わる",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To change (intransitive)",
+    "translation": "かわる (kawaru)",
+    "example": "変わる",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "story7"
+    ],
+    "tr": {
+      "ru": "Меняться (непереходный)",
+      "zh": "改变（不及物）",
+      "ko": "변하다 (자동사)"
+    }
+  },
+  {
+    "id": "vocab_n4_62b9_8336_30e9_30c6",
+    "word": "抹茶ラテ",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Matcha latte",
+    "translation": "まっちゃラテ (matcha rate)",
+    "example": "抹茶ラテ、おいしいですよ。",
+    "category": "food",
+    "tags": [
+      "N4",
+      "story1"
+    ],
+    "tr": {}
+  },
+  {
+    "id": "vocab_n4_85ac_5c40",
+    "word": "薬局",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Pharmacy",
+    "translation": "やっきょく (yakkyoku)",
+    "example": "薬局",
+    "category": "medical",
+    "tags": [
+      "N4",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Аптека",
+      "zh": "药房",
+      "ko": "약국"
+    }
+  },
+  {
+    "id": "vocab_n4_7df4_7fd2",
+    "word": "練習",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "Practice",
+    "translation": "れんしゅう (renshuu)",
+    "example": "練習",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "story5"
+    ],
+    "tr": {
+      "ru": "Практика",
+      "zh": "练习",
+      "ko": "연습"
+    }
+  }
+]

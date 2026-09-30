@@ -1,0 +1,618 @@
+{
+  "vl3.title": {
+    "en": "My Family",
+    "ru": "Моя семья",
+    "zh": "我的家人",
+    "ja": "わたしの家族",
+    "romaji": "Watashi no kazoku"
+  },
+  "vl3.subtitle": {
+    "en": "Ways to say family, plus “tadaima” and “okaeri”",
+    "ru": "Как называть родных, и «тадаима» и «окаэри»",
+    "zh": "家人的称呼，以及「ただいま」和「おかえり」",
+    "ja": "家族の呼び方と、「ただいま」「おかえり」",
+    "romaji": "Kazoku no yobikata to, 'tadaima' 'okaeri'"
+  },
+  "vl3.description": {
+    "en": "Look at family photos and practice ten words: how to talk about your own family and someone else's, and the greetings for coming home.",
+    "ru": "Рассматривая семейные фотографии, потренируйте десять слов: как говорить о своей и чужой семье и как приветствовать дома.",
+    "zh": "一边看家人的照片，一边练习十个词：如何谈论自己和别人的家人，以及回家时的问候语。",
+    "ja": "家族の写真を見ながら、自分の家族と人の家族の言い方、家に帰るときのあいさつを十つ練習します。",
+    "romaji": "Kazoku no shashin o minagara, jibun no kazoku to hito no kazoku no iikata, ie ni kaeru toki no aisatsu o touka renshuu shimasu."
+  },
+  "vl3.setup": {
+    "en": "Today everyone has brought a family photo. Tanaka-sensei writes “kazoku” on the blackboard.",
+    "ru": "Сегодня все принесли семейные фотографии. Танака-сэнсэй пишет на доске «кадзоку».",
+    "zh": "今天大家都带来了家人的照片。田中老师在黑板上写下了「家族」。",
+    "ja": "今日は、みんなが家族の写真を持ってきた。田中先生が、黒板に「家族」と書いた。",
+    "romaji": "Kyou wa, minna ga kazoku no shashin o motte kita. Tanaka-sensei ga, kokuban ni 'kazoku' to kaita."
+  },
+  "vl3.t_intro": {
+    "en": "Today's theme is “kazoku,” family. We will talk about ten words slowly, looking at the photos.",
+    "ru": "Тема сегодня — «кадзоку», семья. Мы неспешно поговорим о десяти словах, глядя на фотографии.",
+    "zh": "今天的主题是「家族」。我们一边看照片，一边慢慢聊这十个词。",
+    "ja": "今日のテーマは「家族」です。十の言葉を、写真を見ながら、ゆっくり話しましょう。",
+    "romaji": "Kyou no teema wa 'kazoku' desu. Juu no kotoba o, shashin o minagara, yukkuri hanashimashou."
+  },
+  "vl3.w1": {
+    "en": "First: “kazoku.” It means the people you live with, or the people who are dear to you.",
+    "ru": "Первое: «кадзоку». Это люди, с которыми вы живёте, или те, кто вам дорог.",
+    "zh": "首先是「家族」。指一起生活的人，或是重要的人们。",
+    "ja": "まず、「家族」。いっしょに住んでいる人や、大切な人たちのことです。",
+    "romaji": "Mazu, 'kazoku'. Issho ni sunde iru hito ya, taisetsu na hitotachi no koto desu."
+  },
+  "vl3.w1_q": {
+    "en": "Are grandpa and grandma family too?",
+    "ru": "Дедушка и бабушка тоже семья?",
+    "zh": "爷爷奶奶也算家人吗？",
+    "ja": "おじいちゃんやおばあちゃんも、家族ですか？",
+    "romaji": "Ojiichan ya obaachan mo, kazoku desu ka?"
+  },
+  "vl3.w1_a": {
+    "en": "Yes, of course. They are family even if you do not live together.",
+    "ru": "Да, конечно. Они семья, даже если вы не живёте вместе.",
+    "zh": "当然。即使不住在一起，也是家人。",
+    "ja": "はい、もちろん。いっしょに住んでいなくても、家族です。",
+    "romaji": "Hai, mochiron. Issho ni sunde inakute mo, kazoku desu."
+  },
+  "vl3.w2": {
+    "en": "When you talk about your own family, you say “watashi no kazoku.” “Watashi” means “I” or “me.”",
+    "ru": "Говоря о своей семье, вы говорите «ватаси но кадзоку». «Ватаси» означает «я».",
+    "zh": "谈到自己的家人时，说「私の家族」。「私」指自己。",
+    "ja": "自分の家族を話すときは、「私の家族」と言います。「私」は、自分のことです。",
+    "romaji": "Jibun no kazoku o hanasu toki wa, 'watashi no kazoku' to iimasu. 'Watashi' wa, jibun no koto desu."
+  },
+  "vl3.w2_q": {
+    "en": "Is “boku” the same as “watashi”?",
+    "ru": "«Боку» и «ватаси» — это одно и то же?",
+    "zh": "「ぼく」和「私」一样吗？",
+    "ja": "「ぼく」と「私」は、同じですか？",
+    "romaji": "'Boku' to 'watashi' wa, onaji desu ka?"
+  },
+  "vl3.w2_a": {
+    "en": "The meaning is the same. But “boku” is mostly used by men with friends. “Watashi” can be used by anyone, anywhere.",
+    "ru": "Значение одно и то же. Но «боку» в основном используют мужчины в кругу друзей, а «ватаси» подходит любому человеку в любой ситуации.",
+    "zh": "意思相同。不过「ぼく」主要是男性对朋友用的，「私」谁都可以在任何场合使用。",
+    "ja": "意味は同じです。でも、「ぼく」はおもに男の人が友だちに使います。「私」は、だれでも、どこでも使えます。",
+    "romaji": "Imi wa onaji desu. Demo, 'boku' wa omo ni otoko no hito ga tomodachi ni tsukaimasu. 'Watashi' wa, dare demo, doko demo tsukaemasu."
+  },
+  "vl3.w3": {
+    "en": "Next: “chichi” and “haha.” You use them when you talk about your own family to other people.",
+    "ru": "Дальше: «тити» и «хаха». Их используют, когда рассказывают другим людям о своей семье.",
+    "zh": "接下来是「父」和「母」。向别人谈起自己的家人时使用。",
+    "ja": "次は、「父」と「母」。自分の家族のことを、ほかの人に話すときに使います。",
+    "romaji": "Tsugi wa, 'chichi' to 'haha'. Jibun no kazoku no koto o, hoka no hito ni hanasu toki ni tsukaimasu."
+  },
+  "vl3.w3_q": {
+    "en": "Are “otousan” and “okaasan” different?",
+    "ru": "«Отосан» и «окасан» отличаются?",
+    "zh": "「お父さん」和「お母さん」不一样吗？",
+    "ja": "「お父さん」と「お母さん」は、ちがいますか？",
+    "romaji": "'Otousan' to 'okaasan' wa, chigaimasu ka?"
+  },
+  "vl3.w3_a": {
+    "en": "They are different. You say “otousan” and “okaasan” when talking about someone else's family. You also use them when you call your own parents directly.",
+    "ru": "Отличаются. «Отосан» и «окасан» говорят, когда речь о чужой семье. Их также используют, когда обращаются напрямую к собственным родителям.",
+    "zh": "不一样。谈到别人的家人时，说「お父さん」「お母さん」。当面称呼自己的父母时也用这两个词。",
+    "ja": "ちがいます。「お父さん」「お母さん」は、ほかの人の家族のときに言います。それから、自分の家族を直接よぶときも使います。",
+    "romaji": "Chigaimasu. 'Otousan' 'okaasan' wa, hoka no hito no kazoku no toki ni iimasu. Sorekara, jibun no kazoku o chokusetsu yobu toki mo tsukaimasu."
+  },
+  "vl3.w3_ken": {
+    "en": "So it is “otousan” at home, and “chichi” when I talk to a teacher.",
+    "ru": "Значит, дома «отосан», а при разговоре с учителем «тити».",
+    "zh": "那就是在家里说「お父さん」，对老师说「父」。",
+    "ja": "じゃあ、家では「お父さん」、先生には「父」ですね。",
+    "romaji": "Jaa, ie de wa 'otousan', sensei ni wa 'chichi' desu ne."
+  },
+  "vl3.p1_prompt": {
+    "en": "Now let's practice. Please introduce your family to the class. What do you say?",
+    "ru": "Теперь практика. Представьте свою семью классу. Что вы скажете?",
+    "zh": "现在来练习。请向全班介绍你的家人。你会怎么说？",
+    "ja": "では、練習です。クラスのみんなに、あなたの家族を紹介してください。何と言いますか？",
+    "romaji": "Dewa, renshuu desu. Kurasu no minna ni, anata no kazoku o shoukai shite kudasai. Nan to iimasu ka?"
+  },
+  "vl3.c1_natural": {
+    "en": "“My family is my father and my mother.”",
+    "ru": "«Моя семья — это отец и мать».",
+    "zh": "“我的家人是父亲和母亲。”",
+    "ja": "「私の家族は、父と母です。」",
+    "romaji": "'Watashi no kazoku wa, chichi to haha desu.'"
+  },
+  "vl3.c1_formal": {
+    "en": "“My family consists of two persons, my father and my mother.”",
+    "ru": "«Моя семья состоит из двух человек — отца и матери».",
+    "zh": "“我的家人共有两位，即父亲和母亲。”",
+    "ja": "「わたくしの家族は、父と母の二人でございます。」",
+    "romaji": "'Watakushi no kazoku wa, chichi to haha no futari de gozaimasu.'"
+  },
+  "vl3.c1_mistake": {
+    "en": "“My family is my otousan and my okaasan.”",
+    "ru": "«Моя семья — это мой отосан и мой окасан».",
+    "zh": "“我的家人是我的お父さん和お母さん。”",
+    "ja": "「私の家族は、お父さんとお母さんです。」",
+    "romaji": "'Watashi no kazoku wa, otousan to okaasan desu.'"
+  },
+  "vl3.c1_own": {
+    "en": "“My father is good at cooking. My mother is a teacher.”",
+    "ru": "«Мой отец хорошо готовит. Моя мать — учитель».",
+    "zh": "“我父亲擅长做饭，我母亲是老师。”",
+    "ja": "「父は料理が上手です。母は先生です。」",
+    "romaji": "'Chichi wa ryouri ga jouzu desu. Haha wa sensei desu.'"
+  },
+  "vl3.c1_min": {
+    "en": "“Family... father and mother...”",
+    "ru": "«Семья… отец и мать…»",
+    "zh": "“家人……父亲和母亲……”",
+    "ja": "「家族…父と母…」",
+    "romaji": "'Kazoku... chichi to haha...'"
+  },
+  "vl3.p1_nat_mei": {
+    "en": "That's right, “chichi” and “haha.” You said it properly.",
+    "ru": "Вот именно, «тити» и «хаха». Вы сказали правильно.",
+    "zh": "对对，「父」和「母」。你说得很好。",
+    "ja": "そうそう、「父」と「母」。ちゃんと言えましたね。",
+    "romaji": "Sou sou, 'chichi' to 'haha'. Chanto iemashita ne."
+  },
+  "vl3.p1_form_yuki": {
+    "en": "Ha, that is too polite! In class, something shorter is fine.",
+    "ru": "Ха-ха, слишком вежливо! В классе можно говорить короче.",
+    "zh": "呵呵，太礼貌了！在班上说得短一点就可以。",
+    "ja": "ふふ、ていねいすぎます！クラスでは、もっと短くて大丈夫です。",
+    "romaji": "Fufu, teinei sugimasu! Kurasu de wa, motto mijikakute daijoubu desu."
+  },
+  "vl3.p1_mis_ken": {
+    "en": "Many people say that to friends. But with teachers or people you don't know well, “chichi” and “haha” sound more natural.",
+    "ru": "Многие так говорят друзьям. Но с учителем или малознакомыми людьми «тити» и «хаха» звучат естественнее.",
+    "zh": "对朋友很多人会这样说。但对老师或不太熟的人，说「父」「母」更自然。",
+    "ja": "友だちには、そう言う人も多いです。でも、先生や、あまり知らない人には、「父」「母」のほうが自然です。",
+    "romaji": "Tomodachi ni wa, sou iu hito mo ooi desu. Demo, sensei ya, amari shiranai hito ni wa, 'chichi' 'haha' no hou ga shizen desu."
+  },
+  "vl3.p1_mis_retry": {
+    "en": "Oh, my family is my father and my mother.",
+    "ru": "Ой, моя семья — это отец и мать.",
+    "zh": "啊，我的家人是父亲和母亲。",
+    "ja": "あっ、私の家族は、父と母です。",
+    "romaji": "A, watashi no kazoku wa, chichi to haha desu."
+  },
+  "vl3.p1_mis_relief": {
+    "en": "Right! With this, you are safe with anyone.",
+    "ru": "Верно! Так можно говорить любому человеку.",
+    "zh": "对！这样对谁说都放心。",
+    "ja": "そうです！これなら、だれにでも安心です。",
+    "romaji": "Sou desu! Kore nara, dare ni demo anshin desu."
+  },
+  "vl3.p1_own_yuki": {
+    "en": "Nice! We get a good picture of your father and mother.",
+    "ru": "Отлично! Мы хорошо представляем вашего отца и вашу мать.",
+    "zh": "不错！我们很了解你的父母了。",
+    "ja": "いいですね！お父さんとお母さんのことが、よく分かります。",
+    "romaji": "Ii desu ne! Otousan to okaasan no koto ga, yoku wakarimasu."
+  },
+  "vl3.p1_min_tanaka": {
+    "en": "That gets across. Next time, try starting with “watashi no kazoku wa.”",
+    "ru": "Вас поймут. В следующий раз попробуйте начать с «ватаси но кадзоку ва».",
+    "zh": "能听懂。下次试着从「私の家族は」开始说吧。",
+    "ja": "伝わりますよ。次は、「私の家族は」から始めてみましょう。",
+    "romaji": "Tsutawarimasu yo. Tsugi wa, 'watashi no kazoku wa' kara hajimete mimashou."
+  },
+  "vl3.p2_prompt": {
+    "en": "Now let's talk about someone else's family. Please ask whether Mei's mother is a teacher. What do you say?",
+    "ru": "Теперь поговорим о семье другого человека. Спросите, работает ли мама Мэй учителем. Что вы скажете?",
+    "zh": "现在来谈谈别人的家人。请问问小梅的妈妈是不是老师。你会怎么说？",
+    "ja": "では、次は、ほかの人の家族の話です。メイさんのお母さんが、先生かどうか、聞いてください。何と言いますか？",
+    "romaji": "Dewa, tsugi wa, hoka no hito no kazoku no hanashi desu. Mei-san no okaasan ga, sensei ka dou ka, kiite kudasai. Nan to iimasu ka?"
+  },
+  "vl3.c2_natural": {
+    "en": "“Is Mei's mother a teacher?”",
+    "ru": "«Мама Мэй — учитель?»",
+    "zh": "“小梅的妈妈是老师吗？”",
+    "ja": "「メイさんのお母さんは、先生ですか？」",
+    "romaji": "'Mei-san no okaasan wa, sensei desu ka?'"
+  },
+  "vl3.c2_formal": {
+    "en": "“Does Mei's most honorable mother hold a teaching post?”",
+    "ru": "«Занимает ли достопочтенная матушка Мэй должность преподавателя?»",
+    "zh": "“请问小梅的令堂在从事教职吗？”",
+    "ja": "「メイ様のお母様は、教職についていらっしゃいますか？」",
+    "romaji": "'Mei-sama no okaasama wa, kyoushoku ni tsuite irasshaimasu ka?'"
+  },
+  "vl3.c2_mistake": {
+    "en": "“Is Mei's haha a teacher?”",
+    "ru": "«Хаха Мэй — учитель?»",
+    "zh": "“小梅的「母」是老师吗？”",
+    "ja": "「メイさんの母は、先生ですか？」",
+    "romaji": "'Mei-san no haha wa, sensei desu ka?'"
+  },
+  "vl3.c2_own": {
+    "en": "“I would like to hear about Mei's father and mother.”",
+    "ru": "«Мне хочется послушать о папе и маме Мэй».",
+    "zh": "“我想听听小梅的爸爸妈妈的事。”",
+    "ja": "「メイさんのお父さんとお母さんの話を聞きたいです。」",
+    "romaji": "'Mei-san no otousan to okaasan no hanashi o kikitai desu.'"
+  },
+  "vl3.c2_min": {
+    "en": "“Mei's... mother... teacher?”",
+    "ru": "«Мама… Мэй… учитель?»",
+    "zh": "“小梅的……妈妈……老师？”",
+    "ja": "「メイさんの…お母さん…先生？」",
+    "romaji": "'Mei-san no... okaasan... sensei?'"
+  },
+  "vl3.p2_nat_mei": {
+    "en": "No, my mother is an office worker. It is my father who is a teacher.",
+    "ru": "Нет, моя мама работает в компании. Учитель — мой папа.",
+    "zh": "不是，我母亲是公司职员。当老师的是我父亲。",
+    "ja": "いいえ、母は会社員です。父が、先生なんです。",
+    "romaji": "Iie, haha wa kaishain desu. Chichi ga, sensei nan desu."
+  },
+  "vl3.p2_form_mei": {
+    "en": "Haha, my mother would be surprised. “Okaasan wa, sensei desu ka?” is fine.",
+    "ru": "Ха-ха, моя мама бы удивилась. Достаточно «окасан ва, сэнсэй дэс ка?».",
+    "zh": "哈哈，我妈妈会吓一跳的。说「お母さんは、先生ですか？」就可以了。",
+    "ja": "あはは、母がびっくりしそうです。「お母さんは、先生ですか？」で、いいですよ。",
+    "romaji": "Ahaha, haha ga bikkuri shisou desu. 'Okaasan wa, sensei desu ka?' de, ii desu yo."
+  },
+  "vl3.p2_mis_mei": {
+    "en": "Ha, “haha” is only for your own family. For someone else's family, it is “okaasan.”",
+    "ru": "Ха-ха, «хаха» — только про свою семью. О чужой семье говорят «окасан».",
+    "zh": "呵呵，「母」只用于自己的家人。别人的家人要说「お母さん」哦。",
+    "ja": "ふふ、「母」は、自分の家族だけです。ほかの人の家族には、「お母さん」ですよ。",
+    "romaji": "Fufu, 'haha' wa, jibun no kazoku dake desu. Hoka no hito no kazoku ni wa, 'okaasan' desu yo."
+  },
+  "vl3.p2_mis_retry": {
+    "en": "Oh, is Mei's mother a teacher?",
+    "ru": "Ой, мама Мэй — учитель?",
+    "zh": "啊，小梅的妈妈是老师吗？",
+    "ja": "あっ、メイさんのお母さんは、先生ですか？",
+    "romaji": "A, Mei-san no okaasan wa, sensei desu ka?"
+  },
+  "vl3.p2_mis_relief": {
+    "en": "Exactly. Your own is “haha,” someone else's is “okaasan.”",
+    "ru": "Именно. О своей — «хаха», о чужой — «окасан».",
+    "zh": "对，就是这样。自己的说「母」，别人的说「お母さん」。",
+    "ja": "そうそう、それです。自分は「母」、人は「お母さん」。",
+    "romaji": "Sou sou, sore desu. Jibun wa 'haha', hito wa 'okaasan'."
+  },
+  "vl3.p2_own_mei": {
+    "en": "I'm happy to hear that! Then let's talk about them later, looking at the photos.",
+    "ru": "Мне приятно! Тогда давайте позже поговорим о них по фотографиям.",
+    "zh": "好开心！那我们等会儿一边看照片一边聊吧。",
+    "ja": "うれしいです！じゃあ、あとで写真を見ながら話しましょう。",
+    "romaji": "Ureshii desu! Jaa, ato de shashin o minagara hanashimashou."
+  },
+  "vl3.p2_min_yuki": {
+    "en": "I understand. Next time, try saying the whole sentence: “Okaasan wa, sensei desu ka?”",
+    "ru": "Я понимаю. В следующий раз попробуйте сказать целиком: «Окасан ва, сэнсэй дэс ка?»",
+    "zh": "我明白。下次试着说完整：「お母さんは、先生ですか？」",
+    "ja": "分かりますよ。次は、「お母さんは、先生ですか？」と、全部言ってみましょう。",
+    "romaji": "Wakarimasu yo. Tsugi wa, 'Okaasan wa, sensei desu ka?' to, zenbu itte mimashou."
+  },
+  "vl3.w5": {
+    "en": "Then there are “ojiichan” and “obaachan.” They are the affectionate way to say grandpa and grandma.",
+    "ru": "Затем «оодзитян» и «обатян». Это ласковые формы слов «дедушка» и «бабушка».",
+    "zh": "接下来是「おじいちゃん」和「おばあちゃん」。是对爷爷奶奶比较亲切的称呼。",
+    "ja": "それから、「おじいちゃん」と「おばあちゃん」。おじいさん、おばあさんのやさしい言い方です。",
+    "romaji": "Sorekara, 'ojiichan' to 'obaachan'. Ojiisan, obaasan no yasashii iikata desu."
+  },
+  "vl3.w5_yuki": {
+    "en": "I call my grandma every day. She is very cheerful.",
+    "ru": "Я звоню бабушке каждый день. Она очень бодрая.",
+    "zh": "我每天都给奶奶打电话。她非常有精神。",
+    "ja": "わたしは、毎日おばあちゃんに電話をします。とても元気です。",
+    "romaji": "Watashi wa, mainichi obaachan ni denwa o shimasu. Totemo genki desu."
+  },
+  "vl3.w5_ken": {
+    "en": "I live together with my grandpa and grandma.",
+    "ru": "Я живу вместе с дедушкой и бабушкой.",
+    "zh": "我和爷爷奶奶住在一起。",
+    "ja": "ぼくは、おじいちゃんとおばあちゃんと、いっしょに住んでいます。",
+    "romaji": "Boku wa, ojiichan to obaachan to, issho ni sunde imasu."
+  },
+  "vl3.w5_mei": {
+    "en": "Really? I'd love to visit your home, Ken!",
+    "ru": "Правда? Мне бы хотелось побывать у вас дома, Кен!",
+    "zh": "咦，是这样吗？我想去健的家里看看！",
+    "ja": "えっ、そうなんですか？ケンさんの家に、行ってみたいです！",
+    "romaji": "E, sou nan desu ka? Ken-san no ie ni, itte mitai desu!"
+  },
+  "vl3.w5_tanaka": {
+    "en": "Good idea. Since today is about family, let's all go together.",
+    "ru": "Хорошая мысль. Раз сегодня мы говорим о семье, пойдёмте все вместе.",
+    "zh": "好主意。今天的主题是家人，我们大家一起去吧。",
+    "ja": "いい考えですね。今日は、家族の話ですから、みんなで行きましょう。",
+    "romaji": "Ii kangae desu ne. Kyou wa, kazoku no hanashi desu kara, minna de ikimashou."
+  },
+  "vl3.arrive": {
+    "en": "In the evening, everyone arrives at Ken's home. As they step into the entrance, his grandma comes out.",
+    "ru": "Вечером все приходят к Кену домой. Когда они входят в прихожую, выходит бабушка.",
+    "zh": "傍晚，大家来到了健的家。刚走进玄关，奶奶就出来了。",
+    "ja": "夕方、みんなは、ケンの家に着いた。玄関に入ると、おばあちゃんが出てきた。",
+    "romaji": "Yuugata, minna wa, Ken no ie ni tsuita. Genkan ni hairu to, obaachan ga dete kita."
+  },
+  "vl3.h_tadaima": {
+    "en": "I'm home!",
+    "ru": "Я дома!",
+    "zh": "我回来了！",
+    "ja": "ただいま！",
+    "romaji": "Tadaima!"
+  },
+  "vl3.h_okaeri": {
+    "en": "Welcome home, Ken. Oh, you all came too. Please make yourselves at home.",
+    "ru": "С возвращением, Кен. О, вы все пришли. Располагайтесь, пожалуйста.",
+    "zh": "欢迎回来，健。哎呀，大家也来了呢。请放松一点。",
+    "ja": "おかえり、ケン。あら、みんなも来たんですね。ゆっくりしてください。",
+    "romaji": "Okaeri, Ken. Ara, minna mo kita n desu ne. Yukkuri shite kudasai."
+  },
+  "vl3.w9": {
+    "en": "These are “tadaima” and “okaeri.” The person coming home says “tadaima,” and the person who was at home says “okaeri.”",
+    "ru": "Это «тадаима» и «окаэри». Человек, вернувшийся домой, говорит «тадаима», а тот, кто был дома, отвечает «окаэри».",
+    "zh": "这就是「ただいま」和「おかえり」。回到家的人说「ただいま」，在家里的人说「おかえり」。",
+    "ja": "これが「ただいま」と「おかえり」です。家に帰った人が「ただいま」、家にいた人が「おかえり」と言います。",
+    "romaji": "Kore ga 'tadaima' to 'okaeri' desu. Ie ni kaetta hito ga 'tadaima', ie ni ita hito ga 'okaeri' to iimasu."
+  },
+  "vl3.w9_q": {
+    "en": "Do you say “tadaima” at other people's homes too?",
+    "ru": "В чужом доме тоже говорят «тадаима»?",
+    "zh": "在别人家里也说「ただいま」吗？",
+    "ja": "ほかの人の家でも、「ただいま」と言いますか？",
+    "romaji": "Hoka no hito no ie demo, 'tadaima' to iimasu ka?"
+  },
+  "vl3.w9_a": {
+    "en": "No, “tadaima” is only for returning to your own home. At someone else's home, you say “ojamashimasu.”",
+    "ru": "Нет, «тадаима» говорят только когда возвращаются в собственный дом. В чужом доме говорят «оджамасимасу».",
+    "zh": "不，「ただいま」只在回到自己家时说。去别人家里要说「おじゃまします」。",
+    "ja": "いいえ、「ただいま」は、自分の家に帰ったときだけです。ほかの人の家では、「おじゃまします」と言います。",
+    "romaji": "Iie, 'tadaima' wa, jibun no ie ni kaetta toki dake desu. Hoka no hito no ie de wa, 'ojamashimasu' to iimasu."
+  },
+  "vl3.h_grand": {
+    "en": "Ken has a grandpa too. He is out in the garden right now.",
+    "ru": "У Кена есть и дедушка. Он сейчас в саду.",
+    "zh": "健还有爷爷呢。他现在在院子里。",
+    "ja": "ケンには、おじいちゃんも、います。いま、庭にいますよ。",
+    "romaji": "Ken ni wa, ojiichan mo, imasu. Ima, niwa ni imasu yo."
+  },
+  "vl3.w9_yuki": {
+    "en": "Both “ojiichan” and “obaachan” are words that feel warm to hear.",
+    "ru": "И «оодзитян», и «обатян» — тёплые слова, приятно слышать.",
+    "zh": "「おじいちゃん」和「おばあちゃん」都是听了会觉得温暖的词呢。",
+    "ja": "「おじいちゃん」も「おばあちゃん」も、聞くとうれしい言葉ですね。",
+    "romaji": "'Ojiichan' mo 'obaachan' mo, kiku to ureshii kotoba desu ne."
+  },
+  "vl3.p3_prompt": {
+    "en": "Now let's practice. This time it is your own home. You come back from school, and your family says “okaeri.” What do you say?",
+    "ru": "Теперь практика. На этот раз это ваш дом. Вы вернулись из школы, и семья говорит «окаэри». Что вы ответите?",
+    "zh": "现在来练习。这次是你自己的家。你放学回来，家人对你说「おかえり」。你会怎么回答？",
+    "ja": "では、練習です。今度は、あなたの家です。学校から帰ると、家族が「おかえり」と言いました。何と言いますか？",
+    "romaji": "Dewa, renshuu desu. Kondo wa, anata no ie desu. Gakkou kara kaeru to, kazoku ga 'okaeri' to iimashita. Nan to iimasu ka?"
+  },
+  "vl3.c3_natural": {
+    "en": "“I'm home!”",
+    "ru": "«Я дома!»",
+    "zh": "“我回来了！”",
+    "ja": "「ただいま！」",
+    "romaji": "'Tadaima!'"
+  },
+  "vl3.c3_formal": {
+    "en": "“I have returned. I apologize for making you worry.”",
+    "ru": "«Я вернулся. Прошу прощения, что заставил вас волноваться».",
+    "zh": "“我回来了。让您担心了，实在抱歉。”",
+    "ja": "「ただいま帰りました。ご心配をおかけしました。」",
+    "romaji": "'Tadaima kaerimashita. Goshinpai o okake shimashita.'"
+  },
+  "vl3.c3_mistake": {
+    "en": "“Welcome home!”",
+    "ru": "«С возвращением!»",
+    "zh": "“欢迎回来！”",
+    "ja": "「おかえり！」",
+    "romaji": "'Okaeri!'"
+  },
+  "vl3.c3_own": {
+    "en": "“I'm home. Today I talked with my friends at school.”",
+    "ru": "«Я дома. Сегодня в школе я разговаривал с друзьями».",
+    "zh": "“我回来了。今天我在学校和朋友聊了天。”",
+    "ja": "「ただいま。今日は、学校でともだちと話しました。」",
+    "romaji": "'Tadaima. Kyou wa, gakkou de tomodachi to hanashimashita.'"
+  },
+  "vl3.c3_min": {
+    "en": "“Ah... yeah...”",
+    "ru": "«А… ну…»",
+    "zh": "“啊……嗯……”",
+    "ja": "「あ…うん…」",
+    "romaji": "'A... un...'"
+  },
+  "vl3.p3_nat_grand": {
+    "en": "Yes, welcome home. Wash your hands, and let's eat.",
+    "ru": "Да, с возвращением. Вымой руки, и будем есть.",
+    "zh": "好，欢迎回来。洗洗手，我们吃饭吧。",
+    "ja": "はい、おかえりなさい。手をあらって、ごはんを食べましょう。",
+    "romaji": "Hai, okaerinasai. Te o aratte, gohan o tabemashou."
+  },
+  "vl3.p3_form_ken": {
+    "en": "Haha, with family, just “tadaima” is fine.",
+    "ru": "Ха-ха, для семьи достаточно просто «тадаима».",
+    "zh": "哈哈，对家人来说，只说「ただいま」就可以了。",
+    "ja": "あはは、家族には、「ただいま」だけで大丈夫ですよ。",
+    "romaji": "Ahaha, kazoku ni wa, 'tadaima' dake de daijoubu desu yo."
+  },
+  "vl3.p3_mis_mei": {
+    "en": "Huh? “Okaeri” is what the person who was at home says. The person who returned says “tadaima.”",
+    "ru": "Что? «Окаэри» говорит тот, кто был дома. Вернувшийся говорит «тадаима».",
+    "zh": "咦？「おかえり」是在家的人说的。回来的人要说「ただいま」。",
+    "ja": "えっ？「おかえり」は、家にいた人が言う言葉ですよ。帰った人は、「ただいま」です。",
+    "romaji": "E? 'Okaeri' wa, ie ni ita hito ga iu kotoba desu yo. Kaetta hito wa, 'tadaima' desu."
+  },
+  "vl3.p3_mis_retry": {
+    "en": "Oh, I'm home!",
+    "ru": "Ой, я дома!",
+    "zh": "啊，我回来了！",
+    "ja": "あっ、ただいま！",
+    "romaji": "A, tadaima!"
+  },
+  "vl3.p3_mis_relief": {
+    "en": "Yes, that's it! Welcome home!",
+    "ru": "Да, именно так! С возвращением!",
+    "zh": "对，就是这个！欢迎回来！",
+    "ja": "はい、それです！おかえりなさい！",
+    "romaji": "Hai, sore desu! Okaerinasai!"
+  },
+  "vl3.p3_own_grand": {
+    "en": "Is that so. Tell me more about it later, slowly.",
+    "ru": "Вот как. Расскажите мне об этом позже, не спеша.",
+    "zh": "是吗。等会儿慢慢讲给我听吧。",
+    "ja": "そうですか。あとで、ゆっくり聞かせてくださいね。",
+    "romaji": "Sou desu ka. Ato de, yukkuri kikasete kudasai ne."
+  },
+  "vl3.p3_min_yuki": {
+    "en": "Are you feeling down? Saying “tadaima” makes you feel like you are really home.",
+    "ru": "Вы не в духе? Когда говоришь «тадаима», чувствуешь себя по-настоящему дома.",
+    "zh": "没精神吗？说「ただいま」，会有真正回到家的感觉哦。",
+    "ja": "元気がないですか？「ただいま」と言うと、うちに帰った気持ちになりますよ。",
+    "romaji": "Genki ga nai desu ka? 'Tadaima' to iu to, uchi ni kaetta kimochi ni narimasu yo."
+  },
+  "vl3.p4_prompt": {
+    "en": "The last one is the reverse. This time you are at home. Your family comes back and says “tadaima.” What do you say?",
+    "ru": "Последнее — наоборот. Теперь вы дома. Семья возвращается и говорит «тадаима». Что вы ответите?",
+    "zh": "最后一个反过来。这次你在家里。家人回来说「ただいま」。你会怎么回答？",
+    "ja": "最後は、反対です。今度は、あなたが家にいます。家族が帰ってきて、「ただいま」と言いました。何と言いますか？",
+    "romaji": "Saigo wa, hantai desu. Kondo wa, anata ga ie ni imasu. Kazoku ga kaette kite, 'tadaima' to iimashita. Nan to iimasu ka?"
+  },
+  "vl3.c4_natural": {
+    "en": "“Welcome home!”",
+    "ru": "«С возвращением!»",
+    "zh": "“欢迎回来！”",
+    "ja": "「おかえり！」",
+    "romaji": "'Okaeri!'"
+  },
+  "vl3.c4_formal": {
+    "en": "“Welcome home. Thank you for your hard work.”",
+    "ru": "«С возвращением. Спасибо за ваш труд».",
+    "zh": "“欢迎回来。您辛苦了。”",
+    "ja": "「おかえりなさいませ。おつかれさまでございました。」",
+    "romaji": "'Okaerinasaimase. Otsukaresama de gozaimashita.'"
+  },
+  "vl3.c4_mistake": {
+    "en": "“I'm home!”",
+    "ru": "«Я дома!»",
+    "zh": "“我回来了！”",
+    "ja": "「ただいま！」",
+    "romaji": "'Tadaima!'"
+  },
+  "vl3.c4_own": {
+    "en": "“Welcome home! How was your day?”",
+    "ru": "«С возвращением! Как прошёл день?»",
+    "zh": "“欢迎回来！今天过得怎么样？”",
+    "ja": "「おかえり！今日は、どうでしたか？」",
+    "romaji": "'Okaeri! Kyou wa, dou deshita ka?'"
+  },
+  "vl3.c4_min": {
+    "en": "“Yeah... welcome home...”",
+    "ru": "«Да… с возвращением…»",
+    "zh": "“嗯……欢迎回来……”",
+    "ja": "「うん…おかえり…」",
+    "romaji": "'Un... okaeri...'"
+  },
+  "vl3.p4_nat_ken": {
+    "en": "Yes, just right. It is a warm, family-like way to say it.",
+    "ru": "Да, в самый раз. Это тёплая, семейная манера.",
+    "zh": "嗯，刚刚好。是很温柔、像家人一样的说法。",
+    "ja": "うん、ちょうどいいです。家族らしい、やさしい言い方ですね。",
+    "romaji": "Un, choudo ii desu. Kazoku rashii, yasashii iikata desu ne."
+  },
+  "vl3.p4_form_grand": {
+    "en": "Oh my, that sounds like a hotel. At home, just “okaeri” is fine.",
+    "ru": "Ой-ой, как в гостинице. Дома достаточно просто «окаэри».",
+    "zh": "哎呀哎呀，像酒店一样呢。在家里，只说「おかえり」就好了。",
+    "ja": "あらあら、ホテルみたいですね。家では、「おかえり」だけで、いいんですよ。",
+    "romaji": "Ara ara, hoteru mitai desu ne. Ie de wa, 'okaeri' dake de, ii n desu yo."
+  },
+  "vl3.p4_mis_yuki": {
+    "en": "Huh? “Tadaima” is what the person coming home says. The person at home says “okaeri.”",
+    "ru": "Ой? «Тадаима» говорит вернувшийся. Тот, кто дома, говорит «окаэри».",
+    "zh": "咦？「ただいま」是回家的人说的。在家的人要说「おかえり」。",
+    "ja": "あれ？「ただいま」は、帰った人が言いますよ。家にいる人は、「おかえり」です。",
+    "romaji": "Are? 'Tadaima' wa, kaetta hito ga iimasu yo. Ie ni iru hito wa, 'okaeri' desu."
+  },
+  "vl3.p4_mis_retry": {
+    "en": "Oh, welcome home!",
+    "ru": "Ой, с возвращением!",
+    "zh": "啊，欢迎回来！",
+    "ja": "あっ、おかえり！",
+    "romaji": "A, okaeri!"
+  },
+  "vl3.p4_mis_relief": {
+    "en": "Yes, that's it! Now it sounds like a real family greeting.",
+    "ru": "Да, именно! Теперь это настоящее семейное приветствие.",
+    "zh": "对，就是这个！现在是真正的家人问候了。",
+    "ja": "はい、それです！ちゃんと家族の言葉になりました。",
+    "romaji": "Hai, sore desu! Chanto kazoku no kotoba ni narimashita."
+  },
+  "vl3.p4_own_ken": {
+    "en": "Nice. A little extra after “okaeri” makes your family happy.",
+    "ru": "Здорово. Небольшое добавление после «окаэри» радует семью.",
+    "zh": "不错。在「おかえり」之后再加一句话，会让家人很开心。",
+    "ja": "いいですね。「おかえり」のあとの一言は、家族をうれしくします。",
+    "romaji": "Ii desu ne. 'Okaeri' no ato no hitokoto wa, kazoku o ureshiku shimasu."
+  },
+  "vl3.p4_min_mei": {
+    "en": "You said it just fine. Saying it cheerfully makes it even nicer.",
+    "ru": "Вы сказали правильно. Если сказать бодро, будет ещё приятнее.",
+    "zh": "你说得没问题。说得有精神一些会更让人高兴。",
+    "ja": "ちゃんと言えていますよ。元気に言うと、もっとうれしくなります。",
+    "romaji": "Chanto iete imasu yo. Genki ni iu to, motto ureshiku narimasu."
+  },
+  "vl3.talk_open": {
+    "en": "Now let's talk. Out of today's ten words, which one do you most want to use?",
+    "ru": "Теперь поговорим. Какое из сегодняшних десяти слов вы больше всего хотите использовать?",
+    "zh": "现在来聊聊。今天这十个词里，你最想用哪一个？",
+    "ja": "では、話しましょう。今日の十の言葉の中で、いちばん使いたい言葉は、何ですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no juu no kotoba no naka de, ichiban tsukaitai kotoba wa, nan desu ka?"
+  },
+  "vl3.talk_mei": {
+    "en": "For me, it's “tadaima.” I want to say it cheerfully to my family when I get home.",
+    "ru": "Для меня это «тадаима». Я хочу бодро говорить его семье, когда прихожу домой.",
+    "zh": "我想用「ただいま」。回到家时，想精神地对家人说。",
+    "ja": "わたしは、「ただいま」です。家に帰ったとき、家族に元気に言いたいです。",
+    "romaji": "Watashi wa, 'tadaima' desu. Ie ni kaetta toki, kazoku ni genki ni iitai desu."
+  },
+  "vl3.talk_ken": {
+    "en": "For me, it's choosing between “chichi” and “otousan.” It is still a little difficult.",
+    "ru": "Для меня это выбор между «тити» и «отосан». Пока это немного сложно.",
+    "zh": "我是「父」和「お父さん」的区分。现在还有点难。",
+    "ja": "ぼくは、「父」と「お父さん」の使い分けです。まだ少しむずかしいです。",
+    "romaji": "Boku wa, 'chichi' to 'otousan' no tsukaiwake desu. Mada sukoshi muzukashii desu."
+  },
+  "vl3.talk_yuki": {
+    "en": "For me, it's “ojiichan” and “obaachan.” Now I want to call my grandma soon.",
+    "ru": "Для меня это «оодзитян» и «обатян». Мне уже хочется поскорее позвонить бабушке.",
+    "zh": "我想用「おじいちゃん」和「おばあちゃん」。我现在很想快点给奶奶打电话。",
+    "ja": "「おじいちゃん」と「おばあちゃん」です。おばあちゃんに、早く電話したくなりました。",
+    "romaji": "'Ojiichan' to 'obaachan' desu. Obaachan ni, hayaku denwa shitaku narimashita."
+  },
+  "vl3.talk_tanaka": {
+    "en": "Lovely. Words about family are words close to the heart.",
+    "ru": "Прекрасно. Слова о семье близки сердцу.",
+    "zh": "真好。关于家人的词，也是贴近心灵的词。",
+    "ja": "すてきですね。家族の言葉は、心にも近い言葉です。",
+    "romaji": "Suteki desu ne. Kazoku no kotoba wa, kokoro ni mo chikai kotoba desu."
+  },
+  "vl3.talk_player": {
+    "en": "(The “chichi” versus “otousan” difference is easy if I think of it as my own family versus someone else's. Tonight, when I get home, I'll try saying “tadaima.”)",
+    "ru": "(Разницу между «тити» и «отосан» легко понять: своя семья или чужая. Сегодня вечером, вернувшись домой, я попробую сказать «тадаима».)",
+    "zh": "（「父」和「お父さん」的区别，只要想成是自己的家人还是别人的家人就好懂了。今晚回到家，我要试着说「ただいま」。）",
+    "ja": "（「父」と「お父さん」の使い分けは、自分の家族かほかの人の家族か、で考えれば分かりやすい。今夜、家に帰ったら、「ただいま」と言ってみよう。）",
+    "romaji": "('Chichi' to 'otousan' no tsukaiwake wa, jibun no kazoku ka hoka no hito no kazoku ka, de kangaereba wakariyasui. Konya, ie ni kaettara, 'tadaima' to itte miyou.)"
+  },
+  "vl3.talk_close": {
+    "en": "Good lesson, everyone. You used all ten words about family in real situations.",
+    "ru": "Хороший урок, все. Вы использовали все десять слов о семье в настоящих ситуациях.",
+    "zh": "各位，这节课很棒。你们在真实的场景中用上了这十个关于家人的词。",
+    "ja": "みなさん、いいレッスンでした。家族についての十の言葉を、本当の場面で使えましたね。",
+    "romaji": "Minasan, ii ressun deshita. Kazoku ni tsuite no juu no kotoba o, hontou no bamen de tsukaemashita ne."
+  },
+  "vl3.complete": {
+    "en": "End of Vocabulary Lesson 3.",
+    "ru": "Конец урока лексики 3.",
+    "zh": "词汇课 3 结束。",
+    "ja": "語彙レッスン3、おわり。",
+    "romaji": "Goi ressun san, owari."
+  }
+}

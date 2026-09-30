@@ -1,0 +1,3530 @@
+{
+  "s6.title": {
+    "en": "The Translator",
+    "ru": "Переводчик",
+    "zh": "翻译者",
+    "ko": "번역가",
+    "ja": "翻訳者",
+    "romaji": "Hon'yakusha"
+  },
+  "s6.subtitle": {
+    "en": "言葉の向こうに",
+    "ru": "По ту сторону слов (言葉の向こうに)",
+    "zh": "言语之外 (言葉の向こうに)",
+    "ko": "말 너머에 (言葉の向こうに)",
+    "ja": "言葉の向こうに",
+    "romaji": "Kotoba no mukou ni"
+  },
+  "s6.desc": {
+    "en": "Follow Takeshi Mori, a burnt-out professional translator, as a single poetry assignment forces him to remember why words ever mattered.",
+    "ru": "Следуйте за Такэси Мори, выгоревшим профессиональным переводчиком, когда одно задание по переводу поэзии заставляет его вспомнить, почему слова вообще имели значение.",
+    "zh": "跟随感到职业倦怠的专业翻译家森刚士（Takeshi Mori），看一份诗歌翻译任务如何促使他重新找回言语最初赋予他的意义。",
+    "ko": "번역 일에 권태를 느끼는 전문 번역가 모리 타케시의 이야기를 따라가 보세요. 우연히 맡게 된 시집 번역 작업은 그에게 왜 언어가 그토록 소중했는지를 다시금 일깨워 줍니다.",
+    "ja": "燃え尽きかけた実務翻訳者の森剛士。ある詩の翻訳依頼をきっかけに、かつて言葉がなぜ自分にとって大切だったのかを思い出していく。",
+    "romaji": "Moetsukikaketa jitsumu hon'yakusha no Mori Takeshi. Aru shi no hon'yaku irai o kikkake ni, katsute kotoba ga naze jibun ni totte taisetsu datta no ka o omoidashite iku."
+  },
+  "s6.card_title": {
+    "en": "STORY 6",
+    "ru": "ИСТОРИЯ 6",
+    "zh": "故事 6",
+    "ko": "이야기 6",
+    "ja": "ストーリー6",
+    "romaji": "Sutoorii 6"
+  },
+  "s6.card_subtitle": {
+    "en": "The Translator",
+    "ru": "Переводчик",
+    "zh": "翻译者",
+    "ko": "번역가",
+    "ja": "翻訳者",
+    "romaji": "Hon'yakusha"
+  },
+  "s6.v.haiku": {
+    "en": "Haiku",
+    "ru": "Хайку",
+    "zh": "俳句",
+    "ko": "하이쿠",
+    "ja": "俳句",
+    "romaji": "Haiku"
+  },
+  "s6.v.tanka": {
+    "en": "Tanka",
+    "ru": "Танка",
+    "zh": "단가",
+    "ko": "단가",
+    "ja": "短歌",
+    "romaji": "Tanka"
+  },
+  "s6.v.kigo": {
+    "en": "Season word",
+    "ru": "Киго (сезонное слово)",
+    "zh": "季语",
+    "ko": "계어",
+    "ja": "季語",
+    "romaji": "Kigo"
+  },
+  "s6.v.yohaku": {
+    "en": "Blank space",
+    "ru": "Ёхаку (пустое пространство)",
+    "zh": "余白",
+    "ko": "여백",
+    "ja": "余白",
+    "romaji": "Yohaku"
+  },
+  "s6.v.ma": {
+    "en": "Pause / interval",
+    "ru": "Ма (пауза)",
+    "zh": "间 / 间隔",
+    "ko": "마 (여백/틈)",
+    "ja": "間",
+    "romaji": "Ma"
+  },
+  "s6.v.monogatari": {
+    "en": "Story",
+    "ru": "История / рассказ",
+    "zh": "故事",
+    "ko": "이야기",
+    "ja": "物語",
+    "romaji": "Monogatari"
+  },
+  "s6.v.shi": {
+    "en": "Poem",
+    "ru": "Стихотворение",
+    "zh": "诗",
+    "ko": "시",
+    "ja": "詩",
+    "romaji": "Shi"
+  },
+  "s6.v.kotoba": {
+    "en": "Words",
+    "ru": "Слова",
+    "zh": "言语",
+    "ko": "말/언어",
+    "ja": "言葉",
+    "romaji": "Kotoba"
+  },
+  "s6.v.hyougen": {
+    "en": "Expression",
+    "ru": "Выражение",
+    "zh": "表现",
+    "ko": "표현",
+    "ja": "表現",
+    "romaji": "Hyougen"
+  },
+  "s6.v.hon'yaku": {
+    "en": "Translation",
+    "ru": "Перевод",
+    "zh": "翻译",
+    "ko": "번역",
+    "ja": "翻訳",
+    "romaji": "Hon'yaku"
+  },
+  "s6.v.mono_no_aware": {
+    "en": "Pathos of things",
+    "ru": "Моно-но аварэ",
+    "zh": "物哀",
+    "ko": "모노노 아와레 (사물의 비애)",
+    "ja": "もののあわれ",
+    "romaji": "Mono no aware"
+  },
+  "s6.v.wabi_sabi": {
+    "en": "Beauty in imperfection",
+    "ru": "Ваби-саби",
+    "zh": "侘寂",
+    "ko": "와비사비",
+    "ja": "わびさび",
+    "romaji": "Wabi-sabi"
+  },
+  "s6.v.komorebi": {
+    "en": "Sunlight through leaves",
+    "ru": "Коморэби",
+    "zh": "木漏れ日（林间漏光）",
+    "ko": "코모레비 (나뭇잎 사이로 비치는 햇살)",
+    "ja": "木漏れ日",
+    "romaji": "Komorebi"
+  },
+  "s6.v.kogarashi": {
+    "en": "Cold winter wind",
+    "ru": "Когараси (холодный ветер)",
+    "zh": "木枯（秋末冬初的寒风）",
+    "ko": "코가라시 (늦가을에서 초겨울에 부는 찬 바람)",
+    "ja": "木枯らし",
+    "romaji": "Kogarashi"
+  },
+  "s6.v.kyoushuu": {
+    "en": "Nostalgia",
+    "ru": "Ностальгия",
+    "zh": "乡愁",
+    "ko": "향수",
+    "ja": "郷愁",
+    "romaji": "Kyoushuu"
+  },
+  "s6.v.wabishii": {
+    "en": "Lonely / desolate",
+    "ru": "Одинокий / унылый",
+    "zh": "寂寞的",
+    "ko": "외롭고 쓸쓸하다",
+    "ja": "わびしい",
+    "romaji": "Wabishii"
+  },
+  "s6.v.shimekiri": {
+    "en": "Deadline",
+    "ru": "Дедлайн",
+    "zh": "截止日期",
+    "ko": "마감",
+    "ja": "締め切り",
+    "romaji": "Shimekiri"
+  },
+  "s6.v.shigoto": {
+    "en": "Work",
+    "ru": "Работа",
+    "zh": "工作",
+    "ko": "일",
+    "ja": "仕事",
+    "romaji": "Shigoto"
+  },
+  "s6.v.yarigai": {
+    "en": "Sense of purpose",
+    "ru": "Яригаи (смысл в работе)",
+    "zh": "做事的价值",
+    "ko": "보람",
+    "ja": "やりがい",
+    "romaji": "Yarigai"
+  },
+  "s6.v.moetsukiru": {
+    "en": "To burn out",
+    "ru": "Выгореть",
+    "zh": "燃尽 / 职业倦怠",
+    "ko": "불타 없어지다 / 번아웃 되다",
+    "ja": "燃え尽きる",
+    "romaji": "Moetsukiru"
+  },
+  "s6.v.kikaiteki": {
+    "en": "Mechanical",
+    "ru": "Механический",
+    "zh": "机械的",
+    "ko": "기계적",
+    "ja": "機械的",
+    "romaji": "Kikaiteki"
+  },
+  "s6.v.teinei": {
+    "en": "Careful",
+    "ru": "Тщательный / вежливый",
+    "zh": "郑重 / 仔细",
+    "ko": "정중함 / 친절함",
+    "ja": "丁寧",
+    "romaji": "Teinei"
+  },
+  "s6.v.tsutaeru": {
+    "en": "To convey",
+    "ru": "Передавать",
+    "zh": "传达",
+    "ko": "전하다",
+    "ja": "伝える",
+    "romaji": "Tsutaeru"
+  },
+  "s6.v.kanjiru": {
+    "en": "To feel",
+    "ru": "Чувствовать",
+    "zh": "感觉",
+    "ko": "느끼다",
+    "ja": "感じる",
+    "romaji": "Kanjiru"
+  },
+  "s6.v.kizuku": {
+    "en": "To notice",
+    "ru": "Заметить",
+    "zh": "注意到",
+    "ko": "깨닫다",
+    "ja": "気づく",
+    "romaji": "Kizuku"
+  },
+  "s6.v.genbun": {
+    "en": "Original text",
+    "ru": "Оригинальный текст",
+    "zh": "原文",
+    "ko": "원문",
+    "ja": "原文",
+    "romaji": "Genbun"
+  },
+  "s6.v.yakusu": {
+    "en": "To translate",
+    "ru": "Переводить",
+    "zh": "翻译",
+    "ko": "번역하다",
+    "ja": "訳す",
+    "romaji": "Yakusu"
+  },
+  "s6.v.hibiku": {
+    "en": "To resonate",
+    "ru": "Резонировать",
+    "zh": "响彻 / 产生共鸣",
+    "ko": "울려 퍼지다 / 공명하다",
+    "ja": "響く",
+    "romaji": "Hibiku"
+  },
+  "s6.v.michi_ni_mayou": {
+    "en": "To lose one's way",
+    "ru": "Заблудиться",
+    "zh": "迷路",
+    "ko": "길을 헤매다",
+    "ja": "道に迷う",
+    "romaji": "Michi ni mayou"
+  },
+  "s6.v.oshiete_itadakemasu_ka": {
+    "en": "Can you teach/tell me?",
+    "ru": "Не могли бы вы научить/сказать мне?",
+    "zh": "能请教您吗？",
+    "ko": "가르쳐 주시겠습니까?",
+    "ja": "教えていただけますか",
+    "romaji": "Oshiete itadakemasu ka"
+  },
+  "s6.v.mou_ichido": {
+    "en": "One more time",
+    "ru": "Еще раз",
+    "zh": "再一次",
+    "ko": "다시 한번",
+    "ja": "もう一度",
+    "romaji": "Mou ichido"
+  },
+  "s6.v.yukkuri": {
+    "en": "Slowly",
+    "ru": "Медленно",
+    "zh": "慢慢地",
+    "ko": "천천히",
+    "ja": "ゆっくり",
+    "romaji": "Yukkuri"
+  },
+  "s6.v.sumimasen": {
+    "en": "Excuse me",
+    "ru": "Извините",
+    "zh": "对不起",
+    "ko": "실례합니다",
+    "ja": "すみません",
+    "romaji": "Sumimasen"
+  },
+  "s6.v.jibun": {
+    "en": "Oneself",
+    "ru": "Себя / сам",
+    "zh": "自己",
+    "ko": "자신",
+    "ja": "自分",
+    "romaji": "Jibun"
+  },
+  "s6.v.naraigoto": {
+    "en": "Lessons / hobby class",
+    "ru": "Занятия / хобби",
+    "zh": "习艺 / 课外学习",
+    "ko": "배우는 일",
+    "ja": "習い事",
+    "romaji": "Naraigoto"
+  },
+  "s6.v.shugei": {
+    "en": "Handicrafts",
+    "ru": "Рукоделие",
+    "zh": "手工艺",
+    "ko": "수공예",
+    "ja": "手芸",
+    "romaji": "Shugei"
+  },
+  "s6.v.shumi": {
+    "en": "Hobby",
+    "ru": "Хобби",
+    "zh": "兴趣",
+    "ko": "취미",
+    "ja": "趣味",
+    "romaji": "Shumi"
+  },
+  "s6.v.omoshiroi": {
+    "en": "Interesting",
+    "ru": "Интересно",
+    "zh": "有趣",
+    "ko": "재미있다",
+    "ja": "面白い",
+    "romaji": "Omoshiroi"
+  },
+  "s6.v.jouzu": {
+    "en": "Skilled",
+    "ru": "Умелый",
+    "zh": "擅长",
+    "ko": "능숙하다",
+    "ja": "上手",
+    "romaji": "Jouzu"
+  },
+  "s6.v.mainichi": {
+    "en": "Every day",
+    "ru": "Каждый день",
+    "zh": "每天",
+    "ko": "매일",
+    "ja": "毎日",
+    "romaji": "Mainichi"
+  },
+  "s6.v.keizoku_wa_chikara_nari": {
+    "en": "Persistence is power",
+    "ru": "Постоянство — это сила",
+    "zh": "持之以恒就是力量",
+    "ko": "계속하는 것이 힘이다",
+    "ja": "継続は力なり",
+    "romaji": "Keizoku wa chikara nari"
+  },
+  "s6.l001": {
+    "en": "Monday. 7:43 AM.",
+    "ru": "Понедельник. 7:43 утра.",
+    "zh": "周一。上午 7:43。",
+    "ko": "월요일. 오전 7:43.",
+    "ja": "月曜日、午前7時43分。",
+    "romaji": "Getsuyoubi, gozen shichiji yonjuusanpun."
+  },
+  "s6.l002": {
+    "en": "The desk is a geography of unfinished work.",
+    "ru": "Стол — это география неоконченных дел.",
+    "zh": "书桌就像是一张铺满了未完成工作的地图。",
+    "ko": "책상 위는 마치 끝내지 못한 일들의 지형도 같습니다.",
+    "ja": "机の上は、やりかけの仕事が地形図のように散らばっている。",
+    "romaji": "Tsukue no ue wa, yarikake no shigoto ga chikeizu no you ni chirabatte iru."
+  },
+  "s6.l003": {
+    "en": "Legal contracts. A pharmaceutical manual. A software localization guide.",
+    "ru": "Юридические контракты. Фармацевтическое руководство. Руководство по локализации программного обеспечения.",
+    "zh": "法律合约。药品手册。软件本地化指南。",
+    "ko": "법률 계약서, 제약 매뉴얼, 소프트웨어 로컬라이제이션 가이드...",
+    "ja": "法務契約書。医薬品マニュアル。ソフトウェアのローカライズガイド。",
+    "romaji": "Houmu keiyakusho. Iyaku hin manyuaru. Sofutowea no rookaraizu gaido."
+  },
+  "s6.l004": {
+    "en": "Three empty coffee cups, arranged by height, because the mind finds patterns when the heart has gone quiet.",
+    "ru": "Три пустые чашки из-под кофе, расставленные по росту, потому что разум находит закономерности, когда сердце затихает.",
+    "zh": "三只空的咖啡杯按高度排列着，因为当内心归于沉寂时，大脑总会试图寻找某种规律。",
+    "ko": "키순으로 늘어선 세 개의 빈 커피잔. 마음이 조용해지면 머리는 무언가 패턴을 찾기 마련이니까요.",
+    "ja": "飲み終えた3つのコーヒーカップが高さ順に並んでいる。心が静まり返っている時、頭は無意識に秩序を求めるものだ。",
+    "romaji": "Nomi oeta mittsu no koohii kappu ga takasa-jun ni narande iru. Kokoro ga shizumarikaette iru toki, atama wa muishiki ni chitsujo o motomeru mono da."
+  },
+  "s6.l005": {
+    "en": "You are Takeshi Mori. Forty years old. Professional translator.",
+    "ru": "Вы Такэси Мори. Сорок лет. Профессиональный переводчик.",
+    "zh": "你是森刚士。四十岁。专业翻译员。",
+    "ko": "당신은 마흔 살의 전문 번역가 모리 타케시입니다.",
+    "ja": "私の名前は森剛士、40歳。プロの翻訳者だ。",
+    "romaji": "Watashi no namae wa Mori Takeshi, yonjuu-sai. Puro no hon'yakusha da."
+  },
+  "s6.l006": {
+    "en": "Japanese ↔ English. Fifteen years of experience.",
+    "ru": "Японский ↔ Английский. Пятнадцать лет опыта.",
+    "zh": "日语 ↔ 英语。十五年的经验。",
+    "ko": "일본어 ↔ 영어. 15년의 경력.",
+    "ja": "日英・英日翻訳。実務歴15年。",
+    "romaji": "Nichi-ei, ei-nichi hon'yaku. Jitsumureki juugonen."
+  },
+  "s6.l007": {
+    "en": "You are very good at this job.",
+    "ru": "Вы очень хороши в этой работе.",
+    "zh": "你非常擅长这份工作。",
+    "ko": "당신은 이 일에 아주 능숙합니다.",
+    "ja": "この仕事に関して言えば、極めて有能だと自負している。",
+    "romaji": "Kono shigoto ni kanshite ieba, kiwamete yuunou da to jifu shite iru."
+  },
+  "s6.l008": {
+    "en": "You no longer feel anything about it.",
+    "ru": "Вы больше ничего к ней не чувствуете.",
+    "zh": "但你已经对它毫无感觉了。",
+    "ko": "하지만 더 이상 아무런 보람도 느껴지지 않습니다.",
+    "ja": "だが、もはや何も感じなくなっていた。",
+    "romaji": "Daga, mohaya nani mo kanjinaku natte ita."
+  },
+  "s6.l009": {
+    "en": "Fifteen thousand documents.",
+    "ru": "Пятнадцать тысяч документов.",
+    "zh": "在一万五千份文件中。",
+    "ko": "만 오천 건의 문서들.",
+    "ja": "「1万5千件の文書。」",
+    "romaji": "「Ichiman gosenken no bunsho.」"
+  },
+  "s6.l010": {
+    "en": "I have turned fifteen thousand documents from Japanese into English.",
+    "ru": "Я перевел пятнадцать тысяч документов с японского на английский.",
+    "zh": "我已经把一万五千份文件从日语翻译成了英语。",
+    "ko": "지금까지 만 오천 건의 문서를 일본어에서 영어로 옮겼습니다.",
+    "ja": "「1万5千件もの文書を、日本語から英語へと訳してきた。」",
+    "romaji": "「Ichiman gosenken mono bunsho o, Nihongo kara eigo e to yakushite kita.」"
+  },
+  "s6.l011": {
+    "en": "Or English into Japanese. At this point I don't remember which is my first language.",
+    "ru": "Или с английского на японский. На данном этапе я уже не помню, какой язык для меня родной.",
+    "zh": "或者是从英语翻译成日语。到了这一步，我甚至记不清哪一个是我的母语了。",
+    "ko": "혹은 영어를 일본어로요. 이젠 어느 쪽이 내 모국어인지조차 가물가물합니다.",
+    "ja": "「あるいは英語から日本語へ。今となっては、どちらが自分の第一言語なのかさえ思い出せない。」",
+    "romaji": "「Aruiwa eigo kara Nihongo e. Ima to natte wa, dochira ga jibun no daiichi gengo na no ka sae omoidasenai.」"
+  },
+  "s6.l012": {
+    "en": "Your phone lights up. Email from your agent, Ueda-san.",
+    "ru": "Телефон загорается. Электронное письмо от вашего агента, Уэда-сана.",
+    "zh": "你的手机亮了起来。是你的经纪人上田先生发来的邮件。",
+    "ko": "휴대폰이 반짝입니다. 에이전트인 우에다 씨의 메일입니다.",
+    "ja": "スマートフォンが光る。エージェントの上田さんからのメールだ。",
+    "romaji": "Sumaatofon ga hikaru. Eejento no Ueda-san kara no meeru da."
+  },
+  "s6.l013": {
+    "en": "「Mori-san, I have a request.",
+    "ru": "«Мори-сан, у меня есть просьба.",
+    "zh": "「森先生，我有个请求。",
+    "ko": "「모리 씨, 부탁이 하나 있습니다.",
+    "ja": "「森さん、ご依頼があります。」",
+    "romaji": "「Mori-san, goirai ga arimasu.」"
+  },
+  "s6.l014": {
+    "en": "This is a request from a new client.",
+    "ru": "Это запрос от нового клиента.",
+    "zh": "这是一个新客户的委托。",
+    "ko": "새로운 클라이언트로부터 온 의뢰입니다.",
+    "ja": "「新規のクライアントからの案件です。」",
+    "romaji": "「Shinki no kuraianto kara no anken desu.」"
+  },
+  "s6.l015": {
+    "en": "A British publisher wants to translate classical Japanese poetry into English.",
+    "ru": "Британское издательство хочет перевести классическую японскую поэзию на английский язык.",
+    "zh": "一家英国出版社想要将日本古典诗集翻译成英文。",
+    "ko": "영국의 한 출판사에서 일본 고전 시집을 영역하고 싶어 합니다.",
+    "ja": "「イギリスの出版社が、古典的な日本の詩歌を英訳したいとのことです。」",
+    "romaji": "「Igirisu no shuppansha ga, kotenteki na Nihon no shiika o eiyaku shitai to no koto desu.」"
+  },
+  "s6.l016": {
+    "en": "It's a collection of poems including haiku by Matsuo Bashō, tanka by Akiko Yosano, etc.」",
+    "ru": "Это сборник стихов, включающий хайку Мацуо Басё, танка Акико Ёсано и др.»",
+    "zh": "这是一部包含了松尾芭蕉的俳句、与谢野晶子的短歌等作品的诗集。」",
+    "ko": "마츠오 바쇼의 하이쿠와 요사노 아키코의 단가 등을 포함한 시집입니다.」",
+    "ja": "「松尾芭蕉の俳句や与謝野晶子の短歌などを含む詩集になります。」",
+    "romaji": "「Matsuo Bashou no haiku ya Yosano Akiko no tanka nado o fukumu shishuu ni narimasu.」"
+  },
+  "s6.l017": {
+    "en": "Classical poetry. Bashō. Akiko Yosano.",
+    "ru": "Классическая поэзия. Басё. Акико Ёсано.",
+    "zh": "古典诗歌。芭蕉。与谢野晶子。",
+    "ko": "고전 시라니. 바쇼, 요사노 아키코...",
+    "ja": "古典詩。芭蕉。与謝野晶子。",
+    "romaji": "Koten-shi. Bashou. Yosano Akiko."
+  },
+  "s6.l018": {
+    "en": "A British publisher.",
+    "ru": "Британское издательство.",
+    "zh": "一家英国出版社。",
+    "ko": "영국 출판사.",
+    "ja": "イギリスの出版社。",
+    "romaji": "Igirisu no shuppansha."
+  },
+  "s6.l019": {
+    "en": "Poetry.",
+    "ru": "Поэзия.",
+    "zh": "诗歌。",
+    "ko": "시.",
+    "ja": "詩の翻訳。",
+    "romaji": "Shi no hon'yaku."
+  },
+  "s6.l020": {
+    "en": "I haven't translated poetry in—",
+    "ru": "Я не переводил поэзию уже—",
+    "zh": "我已经多久没翻译过诗了——",
+    "ko": "시를 번역해 본 게 대체 언제였더라...",
+    "ja": "「詩の翻訳なんて、いつ以来だろう――」",
+    "romaji": "「Shi no hon'yaku nante, itsu irai darou――」"
+  },
+  "s6.l021": {
+    "en": "How long?",
+    "ru": "Как долго?",
+    "zh": "多久了？",
+    "ko": "얼마나 됐지?",
+    "ja": "「どのくらい前だ？」",
+    "romaji": "「Dono kurai mae da?」"
+  },
+  "s6.l022": {
+    "en": "Since university. Twenty years.",
+    "ru": "С университета. Двадцать лет.",
+    "zh": "大学毕业后就没碰过了吧。二十年了。",
+    "ko": "대학교 때 이후로 처음이니... 20년은 됐겠네요.",
+    "ja": "「大学時代以来か。20年ぶりだ。」",
+    "romaji": "「Daigaku jidai irai ka. Nijuunen-buri da.」"
+  },
+  "s6.l023": {
+    "en": "You type back: 「Understood. I accept.」",
+    "ru": "Вы пишете в ответ: «Понял. Принимаю.»",
+    "zh": "你回复道： 「明白了。我接受。」",
+    "ko": "「알겠습니다. 수락하죠.」 당신은 답장을 보냅니다.",
+    "ja": "「了解しました。お引き受けします」と返信する。",
+    "romaji": "「Ryoukai shimashita. Ohikiuke shimasu」 to henshin suru."
+  },
+  "s6.l024": {
+    "en": "You don't know why.",
+    "ru": "Вы не знаете почему.",
+    "zh": "你也不知道为什么。",
+    "ko": "이유는 알 수 없습니다.",
+    "ja": "なぜ引き受けたのか、自分でも分からない。",
+    "romaji": "Naze hikiuketa no ka, jibun demo wakaranai."
+  },
+  "s6.l025": {
+    "en": "You just do.",
+    "ru": "Вы просто делаете это.",
+    "zh": "你就这样做了。",
+    "ko": "그저 손이 가는 대로 적었을 뿐입니다.",
+    "ja": "ただ、衝動のままにそうしていた。",
+    "romaji": "Tada, shoudou no mama ni sou shite ita."
+  },
+  "s6.l026": {
+    "en": "The file arrives within the hour. You open it.",
+    "ru": "Файл приходит в течение часа. Вы открываете его.",
+    "zh": "文件在一小时内送达。你打开了它。",
+    "ko": "한 시간도 채 안 되어 파일이 도착했습니다. 당신은 파일을 엽니다.",
+    "ja": "1時間もしないうちにファイルが届いた。ファイルを開く。",
+    "romaji": "Ichijikan mo shinai uchi ni fairu ga todoita. Fairu o hiraku."
+  },
+  "s6.l027": {
+    "en": "A PDF. Clean typography. The editor's name: Rachel Holt, Meridian Press, London.",
+    "ru": "PDF. Чистая типографика. Имя редактора: Рейчел Холт, Meridian Press, Лондон.",
+    "zh": "一份 PDF 文件。排版整洁。编辑的名字是：瑞秋·霍尔特（Rachel Holt），伦敦经纬出版社（Meridian Press）。",
+    "ko": "깔끔한 서체의 PDF 파일. 편집자의 이름은 레이첼 홀트, 런던의 메리디안 프레스 소속입니다.",
+    "ja": "PDFファイル。洗練されたタイポグラフィ。編集者の名前：レイチェル・ホルト、ロンドン・メリディアン・プレス。",
+    "romaji": "PDF fairu. Senren sareta taipogurafi. Henshuusha no namae: Reicheru Horuto, Rondon Meridian Puresu."
+  },
+  "s6.l028": {
+    "en": "\"We want these to feel alive in English. Not just accurate—alive.\"",
+    "ru": "«Мы хотим, чтобы они ожили на английском. Не просто точно — живо.»",
+    "zh": "“我们希望这些诗在英语中能焕发生机。不仅仅是准确——而是要鲜活。”",
+    "ko": "\"단순히 정확한 번역이 아니라, 영어로 읽었을 때 살아있는 느낌이 들었으면 합니다.\"",
+    "ja": "「英語の中でも『息づいている』と感じられるものにしてほしいのです。単に正確なだけでなく――生命力を宿して。」",
+    "romaji": "「Eigo no naka demo 『ikidzuite iru』 to kanjirareru mono ni shite hoshii no desu. Tann ni seikaku na dake de naku――seimeiryoku o yadoshite.」"
+  },
+  "s6.l029": {
+    "en": "Alive.",
+    "ru": "Живо.",
+    "zh": "鲜活。",
+    "ko": "살아있는 느낌.",
+    "ja": "「息づいている、か。」",
+    "romaji": "「Ikidzuite iru, ka.」"
+  },
+  "s6.l030": {
+    "en": "I will make them accurate. That's what I do.",
+    "ru": "Я сделаю их точными. Это то, что я делаю.",
+    "zh": "我会把它们翻译得很准确。这是我的本行。",
+    "ko": "정확하게 옮기는 것. 그게 내가 평소에 하던 일입니다.",
+    "ja": "「正確に訳せばいい。それが私の仕事だ。」",
+    "romaji": "「Seikaku ni yakuseba ii. Sore ga watashi no shigoto da.」"
+  },
+  "s6.l031": {
+    "en": "The first poem in the file:",
+    "ru": "Первое стихотворение в файле:",
+    "zh": "文件里的第一首诗：",
+    "ko": "파일 내의 첫 번째 시:",
+    "ja": "ファイルの最初の詩：",
+    "romaji": "Fairu no saisho no shi:"
+  },
+  "s6.l032": {
+    "en": "Bashō. The old pond. Every student who has ever studied Japanese knows this one.",
+    "ru": "Басё. Старый пруд. Каждый студент, когда-либо изучавший японский, знает это.",
+    "zh": "芭蕉。古池。每个学过日语的学生都知道这一首。",
+    "ko": "바쇼. 오래된 연못. 일본어를 공부한 사람이라면 누구나 아는 구절입니다.",
+    "ja": "芭蕉。古池。日本語を学んだ者なら誰もが知っている句だ。",
+    "romaji": "Bashou. Furuike. Nihongo o mananda mono nara dare mo ga shitte iru ku da."
+  },
+  "s6.l033": {
+    "en": "It's been translated a hundred times.",
+    "ru": "Его переводили сотни раз.",
+    "zh": "这首诗已经被翻译过上百次了。",
+    "ko": "이미 수백 번은 넘게 번역되었을 겁니다.",
+    "ja": "これまで何百回と訳されてきた。",
+    "romaji": "Kore made nanbyakkai to yakusarete kita."
+  },
+  "s6.l034": {
+    "en": "The old pond—/ A frog jumps in,/ Sound of water.",
+    "ru": "Старый пруд — / Лягушка прыгает, / Звук воды.",
+    "zh": "古池—— / 青蛙跃入， / 水之音。",
+    "ko": "오랜 연못에 / 개구리 뛰어드는 / 물소리로다.",
+    "ja": "古池や　蛙飛びこむ　水の音",
+    "romaji": "Furuike ya kawazu tobikomu mizu no oto"
+  },
+  "s6.l035": {
+    "en": "Accurate. Complete.",
+    "ru": "Точно. Полностью.",
+    "zh": "准确。完整。",
+    "ko": "정확합니다. 완벽하죠.",
+    "ja": "正確。完璧。",
+    "romaji": "Seikaku. Kanpeki."
+  },
+  "s6.l036": {
+    "en": "Dead.",
+    "ru": "Мертво.",
+    "zh": "死气沉沉。",
+    "ko": "하지만 죽어있는 문장입니다.",
+    "ja": "死んでいる。",
+    "romaji": "Shinde iru."
+  },
+  "s6.l037": {
+    "en": "What is wrong with that translation?",
+    "ru": "Что не так с этим переводом?",
+    "zh": "这个翻译到底有什么问题？",
+    "ko": "도대체 뭐가 잘못된 걸까?",
+    "ja": "「この訳の何が悪いというんだ？」",
+    "romaji": "「Kono yaku no nani ga warui to iu n da?」"
+  },
+  "s6.l038": {
+    "en": "It is correct.",
+    "ru": "Он правильный.",
+    "zh": "它是正确的。",
+    "ko": "내용은 맞는데.",
+    "ja": "「間違いなく正しいはずだ。」",
+    "romaji": "「Machigainaku tadashii hazu da.」"
+  },
+  "s6.l039": {
+    "en": "Then why does it feel like a photograph of a painting?",
+    "ru": "Тогда почему он кажется фотографией картины?",
+    "zh": "那为什么感觉它就像是一张关于画作的照片？",
+    "ko": "그런데 왜 명화를 찍은 사진 한 장처럼 무미건조하게 느껴지는 걸까.",
+    "ja": "「なら、どうして絵画の写真を撮っただけのように、味気なく感じるんだ？」",
+    "romaji": "「Nara, doushite kaiga no shashin o totta dake no you ni, ajikenaku kanjiru n da?」"
+  },
+  "s6.l040": {
+    "en": "Ueda-san calls in the afternoon.",
+    "ru": "Уэда-сан звонит днем.",
+    "zh": "上田先生在下午打来了电话。",
+    "ko": "오후에 우에다 씨가 전화를 걸어왔습니다.",
+    "ja": "午後、上田さんから電話がかかってきた。",
+    "romaji": "Gogo, Ueda-san kara denwa ga kakatte kita."
+  },
+  "s6.l041": {
+    "en": "How is it going? Are you making progress?",
+    "ru": "Как дела? Есть прогресс?",
+    "zh": "进展如何？进展顺利吗？",
+    "ko": "좀 어떠세요? 진척이 좀 있나요?",
+    "ja": "「進み具合はどうですか？進捗は順調ですか？」",
+    "romaji": "「Susumiguai wa dou desu ka? Shinchoku wa junchou desu ka?」"
+  },
+  "s6.l042": {
+    "en": "No problem. I'll send the first draft by tomorrow.",
+    "ru": "Без проблем. Я пришлю первый черновик к завтрашнему дню.",
+    "zh": "没问题。明天我会发给你初稿。",
+    "ko": "문제없습니다. 내일까지 초안을 보내드리죠.",
+    "ja": "「問題ありません。明日までに第1稿を送ります。」",
+    "romaji": "「Mondai arimasen. Asu made ni daiikkou o okurimasu.」"
+  },
+  "s6.l043": {
+    "en": "I see. Ah, one point from the client.",
+    "ru": "Понятно. Ах, один момент от клиента.",
+    "zh": "明白了。啊，客户那边提了一个要求。",
+    "ko": "그렇군요. 아, 클라이언트로부터 한 가지 요청이 더 있었습니다.",
+    "ja": "「分かりました。あ、先方から一点だけ要望がありまして。」",
+    "romaji": "「Wakarimashita. A, senpou kara itten dake youbou ga arimashite.」"
+  },
+  "s6.l044": {
+    "en": "They said, 'Not literal translation, please convey the emotion.'",
+    "ru": "Они сказали: «Не буквальный перевод, пожалуйста, передайте эмоции».",
+    "zh": "他们说：‘不要直译，请传达其中的情感。’",
+    "ko": "'직역하지 말고 감정을 전달해 달라'고 하더군요.",
+    "ja": "「『直訳ではなく、感情を伝えてほしい』とのことです。」",
+    "romaji": "「『Chokuyaku de wa naku, kanjou o tsutaete hoshii』 to no koto desu.」"
+  },
+  "s6.l045": {
+    "en": "Convey the emotion.",
+    "ru": "Передать эмоции.",
+    "zh": "传达情感。",
+    "ko": "감정을 전달하라고.",
+    "ja": "感情を伝える。",
+    "romaji": "Kanjou o tsutaeru."
+  },
+  "s6.l046": {
+    "en": "Not just the literal meaning.",
+    "ru": "Не только буквальный смысл.",
+    "zh": "不仅仅是字面意思。",
+    "ko": "단순히 글자만 옮기는 게 아니라.",
+    "ja": "字義通りの意味だけでなく。",
+    "romaji": "Jigi-doori no imi dake de naku."
+  },
+  "s6.l047": {
+    "en": "Understood.",
+    "ru": "Понял.",
+    "zh": "明白了。",
+    "ko": "알겠습니다.",
+    "ja": "「承知しました。」",
+    "romaji": "「Shouchi shimashita.」"
+  },
+  "s6.l048": {
+    "en": "Mori-san, are you okay? Lately you seem a little tired.",
+    "ru": "Мори-сан, вы в порядке? В последнее время вы кажетесь немного уставшим.",
+    "zh": "森先生，你还好吗？最近你看上去有点疲惫。",
+    "ko": "모리 씨, 괜찮으세요? 요즘 좀 피곤해 보이시는데.",
+    "ja": "「森さん、大丈夫ですか？最近少しお疲れのように見えますが。」",
+    "romaji": "「Mori-san, daijoubu desu ka? Saikin sukoshi otsukare no you ni miemasu ga.」"
+  },
+  "s6.l049": {
+    "en": "I'm fine. I'll do the work properly.",
+    "ru": "Я в порядке. Я сделаю работу как следует.",
+    "zh": "我没事。我会好好完成工作的。",
+    "ko": "괜찮습니다. 일은 제대로 처리할게요.",
+    "ja": "「大丈夫です。きちんと仕事はこなします。」",
+    "romaji": "「Daijoubu desu. Kichinto shigoto wa konashimasu.」"
+  },
+  "s6.l050": {
+    "en": "You go to the library.",
+    "ru": "Вы идете в библиотеку.",
+    "zh": "你去了图书馆。",
+    "ko": "당신은 도서관으로 향합니다.",
+    "ja": "図書館へ向かった。",
+    "romaji": "Toshokan e mukatta."
+  },
+  "s6.l051": {
+    "en": "Ogikubo Municipal Library. The poetry section is in the back—dim corner, hand-lettered signs.",
+    "ru": "Муниципальная библиотека Огикубо. Поэтический отдел находится в глубине — тусклый угол, вывески, написанные от руки.",
+    "zh": "荻洼市立图书馆。诗歌区在最里面——昏暗的角落，标志是手写的。",
+    "ko": "오기쿠보 시립 도서관. 시 코너는 구석진 곳에 자리 잡고 있습니다. 직접 손으로 쓴 안내판들이 보입니다.",
+    "ja": "荻窪区立図書館。詩歌のコーナーは奥まった薄暗い一角にあり、手書きの案内板が立っている。",
+    "romaji": "Ogikubo kuritsu toshokan. Shiika no koonaa wa okumatta usugurai ikkaku ni ari, tegaki no annaiban ga tatte iru."
+  },
+  "s6.l052": {
+    "en": "You read Bashō in Japanese first.",
+    "ru": "Сначала вы читаете Басё на японском.",
+    "zh": "你先读了芭蕉。用日语读的。",
+    "ko": "우선 바쇼의 시를 일본어로 읽어봅니다.",
+    "ja": "まずは芭蕉の句を日本語で読み直す。",
+    "romaji": "Mazu wa Bashou no ku o Nihongo de yominaosu."
+  },
+  "s6.l053": {
+    "en": "Not as a translator. Just as a reader.",
+    "ru": "Не как переводчик. Просто как читатель.",
+    "zh": "不是以翻译者的身份。只是作为一名读者。",
+    "ko": "번역가가 아닌, 한 명의 독자로서 말이죠.",
+    "ja": "翻訳者としてではなく、ただの読者として。",
+    "romaji": "Hon'yakusha to shite de wa naku, tada no dokusha to shite."
+  },
+  "s6.l054": {
+    "en": "The character 古 (old) carrying the weight of many years. Not just 'old' — settled, worn smooth by time.",
+    "ru": "Иероглиф 古 (старый), несущий в себе тяжесть многих лет. Не просто «старый» — устоявшийся, сглаженный временем.",
+    "zh": "“古”这个字承载着多年的分量。不仅仅是“老旧”——而是那种沉淀下来的、被时间磨平的古老感。",
+    "ko": "'古(옛 고)'라는 글자가 품고 있는 세월의 무게. 단순히 '오래된' 것이 아니라, 시간이 켜켜이 쌓여 매끄럽게 다듬어진 그 느낌.",
+    "ja": "「古」という字が持つ、幾重もの年月の重み。単なる「古い」ではない――時を経て落ち着き、角の取れた静けさ。",
+    "romaji": "『Furu』 to iu ji ga motsu, ikue mono nengetsu no omomi. Tannaru 『furui』 de wa nai――toki o hete ochitsuki, kado no toreta shizukesa."
+  },
+  "s6.l055": {
+    "en": "池 — a pond. Not a river. Not a sea. A contained, still place.",
+    "ru": "池 — пруд. Не река. Не море. Замкнутое, тихое место.",
+    "zh": "“池”——水池。不是大河，也不是大海。是一个封闭的、静止的地方。",
+    "ko": "'池(못 지)'... 연못. 강도 바다도 아닌, 고여있는 정적인 공간.",
+    "ja": "「池」――川でもなく、海でもない。閉ざされた、静止した水面。",
+    "romaji": "『Ike』――kawa demo naku, umi demo nai. Tozasareta, seishi shita minamo."
+  },
+  "s6.l056": {
+    "en": "や — a cutting word. A pause. A breath. The poem stops and looks.",
+    "ru": "や — отсекающее слово. Пауза. Вдох. Стихотворение останавливается и смотрит.",
+    "zh": "“や”——切字。是一次停顿。一次呼吸。诗歌在这里驻足回望。",
+    "ko": "'や(야)'... 끊음표. 잠시 멈춤. 호흡. 시는 여기서 멈춰 서서 가만히 바라봅니다.",
+    "ja": "「や」――切れ字。余白。呼吸。詩が一瞬立ち止まり、その情景を見つめる。",
+    "romaji": "『Ya』――kireji. Yohaku. Kokyuu. Shi ga isshun tachidomari, sono joukei o mitsumeru."
+  },
+  "s6.l057": {
+    "en": "The ya is a pause.",
+    "ru": "«Я» — это пауза.",
+    "zh": "“や”是一种停顿。",
+    "ko": "'야'는 쉼표입니다.",
+    "ja": "「『や』は間なんだ。」",
+    "romaji": "「『Ya』 wa ma na n da.」"
+  },
+  "s6.l058": {
+    "en": "It says: stop here. Notice the stillness before the frog moves.",
+    "ru": "Оно говорит: остановись здесь. Заметь неподвижность до того, как лягушка прыгнет.",
+    "zh": "它在说：在这里停下。在青蛙跃起之前，感受那份静谧。",
+    "ko": "여기서 멈추라고 말합니다. 개구리가 움직이기 전의 정적을 느껴보라고요.",
+    "ja": "ここで立ち止まれと告げているのだ。蛙が動く前の、その静寂に目を向けろと。",
+    "romaji": "Koko de tachidomare to tsugete iru no da. Kawazu ga ugoku mae no, sono seijaku ni me o mukero to."
+  },
+  "s6.l059": {
+    "en": "In English — there is no 'ya'.",
+    "ru": "В английском языке — нет «я».",
+    "zh": "在英语里——没有“や”的对应词。",
+    "ko": "영어에는 '야' 같은 표현이 없죠.",
+    "ja": "英語には――「や」に相当する言葉がない。",
+    "romaji": "Eigo ni wa――『ya』 ni soutou suru kotoba ga nai."
+  },
+  "s6.l060": {
+    "en": "The pause before the sound is also the poem.",
+    "ru": "Пауза перед звуком — это тоже стихотворение.",
+    "zh": "声音之前的停顿，同样也是这首诗的一部分。",
+    "ko": "소리가 나기 전의 정적 또한 시의 일부인 것을.",
+    "ja": "「音の前の静寂そのものもまた、詩なのだ。」",
+    "romaji": "「Oto no mae no seijaku sono mono mo mata, shi na no da.」"
+  },
+  "s6.l061": {
+    "en": "Three days in. The second batch of poems arrives.",
+    "ru": "Прошло три дня. Приходит вторая порция стихов.",
+    "zh": "到了第三天。第二批诗送达了。",
+    "ko": "사흘째 되는 날, 두 번째 시 뭉치가 도착했습니다.",
+    "ja": "3日目。第2弾の詩が届く。",
+    "romaji": "Mikkame. Dai-nidan no shi ga todoku."
+  },
+  "s6.l062": {
+    "en": "Akiko Yosano's tanka from 「君死にたまふことなかれ」 (Kimi shini tamau koto nakare)—",
+    "ru": "Танка Акико Ёсано из «Кими сини тамау кото накарэ» (君死にたまふことなかれ) —",
+    "zh": "与谢野晶子的短歌，出自《你不要死》（君死にたまふことなかれ）——",
+    "ko": "요사노 아키코의 단가, <그대여 죽지 말아다오(君死にたまふことなかれ)>입니다.",
+    "ja": "与謝野晶子の短歌「君死にたまふことなかれ」より――",
+    "romaji": "Yosano Akiko no tanka 『Kimi shini tamau koto nakare』 yori――"
+  },
+  "s6.l063": {
+    "en": "\"You Must Not Die.\"",
+    "ru": "«Ты не должен умирать».",
+    "zh": "“你千万不能死。”",
+    "ko": "\"그대 죽지 말아다오.\"",
+    "ja": "「君死にたまふことなかれ」。",
+    "romaji": "『Kimi shini tamau koto nakare』."
+  },
+  "s6.l064": {
+    "en": "Written to her brother at war. 1904. The Russo-Japanese War.",
+    "ru": "Написано ее брату на войне. 1904 год. Русско-японская война.",
+    "zh": "写给她参与战争的弟弟。1904 年。日俄战争。",
+    "ko": "1904년 러일 전쟁 당시, 전쟁터에 나간 동생에게 쓴 시입니다.",
+    "ja": "戦場にいる弟へ向けて詠まれた歌。1904年、日露戦争。",
+    "romaji": "Senjou ni iru otouto e mukete yomareta uta. Senkyuuhyakuyon-nen, Nichiro Sensou."
+  },
+  "s6.l065": {
+    "en": "Ah, my younger brother, I weep for you,",
+    "ru": "Ах, мой младший брат, я плачу о тебе,",
+    "zh": "啊，我的弟弟，我为你哭泣，",
+    "ko": "아아 동생아, 너를 위해 우노라,",
+    "ja": "「あゝをとうとよ、君を泣く、」",
+    "romaji": "「Aa wotouto yo, kimi o naku,」"
+  },
+  "s6.l066": {
+    "en": "You must not die,",
+    "ru": "Ты не должен умирать,",
+    "zh": "你千万不能死，",
+    "ko": "그대여 제발 죽지 말아다오,",
+    "ja": "「君死にたまふことなかれ、」",
+    "romaji": "「Kimi shini tamau koto nakare,」"
+  },
+  "s6.l067": {
+    "en": "Born the youngest of all,",
+    "ru": "Рожденный самым младшим из всех,",
+    "zh": "你是家中最小的孩子，",
+    "ko": "막내로 태어난 네가 그 누구보다도,",
+    "ja": "「末に生れし君なれば」",
+    "romaji": "「Sue ni umareshi kimi nareba」"
+  },
+  "s6.l068": {
+    "en": "Most beloved by our parents—",
+    "ru": "Самый любимый нашими родителями —",
+    "zh": "是父母最疼爱的宝贝——",
+    "ko": "부모님의 극진한 사랑을 받았거늘...",
+    "ja": "「親のなさけはまさりしも、」",
+    "romaji": "「Oya no nasake wa masarishi mo,」"
+  },
+  "s6.l069": {
+    "en": "Wotouto.",
+    "ru": "Вотоуто.",
+    "zh": "Wotouto.",
+    "ko": "를 쓰고 있는 누나의 마음(wotouto).",
+    "ja": "「をとうと」。",
+    "romaji": "『Wotouto』."
+  },
+  "s6.l070": {
+    "en": "Otouto. Younger brother. But the old kana spelling is wotouto.",
+    "ru": "Отоуто. Младший брат. Но старое написание каной — вотоуто.",
+    "zh": "弟（Otouto）。弟弟。但旧假名拼法是 wotouto。",
+    "ko": "오토우토(동생). 하지만 옛 가나 표기법으로는 '오' 대신 '워'를 쓴 '워토우토(wotouto)'군요.",
+    "ja": "おとうと。弟のことだ。だが旧仮名遣いでは「をとうと」と書く。",
+    "romaji": "Otouto. Otouto no koto da. Daga kyuu-kanazukai de wa 『wotouto』 to kaku."
+  },
+  "s6.l071": {
+    "en": "The sound is almost the same as the modern form, but the shape is older. More careful. Like she wrote it in careful ink.",
+    "ru": "Звук почти такой же, как в современной форме, но форма старее. Более тщательная. Как будто она писала его старательными чернилами.",
+    "zh": "读音虽然和现代形式几乎一样，但字形更古老。更郑重。就像是她用郑重的墨水写下来的一样。",
+    "ko": "소리는 지금과 거의 같지만, 글자의 모양은 훨씬 예스럽습니다. 마치 한 자 한 자 정성껏 먹을 찍어 쓴 것 같네요.",
+    "ja": "現代の音とほぼ同じだが、その文字の佇まいはより古く、より切実だ。まるで丁寧に墨を含ませて書かれたかのように。",
+    "romaji": "Gendai no oto to hobo onaji da ga, sono moji no tatazumai wa yori furuku, yori setsujitsu da. Marude teinei ni sumi o fukumhasete kakareta ka no you ni."
+  },
+  "s6.l072": {
+    "en": "There is a concept—",
+    "ru": "Есть такое понятие —",
+    "zh": "有一个概念——",
+    "ko": "어떤 개념이 하나 있습니다.",
+    "ja": "ある概念がある――",
+    "romaji": "Aru gainen ga aru――"
+  },
+  "s6.l073": {
+    "en": "Mono no aware.",
+    "ru": "Моно-но аварэ.",
+    "zh": "物哀（Mono no aware）。",
+    "ko": "모노노 아와레.",
+    "ja": "もののあわれ。",
+    "romaji": "Mono no aware."
+  },
+  "s6.l074": {
+    "en": "The pathos of things. The awareness that beautiful things do not last.",
+    "ru": "Пафос вещей. Осознание того, что прекрасные вещи не длятся вечно.",
+    "zh": "事物的哀怜。意识到美的事物是无法永存的。",
+    "ko": "사물의 비애. 아름다운 것들이 영원하지 않다는 것을 깨닫는 마음.",
+    "ja": "物の哀れ。美しく移ろうものは永遠には続かないという、儚さへの情感。",
+    "romaji": "Mono no aware. Utsukushiku utsurou mono wa eien ni wa tsuddukanai to iu, hakanasa e no joukan."
+  },
+  "s6.l075": {
+    "en": "I learned this word in university. I filed it away as a vocabulary item.",
+    "ru": "Я выучил это слово в университете. Я отложил его в памяти как словарную единицу.",
+    "zh": "我在大学里学过这个词。只是把它当成一个单词记了下来。",
+    "ko": "대학교 때 배운 단어입니다. 그냥 단어장의 한 조각으로만 기억하고 있었죠.",
+    "ja": "「大学で習った言葉だ。単なる語彙の知識として頭にしまっていた。」",
+    "romaji": "「Daigaku de naratta kotoba da. Tannaru goi no chishiki to shite atama ni shimatte ita.」"
+  },
+  "s6.l076": {
+    "en": "I don't think I've actually felt it until just now.",
+    "ru": "Я не думаю, что на самом деле чувствовал это до этого момента.",
+    "zh": "我觉得直到现在，我才真正感受到了它。",
+    "ko": "하지만 지금 이 순간, 비로소 가슴 깊이 와닿는 것 같습니다.",
+    "ja": "「だが本当の意味でこれを実感したのは、今が初めてかもしれない。」",
+    "romaji": "「Daga hontou no imi de kore o jikkan shita no wa, ima ga hajimete kamo shirenai.」"
+  },
+  "s6.l077": {
+    "en": "\"Her grief is in the old spelling of his name.\"",
+    "ru": "«Ее горе — в старом написании его имени».",
+    "zh": "“她的悲伤蕴含在他名字的旧拼写中。”",
+    "ko": "\"그녀의 슬픔은 동생 이름의 오래된 표기법 안에 녹아있다.\"",
+    "ja": "「彼女の悲痛な叫びは、弟の名前の古い綴りの中にこそ宿っている。」",
+    "romaji": "「Kanojo no hitsuu na sakebi wa, otouto no namae no furui tsudzuri no naka ni koso yadotte iru.」"
+  },
+  "s6.l078": {
+    "en": "\"She is mourning him in the same breath as she forbids it.\"",
+    "ru": "«Она оплакивает его на том же дыхании, на котором запрещает это».",
+    "zh": "“她在一边禁止他死的同时，也在为他哀悼。”",
+    "ko": "\"죽지 말라고 애원하는 그 숨결 속에 이미 애도가 깃들어 있다.\"",
+    "ja": "「死んではならないと乞いながら、同時にその悲劇を悼んでいるのだ。」",
+    "romaji": "「Shin de wa naranai to koinagara, douji ni sono higeki o itande iru no da.」"
+  },
+  "s6.l079": {
+    "en": "You go out to buy groceries. In the hallway, your neighbor's daughter—six years old, name: Hina—",
+    "ru": "Вы выходите купить продукты. В коридоре дочь вашей соседки — шестилетняя девочка по имени Хина —",
+    "zh": "你出门去买杂货。在走廊上，邻居的女儿——六岁，名叫阳菜（Hina）——",
+    "ko": "식료품을 사러 밖으로 나갑니다. 복도에서 이웃집 딸인 6살 히나를 만났습니다.",
+    "ja": "食料品を買いに出かける。廊下で、隣の家の6歳の娘――ヒナちゃんが――",
+    "romaji": "Shokuryouhin o kai ni dekakeru. Rouka de, tonari no ie no roku-sai no musume――Hina-chan ga――"
+  },
+  "s6.l080": {
+    "en": "is reading a picture book, cross-legged on the floor outside her apartment.",
+    "ru": "сидит на полу перед своей дверью, скрестив ноги, и читает книжку с картинками.",
+    "zh": "正盘着腿坐在公寓门外的地板上，读着一本绘本。",
+    "ko": "그 아이는 현관 앞에 책상다리를 하고 앉아 그림책을 읽고 있네요.",
+    "ja": "玄関の外の床にあぐらをかいて、絵本を読んでいた。",
+    "romaji": "Genkan no soto no yuka ni agura o kaite, ehon o yonde ita."
+  },
+  "s6.l081": {
+    "en": "Mori-uncle, are you going somewhere?",
+    "ru": "Дядя Мори, вы куда-то идете?",
+    "zh": "森叔叔，你要去哪里吗？",
+    "ko": "모리 아저씨, 어디 가세요?",
+    "ja": "「森のおじちゃん、どっか行くの？」",
+    "romaji": "「Mori no ojichan, dokka iku no?」"
+  },
+  "s6.l082": {
+    "en": "Shopping.",
+    "ru": "За покупками.",
+    "zh": "去买东西。",
+    "ko": "장 보러 간단다.",
+    "ja": "「ちょっと買い物にね。」",
+    "romaji": "「Chotto kaimono ni ne.」"
+  },
+  "s6.l083": {
+    "en": "Hey, can you read this for me?",
+    "ru": "Эй, вы можете мне это почитать?",
+    "zh": "嘿，你能读给我听吗？",
+    "ko": "저기요, 이것 좀 읽어주시면 안 돼요?",
+    "ja": "「ねえ、これ読んで！」",
+    "romaji": "「Nee, kore yonde!」"
+  },
+  "s6.l301": {
+    "en": "You sit on the hallway floor for another twenty minutes, reading haiku to a six-year-old.",
+    "ru": "Вы сидите на полу в коридоре еще двадцать минут, читая хайку шестилетнему ребенку.",
+    "zh": "你在走廊地板上又坐了二十分钟，给一个六岁的孩子读俳句。",
+    "ko": "당신은 복도 바닥에 앉아 20분 더 6살 아이에게 하이쿠를 읽어주었습니다.",
+    "ja": "廊下の床にさらに20分座り、6歳の子どもに俳句を読んで聞かせる。",
+    "romaji": "Rouka no yuka ni sarani nijuppun suwari, roku-sai no kodomo ni haiku o yonde kikaseru."
+  },
+  "s6.l302": {
+    "en": "You forget to go to the grocery store.",
+    "ru": "Вы забываете сходить в продуктовый магазин.",
+    "zh": "你忘了去杂货店。",
+    "ko": "식료품점에 가려던 것도 잊은 채 말이죠.",
+    "ja": "スーパーへ買い物に行くのをすっかり忘れてしまった。",
+    "romaji": "Suupaa e kaimono ni iku no o sukkari wasurete shimatta."
+  },
+  "s6.l303": {
+    "en": "—Rachel\"",
+    "ru": "— Рейчел»",
+    "zh": "——瑞秋\"",
+    "ko": "—레이첼\"",
+    "ja": "――レイチェルより」",
+    "romaji": "――Reicheru yori」"
+  },
+  "s6.l304": {
+    "en": "When did I stop feeling things?",
+    "ru": "Когда я перестал что-то чувствовать?",
+    "zh": "我从什么时候起不再有感觉了？",
+    "ko": "난 언제부터 감정을 잃어버린 걸까?",
+    "ja": "「私はいつから、何も感じなくなってしまったのだろう？」",
+    "romaji": "「Watashi wa itsu kara, nani mo kanjinaku natte shimatta no darou?」"
+  },
+  "s6.l305": {
+    "en": "You write back:",
+    "ru": "Вы пишете в ответ:",
+    "zh": "你写信回道：",
+    "ko": "당신은 답장을 적습니다.",
+    "ja": "返信を書く：",
+    "romaji": "Henshin o kaku:"
+  },
+  "s6.l306": {
+    "en": "\"Rachel-san,",
+    "ru": "«Рейчел-сан,",
+    "zh": "“瑞秋女士，",
+    "ko": "\"레이첼 씨,",
+    "ja": "「レイチェルさんへ、」",
+    "romaji": "「Reicheru-san e,」"
+  },
+  "s6.l307": {
+    "en": "A haiku is not a sentence. It is three moments that, together, create a fourth moment that does not exist in any of the three lines.",
+    "ru": "Хайку — это не предложение. Это три момента, которые вместе создают четвертый момент, которого нет ни в одной из трех строк.",
+    "zh": "俳句不是一个句子。它是三个瞬间，共同创造出第四个瞬间，而这个瞬间并不存在于这三行中的任何一行。",
+    "ko": "하이쿠는 문장이 아닙니다. 세 개의 순간이 모여, 그 어떤 줄에도 존재하지 않는 네 번째 순간을 만들어내는 것이지요.",
+    "ja": "「俳句は一文の文章ではありません。3つの瞬間が重なり合い、その3行のどこにも書かれていない4つ目の瞬間を生み出すものなのです。」",
+    "romaji": "「Haiku wa ichibun no bunshou de wa arimasen. Mittsu no shunkan ga kasanariai, sono sangyou no doko ni mo kakarete inai yottsume no shunkan o umidasu mono na no desu.」"
+  },
+  "s6.l308": {
+    "en": "The space between the lines is not empty. It is where the poem lives.\"",
+    "ru": "Пространство между строками не пусто. Это место, где живет стихотворение.»",
+    "zh": "行与行之间的空间并非虚无。那是诗歌寄居的地方。”",
+    "ko": "행과 행 사이의 여백은 비어있는 것이 아닙니다. 시가 살아 숨 쉬는 곳이죠.\"",
+    "ja": "「行と行の間の空白は、決して空っぽではありません。そこにこそ、詩が生きているのです。」",
+    "romaji": "「Gyou to gyou no aida no kuuhaku wa, kesshite karappo de wa arimasen. Soko ni koso, shi ga ikite iru no desu.」"
+  },
+  "s6.l309": {
+    "en": "You send it before you can revise it into something more professional.",
+    "ru": "Вы отправляете его прежде, чем успеете переделать во что-то более профессиональное.",
+    "zh": "你在把它修改得更专业之前就回寄了出去。",
+    "ko": "더 전문적인 문장으로 고치기도 전에 당신은 메일을 보내버립니다.",
+    "ja": "もっとビジネスライクな文章に推敲してしまう前に、送信ボタンを押した。",
+    "romaji": "Motto bijinesu-raiku na bunshou ni suikou shite shimau mae ni, soushin botan o oshita."
+  },
+  "s6.l310": {
+    "en": "Day seven.",
+    "ru": "День седьмой.",
+    "zh": "第七天。",
+    "ko": "7일째.",
+    "ja": "7日目。",
+    "romaji": "Nanokame."
+  },
+  "s6.l311": {
+    "en": "You've been ignoring them.",
+    "ru": "Вы их игнорировали.",
+    "zh": "你一直在无视它们。",
+    "ko": "당신은 그 메일들을 무시해 왔습니다.",
+    "ja": "それらをずっと無視し続けている。",
+    "romaji": "Sorera o zutto mushi shitsudzukete iru."
+  },
+  "s6.l312": {
+    "en": "You open your notebook.",
+    "ru": "Вы открываете свой блокнот.",
+    "zh": "你打开你的笔记本。",
+    "ko": "재빨리 수첩을 펼칩니다.",
+    "ja": "ノートを開く。",
+    "romaji": "Nooto o hiraku."
+  },
+  "s6.l313": {
+    "en": "Forty pages filled. Drafts, cross-outs, questions in the margin.",
+    "ru": "Сорок заполненных страниц. Черновики, зачеркивания, вопросы на полях.",
+    "zh": "四十页都填满了。草稿、划掉的内容、边角上的问题。",
+    "ko": "40페이지가 빼곡히 채워져 있습니다. 초안, 지운 흔적, 여백에 적힌 질문들.",
+    "ja": "40ページが文字で埋まっている。下書き、取り消し線、欄外の疑問符。",
+    "romaji": "Yonjuu-peeji ga moji de umatte iru. Shitadaki, torikeshisen, rangai no gimonfu."
+  },
+  "s6.l314": {
+    "en": "Notes like:",
+    "ru": "Заметки вроде:",
+    "zh": "比如这些笔记：",
+    "ko": "이런 메모들 말이죠.",
+    "ja": "こんな書き込みが残されていた：",
+    "romaji": "Konna kakikomi ga nokosarete ita:"
+  },
+  "s6.l315": {
+    "en": "Twenty years ago—",
+    "ru": "Двадцать лет назад —",
+    "zh": "二十年前——",
+    "ko": "20년 전—",
+    "ja": "「20年前――」",
+    "romaji": "「Nijuunen mae――」"
+  },
+  "s6.l316": {
+    "en": "I stopped wanting things.",
+    "ru": "Я перестал чего-то хотеть.",
+    "zh": "我不再渴求任何事了。",
+    "ko": "언제부턴가 무언가를 원하는 마음이 사라져 버렸습니다.",
+    "ja": "「いつの間にか、何かを望むことをやめてしまっていた。」",
+    "romaji": "「Itsu no ma ni ka, nanika o nozomu koto o yamete shimatte ita.」"
+  },
+  "s6.l317": {
+    "en": "Give the professional answer",
+    "ru": "Дать профессиональный ответ",
+    "zh": "给出专业的回答",
+    "ko": "전문가다운 답변을 한다",
+    "ja": "専門家としての無難な答えをする",
+    "romaji": "Senmonka to shite no bunan na kotae o suru"
+  },
+  "s6.l318": {
+    "en": "Tell him the truth",
+    "ru": "Сказать ему правду",
+    "zh": "告诉他真相",
+    "ko": "진실을 말한다",
+    "ja": "彼に本音を打ち明ける",
+    "romaji": "Kare ni honne o uchiakeru"
+  },
+  "s6.l319": {
+    "en": "A part of you that still loves the work.",
+    "ru": "Часть вас, которая все еще любит эту работу.",
+    "zh": "你内心深处仍然热爱这份工作的那一部分。",
+    "ko": "아직도 이 일을 사랑하는 당신의 마음 말이죠.",
+    "ja": "まだこの仕事を愛している、心の奥の自分。",
+    "romaji": "Mada kono shigoto o aishite iru, kokoro no oku no jibun."
+  },
+  "s6.l320": {
+    "en": "You don't answer him.",
+    "ru": "Вы не отвечаете ему.",
+    "zh": "你没有回答。 ",
+    "ko": "당신은 대답하지 않았습니다.",
+    "ja": "彼には返事をしなかった。",
+    "romaji": "Kare ni wa henji o shinakatta."
+  },
+  "s6.l321": {
+    "en": "But you don't disagree.",
+    "ru": "Но вы и не спорите.",
+    "zh": "但也并没有否认。",
+    "ko": "하지만 부정할 수도 없었습니다.",
+    "ja": "だが、否定もしなかった。",
+    "romaji": "Daga, hitei mo shinakatta."
+  },
+  "s6.l322": {
+    "en": "2 AM.",
+    "ru": "2 часа ночи.",
+    "zh": "凌晨 2 点。",
+    "ko": "새벽 2시.",
+    "ja": "午前2時。",
+    "romaji": "Gozen niji."
+  },
+  "s6.l323": {
+    "en": "You are translating Saigyō. A monk-poet from the 12th century.",
+    "ru": "Вы переводите Сайгё. Поэта-монаха XII века.",
+    "zh": "你正在翻译西行（Saigyō）。一位 12 世纪的僧侣诗人。",
+    "ko": "당신은 12세기 승려 시인 사이교의 시를 번역하고 있습니다.",
+    "ja": "西行の詩を訳している。12世紀の僧侶にして歌人。",
+    "romaji": "Saigyou no shi o yakushite iru. Juuni-seiki no souryo ni shite kajin."
+  },
+  "s6.l324": {
+    "en": "A poem about looking at the moon alone:",
+    "ru": "Стихотворение о том, как смотреть на луну в одиночестве:",
+    "zh": "一首关于独自看月的诗：",
+    "ko": "홀로 달을 바라보는 시네요.",
+    "ja": "一人で月を見つめる歌：",
+    "romaji": "Hitori de tsuki o mitsumeru uta:"
+  },
+  "s6.l325": {
+    "en": "Roughly: \"I wish to die in spring, beneath the cherry blossoms, around the full moon of the second month.\"",
+    "ru": "Примерно: «Я хочу умереть весной, под сакурой, в полнолуние второго месяца».",
+    "zh": "大意是：“我愿在春天，在樱花树下死去，在二月望月之时。”",
+    "ko": "대충 이런 뜻입니다. \"원컨대 벚꽃 아래에서 봄에 죽기를, 그 이월 보름달 아래에서.\"",
+    "ja": "「願はくは花の下にて春死なむ そのきさらぎの望月のころ」",
+    "romaji": "「Negawaku wa hana no moto nite haru shinamu sono kisaragi no mochizuki no koro」"
+  },
+  "s6.l326": {
+    "en": "He is asking for a death that rhymes with the season.",
+    "ru": "Он просит о смерти, которая рифмуется с временем года.",
+    "zh": "他祈求的是一种与季节共振的死亡。",
+    "ko": "그는 계절과 조화를 이루는 죽음을 소망하고 있습니다.",
+    "ja": "季節と韻を踏むような死を乞うている。",
+    "romaji": "Kisetsu to in o fumu you na shi o koute iru."
+  },
+  "s6.l327": {
+    "en": "You sit for a long time.",
+    "ru": "Вы долго сидите.",
+    "zh": "你坐了很久。",
+    "ko": "당신은 한참 동안 앉아 있었습니다.",
+    "ja": "長い間、じっと座り込む。",
+    "romaji": "Nagai aida, jitto suwarikomu."
+  },
+  "s6.l328": {
+    "en": "Saigyō is longing for a version of death that matches his inner landscape.",
+    "ru": "Сайгё тоскует по версии смерти, которая соответствует его внутреннему пейзажу.",
+    "zh": "西行向往一种契合他内心图景的死亡。",
+    "ko": "사이교는 자신의 내면 풍경과 어울리는 죽음을 갈망하고 있네요.",
+    "ja": "西行は、自らの心の風景に寄り添うような死を希求しているのだ。",
+    "romaji": "Saigyou wa, mizukara no kokoro no fuukei ni yorisou you na shi o kikyuu shite iru no da."
+  },
+  "s6.l329": {
+    "en": "That's not translatable.",
+    "ru": "Это непереводимо.",
+    "zh": "那是无法翻译的。",
+    "ko": "이건 번역할 수 있는 영역이 아닙니다.",
+    "ja": "これをそのまま直訳することはできない。",
+    "romaji": "Kore o sonomama chokuyaku suru koto wa dekinai."
+  },
+  "s6.l330": {
+    "en": "So you write around it.",
+    "ru": "Поэтому вы пишете вокруг этого.",
+    "zh": "所以你只能绕开它来表达。",
+    "ko": "그래서 당신은 의미를 에둘러 표현하기로 합니다.",
+    "ja": "だからこそ、その周囲を言葉で紡いでいく。",
+    "romaji": "Dakara koso, sono shuui o kotoba de tsumuide iku."
+  },
+  "s6.l331": {
+    "en": "You draft:",
+    "ru": "Вы набрасываете черновик:",
+    "zh": "你起草道：",
+    "ko": "초안을 적어봅니다.",
+    "ja": "草案を書く：",
+    "romaji": "Souan o kaku:"
+  },
+  "s6.l332": {
+    "en": "You sit back.",
+    "ru": "Вы откидываетесь назад (в кресле).",
+    "zh": "你向后靠在椅背上。",
+    "ko": "당신은 의자 등받이에 몸을 기댑니다.",
+    "ja": "背もたれに身を預ける。",
+    "romaji": "Semotare ni mi o azukeru."
+  },
+  "s6.l333": {
+    "en": "It's not the poem.",
+    "ru": "Это не само стихотворение.",
+    "zh": "这不是那首诗本身。",
+    "ko": "이건 시가 아니죠.",
+    "ja": "原文そのものではない。",
+    "romaji": "Genbun sono mono de wa nai."
+  },
+  "s6.l334": {
+    "en": "But it contains the poem.",
+    "ru": "Но оно содержит стихотворение.",
+    "zh": "但它包含了这首诗的内容。",
+    "ko": "하지만 이 문장 안에 시가 담겨 있습니다.",
+    "ja": "だが、その歌の魂を宿している。",
+    "romaji": "Daga, sono uta no tamashii o yadoshite iru."
+  },
+  "s6.l335": {
+    "en": "The way a cupped hand contains water without being water.",
+    "ru": "Как сложенная ладонь содержит воду, не будучи водой.",
+    "zh": "就像合起的双手捧着水，虽然手不是水。",
+    "ko": "마치 모은 두 손이 물 자체가 되지는 못해도, 물을 온전히 담아내는 것처럼요.",
+    "ja": "両の手のひらで水をすくうように。手そのものは水になれなくとも、水をたたえることはできる。",
+    "romaji": "Ryou no tenohira de mizu o sukuu you ni. Te sono mono wa mizu ni narenakutomo, mizu o tataeru koto wa dekiru."
+  },
+  "s6.l336": {
+    "en": "You write in your notebook, underlined twice:",
+    "ru": "Вы пишете в своем блокноте, подчеркнув дважды:",
+    "zh": "你在笔记本上写下，并画了两次底线：",
+    "ko": "당신은 수첩에 한 문장을 쓰고 두 줄을 긋습니다.",
+    "ja": "ノートに二重の下線を引いて書き留める：",
+    "romaji": "Nooto ni nijuu no kasen o hiite kakitomeru:"
+  },
+  "s6.l337": {
+    "en": "Ueda-san mentioned a poetry reading—monthly gathering at a bookshop in Shimokitazawa.",
+    "ru": "Уэда-сан упомянул поэтические чтения — ежемесячную встречу в книжном магазине в Симокитадзаве.",
+    "zh": "上田先生提到过一次诗歌朗诵会——这是下北泽（Shimokitazawa）一家书店每月一次的聚会。",
+    "ko": "우에다 씨가 시 낭독회에 대해 얘기한 적이 있습니다. 시모키타자와의 한 서점에서 매달 열리는 모임이죠.",
+    "ja": "上田さんが教えてくれた朗読会――下北沢の書店で毎月開かれている集まり。",
+    "romaji": "Ueda-san ga oshiete kureta roudokukai――Shimokitazawa no shoten de maitsuki hirakarete iru atsumari."
+  },
+  "s6.l338": {
+    "en": "You haven't been to anything social in eight months.",
+    "ru": "Вы не были ни на каких светских мероприятиях восемь месяцев.",
+    "zh": "你已经有八个月没参加过任何社交活动了。",
+    "ko": "여덟 달 동안 그런 모임에는 발길도 하지 않았는데.",
+    "ja": "この8か月間、そうした人付き合いの場には一切足が向かなかった。",
+    "romaji": "Kono hachikagetsukan, sou shita hitodukiai no ba ni wa issai ashi ga mukanakatta."
+  },
+  "s6.l339": {
+    "en": "You go anyway.",
+    "ru": "Вы все равно идете.",
+    "zh": "但你还是去了。",
+    "ko": "하지만 당신은 그곳으로 향합니다.",
+    "ja": "それでも、行ってみることにした。",
+    "romaji": "Soredemo, itte miru koto ni shita."
+  },
+  "s6.l340": {
+    "en": "The bookshop is small, warm, and full of people who care about words.",
+    "ru": "Книжная лавка маленькая, теплая и полна людей, которым не безразличны слова.",
+    "zh": "书店很小，很温暖，到处都是热爱文字的人。",
+    "ko": "기분 좋은 온기가 도는 작은 서점 안은 언어를 사랑하는 사람들로 가득 차 있습니다.",
+    "ja": "その書店は小さく、温かみがあり、言葉を大切にする人々で満たされていた。",
+    "romaji": "Sono shoten wa chiisaku, atatakami ga ari, kotoba o taisetsu ni suru hitobito de mitasarete ita."
+  },
+  "s6.l341": {
+    "en": "There is wine in paper cups. A microphone that squeals when you stand too close.",
+    "ru": "Вино в бумажных стаканчиках. Микрофон, который визжит, если подойти слишком близко.",
+    "zh": "纸杯里装着红酒。如果站得太近，麦克风就会发出刺耳的回音。",
+    "ko": "종이컵에 담긴 와인. 너무 가까이 서면 삐익 소리가 나는 마이크.",
+    "ja": "紙コップに注がれたワイン。近づきすぎるとキーンと鳴るマイク。",
+    "romaji": "Kamikoppu ni sosogareta wain. Chikadzukisugiru to kiin to naru maiku."
+  },
+  "s6.l342": {
+    "en": "Seven readers. Poets, mostly, but also one translator—a woman who does French → Japanese.",
+    "ru": "Семь чтецов. В основном поэты, но есть и один переводчик — женщина, которая переводит с французского на японский.",
+    "zh": "七位朗诵者。大部分是诗人，但其中也有一位翻译家——一位从事法语翻译成日语的女性。",
+    "ko": "일곱 명의 낭독자들. 대부분 시인이었지만, 프랑스어를 일본어로 옮기는 여성 번역가 한 분도 계셨습니다.",
+    "ja": "7人の朗読者。大半は詩人だが、翻訳者も1人いた――フランス語から日本語へ訳している女性だ。",
+    "romaji": "Shichinin no roudokusha. Taihan wa shijin da ga, hon'yakusha mo hitori ita――Furansugo kara Nihongo e yakushite iru josei da."
+  },
+  "s6.l343": {
+    "en": "Her name is Ishii Rie. Sixty-something. She reads a passage from her recent translation of Proust—",
+    "ru": "Ее зовут Исии Риэ. Ей за шестьдесят. Она читает отрывок из своего недавнего перевода Пруста —",
+    "zh": "她叫石井理惠（Ishii Rie），六十多岁。她读了一段她最近翻译的普鲁斯特的作品——",
+    "ko": "그녀의 이름은 이시이 리에. 60대인 그녀는 최근에 번역한 프루스트의 소설 한 구절을 낭독합니다.",
+    "ja": "彼女の名前は石井理恵。60代。最近訳したプルーストの一節を朗読する――",
+    "romaji": "Kanojo no namae wa Ishii Rie. Rokujuudai. Saikin yakushita Puruusuto no issetsu o roudoku suru――"
+  },
+  "s6.l344": {
+    "en": "—which she has rendered into literary Japanese so beautiful that the room forgets to breathe.",
+    "ru": "— который она переложила на литературный японский так красиво, что в комнате все забыли, как дышать.",
+    "zh": "——她将那段文字转化成了如此优美的日本文学语言，以至于整个房间都静得让人忘记了呼吸。",
+    "ko": "—그 문장들은 너무나 아름다운 일본어 문학으로 거듭나 있었고, 좌중은 숨죽여 그녀의 목소리에 귀를 기울입니다.",
+    "ja": "――彼女が美しい文語の日本語へと訳した一節に、部屋全体が息を呑んだ。",
+    "romaji": "――kanojo ga utsukushii bungo no Nihongo e to yakushita issetsu ni, heya zentai ga iki o nonda."
+  },
+  "s6.l345": {
+    "en": "Translation is not building a bridge between two rivers.",
+    "ru": "Перевод — это не строительство моста между двумя реками.",
+    "zh": "翻译并不是在两条河流之间搭建桥梁。",
+    "ko": "번역은 두 강 사이에 다리를 놓는 일이 아닙니다.",
+    "ja": "「翻訳は二つの川の間に橋を架けることではない。」",
+    "romaji": "「Hon'yaku wa futatsu no kawa no aida ni hashi o kakeru koto de wa nai.」"
+  },
+  "s6.l346": {
+    "en": "It's reminding both rivers that they're flowing toward the same sea.",
+    "ru": "Это напоминание обеим рекам, что они текут к одному и тому же морю.",
+    "zh": "而是提醒两边的河流，它们正流向同一片大海。",
+    "ko": "오히려 두 강물 모두 같은 바다를 향해 흐르고 있다는 사실을 일깨워 주는 일이죠.",
+    "ja": "「どちらの川も同じ海へと向かっているのだと、思い出させることなのだ。」",
+    "romaji": "「Dochira no kawa mo onaji umi e to mukatte iru no da to, omoidasaseru koto na no da.」"
+  },
+  "s6.l347": {
+    "en": "After the reading, you approach her.",
+    "ru": "После чтения вы подходите к ней.",
+    "zh": "朗诵会结束后，你走到了她面前。",
+    "ko": "낭독회가 끝난 뒤, 당신은 그녀에게 다가갑니다.",
+    "ja": "朗読会の後、彼女の元へと歩み寄る。",
+    "romaji": "Roudokukai no ato, kanojo no moto e to aumiyoru."
+  },
+  "s6.l348": {
+    "en": "You haven't approached anyone at an event in years.",
+    "ru": "Вы годами ни к кому не подходили на мероприятиях.",
+    "zh": "你已经有好几年没在活动中主动找人搭过话了。",
+    "ko": "행사장에서 누군가에게 먼저 말을 거는 게 몇 년 만인지 모르겠네요.",
+    "ja": "イベントで自分から人に話しかけるなんて、何年ぶりのことだろう。",
+    "romaji": "Ibento de jibun kara hito ni hanashikakeru nante, nannen-buri no koto darou."
+  },
+  "s6.l349": {
+    "en": "The next morning, Rachel Holt calls—a video call, London afternoon, your morning.",
+    "ru": "На следующее утро звонит Рейчел Холт — видеозвонок, лондонский полдень, ваше утро.",
+    "zh": "第二天早晨，瑞秋·霍尔特打来了电话——是一个视频电话，伦敦的下午，你的早晨。",
+    "ko": "다음 날 아침, 레이첼 홀트로부터 영상 통화가 걸려 왔습니다. 런던은 오후인데, 여기는 아침이네요.",
+    "ja": "翌朝、レイチェル・ホルトから連絡が入った――ビデオ通話、ロンドンの午後、こちらは朝。",
+    "romaji": "Yokuasa, Reicheru Horuto kara renraku ga haitta――bideo tsuuwa, Rondon no gogo, kochira wa asa."
+  },
+  "s6.l350": {
+    "en": "The frog has always been there. The poem is the sound of us noticing.",
+    "ru": "Лягушка всегда была там. Стихотворение — это звук того, как мы это замечаем.",
+    "zh": "青蛙一直都在那里。这首诗就是我们注意到它的声音。",
+    "ko": "개구리는 언제나 그곳에 있었다. 이 시는 우리가 그것을 알아챈 순간의 소리일 뿐이다.",
+    "ja": "「蛙はずっとそこにいた。詩とは、私たちがその存在に気づいた音なのだ。」",
+    "romaji": "「Kawazu wa zutto soko ni ita. Shi to wa, watashitachi ga sono sonzai ni kidzuita oto na no da.」"
+  },
+  "s6.l351": {
+    "en": "It's simple: a single frog, ink-brushed, against white space.",
+    "ru": "Все просто: одна лягушка, нарисованная тушью, на фоне белого пространства.",
+    "zh": "设计很简单：在白色的背景中，有一只用水墨画出的青蛙。",
+    "ko": "단순미가 돋보이네요. 하얀 여백 위에 먹으로 그린 개구리 한 마리.",
+    "ja": "シンプルだ。白い余白の中に、墨絵の一匹の蛙。",
+    "romaji": "Shinpuru da. Shiroi yohaku no naka ni, sumie no ippiki no kawazu."
+  },
+  "s6.l352": {
+    "en": "You look at your desk. It still has the legal contracts. The pharmaceutical manual.",
+    "ru": "Вы смотрите на свой стол. На нем все еще лежат юридические контракты. Фармацевтическое руководство.",
+    "zh": "你看向你的书桌。那里依然摆放着法律合同和药品手册。",
+    "ko": "책상을 바라봅니다. 여전히 법률 계약서와 제약 매뉴얼이 놓여 있네요.",
+    "ja": "自分の机を見つめる。まだ法務の契約書がある。医薬品のマニュアルもある。",
+    "romaji": "Jibun no tsukue o mitsumeru. Mada houmu no keiyakusho ga aru. Iyaku hin no manyuaru mo aru."
+  },
+  "s6.l353": {
+    "en": "The three coffee cups are down to two. You washed one this morning.",
+    "ru": "Трех кофейных чашек стало две. Вы вымыли одну сегодня утром.",
+    "zh": "三只咖啡杯变成了两只。你今天早上洗了一只。",
+    "ko": "세 개였던 커피잔이 두 개로 줄었습니다. 오늘 아침에 하나를 닦았거든요.",
+    "ja": "3つあったコーヒーカップは2つに減っていた。今朝、ひとつ洗ったのだ。",
+    "romaji": "Mittsu atta koohii kappu wa futatsu ni hette ita. Kesa, hitotsu aratta no da."
+  },
+  "s6.l354": {
+    "en": "Small things.",
+    "ru": "Мелочи.",
+    "zh": "这些小事。",
+    "ko": "작은 변화네요.",
+    "ja": "小さな一歩だ。",
+    "romaji": "Chiisana ippo da."
+  },
+  "s6.l355": {
+    "en": "After hanging up, you open your notebook.",
+    "ru": "Повесив трубку, вы открываете свой блокнот.",
+    "zh": "挂断电话后，你打开了笔记。 ",
+    "ko": "전화를 끊고 당신은 수첩을 펼칩니다.",
+    "ja": "通話を切った後、ノートを開く。",
+    "romaji": "Tsuuwa o kitta ato, nooto o hiraku."
+  },
+  "s6.l356": {
+    "en": "You read the last thing you wrote in it—the night of the Saigyō poem:",
+    "ru": "Вы читаете последнее, что написали в нем — в ночь работы над стихотворением Сайгё:",
+    "zh": "你读着笔记本上最后记录的一行字——在翻译西行那首诗的晚上写的：",
+    "ko": "사이교의 시를 번역하던 밤, 마지막으로 적어 넣었던 구절을 읽어봅니다.",
+    "ja": "そこに書かれた最後の言葉を読む――西行の歌を訳した夜に書いたものだ：",
+    "romaji": "Soko ni kakareta saigo no kotoba o yomu――Saigyou no uta o yakushita yoru ni kaita mono da:"
+  },
+  "s6.l357": {
+    "en": "Underneath it, now, you write one more line:",
+    "ru": "Под ним теперь вы пишете еще одну строчку:",
+    "zh": "在那行字的下面，现在你又加了一行：",
+    "ko": "그리고 그 아래에 한 줄을 더 덧붙입니다.",
+    "ja": "その下に、もう一行書き加える：",
+    "romaji": "Sono shita ni, mou ichigyou kakikuwaeru:"
+  },
+  "s6.l358": {
+    "en": "In the hallway, you hear Hina-chan.",
+    "ru": "В коридоре вы слышите Хину-тян.",
+    "zh": "在走廊里，你听到了阳菜的声音。",
+    "ko": "복도에서 히나의 목소리가 들려옵니다.",
+    "ja": "廊下から、ヒナちゃんの声が聞こえてくる。",
+    "romaji": "Rouka kara, Hina-chan no koe ga kikoete kuru."
+  },
+  "s6.l359": {
+    "en": "She is reading something—you can hear her sounding it out, slowly, the way children do.",
+    "ru": "Она что-то читает — вы слышите, как она произносит звуки, медленно, как это делают дети.",
+    "zh": "她正在读着什么——你能听到她正在慢慢拼读，就像孩子们通常做的那样。",
+    "ko": "아이 특유의 느릿한 말투로 한 자 한 자 소리 내어 무언가를 읽고 있네요.",
+    "ja": "彼女は何かを読んでいる――子どもらしく、一文字ずつゆっくりと声に出しているのが聞こえる。",
+    "romaji": "Kanojo wa nanika o yonde iru――kodomorashiku, ichimojizutsu yukkuri to koe ni dashite iru no ga kikoeru."
+  },
+  "s6.l360": {
+    "en": "You can't make out the words. But the music of it comes under your door.",
+    "ru": "Вы не можете разобрать слова. Но их музыка проникает под вашу дверь.",
+    "zh": "你听不清具体在读什么。但那份韵律感却透过门缝传了进来。",
+    "ko": "무슨 말인지는 정확히 들리지 않지만, 그 말의 결이 문 아래로 스며듭니다.",
+    "ja": "言葉の内容までは聞き取れない。だがその抑揚が、ドアの下から静かに響いてくる。",
+    "romaji": "Kotoba no naiyou made wa kikitorenai. Daga sono yokuyou ga, doa no shita kara shizuka ni hibiite kuru."
+  },
+  "s6.l361": {
+    "en": "You sit and listen for a minute.",
+    "ru": "Вы сидите и слушаете минуту.",
+    "zh": "你坐在那儿听了一会儿。",
+    "ko": "당신은 가만히 앉아 잠시 귀를 기울입니다.",
+    "ja": "椅子に座り、しばらくの間耳を澄ませた。",
+    "romaji": "Isu ni suwari, shibaraku no aida mimi o sumaseta."
+  },
+  "s6.l362": {
+    "en": "That's enough.",
+    "ru": "Этого достаточно.",
+    "zh": "这就足够了。",
+    "ko": "그거면 충분합니다.",
+    "ja": "それで十分だった。",
+    "romaji": "Sore de juubun datta."
+  },
+  "s6.l084": {
+    "en": "You sit down on the hallway floor beside her.",
+    "ru": "Вы садитесь на пол в коридоре рядом с ней.",
+    "zh": "你坐在走廊的地板上，陪在她身边。",
+    "ko": "당신은 아이 옆 복도 바닥에 자리를 잡고 앉습니다.",
+    "ja": "廊下の床に、彼女の隣に腰を下ろす。",
+    "romaji": "Rouka no yuka ni, kanojo no tonari ni koshi o orosu."
+  },
+  "s6.l085": {
+    "en": "What's written here?",
+    "ru": "Что здесь написано?",
+    "zh": "这上面写的是什么？",
+    "ko": "여기에 뭐라고 써 있는 거예요?",
+    "ja": "「ここ、なんて書いてあるの？」",
+    "romaji": "「Koko, nante kaite aru no?」"
+  },
+  "s6.l086": {
+    "en": "Komorebi ya—sunlight through leaves. The pond. Golden rings.",
+    "ru": "Коморэби я — солнечный свет сквозь листья. Пруд. Золотые кольца.",
+    "zh": "木漏れ日（Komorebi ya）——林间漏光。池塘。金色的圆环。",
+    "ko": "코모레비야... 나뭇잎 사이로 비치는 햇살. 연못. 금빛 고리들.",
+    "ja": "木漏れ日や――葉の間から射す光。池。金の輪。",
+    "romaji": "Komorebi ya――ha no aida kara sasu hikari. Ike. Kin no wa."
+  },
+  "s6.l087": {
+    "en": "“Komorebi means sunlight shining through the leaves.”",
+    "ru": "«Коморэби означает солнечный свет, пробивающийся сквозь листву».",
+    "zh": "“木漏れ日是指从树叶缝隙中洒下的阳光。”",
+    "ko": "\"코모레비는 나뭇잎 사이로 햇빛이 비치는 걸 말한단다.\"",
+    "ja": "「『木漏れ日』っていうのはね、葉っぱの間からお日様の光がキラキラ差してくることだよ。」",
+    "romaji": "「『Komorebi』 tte iu no wa ne, happa no aida kara ohisama no hikari ga kirakira sashite kuru koto da yo.」"
+  },
+  "s6.l088": {
+    "en": "“It's reflected in the pond, wavering like golden rings.”",
+    "ru": "«Он отражается в пруду, дрожа, как золотые кольца».",
+    "zh": "“它映在池塘里，像金色的圆圈一样摇晃。”",
+    "ko": "\"그 햇빛이 연못에 비쳐서 금빛 고리처럼 흔들리고 있다는 뜻이야.\"",
+    "ja": "「『池に映って、金の輪みたいに揺れている』んだ。」",
+    "romaji": "「『Ike ni utsutte, kin no wa mitai ni yurete iru』 n da.」"
+  },
+  "s6.l089": {
+    "en": "Pretty.",
+    "ru": "Красиво.",
+    "zh": "漂亮。",
+    "ko": "예쁘다.",
+    "ja": "「きれい！」",
+    "romaji": "「Kirei!」"
+  },
+  "s6.l090": {
+    "en": "She didn't ask what the meter was. She didn't ask about the season word.",
+    "ru": "Она не спросила, каков метр. Она не спросила о сезонном слове.",
+    "zh": "她没有问格律是什么。也没有问季语的事。",
+    "ko": "아이는 운율이 뭔지 묻지 않았습니다. 계어가 뭔지 궁금해하지도 않았죠.",
+    "ja": "彼女は音数など尋ねなかった。季語が何かなんて気にもしなかった。",
+    "romaji": "Kanojo wa onsuu nado tazunenakatta. Kigo ga nanika nante ki ni mo shinakatta."
+  },
+  "s6.l091": {
+    "en": "She just felt it.",
+    "ru": "Она просто почувствовала это.",
+    "zh": "她只是感受到了它。",
+    "ko": "그저 온몸으로 느끼고 있었을 뿐입니다.",
+    "ja": "ただ、感じ取っただけなのだ。",
+    "romaji": "Tada, kanjitotta dake na no da."
+  },
+  "s6.l092": {
+    "en": "Back at your desk. 11 PM.",
+    "ru": "Снова за столом. 11 вечера.",
+    "zh": "回到书桌前。晚上 11 点。",
+    "ko": "다시 책상 앞입니다. 밤 11시.",
+    "ja": "机に戻る。午後11時。",
+    "romaji": "Tsukue ni modoru. Gogo juuichiji."
+  },
+  "s6.l093": {
+    "en": "An email from Rachel Holt in London:",
+    "ru": "Письмо от Рейчел Холт из Лондона:",
+    "zh": "收到伦敦瑞秋·霍尔特发来的一封邮件：",
+    "ko": "런던의 레이첼 홀트로부터 메일이 왔습니다.",
+    "ja": "ロンドンのレイチェル・ホルトからのメール：",
+    "romaji": "Rondon no Reicheru Horuto kara no meeru:"
+  },
+  "s6.l094": {
+    "en": "“Dear Takeshi-san,",
+    "ru": "«Дорогой Такэси-сан,",
+    "zh": "“亲爱的森先生，",
+    "ko": "“모리 씨에게,",
+    "ja": "「親愛なる森さんへ、」",
+    "romaji": "「Shin'ai naru Mori-san e,」"
+  },
+  "s6.l095": {
+    "en": "I've been thinking about your note on the Bashō—about the ya as a pause.",
+    "ru": "Я думала о вашей заметке о Басё — о «я» как о паузе.",
+    "zh": "我一直在思考关于你对芭蕉那首诗做的注释——关于将“や”作为停顿的理解。",
+    "ko": "바쇼의 시에 달아주신 주석을 읽어봤어요. '야'가 쉼표 역할을 한다는 부분이 인상 깊더군요.",
+    "ja": "「芭蕉についてのメモ――『や』という切れ字が間であることについて、ずっと考えていました。」",
+    "romaji": "「Bashou ni tsuite no memo――『ya』 to iu kireji ga ma de aru koto ni tsuite, zutto kangaete imashita.」"
+  },
+  "s6.l096": {
+    "en": "It made me realize something. When I read a haiku in English, I rush through it.",
+    "ru": "Это заставило меня кое-что осознать. Когда я читаю хайку на английском, я пробегаю глазами по нему.",
+    "zh": "这让我意识到了一些事。当我读英语版俳句时，我总是读得很快。",
+    "ko": "덕분에 깨달은 게 있어요. 저는 그동안 영어로 된 하이쿠를 읽을 때 한숨에 읽어 내려가곤 했거든요.",
+    "ja": "「そのメモを読んで、あることに気づかされたのです。英語で俳句を読む時、私はただ急いで読み飛ばしていたのだと。」",
+    "romaji": "「Sono memo o yonde, aru koto ni kidzukasareta no desu. Eigo de haiku o yomu toki, watashi wa tada isoide yomitobashite ita no da to.」"
+  },
+  "s6.l097": {
+    "en": "I treat it like a sentence with a line break.",
+    "ru": "Я отношусь к нему как к предложению с разрывом строки.",
+    "zh": "我把它当成了一个带有换行的句子。",
+    "ko": "그냥 줄 바꿈이 있는 문장 정도로 생각했던 거죠.",
+    "ja": "「改行のある一文のように扱ってしまっていたのですね。」",
+    "romaji": "「Kaikyou no aru ichibun no you ni atsukatte shimatte ita no desu ne.」"
+  },
+  "s6.l098": {
+    "en": "Could you help me understand how to read these properly?",
+    "ru": "Не могли бы вы помочь мне понять, как их правильно читать?",
+    "zh": "你能帮我理解如何正确阅读这些诗吗？",
+    "ko": "어떻게 하면 이 시들을 제대로 읽을 수 있는지 알려주실 수 있을까요?",
+    "ja": "「これらを本来どう読むべきなのか、教えていただけないでしょうか？」",
+    "romaji": "「Korera o honrai dou yomu beki na no ka, oshiete itadakenai deshou ka?」"
+  },
+  "s6.l099": {
+    "en": "Not just what they mean—but how to be in them.",
+    "ru": "Не только то, что они значат, но и как в них находиться.",
+    "zh": "不仅是它们的意思——更应该是如何让自己置身于其中。",
+    "ko": "단순한 의미 파악을 넘어, 시 속의 분위기를 온전히 느끼는 방법 말이에요.",
+    "ja": "「単に意味を理解するだけでなく――その詩の世界にどう身を置くべきなのかを。」",
+    "romaji": "「Tann ni imi o rikai suru dake de naku――sono shi no sekai ni dou mi o oku beki na no ka o.」"
+  },
+  "s6.l100": {
+    "en": "How to be in them.",
+    "ru": "Как в них находиться.",
+    "zh": "如何置身于其中。",
+    "ko": "그 속에 들어가다.",
+    "ja": "「その詩の世界に身を置く、か。」",
+    "romaji": "「Sono shi no sekai ni mi o oku, ka.」"
+  },
+  "s6.l101": {
+    "en": "I sent her a note about the ya. I didn't realize I'd sent her anything at all.",
+    "ru": "Я отправил ей заметку о «я». Я и не осознавал, что вообще ей что-то посылал.",
+    "zh": "我发给了她关于“や”的注释。我甚至都没意识到自己发过任何东西给她。",
+    "ko": "내가 레이첼에게 '야'에 대한 설명을 보냈었나. 뭘 보냈는지조차 기억나지 않습니다.",
+    "ja": "「や」についてのメモを送っていたのか。何かメモを送った覚えすらなかった。",
+    "romaji": "『Ya』 ni tsuite no memo o okutte ita no ka. Nanika memo o okutta oboe sura nakatta."
+  },
+  "s6.l102": {
+    "en": "I must have written it between the second and third attempts at translation.",
+    "ru": "Должно быть, я написал это между второй и третьей попытками перевода.",
+    "zh": "那一定是我在第二次和第三次翻译尝试之间写下的。",
+    "ko": "번역을 두세 번 고치던 와중에 나도 모르게 적어 넣었나 봅니다.",
+    "ja": "2度目と3度目の翻訳の試みの合間に、無意識に書き殴ったものに違いない。",
+    "romaji": "Nidome to sandome no hon'yaku no kokoromi no aima ni, muishiki ni kakinagutta mono ni chigainai."
+  },
+  "s6.l103": {
+    "en": "The blank space in a poem—or a painting—that means as much as the marks.",
+    "ru": "Пустое пространство в стихотворении — или картине — которое значит столько же, сколько сами знаки.",
+    "zh": "诗歌——或绘画——中的空白部分，其意义并不亚于笔触。",
+    "ko": "시나 그림 속에 존재하는 빈 공간. 그것은 채워진 공간만큼이나 중요한 의미를 갖습니다.",
+    "ja": "余白――詩や絵画において、描かれたものと同じくらい重要な空白。",
+    "romaji": "Yohaku――shi ya kaiga ni oite, egakareta mono to onaji kurai juuyou na kuuhaku."
+  },
+  "s6.l104": {
+    "en": "I need to explain yohaku to someone who has never felt it.",
+    "ru": "Мне нужно объяснить ёхаку тому, кто никогда его не чувствовал.",
+    "zh": "我需要向一个从未感受过余白的人解释它。",
+    "ko": "여백을 한 번도 느껴보지 못한 사람에게 여백을 설명해야 하다니.",
+    "ja": "「それを一度も感じたことがない人に、『余白』を説明しなければならない。」",
+    "romaji": "「Sore o ichido mo kanjita koto ga nai hito ni, 『yohaku』 o setsumei shinakereba naranai.」"
+  },
+  "s6.l105": {
+    "en": "To do that, I need to be able to feel it myself.",
+    "ru": "Чтобы сделать это, я должен уметь чувствовать его сам.",
+    "zh": "为此，我必须能够先亲自感受它。",
+    "ko": "그러기 위해선 내가 먼저 여백을 느낄 줄 알아야 합니다.",
+    "ja": "「そのためには、まず私自身がそれを感じ取れなければならないのだ。」",
+    "romaji": "「Sono tame ni wa, mazu watashi jishin ga sore o kanjitorenakereba naranai no da.」"
+  },
+  "s6.l106": {
+    "en": "Day seven. You've translated thirty poems. You've thrown out twenty-six versions.",
+    "ru": "День седьмой. Вы перевели тридцать стихотворений. Вы выбросили двадцать шесть версий.",
+    "zh": "第七天。你已经翻译了三十首诗。扔掉了二十六个版本。",
+    "ko": "7일째. 지금까지 30편의 시를 번역했고, 26개의 버전을 버렸습니다.",
+    "ja": "7日目。30篇の詩を訳し、26パターンの草案を破棄した。",
+    "romaji": "Nanokame. Sanjuppen no shi o yakushi, nijuuroku pataan no souan o haki shita."
+  },
+  "s6.l107": {
+    "en": "The deadline is in four days.",
+    "ru": "Дедлайн через четыре дня.",
+    "zh": "截止日期还有四天。",
+    "ko": "마감까지 이제 4일 남았네요.",
+    "ja": "締め切りまであと4日。",
+    "romaji": "Shimekiri made ato yokka."
+  },
+  "s6.l108": {
+    "en": "Your phone shows seventeen unread emails—legal clients, a software company, Ueda-san.",
+    "ru": "Ваш телефон показывает семнадцать непрочитанных писем — юридические клиенты, компания по разработке ПО, Уэда-сан.",
+    "zh": "你的手机显示有十七封未读邮件——法律客户、软件公司、还有上田先生。",
+    "ko": "휴대폰엔 읽지 않은 메일이 17건이나 쌓여 있습니다. 법률 자문 고객, 소프트웨어 회사, 그리고 우에다 씨.",
+    "ja": "スマートフォンには17件の未読メールが表示されている――法務のクライアント、ソフトウェア会社、上田さん。",
+    "romaji": "Sumaatofon ni wa juunanaken no midoku meeru ga hyouji sarete iru――houmu no kuraianto, sofutowea gaisha, Ueda-san."
+  },
+  "s6.l109": {
+    "en": "I have never ignored a client in fifteen years.",
+    "ru": "Я никогда не игнорировал клиента за пятнадцать лет.",
+    "zh": "十五年来，我从未无视过客户。",
+    "ko": "15년 동안 클라이언트를 무시해 본 적은 단 한 번도 없었는데.",
+    "ja": "「15年間、クライアントを無視したことなど一度もなかった。」",
+    "romaji": "「Juugonenkan, kuraianto o mushi shita koto nado ichido mo nakatta.」"
+  },
+  "s6.l110": {
+    "en": "I have never not hit a deadline in fifteen years.",
+    "ru": "За пятнадцать лет я ни разу не пропустил дедлайн.",
+    "zh": "十五年来，我从未迟过交稿。",
+    "ko": "마감을 어겨본 적도 없었습니다.",
+    "ja": "「15年間、締め切りを破ったことなど一度もなかった。」",
+    "romaji": "「Juugonenkan, shimekiri o yabutta koto nado ichido mo nakatta.」"
+  },
+  "s6.l111": {
+    "en": "I should just write the quick versions. Hand them in. Collect the fee.",
+    "ru": "Мне следует просто написать быстрые версии. Сдать их. Забрать гонорар.",
+    "zh": "我应该只写一个快速的版本。交稿。拿钱。",
+    "ko": "그냥 대충 번역해서 넘길까. 제시간에 맞춰 내고 보수나 챙기면 그만인데.",
+    "ja": "「手早く無難に訳して提出し、報酬を受け取ればいいはずだ。」",
+    "romaji": "「Tebayaku bunan ni yakushite teishutsu shi, houshuu o uketoreba ii hazu da.」"
+  },
+  "s6.l112": {
+    "en": "Rachel said she wants them to feel alive.",
+    "ru": "Рейчел сказала, что хочет, чтобы они казались живыми.",
+    "zh": "瑞秋说她希望它们能焕发生机。",
+    "ko": "하지만 레이첼은 시가 살아 숨 쉬길 원한다고 했습니다.",
+    "ja": "「レイチェルは『息づいているものにしてほしい』と言った。」",
+    "romaji": "「Reicheru wa 『ikidzuite iru mono ni shite hoshii』 to itta.」"
+  },
+  "s6.l113": {
+    "en": "But alive is not my job. Accurate is my job.",
+    "ru": "Но живость — это не моя работа. Точность — вот моя работа.",
+    "zh": "但鲜活并不是我的工作。准确才是我的职责。",
+    "ko": "생명력을 불어넣는 건 내 일이 아닙니다. 정확하게 옮기는 게 내 일이죠.",
+    "ja": "だが、生かすことは私の仕事ではない。正確であることが仕事なのだ。",
+    "romaji": "Daga, ikasu koto wa watashi no shigoto dewa nai. Seikaku de aru koto ga shigoto na no da."
+  },
+  "s6.l114": {
+    "en": "Then why can't I stop?",
+    "ru": "Тогда почему я не могу остановиться?",
+    "zh": "那为什么我停不下来？",
+    "ko": "그런데 왜 멈출 수가 없는 걸까요.",
+    "ja": "なら、なぜ私はやめられないのだろう？",
+    "romaji": "Nara, naze watashi wa yamerarenai no darō?"
+  },
+  "s6.l115": {
+    "en": "\"Can 'kogarashi' become 'the wind that forgets it's still autumn'?\"",
+    "ru": "«Может ли «когараси» стать «ветром, который забыл, что все еще осень»?»",
+    "zh": "“‘木枯（kogarashi）’能变成‘忘记了现在仍是秋天的风’吗？”",
+    "ko": "\"'코가라시'를 '아직 가을인 것을 잊어버린 바람'이라고 옮길 수 있을까?\"",
+    "ja": "「『木枯らし』を『まだ秋であることを忘れた風』と訳せるだろうか？」",
+    "romaji": "\"Kogarashi\" o \"mada aki de aru koto o wasureta kaze\" to yakuseru darō ka?"
+  },
+  "s6.l116": {
+    "en": "\"Is there a word in English for the sound a quiet room makes?\"",
+    "ru": "«Есть ли в английском языке слово для обозначения звука, который издает тихая комната?»",
+    "zh": "“英语里有没有一个词可以形容安静房间发出的声音？”",
+    "ko": "\"고요한 방에서 나는 소리를 뜻하는 영어 단어가 있을까?\"",
+    "ja": "「静まり返った部屋が立てる音を表す英語の単語はあるだろうか？」",
+    "romaji": "\"Shizumarikaetta heya ga tateru oto o arawasu eigo no tango wa aru darō ka?"
+  },
+  "s6.l117": {
+    "en": "\"Yosano's 'otouto' — say 'little brother' but make it unbearable.\"",
+    "ru": "««отоуто» Ёсано — сказать «младший брат», но сделать это невыносимым».",
+    "zh": "“与谢野晶子诗里的‘otouto’——译作‘弟弟’，但要让人感到肝肠寸断。”",
+    "ko": "\"요사노의 '오토우토'... '남동생'이라고 쓰되, 그 절절함이 느껴지게 해야 한다.\"",
+    "ja": "「与謝野の『をととうとよ』――『little brother』としつつも、耐えがたい切なさを宿らせるにはどうすればいい？」",
+    "romaji": "\"Yosano no 'otōto yo' -- 'little brother' to shitsutsu mo, taegatai setsunasa o yadoraseru ni wa dō sureba ii?\""
+  },
+  "s6.l118": {
+    "en": "I didn't become a translator because I liked processing documents.",
+    "ru": "Я не стал переводчиком, потому что мне нравилось обрабатывать документы.",
+    "zh": "我之所以成为翻译员，并不是因为我喜欢处理文件。",
+    "ko": "서류 뭉치를 뒤적이는 게 좋아서 번역가가 된 건 아니었습니다.",
+    "ja": "書類を処理するのが好きで翻訳者になったわけではない。",
+    "romaji": "Shorui o shori suru no ga suki de hon'yakusha ni natta wake dewa nai."
+  },
+  "s6.l119": {
+    "en": "I became one because I was twenty-two and I had read a poem that made me believe you could carry something across a border that couldn't normally be carried.",
+    "ru": "Я стал им в двадцать два года, потому что прочитал стихотворение, которое заставило меня поверить, что можно перенести через границу то, что обычно перенести нельзя.",
+    "zh": "我二十二岁时入行，是因为读到了一首诗，它让我相信，你可以跨越国界去传递一些通常无法传递的东西。",
+    "ko": "스물둘, 어떤 시를 읽고 감명받았기 때문이었죠. 언어라는 장벽 너머로, 도저히 옮길 수 없을 것 같은 무언가를 전달할 수 있다는 믿음 말입니다.",
+    "ja": "二十二歳のとき、普通なら運べないものを国境の向こうへ運べるのだと信じさせてくれた詩に出会い、私は翻訳者になったのだ。",
+    "romaji": "Nijūni-sai no toki, futsū nara hakobenai mono o kokkyō no mukō e hakoberu no da to shinjisasete kureta shi ni deai, watashi wa hon'yakusha ni natta no da."
+  },
+  "s6.l120": {
+    "en": "I wanted to do that.",
+    "ru": "Я хотел это сделать.",
+    "zh": "我曾想要那样做。",
+    "ko": "나도 그런 일을 하고 싶었습니다.",
+    "ja": "それがしたかったのだ。",
+    "romaji": "Sore ga shitakatta no da."
+  },
+  "s6.l121": {
+    "en": "I stopped wanting things.",
+    "ru": "Я перестал хотеть чего-либо.",
+    "zh": "我早就没有那种渴望了。",
+    "ko": "언젠가부터 그런 열망을 잊고 살았습니다.",
+    "ja": "いつしか私は、何かを望むことをやめてしまっていた。",
+    "romaji": "Itsushika watashi wa, nanika o nozomu koto o yamete shimatte ita."
+  },
+  "s6.l122": {
+    "en": "Please be honest. How is the poetry collection progressing?",
+    "ru": "Пожалуйста, будьте честны. Как продвигается сборник стихов?",
+    "zh": "请实话告诉我。诗集翻译进展如何？",
+    "ko": "솔직하게 말씀해 주세요. 시집 번역은 어떻게 돼가고 있나요?",
+    "ja": "「正直におっしゃってください。詩集の進み具合はどうですか？」",
+    "romaji": "\"Shōjiki ni osshatte kudasai. Shishū no susumiguai wa dō desu ka?\""
+  },
+  "s6.l123": {
+    "en": "I'm behind schedule.",
+    "ru": "Я отстаю от графика.",
+    "zh": "进度落后了。",
+    "ko": "좀 늦어지고 있습니다.",
+    "ja": "「予定より遅れています」",
+    "romaji": "\"Yotei yori okurete imasu\""
+  },
+  "s6.l124": {
+    "en": "What's the problem?",
+    "ru": "В чем проблема?",
+    "zh": "出什么问题了吗？",
+    "ko": "뭐가 문제인가요?",
+    "ja": "「何が問題なんですか？」",
+    "romaji": "\"Nani ga mondai nan desu ka?\""
+  },
+  "s6.l125": {
+    "en": "To be honest, I'm overthinking it.",
+    "ru": "Честно говоря, я слишком много думаю.",
+    "zh": "坦白说，我想得太多了。",
+    "ko": "사실... 너무 깊게 고민하고 있습니다.",
+    "ja": "「正直に言って、考えすぎてしまっているんです」",
+    "romaji": "\"Shōjiki ni itte, kangaesugite shimatte iru n desu\""
+  },
+  "s6.l126": {
+    "en": "I want to do it properly. Not just accurately.",
+    "ru": "Я хочу сделать это правильно. Не просто точно.",
+    "zh": "我想把它做完美。不只是准确而已。",
+    "ko": "그냥 정확하게 옮기는 게 아니라, 제대로 해보고 싶거든요.",
+    "ja": "「ただ正確にやるのではなく、ちゃんとやりたいんです」",
+    "romaji": "\"Tada seikaku ni yaru no dewa naku, chanto yaritai n desu\""
+  },
+  "s6.l127": {
+    "en": "I hadn't been thinking like this for a long time.",
+    "ru": "Я давно так не думал.",
+    "zh": "我已经很久没有过这种想法了。",
+    "ko": "이런 기분, 정말 오랜만이네요.",
+    "ja": "「こんな風に考えたのは、本当に久しぶりです」",
+    "romaji": "\"Konna fū ni kangaeta no wa, hontō ni hisashiburi desu\""
+  },
+  "s6.l128": {
+    "en": "Isn't that a good thing?",
+    "ru": "Разве это не хорошо?",
+    "zh": "那不是件好事吗？",
+    "ko": "그건 좋은 징조 아닌가요?",
+    "ja": "「それって、良いことじゃないですか？」",
+    "romaji": "\"Sorette, ii koto ja nai desu ka?\""
+  },
+  "s6.l129": {
+    "en": "If I can't meet the deadline, that's not good.",
+    "ru": "Если я не уложусь в дедлайн, это нехорошо.",
+    "zh": "如果赶不上截止日期，那就不好了。",
+    "ko": "마감을 지키지 못하면 좋은 일이라고 할 순 없겠죠.",
+    "ja": "「締め切りに間に合わなければ、良くはありませんよ」",
+    "romaji": "\"Shimekiri ni maniawanakereba, yoku wa arimasen yo\""
+  },
+  "s6.l130": {
+    "en": "I'll extend the deadline.",
+    "ru": "Я продлю дедлайн.",
+    "zh": "我会延长截止日期的。",
+    "ko": "마감은 제가 연장해 보겠습니다.",
+    "ja": "「締め切りなら延ばします」",
+    "romaji": "\"Shimekiri nara nobashimasu\""
+  },
+  "s6.l131": {
+    "en": "If you care passionately about this work, Mori-san, I'll extend it.",
+    "ru": "Если вы страстно увлечены этой работой, Мори-сан, я продлю ее.",
+    "zh": "如果森先生对这份工作充满热情，我会为你延长期限。",
+    "ko": "모리 씨가 이 일에 열정을 쏟고 계신다면, 마감 정도야 얼마든지 조정할 수 있어요.",
+    "ja": "「森さんがこの仕事に情熱を傾けてくださるのなら、私が延長の手配をしますよ」",
+    "romaji": "\"Mori-san ga kono shigoto ni jōnetsu o katamukete kudasaru no nara, watashi ga enchō no tehai o shimasu yo\""
+  },
+  "s6.l132": {
+    "en": "The old you, Mori-san, would have gladly taken this kind of work.",
+    "ru": "Прежний вы, Мори-сан, с удовольствием взялись бы за такую работу.",
+    "zh": "以前的你，森先生，肯定会很高兴接受这种工作的。",
+    "ko": "예전의 모리 씨라면 이런 일을 기쁘게 받아들이셨을 거예요.",
+    "ja": "「昔の森さんなら、こういう仕事は喜んで引き受けていたはずです」",
+    "romaji": "\"Mukashi no Mori-san nara, kōiu shigoto wa yorokonde hikiukete ita hazu desu\""
+  },
+  "s6.l133": {
+    "en": "Do you know why you accepted that poetry project?",
+    "ru": "Вы знаете, почему приняли этот поэтический проект?",
+    "zh": "你知道你为什么接受这个诗歌项目吗？",
+    "ko": "이번 의뢰를 왜 수락하셨는지, 스스로는 알고 계신가요?",
+    "ja": "「なぜその詩のプロジェクトを引き受けたのか、ご自分でお分かりですか？」",
+    "romaji": "\"Naze sono shi no purojekuto o hikiuketa no ka, gojibun de owakari desu ka?\""
+  },
+  "s6.l134": {
+    "en": "I don't know.",
+    "ru": "Я не знаю.",
+    "zh": "我不知道。",
+    "ko": "글쎄요, 잘 모르겠습니다.",
+    "ja": "「分かりません」",
+    "romaji": "\"Wakarimasen\""
+  },
+  "s6.l135": {
+    "en": "Maybe somewhere inside, there's still a you who loves this work.",
+    "ru": "Может быть, где-то внутри все еще живет тот, кто любит эту работу.",
+    "zh": "或许在你内心的某个角落，仍然有一个热爱这份工作的你。",
+    "ko": "아마도... 마음 한구석엔 여전히 이 일을 사랑하는 자신이 남아있는 게 아닐까요?",
+    "ja": "「もしかすると心のどこかに、まだこの仕事を愛している森さんがいるのかもしれませんね」",
+    "romaji": "\"Moshikasuruto kokoro no dokoka ni, mada kono shigoto o aishite iru Mori-san ga iru no kamoshiremasen ne\""
+  },
+  "s6.l136": {
+    "en": "You are translating Saigyō. A monk-poet from the 12th century.",
+    "ru": "Вы переводите Сайгё. Поэта-монаха XII века.",
+    "zh": "你正在翻译西行（Saigyō）。一位 12 世纪的僧侣诗人。",
+    "ko": "12세기 승려 시인 사이교의 시를 번역하고 있습니다.",
+    "ja": "あなたは西行を翻訳している。十二世紀の僧侶にして歌人だ。",
+    "romaji": "Anata wa Saigyō o hon'yaku shite iru. Jūni-seiki no sōryo ni shite kajin da."
+  },
+  "s6.l137": {
+    "en": "A poem about looking at the moon alone:",
+    "ru": "Стихотворение о том, как смотреть на луну в одиночестве:",
+    "zh": "一首关于独自赏月的诗：",
+    "ko": "홀로 달을 바라보며 읊은 시입니다.",
+    "ja": "一人で月を眺める歌だ。",
+    "romaji": "Hitori de tsuki o nagameru uta da."
+  },
+  "s6.l138": {
+    "en": "Roughly: \"I wish to die in spring, beneath the cherry blossoms, around the full moon of the second month.\"",
+    "ru": "Примерно так: «Я желаю умереть весной под цветущей сакурой, в полнолуние второго месяца».",
+    "zh": "大致意思：“愿在春天的樱花树下死去，就在二月的圆月时分。”",
+    "ko": "대략 이런 내용이죠. \"원컨대 꽃 아래에서 / 봄에 죽으리 / 그 키사라기(음력 2월)의 / 보름달 무렵에.\"",
+    "ja": "大意はこうだ。「願はくは花の下にて春死なむ そのきさらぎの望月のころ」",
+    "romaji": "Tai'i wa kō da. 'Negawaku wa hana no moto nite haru shinamu sono kisaragi no mochizuki no koro'"
+  },
+  "s6.l139": {
+    "en": "He's saying: let my death be like a flower. Timed perfectly. Beautiful in its ending.",
+    "ru": "Он говорит: пусть моя смерть будет подобна цветку. Своевременной. Прекрасной в своем конце.",
+    "zh": "他在说：让我的死亡像花朵一样。时机恰到好处。结束得依然美丽。",
+    "ko": "그는 말합니다. 나의 죽음이 꽃과 같기를. 완벽한 순간에, 그 마지막조차 아름답기를.",
+    "ja": "彼は言っているのだ。自らの死が花のようであれと。完璧な時を迎え、美しく終焉を迎えるようにと。",
+    "romaji": "Kare wa itte iru no da. Mizukara no shi ga hana no yō de are to. Kampeki na toki o mukae, utsukushiku shūen o mukaeru yō ni to."
+  },
+  "s6.l140": {
+    "en": "He is asking for a death that rhymes with the season.",
+    "ru": "Он просит о смерти, которая рифмуется с временем года.",
+    "zh": "他在祈求一种与季节合拍的死亡。",
+    "ko": "계절과 조화를 이루는 죽음을 소망하고 있는 것입니다.",
+    "ja": "彼は季節と調和し、韻を踏むような死を願っている。",
+    "romaji": "Kare wa kisetsu to chōwa shi, in o fumu yō na shi o negatte iru."
+  },
+  "s6.l141": {
+    "en": "You think about the word 郷愁—kyoushuu—nostalgia, homesickness.",
+    "ru": "Вы думаете о слове 郷愁 — кёсю — ностальгия, тоска по дому.",
+    "zh": "你思考着“乡愁（kyoushuu）”这个词——怀旧，思乡。",
+    "ko": "'향수(kyoushuu)'라는 단어를 떠올려 봅니다.",
+    "ja": "あなたは「郷愁」という言葉について考える――ノスタルジア、故郷への思慕。",
+    "romaji": "Anata wa 'kyōshū' to iu kotoba ni tsuite kangaeru -- nosutarujia, kokyō e no shibo."
+  },
+  "s6.l142": {
+    "en": "But it isn't quite either. It's yearning for a place you can feel but can't go back to.",
+    "ru": "Но это не совсем то. Это тоска по месту, которое вы чувствуете, но в которое не можете вернуться.",
+    "zh": "但这两者都不完全准确。它是对某个你能感觉得到、却再也回不去的地方的向往。",
+    "ko": "하지만 단순한 그리움은 아니에요. 느낄 수는 있지만 돌아갈 수 없는 곳을 향한 간절한 갈망이죠.",
+    "ja": "だがそのどちらとも少し違う。感じることはできても、決して戻ることはできない場所への渇望なのだ。",
+    "romaji": "Daga sono dochira tomo sukoshi chigau. Kanjiru koto wa dekitemo, kesshite modoru koto wa dekinai basho e no katsubō na no da."
+  },
+  "s6.l143": {
+    "en": "Saigyō is longing for a version of death that matches his inner landscape.",
+    "ru": "Сайгё жаждет смерти, которая соответствует его внутреннему пейзажу.",
+    "zh": "西行在渴望一种符合他内心景观的死亡方式。",
+    "ko": "사이교는 자신의 내면 풍경과 어우러지는 죽음의 모습을 꿈꾸고 있습니다.",
+    "ja": "西行は自らの心象風景に寄り添うような死を希求している。",
+    "romaji": "Saigyō wa mizukara no shinshō fūkei ni yorisou yō na shi o kikyū shite iru."
+  },
+  "s6.l144": {
+    "en": "That's not translatable.",
+    "ru": "Это непереводимо.",
+    "zh": "这是无法翻译的。",
+    "ko": "이런 감정은 번역할 수 없습니다.",
+    "ja": "それは言葉通りには翻訳できない。",
+    "romaji": "Sore wa kotobadōri ni wa hon'yaku dekinai."
+  },
+  "s6.l145": {
+    "en": "So you write around it.",
+    "ru": "Так что вы пишете вокруг этого.",
+    "zh": "所以你绕过直接翻译，去捕捉它的神韵。",
+    "ko": "그래서 당신은 그 주변부를 맴돌며 서술합니다.",
+    "ja": "だから、その輪郭を包むように言葉を紡ぐ。",
+    "romaji": "Dakara, sono rinkaku o tsutsumu yō ni kotoba o tsumugu."
+  },
+  "s6.l146": {
+    "en": "\"If I must die,",
+    "ru": "«Если я должен умереть,",
+    "zh": "“如果我注定要死去，",
+    "ko": "\"내가 반드시 죽어야 한다면,",
+    "ja": "「もし死なねばならぬなら、",
+    "romaji": "\"Moshi shinaneba naranu nara,"
+  },
+  "s6.l147": {
+    "en": "let it be beneath the cherry blossoms",
+    "ru": "пусть это будет под цветущей сакурой",
+    "zh": "请让我死在樱花树下",
+    "ko": "벚꽃 아래 잠들게 하소서",
+    "ja": "桜の花の下にしてくれ",
+    "romaji": "sakura no hana no moto ni shite kure"
+  },
+  "s6.l148": {
+    "en": "in that exact light—",
+    "ru": "в том самом свете —",
+    "zh": "就在那样的光影里——",
+    "ko": "바로 그 빛 아래에서,",
+    "ja": "まさにその光の中で――",
+    "romaji": "masa ni sono hikari no naka de--"
+  },
+  "s6.l149": {
+    "en": "the full moon, the second month,",
+    "ru": "полная луна, второй месяц,",
+    "zh": "二月的圆月下，",
+    "ko": "2월의 보름달이 뜰 때,",
+    "ja": "如月の満月のころ、",
+    "romaji": "kisaragi no mangetsu no koro,"
+  },
+  "s6.l150": {
+    "en": "when endings fit like petals into water.\"",
+    "ru": "когда концы вписываются, как лепестки в воду».",
+    "zh": "当时光的落幕，如花瓣落入流水般自然。”",
+    "ko": "그 마지막이 수면 위에 내려앉는 꽃잎과 같기를.\"",
+    "ja": "花びらが水に溶けこむように、終わりが訪れるときに」",
+    "romaji": "hanabira ga mizu ni tokekomu yō ni, owari ga otozureru toki ni\""
+  },
+  "s6.l151": {
+    "en": "It's not the poem.",
+    "ru": "Это не само стихотворение.",
+    "zh": "这并不是原诗。",
+    "ko": "원래의 시는 아닙니다.",
+    "ja": "それは元の歌そのものではない。",
+    "romaji": "Sore wa moto no uta sonomono dewa nai."
+  },
+  "s6.l152": {
+    "en": "But it contains the poem.",
+    "ru": "Но оно содержит в себе это стихотворение.",
+    "zh": "但它包含了这首诗的内容。",
+    "ko": "하지만 시가 담고 있는 것을 품고 있죠.",
+    "ja": "しかし、その歌を確かに宿している。",
+    "romaji": "Shikashi, sono uta o tashika ni yadoshite iru."
+  },
+  "s6.l153": {
+    "en": "The way a cupped hand contains water without being water.",
+    "ru": "Как сложенная ладонь удерживает воду, не являясь водой.",
+    "zh": "就像捧起的手心接住了水，虽然手本身并不是水。",
+    "ko": "움켜쥔 손이 물 자체가 아니면서도 물을 머금고 있는 것처럼 말입니다.",
+    "ja": "両の手のひらが、水そのものにはならずとも水を湛えるように。",
+    "romaji": "Ryō no tenohira ga, mizu sonomono ni wa narazutomo mizu o tataeru yō ni."
+  },
+  "s6.l154": {
+    "en": "\"Translation is not transfer. It is resonance.\"",
+    "ru": "«Перевод — это не перенос. Это резонанс».",
+    "zh": "“翻译不是转移。而是共鸣。”",
+    "ko": "\"번역은 단순한 전달이 아니다. 그것은 공명이다.\"",
+    "ja": "「翻訳とは移し替えではない。共鳴なのだ」",
+    "romaji": "\"Hon'yaku to wa utsushikae dewa nai. Kyōmei na no da\""
+  },
+  "s6.l155": {
+    "en": "Ueda-san mentioned a poetry reading—monthly gathering at a bookshop in Shimokitazawa.",
+    "ru": "Уэда-сан упомянул о поэтических чтениях — ежемесячных встречах в книжном магазине в Симокитадзаве.",
+    "zh": "上田先生提到了一场诗歌朗诵会——下北泽一家书店举办的每月聚会。",
+    "ko": "우에다 씨가 시모키타자와의 어느 서점에서 열리는 시 낭독회에 대해 얘기해 주었습니다. 매달 열리는 모임이라고 하더군요.",
+    "ja": "上田さんが下北沢の書店で開かれる月例の朗読会について話していた。",
+    "romaji": "Ueda-san ga Shimokitazawa no shoten de hirakareru getsurei no rōdokukai ni tsuite hanashite ita."
+  },
+  "s6.l156": {
+    "en": "You haven't been to anything social in eight months.",
+    "ru": "Вы не посещали никаких общественных мероприятий восемь месяцев.",
+    "zh": "你已经八个月没有参加过任何社交活动了。",
+    "ko": "사회적인 활동을 끊은 지 벌써 8개월이나 되었습니다.",
+    "ja": "この八ヶ月間、社交の場にはまったく顔を出していなかった。",
+    "romaji": "Kono hachikagetsukan, shakō no ba ni wa mattaku kao o dashite inakatta."
+  },
+  "s6.l157": {
+    "en": "The bookshop is small, warm, and full of people who care about words.",
+    "ru": "Книжный магазин маленький, теплый и полон людей, которым важны слова.",
+    "zh": "书店很小，很温馨，挤满了热爱文字的人。",
+    "ko": "서점은 아담하고 따뜻했으며, 언어를 사랑하는 사람들로 북적였습니다.",
+    "ja": "その書店は小さく、温もりがあり、言葉を大切にする人々で満ちていた。",
+    "romaji": "Sono shoten wa chiisaku, nukumori ga ari, kotoba o taisetsu ni suru hitobito de michite ita."
+  },
+  "s6.l158": {
+    "en": "The passage she has rendered into literary Japanese is so beautiful that the room forgets to breathe.",
+    "ru": "Отрывок, который она переложила на литературный японский, настолько прекрасен, что зал забывает дышать.",
+    "zh": "她翻译成古雅日语的那段文字美得令人窒息，整个房间都安静了下来。",
+    "ko": "그녀가 고전 일본어로 우아하게 옮긴 문장들은 너무나 아름다워서, 방 안의 모든 이들이 숨을 죽이고 귀를 기울였습니다.",
+    "ja": "彼女が典雅な日本語に訳した一節は息をのむほど美しく、部屋中が息をするのを忘れたかのようだった。",
+    "romaji": "Kanojo ga tenga na nihongo ni yakushita issetsu wa iki o nomu hodo utsukushiku, heyajū ga iki o suru no o wasureta ka no yō datta."
+  },
+  "s6.l159": {
+    "en": "Translation, you know—",
+    "ru": "Перевод, знаете ли —",
+    "zh": "翻译这件事，你知道——",
+    "ko": "번역이라는 건 말이죠...",
+    "ja": "「翻訳というのはね――」",
+    "romaji": "\"Hon'yaku to iu no wa ne--\""
+  },
+  "s6.l160": {
+    "en": "I don't think it's a job of building a bridge between two rivers.",
+    "ru": "Я не думаю, что это работа по строительству моста между двумя реками.",
+    "zh": "我不认为它是要在两条河之间架起一座桥梁。",
+    "ko": "두 강 사이에 다리를 놓는 일이 아니라고 생각해요.",
+    "ja": "「二つの川の間に橋を架ける仕事ではないと思うんです」",
+    "romaji": "\"Futatsu no kawa no aida ni hashi o kakeru shigoto dewa nai to omou n desu\""
+  },
+  "s6.l161": {
+    "en": "Rather, it's a job of reminding us that both rivers flow toward the same sea.",
+    "ru": "Скорее, это работа, напоминающая нам, что обе реки текут к одному и тому же морю.",
+    "zh": "相反，它的工作是提醒我们，这两条河最终都流向同一片大海。",
+    "ko": "오히려 두 강줄기가 결국 하나의 바다를 향해 흐르고 있다는 사실을 일깨워주는 일에 가깝죠.",
+    "ja": "「むしろ、どちらの川も同じ海へ流れ込んでいるのだと思い出させてあげる仕事なんです」",
+    "romaji": "\"Mushiro, dochira no kawa mo onaji umi e nagarekonde iru no da to omoidasasete ageru shigoto nan desu\""
+  },
+  "s6.l162": {
+    "en": "Ishii-san, could you tell me a bit more about your translation theory just now?",
+    "ru": "Иси-сан, не могли бы вы рассказать мне немного больше о вашей теории перевода?",
+    "zh": "石井小姐，能请你再详细讲讲你刚才提到的翻译理论吗？",
+    "ko": "이시이 씨, 방금 말씀하신 번역론에 대해 조금 더 들을 수 있을까요?",
+    "ja": "「石井さん、先ほどの翻訳論についてもう少し詳しく伺ってもよろしいですか？」",
+    "romaji": "\"Ishii-san, sakihodo no hon'yakuron ni tsuite mō sukoshi kuwashiku ukagatte mo yoroshii desu ka?\""
+  },
+  "s6.l163": {
+    "en": "Ah, are you a translator?",
+    "ru": "Ах, вы переводчик?",
+    "zh": "啊，你也是翻译家吗？",
+    "ko": "아, 번역 일을 하시나요?",
+    "ja": "「あら、あなたも翻訳を？」",
+    "romaji": "\"Ara, anata mo hon'yaku o?\""
+  },
+  "s6.l164": {
+    "en": "Yes. I'm translating poetry. It's my first time.",
+    "ru": "Да. Я перевожу поэзию. Это мой первый раз.",
+    "zh": "是的。我正在翻译诗歌。这是我第一次尝试。",
+    "ko": "네. 현재 시집을 번역하고 있습니다. 시 번역은 이번이 처음이에요.",
+    "ja": "「はい。詩を翻訳しているのですが、初めての経験でして」",
+    "romaji": "\"Hai. Shi o hon'yaku shite iru no desu ga, hajimete no keiken deshite\""
+  },
+  "s6.l165": {
+    "en": "Your first time! That must have been difficult.",
+    "ru": "Ваш первый раз! Должно быть, это было трудно.",
+    "zh": "第一次！那一定很不容易吧。",
+    "ko": "처음이라니! 정말 고생이 많으시겠어요.",
+    "ja": "「初めて！ それはさぞ大変でしょう」",
+    "romaji": "\"Hajimete! Sore wa sazo taihen deshō\""
+  },
+  "s6.l166": {
+    "en": "There are concepts that exist only within Japanese.",
+    "ru": "Есть понятия, которые существуют только в японском языке.",
+    "zh": "有些概念只存在于日语中。",
+    "ko": "일본어에만 존재하는 독특한 개념들이 있더라고요.",
+    "ja": "「日本語の中にしか存在しない概念があるんです」",
+    "romaji": "\"Nihongo no naka ni shika sonzai shinai gainen ga aru n desu\""
+  },
+  "s6.l167": {
+    "en": "Like mono no aware? Or wabi-sabi?",
+    "ru": "Как моно-но аварэ? Или ваби-саби?",
+    "zh": "比如物哀（mono no aware）？或者侘寂（wabi-sabi）？",
+    "ko": "모노노 아와레라든가, 와비사비 같은 것들 말인가요?",
+    "ja": "「物の哀れとか？ それとも侘び寂びかしら？」",
+    "romaji": "\"Mono no aware toka? Soretomo wabi-sabi kashira?\""
+  },
+  "s6.l168": {
+    "en": "Exactly those kinds of things. I can't find a way to put them into English.",
+    "ru": "Именно такие вещи. Я не могу найти способа выразить их на английском.",
+    "zh": "正是这些。我找不到将它们转化为英语的方法。",
+    "ko": "네, 맞아요. 영어로 어떻게 옮겨야 할지 도저히 갈피를 못 잡겠습니다.",
+    "ja": "「まさにそうしたものです。どうしても英語に移す方法が見つからなくて」",
+    "romaji": "\"Masa ni sōshita mono desu. Dōshitemo eigo ni utsusu hōhō ga mitsukaranakute\""
+  },
+  "s6.l169": {
+    "en": "It's okay not to find it.",
+    "ru": "Ничего страшного, если не найдете.",
+    "zh": "找不到也没关系。",
+    "ko": "꼭 찾지 않아도 괜찮답니다.",
+    "ja": "「見つからなくていいのよ」",
+    "romaji": "\"Mitsukaranakute ii no yo\""
+  },
+  "s6.l170": {
+    "en": "The absence of that concept becomes yohaku in the English version.",
+    "ru": "Отсутствие этого понятия становится ёхаку в английской версии.",
+    "zh": "该概念的缺失，在英文版中便化作了“余白”。",
+    "ko": "그 개념이 빠진 자리가 영어 버전에서는 '여백'이 되는 거니까요.",
+    "ja": "「その概念が存在しないこと自体が、英語版における『余白』になるんだから」",
+    "romaji": "\"Sono gainen ga sonzai shinai koto jitai ga, eigoban ni okeru 'yohaku' ni naru n da kara\""
+  },
+  "s6.l171": {
+    "en": "Readers can feel it: something is there, but it can't become words.",
+    "ru": "Читатели могут это почувствовать: что-то там есть, но оно не может стать словами.",
+    "zh": "读者能体会到：那里确实存在着什么，只是无法诉诸言语。",
+    "ko": "독자들은 느낄 수 있을 거예요. 무언가 존재하지만 말로 다 표현할 수 없는 그 지점을요.",
+    "ja": "「読者には伝わるわ。そこには確かに何かがあるけれど、言葉にはできないんだって」",
+    "romaji": "\"Dokusha ni wa tsutawaru wa. Soko ni wa tashika ni nanika ga aru keredo, kotoba ni wa dekinai n datte\""
+  },
+  "s6.l172": {
+    "en": "That's exactly mono no aware, isn't it?",
+    "ru": "Это и есть моно-но аварэ, не так ли?",
+    "zh": "那不正是物哀吗？",
+    "ko": "그게 바로 모노노 아와레 아니겠어요?",
+    "ja": "「それこそがまさに『物の哀れ』じゃないかしら？」",
+    "romaji": "\"Sore koso ga masa ni 'mono no aware' ja nai kashira?\""
+  },
+  "s6.l173": {
+    "en": "The absence of the concept becomes the yohaku.",
+    "ru": "Отсутствие концепции становится ёхаку.",
+    "zh": "概念的缺失变成了余白。",
+    "ko": "개념의 부재가 곧 여백이 된다니.",
+    "ja": "「概念が存在しないこと自体が余白になる」",
+    "romaji": "\"Gainen ga sonzai shinai koto jitai ga yohaku ni naru\""
+  },
+  "s6.l174": {
+    "en": "The reader feels something without a name.",
+    "ru": "Читатель чувствует что-то безымянное.",
+    "zh": "读者感受到了某种无名之物。",
+    "ko": "독자는 이름 붙일 수 없는 무언가를 느낍니다.",
+    "ja": "読者は名前のない何かを感じ取る。",
+    "romaji": "Dokusha wa namae no nai nanika o kanjitoru."
+  },
+  "s6.l175": {
+    "en": "And that feeling of the nameless is itself the experience of mono no aware.",
+    "ru": "И это чувство безымянного само по себе является переживанием моно-но аварэ.",
+    "zh": "而那种无名的感觉本身，就是物哀的体验。",
+    "ko": "그리고 그 정체 모를 느낌 자체가 바로 모노노 아와레의 본질인 셈이죠.",
+    "ja": "そしてその名付けようのない感覚こそが、物の哀れの体験そのものなのだ。",
+    "romaji": "Soshite sono nazukeyō no nai kankaku koso ga, mono no aware no taiken sonomono na no da."
+  },
+  "s6.l176": {
+    "en": "Takeshi-san! I've been reading your drafts overnight.",
+    "ru": "Такэси-сан! Я читала ваши черновики всю ночь.",
+    "zh": "森先生！我通宵读了你的草稿。",
+    "ko": "모리 씨! 밤새 보내주신 원고를 읽어봤어요.",
+    "ja": "「剛士さん！ 昨夜いただいた草稿を一晩中読んでいました」",
+    "romaji": "\"Takeshi-san! Sakuya itadaita sōkō o hitobanjū yonde imashita\""
+  },
+  "s6.l177": {
+    "en": "The Saigyō. The Yosano. I—",
+    "ru": "Сайгё. Ёсано. Я —",
+    "zh": "西行。与谢野。我——",
+    "ko": "사이교의 시도, 요사노의 시도... 정말이지...",
+    "ja": "「西行も、与謝野も。私――」",
+    "romaji": "\"Saigyō mo, Yosano mo. Watashi--\""
+  },
+  "s6.l178": {
+    "en": "I've read English translations of these before. Dozens of them.",
+    "ru": "Я уже читала их английские переводы. Десятки их.",
+    "zh": "我以前读过这些诗的英译本。读过几十个版本。",
+    "ko": "예전에도 이 시들의 영문 번역본을 수십 개는 넘게 읽어봤거든요.",
+    "ja": "「これまで英訳を何十篇も読んできましたが」",
+    "romaji": "\"Kore made eiyaku o nanjuppen mo yonde kimashita ga\""
+  },
+  "s6.l179": {
+    "en": "These feel different. They feel like they're still breathing.",
+    "ru": "Эти кажутся другими. Кажется, что они все еще дышат.",
+    "zh": "但这些感觉完全不同。它们给人一种仍在呼吸的感觉。",
+    "ko": "그런데 이번 건 달라요. 문장들이 살아 숨 쉬는 것 같아요.",
+    "ja": "「これは全然違います。まるで今も息づいているみたい」",
+    "romaji": "\"Kore wa zenzen chigaimasu. Marude ima mo ikizuite iru mitai\""
+  },
+  "s6.l180": {
+    "en": "I was trying to find the resonance, not just the meaning.",
+    "ru": "Я пытался найти резонанс, а не только смысл.",
+    "zh": "我试着在寻找某种共鸣，而不仅仅是意思。",
+    "ko": "단순한 뜻 풀이보다는 그 안에서 울려 퍼지는 공명을 찾으려 노력했습니다.",
+    "ja": "「単なる意味だけでなく、共鳴を探そうとしていたんです」",
+    "romaji": "\"Tannaru imi dake dewa naku, kyōmei o sagasō to shite ita n desu\""
+  },
+  "s6.l181": {
+    "en": "Can I ask—there's a note in your margin on the Bashō.",
+    "ru": "Могу ли я спросить — на полях Басё есть заметка.",
+    "zh": "我能问一下吗——你给芭蕉的那首诗做的边注。",
+    "ko": "한 가지 물어봐도 될까요? 바쇼의 시 옆에 적어두신 메모 말이에요.",
+    "ja": "「一つ伺ってもいいですか？ 芭蕉のページの欄外にメモがありましたよね」",
+    "romaji": "\"Hitotsu ukagatte mo ii desu ka? Bashō no pēji no rangai ni memo ga arimashita yo ne\""
+  },
+  "s6.l182": {
+    "en": "You wrote: 'The frog has always been there. The poem is the sound of us noticing.'",
+    "ru": "Вы написали: «Лягушка всегда была там. Стихотворение — это звук того, как мы это замечаем».",
+    "zh": "你写道：‘青蛙一直都在那里。诗歌，是我们察觉到它的那一刻所发出的回响。’",
+    "ko": "'개구리는 언제나 그곳에 있었다. 시는 우리가 그것을 발견했을 때 들려오는 소리이다.'라고 적으셨더군요.",
+    "ja": "「『蛙はずっとそこにいた。詩とは私たちが気づいた音なのだ』と」",
+    "romaji": "\"Kawazu wa zutto soko ni ita. Shi to wa watashitachi ga kizuita oto na no da' to\""
+  },
+  "s6.l183": {
+    "en": "Is that the translation, or—?",
+    "ru": "Это перевод или — ?",
+    "zh": "这是翻译的一部分，还是——？",
+    "ko": "이것도 번역의 일부인가요?",
+    "ja": "「あれは翻訳の一部ですか？ それとも――？」",
+    "romaji": "\"Are wa hon'yaku no ichibu desu ka? Soretomo--?\""
+  },
+  "s6.l184": {
+    "en": "That's a note to myself.",
+    "ru": "Это заметка для самого себя.",
+    "zh": "那是我写给自己的笔记。",
+    "ko": "그냥 혼자 끄적여본 생각이에요.",
+    "ja": "「自分用の備忘録ですよ」",
+    "romaji": "\"Jibun-yō no bibōroku desu yo\""
+  },
+  "s6.l185": {
+    "en": "Not a translation. More like—what the poem said to me.",
+    "ru": "Не перевод. Скорее то, что стихотворение сказало мне.",
+    "zh": "不是翻译。更像是——那首诗对我诉说了什么。",
+    "ko": "번역이라기보다, 시가 저에게 건네준 말이라고나 할까요.",
+    "ja": "「翻訳ではありません。どちらかと言えば――あの詩が私に語りかけてくれたことです」",
+    "romaji": "\"Hon'yaku dewa arimasen. Dochira ka to ieba-- ano shi ga watashi ni katarikakete kureta koto desu\""
+  },
+  "s6.l186": {
+    "en": "Could that be in the introduction? The book's introduction?",
+    "ru": "Может ли это быть во вступлении? В предисловии к книге?",
+    "zh": "能把它加进序言里吗？书的序言？",
+    "ko": "그걸 책 서문에 넣으면 어떨까요?",
+    "ja": "「それをまえがきに入れていただけませんか？ 本の序文として」",
+    "romaji": "\"Sore o maegaki ni irete itadakemasen ka? Hon no jobun to shite\""
+  },
+  "s6.l187": {
+    "en": "I think readers need to hear that. Before they read anything.",
+    "ru": "Я думаю, читателям нужно это услышать. Прежде чем они что-то прочитают.",
+    "zh": "我认为读者需要读到这段话。在他们开始阅读任何内容之前。",
+    "ko": "독자들이 시를 읽기 전에 이 이야기를 꼭 들었으면 좋겠어요.",
+    "ja": "「読者にはまずそれを知ってほしいんです。本文を読む前に」",
+    "romaji": "\"Dokusha ni wa mazu sore o shitte hoshii n desu. Hombun o yomu mae ni\""
+  },
+  "s6.l188": {
+    "en": "She wants my marginal note in the book.",
+    "ru": "Она хочет, чтобы моя заметка на полях была в книге.",
+    "zh": "她想把我的边注放进书里。",
+    "ko": "내 낙서 같은 메모를 책에 싣고 싶다니.",
+    "ja": "彼女は私の欄外のメモを本に入れたいと望んでいる。",
+    "romaji": "Kanojo wa watashi no rangai no memo o hon ni iretai to nozonde iru."
+  },
+  "s6.l189": {
+    "en": "She wants the translator to show up.",
+    "ru": "Она хочет, чтобы переводчик проявил себя.",
+    "zh": "她希望翻译者能走到台前。",
+    "ko": "번역가의 존재를 드러내고 싶어 하는군요.",
+    "ja": "翻訳者自身の姿が現れることを望んでいるのだ。",
+    "romaji": "Hon'yakusha jishin no sugata ga arawareru koto o nozonde iru no da."
+  },
+  "s6.l190": {
+    "en": "Yes. I'll write something.",
+    "ru": "Да. Я что-нибудь напишу.",
+    "zh": "好的。我会写点什么的。",
+    "ko": "네, 알겠습니다. 한 번 써볼게요.",
+    "ja": "「わかりました。何か書いてみます」",
+    "romaji": "\"Wakarimashita. Nanika kaite mimasu\""
+  },
+  "s6.l191": {
+    "en": "The poems are done.",
+    "ru": "Стихи закончены.",
+    "zh": "诗歌翻译完成了。",
+    "ko": "번역이 끝났습니다.",
+    "ja": "詩の翻訳が終わった。",
+    "romaji": "Shi no hon'yaku ga owatta."
+  },
+  "s6.l192": {
+    "en": "All of them—forty-three poems, each one carrying what it can carry in English.",
+    "ru": "Все они — сорок три стихотворения, каждое из которых несет в себе то, что может нести на английском.",
+    "zh": "总共四十三首诗，每一首都在英语中尽力传达了它们所能承载的一切。",
+    "ko": "총 43편의 시. 제각각 영어라는 그릇에 담길 수 있는 만큼의 진심을 담아냈습니다.",
+    "ja": "四十三篇すべて――それぞれが英語で担えるだけのものを背負って。",
+    "romaji": "Sanjūsan-pen subete -- sorezore ga eigo de naeru dake no mono o seotte."
+  },
+  "s6.l193": {
+    "en": "Not perfect. But resonant.",
+    "ru": "Не идеально. Но резонирующе.",
+    "zh": "并不完美。但产生了共鸣。",
+    "ko": "완벽하진 않지만, 깊은 울림이 느껴지네요.",
+    "ja": "完璧ではない。けれど、確かに共鳴している。",
+    "romaji": "Kampeki dewa nai. Keredo, tashika ni kyōmei shite iru."
+  },
+  "s6.l194": {
+    "en": "A NOTE ON TRANSLATION",
+    "ru": "ЗАМЕТКА О ПЕРЕВОДЕ",
+    "zh": "关于翻译的说明",
+    "ko": "번역에 부쳐",
+    "ja": "翻訳についての覚書",
+    "romaji": "Hon'yaku ni tsuite no oboegaki"
+  },
+  "s6.l195": {
+    "en": "My name is Takeshi Mori. I have been a professional translator for fifteen years.",
+    "ru": "Меня зовут Такэси Мори. Я работаю профессиональным переводчиком пятнадцать лет.",
+    "zh": "我叫森刚士。我从事专业翻译工作已经十五年了。",
+    "ko": "제 이름은 모리 타케시입니다. 15년 동안 전문 번역가로 일해 왔습니다.",
+    "ja": "私の名前は森剛士。プロの翻訳者として十五年仕事をしてきた。",
+    "romaji": "Watashi no namae wa Mori Takeshi. Puro no hon'yakusha to shite jūgo-nen shigoto o shite kita."
+  },
+  "s6.l196": {
+    "en": "In that time I have turned several million words from one language into another.",
+    "ru": "За это время я перевел несколько миллионов слов с одного языка на другой.",
+    "zh": "在此期间，我已经将数百万字从一种语言转化为另一种语言。",
+    "ko": "그동안 수백만 개의 단어들을 다른 언어로 옮기는 자업을 해왔죠.",
+    "ja": "その間に、私は数百万の言葉をある言語から別の言語へと移し替えてきた。",
+    "romaji": "Sono aida ni, watashi wa sūhyaku-man no kotoba o aru gengo kara betsu no gengo e to utsushikaete kita."
+  },
+  "s6.l197": {
+    "en": "I have never, until now, written about what that means.",
+    "ru": "До сих пор я никогда не писал о том, что это значит.",
+    "zh": "直到现在，我从未写过这背后的意义。",
+    "ko": "하지만 번역이 갖는 의미에 대해 써보는 건 이번이 처음입니다.",
+    "ja": "だが今まで、それが何を意味するのかについて書いたことは一度もなかった。",
+    "romaji": "Daga ima made, sore ga nani o imi suru no ka ni tsuite kaita koto wa ichido mo nakatta."
+  },
+  "s6.l198": {
+    "en": "These poems cannot be translated.",
+    "ru": "Эти стихи невозможно перевести.",
+    "zh": "这些诗是无法翻译的。",
+    "ko": "이 시들은 사실 번역이 불가능합니다.",
+    "ja": "これらの詩は、翻訳不可能である。",
+    "romaji": "Korera no shi wa, hon'yaku fukanō de aru."
+  },
+  "s6.l199": {
+    "en": "I have translated them anyway.",
+    "ru": "Я все равно их перевел.",
+    "zh": "但我还是翻译了它们。",
+    "ko": "그럼에도 불구하고 저는 번역을 강행했죠.",
+    "ja": "それでも私は翻訳した。",
+    "romaji": "Soredemo watashi wa hon'yaku shita."
+  },
+  "s6.l200": {
+    "en": "Some things cannot cross a border without losing something essential.",
+    "ru": "Некоторые вещи не могут пересечь границу, не потеряв чего-то существенного.",
+    "zh": "有些东西如果不丢失其本质，就无法跨越国界。",
+    "ko": "국경을 넘는 순간 본질적인 무언가를 잃어버릴 수밖에 없는 것들이 있습니다.",
+    "ja": "本質的な何かを失うことなしには、国境を越えられないものがある。",
+    "romaji": "Honshitsuteki na nanika o ushinau koto nashi ni wa, kokkyō o koerarenai mono ga aru."
+  },
+  "s6.l201": {
+    "en": "A season word. A pause written with a single character. The shape of grief in old kana spelling.",
+    "ru": "Сезонное слово. Пауза, написанная одним иероглифом. Форма горя в старом написании каной.",
+    "zh": "一个季语。由单个字符构成的停顿。旧假名拼写中蕴含的悲伤形态。",
+    "ko": "계어 하나, 글자 하나하나에 담긴 쉼표, 그리고 옛 가나 표기법에 서린 슬픔의 모양새 같은 것들이 그렇죠.",
+    "ja": "季語。一文字で刻まれた間（ま）。歴史的仮名遣いに宿る悲哀のかたち。",
+    "romaji": "Kigo. Hito-moji de kizamareta ma. Rekishiteki kanazukai ni yadoru hiai no katachi."
+  },
+  "s6.l202": {
+    "en": "When you encounter those losses in this book — the places where English goes slightly quiet —",
+    "ru": "Когда вы столкнетесь с этими потерями в этой книге — в местах, где английский язык затихает —",
+    "zh": "当你在本书中遇到这些缺失时——那些英语表达变得略显苍白的地方——",
+    "ko": "책을 읽다 그런 공백을 마주하게 된다면, 영어로 다 표현하지 못한 침묵이 느껴진다면,",
+    "ja": "本書の中でそうした喪失に――英語がかすかに沈黙する瞬間に――触れたなら、",
+    "romaji": "Honsho no naka de sōshita sōshitsu ni -- eigo ga kasuka ni chinmoku suru shunkan ni -- fureta nara,"
+  },
+  "s6.l203": {
+    "en": "know that the silence is also part of the poem.",
+    "ru": "знайте, что тишина — это тоже часть стихотворения.",
+    "zh": "请记住，那份沉默同样也是诗的一部分。",
+    "ko": "그 정적 또한 시의 일부라는 사실을 기억해 주십시오.",
+    "ja": "その沈黙もまた詩の一部なのだと知ってほしい。",
+    "romaji": "sono chinmoku mo mata shi no ichibu na no da to shitte hoshii."
+  },
+  "s6.l204": {
+    "en": "In Japanese, we call this yohaku: the meaning that lives in what is not said.",
+    "ru": "В японском языке мы называем это ёхаку: смысл, который живет в том, что не сказано.",
+    "zh": "在日语中，我们称之为“余白（yohaku）”：存在于言外之意的真谛。",
+    "ko": "일본어로는 이를 '여백(yohaku)'이라고 부릅니다. 말하지 않은 곳에 깃든 의미라는 뜻입니다.",
+    "ja": "日本語ではこれを「余白」と呼ぶ。語られぬものの中に宿る意味のことだ。",
+    "romaji": "Nihongo de wa kore o \"yohaku\" to yobu. Katararenu mono no naka ni yadoru imi no koto da."
+  },
+  "s6.l205": {
+    "en": "I am forty years old.",
+    "ru": "Мне сорок лет.",
+    "zh": "我四十岁了。",
+    "ko": "내 나이 마흔.",
+    "ja": "私は四十歳になった。",
+    "romaji": "Watashi wa yonjū-sai ni natta."
+  },
+  "s6.l206": {
+    "en": "I have been doing this job for half my life.",
+    "ru": "Я занимаюсь этой работой половину своей жизни.",
+    "zh": "我已经从事这份工作半辈子了。",
+    "ko": "인생의 절반을 이 일에 바쳤습니다.",
+    "ja": "人生の半分をこの仕事に捧げてきた。",
+    "romaji": "Jinsei no hanbun o kono shigoto ni sasagete kita."
+  },
+  "s6.l207": {
+    "en": "For most of that time, I did it well and felt nothing.",
+    "ru": "Большую часть этого времени я справлялся хорошо и ничего не чувствовал.",
+    "zh": "在大部分时间里，我都做得很好，但却毫无感觉。",
+    "ko": "그 긴 시간 동안, 저는 일은 잘해왔지만 아무런 감흥도 느끼지 못했습니다.",
+    "ja": "その間のほとんど、私は手際よく仕事をこなし、何も感じていなかった。",
+    "romaji": "Sono aida no hotondo, watashi wa tegiwayoku shigoto o konashi, nani mo kanjite inakatta."
+  },
+  "s6.l208": {
+    "en": "Now I feel something. It came back.",
+    "ru": "Теперь я что-то чувствую. Оно вернулось.",
+    "zh": "现在我感受到了。那种感觉回来了。",
+    "ko": "이제야 무언가 느껴집니다. 그 시절의 열정이 돌아온 것 같아요.",
+    "ja": "だが今、私は何かを感じている。かつての感情が戻ってきたのだ。",
+    "romaji": "Daga ima, watashi wa nanika o kanjite iru. Katsute no kanjō ga modotte kita no da."
+  },
+  "s6.l209": {
+    "en": "Three weeks later. The manuscript has been delivered and approved.",
+    "ru": "Три недели спустя. Рукопись доставлена и одобрена.",
+    "zh": "三周后。手稿已经送达并获得了批准。",
+    "ko": "3주 후, 원고가 최종 승인되었습니다.",
+    "ja": "三週間後。原稿は無事に納品され、承認された。",
+    "romaji": "San-shūkan-go. Genkō wa buji ni nōhin sare, shōnin sareta."
+  },
+  "s6.l210": {
+    "en": "Meridian Press will publish it in the spring. Rachel sends a photograph of the early proof cover.",
+    "ru": "Meridian Press опубликует ее весной. Рейчел присылает фотографию обложки первого варианта.",
+    "zh": "经纬出版社将在明年春天出版。瑞秋发来了一张早期试印封面的照片。",
+    "ko": "메리디안 프레스에서 내년 봄에 출간될 예정입니다. 레이첼이 가제본 표지 사진을 보내왔네요.",
+    "ja": "メリディアン・プレスから春に出版される予定だ。レイチェルが初校のカバー写真を送ってくれた。",
+    "romaji": "Meridian Puresu kara haru ni shuppan sareru yotei da. Reicheru ga shokō no kabā shashin o okutte kureta."
+  },
+  "s6.l211": {
+    "en": "It's simple: a single frog, ink-brushed, against white space.",
+    "ru": "Все просто: одна лягушка, нарисованная тушью, на фоне белого пространства.",
+    "zh": "封面很简洁：一只水墨画就的青蛙，映衬在留白之中。",
+    "ko": "흰 여백 위에 수묵으로 그려진 개구리 한 마리. 참 심플한 디자인입니다.",
+    "ja": "余白の中に、一匹の蛙が墨絵で描かれたシンプルな装丁だった。",
+    "romaji": "Yohaku no naka ni, ippiki no kawazu ga sumie de egakareta shinpuru na sōtei datta."
+  },
+  "s6.l212": {
+    "en": "Mori-san, I heard from the client.",
+    "ru": "Мори-сан, я получил известие от клиента.",
+    "zh": "森先生，我收到客户的消息了。",
+    "ko": "모리 씨, 클라이언트한테 연락받았습니다.",
+    "ja": "「森さん、クライアントから連絡がありました」",
+    "romaji": "\"Mori-san, kuraianto kara renraku ga arimashita\""
+  },
+  "s6.l213": {
+    "en": "They said, 'It was an excellent translation. We'd like Mori-san for the next poetry collection as well.'",
+    "ru": "Они сказали: «Это был отличный перевод. Мы хотели бы пригласить Мори-сана и для следующего поэтического сборника».",
+    "zh": "他们说：‘真是精彩绝伦的翻译。下一部诗集我们也希望由森先生来负责。’",
+    "ko": "번역이 아주 훌륭했다더군요. 다음 시집도 모리 씨가 맡아줬으면 한다고요.",
+    "ja": "「『素晴らしい翻訳でした。ぜひ次の詩集も森さんにお願いしたい』とのことです」",
+    "romaji": "\"Subarashii hon'yaku deshita. Zehi tsugi no shishū mo Mori-san ni onegai shitai' to no koto desu\""
+  },
+  "s6.l214": {
+    "en": "The next poetry collection.",
+    "ru": "Следующий поэтический сборник.",
+    "zh": "下一部诗集。",
+    "ko": "다음 시집이라.",
+    "ja": "次の詩集。",
+    "romaji": "Tsugi no shishū."
+  },
+  "s6.l215": {
+    "en": "Will you accept?",
+    "ru": "Вы примете предложение?",
+    "zh": "你要接受吗？",
+    "ko": "수락하시겠어요?",
+    "ja": "「引き受けてくださいますか？」",
+    "romaji": "\"Hikiukete kudasaimasu ka?\""
+  },
+  "s6.l216": {
+    "en": "Yes. I accept.",
+    "ru": "Да. Я принимаю.",
+    "zh": "是的。我接受。",
+    "ko": "네, 하겠습니다.",
+    "ja": "「はい。引き受けます」",
+    "romaji": "\"Hai. Hikiukemasu\""
+  },
+  "s6.l217": {
+    "en": "Words connect people.",
+    "ru": "Слова соединяют людей.",
+    "zh": "言语将人们紧密相连。",
+    "ko": "말은 사람을 잇는다.",
+    "ja": "言葉は人と人とを繋ぐ。",
+    "romaji": "Kotoba wa hito to hito to o tsunagu."
+  },
+  "s6.l218": {
+    "en": "It is not a new thought. But it is newly true.",
+    "ru": "Это не новая мысль. Но теперь она верна по-новому.",
+    "zh": "这并非什么新颖的想法。但它现在却散发着真实的生机。",
+    "ko": "새삼스러운 말이지만, 이제야 그 의미가 가슴에 와닿습니다.",
+    "ja": "目新しい考えではない。だが、今となっては新鮮な真実として胸に響く。",
+    "romaji": "Meatarashii kangae dewa nai. Daga, ima to natte wa shinsen na shinjitsu to shite mune ni hibiku."
+  },
+  "s6.l219": {
+    "en": "You notice, without trying to, that they're beautiful.",
+    "ru": "Вы замечаете, не стараясь, что они прекрасны.",
+    "zh": "你无意识中发现，它们是那么的美丽。",
+    "ko": "애써 보려 하지 않아도, 그것들이 아름답다는 사실을 문득 깨닫게 됩니다.",
+    "ja": "意識せずとも、言葉の美しさに気づかされる。",
+    "romaji": "Ishiki sezutomo, kotoba no utsukushisa ni kizukasareru."
+  },
+  "s6.l220": {
+    "en": "End of Story 6: The Translator",
+    "ru": "Конец 6 истории: Переводчик",
+    "zh": "故事 6 完：翻译者",
+    "ko": "이야기 6 끝: 번역가",
+    "ja": "第6話 完：翻訳者",
+    "romaji": "Dai-roku-wa Kan: Hon'yakusha"
+  },
+  "s6.l221": {
+    "en": "Winter now — the window shows bare branches and pale sky.",
+    "ru": "Сейчас зима — в окне видны голые ветви и бледное небо.",
+    "zh": "现在是冬天——窗外可以看到枯秃的树枝和苍白的天空。",
+    "ko": "어느덧 겨울입니다. 창밖으로 앙상한 가지와 창백한 하늘이 보이네요.",
+    "ja": "季節は巡り冬――窓の外には葉を落とした梢と淡い空が広がっている。",
+    "romaji": "Kisetsu wa meguri fuyu -- mado no soto ni wa ha o otoshita kozue to awai sora ga hirogatte iru."
+  },
+  "s6.l222": {
+    "en": "Someone has brought a thermos of warm tea. It sits on the corner desk.",
+    "ru": "Кто-то принес термос с теплым чаем. Он стоит на угловом столе.",
+    "zh": "有人带来了一壶温热的茶，就放在角落的桌子上。",
+    "ko": "누군가 따뜻한 차가 담긴 보온병을 가져왔습니다. 구석 책상 위에 놓여 있네요.",
+    "ja": "誰かが温かいお茶の入った水筒を持ってきてくれた。隅の机の上に置かれている。",
+    "romaji": "Dareka ga atatakai ocha no haitta suitō o motte kite kureta. Sumi no tsukue no ue ni okarete iru."
+  },
+  "s6.l223": {
+    "en": "He's a bit different from our other protagonists.",
+    "ru": "Он немного отличается от других наших героев.",
+    "zh": "他跟我们之前的其他主角有点不一样。",
+    "ko": "그는 우리가 그동안 봐왔던 주인공들과는 조금 다르네요.",
+    "ja": "「彼はこれまでの主人公たちとは少し違いますね」",
+    "romaji": "\"Kare wa kore made no shujinkō-tachi to wa sukoshi chigaimasu ne\""
+  },
+  "s6.l224": {
+    "en": "Because he actually speaks the language.",
+    "ru": "Потому что он на самом деле говорит на языке.",
+    "zh": "因为他实际上是会说这门语言的。",
+    "ko": "언어를 아주 잘 구사하니까요.",
+    "ja": "「だって、彼自身が実際にその言語を話せるんですから」",
+    "romaji": "\"Datte, kare jishin ga jissai ni sono gengo o hanaseru n desu kara\""
+  },
+  "s6.l225": {
+    "en": "He's not struggling with Japanese—he IS Japanese.",
+    "ru": "Он не борется с японским — он японец.",
+    "zh": "他不需要辛苦地学习日语——他本身就是日本人。",
+    "ko": "일본어 때문에 고생할 필요가 없죠. 그는 일본인이니까요.",
+    "ja": "「彼は日本語に苦労しているわけじゃない――彼自身が日本人なんだから」",
+    "romaji": "\"Kare wa nihongo ni kurō shite iru wake ja nai -- kare jishin ga nihonjin nan da kara\""
+  },
+  "s6.l226": {
+    "en": "So what's the barrier?",
+    "ru": "Так в чем же преграда?",
+    "zh": "那障碍在哪里？",
+    "ko": "그렇다면 그에게 장벽은 무엇이었을까요?",
+    "ja": "「じゃあ、障壁は何だったの？」",
+    "romaji": "\"Jā, shōheki wa nan datta no?\""
+  },
+  "s6.l227": {
+    "en": "The barrier is—he stopped listening to it.",
+    "ru": "Преграда в том, что он перестал его слушать.",
+    "zh": "障碍在于——他不再用心去倾听它了。",
+    "ko": "그건 바로... 그가 더 이상 언어에 귀를 기울이지 않게 되었다는 점이에요.",
+    "ja": "「障壁は――彼が言葉に耳を傾けるのをやめてしまったことだよ」",
+    "romaji": "\"Shōheki wa -- kare ga kotoba ni mimi o katamukeru no o yamete shimatta koto da yo\""
+  },
+  "s6.l228": {
+    "en": "He knows all the words. He just stopped feeling them.",
+    "ru": "Он знает все слова. Он просто перестал их чувствовать.",
+    "zh": "他知道所有的单词。只是不再能感受到它们了。",
+    "ko": "단어의 뜻은 다 알지만, 그 단어들을 가슴으로 느끼지 못하게 된 거죠.",
+    "ja": "「言葉は全部知っている。ただ、感じることをやめてしまったんだ」",
+    "romaji": "\"Kotoba wa zembu shitte iru. Tada, kanjiru koto o yamete shimatta n da\""
+  },
+  "s6.l229": {
+    "en": "It's like... if you read so many books for school that you stop being able to read for pleasure.",
+    "ru": "Это как... если вы читаете так много книг для учебы, что перестаете получать удовольствие от чтения.",
+    "zh": "就像是……如果你为了学业读了太多的书，以至于不再能体会到阅读的乐趣。",
+    "ko": "마치 학교 과제 때문에 책을 너무 많이 읽어서, 독서의 즐거움을 잃어버리는 것과 같다고나 할까요.",
+    "ja": "「まるで……学校のために本を読みすぎて、楽しむための読書ができなくなるみたいに」",
+    "romaji": "\"Marude... gakkō no tame ni hon o yomisugite, tanoshimu tame no dokusho ga dekinaku naru mitai ni\""
+  },
+  "s6.l230": {
+    "en": "The mechanism is the same but something is gone.",
+    "ru": "Механизм тот же, но что-то исчезло.",
+    "zh": "机制是一样的，但有些东西却消失了。",
+    "ko": "행위 자체는 같아도 알맹이가 빠져버린 기분이겠죠.",
+    "ja": "「仕組みは同じなのに、何かが消えてしまっている」",
+    "romaji": "\"Shikumi wa onaji na no ni, nanika ga kiete shimatte iru\""
+  },
+  "s6.l231": {
+    "en": "Burnout.",
+    "ru": "Выгорание.",
+    "zh": "倦怠。",
+    "ko": "번아웃이군요.",
+    "ja": "「燃え尽き症候群ね」",
+    "romaji": "\"Moetsuki shōkōgun ne\""
+  },
+  "s6.l232": {
+    "en": "Yes. But for language specifically.",
+    "ru": "Да. Но именно в отношении языка.",
+    "zh": "是的。但特别是指在语言方面。",
+    "ko": "맞아요. 특히 언어에 대한 번아웃이죠.",
+    "ja": "「そう。特に言語に対してのね」",
+    "romaji": "\"Sō. Toku ni gengo ni taishite no ne\""
+  },
+  "s6.l233": {
+    "en": "This story introduced some very specific Japanese concepts.",
+    "ru": "В этой истории были представлены некоторые очень специфические японские концепции.",
+    "zh": "这个故事介绍了一些非常独特的日本概念。",
+    "ko": "이번 이야기에는 일본만의 아주 독특한 개념들이 등장했습니다.",
+    "ja": "「この物語には、日本独特の概念がいくつか登場しました」",
+    "romaji": "\"Kono monogatari ni wa, nihon dokutoku no gainen ga ikutsu ka tōjō shimashita\""
+  },
+  "s6.l234": {
+    "en": "Let's look at a few.",
+    "ru": "Давайте рассмотрим некоторые из них.",
+    "zh": "让我们来看几个。",
+    "ko": "함께 살펴볼까요.",
+    "ja": "「少し見てみましょう」",
+    "romaji": "\"Sukoshi mite mimashō\""
+  },
+  "s6.l235": {
+    "en": "Who wants to try explaining it?",
+    "ru": "Кто хочет попробовать объяснить это?",
+    "zh": "谁想试着解释一下？",
+    "ko": "누가 한 번 설명해 볼 사람?",
+    "ja": "「誰か説明してみてくれる人はいますか？」",
+    "romaji": "\"Dareka setsumei shite mite kureru hito wa imasu ka?\""
+  },
+  "s6.l236": {
+    "en": "The... sadness of things?",
+    "ru": "Печаль... вещей?",
+    "zh": "对事物的……感伤？",
+    "ko": "사물의... 슬픔?",
+    "ja": "「物事の……悲しみ？」",
+    "romaji": "\"Monogoto no... kanashimi?\""
+  },
+  "s6.l237": {
+    "en": "Close. It's more than sadness.",
+    "ru": "Близко. Это больше, чем печаль.",
+    "zh": "很接近。但它不仅仅是悲伤。",
+    "ko": "비슷해요. 하지만 슬픔 그 이상을 뜻하죠.",
+    "ja": "「惜しいですね。単なる悲しみ以上のものでもあります」",
+    "romaji": "\"Oshii desu ne. Tannaru kanashimi ijō no mono de mo arimasu\""
+  },
+  "s6.l238": {
+    "en": "It's the awareness that beautiful things are temporary.",
+    "ru": "Это осознание того, что прекрасные вещи временны.",
+    "zh": "它是一种对美好事物终将逝去的觉知。",
+    "ko": "아름다운 것들이 덧없음을 깨닫는 마음입니다.",
+    "ja": "「美しいものはすべて移ろいゆく、という自覚です」",
+    "romaji": "\"Utsukushii mono wa subete utsuroiyuku, to iu jikaku desu\""
+  },
+  "s6.l239": {
+    "en": "And the feeling that comes with that awareness—which is not quite sadness, not quite joy.",
+    "ru": "И чувство, которое приходит с этим осознанием — не совсем печаль, не совсем радость.",
+    "zh": "以及伴随这种觉悟而来的感觉——既非纯粹的悲伤，也非完全的快乐。",
+    "ko": "그리고 그 깨달음에서 오는 묘한 감정. 슬픔도 기쁨도 아닌 그 무언가 말이죠.",
+    "ja": "「そして、その自覚に伴う感情――完全な悲しみでもなく、完全な喜びでもない感情のことです」",
+    "romaji": "\"Soshite, sono jikaku ni tomonau kanjō -- kanzen na kanashimi de mo naku, kanzen na yorokobi de mo nai kanjō no koto desu\""
+  },
+  "s6.l240": {
+    "en": "Bittersweet is the closest English word, but it doesn't quite fit.",
+    "ru": "Bittersweet — ближайшее английское слово, но оно не совсем подходит.",
+    "zh": "“苦乐参半”是最接近的英语单词，但还不完全贴切。",
+    "ko": "영어로는 'bittersweet(시원섭섭한)'가 가장 가깝겠지만, 그것만으로는 완벽히 설명하기 어렵네요.",
+    "ja": "「英語では『bittersweet』が一番近いけれど、完全には当てはまらない」",
+    "romaji": "\"Eigo de wa 'bittersweet' ga ichiban chikai keredo, kanzen ni wa atehamaranai\""
+  },
+  "s6.l241": {
+    "en": "So it's a feeling that English doesn't have a word for.",
+    "ru": "Значит, это чувство, для которого в английском языке нет слова.",
+    "zh": "所以这是一种英语中没有对应单词的感觉。",
+    "ko": "영어로는 정의할 수 없는 감정이군요.",
+    "ja": "「つまり、英語には言葉が存在しない感情なんですね」",
+    "romaji": "\"Tsumari, eigo ni wa kotoba ga sonzai shinai kanjō nan desu ne\""
+  },
+  "s6.l242": {
+    "en": "Exactly. And what did Ishii-san say about concepts like that?",
+    "ru": "Именно. И что сказал Иси-сан о таких концепциях?",
+    "zh": "没错。那么石井小姐对这类概念是怎么说的呢？",
+    "ko": "그렇죠. 그럼 이시이 씨는 그런 개념들에 대해 뭐라고 했나요?",
+    "ja": "「その通りです。そして石井さんは、そうした概念について何とおっしゃっていましたか？」",
+    "romaji": "\"Sono tōri desu. Soshite Ishii-san wa, sōshita gainen ni tsuite nan to osshatte imashita ka?\""
+  },
+  "s6.l243": {
+    "en": "That the absence becomes the yohaku.",
+    "ru": "Что отсутствие становится ёхаку.",
+    "zh": "它说，由于这种缺失，便形成了“余白”。",
+    "ko": "그 부재가 곧 여백이 된다고 했어요.",
+    "ja": "「存在しないこと自体が『余白』になる、と」",
+    "romaji": "\"Sonzai shinai koto jitai ga 'yohaku' ni naru, to\""
+  },
+  "s6.l244": {
+    "en": "The reader feels something without a name—and that nameless feeling is itself mono no aware.",
+    "ru": "Читатель чувствует что-то безымянное — и это безымянное чувство и есть моно-но аварэ.",
+    "zh": "读者感受到了某种无法命名的东西——而这种无名的感觉本身就是物哀。",
+    "ko": "독자는 이름 붙일 수 없는 무언가를 느끼고, 그 느낌 자체가 바로 모노노 아와레라는 거죠.",
+    "ja": "「読者は名前のない何かを感じ取る――そしてその名のない感覚こそが、物の哀れそのものなのだと」",
+    "romaji": "\"Dokusha wa namae no nai nanika o kanjitoru -- soshite sono na no nai kankaku koso ga, mono no aware sonomono na no da to\""
+  },
+  "s6.l245": {
+    "en": "Beautiful.",
+    "ru": "Прекрасно.",
+    "zh": "美妙极了。",
+    "ko": "아름답네요.",
+    "ja": "「素晴らしいですね」",
+    "romaji": "\"Subarashii desu ne\""
+  },
+  "s6.l246": {
+    "en": "And yohaku. Everyone write this one down.",
+    "ru": "И ёхаку. Все запишите это.",
+    "zh": "还有余白。请大家把这个词记下来。",
+    "ko": "그리고 '여백'. 다들 메모해 두세요.",
+    "ja": "「そして『余白』。みなさん、これをメモしてください」",
+    "romaji": "\"Soshite 'yohaku'. Minasan, kore o memo shite kudasai\""
+  },
+  "s6.l247": {
+    "en": "Yohaku is used in painting, calligraphy, poetry—anywhere that Japanese aesthetic applies.",
+    "ru": "Ёхаку используется в живописи, каллиграфии, поэзии — везде, где применима японская эстетика.",
+    "zh": "余白被广泛应用于绘画、书法、诗歌——以及任何体现日本美学的地方。",
+    "ko": "여백은 회화, 서예, 시 등 일본의 미학이 닿는 모든 곳에서 쓰이는 단어입니다.",
+    "ja": "「余白は絵画、書道、詩――日本の美意識が息づくあらゆる場所で用いられます」",
+    "romaji": "\"Yohaku wa kaiga, shodō, shi -- nihon no biishiki ga ikizuku arayuru basho de mochiiraremasu\""
+  },
+  "s6.l248": {
+    "en": "Negative space as meaning, not absence.",
+    "ru": "Негативное пространство как смысл, а не отсутствие.",
+    "zh": "留白意味着深意，而非空虚。",
+    "ko": "단순한 비어있음이 아닌, 의미를 담고 있는 공간인 셈이죠.",
+    "ja": "「欠如ではなく、意味としてのネガティブスペースです」",
+    "romaji": "\"Ketsujo dewa naku, imi to shite no negatibu supēsu desu\""
+  },
+  "s6.l249": {
+    "en": "There's something cultural in Takeshi's story that I want to name explicitly.",
+    "ru": "В истории Такэси есть что-то культурное, что я хочу назвать явно.",
+    "zh": "刚士的故事中包含了一些文化背景，我想明确地指出来。",
+    "ko": "타케시의 이야기에서 문화적으로 짚고 넘어가고 싶은 부분이 하나 더 있어요.",
+    "ja": "「剛士の物語には、はっきりと触れておきたい文化的な要素があります」",
+    "romaji": "\"Takeshi no monogatari ni wa, hakkiri to furete okitai bunkateki na yōso ga arimasu\""
+  },
+  "s6.l250": {
+    "en": "The concept of yarigai.",
+    "ru": "Концепция яригаи.",
+    "zh": "关于“yarigai”（做事的价值）的概念。",
+    "ko": "'보람(yarigai)'이라는 개념 말이에요.",
+    "ja": "「『やりがい』という概念です」",
+    "romaji": "\"\"Yarigai\" to iu gainen desu\""
+  },
+  "s6.l251": {
+    "en": "In Japanese work culture, yarigai matters enormously.",
+    "ru": "В японской рабочей культуре яригаи имеет огромное значение.",
+    "zh": "在日本的职场文化中，yarigai 非常重要。",
+    "ko": "일본의 직장 문화에서 보람은 굉장히 중요한 요소입니다.",
+    "ja": "「日本の労働文化において、やりがいは非常に重要な意味を持ちます」",
+    "romaji": "\"Nihon no rōdō bunka ni oite, yarigai wa hijō ni jūyō na imi o mochimasu\""
+  },
+  "s6.l252": {
+    "en": "It's not just satisfaction. It's the sense that your work has meaning beyond the task itself.",
+    "ru": "Это не просто удовлетворение. Это чувство того, что ваша работа имеет смысл помимо самой задачи.",
+    "zh": "它不仅仅是满足感。而是一种能感受到工作本身所具有的、超越任务本身的意义。",
+    "ko": "단순한 만족감이 아니에요. 내가 하는 일이 단순한 업무 이상의 의미를 갖는다는 느낌이죠.",
+    "ja": "「単なる満足感ではありません。目の前の作業を超えて、自分の仕事に意味があるという実感です」",
+    "romaji": "\"Tannaru manzokukan dewa arimasen. Me no mae no sagyō o koete, jibun no shigoto ni imi ga aru to iu jikkan desu\""
+  },
+  "s6.l253": {
+    "en": "Takeshi had lost his yarigai. That's the real story.",
+    "ru": "Такэси потерял свой яригаи. В этом и заключается суть истории.",
+    "zh": "刚士失去了他的 yarigai。这才是故事的内核。",
+    "ko": "타케시는 그 보람을 잃어버렸던 거예요. 그게 이 이야기의 핵심이죠.",
+    "ja": "「剛士はやりがいを見失っていた。それこそがこの物語の本質です」",
+    "romaji": "\"Takeshi wa yarigai o miushinatte ita. Sore koso ga kono monogatari no honshitsu desu\""
+  },
+  "s6.l254": {
+    "en": "That's... really common in Japan, isn't it?",
+    "ru": "Это... действительно распространено в Японии, не так ли?",
+    "zh": "这在……日本真的很普遍，不是吗？",
+    "ko": "그거... 일본에선 정말 흔한 일 아닌가요?",
+    "ja": "「それって……日本で本当によくあることですよね？」",
+    "romaji": "\"Sorette... nihon de hontō ni yoku aru koto desu yo ne?\""
+  },
+  "s6.l255": {
+    "en": "People who work so hard they forget why they started.",
+    "ru": "Люди, которые так много работают, что забывают, почему они начали.",
+    "zh": "人们拼命工作，以至于忘记了初心。",
+    "ko": "너무 열심히 일만 하다 보니, 왜 시작했는지조차 잊어버리는 사람들 말이에요.",
+    "ja": "「働きすぎて、なぜ始めたのかを忘れてしまう人たち」",
+    "romaji": "\"Hatarakisugite, naze hajimeta no ka o wasurete shimau hito-tachi\""
+  },
+  "s6.l256": {
+    "en": "Very common. And not only in Japan.",
+    "ru": "Очень распространено. И не только в Японии.",
+    "zh": "非常普遍。而且不仅在日本。",
+    "ko": "아주 흔하죠. 비단 일본만의 문제는 아니지만요.",
+    "ja": "「よくあることです。そして日本に限った話でもありません」",
+    "romaji": "\"Yoku aru koto desu. Soshite nihon ni kagitta hanashi de mo arimasen\""
+  },
+  "s6.l257": {
+    "en": "The word is Japanese. The experience is everywhere.",
+    "ru": "Слово японское. Но опыт повсюду.",
+    "zh": "这个词是日语。但这种经历随处可见。",
+    "ko": "단어는 일본어지만, 겪고 있는 일은 전 세계 공통이랄까요.",
+    "ja": "「言葉は日本語ですが、その経験はどこにでもあるものです」",
+    "romaji": "\"Kotoba wa nihongo desu ga, sono keiken wa doko ni demo aru mono desu\""
+  },
+  "s6.l258": {
+    "en": "Have you ever loved something and then had the love go quiet?",
+    "ru": "Вы когда-нибудь любили что-то, а потом эта любовь утихала?",
+    "zh": "你有没有过热爱某样东西，后来那份热忱却渐渐消失了？",
+    "ko": "무언가를 정말 사랑했다가, 그 마음이 시들해졌던 경험이 있나요?",
+    "ja": "「何かを愛していたのに、その愛が静まり返ってしまった経験はありますか？」",
+    "romaji": "\"Nanika o aishite ita no ni, sono ai ga shizumarikaette shimatta keiken wa arimasu ka?\""
+  },
+  "s6.l259": {
+    "en": "And then had it come back?",
+    "ru": "А потом она возвращалась?",
+    "zh": "然后它又回来了吗？",
+    "ko": "그리고 다시 그 마음이 되살아난 적은요?",
+    "ja": "「そして、それが再び戻ってきた経験は？」",
+    "romaji": "\"Soshite, sore ga futatabi modotte kita keiken wa?\""
+  },
+  "s6.l260": {
+    "en": "A beat of silence in the classroom.",
+    "ru": "Минута тишины в классе.",
+    "zh": "教室内陷入了一阵沉寂。",
+    "ko": "교실 안에 잠시 정적이 흐릅니다.",
+    "ja": "教室にしばしの沈黙が流れる。",
+    "romaji": "Kyōshitsu ni shibashi no chinmoku ga nagareru."
+  },
+  "s6.l261": {
+    "en": "Japanese. My Japanese.",
+    "ru": "Японский. Мой японский.",
+    "zh": "日语。我的日语。",
+    "ko": "일본어요. 저의 일본어 말이에요.",
+    "ja": "「日本語。私の日本語です」",
+    "romaji": "\"Nihongo. Watashi no nihongo desu\""
+  },
+  "s6.l262": {
+    "en": "The class goes still. Yuki almost never leads.",
+    "ru": "В классе становится тихо. Юки почти никогда не берет на себя инициативу.",
+    "zh": "全班都安静了下来。由纪几乎从未主动发言过。",
+    "ko": "다들 의외라는 듯 바라봅니다. 유키가 먼저 입을 여는 일은 거의 없으니까요.",
+    "ja": "教室が静まり返る。ユキが自分から発言することは滅多にない。",
+    "romaji": "Kyōshitsu ga shizumarikaeru. Yuki ga jibun kara hatsugen suru koto wa metta ni nai."
+  },
+  "s6.l263": {
+    "en": "I grew up speaking Japanese at home, with my parents.",
+    "ru": "Я выросла, говоря по-японски дома, с родителями.",
+    "zh": "我从小就在家里跟父母说日语。",
+    "ko": "어릴 때 집에서 부모님과 일본어로 대화하며 자랐어요.",
+    "ja": "「私は家で両親と日本語を話して育ちました」",
+    "romaji": "\"Watashi wa ie de ryōshin to nihongo o hanashite sodachimashita\""
+  },
+  "s6.l264": {
+    "en": "But when we moved to Canada—I stopped.",
+    "ru": "Но когда мы переехали в Канаду — я перестала.",
+    "zh": "但当我们搬到加拿大后——我就不说了。",
+    "ko": "하지만 캐나다로 이사 간 뒤로는... 그만뒀죠.",
+    "ja": "「でもカナダへ引っ越したとき――やめてしまったんです」",
+    "romaji": "\"Demo Kanada e hikkoshita toki -- yamete shimatta n desu\""
+  },
+  "s6.l265": {
+    "en": "I was embarrassed by it. At school.",
+    "ru": "Я стеснялась этого. В школе.",
+    "zh": "在学校里，我觉得那样很尴尬。",
+    "ko": "학교 친구들 앞에서 일본어를 쓰는 게 부끄러웠거든요.",
+    "ja": "「学校で、恥ずかしくて」",
+    "romaji": "\"Gakkō de, hazukashikute\""
+  },
+  "s6.l266": {
+    "en": "I let it go quiet for almost eight years.",
+    "ru": "Я позволила ему затихнуть почти на восемь лет.",
+    "zh": "我让它沉寂了将近八年。",
+    "ko": "그렇게 8년 가까이 일본어를 잊고 살았어요.",
+    "ja": "「八年近く、その声を静かに眠らせていました」",
+    "romaji": "\"Hachi-nen chikaku, sono koe o shizuka ni nemurasete imashita\""
+  },
+  "s6.l267": {
+    "en": "And now?",
+    "ru": "А теперь?",
+    "zh": "那现在呢？",
+    "ko": "그런데 지금은요?",
+    "ja": "「そして、今は？」",
+    "romaji": "\"Soshite, ima wa?\""
+  },
+  "s6.l268": {
+    "en": "I'm here.",
+    "ru": "Я здесь.",
+    "zh": "我在这里。",
+    "ko": "여기 있잖아요.",
+    "ja": "「ここにいます」",
+    "romaji": "\"Koko ni imasu\""
+  },
+  "s6.l269": {
+    "en": "She says it like it's the whole answer. Because it is.",
+    "ru": "Она говорит это так, будто это полный ответ. Потому что так оно и есть.",
+    "zh": "她说得如此笃定，仿佛这就是全部的答案。事实也确实如此。",
+    "ko": "그게 모든 대답이라는 듯 그녀가 말합니다. 그리고 정말 그랬죠.",
+    "ja": "彼女はそれがすべての答えであるかのように言う。実際、そうなのだから。",
+    "romaji": "Kanojo wa sore ga subete no kotae de aru ka no yō ni iu. Jissai, sō na no da kara."
+  },
+  "s6.l270": {
+    "en": "You're here.",
+    "ru": "Вы здесь.",
+    "zh": "你在这里。",
+    "ko": "유키 씨는 여기 있네요.",
+    "ja": "「ここにいるんだね」",
+    "romaji": "\"Koko ni iru n da ne\""
+  },
+  "s6.l271": {
+    "en": "Thank you for saying that, Yuki.",
+    "ru": "Спасибо, что сказала это, Юки.",
+    "zh": "谢谢你能说出这番话，由纪。",
+    "ko": "말해줘서 고마워요, 유키 씨.",
+    "ja": "「話してくれてありがとう、ユキさん」",
+    "romaji": "\"Hanashite kurete arigatō, Yuki-san\""
+  },
+  "s6.l272": {
+    "en": "The last line of the story—what did Takeshi write in his notebook?",
+    "ru": "Последняя строчка истории — что Такэси написал в своем блокноте?",
+    "zh": "故事的最后一行——刚士在他的笔记本上写了什么？",
+    "ko": "이야기의 마지막 구절, 타케시가 자신의 수첩에 뭐라고 적었었죠?",
+    "ja": "「物語の最後の一行――剛士はノートに何と書きましたか？」",
+    "romaji": "\"Monogatari no saigo no ichigyō -- Takeshi wa nōto ni nan to kakimashita ka?\""
+  },
+  "s6.l273": {
+    "en": "Words connect people.",
+    "ru": "Слова соединяют людей.",
+    "zh": "言语将人们紧密相连。",
+    "ko": "말은 사람을 잇는다.",
+    "ja": "「言葉は人と人を繋ぐ」",
+    "romaji": "\"Kotoba wa hito to hito o tsunagu\""
+  },
+  "s6.l274": {
+    "en": "We've heard that phrase before.",
+    "ru": "Мы уже слышали эту фразу раньше.",
+    "zh": "我们以前听过这句话。",
+    "ko": "우리 이 문장을 전에도 들은 적이 있었죠.",
+    "ja": "「前にも聞いたフレーズですね」",
+    "romaji": "\"Mae ni mo kiita furēzu desu ne\""
+  },
+  "s6.l275": {
+    "en": "Does anyone remember where?",
+    "ru": "Кто-нибудь помнит где?",
+    "zh": "有人记得在哪里吗？",
+    "ko": "어디였는지 기억나는 사람?",
+    "ja": "「どこだったか覚えている人はいますか？」",
+    "romaji": "\"Doko datta ka oboete iru hito wa imasu ka?\""
+  },
+  "s6.l276": {
+    "en": "Tanaka-sensei's chalkboard.",
+    "ru": "Школьная доска Танаки-сэнсэя.",
+    "zh": "田中老师的黑板上。",
+    "ko": "다나카 선생님의 칠판요.",
+    "ja": "「田中先生の黒板です」",
+    "romaji": "\"Tanaka-sensei no kokuban desu\""
+  },
+  "s6.l277": {
+    "en": "The first week. Story 0.",
+    "ru": "Первая неделя. История 0.",
+    "zh": "第一周。故事 0。",
+    "ko": "첫째 주였어요. 이야기 0에서요.",
+    "ja": "「最初の週。第0話のとき」",
+    "romaji": "\"Saisho no shū. Dai-zero-wa no toki\""
+  },
+  "s6.l278": {
+    "en": "Very good memory, Ken-san.",
+    "ru": "Очень хорошая память, Кен-сан.",
+    "zh": "记性不错啊，健先生。",
+    "ko": "기억력이 좋네요, 켄 씨.",
+    "ja": "「よく覚えていましたね、ケンさん」",
+    "romaji": "\"Yoku oboete imashita ne, Ken-san\""
+  },
+  "s6.l279": {
+    "en": "It's the same words. But after six stories—does it mean something different now?",
+    "ru": "Это те же слова. Но после шести историй — значат ли они теперь что-то другое?",
+    "zh": "同样的话。但在经历了六个故事之后——它现在的含义是否有所不同？",
+    "ko": "같은 문장이지만, 6개의 이야기를 거쳐온 지금은 그 의미가 조금 다르게 느껴지나요?",
+    "ja": "「まったく同じ言葉です。でも六つの物語を経た今――違った意味に感じられませんか？」",
+    "romaji": "\"Mattaku onaji kotoba desu. Demo muttsu no monogatari o heta ima -- chigatta imi ni kanjiraremasen ka?\""
+  },
+  "s6.l280": {
+    "en": "Yes — now I've felt it",
+    "ru": "Да — теперь я это почувствовал",
+    "zh": "是的——现在我感受到了",
+    "ko": "네, 이제는 가슴으로 느껴져요.",
+    "ja": "「はい――今ならそれが実感できます」",
+    "romaji": "\"Hai -- ima nara sore ga jikkan dekimasu\""
+  },
+  "s6.l281": {
+    "en": "It means more specifically now",
+    "ru": "Теперь это значит более конкретно",
+    "zh": "现在的含义变得更加具体了",
+    "ko": "훨씬 더 구체적인 의미로 다가오네요.",
+    "ja": "「今はもっと具体的に響いてきます」",
+    "romaji": "\"Ima wa motto gutaiteki ni hibiite kimasu\""
+  },
+  "s6.l282": {
+    "en": "That's it, isn't it.",
+    "ru": "Вот и все, не так ли.",
+    "zh": "就是这样，不是吗？",
+    "ko": "바로 그거예요.",
+    "ja": "「そういうことですね」",
+    "romaji": "\"Sō iu koto desu ne\""
+  },
+  "s6.l283": {
+    "en": "That's the whole game.",
+    "ru": "В этом и заключается вся суть.",
+    "zh": "这就是全部的真谛。",
+    "ko": "그게 전부죠.",
+    "ja": "「それがすべてです」",
+    "romaji": "\"Sore ga subete desu\""
+  },
+  "s6.l284": {
+    "en": "One more story after this one.",
+    "ru": "После этой истории осталась еще одна.",
+    "zh": "在这之后还有一个故事。",
+    "ko": "이제 이야기가 하나 더 남았네요.",
+    "ja": "「これの後に、物語はあと一つだけ」",
+    "romaji": "\"Kore no ato ni, monogatari wa ato hitotsu dake\""
+  },
+  "s6.l285": {
+    "en": "Story 7: Jamie Park. Coming home. I'll see you next week.",
+    "ru": "История 7: Джейми Пак. Возвращение домой. Увидимся на следующей неделе.",
+    "zh": "故事 7：杰米·帕克。回家。下周见。",
+    "ko": "이야기 7: 제이미 박. 집으로 돌아오다. 다음 주에 만나요.",
+    "ja": "「第7話：ジェイミー・パーク。帰郷。では、また来週」",
+    "romaji": "\"Dai-nana-wa: Jēmī Pāku. Kikyō. Dewa, mata raishū\""
+  },
+  "s6.l286": {
+    "en": "Mei is waiting by your locker. She has that stillness of someone who prepared what they want to say.",
+    "ru": "Мэй ждет тебя у твоего шкафчика. В ней чувствуется спокойствие человека, который подготовил то, что хочет сказать.",
+    "zh": "美正等在你的储物柜旁。她表现得非常平静，就像是已经准备好了要说的话一样。",
+    "ko": "메이가 사물함 옆에서 당신을 기다리고 있습니다. 하고 싶은 말을 미리 정리해 온 사람처럼 차분한 모습이네요.",
+    "ja": "メイがロッカーのそばで待っている。言いたいことをあらかじめ準備してきた人のような静けさをまとっている。",
+    "romaji": "Mei ga rokkā no soba de matte iru. Iitai koto o arakajime jumbi shite kita hito no yō na shizukesa o matotte iru."
+  },
+  "s6.l287": {
+    "en": "Can I ask you something?",
+    "ru": "Могу я тебя кое-о чем спросить?",
+    "zh": "我能问你点事吗？",
+    "ko": "뭐 하나 물어봐도 될까요?",
+    "ja": "「ちょっと聞いてもいい？」",
+    "romaji": "\"Chotto kiite mo ii?\""
+  },
+  "s6.l288": {
+    "en": "Of course.",
+    "ru": "Конечно.",
+    "zh": "当然可以。",
+    "ko": "그럼요.",
+    "ja": "「もちろん」",
+    "romaji": "\"Mochiron\""
+  },
+  "s6.l289": {
+    "en": "Takeshi—at the end, when he writes that line in Japanese.",
+    "ru": "Такэси — в конце, когда он пишет эту строчку по-японски.",
+    "zh": "刚士——故事最后，当他用日语写下那句话时。",
+    "ko": "타케시 말이에요... 마지막에 그 문장을 일본어로 적었잖아요.",
+    "ja": "「剛士のことだけど――最後、あの言葉を日本語で書いたじゃない」",
+    "romaji": "\"Takeshi no koto dakedo -- saigo, ano kotoba o nihongo de kaita ja nai\""
+  },
+  "s6.l290": {
+    "en": "He'd just spent weeks working in English. Thinking in English.",
+    "ru": "Он только что провел недели, работая на английском. Думая на английском.",
+    "zh": "他明明刚刚花了数周的时间在做英语工作。在用英语思考。",
+    "ko": "몇 주 동안 기껏 영어로 일하고 영어로 생각하며 지냈으면서.",
+    "ja": "「何週間も英語で仕事して、英語で考えていたのに」",
+    "romaji": "\"Nan-shūkan mo eigo de shigoto shite, eigo de kangaete ita no ni\""
+  },
+  "s6.l291": {
+    "en": "And then the real thought—the important one—comes out in Japanese.",
+    "ru": "И тогда настоящая мысль — важная — всплывает на японском.",
+    "zh": "可是最终心底最真实、最重要的想法，还是用了日语表达出来。",
+    "ko": "결국 진짜 속마음은, 가장 중요한 생각은 일본어로 튀어나온 거죠.",
+    "ja": "「それでも本当の想い――本当に大切な想いは――日本語で溢れ出してきた」",
+    "romaji": "\"Soredemo hontō no omoi -- hontō ni taisetsu na omoi wa -- nihongo de afuredashite kita\""
+  },
+  "s6.l292": {
+    "en": "I do that.",
+    "ru": "Я так и делаю.",
+    "zh": "我也是这样。",
+    "ko": "저도 그래요.",
+    "ja": "「私、それすごくわかるの」",
+    "romaji": "\"Watashi, sore sugoku wakaru no\""
+  },
+  "s6.l293": {
+    "en": "When something actually matters—I think it in Mandarin.",
+    "ru": "Когда что-то действительно важно — я думаю об этом на мандаринском.",
+    "zh": "当遇到真正重要的事情时——我会用普通话思考。",
+    "ko": "정말 중요한 순간엔... 저도 모르게 중국어로 생각하게 되거든요.",
+    "ja": "「本当に大切なことのときは――中国語で考えるから」",
+    "romaji": "\"Hontō ni taisetsu na koto no toki wa -- chūgokugo de kangaeru kara\""
+  },
+  "s6.l294": {
+    "en": "Even though I've been in English-speaking schools for twelve years.",
+    "ru": "Хотя я двенадцать лет учусь в англоязычных школах.",
+    "zh": "尽管我已经读了十二年的英语学校。",
+    "ko": "영미권 학교를 12년이나 다녔는데도요.",
+    "ja": "「十二年間も英語の学校に通っているのに」",
+    "romaji": "\"Jūni-nenkan mo eigo no gakkō ni kayotte iru no ni\""
+  },
+  "s6.l295": {
+    "en": "My real feelings still live in my first language.",
+    "ru": "Мои настоящие чувства все еще живут в моем родном языке.",
+    "zh": "我的真情实感依然留存在我的母语中。",
+    "ko": "저의 진심은 여전히 모국어 속에 머물러 있나 봐요.",
+    "ja": "「私の本当の感情は、今でも母国語の中に生きている」",
+    "romaji": "\"Watashi no hontō no kanjō wa, ima demo bokokugo no naka ni ikite iru\""
+  },
+  "s6.l296": {
+    "en": "Is that—is that okay? Or is that holding me back?",
+    "ru": "Это... это нормально? Или это меня сдерживает?",
+    "zh": "这——这没关系吗？还是说这阻碍了我的进步？",
+    "ko": "이거... 괜찮은 걸까요? 어쩌면 제가 발전하는 데 걸림돌이 되는 건 아닐까요?",
+    "ja": "「それって――それでいいのかな？ それとも前に進むのを邪魔している？」",
+    "romaji": "\"Sorette -- sore de ii no kana? Soretomo mae ni susumu no o jama shite iru?\""
+  },
+  "s6.l297": {
+    "en": "That's not holding you back — it's knowing where home is",
+    "ru": "Это не сдерживает тебя — это значит знать, где твой дом",
+    "zh": "这并不会阻碍你——这代表你清楚自己的归属",
+    "ko": "걸림돌이 아니에요. 그건 당신이 돌아갈 곳이 어디인지 알고 있다는 뜻이죠.",
+    "ja": "「邪魔なんかじゃないよ――自分の帰る場所を知っているということだ」",
+    "romaji": "\"Jama nanka ja nai yo -- jibun no kaeru basho o shitte iru to iu koto da\""
+  },
+  "s6.l298": {
+    "en": "Both things can be true at once",
+    "ru": "И то, и другое может быть правдой одновременно",
+    "zh": "这两件事可以同时成立",
+    "ko": "두 가지 모두 사실일 수 있어요.",
+    "ja": "「その両方が同時に真実であり得るんだよ」",
+    "romaji": "\"Sono ryōhō ga dōji ni shinjitsu de ariuru n da yo\""
+  },
+  "s6.l299": {
+    "en": "But also, words connect us to ourselves.",
+    "ru": "Но также слова соединяют нас с самими собой.",
+    "zh": "而且，言语也能让我们与自我相连。",
+    "ko": "하지만 언어는 우리 자신을 잇기도 하네요.",
+    "ja": "「それに、言葉は私たち自身とも繋げてくれるものだから」",
+    "romaji": "\"Sore ni, kotoba wa watashitachi jishin tomo tsunagete kureru mono da kara\""
+  },
+  "s6.l300": {
+    "en": "The bare trees look like calligraphy against the pale sky.",
+    "ru": "Голые деревья похожи на каллиграфию на фоне бледного неба.",
+    "zh": "枯秃的树木就像在苍白的天空背景下的书法作品。",
+    "ko": "앙상한 나뭇가지들이 창백한 하늘을 배경으로 한 서예 작품처럼 보입니다.",
+    "ja": "葉を落とした木々が、淡い空を背景にまるで書道の筆跡のように佇んでいる。",
+    "romaji": "Ha o otoshita kigi ga, awai sora o haikei ni marude shodō no hisseki no yō ni tatazunde iru."
+  },
+  "r6.l101": {
+    "en": "Takeshi-san! I've been reading your drafts overnight.",
+    "ru": "Такэси-сан! Я читала ваши черновики всю ночь.",
+    "zh": "森先生！我通宵读了你的草稿。",
+    "ko": "모리 씨! 밤새 보내주신 원고를 읽어봤어요.",
+    "ja": "「剛士さん！ 昨夜いただいた草稿を一晩中読んでいました」",
+    "romaji": "\"Takeshi-san! Sakuya itadaita sōkō o hitobanjū yonde imashita\""
+  },
+  "r6.l102": {
+    "en": "The Saigyō. The Yosano. I—",
+    "ru": "Сайгё. Ёсано. Я —",
+    "zh": "西行。与谢野。我——",
+    "ko": "사이교의 시도, 요사노의 시도... 정말이지...",
+    "ja": "「西行も、与謝野も。私――」",
+    "romaji": "\"Saigyō mo, Yosano mo. Watashi--\""
+  },
+  "r6.l103": {
+    "en": "I've read English translations of these before. Dozens of them.",
+    "ru": "Я уже читала их английские переводы. Десятки их.",
+    "zh": "我以前读过这些诗的英译本。读过几十个版本。",
+    "ko": "예전에도 이 시들의 영문 번역본을 수십 개는 넘게 읽어봤거든요.",
+    "ja": "「これまで英訳を何十篇も読んできましたが」",
+    "romaji": "\"Kore made eiyaku o nanjuppen mo yonde kimashita ga\""
+  },
+  "r6.l104": {
+    "en": "These feel different. They feel like they're still breathing.",
+    "ru": "Эти кажутся другими. Кажется, что они все еще дышат.",
+    "zh": "但这些感觉完全不同。它们给人一种仍在呼吸的感觉。",
+    "ko": "그런데 이번 건 달라요. 문장들이 살아 숨 쉬는 것 같아요.",
+    "ja": "「これは全然違います。まるで今も息づいているみたい」",
+    "romaji": "\"Kore wa zenzen chigaimasu. Marude ima mo ikizuite iru mitai\""
+  },
+  "r6.l105": {
+    "en": "I was trying to find the resonance, not just the meaning.",
+    "ru": "Я пытался найти резонанс, а не только смысл.",
+    "zh": "我试着在寻找某种共鸣，而不仅仅是意思。",
+    "ko": "단순한 뜻 풀이보다는 그 안에서 울려 퍼지는 공명을 찾으려 노력했습니다.",
+    "ja": "「単なる意味だけでなく、共鳴を探そうとしていたんです」",
+    "romaji": "\"Tannaru imi dake dewa naku, kyōmei o sagasō to shite ita n desu\""
+  },
+  "r6.l106": {
+    "en": "Yes. Exactly that.",
+    "ru": "Да. Именно это.",
+    "zh": "是的。正是如此。",
+    "ko": "네, 바로 그거예요.",
+    "ja": "「ええ、まさにそれです」",
+    "romaji": "\"Ee, masa ni sore desu\""
+  },
+  "r6.l107": {
+    "en": "Can I ask—there's a note in your margin on the Bashō.",
+    "ru": "Могу ли я спросить — на полях Басё есть заметка.",
+    "zh": "我能问一下吗——你给芭蕉的那首诗做的边注。",
+    "ko": "한 가지 물어봐도 될까요? 바쇼의 시 옆에 적어두신 메모 말이에요.",
+    "ja": "「一つ伺ってもいいですか？ 芭蕉のページの欄外にメモがありましたよね」",
+    "romaji": "\"Hitotsu ukagatte mo ii desu ka? Bashō no pēji no rangai ni memo ga arimashita yo ne\""
+  },
+  "r6.l108": {
+    "en": "You wrote: 'The frog has always been there. The poem is the sound of us noticing.'",
+    "ru": "Вы написали: «Лягушка всегда была там. Стихотворение — это звук того, как мы это замечаем».",
+    "zh": "你写道：‘青蛙一直都在那里。诗歌，是我们察觉到它的那一刻所发出的回响。’",
+    "ko": "'개구리는 언제나 그곳에 있었다. 시는 우리가 그것을 발견했을 때 들려오는 소리이다.'라고 적으셨더군요.",
+    "ja": "「『蛙はずっとそこにいた。詩とは私たちが気づいた音なのだ』と」",
+    "romaji": "\"Kawazu wa zutto soko ni ita. Shi to wa watashitachi ga kizuita oto na no da' to\""
+  },
+  "r6.l109": {
+    "en": "Is that the translation, or—?",
+    "ru": "Это перевод или — ?",
+    "zh": "这是翻译的一部分，还是——？",
+    "ko": "이것도 번역의 일부인가요?",
+    "ja": "「あれは翻訳の一部ですか？ それとも――？」",
+    "romaji": "\"Are wa hon'yaku no ichibu desu ka? Soretomo--?\""
+  },
+  "r6.l110": {
+    "en": "That's a note to myself.",
+    "ru": "Это заметка для самого себя.",
+    "zh": "那是我写给自己的笔记。",
+    "ko": "그냥 혼자 끄적여본 생각이에요.",
+    "ja": "「自分用の備忘録ですよ」",
+    "romaji": "\"Jibun-yō no bibōroku desu yo\""
+  },
+  "r6.l111": {
+    "en": "Not a translation. More like—what the poem said to me.",
+    "ru": "Не перевод. Скорее то, что стихотворение сказало мне.",
+    "zh": "不是翻译。更像是——那首诗对我诉说了什么。",
+    "ko": "번역이라기보다, 시가 저에게 건네준 말이라고나 할까요.",
+    "ja": "「翻訳ではありません。どちらかと言えば――あの詩が私に語りかけてくれたことです」",
+    "romaji": "\"Hon'yaku dewa arimasen. Dochira ka to ieba-- ano shi ga watashi ni katarikakete kureta koto desu\""
+  },
+  "r6.l112": {
+    "en": "Could that be in the introduction? The book's introduction?",
+    "ru": "Может ли это быть во вступлении? В предисловии к книге?",
+    "zh": "能把它加进序言里吗？书的序言？",
+    "ko": "그걸 책 서문에 넣으면 어떨까요?",
+    "ja": "「それをまえがきに入れていただけませんか？ 本の序文として」",
+    "romaji": "\"Sore o maegaki ni irete itadakemasen ka? Hon no jobun to shite\""
+  },
+  "r6.l113": {
+    "en": "I think readers need to hear that. Before they read anything.",
+    "ru": "Я думаю, читателям нужно это услышать. Прежде чем они что-то прочитают.",
+    "zh": "我认为读者需要读到这段话。在他们开始阅读任何内容之前。",
+    "ko": "독자들이 시를 읽기 전에 이 이야기를 꼭 들었으면 좋겠어요.",
+    "ja": "「読者にはまずそれを知ってほしいんです。本文を読む前に」",
+    "romaji": "\"Dokusha ni wa mazu sore o shitte hoshii n desu. Hombun o yomu mae ni\""
+  },
+  "r6.l114": {
+    "en": "She wants my marginal note in the book.",
+    "ru": "Она хочет, чтобы моя заметка на полях была в книге.",
+    "zh": "她想把我的边注放进书里。",
+    "ko": "내 낙서 같은 메모를 책에 싣고 싶다니.",
+    "ja": "彼女は私の欄外のメモを本に入れたいと望んでいる。",
+    "romaji": "Kanojo wa watashi no rangai no memo o hon ni iretai to nozonde iru."
+  },
+  "r6.l115": {
+    "en": "She wants the translator to show up.",
+    "ru": "Она хочет, чтобы переводчик проявил себя.",
+    "zh": "她希望翻译者能走到台前。",
+    "ko": "번역가의 존재를 드러내고 싶어 하는군요.",
+    "ja": "翻訳者自身の姿が現れることを望んでいるのだ。",
+    "romaji": "Hon'yakusha jishin no sugata ga arawareru koto o nozonde iru no da."
+  },
+  "r6.l116": {
+    "en": "I've been hiding in translations for fifteen years.",
+    "ru": "Я прятался в переводах пятнадцать лет.",
+    "zh": "十五年来，我一直躲在翻译后面。",
+    "ko": "지난 15년 동안 나는 번역 뒤로 내 모습을 숨겨왔는데.",
+    "ja": "私は十五年間、翻訳の中に身を隠してきた。",
+    "romaji": "Watashi wa jūgo-nenkan, hon'yaku no naka ni mi o kakushite kita."
+  },
+  "r6.l117": {
+    "en": "Yes. I'll write something.",
+    "ru": "Да. Я что-нибудь напишу.",
+    "zh": "好的。我会写点什么的。",
+    "ko": "네, 알겠습니다. 한 번 써볼게요.",
+    "ja": "「わかりました。何か書いてみます」",
+    "romaji": "\"Wakarimashita. Nanika kaite mimasu\""
+  },
+  "s6.l401": {
+    "en": "The deadline. Or rather—what the deadline has become.",
+    "ru": "Дедлайн. Или, скорее, то, во что превратился дедлайн.",
+    "zh": "截止日期。或者更确切地说——截止日期现在变成了什么。",
+    "ko": "마감 기한. 아니, 그것이 이제 어떤 의미가 되었는지가 더 적절하겠네요.",
+    "ja": "締め切り。あるいは――締め切りがどう変わったか。",
+    "romaji": "Shimekiri. Aruiwa -- shimekiri ga dō kawatta ka."
+  },
+  "s6.l402": {
+    "en": "Ueda-san got three extra days. You used two of them.",
+    "ru": "Уэда-сан получил три дополнительных дня. Вы использовали два из них.",
+    "zh": "上田先生多要了三天时间。你用了其中的两天。",
+    "ko": "우에다 씨 덕분에 사흘의 여유가 생겼고, 당신은 그중 이틀을 꼬박 썼습니다.",
+    "ja": "上田さんが三日間の猶予を取ってくれた。あなたはそのうちの二日を使った。",
+    "romaji": "Ueda-san ga mikka-kan no yūyo o totte kureta. Anata wa sono uchi no futsuka o tsukatta."
+  },
+  "s6.l403": {
+    "en": "All of them—forty-three poems, each one carrying what it can carry in English.",
+    "ru": "Все они — сорок три стихотворения, каждое из которых несет в себе то, что может нести на английском.",
+    "zh": "总共四十三首诗，每一首都在英语中尽力表达了它们所能承载的一切。",
+    "ko": "총 43편의 시. 제각각 영어라는 그릇에 담길 수 있는 만큼의 진심을 담아냈습니다.",
+    "ja": "四十三篇すべて――それぞれが英語で担えるだけのものを背負って。",
+    "romaji": "Sanjūsan-pen subete -- sorezore ga eigo de naeru dake no mono o seotte."
+  },
+  "s6.l404": {
+    "en": "Not perfect. But resonant.",
+    "ru": "Не идеально. Но резонирующе.",
+    "zh": "并不完美。但能引发共鸣。",
+    "ko": "완벽하진 않지만, 깊은 울림이 느껴지네요.",
+    "ja": "完璧ではない。けれど、確かに共鳴している。",
+    "romaji": "Kampeki dewa nai. Keredo, tashika ni kyōmei shite iru."
+  },
+  "s6.l405": {
+    "en": "Now the introduction.",
+    "ru": "Теперь вступление.",
+    "zh": "现在开始写序言。",
+    "ko": "이제 서문을 쓸 차례입니다.",
+    "ja": "そして、序文だ。",
+    "romaji": "Soshite, jobun da."
+  },
+  "s6.l406": {
+    "en": "A NOTE ON TRANSLATION",
+    "ru": "ЗАМЕТКА О ПЕРЕВОДЕ",
+    "zh": "关于翻译的说明",
+    "ko": "번역에 부쳐",
+    "ja": "翻訳についての覚書",
+    "romaji": "Hon'yaku ni tsuite no oboegaki"
+  },
+  "s6.l407": {
+    "en": "My name is Takeshi Mori. I have been a professional translator for fifteen years.",
+    "ru": "Меня зовут Такэси Мори. Я работаю профессиональным переводчиком пятнадцать лет.",
+    "zh": "我叫森刚士。我从事专业翻译工作已经十五年了。",
+    "ko": "제 이름은 모리 타케시입니다. 15년 동안 전문 번역가로 일해 왔습니다.",
+    "ja": "私の名前は森剛士。プロの翻訳者として十五年仕事をしてきた。",
+    "romaji": "Watashi no namae wa Mori Takeshi. Puro no hon'yakusha to shite jūgo-nen shigoto o shite kita."
+  },
+  "s6.l408": {
+    "en": "In that time I have turned several million words from one language into another.",
+    "ru": "За это время я перевел несколько миллионов слов с одного языка на другой.",
+    "zh": "在此期间，我已经将数百万字从一种语言转化为另一种语言。",
+    "ko": "그동안 수백만 개의 단어들을 다른 언어로 옮기는 작업을 해왔죠.",
+    "ja": "その間に、私は数百万の言葉をある言語から別の言語へと移し替えてきた。",
+    "romaji": "Sono aida ni, watashi wa sūhyaku-man no kotoba o aru gengo kara betsu no gengo e to utsushikaete kita."
+  },
+  "s6.l409": {
+    "en": "I have never, until now, written about what that means.",
+    "ru": "До сих пор я никогда не писал о том, что это значит.",
+    "zh": "直到现在，我从未写过这背后的意义。",
+    "ko": "하지만 번역이 갖는 의미에 대해 써보는 건 이번이 처음입니다.",
+    "ja": "だが今まで、それが何を意味するのかについて書いたことは一度もなかった。",
+    "romaji": "Daga ima made, sore ga nani o imi suru no ka ni tsuite kaita koto wa ichido mo nakatta."
+  },
+  "s6.l410": {
+    "en": "These poems cannot be translated.",
+    "ru": "Эти стихи невозможно перевести.",
+    "zh": "这些诗是无法翻译的。",
+    "ko": "이 시들은 사실 번역이 불가능합니다.",
+    "ja": "これらの詩は、翻訳不可能である。",
+    "romaji": "Korera no shi wa, hon'yaku fukanō de aru."
+  },
+  "s6.l411": {
+    "en": "I have translated them anyway.",
+    "ru": "Я все равно их перевел.",
+    "zh": "但我还是翻译了它们。",
+    "ko": "그럼에도 불구하고 저는 번역을 강행했죠.",
+    "ja": "それでも私は翻訳した。",
+    "romaji": "Soredemo watashi wa hon'yaku shita."
+  },
+  "s6.l412": {
+    "en": "Some things cannot cross a border without losing something essential.",
+    "ru": "Некоторые вещи не могут пересечь границу, не потеряв чего-то существенного.",
+    "zh": "有些东西如果不丢失其本质，就无法跨越国界。",
+    "ko": "국경을 넘는 순간 본질적인 무언가를 잃어버릴 수밖에 없는 것들이 있습니다.",
+    "ja": "本質的な何かを失うことなしには、国境を越えられないものがある。",
+    "romaji": "Honshitsuteki na nanika o ushinau koto nashi ni wa, kokkyō o koerarenai mono ga aru."
+  },
+  "s6.l413": {
+    "en": "A season word. A pause written with a single character. The shape of grief in old kana spelling.",
+    "ru": "Сезонное слово. Пауза, написанная одним иероглифом. Форма горя в старом написании каной.",
+    "zh": "一个季语。由单个字符构成的停顿。旧假名拼写中蕴含的悲伤形态。",
+    "ko": "계어 하나, 글자 하나하나에 담긴 쉼표, 그리고 옛 가나 표기법에 서린 슬픔의 모양새 같은 것들이 그렇죠.",
+    "ja": "季語。一文字で刻まれた間（ま）。歴史的仮名遣いに宿る悲哀のかたち。",
+    "romaji": "Kigo. Hito-moji de kizamareta ma. Rekishiteki kanazukai ni yadoru hiai no katachi."
+  },
+  "s6.l414": {
+    "en": "When you encounter those losses in this book — the places where English goes slightly quiet —",
+    "ru": "Когда вы столкнетесь с этими потерями в этой книге — в местах, где английский язык затихает —",
+    "zh": "当你在本书中遇到这些缺失时——那些英语表达变得略显苍白的地方——",
+    "ko": "책을 읽다 그런 공백을 마주하게 된다면, 영어로 다 표현하지 못한 침묵이 느껴진다면,",
+    "ja": "本書の中でそうした喪失に――英語がかすかに沈黙する瞬間に――触れたなら、",
+    "romaji": "Honsho no naka de sōshita sōshitsu ni -- eigo ga kasuka ni chinmoku suru shunkan ni -- fureta nara,"
+  },
+  "s6.l415": {
+    "en": "know that the silence is also part of the poem.",
+    "ru": "знайте, что тишина — это тоже часть стихотворения.",
+    "zh": "请记住，那份沉默同样也是诗的一部分。",
+    "ko": "그 정적 또한 시의 일부라는 사실을 기억해 주십시오.",
+    "ja": "その沈黙もまた詩の一部なのだと知ってほしい。",
+    "romaji": "sono chinmoku mo mata shi no ichibu na no da to shitte hoshii."
+  },
+  "s6.l416": {
+    "en": "In Japanese, we call this yohaku: the meaning that lives in what is not said.",
+    "ru": "В японском языке мы называем это ёхаку: смысл, который живет в том, что не сказано.",
+    "zh": "在日语中，我们称之为“余白（yohaku）”：存在于言外之意的真谛。",
+    "ko": "일본어로는 이를 '여백(yohaku)'이라고 부릅니다. 말하지 않은 곳에 깃든 의미라는 뜻입니다.",
+    "ja": "日本語ではこれを「余白」と呼ぶ。語られぬものの中に宿る意味のことだ。",
+    "romaji": "Nihongo de wa kore o \"yohaku\" to yobu. Katararenu mono no naka ni yadoru imi no koto da."
+  }
+}

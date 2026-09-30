@@ -1,0 +1,758 @@
+{
+  "vl6.title": {
+    "en": "Talking About Feelings",
+    "ru": "Говорим о чувствах",
+    "zh": "聊聊心情",
+    "ja": "気持ちを話そう",
+    "romaji": "Kimochi o hanasou"
+  },
+  "vl6.subtitle": {
+    "en": "Warm conversations with friends",
+    "ru": "Тёплые разговоры с друзьями",
+    "zh": "和朋友之间温暖的对话",
+    "ja": "友達との、あたたかい会話",
+    "romaji": "Tomodachi to no, atatakai kaiwa"
+  },
+  "vl6.description": {
+    "en": "Practice ten words for talking with a friend you haven't seen in a while about the weather, how you feel physically, nervousness, and happy feelings.",
+    "ru": "Потренируйте десять слов для разговора с давно не виденным другом: о погоде, самочувствии, волнении и радости.",
+    "zh": "练习十个词，用来和久别重逢的朋友聊天气、身体状况、紧张和开心的心情。",
+    "ja": "久しぶりに会う友達と、天気や体の調子、緊張、うれしい気持ちについて話す言葉を十つ練習します。",
+    "romaji": "Hisashiburi ni au tomodachi to, tenki ya karada no choushi, kinchou, ureshii kimochi ni tsuite hanasu kotoba o touka renshuu shimasu."
+  },
+  "vl6.setup": {
+    "en": "A hot summer afternoon in front of the station. Yuki, who went back to her hometown for summer vacation, returns today.",
+    "ru": "Жаркий летний день перед вокзалом. Юки, ездившая на летние каникулы в родные края, сегодня возвращается.",
+    "zh": "夏天炎热的午后，车站前。暑假回乡下的由纪，今天回来了。",
+    "ja": "夏の暑い午後、駅の前。夏休みで田舎に帰っていた由紀が、今日、もどってくる。",
+    "romaji": "Natsu no atsui gogo, eki no mae. Natsuyasumi de inaka ni kaette ita Yuki ga, kyou, modotte kuru."
+  },
+  "vl6.t_intro": {
+    "en": "Today's theme is talking about feelings. Let's practice words you can use in conversations with friends.",
+    "ru": "Тема сегодня — разговор о чувствах. Давайте потренируем слова для разговоров с друзьями.",
+    "zh": "今天的主题是谈论心情。我们一起练习和朋友聊天时可以用的词。",
+    "ja": "今日のテーマは、気持ちを話すことです。友達との会話で使える言葉を、いっしょに練習しましょう。",
+    "romaji": "Kyou no teema wa, kimochi o hanasu koto desu. Tomodachi to no kaiwa de tsukaeru kotoba o, issho ni renshuu shimashou."
+  },
+  "vl6.y_arrive": {
+    "en": "I'm back, everyone!",
+    "ru": "Я вернулась, все!",
+    "zh": "大家，我回来了！",
+    "ja": "みんな、ただいま！",
+    "romaji": "Minna, tadaima!"
+  },
+  "vl6.y_mei": {
+    "en": "Yuki! Welcome back!",
+    "ru": "Юки! С возвращением!",
+    "zh": "由纪！欢迎回来！",
+    "ja": "由紀さん！おかえり！",
+    "romaji": "Yuki-san! Okaeri!"
+  },
+  "vl6.w1": {
+    "en": "At times like this, you say “hisashiburi.” It is what you say when you meet someone you haven't seen for a long time.",
+    "ru": "В такие моменты говорят «хисасибури». Так приветствуют человека, которого давно не видели.",
+    "zh": "这种时候，说「久しぶり」。是遇到很久没见的人时说的话。",
+    "ja": "こんなときは、「久しぶり」と言います。長い間会っていなかった人に、会ったときの言葉です。",
+    "romaji": "Konna toki wa, 'hisashiburi' to iimasu. Nagai aida atte inakatta hito ni, atta toki no kotoba desu."
+  },
+  "vl6.w1_q": {
+    "en": "Do you say “hisashiburi” to teachers too?",
+    "ru": "Учителю тоже говорят «хисасибури»?",
+    "zh": "对老师也说「久しぶり」吗？",
+    "ja": "先生にも、「久しぶり」と言いますか？",
+    "romaji": "Sensei ni mo, 'hisashiburi' to iimasu ka?"
+  },
+  "vl6.w1_a": {
+    "en": "To friends, “hisashiburi.” To teachers or superiors, “ohisashiburi desu” is more polite.",
+    "ru": "Друзьям — «хисасибури». Учителям и старшим лучше «охисасибури дэс».",
+    "zh": "对朋友说「久しぶり」。对老师或长辈，说「お久しぶりです」更礼貌。",
+    "ja": "友達には「久しぶり」。先生や目上の人には、「お久しぶりです」と言うと、ていねいです。",
+    "romaji": "Tomodachi ni wa 'hisashiburi'. Sensei ya meue no hito ni wa, 'ohisashiburi desu' to iu to, teinei desu."
+  },
+  "vl6.w2": {
+    "en": "Yuki is Mei's and Ken's “tomodachi,” friend. A “tomodachi” is a dear person whom you feel close to.",
+    "ru": "Юки — «томодати», друг, для Мэй и Кена. «Томодати» — это дорогой человек, с которым вы близки.",
+    "zh": "由纪是小梅和健的「友達」。「友達」是心意相近、重要的人。",
+    "ja": "由紀さんは、メイさんとケンさんの「友達」です。「友達」は、気持ちが近い、たいせつな人のことです。",
+    "romaji": "Yuki-san wa, Mei-san to Ken-san no 'tomodachi' desu. 'Tomodachi' wa, kimochi ga chikai, taisetsu na hito no koto desu."
+  },
+  "vl6.w2_q": {
+    "en": "Is a “tomodachi” different from a “shiriai,” an acquaintance?",
+    "ru": "«Томодати» и «сирияй», знакомый, — это разные вещи?",
+    "zh": "「友達」和「知り合い」有区别吗？",
+    "ja": "「友達」と、「知り合い」は、ちがいますか？",
+    "romaji": "'Tomodachi' to, 'shiriai' wa, chigaimasu ka?"
+  },
+  "vl6.w2_a": {
+    "en": "Yes. A “shiriai” is someone whose name you know. A “tomodachi” is someone you talk and laugh with.",
+    "ru": "Да. «Сирияй» — человек, имя которого вы знаете. «Томодати» — тот, с кем вы разговариваете и смеётесь.",
+    "zh": "是的。「知り合い」是知道名字的人。「友達」是可以一起聊天、一起笑的人。",
+    "ja": "はい。「知り合い」は、名前を知っている人。「友達」は、いっしょに話したり、笑ったりする人です。",
+    "romaji": "Hai. 'Shiriai' wa, namae o shitte iru hito. 'Tomodachi' wa, issho ni hanashitari, warattari suru hito desu."
+  },
+  "vl6.p1_prompt": {
+    "en": "Now let's practice. What do you say to a friend you meet after a long time?",
+    "ru": "Теперь практика. Что вы скажете другу, которого давно не видели?",
+    "zh": "现在来练习。对久别重逢的朋友，你会说什么？",
+    "ja": "では、練習です。久しぶりに会った友達に、何と言いますか？",
+    "romaji": "Dewa, renshuu desu. Hisashiburi ni atta tomodachi ni, nan to iimasu ka?"
+  },
+  "vl6.c1_natural": {
+    "en": "“Long time no see! How have you been?”",
+    "ru": "«Давно не виделись! Как ты?»",
+    "zh": "“好久不见！你还好吗？”",
+    "ja": "「久しぶり！元気だった？」",
+    "romaji": "'Hisashiburi! Genki datta?'"
+  },
+  "vl6.c1_formal": {
+    "en": "“I have been remiss in keeping in touch. Have you been well since?”",
+    "ru": "«Давно не имел чести вас видеть. Всё ли у вас благополучно?»",
+    "zh": "“久疏问候。别来无恙吗？”",
+    "ja": "「ご無沙汰いたしております。その後、お変わりございませんか。」",
+    "romaji": "'Gobusata itashite orimasu. Sono go, okawari gozaimasen ka.'"
+  },
+  "vl6.c1_mistake": {
+    "en": "“Nice to meet you!”",
+    "ru": "«Приятно познакомиться!»",
+    "zh": "“初次见面！”",
+    "ja": "「はじめまして！」",
+    "romaji": "'Hajimemashite!'"
+  },
+  "vl6.c1_own": {
+    "en": "“Long time no see! I missed you. How was your summer vacation?”",
+    "ru": "«Давно не виделись! Я скучала. Как прошли каникулы?»",
+    "zh": "“好久不见！好想你啊。暑假过得怎么样？”",
+    "ja": "「久しぶり！会いたかったよ。夏休みは、どうだった？」",
+    "romaji": "'Hisashiburi! Aitakatta yo. Natsuyasumi wa, dou datta?'"
+  },
+  "vl6.c1_min": {
+    "en": "“Ah... long time no see...”",
+    "ru": "«А… давно не виделись…»",
+    "zh": "“啊……好久不见……”",
+    "ja": "「あ…久しぶり…」",
+    "romaji": "'A... hisashiburi...'"
+  },
+  "vl6.p1_nat_yuki": {
+    "en": "Yes, I've been well! And it's good to see everyone looks well too.",
+    "ru": "Да, всё хорошо! И я рада, что вы все выглядите бодро.",
+    "zh": "嗯，我很好！看到大家也都很精神，太好了。",
+    "ja": "うん、元気だったよ！みんなも、元気そうで、よかった。",
+    "romaji": "Un, genki datta yo! Minna mo, genki sou de, yokatta."
+  },
+  "vl6.p1_form_yuki": {
+    "en": "Haha, that is too polite! Between friends, “hisashiburi” makes me happy.",
+    "ru": "Ха-ха, слишком вежливо! Другу достаточно «хисасибури», и мне уже приятно.",
+    "zh": "哈哈，太礼貌了！对朋友说「久しぶり」我就很高兴了。",
+    "ja": "あはは、ていねいすぎます！友達には、「久しぶり」で、うれしいですよ。",
+    "romaji": "Ahaha, teinei sugimasu! Tomodachi ni wa, 'hisashiburi' de, ureshii desu yo."
+  },
+  "vl6.p1_mis_mei": {
+    "en": "Huh, “hajimemashite”? You and Yuki are already friends!",
+    "ru": "Что, «хадзимемасите»? Вы с Юки уже друзья!",
+    "zh": "咦，「はじめまして」？你和由纪已经是朋友了呀！",
+    "ja": "えっ、「はじめまして」？由紀さんとは、もう友達ですよ！",
+    "romaji": "E, 'hajimemashite'? Yuki-san to wa, mou tomodachi desu yo!"
+  },
+  "vl6.p1_mis_retry": {
+    "en": "Oh, long time no see!",
+    "ru": "Ой, давно не виделись!",
+    "zh": "啊，好久不见！",
+    "ja": "あっ、久しぶり！",
+    "romaji": "A, hisashiburi!"
+  },
+  "vl6.p1_mis_relief": {
+    "en": "Yeah, long time no see! Ha, that was funny.",
+    "ru": "Да, давно не виделись! Ха-ха, забавно.",
+    "zh": "嗯，好久不见！呵呵，真有趣。",
+    "ja": "うん、久しぶり！ふふ、おもしろいですね。",
+    "romaji": "Un, hisashiburi! Fufu, omoshiroi desu ne."
+  },
+  "vl6.p1_own_yuki": {
+    "en": "I missed you too! I'll tell you about my vacation slowly later.",
+    "ru": "Я тоже скучала! О каникулах расскажу позже, не спеша.",
+    "zh": "我也想你！暑假的事我等会儿慢慢讲。",
+    "ja": "わたしも、会いたかった！夏休みの話は、あとでゆっくり話しますね。",
+    "romaji": "Watashi mo, aitakatta! Natsuyasumi no hanashi wa, ato de yukkuri hanashimasu ne."
+  },
+  "vl6.p1_min_ken": {
+    "en": "Ha, are you shy? Following it with “genki datta?” makes it easier to talk.",
+    "ru": "Ха-ха, стесняетесь? Если продолжить «гэнки датта?», разговаривать станет легче.",
+    "zh": "呵呵，害羞吗？接着说「元気だった？」，就容易聊下去了。",
+    "ja": "ふふ、はずかしいですか？「元気だった？」と、つづけると、話しやすいですよ。",
+    "romaji": "Fufu, hazukashii desu ka? 'Genki datta?' to, tsuzukeru to, hanashiyasui desu yo."
+  },
+  "vl6.y_hot": {
+    "en": "Anyway, it's really hot today.",
+    "ru": "Ну и жара сегодня, правда.",
+    "zh": "话说回来，今天真的好热啊。",
+    "ja": "それにしても、今日は、本当に暑いですね。",
+    "romaji": "Sore ni shitemo, kyou wa, hontou ni atsui desu ne."
+  },
+  "vl6.w3": {
+    "en": "This is “atsui.” You use it when the weather or the air in a room is hot.",
+    "ru": "Это «ацуй». Так говорят, когда жарко на улице или в комнате.",
+    "zh": "这就是「暑い」。天气或房间里的空气很热时使用。",
+    "ja": "これが「暑い」です。天気や、部屋の空気が、あついときに使います。",
+    "romaji": "Kore ga 'atsui' desu. Tenki ya, heya no kuuki ga, atsui toki ni tsukaimasu."
+  },
+  "vl6.w3_q": {
+    "en": "Is “atsui” the same for tea?",
+    "ru": "«Ацуй» так же используется для чая?",
+    "zh": "形容茶烫时的「あつい」，也是一样的吗？",
+    "ja": "「あつい」は、お茶のときも、同じですか？",
+    "romaji": "'Atsui' wa, ocha no toki mo, onaji desu ka?"
+  },
+  "vl6.w3_a": {
+    "en": "No. For tea and bath water, you write 熱い. For weather, it is 暑い. The reading is the same, but the kanji differs.",
+    "ru": "Нет. Для чая и воды в ванне пишут 熱い. Для погоды — 暑い. Чтение одно, а иероглифы разные.",
+    "zh": "不一样。茶或洗澡水烫，写作「熱い」。天气热则写「暑い」。读音相同，汉字不同。",
+    "ja": "ちがいます。お茶や、おふろのお湯は、「熱い」と書きます。天気のときは、「暑い」です。読み方は同じですが、漢字がちがいます。",
+    "romaji": "Chigaimasu. Ocha ya, ofuro no oyu wa, 'atsui' to kakimasu. Tenki no toki wa, 'atsui' desu. Yomikata wa onaji desu ga, kanji ga chigaimasu."
+  },
+  "vl6.w4": {
+    "en": "And “hontou ni,” which means “really.” It expresses a strong feeling, like “very much.”",
+    "ru": "А ещё «хонто ни» — «действительно». Оно выражает сильное чувство, вроде «очень».",
+    "zh": "还有「本当に」。表示“非常”“真的”这样强烈的心情。",
+    "ja": "それから、「本当に」。「とても」「ほんとうに」という強い気持ちを表します。",
+    "romaji": "Sorekara, 'hontou ni'. 'Totemo' 'hontou ni' to iu tsuyoi kimochi o arawashimasu."
+  },
+  "vl6.w4_q": {
+    "en": "How do you use “hontou desu ka?”",
+    "ru": "Как используется «хонто дэс ка?»",
+    "zh": "「本当ですか？」怎么用？",
+    "ja": "「本当ですか？」は、どう使いますか？",
+    "romaji": "'Hontou desu ka?' wa, dou tsukaimasu ka?"
+  },
+  "vl6.w4_a": {
+    "en": "You say “hontou desu ka?” when you are surprised by what someone said or want to confirm it. “Hontou ni” is for expressing your own feeling strongly.",
+    "ru": "«Хонто дэс ка?» говорят, когда удивлены словами собеседника или хотят уточнить. «Хонто ни» — когда сильно выражают собственное чувство.",
+    "zh": "听到对方说的话感到惊讶或想确认时，说「本当ですか？」。「本当に」则用于强调自己的心情。",
+    "ja": "「本当ですか？」は、相手の話を聞いて、おどろいたときや、たしかめたいときに言います。「本当に」は、自分の気持ちを強く言うときです。",
+    "romaji": "'Hontou desu ka?' wa, aite no hanashi o kiite, odoroita toki ya, tashikametai toki ni iimasu. 'Hontou ni' wa, jibun no kimochi o tsuyoku iu toki desu."
+  },
+  "vl6.p2_prompt": {
+    "en": "Yuki says, “It's really hot today.” You feel the same. What do you say?",
+    "ru": "Юки говорит: «Сегодня действительно жарко». Вы чувствуете то же. Что вы скажете?",
+    "zh": "由纪说：“今天真的好热啊。”你也有同感。你会怎么说？",
+    "ja": "由紀さんが、「今日は、本当に暑いですね」と言いました。あなたも、同じ気持ちです。何と言いますか？",
+    "romaji": "Yuki-san ga, 'Kyou wa, hontou ni atsui desu ne' to iimashita. Anata mo, onaji kimochi desu. Nan to iimasu ka?"
+  },
+  "vl6.c2_natural": {
+    "en": "“It really is hot.”",
+    "ru": "«Да, действительно жарко».",
+    "zh": "“真的好热啊。”",
+    "ja": "「本当に暑いですね。」",
+    "romaji": "'Hontou ni atsui desu ne.'"
+  },
+  "vl6.c2_formal": {
+    "en": "“Indeed, it is a severe heat.”",
+    "ru": "«Поистине, жара суровая».",
+    "zh": "“确实，是相当严酷的酷暑呢。”",
+    "ja": "「まことに、厳しい暑さでございますね。」",
+    "romaji": "'Makoto ni, kibishii atsusa de gozaimasu ne.'"
+  },
+  "vl6.c2_mistake": {
+    "en": "“Yes, it's hot! (熱い)”",
+    "ru": "«Да, горячо! (熱い)»",
+    "zh": "“是的，好烫！（熱い）”",
+    "ja": "「はい、熱いです！」",
+    "romaji": "'Hai, atsui desu!'"
+  },
+  "vl6.c2_own": {
+    "en": "“It really is hot. Let's drink some cold water somewhere.”",
+    "ru": "«Действительно жарко. Давайте где-нибудь выпьем холодной воды».",
+    "zh": "“真的好热。我们找个地方喝点冷水吧。”",
+    "ja": "「本当に暑いですね。どこかで、冷たい水を飲みましょう。」",
+    "romaji": "'Hontou ni atsui desu ne. Dokoka de, tsumetai mizu o nomimashou.'"
+  },
+  "vl6.c2_min": {
+    "en": "“Ah... hot...”",
+    "ru": "«А… жарко…»",
+    "zh": "“啊……热……”",
+    "ja": "「あ…暑い…」",
+    "romaji": "'A... atsui...'"
+  },
+  "vl6.p2_nat_yuki": {
+    "en": "Right? Hey, shall we rest somewhere?",
+    "ru": "Правда ведь? Слушайте, давайте где-нибудь отдохнём?",
+    "zh": "是吧。哎，我们找个地方休息一下好吗？",
+    "ja": "そうですよね。ねえ、どこかで、休みませんか？",
+    "romaji": "Sou desu yo ne. Nee, dokoka de, yasumimasen ka?"
+  },
+  "vl6.p2_form_ken": {
+    "en": "Haha, that sounds like a weather forecast. “Hontou ni atsui desu ne” is fine.",
+    "ru": "Ха-ха, как в прогнозе погоды. Достаточно «хонто ни ацуй дэс нэ».",
+    "zh": "哈哈，像天气预报一样。说「本当に暑いですね」就好。",
+    "ja": "あはは、天気予報みたいです。「本当に暑いですね」で、いいですよ。",
+    "romaji": "Ahaha, tenki yohou mitai desu. 'Hontou ni atsui desu ne' de, ii desu yo."
+  },
+  "vl6.p2_mis_mei": {
+    "en": "Ha, for weather it's 暑い. 熱い is for tea or hot water.",
+    "ru": "Ха-ха, для погоды — 暑い. 熱い — для чая или горячей воды.",
+    "zh": "呵呵，说天气要用「暑い」。「熱い」是用于茶或热水的哦。",
+    "ja": "ふふ、天気のときは、「暑い」です。「熱い」は、お茶やお湯のときですよ。",
+    "romaji": "Fufu, tenki no toki wa, 'atsui' desu. 'Atsui' wa, ocha ya oyu no toki desu yo."
+  },
+  "vl6.p2_mis_retry": {
+    "en": "Oh, it really is hot.",
+    "ru": "Ой, действительно жарко.",
+    "zh": "啊，真的好热啊。",
+    "ja": "あっ、本当に暑いですね。",
+    "romaji": "A, hontou ni atsui desu ne."
+  },
+  "vl6.p2_mis_relief": {
+    "en": "Right! You understand it well.",
+    "ru": "Верно! Вы хорошо это поняли.",
+    "zh": "对！你理解得很清楚。",
+    "ja": "そうです！ちゃんと、わかっていますね。",
+    "romaji": "Sou desu! Chanto, wakatte imasu ne."
+  },
+  "vl6.p2_own_yuki": {
+    "en": "Good idea! There's a café right nearby. Let's go.",
+    "ru": "Хорошая мысль! Совсем рядом есть кафе. Пойдёмте.",
+    "zh": "好主意！附近就有一家咖啡店。我们去吧。",
+    "ja": "いい考えですね！すぐ近くに、カフェがありますよ。行きましょう。",
+    "romaji": "Ii kangae desu ne! Sugu chikaku ni, kafe ga arimasu yo. Ikimashou."
+  },
+  "vl6.p2_min_tanaka": {
+    "en": "Yes, it is hot. Next time, try adding your feeling: “hontou ni atsui desu ne.”",
+    "ru": "Да, жарко. В следующий раз попробуйте добавить чувство: «хонто ни ацуй дэс нэ».",
+    "zh": "是啊，好热。下次试着把心情加进去：「本当に暑いですね」。",
+    "ja": "そう、暑いですね。次は、「本当に暑いですね」と、気持ちを足してみましょう。",
+    "romaji": "Sou, atsui desu ne. Tsugi wa, 'hontou ni atsui desu ne' to, kimochi o tashite mimashou."
+  },
+  "vl6.cafe": {
+    "en": "Everyone goes into a café near the station. After a cold drink, their bodies relax.",
+    "ru": "Все заходят в кафе рядом с вокзалом. После холодного напитка тело расслабляется.",
+    "zh": "大家走进车站附近的咖啡店。喝了冷饮，身体放松了下来。",
+    "ja": "みんなは、駅の近くのカフェに入った。冷たい飲みものを飲むと、体が、ほっとした。",
+    "romaji": "Minna wa, eki no chikaku no kafe ni haitta. Tsumetai nomimono o nomu to, karada ga, hotto shita."
+  },
+  "vl6.y_tired": {
+    "en": "Phew... I'm a little tired from the long trip.",
+    "ru": "Уф… я немного устала после долгой поездки.",
+    "zh": "呼……长途旅行让我有点累。",
+    "ja": "ふう…長い旅行で、少し疲れています。",
+    "romaji": "Fuu... nagai ryokou de, sukoshi tsukarete imasu."
+  },
+  "vl6.w5": {
+    "en": "This is “tsukarete iru.” It is what you say when your body or mind has no energy.",
+    "ru": "Это «цукарэтэ иру». Так говорят, когда у тела или духа нет сил.",
+    "zh": "这就是「疲れている」。身体或心里没有精神时说的话。",
+    "ja": "これが「疲れている」です。体や心に、元気がないときの言葉です。",
+    "romaji": "Kore ga 'tsukarete iru' desu. Karada ya kokoro ni, genki ga nai toki no kotoba desu."
+  },
+  "vl6.w5_q": {
+    "en": "Are “tsukaremashita” and “tsukarete imasu” different?",
+    "ru": "«Цукарэмасита» и «цукарэтэ имас» — это разное?",
+    "zh": "「疲れました」和「疲れています」有区别吗？",
+    "ja": "「疲れました」と、「疲れています」は、ちがいますか？",
+    "romaji": "'Tsukaremashita' to, 'tsukarete imasu' wa, chigaimasu ka?"
+  },
+  "vl6.w5_a": {
+    "en": "Yes. “Tsukaremashita” is about the moment you became tired. “Tsukarete imasu” describes the state of still being tired now.",
+    "ru": "Да. «Цукарэмасита» — о моменте, когда вы устали. «Цукарэтэ имас» описывает состояние усталости, которое продолжается сейчас.",
+    "zh": "是的。「疲れました」是说当时累了。「疲れています」是说现在仍处于疲惫的状态。",
+    "ja": "はい。「疲れました」は、疲れた、そのときの言葉です。「疲れています」は、今も疲れている状態を言います。",
+    "romaji": "Hai. 'Tsukaremashita' wa, tsukareta, sono toki no kotoba desu. 'Tsukarete imasu' wa, ima mo tsukarete iru joutai o iimasu."
+  },
+  "vl6.w5_mei": {
+    "en": "Yuki, are you all right? I'm a little worried.",
+    "ru": "Юки, вы в порядке? Я немного переживаю.",
+    "zh": "由纪，你没事吧？我有点担心。",
+    "ja": "由紀さん、大丈夫ですか？わたし、ちょっと心配です。",
+    "romaji": "Yuki-san, daijoubu desu ka? Watashi, chotto shinpai desu."
+  },
+  "vl6.w6": {
+    "en": "This is “shinpai,” worry. It is feeling uneasy while thinking of someone dear to you.",
+    "ru": "Это «синпай» — беспокойство. Это тревога, когда вы думаете о дорогом человеке.",
+    "zh": "这就是「心配」。是想到重要的人而心里感到不安。",
+    "ja": "これが「心配」です。大切な人のことを思って、気持ちが不安になることです。",
+    "romaji": "Kore ga 'shinpai' desu. Taisetsu na hito no koto o omotte, kimochi ga fuan ni naru koto desu."
+  },
+  "vl6.p3_prompt": {
+    "en": "Yuki said, “I'm a little tired.” You are worried about her. What do you say?",
+    "ru": "Юки сказала: «Я немного устала». Вы за неё переживаете. Что вы скажете?",
+    "zh": "由纪说：“我有点累。”你很担心她。你会怎么说？",
+    "ja": "由紀さんが、「少し疲れています」と言いました。あなたは、由紀さんが心配です。何と言いますか？",
+    "romaji": "Yuki-san ga, 'Sukoshi tsukarete imasu' to iimashita. Anata wa, Yuki-san ga shinpai desu. Nan to iimasu ka?"
+  },
+  "vl6.c3_natural": {
+    "en": "“Are you all right? I'm worried.”",
+    "ru": "«Вы в порядке? Я переживаю».",
+    "zh": "“你没事吧？我很担心。”",
+    "ja": "「大丈夫ですか？心配です。」",
+    "romaji": "'Daijoubu desu ka? Shinpai desu.'"
+  },
+  "vl6.c3_formal": {
+    "en": "“I am greatly concerned about the state of your health.”",
+    "ru": "«Я крайне обеспокоен состоянием вашего здоровья».",
+    "zh": "“我对您的身体状况十分挂念。”",
+    "ja": "「ご体調のほど、たいへん案じております。」",
+    "romaji": "'Gotaichou no hodo, taihen anjite orimasu.'"
+  },
+  "vl6.c3_mistake": {
+    "en": "“You are tired, aren't you.”",
+    "ru": "«Вы устали, да».",
+    "zh": "“你很累呢。”",
+    "ja": "「疲れていますね。」",
+    "romaji": "'Tsukarete imasu ne.'"
+  },
+  "vl6.c3_own": {
+    "en": "“Are you all right? Let's rest for a bit. I'm worried, so I'll bring you some water.”",
+    "ru": "«Вы в порядке? Давайте немного отдохнём. Я переживаю, поэтому принесу вам воды».",
+    "zh": "“你没事吧？我们休息一下。我很担心，我去给你拿水来。”",
+    "ja": "「大丈夫ですか？少し休みましょう。心配ですから、私が水を持ってきます。」",
+    "romaji": "'Daijoubu desu ka? Sukoshi yasumimashou. Shinpai desu kara, watashi ga mizu o motte kimasu.'"
+  },
+  "vl6.c3_min": {
+    "en": "“Ah... um...”",
+    "ru": "«А… э-э…»",
+    "zh": "“啊……呃……”",
+    "ja": "「あ…えっと…」",
+    "romaji": "'A... etto...'"
+  },
+  "vl6.p3_nat_yuki": {
+    "en": "Thank you. I'm fine. I'm glad that you worry about me.",
+    "ru": "Спасибо. Я в порядке. Мне приятно, что вы переживаете.",
+    "zh": "谢谢。我没事。你为我担心，我很高兴。",
+    "ja": "ありがとう。大丈夫です。心配してくれて、うれしいです。",
+    "romaji": "Arigatou. Daijoubu desu. Shinpai shite kurete, ureshii desu."
+  },
+  "vl6.p3_form_yuki": {
+    "en": "Ha, you sound like a doctor. Between friends, “Daijoubu?” is plenty.",
+    "ru": "Ха-ха, как врач. Друзьям достаточно «дайдзёбу?».",
+    "zh": "呵呵，像医生一样。对朋友说「大丈夫？」就足够了。",
+    "ja": "ふふ、お医者さんみたいです。友達には、「大丈夫？」で、じゅうぶんですよ。",
+    "romaji": "Fufu, oishasan mitai desu. Tomodachi ni wa, 'Daijoubu?' de, juubun desu yo."
+  },
+  "vl6.p3_mis_ken": {
+    "en": "It's not wrong, but on its own it sounds a little cold. Let's add “daijoubu desu ka?” too.",
+    "ru": "Это не ошибка, но само по себе звучит немного холодно. Давайте добавим ещё «дайдзёбу дэс ка?».",
+    "zh": "不算错，但只说这一句，听起来有点冷淡。再加上「大丈夫ですか？」吧。",
+    "ja": "間違いではないけれど、それだけだと、少し冷たく聞こえます。「大丈夫ですか？」も、つけましょう。",
+    "romaji": "Machigai de wa nai keredo, sore dake da to, sukoshi tsumetaku kikoemasu. 'Daijoubu desu ka?' mo, tsukemashou."
+  },
+  "vl6.p3_mis_retry": {
+    "en": "Oh, Yuki, are you all right? I'm worried.",
+    "ru": "Ой, Юки, вы в порядке? Я переживаю.",
+    "zh": "啊，由纪，你没事吧？我很担心。",
+    "ja": "あっ、由紀さん、大丈夫ですか？心配です。",
+    "romaji": "A, Yuki-san, daijoubu desu ka? Shinpai desu."
+  },
+  "vl6.p3_mis_relief": {
+    "en": "Thank you. That one phrase gave me energy.",
+    "ru": "Спасибо. От этой одной фразы у меня прибавилось сил.",
+    "zh": "谢谢。就这一句话，让我有精神了。",
+    "ja": "ありがとう。その一言で、元気が出ました。",
+    "romaji": "Arigatou. Sono hitokoto de, genki ga demashita."
+  },
+  "vl6.p3_own_yuki": {
+    "en": "How kind. Thank you. Then let me rest for a little.",
+    "ru": "Как мило. Спасибо. Тогда позвольте мне немного отдохнуть.",
+    "zh": "你真体贴。谢谢。那就让我休息一会儿吧。",
+    "ja": "やさしいですね。ありがとう。では、少し休ませてください。",
+    "romaji": "Yasashii desu ne. Arigatou. Dewa, sukoshi yasumasete kudasai."
+  },
+  "vl6.p3_min_mei": {
+    "en": "It's okay. Next time, try asking, “Daijoubu desu ka?”",
+    "ru": "Всё нормально. В следующий раз попробуйте спросить «дайдзёбу дэс ка?».",
+    "zh": "没关系。下次试着问一句「大丈夫ですか？」。",
+    "ja": "だいじょうぶですよ。次は、「大丈夫ですか？」と、聞いてみましょう。",
+    "romaji": "Daijoubu desu yo. Tsugi wa, 'Daijoubu desu ka?' to, kiite mimashou."
+  },
+  "vl6.m_nervous": {
+    "en": "Actually, me too... Tomorrow there is a Japanese speech contest. I'm a little nervous...",
+    "ru": "Вообще-то я тоже… Завтра конкурс речей на японском. Я немного волнуюсь…",
+    "zh": "其实我也是……明天有日语演讲比赛。我有点紧张……",
+    "ja": "実は、わたしも…。あした、日本語のスピーチ大会があるんです。ちょっと、緊張してる…。",
+    "romaji": "Jitsu wa, watashi mo.... Ashita, nihongo no supiichi taikai ga aru n desu. Chotto, kinchou shiteru...."
+  },
+  "vl6.w7": {
+    "en": "“Kinchou shiteru” is the casual, friend-to-friend form of “kinchou shite iru.” It is the feeling of your heart pounding and your body stiffening.",
+    "ru": "«Кинтё ситэру» — разговорная форма «кинтё ситэ иру», как говорят друзьям. Это чувство, когда колотится сердце и тело каменеет.",
+    "zh": "「緊張してる」是「緊張している」在朋友之间的说法。是心怦怦跳、身体变僵硬的感觉。",
+    "ja": "「緊張してる」は、「緊張している」の、友達との言い方です。どきどきして、体が固くなる気持ちです。",
+    "romaji": "'Kinchou shiteru' wa, 'kinchou shite iru' no, tomodachi to no iikata desu. Dokidoki shite, karada ga katakunaru kimochi desu."
+  },
+  "vl6.w8": {
+    "en": "At times like that, friends can practice “issho ni,” together. “Issho ni ~ shimashou” is a way to invite someone to do something together.",
+    "ru": "В такие моменты друзья могут тренироваться «иссё ни» — вместе. «Иссё ни ~ симасё» — способ пригласить сделать что-то вместе.",
+    "zh": "这种时候，朋友们可以「一緒に」练习。「一緒に〜しましょう」是邀请对方一起做某事的说法。",
+    "ja": "そんなとき、友達は、「いっしょに」練習することができます。「一緒に〜しましょう」は、いっしょにしようと、さそう言い方です。",
+    "romaji": "Sonna toki, tomodachi wa, 'issho ni' renshuu suru koto ga dekimasu. 'Issho ni ~ shimashou' wa, issho ni shiyou to, sasou iikata desu."
+  },
+  "vl6.w8_q": {
+    "en": "Can “issho ni” be used with anyone?",
+    "ru": "«Иссё ни» можно говорить кому угодно?",
+    "zh": "「一緒に」对谁都能用吗？",
+    "ja": "「一緒に」は、だれとでも使えますか？",
+    "romaji": "'Issho ni' wa, dare to demo tsukaemasu ka?"
+  },
+  "vl6.w8_a": {
+    "en": "Yes. You can use it with friends, teachers, and family. For a more polite version, say “goissho shimashou.”",
+    "ru": "Да. Его можно использовать с друзьями, учителями и семьёй. В вежливой форме говорят «гоиссё симасё».",
+    "zh": "可以。对朋友、老师、家人都能用。想说得礼貌一些，就说「ご一緒しましょう」。",
+    "ja": "はい。友達にも、先生にも、家族にも使えます。ていねいに言うときは、「ご一緒しましょう」と言います。",
+    "romaji": "Hai. Tomodachi ni mo, sensei ni mo, kazoku ni mo tsukaemasu. Teinei ni iu toki wa, 'goissho shimashou' to iimasu."
+  },
+  "vl6.p4_prompt": {
+    "en": "Mei said, “I'm nervous.” You want to encourage her. What do you say?",
+    "ru": "Мэй сказала: «Я волнуюсь». Вы хотите её подбодрить. Что вы скажете?",
+    "zh": "小梅说：“我很紧张。”你想鼓励她。你会怎么说？",
+    "ja": "メイさんが、「緊張してる」と言いました。あなたは、メイさんを、はげましたいです。何と言いますか？",
+    "romaji": "Mei-san ga, 'Kinchou shiteru' to iimashita. Anata wa, Mei-san o, hagemashitai desu. Nan to iimasu ka?"
+  },
+  "vl6.c4_natural": {
+    "en": "“It's okay. Let's practice together.”",
+    "ru": "«Всё будет хорошо. Давайте потренируемся вместе».",
+    "zh": "“没事的。我们一起练习吧。”",
+    "ja": "「大丈夫ですよ。一緒に、練習しましょう。」",
+    "romaji": "'Daijoubu desu yo. Issho ni, renshuu shimashou.'"
+  },
+  "vl6.c4_formal": {
+    "en": "“I understand that you must be nervous. I would be honored to practice together with you.”",
+    "ru": "«Понимаю, что вы, должно быть, волнуетесь. Буду рад, если позволите потренироваться вместе с вами».",
+    "zh": "“我理解您一定很紧张。若能与您一同练习，将是我的荣幸。”",
+    "ja": "「ご緊張のこととお察しいたします。ご一緒に練習させていただければ幸いです。」",
+    "romaji": "'Gokinchou no koto to osshi itashimasu. Goissho ni renshuu sasete itadakereba saiwai desu.'"
+  },
+  "vl6.c4_mistake": {
+    "en": "“I'll do my best!”",
+    "ru": "«Я буду стараться!»",
+    "zh": "“我会加油的！”",
+    "ja": "「頑張ります！」",
+    "romaji": "'Ganbarimasu!'"
+  },
+  "vl6.c4_own": {
+    "en": "“I used to be nervous a lot too. But if we practice together, you'll be fine.”",
+    "ru": "«Раньше я тоже часто волновалась. Но если потренироваться вместе, всё будет хорошо».",
+    "zh": "“我以前也经常紧张。不过，只要一起练习，就没问题的。”",
+    "ja": "「私も、前は、緊張してる時が多かったです。でも、一緒に練習すれば、大丈夫です。」",
+    "romaji": "'Watashi mo, mae wa, kinchou shiteru toki ga ookatta desu. Demo, issho ni renshuu sureba, daijoubu desu.'"
+  },
+  "vl6.c4_min": {
+    "en": "“D-do your best...”",
+    "ru": "«С-старайся…»",
+    "zh": "“加……加油……”",
+    "ja": "「が…頑張って…」",
+    "romaji": "'Ga... ganbatte...'"
+  },
+  "vl6.p4_nat_mei": {
+    "en": "Thank you! Together, I feel a bit safer.",
+    "ru": "Спасибо! Вместе мне немного спокойнее.",
+    "zh": "谢谢！有你一起，我稍微安心了一点。",
+    "ja": "ありがとう！一緒なら、ちょっと安心です。",
+    "romaji": "Arigatou! Issho nara, chotto anshin desu."
+  },
+  "vl6.p4_form_ken": {
+    "en": "Haha, that's exaggerated. Between friends, “issho ni renshuu shiyou” is enough.",
+    "ru": "Ха-ха, слишком пафосно. Для друзей достаточно «иссё ни рэнсю сиё».",
+    "zh": "哈哈，太夸张了。朋友之间，说「一緒に練習しよう」就足够了。",
+    "ja": "あはは、大げさです。友達なら、「一緒に練習しよう」で、じゅうぶんです。",
+    "romaji": "Ahaha, oogesa desu. Tomodachi nara, 'issho ni renshuu shiyou' de, juubun desu."
+  },
+  "vl6.p4_mis_mei": {
+    "en": "Ha, “ganbarimasu” expresses your own resolve. To me, it should be “ganbatte ne.”",
+    "ru": "Ха-ха, «гамбаримас» выражает вашу собственную решимость. Мне нужно сказать «гамбатэ нэ».",
+    "zh": "呵呵，「頑張ります」是你自己的决心哦。对我应该说「頑張ってね」。",
+    "ja": "ふふ、「頑張ります」は、自分の決意ですよ。わたしには、「頑張ってね」です。",
+    "romaji": "Fufu, 'ganbarimasu' wa, jibun no ketsui desu yo. Watashi ni wa, 'ganbatte ne' desu."
+  },
+  "vl6.p4_mis_retry": {
+    "en": "Oh, do your best. Let's practice together!",
+    "ru": "Ой, старайся. Давайте потренируемся вместе!",
+    "zh": "啊，加油哦。我们一起练习吧！",
+    "ja": "あっ、頑張ってね。一緒に練習しましょう！",
+    "romaji": "A, ganbatte ne. Issho ni renshuu shimashou!"
+  },
+  "vl6.p4_mis_relief": {
+    "en": "Yes! Thank you. I'm happy.",
+    "ru": "Да! Спасибо. Мне приятно.",
+    "zh": "好！谢谢。我很开心。",
+    "ja": "はい！ありがとう。うれしいです。",
+    "romaji": "Hai! Arigatou. Ureshii desu."
+  },
+  "vl6.p4_own_mei": {
+    "en": "Really? Somehow, I feel braver now.",
+    "ru": "Правда? Как-то стало смелее.",
+    "zh": "咦，是这样吗？不知怎么的，我有勇气了。",
+    "ja": "えっ、そうなんですか？なんだか、勇気が出ました。",
+    "romaji": "E, sou nan desu ka? Nandaka, yuuki ga demashita."
+  },
+  "vl6.p4_min_yuki": {
+    "en": "Your feeling comes across. Next time, try inviting her: “issho ni renshuu shimashou.”",
+    "ru": "Ваше чувство понятно. В следующий раз попробуйте пригласить: «иссё ни рэнсю симасё».",
+    "zh": "心意能传达。下次试着邀请她：「一緒に練習しましょう」。",
+    "ja": "気持ちは伝わりますよ。次は、「一緒に練習しましょう」と、さそってみましょう。",
+    "romaji": "Kimochi wa tsutawarimasu yo. Tsugi wa, 'issho ni renshuu shimashou' to, sasotte mimashou."
+  },
+  "vl6.w9": {
+    "en": "Everyone, today you put many different “kimochi,” feelings, into words. “Kimochi” means how you feel inside.",
+    "ru": "Все, сегодня вы выразили словами много разных «кимоти» — чувств. «Кимоти» — это то, что вы ощущаете внутри.",
+    "zh": "各位，今天你们把各种各样的「気持ち」说成了话。「気持ち」是指心里的感受。",
+    "ja": "みなさん、今日は、いろいろな「気持ち」を、言葉にしました。「気持ち」は、心の中の感じ方のことです。",
+    "romaji": "Minasan, kyou wa, iroiro na 'kimochi' o, kotoba ni shimashita. 'Kimochi' wa, kokoro no naka no kanjikata no koto desu."
+  },
+  "vl6.w10": {
+    "en": "And when you feel good, it is “ureshii,” happy. You say it when something good happens and your heart brightens.",
+    "ru": "А когда на душе хорошо, говорят «урэсий» — радостно. Так говорят, когда происходит что-то хорошее и на сердце светлеет.",
+    "zh": "而心情好的时候，就说「嬉しい」。发生了好事、心里变得明亮时使用。",
+    "ja": "そして、いい気持ちのときは、「嬉しい」です。何かいいことがあって、心が明るくなるときに言います。",
+    "romaji": "Soshite, ii kimochi no toki wa, 'ureshii' desu. Nani ka ii koto ga atte, kokoro ga akaruku naru toki ni iimasu."
+  },
+  "vl6.y_thanks": {
+    "en": "Thank you all for coming.",
+    "ru": "Спасибо всем, что пришли.",
+    "zh": "谢谢大家来接我。",
+    "ja": "みんな、来てくれて、ありがとう。",
+    "romaji": "Minna, kite kurete, arigatou."
+  },
+  "vl6.p5_prompt": {
+    "en": "Yuki said, “Thank you for coming.” You feel good too. What do you say?",
+    "ru": "Юки сказала: «Спасибо, что пришли». Вам тоже хорошо на душе. Что вы скажете?",
+    "zh": "由纪说：“谢谢你们来。”你心里也很高兴。你会怎么说？",
+    "ja": "由紀さんが、「来てくれて、ありがとう」と言いました。あなたも、いい気持ちです。何と言いますか？",
+    "romaji": "Yuki-san ga, 'Kite kurete, arigatou' to iimashita. Anata mo, ii kimochi desu. Nan to iimasu ka?"
+  },
+  "vl6.c5_natural": {
+    "en": "“I'm happy to see you.”",
+    "ru": "«Я рада вас видеть».",
+    "zh": "“能见到你，我很高兴。”",
+    "ja": "「会えて、嬉しいです。」",
+    "romaji": "'Aete, ureshii desu.'"
+  },
+  "vl6.c5_formal": {
+    "en": "“To be granted an audience is a joy beyond what I deserve.”",
+    "ru": "«Удостоиться встречи — радость, превосходящая мои заслуги».",
+    "zh": "“能与您相见，喜不自胜。”",
+    "ja": "「お目にかかれて、身に余る喜びでございます。」",
+    "romaji": "'Ome ni kakarete, mi ni amaru yorokobi de gozaimasu.'"
+  },
+  "vl6.c5_mistake": {
+    "en": "“I'm not happy.”",
+    "ru": "«Я не рада».",
+    "zh": "“我不高兴。”",
+    "ja": "「嬉しくないです。」",
+    "romaji": "'Ureshikunai desu.'"
+  },
+  "vl6.c5_own": {
+    "en": "“I'm really happy to see you. Being together with everyone today feels great.”",
+    "ru": "«Я действительно рада вас видеть. Быть сегодня всем вместе — приятное чувство».",
+    "zh": "“能见到你真的很高兴。今天大家在一起，心情特别好。”",
+    "ja": "「会えて、本当に嬉しいです。今日は、みんなで一緒にいられて、いい気持ちです。」",
+    "romaji": "'Aete, hontou ni ureshii desu. Kyou wa, minna de issho ni irarete, ii kimochi desu.'"
+  },
+  "vl6.c5_min": {
+    "en": "“Yeah... happy...”",
+    "ru": "«Да… рада…»",
+    "zh": "“嗯……高兴……”",
+    "ja": "「うん…嬉しい…」",
+    "romaji": "'Un... ureshii...'"
+  },
+  "vl6.p5_nat_yuki": {
+    "en": "I'm happy too! Seeing everyone made my heart warm.",
+    "ru": "Я тоже рада! От встречи со всеми на сердце стало тепло.",
+    "zh": "我也很高兴！见到大家，心里暖暖的。",
+    "ja": "わたしも、嬉しいです！みんなに会えて、心があたたかくなりました。",
+    "romaji": "Watashi mo, ureshii desu! Minna ni aete, kokoro ga atatakaku narimashita."
+  },
+  "vl6.p5_form_mei": {
+    "en": "Ha, it sounds as if you met a king. “Ureshii desu” carries the feeling just fine.",
+    "ru": "Ха-ха, как будто вы встретили короля. «Урэсий дэс» прекрасно передаёт чувство.",
+    "zh": "呵呵，像见到国王似的。说「嬉しいです」，心意就能传达。",
+    "ja": "ふふ、王様に会ったみたいです。「嬉しいです」で、気持ちは伝わりますよ。",
+    "romaji": "Fufu, ousama ni atta mitai desu. 'Ureshii desu' de, kimochi wa tsutawarimasu yo."
+  },
+  "vl6.p5_mis_ken": {
+    "en": "Huh!? Aren't you feeling good right now? Yuki will feel sad.",
+    "ru": "Что!? Разве вам сейчас не хорошо? Юки расстроится.",
+    "zh": "什么！？你现在心情不好吗？由纪会难过的。",
+    "ja": "えっ！？今は、いい気持ちではないですか？由紀さんが、かなしんでしまいますよ。",
+    "romaji": "E!? Ima wa, ii kimochi de wa nai desu ka? Yuki-san ga, kanashinde shimaimasu yo."
+  },
+  "vl6.p5_mis_retry": {
+    "en": "Oh, no! I'm happy to see you.",
+    "ru": "Ой, нет! Я рада вас видеть.",
+    "zh": "啊，不是的！能见到你，我很高兴。",
+    "ja": "あっ、ちがいます！会えて、嬉しいです。",
+    "romaji": "A, chigaimasu! Aete, ureshii desu."
+  },
+  "vl6.p5_mis_relief": {
+    "en": "Ha, you startled me. I'm happy too!",
+    "ru": "Ха-ха, вы меня напугали. Я тоже рада!",
+    "zh": "呵呵，吓了我一跳。我也很高兴！",
+    "ja": "ふふ、びっくりしました。わたしも、嬉しいです！",
+    "romaji": "Fufu, bikkuri shimashita. Watashi mo, ureshii desu!"
+  },
+  "vl6.p5_own_yuki": {
+    "en": "I feel the same way. Today has become a good day.",
+    "ru": "Я чувствую то же. Сегодня выдался хороший день.",
+    "zh": "我也是一样的心情。今天真是美好的一天。",
+    "ja": "わたしも、同じ気持ちです。今日は、いい一日になりました。",
+    "romaji": "Watashi mo, onaji kimochi desu. Kyou wa, ii ichinichi ni narimashita."
+  },
+  "vl6.p5_min_mei": {
+    "en": "Yes, it comes across. Try saying more, like “aete, ureshii desu.”",
+    "ru": "Да, понятно. Попробуйте сказать чуть больше, например «аэтэ, урэсий дэс».",
+    "zh": "嗯，能传达。试着多说一点，比如「会えて、嬉しいです」。",
+    "ja": "うん、伝わりますよ。「会えて、嬉しいです」と、もっと言ってみましょう。",
+    "romaji": "Un, tsutawarimasu yo. 'Aete, ureshii desu' to, motto itte mimashou."
+  },
+  "vl6.talk_open": {
+    "en": "Now let's talk. Out of today's ten words, which one lets you say how you feel right now?",
+    "ru": "Теперь поговорим. Какое из сегодняшних десяти слов позволяет выразить ваши чувства прямо сейчас?",
+    "zh": "现在来聊聊。今天这十个词里，哪个词能说出你现在的心情？",
+    "ja": "では、話しましょう。今日の十の言葉の中で、今の気持ちを言える言葉は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no juu no kotoba no naka de, ima no kimochi o ieru kotoba wa, dore desu ka?"
+  },
+  "vl6.talk_mei": {
+    "en": "For me, it's “kinchou shiteru,” but since everyone is with me, I feel a little safer.",
+    "ru": "У меня это «кинтё ситэру», но раз все рядом со мной, я чувствую себя спокойнее.",
+    "zh": "我是「緊張してる」，不过因为大家都在，我稍微安心了一些。",
+    "ja": "わたしは、「緊張してる」ですが、みんなが、一緒にいるので、少し安心しています。",
+    "romaji": "Watashi wa, 'kinchou shiteru' desu ga, minna ga, issho ni iru node, sukoshi anshin shite imasu."
+  },
+  "vl6.talk_ken": {
+    "en": "For me, it's “ureshii.” We're finally all together after a long time.",
+    "ru": "Для меня это «урэсий». Мы наконец все вместе после долгого перерыва.",
+    "zh": "我是「嬉しい」。大家很久没这样聚齐了。",
+    "ja": "ぼくは、「嬉しい」です。久しぶりに、みんな、そろいました。",
+    "romaji": "Boku wa, 'ureshii' desu. Hisashiburi ni, minna, soroimashita."
+  },
+  "vl6.talk_yuki": {
+    "en": "For me, I'm “tsukarete iru” but also “ureshii.” I have both feelings.",
+    "ru": "У меня «цукарэтэ иру», но и «урэсий». Во мне живут оба чувства.",
+    "zh": "我是「疲れている」，但也「嬉しい」。两种心情都有。",
+    "ja": "わたしは、「疲れている」けど、「嬉しい」です。両方の気持ちがあります。",
+    "romaji": "Watashi wa, 'tsukarete iru' kedo, 'ureshii' desu. Ryouhou no kimochi ga arimasu."
+  },
+  "vl6.talk_tanaka": {
+    "en": "Lovely. Your feelings don't need to be just one. When you can put them into words, your friends can understand.",
+    "ru": "Прекрасно. Чувство не обязано быть одним. Когда вы можете выразить его словами, друзья вас поймут.",
+    "zh": "真好。心情不必只有一种。能说出口，朋友就能明白。",
+    "ja": "すてきですね。気持ちは、一つでなくてもいいのです。言葉にできると、友達に伝わります。",
+    "romaji": "Suteki desu ne. Kimochi wa, hitotsu de nakute mo ii no desu. Kotoba ni dekiru to, tomodachi ni tsutawarimasu."
+  },
+  "vl6.talk_player": {
+    "en": "(Hot, tired, nervous, happy. When you put your feelings into words, the distance to your friends gets much shorter. Tomorrow, I'll cheer for Mei's speech.)",
+    "ru": "(Жарко, устал, волнуюсь, рад. Когда чувства выражены словами, расстояние до друзей заметно сокращается. Завтра я буду болеть за речь Мэй.)",
+    "zh": "（热、累、紧张、高兴。把心情说出口，和朋友之间的距离一下子近了很多。明天，我要为小梅的演讲加油。）",
+    "ja": "（暑い、疲れている、緊張してる、嬉しい。気持ちを言葉にすると、友達との距離が、ぐっと近くなる。あしたは、メイさんのスピーチを応援しよう。）",
+    "romaji": "(Atsui, tsukarete iru, kinchou shiteru, ureshii. Kimochi o kotoba ni suru to, tomodachi to no kyori ga, gutto chikaku naru. Ashita wa, Mei-san no supiichi o ouen shiyou.)"
+  },
+  "vl6.talk_close": {
+    "en": "Good lesson, everyone. You used all ten words about feelings in real situations.",
+    "ru": "Хороший урок, все. Вы использовали все десять слов о чувствах в настоящих ситуациях.",
+    "zh": "各位，这节课很棒。你们在真实的场景中用上了这十个关于心情的词。",
+    "ja": "みなさん、いいレッスンでした。気持ちについての十の言葉を、本当の場面で使えましたね。",
+    "romaji": "Minasan, ii ressun deshita. Kimochi ni tsuite no juu no kotoba o, hontou no bamen de tsukaemashita ne."
+  },
+  "vl6.complete": {
+    "en": "End of Vocabulary Lesson 6.",
+    "ru": "Конец урока лексики 6.",
+    "zh": "词汇课 6 结束。",
+    "ja": "語彙レッスン6、おわり。",
+    "romaji": "Goi ressun roku, owari."
+  }
+}

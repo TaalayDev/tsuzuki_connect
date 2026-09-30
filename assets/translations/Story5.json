@@ -1,0 +1,3450 @@
+{
+  "s5.title": {
+    "en": "The Retirement",
+    "ru": "Выход на пенсию",
+    "zh": "退休生活",
+    "ko": "은퇴 생활",
+    "ja": "退職後の暮らし",
+    "romaji": "Taishokugo no kurashi"
+  },
+  "s5.subtitle": {
+    "en": "六十七歳の挑戦",
+    "ru": "Вызов в шестьдесят семь лет (六十七歳の挑戦)",
+    "zh": "六十七岁的挑战 (六十七歳の挑戦)",
+    "ko": "예순일곱 살의 도전 (六十七歳の挑戦)",
+    "ja": "六十七歳の挑戦",
+    "romaji": "Rokujuunana-sai no chousen"
+  },
+  "s5.desc": {
+    "en": "Follow Margaret Thompson, a 67-year-old retired teacher who moves to suburban Tokyo to be near her son—and discovers it's never too late to belong somewhere new.",
+    "ru": "Следуйте за Маргарет Томпсон, 67-летней учительницей на пенсии, которая переезжает в пригород Токио, чтобы быть рядом с сыном, и обнаруживает, что никогда не поздно найти свое место в новом мире.",
+    "zh": "跟随 67 岁的退休教师玛格丽特·汤普森（Margaret Thompson）搬进东京郊区，住到儿子家附近——并发现无论何时融入新环境都不算晚。",
+    "ko": "아들 근처에 살기 위해 도교 근교로 이사 온 67세의 은퇴 교사 마가렛 톰슨을 따라가 보세요. 새로운 곳에 소속되기에 결코 늦은 때란 없다는 것을 깨닫게 될 것입니다.",
+    "ja": "息子の近くに住むため東京郊外へと移住した67歳の元教師、マーガレット・トンプソン。新しい場所に居場所を見つけるのに、遅すぎることはない――。",
+    "romaji": "Musuko no chikaku ni sumu tame Toukyou kougai e to ijuu shita rokujuunana-sai no moto kyoushi, Maagaretto Tonpuson. Atarashii basho ni ibasho o mitsukeru no ni, ososugiru koto wa nai――."
+  },
+  "s5.card_title": {
+    "en": "STORY 5",
+    "ru": "ИСТОРИЯ 5",
+    "zh": "故事 5",
+    "ko": "이야기 5",
+    "ja": "ストーリー5",
+    "romaji": "Sutoorii 5"
+  },
+  "s5.card_subtitle": {
+    "en": "The Retirement",
+    "ru": "Выход на пенсию",
+    "zh": "退休生活",
+    "ko": "은퇴 생활",
+    "ja": "退職後の暮らし",
+    "romaji": "Taishokugo no kurashi"
+  },
+  "s5.v.byouin": {
+    "en": "Hospital",
+    "ru": "Больница",
+    "zh": "医院",
+    "ko": "병원",
+    "ja": "病院",
+    "romaji": "Byouin"
+  },
+  "s5.v.yakkyoku": {
+    "en": "Pharmacy",
+    "ru": "Аптека",
+    "zh": "药房",
+    "ko": "약국",
+    "ja": "薬局",
+    "romaji": "Yakkyoku"
+  },
+  "s5.v.shohousen": {
+    "en": "Prescription",
+    "ru": "Рецепт",
+    "zh": "处方",
+    "ko": "처방전",
+    "ja": "処方箋",
+    "romaji": "Shohousen"
+  },
+  "s5.v.ketsuatsu": {
+    "en": "Blood pressure",
+    "ru": "Кровяное давление",
+    "zh": "血压",
+    "ko": "혈압",
+    "ja": "血圧",
+    "romaji": "Ketsuatsu"
+  },
+  "s5.v.teiki_kenshin": {
+    "en": "Regular checkup",
+    "ru": "Регулярный осмотр",
+    "zh": "定期检查",
+    "ko": "정기 검진",
+    "ja": "定期検診",
+    "romaji": "Teiki kenshin"
+  },
+  "s5.v.shoujou": {
+    "en": "Symptoms",
+    "ru": "Симптомы",
+    "zh": "症状",
+    "ko": "증상",
+    "ja": "症状",
+    "romaji": "Shoujou"
+  },
+  "s5.v.chiiki": {
+    "en": "Local area / community",
+    "ru": "Местный район / община",
+    "zh": "社区",
+    "ko": "지역 사회",
+    "ja": "地域",
+    "romaji": "Chiiki"
+  },
+  "s5.v.chounai_kai": {
+    "en": "Neighborhood association",
+    "ru": "Ассоциация соседей",
+    "zh": "居委会",
+    "ko": "반상회/부녀회",
+    "ja": "町内会",
+    "romaji": "Chounai kai"
+  },
+  "s5.v.kouminkan": {
+    "en": "Community center",
+    "ru": "Общественный центр",
+    "zh": "社区中心",
+    "ko": "공민관 (주민 센터)",
+    "ja": "公民館",
+    "romaji": "Kouminkan"
+  },
+  "s5.v.naraigoto": {
+    "en": "Lessons / hobby class",
+    "ru": "Уроки / хобби-класс",
+    "zh": "兴趣班",
+    "ko": "배움/취미 교실",
+    "ja": "習い事",
+    "romaji": "Naraigoto"
+  },
+  "s5.v.shumi": {
+    "en": "Hobby",
+    "ru": "Хобби",
+    "zh": "爱好",
+    "ko": "취미",
+    "ja": "趣味",
+    "romaji": "Shumi"
+  },
+  "s5.v.shugei": {
+    "en": "Handicrafts",
+    "ru": "Рукоделие",
+    "zh": "手工艺",
+    "ko": "수공예",
+    "ja": "手芸",
+    "romaji": "Shugei"
+  },
+  "s5.v.michi_ni_mayou": {
+    "en": "To get lost",
+    "ru": "Заблудиться",
+    "zh": "迷路",
+    "ko": "길을 잃다",
+    "ja": "道に迷う",
+    "romaji": "Michi ni mayou"
+  },
+  "s5.v.oshiete_itadakemasu_ka": {
+    "en": "Could you please tell me?",
+    "ru": "Не могли бы вы мне сказать?",
+    "zh": "能请您告诉我吗？",
+    "ko": "가르쳐 주시겠습니까?",
+    "ja": "教えていただけますか",
+    "romaji": "Oshiete itadakemasu ka"
+  },
+  "s5.v.mou_ichido": {
+    "en": "Once more / again",
+    "ru": "Еще раз",
+    "zh": "再次",
+    "ko": "한 번 더",
+    "ja": "もう一度",
+    "romaji": "Mou ichido"
+  },
+  "s5.v.yukkuri": {
+    "en": "Slowly",
+    "ru": "Медленно",
+    "zh": "慢慢地",
+    "ko": "천천히",
+    "ja": "ゆっくり",
+    "romaji": "Yukkuri"
+  },
+  "s5.v.sumimasen": {
+    "en": "Excuse me / I'm sorry",
+    "ru": "Извините",
+    "zh": "不好意思 / 对不起",
+    "ko": "죄송합니다/실례합니다",
+    "ja": "すみません",
+    "romaji": "Sumimasen"
+  },
+  "s5.v.musuko": {
+    "en": "Son",
+    "ru": "Сын",
+    "zh": "儿子",
+    "ko": "아들",
+    "ja": "息子",
+    "romaji": "Musuko"
+  },
+  "s5.v.yome": {
+    "en": "Daughter-in-law / bride",
+    "ru": "Невестка",
+    "zh": "儿媳",
+    "ko": "며느리",
+    "ja": "嫁",
+    "romaji": "Yome"
+  },
+  "s5.v.mago": {
+    "en": "Grandchild",
+    "ru": "Внук/внучка",
+    "zh": "孙辈",
+    "ko": "손주",
+    "ja": "孫",
+    "romaji": "Mago"
+  },
+  "s5.v.sewa_ni_naru": {
+    "en": "To be taken care of / to receive help",
+    "ru": "Получать помощь / заботу",
+    "zh": "承蒙照顾",
+    "ko": "신세를 지다/도움을 받다",
+    "ja": "世話になる",
+    "romaji": "Sewa ni naru"
+  },
+  "s5.v.enryo": {
+    "en": "Holding back / reserve / not wanting to impose",
+    "ru": "Сдержанность / нежелание навязываться",
+    "zh": "客气",
+    "ko": "엔료 (사양하다/조심하다)",
+    "ja": "遠慮",
+    "romaji": "Enryo"
+  },
+  "s5.v.hazukashii": {
+    "en": "Embarrassed / ashamed",
+    "ru": "Смущенный / пристыженный",
+    "zh": "不好意思 / 羞愧",
+    "ko": "부끄럽다/창피하다",
+    "ja": "恥ずかしい",
+    "romaji": "Hazukashii"
+  },
+  "s5.v.akirameru": {
+    "en": "To give up",
+    "ru": "Сдаваться",
+    "zh": "放弃",
+    "ko": "포기하다",
+    "ja": "諦める",
+    "romaji": "Akirameru"
+  },
+  "s5.v.chousen": {
+    "en": "Challenge / attempt",
+    "ru": "Вызов / попытка",
+    "zh": "挑战",
+    "ko": "도전",
+    "ja": "挑戦",
+    "romaji": "Chousen"
+  },
+  "s5.v.jishin": {
+    "en": "Confidence",
+    "ru": "Уверенность",
+    "zh": "自信",
+    "ko": "자신감",
+    "ja": "自信",
+    "romaji": "Jishin"
+  },
+  "s5.v.nakama": {
+    "en": "Companion / fellow member",
+    "ru": "Товарищ / член группы",
+    "zh": "同伴 / 伙伴",
+    "ko": "동료/동지",
+    "ja": "仲間",
+    "romaji": "Nakama"
+  },
+  "s5.v.igokochi_ga_ii": {
+    "en": "Comfortable (of a place / situation)",
+    "ru": "Комфортный (о месте / ситуации)",
+    "zh": "惬意 / 舒适",
+    "ko": "기분이 편안하다",
+    "ja": "居心地がいい",
+    "romaji": "Igokochi ga ii"
+  },
+  "s5.v.kaigyou": {
+    "en": "Opening a business",
+    "ru": "Открытие дела",
+    "zh": "开业",
+    "ko": "개업",
+    "ja": "開業",
+    "romaji": "Kaigyou"
+  },
+  "s5.v.yachin": {
+    "en": "Rent",
+    "ru": "Арендная плата",
+    "zh": "房租",
+    "ko": "집세 (월세)",
+    "ja": "家賃",
+    "romaji": "Yachin"
+  },
+  "s5.v.heiten": {
+    "en": "Closing (a business)",
+    "ru": "Закрытие (бизнеса)",
+    "zh": "停业",
+    "ko": "폐점",
+    "ja": "閉店",
+    "romaji": "Heiten"
+  },
+  "s5.v.omoide": {
+    "en": "Memories",
+    "ru": "Воспоминания",
+    "zh": "回忆",
+    "ko": "추억",
+    "ja": "思い出",
+    "romaji": "Omoide"
+  },
+  "s5.v.koukai": {
+    "en": "Regret",
+    "ru": "Сожаление",
+    "zh": "后悔",
+    "ko": "후회",
+    "ja": "後悔",
+    "romaji": "Koukai"
+  },
+  "s5.v.furikaeru": {
+    "en": "To look back (on)",
+    "ru": "Оглядываться назад",
+    "zh": "回顾",
+    "ko": "뒤돌아보다",
+    "ja": "振り返る",
+    "romaji": "Furikaeru"
+  },
+  "s5.v.sou_sou": {
+    "en": "That's right / exactly",
+    "ru": "Верно / именно так",
+    "zh": "没错 / 正是如此",
+    "ko": "맞아요/바로 그거예요",
+    "ja": "そうそう",
+    "romaji": "Sou sou"
+  },
+  "s5.v.shokugo": {
+    "en": "After a meal",
+    "ru": "После еды",
+    "zh": "饭后",
+    "ko": "식후",
+    "ja": "食後",
+    "romaji": "Shokugo"
+  },
+  "s5.v.senbei": {
+    "en": "Rice crackers",
+    "ru": "Рисовое печенье",
+    "zh": "仙贝 / 仙贝米饼",
+    "ko": "센베이 (쌀과자)",
+    "ja": "せんべい",
+    "romaji": "Senbei"
+  },
+  "s5.v.mainichi": {
+    "en": "Every day",
+    "ru": "Каждый день",
+    "zh": "每天",
+    "ko": "매일",
+    "ja": "毎日",
+    "romaji": "Mainichi"
+  },
+  "s5.v.keizoku_wa_chikara_nari": {
+    "en": "Persistence is power (proverb)",
+    "ru": "Настойчивость — это сила (пословица)",
+    "zh": "坚持就是力量 (谚语)",
+    "ko": "계속하는 것이 힘이다 (격언)",
+    "ja": "継続は力なり",
+    "romaji": "Keizoku wa chikara nari"
+  },
+  "s5.v.josuushi": {
+    "en": "Counters / numerical classifiers",
+    "ru": "Счетные суффиксы",
+    "zh": "助数词 / 计数用词",
+    "ko": "조수사 (숫자를 세는 단위)",
+    "ja": "助数詞",
+    "romaji": "Josuushi"
+  },
+  "s5.v.omoidasu": {
+    "en": "To recall / remember",
+    "ru": "Вспоминать",
+    "zh": "想起 / 回忆起",
+    "ko": "생각나다/기억하다",
+    "ja": "思い出す",
+    "romaji": "Omoidasu"
+  },
+  "s5.v.tokubetsu": {
+    "en": "Special",
+    "ru": "Особенный",
+    "zh": "特别",
+    "ko": "특별함",
+    "ja": "特別",
+    "romaji": "Tokubetsu"
+  },
+  "s5.v.eki": {
+    "en": "Station",
+    "ru": "Станция",
+    "zh": "车站",
+    "ko": "역",
+    "ja": "駅",
+    "romaji": "Eki"
+  },
+  "s5.v.renshuu": {
+    "en": "Practice",
+    "ru": "Практика",
+    "zh": "练习",
+    "ko": "연습",
+    "ja": "練習",
+    "romaji": "Renshuu"
+  },
+  "s5.v.tomodachi": {
+    "en": "Friend",
+    "ru": "Друг",
+    "zh": "朋友",
+    "ko": "친구",
+    "ja": "友達",
+    "romaji": "Tomodachi"
+  },
+  "s5.v.tsuzukeru": {
+    "en": "To continue",
+    "ru": "Продолжать",
+    "zh": "继续",
+    "ko": "계속하다",
+    "ja": "続ける",
+    "romaji": "Tsuzukeru"
+  },
+  "s5.v.kirei": {
+    "en": "Beautiful / pretty / clean",
+    "ru": "Красивый / чистый",
+    "zh": "漂亮 / 干净",
+    "ko": "예쁘다/깨끗하다",
+    "ja": "綺麗",
+    "romaji": "Kirei"
+  },
+  "s5.v.jouzu": {
+    "en": "Skilled / good at",
+    "ru": "Умелый / хорош в чем-то",
+    "zh": "擅长",
+    "ko": "능숙하다/잘하다",
+    "ja": "上手",
+    "romaji": "Jouzu"
+  },
+  "s5.v.omoshiroi": {
+    "en": "Interesting / funny",
+    "ru": "Интересный / смешной",
+    "zh": "有趣",
+    "ko": "재미있다/흥미롭다",
+    "ja": "面白い",
+    "romaji": "Omoshiroi"
+  },
+  "s5.l001": {
+    "en": "Nerima Ward, Tokyo. Quiet streets lined with small houses and vegetable gardens.",
+    "ru": "Район Нэрима, Токио. Тихие улочки, застроенные маленькими домами и огородами.",
+    "zh": "东京练马区。宁静的街道两旁坐落着小巧的房屋和菜园。",
+    "ko": "도쿄 네리마구. 작은 집들과 채소밭이 늘어선 조용한 거리.",
+    "ja": "練馬区、東京。小さな家々と家庭菜園が並ぶ静かな通り。",
+    "romaji": "Nerima-ku, Toukyou. Chiisana ieie to katei saien ga narabu shizuka na toori."
+  },
+  "s5.l002": {
+    "en": "No bullet trains. No fashion stores. Just the hum of ordinary life.",
+    "ru": "Никаких синкансэнов. Никаких модных магазинов. Лишь гул обычной жизни.",
+    "zh": "没有新干线。没有时装店。只有平凡生活的嗡嗡声。",
+    "ko": "신칸센도, 화려한 패션 상점도 없습니다. 그저 평범한 삶의 울림만이 가득합니다.",
+    "ja": "新幹線も、ブティックもない。ただ普通の暮らしの息づかいだけがある。",
+    "romaji": "Shinkansen mo, butikku mo nai. Tada futsuu no kurashi no ikidzukai dake ga aru."
+  },
+  "s5.l003": {
+    "en": "You are Margaret Thompson.",
+    "ru": "Вы Маргарет Томпсон.",
+    "zh": "你是玛格丽特·汤普森（Margaret Thompson）。",
+    "ko": "당신은 마가렛 톰슨입니다.",
+    "ja": "私の名前はマーガレット・トンプソン。",
+    "romaji": "Watashi no namae wa Maagaretto Tonpuson."
+  },
+  "s5.l004": {
+    "en": "67 years old. Retired schoolteacher. From Portland, Oregon.",
+    "ru": "67 лет. Учительница на пенсии. Из Портленда, штат Орегон.",
+    "zh": "67岁。退休教师。来自俄勒冈州波特兰。",
+    "ko": "67세. 은퇴한 교사. 미국 오리건주 포틀랜드 출신이죠.",
+    "ja": "67歳。オレゴン州ポートランド出身の、元学校教師。",
+    "romaji": "Rokujuunana-sai. Oregon-shuu Pootorando shusshin no, moto gakkou kyoushi."
+  },
+  "s5.l005": {
+    "en": "And as of three weeks ago—resident of Nerima-ku, Tokyo.",
+    "ru": "И три недели как жительница Нэрима-ку, Токио.",
+    "zh": "而就在三周前——你成了东京练马区的居民。",
+    "ko": "그리고 3주 전부터 도쿄 네리마구의 주민이 되었습니다.",
+    "ja": "そして3週間前からは――東京都練馬区の住民だ。",
+    "romaji": "Soshite sanshuukan mae kara wa――Toukyou-to Nerima-ku no juumin da."
+  },
+  "s5.l006": {
+    "en": "Three weeks. And I still can't find the pharmacy.",
+    "ru": "Три недели. А я все еще не могу найти аптеку.",
+    "zh": "三周了。我还是找不到那家药房。",
+    "ko": "3주나 됐는데, 아직도 약국 하나를 못 찾다니.",
+    "ja": "「3週間。それなのに、まだ薬局すら見つけられないなんて。」",
+    "romaji": "「Sanshuukan. Sore na no ni, mada yakkyoku sura mitsukerarenai nante.」"
+  },
+  "s5.l007": {
+    "en": "Your son David moved here six years ago. He married Yuko. They have a three-year-old, Kenta.",
+    "ru": "Ваш сын Дэвид переехал сюда шесть лет назад. Он женился на Юко. У них есть трехлетний сын Кэнта.",
+    "zh": "你的儿子戴维（David）六年前搬到了这里。他娶了优子（Yuko）。他们有一个三岁的孩子，健太（Kenta）。",
+    "ko": "아들 데이비드는 6년 전 이곳으로 이사 왔습니다. 유코와 결혼해 세 살짜리 아들 켄타를 두고 있죠.",
+    "ja": "息子のデイビッドは6年前にここへ引っ越した。陽子と結婚し、3歳になる健二がいる。",
+    "romaji": "Musuko no Deibiddo wa rokunen mae ni koko e hikkoshita. Youko to kekkon shi, sansai ni naru Kenji ga iru."
+  },
+  "s5.l008": {
+    "en": "When David invited you—'Come live near us, Mum. There's a lovely apartment two blocks away'—it had seemed so simple.",
+    "ru": "Когда Дэвид пригласил вас: «Мам, переезжай поближе к нам. В двух кварталах есть отличная квартира» — это казалось таким простым.",
+    "zh": "当戴维邀请你时——“妈，来搬到我们附近住吧。两街区外就有一间很棒的公寓”——当时听起来非常简单。",
+    "ko": "데이비드가 당신을 초대했을 때만 해도—'엄마, 우리 근처로 오세요. 두 블록만 가면 아주 예쁜 아파트가 있어요'—그게 참 간단한 일인 줄 알았죠.",
+    "ja": "デイビッドに「僕たちの近くにおいでよ、母さん。2ブロック先に素敵なアパートがあるんだ」と誘われた時は、とても簡単なことのように思えた。",
+    "romaji": "Deibiddo ni 『Bokutachi no chikaku ni oide yo, Kaasan. Ni-burokku saki ni suteki na apaato ga aru n da』 to sasowareta toki wa, totemo kantan na koto no you ni omoeta."
+  },
+  "s5.l009": {
+    "en": "It is not simple.",
+    "ru": "Это не просто.",
+    "zh": "但这并不简单。",
+    "ko": "하지만 전혀 간단하지 않네요.",
+    "ja": "だが、現実はちっとも簡単ではなかった。",
+    "romaji": "Daga, genjitsu wa chittomo kantan de wa nakatta."
+  },
+  "s5.l010": {
+    "en": "You are, once again, lost.",
+    "ru": "Вы снова заблудились.",
+    "zh": "你再一次迷路了。",
+    "ko": "당신은 또다시 길을 잃었습니다.",
+    "ja": "私はまたしても、道に迷っている。",
+    "romaji": "Watashi wa matashitemo, michi ni mayotte iru."
+  },
+  "s5.l011": {
+    "en": "The streets in this neighborhood fold into each other at strange angles.",
+    "ru": "Улицы в этом районе пересекаются под странными углами.",
+    "zh": "这个街区的街道以奇怪的角度交织在一起。",
+    "ko": "이 동네의 길들은 서로 묘한 각도로 얽혀 있습니다.",
+    "ja": "このあたりの道は、奇妙な角度で複雑に入り組んでいる。",
+    "romaji": "Kono atari no michi wa, kimyou na kakudo de fukuzatsu ni iri kunde iru."
+  },
+  "s5.l012": {
+    "en": "Your phone's GPS keeps recalibrating. It is not helpful.",
+    "ru": "GPS в вашем телефоне постоянно перенастраивается. Это не помогает.",
+    "zh": "你手机的 GPS 不断重新校准。这毫无帮助。",
+    "ko": "휴대폰의 GPS는 계속 위치를 다시 잡느라 바쁩니다. 전혀 도움이 안 되네요.",
+    "ja": "スマートフォンのGPSは何度も再計算を繰り返すばかりで、ちっとも役に立たない。",
+    "romaji": "Sumaatofon no GPS wa nando mo saikeisan o kurikaesu bakari de, chittomo yaku ni tatanai."
+  },
+  "s5.l013": {
+    "en": "In Portland I could navigate by the mountains.",
+    "ru": "В Портленде я могла ориентироваться по горам.",
+    "zh": "在波特兰，我可以根据山脉来导航。",
+    "ko": "포틀랜드에서는 산을 보고 길을 찾을 수 있었는데.",
+    "ja": "「ポートランドなら、山を目印に歩けたのに。」",
+    "romaji": "「Pootorando nara, yama o mejirushi ni aru keta no ni.」"
+  },
+  "s5.l014": {
+    "en": "There are no mountains here. Just rooftops and vending machines.",
+    "ru": "Здесь нет гор. Только крыши и торговые автоматы.",
+    "zh": "这里没有山。只有屋顶和自动售货机。",
+    "ko": "여긴 산은커녕 지붕이랑 자판기밖에 없네.",
+    "ja": "ここには山などない。あるのは屋根と自動販売機ばかりだ。",
+    "romaji": "Koko ni wa yama nado nai. Aru no wa yane to jidouhanbaiki bakari da."
+  },
+  "s5.l015": {
+    "en": "You stop at a corner and look around.",
+    "ru": "Вы останавливаетесь на углу и оглядываетесь по сторонам.",
+    "zh": "你在一个拐角处停下来，环顾四周。",
+    "ko": "모퉁이에 멈춰 서서 주위를 둘러봅니다.",
+    "ja": "角で立ち止まり、あたりを見回す。",
+    "romaji": "Kado de tachidomari, atari o mimawasu."
+  },
+  "s5.l016": {
+    "en": "A woman in her sixties is watering a potted persimmon tree outside her gate.",
+    "ru": "Женщина лет шестидесяти поливает хурму в горшке у своих ворот.",
+    "zh": "一位六十来岁的妇女正在门外给盆栽柿子树浇水。",
+    "ko": "60대로 보이는 한 여성이 대문 앞에서 화분에 심린 감나무에 물을 주고 있습니다.",
+    "ja": "門の前で、鉢植えの柿の木に水をやっている60代くらいの女性がいる。",
+    "romaji": "Mon no mae de, hachiue no kaki no ki ni mizu o yatte iru rokujuudai kurai no josei ga iru."
+  },
+  "s5.l017": {
+    "en": "She glances up.",
+    "ru": "Она поднимает взгляд.",
+    "zh": "她抬头看了看。",
+    "ko": "그녀가 고개를 들어 당신을 봅니다.",
+    "ja": "彼女がふと顔を上げた。",
+    "romaji": "Kanojo ga futo kao o ageta."
+  },
+  "s5.l018": {
+    "en": "The woman has sharp eyes and comfortable clothes. She's watching you with open curiosity—not unkind.",
+    "ru": "У женщины проницательный взгляд и удобная одежда. Она наблюдает за вами с открытым любопытством — не без добрых чувств.",
+    "zh": "那名妇女眼神犀利，穿着舒适。她正带着公开的好奇心看着你——并不算不友好。",
+    "ko": "그녀는 예리한 눈매에 편안한 옷차림을 하고 있습니다. 악의 없는 호기심을 담아 당신을 지켜보네요.",
+    "ja": "その女性は鋭い目つきをしていながらも、着心地のよさそうな服を着て、悪意のない純粋な好奇心でこちらを見つめていた。",
+    "romaji": "Sono josei wa surudoi metsuki o shite inagara mo, kigokochi no yosasou na fuku o kite, akui no nai junsui na koukishin de kochira o mitsumete ita."
+  },
+  "s5.l019": {
+    "en": "Are you lost?",
+    "ru": "Вы заблудились?",
+    "zh": "你迷路了吗？",
+    "ko": "길을 잃으셨나요?",
+    "ja": "「迷子ですか？」",
+    "romaji": "「Maigo desu ka?」"
+  },
+  "s5.l020": {
+    "en": "You don't understand the words, but the tone is clear.",
+    "ru": "Вы не понимаете слов, но тон понятен.",
+    "zh": "你听不懂那些词，但语气很明确。",
+    "ko": "말은 알아들을 수 없지만, 어조만은 분명합니다.",
+    "ja": "言葉の意味は分からないが、口調で何を言っているかはすぐに分かった。",
+    "romaji": "Kotoba no imi wa wakaranai ga, kuchou de nani o itte iru ka wa sugu ni wakatta."
+  },
+  "s5.l021": {
+    "en": "I'm looking for... the pharmacy?",
+    "ru": "Я ищу... аптеку?",
+    "zh": "我在找……药房？",
+    "ko": "저... 약국을 찾고 있는데요?",
+    "ja": "「薬局？」",
+    "romaji": "「Yakkyoku?」"
+  },
+  "s5.l022": {
+    "en": "Ah, the pharmacy! I understand.",
+    "ru": "А, аптека! Я понимаю.",
+    "zh": "啊，药房！我懂了。",
+    "ko": "아, 약국요! 알겠습니다.",
+    "ja": "「ああ、薬局！わかります。」",
+    "romaji": "「Aa, yakkyoku! Wakarimasu.」"
+  },
+  "s5.l023": {
+    "en": "Go straight—",
+    "ru": "Идите прямо...",
+    "zh": "直走——",
+    "ko": "똑바로 가셔서—",
+    "ja": "「まっすぐ行って—」",
+    "romaji": "「Massugu itte—」"
+  },
+  "s5.l024": {
+    "en": "She gestures down the street, then makes a turning motion with her hand.",
+    "ru": "Она указывает на улицу, затем делает поворот кистью руки.",
+    "zh": "她指了指街道，然后用手做了个转弯的动作。",
+    "ko": "그녀가 거리를 가리키더니 손으로 회전하는 시늉을 합니다.",
+    "ja": "彼女は通りを指差し、それから手で曲がる仕草をした。",
+    "romaji": "Kanojo wa toori o yubisashi, sore kara te de magaru shigusa o shita."
+  },
+  "s5.l025": {
+    "en": "Three fingers. Then points left.",
+    "ru": "Три пальца. Затем указывает налево.",
+    "zh": "三根手指。然后指向左边。",
+    "ko": "손가락 세 개를 펴고 왼쪽을 가리키네요.",
+    "ja": "指を3本立て、それから左を指す。",
+    "romaji": "Yubi o sanbon tate, sore kara hidari o sasu."
+  },
+  "s5.l026": {
+    "en": "Three blocks. Turn left.",
+    "ru": "Три квартала. Поверните налево.",
+    "zh": "三个街区。左转。",
+    "ko": "세 블록 가서 왼쪽.",
+    "ja": "3ブロック先を左折。",
+    "romaji": "San-burokku saki o sasetsu."
+  },
+  "s5.l027": {
+    "en": "Three blocks, then left?",
+    "ru": "Три квартала, затем налево?",
+    "zh": "三个街区，然后左转？",
+    "ko": "세 블록 가서 왼쪽인가요?",
+    "ja": "「3ブロック行って、左ですか？」",
+    "romaji": "「San-burokku itte, hidari desu ka?」"
+  },
+  "s5.l028": {
+    "en": "Yes, exactly! You're good at this.",
+    "ru": "Да, именно так! Вы хорошо справляетесь.",
+    "zh": "没错，正是如此！你很擅长这个。",
+    "ko": "맞아요, 바로 그거예요! 아주 잘하시네요.",
+    "ja": "「そうそう！上手ですね。」",
+    "romaji": "「Sou sou! Jouzu desu ne.」"
+  },
+  "s5.l029": {
+    "en": "She smiles warmly. You feel, briefly, like a genius.",
+    "ru": "Она тепло улыбается. На мгновение вы чувствуете себя гением.",
+    "zh": "她热切地微笑着。那一瞬间，你觉得自己像个天才。",
+    "ko": "그녀가 환하게 웃습니다. 짧은 순간, 스스로가 천재라도 된 것 같은 기분이 듭니다.",
+    "ja": "彼女は温かく微笑んだ。一瞬、自分が天才にでもなったかのような誇らしい気分になる。",
+    "romaji": "Kanojo wa atatakaku hohoenda. Isshun, jibun ga tensai ni demo natta ka no you na hokorashii kibun ni naru."
+  },
+  "s5.l030": {
+    "en": "Are you new here? Did you just move in?",
+    "ru": "Вы здесь новенькая? Только что переехали?",
+    "zh": "你是新来的吗？刚搬进来吗？",
+    "ko": "새로 오신 분인가요? 이사 오셨어요?",
+    "ja": "「新しい方ですか？引っ越してきましたか？」",
+    "romaji": "「Atarashii kata desu ka? Hikkoshite kimashita ka?」"
+  },
+  "s5.l031": {
+    "en": "You catch the word 'new' and mime with your hands—you moving to this area.",
+    "ru": "Вы улавливаете слово «новый» и жестами показываете, что переехали в этот район.",
+    "zh": "你捕捉到了“new”这个词，并用手势比划着——你搬到了这个地区。",
+    "ko": "'새로움'이라는 단어를 알아듣고 손짓으로 이 동네에 이사 왔다는 시늉을 합니다.",
+    "ja": "「新しい」という言葉を聞き取り、手振りで自分がこの街に引っ越してきたことを伝える。",
+    "romaji": "「Atarashii」 to iu kotoba o kikitori, teburi de jibun ga kono machi ni hikkoshite kita koto o tsutaeru."
+  },
+  "s5.l032": {
+    "en": "Yes. I moved here. Three weeks ago.",
+    "ru": "Да. Я переехала сюда. Три недели назад.",
+    "zh": "是的。我搬到了这里。三周前。",
+    "ko": "네. 여기로 이사 왔어요. 3주 됐네요.",
+    "ja": "「はい。3週間前に引っ越してきました。」",
+    "romaji": "「Hai. Sanshuukan mae ni hikkoshite kimashita.」"
+  },
+  "s5.l033": {
+    "en": "Oh! Where did you come from?",
+    "ru": "О! Откуда вы приехали?",
+    "zh": "噢！你从哪里来的？",
+    "ko": "어머나! 어디서 오셨어요?",
+    "ja": "「あら！どこから来たんですか？」",
+    "romaji": "「Ara! Doko kara kitan desu ka?」"
+  },
+  "s5.l034": {
+    "en": "America. Portland.",
+    "ru": "Америка. Портленд.",
+    "zh": "美国。波特兰。",
+    "ko": "미국 포틀랜드요.",
+    "ja": "「アメリカです。ポートランドから来ました。」",
+    "romaji": "「Amerika desu. Pootorando kara kimashita.」"
+  },
+  "s5.l035": {
+    "en": "Portland! That's far away.",
+    "ru": "Портленд! Это далеко.",
+    "zh": "波特兰！那可真远啊。",
+    "ko": "포틀랜드요! 정말 멀리서 오셨네요.",
+    "ja": "「ポートランド！遠いですねえ。」",
+    "romaji": "「Pootorando! Tooi desu nee.」"
+  },
+  "s5.l036": {
+    "en": "I'm Yamamoto.",
+    "ru": "Я Ямамото.",
+    "zh": "我姓山本。",
+    "ko": "전 야마모토라고 합니다.",
+    "ja": "「私は山本です。」",
+    "romaji": "「Watashi wa Yamamoto desu.」"
+  },
+  "s5.l037": {
+    "en": "She points at herself: Yamamoto.",
+    "ru": "Она указывает на себя: Ямамото.",
+    "zh": "她指了指自己：山本。",
+    "ko": "그녀가 자신을 가리킵니다. 야마모토.",
+    "ja": "彼女は自分を指差した。「山本」。",
+    "romaji": "Kanojo wa jibun o yubisashita. 「Yamamoto」."
+  },
+  "s5.l038": {
+    "en": "Margaret. Pleased to meet you.",
+    "ru": "Маргарет. Приятно познакомиться.",
+    "zh": "玛格丽特（Margaret）。很高兴认识你。",
+    "ko": "마가렛입니다. 만나서 반가워요.",
+    "ja": "「マーガレットです。お会いできて嬉しいです。」",
+    "romaji": "「Maagaretto desu. Oai dekite ureshii desu.」"
+  },
+  "s5.l039": {
+    "en": "Margaret-san. What a lovely name.",
+    "ru": "Маргарет-сан. Какое красивое имя.",
+    "zh": "玛格丽特桑。真是个可爱的名字。",
+    "ko": "마가렛 씨. 참 고운 이름이네요.",
+    "ja": "「マーガレットさん。素敵な名前ですね。」",
+    "romaji": "「Maagaretto-san. Suteki na namae desu ne.」"
+  },
+  "s5.l040": {
+    "en": "She bows slightly. You bow back, a little awkwardly.",
+    "ru": "Она слегка кланяется. Вы кланяетесь в ответ, немного неловко.",
+    "zh": "她微微点头致意。你也有点尴尬地回了一礼。",
+    "ko": "그녀가 가볍게 고개를 숙입니다. 당신도 약간 어색하게 따라 합니다.",
+    "ja": "彼女が軽く会釈をする。私も少しぎこちなくお辞儀を返した。",
+    "romaji": "Kanojo ga karuku eshaku o suru. Watashi mo sukoshi gikochinaku ojigi o kaeshita."
+  },
+  "s5.l041": {
+    "en": "She seems charmed by this.",
+    "ru": "Похоже, это ее очаровало.",
+    "zh": "她似乎被这逗乐了。",
+    "ko": "그녀는 그런 당신의 모습이 마음에 든 모양입니다.",
+    "ja": "彼女はその様子を微笑ましく思ったようだ。",
+    "romaji": "Kanojo wa sono yousu o hohoemashiku omotta you da."
+  },
+  "s5.l042": {
+    "en": "After the pharmacy, if you'd like—",
+    "ru": "После аптеки, если захотите...",
+    "zh": "去完药房后，如果你愿意的话——",
+    "ko": "약국 다녀오신 뒤에, 괜찮으시면—",
+    "ja": "「薬局の後、もしよかったら—」",
+    "romaji": "「Yakkyoku no ato, moshi yokattara—」"
+  },
+  "s5.l043": {
+    "en": "She mimes drinking tea.",
+    "ru": "Она изображает питье чая.",
+    "zh": "她做了个喝茶的手势。",
+    "ko": "그녀가 차를 마시는 시늉을 합니다.",
+    "ja": "彼女はお茶を飲む仕草をした。",
+    "romaji": "Kanojo wa ocha o nomu shigusa o shita."
+  },
+  "s5.l044": {
+    "en": "Please, have some tea.",
+    "ru": "Пожалуйста, выпейте чаю.",
+    "zh": "请来喝点茶吧。",
+    "ko": "차라도 한 잔 하고 가세요.",
+    "ja": "「お茶でもどうぞ。」",
+    "romaji": "「Ocha demo douzo.」"
+  },
+  "s5.l045": {
+    "en": "She's inviting me for tea.",
+    "ru": "Она приглашает меня на чай.",
+    "zh": "她在请我喝茶。",
+    "ko": "차를 마시러 오라고 초대하는구나.",
+    "ja": "お茶に誘ってくれているのだ。",
+    "romaji": "Ocha ni sasotte kurete iru no da."
+  },
+  "s5.l046": {
+    "en": "I don't know her. I can barely speak. But...",
+    "ru": "Я ее не знаю. Я едва говорю. Но...",
+    "zh": "我不认识她。我也几乎不会说话。但是……",
+    "ko": "모르는 사람인데다 말도 거의 안 통하지만... 그래도...",
+    "ja": "見ず知らずの人だし、言葉もほとんど通じない。けれど……",
+    "romaji": "Mizushirazu no hito da shi, kotoba mo hotondo tsuujinai. Keredo..."
+  },
+  "s5.l047": {
+    "en": "Accept the invitation",
+    "ru": "Принять приглашение",
+    "zh": "接受邀请",
+    "ko": "초대 응하기",
+    "ja": "お誘いを受ける",
+    "romaji": "Osasoi o ukeru"
+  },
+  "s5.l048": {
+    "en": "Decline politely (for now)",
+    "ru": "Вежливо отказаться (на время)",
+    "zh": "婉言谢绝（暂时）",
+    "ko": "정중히 거절하기",
+    "ja": "丁寧に辞退する（今はまだ）",
+    "romaji": "Teinei ni jitai suru (ima wa mada)"
+  },
+  "s5.l049": {
+    "en": "You find the pharmacy—三丁目薬局 (Sanchoume Yakkyoku), three blocks down, left turn, exactly as Yamamoto-san said.",
+    "ru": "Вы находите аптеку — Sanchoume Yakkyoku (Аптека третьего квартала), в трех кварталах ниже, поворот налево, точно как сказала Ямамото-сан.",
+    "zh": "你找到了那家药房——三丁目药局（Sanchoume Yakkyoku），在三街区外左转，正如山本桑所说的那样。",
+    "ko": "야마모토 씨의 말대로 세 블록 가서 왼쪽을 돌자 '산초메 약국(三丁目薬局)'이 나타납니다.",
+    "ja": "三丁目薬局を見つける。山本さんの言った通り、3ブロック先を左に曲がったところにあった。",
+    "romaji": "Sanchoume Yakkyoku o mitsukeru. Yamamoto-san no itta toori, san-burokku saki o hidari ni magatta tokoro ni atta."
+  },
+  "s5.l050": {
+    "en": "The inside smells like every pharmacy everywhere: antiseptic and quiet purpose.",
+    "ru": "Внутри пахнет как в любой аптеке мира: антисептиком и спокойной деловитостью.",
+    "zh": "药房里的味道和世界各地的药房都一样：抗生素的味道，还有一种静谧的仪式感。",
+    "ko": "내부에서는 소독약 냄새와 특유의 정적인 분위기가 느껴집니다. 여느 약국과 다를 바 없네요.",
+    "ja": "店内は、世界中どこの薬局とも変わらない消毒液と静謐な香りが漂っていた。",
+    "romaji": "Tennai wa, sekaijuu doko no yakkyoku to mo kawaranai shoudokueki to seihitsu na kaori ga tadayotte ita."
+  },
+  "s5.l051": {
+    "en": "The young pharmacist looks up from her counter.",
+    "ru": "Молодая аптекарь поднимает взгляд от стойки.",
+    "zh": "年轻的药剂师从柜台后面抬起头来。",
+    "ko": "젊은 약사가 카운터에서 고개를 듭니다.",
+    "ja": "カウンターの向こうで若い薬剤師が顔を上げる。",
+    "romaji": "Kauntaa no mukou de wakai yakuzaishi ga kao o ageru."
+  },
+  "s5.l052": {
+    "en": "Welcome.",
+    "ru": "Добро пожаловать.",
+    "zh": "欢迎光临。",
+    "ko": "어서 오세요.",
+    "ja": "「いらっしゃいませ。」",
+    "romaji": "「Irasshaimase.」"
+  },
+  "s5.l053": {
+    "en": "You slide your prescription across the counter.",
+    "ru": "Вы кладете рецепт на стойку.",
+    "zh": "你把处方递过柜台。",
+    "ko": "카운터 너머로 처방전을 밀어 넣습니다.",
+    "ja": "カウンター越しに処方箋を差し出す。",
+    "romaji": "Kauntaa-goshi ni shohousen o sashidasu."
+  },
+  "s5.l054": {
+    "en": "I have a prescription. From Dr. Ito.",
+    "ru": "У меня есть рецепт. От доктора Ито.",
+    "zh": "我有处方。是伊藤医生开的。",
+    "ko": "처방전이 있어요. 이토 선생님께서 주신 건데요.",
+    "ja": "「処方箋を持っています。伊藤先生からです。」",
+    "romaji": "「Shohousen o motte imasu. Itou-sensei kara desu.」"
+  },
+  "s5.l055": {
+    "en": "Yes, a prescription. Please wait a moment.",
+    "ru": "Да, рецепт. Пожалуйста, подождите немного.",
+    "zh": "好的，是处方。请稍等片刻。",
+    "ko": "네, 처방전 말씀이시군요. 잠시만 기다려 주세요.",
+    "ja": "「はい、処方箋ですね。少々お待ちください。」",
+    "romaji": "「Hai, shohousen desu ne. Shoushou omachi kudasai.」"
+  },
+  "s5.l056": {
+    "en": "She examines it carefully.",
+    "ru": "Она внимательно его изучает.",
+    "zh": "她仔细地检查着。",
+    "ko": "그녀가 꼼꼼히 처방전을 살핍니다.",
+    "ja": "彼女はそれを丁寧に確認した。",
+    "romaji": "Kanojo wa sore o teinei ni kakunin shita."
+  },
+  "s5.l057": {
+    "en": "Fifteen minutes pass. You study the vitamin display. You read a poster about blood pressure three times.",
+    "ru": "Проходит пятнадцать минут. Вы изучаете витрину с витаминами. Читаете плакат о кровяном давлении три раза.",
+    "zh": "十五分钟过去了。你盯着维他命展示区看。又把一张关于血压的海报读了三遍。",
+    "ko": "15분이 흘렀습니다. 비타민 진열대를 구경하고, 혈압에 관한 포스터를 세 번이나 정독합니다.",
+    "ja": "15分が過ぎる。ビタミンの陳列棚を眺め、血圧についてのポスターを3回読んだ。",
+    "romaji": "Juugofun ga sugiru. Bitamin no chinretsudana o nagame, ketsuatsu ni tsuite no posutaa o sankai yonda."
+  },
+  "s5.l058": {
+    "en": "Thanks for waiting. Please take this three times a day, after meals.",
+    "ru": "Спасибо за ожидание. Пожалуйста, принимайте это три раза в день после еды.",
+    "zh": "让您久等了。请每天服用三次，饭后服用。",
+    "ko": "오래 기다리셨습니다. 이건 하루에 세 번, 식후에 드세요.",
+    "ja": "「お待たせしました。こちら、一日三回、食後に飲んでください。」",
+    "romaji": "「Omatase shimashita. Kochira, ichinichi sankai, shokugo ni nonde kudasai.」"
+  },
+  "s5.l059": {
+    "en": "Three times a day. After meals. You think.",
+    "ru": "Три раза в день. После еды. Вы размышляете.",
+    "zh": "一天三次。饭后。你在思考。",
+    "ko": "하루 세 번. 식후. 속으로 되뇝니다.",
+    "ja": "一日三回。食後。頭の中で考える。",
+    "romaji": "Ichinichi sankai. Shokugo. Atama no naka de kangaeru."
+  },
+  "s5.l060": {
+    "en": "You pull out your pocket notebook—you carry it everywhere now.",
+    "ru": "Вы достаете карманный блокнот — теперь вы носите его везде с собой.",
+    "zh": "你掏出你的口袋笔记本——现在你走到哪儿都带着它。",
+    "ko": "주머니에서 수첩을 꺼냅니다. 이제는 어디든 가지고 다니는 물건이죠.",
+    "ja": "今では肌身離さず持ち歩いている小さなノートを取り出す。",
+    "romaji": "Ima de wa hadami hanasazu mochiaruite iru chiisana nooto o toridasu."
+  },
+  "s5.l061": {
+    "en": "One day... three times...",
+    "ru": "Один день... три раза...",
+    "zh": "一天……三次……",
+    "ko": "하루에... 세 번...",
+    "ja": "「一日……三回……」",
+    "romaji": "「Ichinichi... sankai...」"
+  },
+  "s5.l062": {
+    "en": "After... meals?",
+    "ru": "После... еды?",
+    "zh": "饭……后？",
+    "ko": "식후에요?",
+    "ja": "「食……後？」",
+    "romaji": "「Shoku... go?」"
+  },
+  "s5.l063": {
+    "en": "Yes, after meals.",
+    "ru": "Да, после еды.",
+    "zh": "是的，饭后。",
+    "ko": "네! 식후에 드시면 됩니다.",
+    "ja": "「はい、食後です。」",
+    "romaji": "「Hai, shokugo desu.」"
+  },
+  "s5.l064": {
+    "en": "She mimes eating, then points to the pills.",
+    "ru": "Она изображает прием пищи, затем указывает на таблетки.",
+    "zh": "她比划着吃饭的动作，然后指向药丸。",
+    "ko": "그녀가 밥 먹는 시늉을 하더니 약을 가리킵니다.",
+    "ja": "彼女は食べるジェスチャーをしてから、薬を指差した。",
+    "romaji": "Kanojo wa taberu jesuchaa o shite kara, kusuri o yubisashita."
+  },
+  "s5.l065": {
+    "en": "Her manner is patient, unhurried. You feel a rush of gratitude.",
+    "ru": "Она ведет себя терпеливо, без спешки. Вы чувствуете прилив благодарности.",
+    "zh": "她的举止耐心而不紧不慢。你感到一阵感激之情。",
+    "ko": "그녀의 태도는 참을성 있고 여유가 느껴집니다. 가슴 한구석에서 고마움이 솟구칩니다.",
+    "ja": "その物腰は根気強く、決して急かさない。胸の奥に感謝の念が込み上げてくる。",
+    "romaji": "Sono monogoshi wa konkidzuyoku, kesshite sekasanai. Mune no oku ni kansha no nen ga komiagete kuru."
+  },
+  "s5.l066": {
+    "en": "People are kinder here than I expected.",
+    "ru": "Люди здесь добрее, чем я ожидала.",
+    "zh": "这里的人比我预想中的还要善良。",
+    "ko": "이곳 사람들은 생각보다 더 친절하네.",
+    "ja": "「思っていたよりも、ここの人たちは親切だ。」",
+    "romaji": "「Omotte ita yori mo, koko no hitotachi wa shinsetsu da.」"
+  },
+  "s5.l067": {
+    "en": "I expected... I don't know what I expected.",
+    "ru": "Я ожидала... не знаю, чего я ожидала.",
+    "zh": "我原以为……我也不知道我原以为会怎样。",
+    "ko": "내가 뭘 기대했던 걸까... 잘 모르겠어.",
+    "ja": "「私は……何を予想していたのだろう。」",
+    "romaji": "「Watashi wa... nani o yosou shite ita no darou.」"
+  },
+  "s5.l068": {
+    "en": "Yamamoto-san's kitchen is small and very full. Jars of pickles on every surface. Herbs drying near the window.",
+    "ru": "Кухня Ямамото-сан маленькая и очень заставленная. Банки с соленьями на каждой поверхности. Травы сушатся у окна.",
+    "zh": "山本桑的厨房很小，但塞得满满当当。每个台面上都摆着腌菜罐。窗旁晾晒着草药。",
+    "ko": "야마모토 씨의 부엌은 좁지만 물건들로 꽉 차 있습니다. 곳곳에 절임 병들이 놓여 있고, 창가에는 약초들이 말려지고 있네요.",
+    "ja": "山本さんの台所は小さく、物が所狭しと並んでいた。あちこちに漬物の瓶があり、窓辺には薬草が干してある。",
+    "romaji": "Yamamoto-san no daidokoro wa chiisaku, mono ga tokorosemashi to narande ita. Achikochi ni tsukemono no bin ga ari, madobe ni wa yakusou ga hoshite aru."
+  },
+  "s5.l069": {
+    "en": "It smells like ginger and soy sauce and good living.",
+    "ru": "Здесь пахнет имбирем, соевым соусом и уютной жизнью.",
+    "zh": "闻起来有生姜、酱油和美好生活的味道。",
+    "ko": "생강과 간장 냄새, 그리고 사람 사는 향기가 풍깁니다.",
+    "ja": "生姜と醤油、そして日々の丁寧な暮らしの匂いがした。",
+    "romaji": "Shouga to shouyu, soshite hibi no teinei na kurashi no nioi ga shita."
+  },
+  "s5.l070": {
+    "en": "She sets down green tea and a plate of sembei crackers.",
+    "ru": "Она ставит зеленый чай и тарелку с печеньем сэмбэй.",
+    "zh": "她放下绿茶和一盘仙贝米饼。",
+    "ko": "그녀가 녹차와 센베이 과자 한 접시를 내놓습니다.",
+    "ja": "彼女は緑茶とおせんべいの皿を置いた。",
+    "romaji": "Kanojo wa ryokucha to osenbei no sara o oita."
+  },
+  "s5.l071": {
+    "en": "Please, go ahead and eat.",
+    "ru": "Пожалуйста, угощайтесь.",
+    "zh": "请用，请尽管吃。",
+    "ko": "자, 좀 드셔 보세요.",
+    "ja": "「どうぞ、召し上がってください。」",
+    "romaji": "「Douzo, meshiagatte kudasai.」"
+  },
+  "s5.l072": {
+    "en": "You sit across from her. There is a moment of comfortable quiet while you both sip tea.",
+    "ru": "Вы садитесь напротив нее. Обои молча пьете чай в уютной тишине.",
+    "zh": "你坐在她的对面。在你们啜饮茶水的时候，室内有一阵惬意的宁静。",
+    "ko": "그녀의 맞은편에 앉습니다. 둘 다 차를 홀짝이는 동안 편안한 정적이 흐릅니다.",
+    "ja": "向かい合って座る。二人でお茶をすする間、心地よい静けさが流れた。",
+    "romaji": "Mukaiatte suwaru. Futari de ocha o susuru aida, kokochiyoi shizukesa ga nagageta."
+  },
+  "s5.l073": {
+    "en": "Do you have a son?",
+    "ru": "У вас есть сын?",
+    "zh": "你有儿子吗？",
+    "ko": "아드님이 있으신가요?",
+    "ja": "「息子さんがいるんですか？」",
+    "romaji": "「Musuko-san ga iru n desu ka?」"
+  },
+  "s5.l074": {
+    "en": "She holds up one finger inquiringly.",
+    "ru": "Она вопросительно поднимает один палец.",
+    "zh": "她带着询问的神色竖起一根手指。",
+    "ko": "그녀가 손가락 하나를 들어 올리며 묻습니다.",
+    "ja": "彼女は尋ねるように指を1本立てた。",
+    "romaji": "Kanojo wa tazuneru you ni yubi o ippon tateta."
+  },
+  "s5.l075": {
+    "en": "Yes. My son. David. He lives here—in Nerima—with his wife and son.",
+    "ru": "Да. Мой сын. Дэвид. Он живет здесь, в Нэриме, с женой и сыном.",
+    "zh": "是的。我的儿子，戴维。他就住在练马区——和他的妻子、儿子住在一起。",
+    "ko": "네. 아들 데이비드요. 여기 네리마에서 아내랑 아들이랑 같이 살아요.",
+    "ja": "「はい、息子が。デイビッドです。妻と息子と一緒に、ここ練馬に住んでいます。」",
+    "romaji": "「Hai, musuko ga. Deibiddo desu. Tsuma to musuko to issho ni, koko Nerima ni sunde imasu.」"
+  },
+  "s5.l076": {
+    "en": "Ah, is your daughter-in-law Japanese?",
+    "ru": "А, ваша невестка японка?",
+    "zh": "哦，你的儿媳是日本人吗？",
+    "ko": "아, 며느님이 일본인인가요?",
+    "ja": "「あら、お嫁さんは日本人？」",
+    "romaji": "「Ara, oyome-san wa Nihonjin?」"
+  },
+  "s5.l077": {
+    "en": "Yes. Yuko. She's very kind.",
+    "ru": "Да. Юко. Она очень добрая.",
+    "zh": "是的。优子。她人很好。",
+    "ko": "네. 유코라고 해요. 아주 친절한 친구죠.",
+    "ja": "「ええ、陽子です。とても優しい子ですよ。」",
+    "romaji": "「Ee, Youko desu. Totemo yasashii ko desu yo.」"
+  },
+  "s5.l078": {
+    "en": "How nice. And a grandchild too?",
+    "ru": "Как мило. И внук тоже?",
+    "zh": "真好啊。还有孙辈吗？",
+    "ko": "좋네요. 손주도 있고요?",
+    "ja": "「いいですねえ。お孫さんも？」",
+    "romaji": "「Ii desu nee. Omago-san mo?」"
+  },
+  "s5.l079": {
+    "en": "Kenta. He's three.",
+    "ru": "Кэнта. Ему три года.",
+    "zh": "健太。他三岁了。",
+    "ko": "켄타예요. 세 살이죠.",
+    "ja": "「健二です。3歳になります。」",
+    "romaji": "「Kenji desu. Sansai ni narimasu.」"
+  },
+  "s5.l080": {
+    "en": "How cute!",
+    "ru": "Как мило!",
+    "zh": "好可爱啊！",
+    "ko": "귀여워라!",
+    "ja": "「可愛い盛りね！」",
+    "romaji": "「Kawaii zakari ne!」"
+  },
+  "s5.l081": {
+    "en": "She beams. Then her expression becomes more thoughtful.",
+    "ru": "Она сияет. Затем выражение ее лица становится более задумчивым.",
+    "zh": "她喜形于色。接着，她的神情变得更加深沉了。",
+    "ko": "그녀가 활짝 웃습니다. 그러다 이내 얼굴이 조금 진지해지네요.",
+    "ja": "彼女は破顔した。それから、少し考え深げな表情になる。",
+    "romaji": "Kanojo wa hagan shita. Sore kara, sukoshi kangaebukage na hyoujou ni naru."
+  },
+  "s5.l082": {
+    "en": "But it's hard, right? Japanese is difficult.",
+    "ru": "Но это трудно, правда? Японский язык сложен.",
+    "zh": "但是很辛苦吧？日语很难学。",
+    "ko": "그래도 많이 힘드시죠? 일본어가 워낙 어려우니까.",
+    "ja": "「でも大変でしょう？日本語、難しいでしょう。」",
+    "romaji": "「Demo taihen deshou? Nihongo, muzukashii deshou.」"
+  },
+  "s5.l083": {
+    "en": "Very. I studied for six months before coming. But it's different... here.",
+    "ru": "Очень. Я училась шесть месяцев перед приездом. Но здесь все по-другому.",
+    "zh": "确实很难。来之前我学了六个月。但在这里……感觉完全不同。",
+    "ko": "정말요. 오기 전에 6개월이나 공부했는데, 여기서 직접 부딪치는 건... 또 다르네요.",
+    "ja": "「とても。来る前に半年勉強したのですが、ここに来てみると……全然違いますね。」",
+    "romaji": "「Totemo. Kuru mae ni hantoshi benkyou shita no desu ga, koko ni kite miru to... zenzen chigaimasu ne.」"
+  },
+  "s5.l084": {
+    "en": "That's right. Textbooks and real life are different.",
+    "ru": "Это верно. Учебники и реальная жизнь — разные вещи.",
+    "zh": "没错。教科书和现实生活是不一样的。",
+    "ko": "맞아요. 교과서랑 실제는 확실히 다르죠.",
+    "ja": "「そうそう。教科書と現実は違うものよね。」",
+    "romaji": "「Sou sou. Kyoukasho to genjitsu wa chigau mono yo ne.」"
+  },
+  "s5.l085": {
+    "en": "The textbook and reality are different. That's exactly it.",
+    "ru": "Учебник и реальность различаются. Именно так.",
+    "zh": "教科书和现实是不一样的。正是如此。",
+    "ko": "교과서랑 현실은 다르다. 바로 그거야.",
+    "ja": "教科書と現実は違う。まさにその通りだ。",
+    "romaji": "Kyoukasho to genjitsu wa chigau. Masa ni sono toori da."
+  },
+  "s5.l086": {
+    "en": "But, you know—",
+    "ru": "Но, знаете ли...",
+    "zh": "但是，你看——",
+    "ko": "그래도 말이죠—",
+    "ja": "「でもね—」",
+    "romaji": "「Demo ne—」"
+  },
+  "s5.l087": {
+    "en": "At the pharmacy, you were able to say 'shokugo,' right?",
+    "ru": "В аптеке вы смогли сказать «сёкуго», верно?",
+    "zh": "在药房，你能说出“shokugo”（饭后），对吧？",
+    "ko": "아까 약국에서 '식후(쇼쿠고)'라고 말씀하셨잖아요.",
+    "ja": "「さっきの薬局で、『食後』って言えたんでしょう？」",
+    "romaji": "「Sakki no yakkyoku de, 『shokugo』 tte ietan deshou?」"
+  },
+  "s5.l088": {
+    "en": "Even just that is amazing, I think.",
+    "ru": "По-моему, даже это уже потрясающе.",
+    "zh": "我觉得光凭这一点就很了不起了。",
+    "ko": "그것만으로도 대단하신 거예요.",
+    "ja": "「それだけでも、すごいことだと思うわ。」",
+    "romaji": "「Sore dake demo, sugoi koto da to omou wa.」"
+  },
+  "s5.l089": {
+    "en": "You said 'shokugo.' And it was understood. One small word, in the right place.",
+    "ru": "Вы сказали «сёкуго». И вас поняли. Одно маленькое слово в нужном месте.",
+    "zh": "你说出了“shokugo”。而且对方听懂了。一个简单的词，用在了正确的地方。",
+    "ko": "'식후'라고 말했고, 상대가 알아들었어. 딱 맞는 상황에 쓰인 작은 한마디.",
+    "ja": "「食後」と言えた。そして通じた。たった一つの小さな言葉が、しかるべき場所で通じたのだ。",
+    "romaji": "『Shokugo』 to ieta. Soshite tsuujita. Tatta hitotsu no chiisana kotoba ga, shikarubeki basho de tsuujita no da."
+  },
+  "s5.l090": {
+    "en": "I taught children to read for thirty years.",
+    "ru": "Я тридцать лет учила детей читать.",
+    "zh": "我教了三十年孩子读书。",
+    "ko": "30년 동안 아이들에게 글을 가르쳤지.",
+    "ja": "私は30年間、子どもたちに読み書きを教えてきた。",
+    "romaji": "Watashi wa sanjuunenkan, kodomotachi ni yomikaki o oshiete kita."
+  },
+  "s5.l091": {
+    "en": "I know how much a small thing can mean at the start.",
+    "ru": "Я знаю, как много значит любая мелочь в самом начале.",
+    "zh": "我知道在起步阶段，一点小小的收获意味着什么。",
+    "ko": "처음 시작할 때 작은 성취가 얼마나 큰 의미인지 잘 알아.",
+    "ja": "最初の一歩において、小さなことがどれほどの意味を持つか、よく知っている。",
+    "romaji": "Saisho no ippo ni oite, chiisana koto ga dore hodo no imi o motsu ka, yoku shitte iru."
+  },
+  "s5.l092": {
+    "en": "You know, on Mondays there's an English conversation class at the community center.",
+    "ru": "Знаете, по понедельникам в общественном центре проходят уроки английского разговорного языка.",
+    "zh": "你看，每周一在社区中心都有英语会话课。",
+    "ko": "있잖아요, 월요일마다 공민관에서 영어 회화 교실이 열려요.",
+    "ja": "「あのね、月曜日に公民館で英会話教室があるのよ。」",
+    "romaji": "「Ano ne, getsuyoubi ni kouminkan de eikaiwa kyoushitsu ga aru no yo.」"
+  },
+  "s5.l093": {
+    "en": "Everyone wants to study English. They're struggling because they don't have a teacher.",
+    "ru": "Все хотят учить английский. Им трудно, потому что нет учителя.",
+    "zh": "大家都想学英语。但因为没有老师，大家都很犯难。",
+    "ko": "다들 영어를 배우고 싶어 하는데, 선생님이 없어서 고민이거든요.",
+    "ja": "「みんな英語を勉強したがってるんだけど、先生がいなくて困っててね。」",
+    "romaji": "「Minna eigo o benkyou shitagatteru n da kedo, sensei ga inakute komattete ne.」"
+  },
+  "s5.l094": {
+    "en": "An English conversation class at the community center. No teacher.",
+    "ru": "Класс английского разговорного в общественном центре. Без учителя.",
+    "zh": "社区中心的英语会话课。没有老师。",
+    "ko": "공민관 영어 회화 교실이라. 선생님도 없고.",
+    "ja": "公民館での英会話教室。先生がいない。",
+    "romaji": "Kouminkan de no eikaiwa kyoushitsu. Sensei ga inai."
+  },
+  "s5.l095": {
+    "en": "She looks at you sideways, sipping her tea.",
+    "ru": "Она смотрит на вас искоса, потягивая чай.",
+    "zh": "她一边呷着茶，一边侧过头看着你。",
+    "ko": "그녀가 차를 마시며 곁눈질로 당신을 살핍니다.",
+    "ja": "彼女はお茶をすすりながら、横目でこちらを見ている。",
+    "romaji": "Kanojo wa ocha o susuri nagara, yokome de kochira o mite iru."
+  },
+  "s5.l096": {
+    "en": "She's not suggesting what I think she's suggesting.",
+    "ru": "Она ведь не намекает на то, о чем я думаю.",
+    "zh": "她该不会是在暗示我想的那件事吧。",
+    "ko": "설마 내가 생각하는 걸 제안하려는 건 아니겠지.",
+    "ja": "私の勘違いでなければ、彼女は……。",
+    "romaji": "Watashi no kanchigai de nakereba, kanojo wa..."
+  },
+  "s5.l097": {
+    "en": "If you'd like—",
+    "ru": "Если хотите...",
+    "zh": "如果你愿意的话——",
+    "ko": "만약 괜찮으시다면—",
+    "ja": "「もしよかったら—」",
+    "romaji": "「Moshi yokattara—」"
+  },
+  "s5.l098": {
+    "en": "Offer to help",
+    "ru": "Предложить помощь",
+    "zh": "主动提供帮助",
+    "ko": "도움 제안하기",
+    "ja": "手伝いを申し出る",
+    "romaji": "Tetsudai o moushideru"
+  },
+  "s5.l099": {
+    "en": "Deflect gently",
+    "ru": "Мягко уклониться",
+    "zh": "委婉推辞",
+    "ko": "완곡하게 거절하기",
+    "ja": "丁寧にやんわりと断る",
+    "romaji": "Teinei ni yanwari to kotowaru"
+  },
+  "s5.l100": {
+    "en": "Monday morning. The Nerima Ward Community Center.",
+    "ru": "Понедельник, утро. Общественный центр района Нэрима.",
+    "zh": "周一早晨。练马区社区中心。",
+    "ko": "월요일 아침. 네리마구 공민관.",
+    "ja": "月曜日の朝。練馬区の公民館。",
+    "romaji": "Getsuyoubi no asa. Nerima-ku no kouminkan."
+  },
+  "s5.l101": {
+    "en": "You carry a cloth bag. Inside: your pocket notebook, two pens, a travel dictionary, and a tin of shortbread from Yuko as a gift.",
+    "ru": "У вас с собой матерчатая сумка. Внутри: карманный блокнот, две ручки, дорожный словарь и жестяная банка печенья от Юко в подарок.",
+    "zh": "你提着一个布袋。里面装着：你的口袋笔记本、两支笔、一份旅行词典，还有优子送的一罐酥饼作为礼物。",
+    "ko": "천 가방을 들고 나섭니다. 안에는 수첩, 펜 두 자루, 여행용 사전, 그리고 유코가 준 선물용 쿠키 한 상자가 들어 있습니다.",
+    "ja": "布のバッグを持っていく。中にはノート、ペン2本、ポケット辞書、そして陽子からもらった手土産のショートブレッド。",
+    "romaji": "Nuno no baggu o motte iku. Naka ni wa nooto, pen nihon, poketto jisho, soshite Youko kara moratta temiyage no shootobureddo."
+  },
+  "s5.l102": {
+    "en": "The hallway has bulletin boards crammed with flyers—cooking classes, calligraphy, tai chi, chorus.",
+    "ru": "В коридоре висят доски объявлений, забитые листовками: кулинарные классы, каллиграфия, тайцзи, хор.",
+    "zh": "走廊的公告栏上贴满了传单——烹饪课、书法、太极、合唱。",
+    "ko": "복도 게시판에는 요리 교실, 서예, 태극권, 합창단 같은 전단지들이 빼곡히 붙어 있습니다.",
+    "ja": "廊下の掲示板には、料理教室、書道、太極拳、コーラスなど、チラシがびっしりと貼られている。",
+    "romaji": "Rouka no keijiban ni wa, ryouri kyoushitsu, shodou, taikyokuken, koorasu nado, chirashi ga bisshiri to hararete iru."
+  },
+  "s5.l103": {
+    "en": "You stop and read them, slowly, sounding out kanji you recognize.",
+    "ru": "Вы останавливаетесь и читаете их, медленно произнося вслух знакомые иероглифы.",
+    "zh": "你停下脚步阅读它们，慢慢地读出你认得出的汉字。",
+    "ko": "발걸음을 멈추고 천천히 읽어 봅니다. 아는 한자가 나오면 입속으로 소리 내어 봅니다.",
+    "ja": "立ち止まり、知っている漢字を拾いながらゆっくりと読む。",
+    "romaji": "Tachidomari, shitte iru kanji o hiroi nagara yukkuri to yomu."
+  },
+  "s5.l104": {
+    "en": "Handicrafts... hobbies... I know these.",
+    "ru": "Рукоделие... хобби... Эти слова я знаю.",
+    "zh": "手工艺……爱好……这些我认识。",
+    "ko": "수공예... 취미... 이런 건 알겠어.",
+    "ja": "「手芸……趣味……これなら知っている。」",
+    "romaji": "「Shugei... shumi... kore nara shitte iru.」"
+  },
+  "s5.l105": {
+    "en": "Yamamoto-san appears at the end of the hallway and waves.",
+    "ru": "Ямамото-сан появляется в конце коридора и машет рукой.",
+    "zh": "山本桑出现在走廊尽头，挥了挥手。",
+    "ko": "복도 끝에서 야마모토 씨가 나타나 손을 흔듭니다.",
+    "ja": "廊下の奥に山本さんが現れ、手を振った。",
+    "romaji": "Rouka no oku ni Yamamoto-san ga araware, te o futta."
+  },
+  "s5.l106": {
+    "en": "Margaret-san! You came!",
+    "ru": "Маргарет-сан! Вы пришли!",
+    "zh": "玛格丽特桑！你来了！",
+    "ko": "마가렛 씨! 오셨군요!",
+    "ja": "「マーガレットさん！来てくれたのね！」",
+    "romaji": "「Maagaretto-san! Kite kureta no ne!」"
+  },
+  "s5.l107": {
+    "en": "Everyone was looking forward to this.",
+    "ru": "Все этого очень ждали.",
+    "zh": "大家都很期待这件事呢。",
+    "ko": "다들 오늘을 얼마나 기다렸다고요.",
+    "ja": "「みんな楽しみにしてたのよ。」",
+    "romaji": "「Minna tanoshimi ni shiteta no yo.」"
+  },
+  "s5.l108": {
+    "en": "I hope I can be useful.",
+    "ru": "Надеюсь, я смогу быть полезной.",
+    "zh": "我希望我能派上用场。",
+    "ko": "도움이 됐으면 좋겠네요.",
+    "ja": "「お役に立てるといいのですが。」",
+    "romaji": "「Oyaku ni tateru to ii no desu ga.」"
+  },
+  "s5.l109": {
+    "en": "It's okay. They're all good people.",
+    "ru": "Все в порядке. Они все хорошие люди.",
+    "zh": "没关系的。他们都是好人。",
+    "ko": "괜찮아요. 다들 좋은 분들이니까요.",
+    "ja": "「大丈夫よ。みんな良い人たちだから。」",
+    "romaji": "「Daijoubu yo. Minna ii hito-tachi dakara.」"
+  },
+  "s5.l110": {
+    "en": "The room has six folding tables pushed together. Around them sit eight people.",
+    "ru": "В комнате сдвинуты шесть складных столов. За ними сидят восемь человек.",
+    "zh": "房间里并排摆着六张折叠桌。约有八个人围坐在一起。",
+    "ko": "교실에는 접이식 책상 여섯 개가 나란히 붙어 있고, 여덟 명의 사람들이 앉아 있습니다.",
+    "ja": "部屋には折りたたみ机が6脚寄せ合わされ、8人ほどが囲んで座っていた。",
+    "romaji": "Heya ni wa oritatami tsukue ga rokkyaku yoseawasare, hachinin hodo ga kakonde suwatte ita."
+  },
+  "s5.l111": {
+    "en": "Ages ranging from perhaps forty-five to—well. One woman might be eighty.",
+    "ru": "Возраст — где-то от сорока пяти до... ну, одной женщине может быть восемьдесят.",
+    "zh": "年龄分布大概从四十五岁到——嗯，有一位女士可能有八十岁了。",
+    "ko": "40대 중반부터... 음, 80세는 족히 되어 보이는 할머니 한 분까지 연령대가 다양하네요.",
+    "ja": "年齢は45歳くらいから……そう、80歳くらいに見える女性もいる。",
+    "romaji": "Nenrei wa yonjuugo-sai kurai kara... sou, hachijuu-sai kurai ni mieru josei mo iru."
+  },
+  "s5.l112": {
+    "en": "They all look up when you enter.",
+    "ru": "При вашем появлении все поднимают головы.",
+    "zh": "当你进屋时，他们都抬起头来看向你。",
+    "ko": "당신이 들어가자 모두가 고개를 들어 쳐다봅니다.",
+    "ja": "私が入ると、全員が一斉に顔を上げた。",
+    "romaji": "Watashi ga hairu to, zen'in ga issei ni kao o ageta."
+  },
+  "s5.l113": {
+    "en": "For a moment you feel exactly like a new student on the first day.",
+    "ru": "На миг вы чувствуете себя первоклассницей в первый учебный день.",
+    "zh": "有一瞬间，你觉得教自己就像是开学第一天的新生。",
+    "ko": "잠깐 동안 학교 첫날의 신입생이 된 것 같은 기분이 듭니다.",
+    "ja": "一瞬、新学期初日の転校生のような緊張感が走る。",
+    "romaji": "Isshun, shingakki shonichi no tenkousei no you na kinchoukan ga hashiru."
+  },
+  "s5.l114": {
+    "en": "Then something else comes back—the teacher part of you, dormant for three years.",
+    "ru": "Затем возвращается кое-что другое — учительская жилка, дремавшая три года.",
+    "zh": "接着，另一种感觉涌上心头——那是身为老师的一面，已经沉睡了三年。",
+    "ko": "그러다 곧 3년 동안 잠들어 있던 교사의 본능이 깨어납니다.",
+    "ja": "だが次の瞬間、3年間眠っていた『教師』としての自分が蘇ってきた。",
+    "romaji": "Daga tsugi no shunkan, sannenkan nemutte ita 『kyoushi』 to shite no jibun ga yomigaette kita."
+  },
+  "s5.l115": {
+    "en": "You stand straight. You smile.",
+    "ru": "Вы выпрямляетесь. Улыбаетесь.",
+    "zh": "你挺直身子。微笑着。",
+    "ko": "허리를 펴고 미소 짓습니다.",
+    "ja": "背筋を伸ばし、微笑みかける。",
+    "romaji": "Sesuji o nobashi, hohoemikakeru."
+  },
+  "s5.l116": {
+    "en": "Good morning. My name is Margaret.",
+    "ru": "Доброе утро. Меня зовут Маргарет.",
+    "zh": "早上好。我的名字叫玛格丽特。",
+    "ko": "안녕하세요. 마가렛이라고 합니다.",
+    "ja": "「おはようございます。マーガレットと申します。」",
+    "romaji": "「Ohayou gozaimasu. Maagaretto to moushimasu.」"
+  },
+  "s5.l117": {
+    "en": "I understand you want to practice English. So do I want to practice Japanese.",
+    "ru": "Я так понимаю, вы хотите попрактиковаться в английском. А я хочу попрактиковаться в японском.",
+    "zh": "我听说你们想练习英语。同样，我也想练习日语。",
+    "ko": "여러분이 영어를 배우고 싶어 하신다고 들었어요. 저도 일본어를 연습하고 싶고요.",
+    "ja": "「皆さんが英語を練習したいように、私も日本語を練習したいと思っています。」",
+    "romaji": "「Minasan ga eigo o renshuu shitai you ni, watashi mo Nihongo o renshuu shitai to omotte imasu.」"
+  },
+  "s5.l118": {
+    "en": "So—shall we help each other?",
+    "ru": "Так что... поможем друг другу?",
+    "zh": "所以——我们要互相帮助吗？",
+    "ko": "그러니—우리 서로 도와주면 어떨까요?",
+    "ja": "「ですから――お互いに教え合いませんか？」",
+    "romaji": "「Desu kara――otagai ni oshieaimasen ka?」"
+  },
+  "s5.l119": {
+    "en": "A beat of silence.",
+    "ru": "Секундная тишина.",
+    "zh": "室内沉默了一会儿。",
+    "ko": "잠시 정적이 흐릅니다.",
+    "ja": "一瞬の静寂。",
+    "romaji": "Isshun no seijaku."
+  },
+  "s5.l120": {
+    "en": "Then the eighty-year-old woman at the back—small, wearing a violet cardigan—claps her hands.",
+    "ru": "Затем восьмидесятилетняя женщина в глубине — маленькая, в фиолетовом кардигане — хлопает в ладоши.",
+    "zh": "随后，坐在后面的一位八十岁的女士——个子小小，穿着一件紫色开衫——拍了拍手。",
+    "ko": "그러자 뒷자리에 앉아 있던 보라색 가디건 차림의 80세 할머니가 손뼉을 칩니다.",
+    "ja": "すると、奥に座っていた紫のカーディガンを着た小柄な80歳の女性が、嬉しそうに手を叩いた。",
+    "romaji": "Suruto, oku ni suwatte ita murasaki no kaadigan o kita kogara na hachijuu-sai no josei ga, ureshisou ni te o tataita."
+  },
+  "s5.l121": {
+    "en": "Interesting!",
+    "ru": "Интересно!",
+    "zh": "有趣！",
+    "ko": "재미있구먼!",
+    "ja": "「面白い！」",
+    "romaji": "「Omoshiroi!」"
+  },
+  "s5.l122": {
+    "en": "Laughter moves around the table. The tension breaks.",
+    "ru": "По столу пробегает смех. Напряжение исчезает.",
+    "zh": "笑声在桌子周围荡漾开来。紧张的气氛被打破了。",
+    "ko": "웃음소리가 교실 안에 번집니다. 긴장이 풀리네요.",
+    "ja": "テーブルの周りに笑いが広がり、緊張が一気に解けた。",
+    "romaji": "Teeburu no mawari ni warai ga hirogari, kinchou ga ikki ni toketa."
+  },
+  "s5.l123": {
+    "en": "A man in his fifties—reading glasses pushed up on his head—leans forward.",
+    "ru": "Мужчина лет пятидесяти — очки для чтения сдвинуты на макушку — наклоняется вперед.",
+    "zh": "一位五十多岁的男士——老花镜推到了头顶——向前探了探身子。",
+    "ko": "머리 위로 돋보기를 올려 쓴 50대 남성이 몸을 앞으로 내밉니다.",
+    "ja": "老眼鏡を頭に乗せた50代の男性が、身を乗り出した。",
+    "romaji": "Rougankyou o atama ni noseta gojuudai no dansei ga, mi o noridashita."
+  },
+  "s5.l124": {
+    "en": "I am Tanaka Toru. I am study English for business trip next year.",
+    "ru": "Я Танака Тору. Я учить английский для деловая поездка в следующем году.",
+    "zh": "我叫田中徹（Tanaka Toru）。我在学英语，是为了明年的出差。",
+    "ko": "저는 타나카 토루입니다. 내년 출장을 위해서 영어를 공부하고 있습니다.",
+    "ja": "「田中徹と申します。来年の出張のために英語を勉強しています。」",
+    "romaji": "「Tanaka Tooru to moushimasu. Rainen no shucchou no tame ni eigo o benkyou shite imasu.」"
+  },
+  "s5.l125": {
+    "en": "Very good, Tanaka-san.",
+    "ru": "Очень хорошо, Танака-сан.",
+    "zh": "很好，田中桑。",
+    "ko": "좋아요, 타나카 씨.",
+    "ja": "「素晴らしいですね、田中さん。」",
+    "romaji": "「Subarashii desu ne, Tanaka-san.」"
+  },
+  "s5.l126": {
+    "en": "How do you say: my English is very... bad?",
+    "ru": "Как сказать: мой английский очень... плохой?",
+    "zh": "怎么说来着：“我的英语非常……差”？",
+    "ko": "어떻게 말하죠? '제 영어 실력은 정말... 형편없어요'라고 하려면요.",
+    "ja": "「『私の英語は下手です』はどう言えばいいですか？」",
+    "romaji": "「『Watashi no eigo wa heta desu』 wa dou ieba ii desu ka?」"
+  },
+  "s5.l127": {
+    "en": "Your English is a work in progress.",
+    "ru": "Ваш английский в процессе совершенствования.",
+    "zh": "你的英语尚在提高中。",
+    "ko": "영어 실력이 쑥쑥 늘고 있는 중이신걸요.",
+    "ja": "「『私の英語は上達の途中です』と言いましょう。」",
+    "romaji": "「『Watashi no eigo wa joutatsu no tochuu desu』 to iimashou.」"
+  },
+  "s5.l128": {
+    "en": "Getting much better.",
+    "ru": "Становится намного лучше.",
+    "zh": "正在变得越来越好。",
+    "ko": "점점 더 잘하고 계세요.",
+    "ja": "「どんどん上手になっていますよ。」",
+    "romaji": "「Dondon jouzu ni natte imasu yo.」"
+  },
+  "s5.l129": {
+    "en": "Margaret-sensei, how much Japanese can you speak?",
+    "ru": "Маргарет-сэнсэй, как много вы понимаете по-японски?",
+    "zh": "玛格丽特老师（Margaret-sensei），你的日语能说多少？",
+    "ko": "마가렛 선생님, 일본어는 어느 정도 하세요?",
+    "ja": "「マーガレット先生、日本語はどのくらい話せますか？」",
+    "romaji": "「Maagaretto-sensei, Nihongo wa dono kurai hanasemasu ka?」"
+  },
+  "s5.l130": {
+    "en": "How much Japanese can I do. Honest answer.",
+    "ru": "Сколько я знаю по-японски. Честный ответ.",
+    "zh": "我的日语能行吗。得诚实回答。",
+    "ko": "일본어를 얼마나 할 수 있냐니. 솔직하게 대답해야겠지.",
+    "ja": "どのくらい話せるか。正直に答えよう。",
+    "romaji": "Dono kurai hanaseru ka. Shoujiki ni kotaeyou."
+  },
+  "s5.l131": {
+    "en": "A little. Just a little. But I study every day.",
+    "ru": "Немного. Совсем чуть-чуть. Но я занимаюсь каждый день.",
+    "zh": "一点点。只有一点点。但是——我每天都在学习。",
+    "ko": "조금요. 정말 조금밖에 못 해요. 하지만—매일 공부하고 있어요.",
+    "ja": "「少しだけ。ほんの少しです。でも、毎日勉強しています。」",
+    "romaji": "「Sukoshi dake. Honno sukoshi desu. Demo, mainichi benkyou shite imasu.」"
+  },
+  "s5.l132": {
+    "en": "Every day!",
+    "ru": "Каждый день!",
+    "zh": "每天！",
+    "ko": "매일요!",
+    "ja": "「毎日！」",
+    "romaji": "「Mainichi!」"
+  },
+  "s5.l133": {
+    "en": "That's the most important thing. Persistence is power.",
+    "ru": "Это самое главное. Настойчивость — это сила.",
+    "zh": "那是最重要的事情。坚持就是力量。",
+    "ko": "그게 제일 중요하죠. 계속하는 게 곧 실력이니까요.",
+    "ja": "「それが一番大切ですよ。継続は力なり、ですね。」",
+    "romaji": "「Sore ga ichiban taisetsu desu yo. Keizoku wa chikara nari, desu ne.」"
+  },
+  "s5.l134": {
+    "en": "Persistence is power. You write it in your notebook.",
+    "ru": "Настойчивость — это сила. Вы записываете это в свой блокнот.",
+    "zh": "坚持就是力量。你把它写进了你的笔记本里。",
+    "ko": "계속하는 것이 힘이다. 수첩에 이 말을 기록합니다.",
+    "ja": "「継続は力なり」。ノートにメモを取る。",
+    "romaji": "『Keizoku wa chikara nari』. Nooto ni memo o toru."
+  },
+  "s5.l135": {
+    "en": "The next two hours are the strangest teaching experience of your life.",
+    "ru": "Следующие два часа становятся самым странным педагогическим опытом в вашей жизни.",
+    "zh": "接下来的两个小时，是你人生中最奇特的一次教学体验。",
+    "ko": "이어지는 두 시간은 당신 인생에서 가장 기묘한 교육 경험이 될 것입니다.",
+    "ja": "それからの2時間は、私の人生で最も不思議な授業となった。",
+    "romaji": "Sore kara no nijikan wa, watashi no jinsei de mottomo fushigi na jugyou to natta."
+  },
+  "s5.l136": {
+    "en": "And also, oddly, one of the best.",
+    "ru": "И, как ни странно, одним из лучших.",
+    "zh": "而且，说来也怪，这也是最好的一次。",
+    "ko": "그리고 이상하게도, 가장 멋진 경험 중 하나이기도 하죠.",
+    "ja": "そして同時に、奇妙なほど素晴らしい時間でもあった。",
+    "romaji": "Soshite douji ni, kimyou na hodo subarashii jikan de mo atta."
+  },
+  "s5.l137": {
+    "en": "You teach them: introductions, asking for directions, ordering at a restaurant.",
+    "ru": "Вы учите их: приветствиям, умению спрашивать дорогу, заказывать еду в ресторане.",
+    "zh": "你教他们：自我介绍、问路、在餐厅点餐。",
+    "ko": "당신은 그들에게 자기소개, 길 묻기, 식당에서 주문하기를 가르칩니다.",
+    "ja": "私は彼らに教えた。自己紹介、道案内の頼み方、レストランでの注文。",
+    "romaji": "Watashi wa karera ni oshieta. Jikoshoukai, michi annai no tanomikata, resutoran de no chuumon."
+  },
+  "s5.l138": {
+    "en": "They teach you: how to count things correctly (flat things, long things, small animals are all counted differently).",
+    "ru": "Они учат вас: как правильно считать вещи (плоские предметы, длинные предметы, маленькие животные — всё считается по-разному).",
+    "zh": "他们教你：如何正确地计数（扁平的东西、细长的东西、小动物的计数方式各不相同）。",
+    "ko": "그들은 당신에게 올바른 숫자 세기를 가르쳐 줍니다. 얇은 것, 긴 것, 작은 동물은 세는 단위가 다 다르네요.",
+    "ja": "彼らは私に教えた。助数詞の正しい数え方（薄いもの、細長いもの、小動物はすべて数え方が違うこと）。",
+    "romaji": "Karera wa watashi ni oshieta. Josuushi no tadashii kazoekata (usui mono, hosonagai mono, shoudoubutsu wa subete kazoekata ga chigau koto)."
+  },
+  "s5.l139": {
+    "en": "You make mistakes. They correct you gently.",
+    "ru": "Вы совершаете ошибки. Они мягко вас поправляют.",
+    "zh": "你会犯错。他们会温柔地纠正你。",
+    "ko": "당신은 실수를 하고, 그들은 정중하게 고쳐 줍니다.",
+    "ja": "私が間違えると、彼らは優しく直してくれた。",
+    "romaji": "Watashi ga machigaeru to, karera wa yasashiku naoshite kureta."
+  },
+  "s5.l140": {
+    "en": "They make mistakes. You correct them gently.",
+    "ru": "Они совершают ошибки. Вы мягко поправляете их.",
+    "zh": "他们会犯错。你会温柔地纠正他们。",
+    "ko": "그들이 실수하면, 당신이 친절하게 알려 주죠.",
+    "ja": "彼らが間違えると、私は優しく直してあげた。",
+    "romaji": "Karera ga machigaeru to, watashi wa yasashiku naoshite ageta."
+  },
+  "s5.l141": {
+    "en": "Somehow, this feels exactly right.",
+    "ru": "Почему-то это кажется абсолютно правильным.",
+    "zh": "不知为何，这种感觉完全正确。",
+    "ko": "어쩐지 이게 다 완벽하게 느껴집니다.",
+    "ja": "なぜか、これがたまらなく心地よかった。",
+    "romaji": "Naze ka, kore ga tamaranaku kokochiyokatta."
+  },
+  "s5.l142": {
+    "en": "How do I ask... someone... the time? In English?",
+    "ru": "Как... спросить... время? По-английски?",
+    "zh": "用英语……怎么问别人……时间？",
+    "ko": "사람들에게 시간을 물어보려면... 영어로... 어떻게 하죠?",
+    "ja": "「時間を尋ねる時は、英語でどう言うんですか？」",
+    "romaji": "「Jikan o tazuneru toki wa, eigo de dou iu n desu ka?」"
+  },
+  "s5.l143": {
+    "en": "'Excuse me, could you tell me the time?'",
+    "ru": "«Простите, не могли бы вы сказать мне, который час?»",
+    "zh": "“Excuse me, could you tell me the time?”（打扰一下，请问现在几点了？）",
+    "ko": "'Excuse me, could you tell me the time?'이라고 하시면 돼요.",
+    "ja": "「『すみません、時間を教えていただけますか？』ですね。」",
+    "romaji": "「『Sumimasen, jikan o oshiete itadakemasu ka?』 desu ne.」"
+  },
+  "s5.l144": {
+    "en": "Excuse me... could you tell me... the time.",
+    "ru": "Извините... не могли бы вы сказать мне... время.",
+    "zh": "Excuse me... could you tell me... the time.（打扰一下……请问……现在几点。）",
+    "ko": "Excuse me... could you tell me... the time.",
+    "ja": "「すみません……時間を……教えていただけますか。」",
+    "romaji": "「Sumimasen... jikan o... oshiete itadakemasu ka.」"
+  },
+  "s5.l145": {
+    "en": "Like this?",
+    "ru": "Так?",
+    "zh": "是这样吗？",
+    "ko": "이렇게 하면 되나요?",
+    "ja": "「こんな感じですか？」",
+    "romaji": "「Konna kanji desu ka?」"
+  },
+  "s5.l146": {
+    "en": "Perfect.",
+    "ru": "Идеально.",
+    "zh": "完美。",
+    "ko": "완벽해요.",
+    "ja": "「完璧です。」",
+    "romaji": "「Kanpeki desu.」"
+  },
+  "s5.l147": {
+    "en": "Margaret-sensei, now it's my turn.",
+    "ru": "Маргарет-сэнсэй, теперь моя очередь.",
+    "zh": "玛格丽特老师，现在轮到我了。",
+    "ko": "마가렛 선생님, 이번엔 제 차례예요.",
+    "ja": "「マーガレット先生、今度は私の番です。」",
+    "romaji": "「Maagaretto-sensei, kondo wa watashi no ban desu.」"
+  },
+  "s5.l148": {
+    "en": "Can you say, 'Could you please tell me?'",
+    "ru": "Можете сказать: «Не могли бы вы сказать мне?»",
+    "zh": "你能说，“能请您告诉我吗？”吗？",
+    "ko": "'가르쳐 주시겠습니까?'라고 말해 보시겠어요?",
+    "ja": "「『教えていただけますか？』と言ってみてください。」",
+    "romaji": "「『Oshiete itadakemasu ka?』 to itte mite kudasai.」"
+  },
+  "s5.l149": {
+    "en": "Oshiete... itadake... masu ka?",
+    "ru": "Осиэтэ... итадакэ... масу ка?",
+    "zh": "Oshiete... itadake... masu ka?（能请您……告诉我……吗？）",
+    "ko": "오시에테... 이타다케... 마스 카?",
+    "ja": "「おしえて……いただけ……ますか？」",
+    "romaji": "「Oshiete... itadake... masu ka?」"
+  },
+  "s5.l150": {
+    "en": "The class erupts in delighted applause.",
+    "ru": "Класс взрывается радостными аплодисментами.",
+    "zh": "全班爆发出了欢快的掌声。",
+    "ko": "교실 안이 환호와 박수 소리로 가득 찹니다.",
+    "ja": "教室中から大きな拍手と歓声が上がった。",
+    "romaji": "Kyoushitsujuu kara ookina hakushu to kansei ga agatta."
+  },
+  "s5.l151": {
+    "en": "Excellent! Excellent!",
+    "ru": "Отлично! Отлично!",
+    "zh": "太棒了！太棒了！",
+    "ko": "잘한다! 잘해!",
+    "ja": "「素晴らしい！上手ですね！」",
+    "romaji": "「Subarashii! Jouzu desu ne!」"
+  },
+  "s5.l152": {
+    "en": "I've been applauded for saying five syllables.",
+    "ru": "Мне аплодировали за фразу из пяти слогов.",
+    "zh": "我只是说了五个音节，就赢得了满堂喝彩。",
+    "ko": "겨우 다섯 마디 말했을 뿐인데 박수갈채를 받다니.",
+    "ja": "たった数音の言葉を言えただけで、こんなに拍手をもらえるなんて。",
+    "romaji": "Tatta suuon no kotoba o ieta dake de, konna ni hakushu o moraeru nante."
+  },
+  "s5.l153": {
+    "en": "And I am genuinely pleased.",
+    "ru": "И я искренне рада.",
+    "zh": "而我也由衷地感到高兴。",
+    "ko": "근데 정말 기분 좋네.",
+    "ja": "そしてそれが、心から誇らしくて嬉しい。",
+    "romaji": "Soshite sore ga, kokoro kara hokorashikute ureshii."
+  },
+  "s5.l154": {
+    "en": "How was it?",
+    "ru": "Как всё прошло?",
+    "zh": "感觉怎么样？",
+    "ko": "어떠셨어요?",
+    "ja": "「どうでしたか？」",
+    "romaji": "「Dou deshita ka?」"
+  },
+  "s5.l155": {
+    "en": "I haven't enjoyed teaching that much in years.",
+    "ru": "Я не получала такого удовольствия от преподавания уже много лет.",
+    "zh": "我已经很多年没有这么快乐地教过书了。",
+    "ko": "가르치는 게 이렇게 즐거웠던 건 정말 오랜만이에요.",
+    "ja": "「教えることがこんなに楽しいと感じたのは、何年ぶりかしら。」",
+    "romaji": "「Oshieru koto ga konna ni tanoshii to kanjita no wa, nannen-buri kashira.」"
+  },
+  "s5.l156": {
+    "en": "Really?",
+    "ru": "Правда?",
+    "zh": "真的吗？",
+    "ko": "정말요?",
+    "ja": "「本当に？」",
+    "romaji": "「Hontou ni?」"
+  },
+  "s5.l157": {
+    "en": "In Portland, the last few years—I was tired.",
+    "ru": "В Портленде в последние несколько лет я была измотана.",
+    "zh": "在波特兰的时候，最后的几年——我感到很累。",
+    "ko": "포틀랜드에서의 마지막 몇 년은... 참 지쳐 있었거든요.",
+    "ja": "「ポートランドでの最後の数年間は、ずっと疲れ切っていたの。」",
+    "romaji": "「Pootorando de no saigo no suunenkan wa, zutto tsukarekitte ita no.」"
+  },
+  "s5.l158": {
+    "en": "I forgot why I started teaching.",
+    "ru": "Я забыла, почему вообще начала этим заниматься.",
+    "zh": "我忘记了自己当初为什么要执教。",
+    "ko": "내가 왜 교사가 됐었는지조차 잊고 살았죠.",
+    "ja": "「どうして教師になったのかさえ、忘れてしまっていたくらい。」",
+    "romaji": "「Doushite kyoushi ni natta no ka sae, wasurete shimatte ita kurai.」"
+  },
+  "s5.l159": {
+    "en": "But today, did you remember?",
+    "ru": "Но сегодня вы вспомнили?",
+    "zh": "但今天，你记起来了吗？",
+    "ko": "하지만 오늘, 다시 떠올리신 거군요?",
+    "ja": "「でも今日、思い出せましたか？」",
+    "romaji": "「Demo kyou, omoidasemashita ka?」"
+  },
+  "s5.l160": {
+    "en": "Today... yes. I remembered.",
+    "ru": "Сегодня... да. Я вспомнила.",
+    "zh": "今天……是的。我记起来了。",
+    "ko": "오늘... 네. 다시 생각났어요.",
+    "ja": "「今日……ええ。思い出したわ。」",
+    "romaji": "「Kyou... ee. Omoidashita wa.」"
+  },
+  "s5.l161": {
+    "en": "She nods, satisfied, and says nothing more.",
+    "ru": "Она удовлетворенно кивает и больше ничего не говорит.",
+    "zh": "她满意地点了点头，不再多说什么。",
+    "ko": "그녀가 만족스러운 듯 고개를 끄덕입니다. 더는 묻지 않네요.",
+    "ja": "彼女は満足そうに頷き、それ以上は何も言わなかった。",
+    "romaji": "Kanojo wa manzokusou ni unazuki, sore ijou wa nani mo iwanakatta."
+  },
+  "s5.l162": {
+    "en": "That is enough.",
+    "ru": "Этого достаточно.",
+    "zh": "这就足够了。",
+    "ko": "그걸로 충분합니다.",
+    "ja": "それで十分だった。",
+    "romaji": "Sore de juubun datta."
+  },
+  "s5.l163": {
+    "en": "Three weeks later.",
+    "ru": "Три недели спустя.",
+    "zh": "三周后。",
+    "ko": "3주 후.",
+    "ja": "3週間後。",
+    "romaji": "Sanshuukan-go."
+  },
+  "s5.l164": {
+    "en": "David and Yuko's apartment. Sunday dinner.",
+    "ru": "Квартира Дэвида и Юко. Воскресный ужин.",
+    "zh": "戴维和优子的公寓。周日晚餐。",
+    "ko": "데이비드와 유코의 아파트. 일요일 저녁 식사 시간입니다.",
+    "ja": "デイビッドと陽子のアパート。日曜日の夕食。",
+    "romaji": "Deibiddo to Youko no apaato. Nichiyoubi no yuushoku."
+  },
+  "s5.l165": {
+    "en": "Kenta has fallen asleep on the sofa with his toy train still in his fist.",
+    "ru": "Кэнта уснул на диване, все еще сжимая в кулачке игрушечный поезд.",
+    "zh": "健太在沙发上睡着了，手里还攥着他的玩具小火车。",
+    "ko": "켄타는 소파에서 장난감 기차를 손에 꼭 쥔 채 잠이 들었습니다.",
+    "ja": "健二はおもちゃの電車を握りしめたまま、ソファの上ですやすやと眠ってしまった。",
+    "romaji": "Kenji wa omocha no densha o nigirishimeta mama, sofa no ue de suyasuya to nemutte shimatta."
+  },
+  "s5.l166": {
+    "en": "How was your week, Mum? Really.",
+    "ru": "Как прошла твоя неделя, мам? Если честно.",
+    "zh": "这周过得怎么样，妈？说认真的。",
+    "ko": "엄마, 이번 주는 좀 어떠셨어요? 정말로요.",
+    "ja": "「母さん、最近はどう？正直なところ。」",
+    "romaji": "「Kaasan, saikin wa dou? Shoujiki na tokoro.」"
+  },
+  "s5.l167": {
+    "en": "Really.",
+    "ru": "На самом деле.",
+    "zh": "说认真的。",
+    "ko": "정말로.",
+    "ja": "「正直なところ、ね。」",
+    "romaji": "「Shoujiki na tokoro, ne.」"
+  },
+  "s5.l168": {
+    "en": "He knows something.",
+    "ru": "Он что-то знает.",
+    "zh": "他察觉到了什么。",
+    "ko": "데이비드도 뭔가를 느끼고 있어.",
+    "ja": "彼には何か察しがついているようだ。",
+    "romaji": "Kare ni wa nanika sasshi ga tsuite iru you da."
+  },
+  "s5.l169": {
+    "en": "The community center classes are good.",
+    "ru": "Уроки в общественном центре — это хорошо.",
+    "zh": "社区中心的课上得很顺利。",
+    "ko": "공민관 수업은 잘 되고 있어.",
+    "ja": "「公民館の教室はとても順調よ。」",
+    "romaji": "「Kouminkan no kyoushitsu wa totemo junchou yo.」"
+  },
+  "s5.l170": {
+    "en": "But?",
+    "ru": "Но?",
+    "zh": "但是？",
+    "ko": "하지만요?",
+    "ja": "「でも？」",
+    "romaji": "「Demo?」"
+  },
+  "s5.l171": {
+    "en": "A pause.",
+    "ru": "Пауза.",
+    "zh": "一阵沉默。",
+    "ko": "잠시 멈춤.",
+    "ja": "一呼吸置く。",
+    "romaji": "Hitokokyuu oku."
+  },
+  "s5.l172": {
+    "en": "The doctor's office.",
+    "ru": "Кабинет врача.",
+    "zh": "在医务室。",
+    "ko": "병원에 갔었거든.",
+    "ja": "「病院のことなんだけどね。」",
+    "romaji": "「Byouin no koto na n da kedo ne.」"
+  },
+  "s5.l173": {
+    "en": "I had a follow-up appointment.",
+    "ru": "У меня был повторный прием.",
+    "zh": "我参加了一次复诊预约。",
+    "ko": "검진 결과 보러 예약이 되어 있었어.",
+    "ja": "「経過観察の診察があったの。」",
+    "romaji": "「Keika kansatsu no shinsatsu ga atta no.」"
+  },
+  "s5.l174": {
+    "en": "I had to go alone—you were at work, Yuko was with Kenta—",
+    "ru": "Мне пришлось идти одной — ты был на работе, Юко была с Кэнтой...",
+    "zh": "我得一个人去——你当时在工作，优子在陪健太——",
+    "ko": "혼자 가야 했지. 밥은 일하느라 바빴고, 유코는 켄타를 보고 있었으니까—",
+    "ja": "「一人で行かなければならなくて――あなたも仕事だし、陽子さんも健二の面倒を見ていたから――」",
+    "romaji": "「Hitori de ikanakereba naranakute――anata mo shigoto da shi, Youko-san mo Kenji no mendou o mite ita kara――」"
+  },
+  "s5.l175": {
+    "en": "Oh, Margaret-san, I could have come. You should have called.",
+    "ru": "О, Маргарет-сан, я могла бы пойти. Вам стоило позвонить.",
+    "zh": "噢，玛格丽特桑，我本可以陪你去的。你应该给我打电话的。",
+    "ko": "어머, 마가렛 씨. 저도 같이 갈 수 있었는데. 전화해 주시지 그랬어요.",
+    "ja": "「まあ、マーガレットさん、私が行けましたのに。呼んでくださればよかったのに。」",
+    "romaji": "「Maa, Maagaretto-san, watashi ga ikemashita no ni. Yonde kudasareba yokatta no ni.」"
+  },
+  "s5.l176": {
+    "en": "I didn't want to impose.",
+    "ru": "Я не хотела навязываться.",
+    "zh": "我不希望打扰到你们。",
+    "ko": "폐 끼치고 싶지 않았어.",
+    "ja": "「迷惑をかけたくなかったのよ。」",
+    "romaji": "「Meiwaku o kaketakunakatta no yo.」"
+  },
+  "s5.l177": {
+    "en": "Enryo... I didn't want to be a burden.",
+    "ru": "Энрё... Я не хотела быть обузой.",
+    "zh": "Enryo（客气）……我不想成为你们的负担。",
+    "ko": "에뉴... 부담을 주고 싶지 않았거든.",
+    "ja": "遠慮……負担になりたくなかったのだ。",
+    "romaji": "Enryo... futan ni naritakunakatta no da."
+  },
+  "s5.l178": {
+    "en": "Mum—",
+    "ru": "Мам...",
+    "zh": "妈——",
+    "ko": "엄마—",
+    "ja": "「母さん――」",
+    "romaji": "「Kaasan――」"
+  },
+  "s5.l179": {
+    "en": "I couldn't read half the forms.",
+    "ru": "Я не могла прочитать и половины бланков.",
+    "zh": "有一半表格我都读不懂。",
+    "ko": "서류 절반도 못 읽겠더라고.",
+    "ja": "「問診票の半分も読めなかったわ。」",
+    "romaji": "「Monshinhyou no hanbun mo yomenakatta wa.」"
+  },
+  "s5.l180": {
+    "en": "The nurse spoke so quickly. I kept saying 'mou ichido, please'—",
+    "ru": "Медсестра говорила так быстро. Я твердила: «Моу итидо, пожалуйста»...",
+    "zh": "护士说话说得非常快。我一直在说：“mou ichido（请再说一遍），拜托”——",
+    "ko": "간호사는 말이 어찌나 빠른지. 계속 '모우 이치도(한 번 더)'를 부탁해야 했어—",
+    "ja": "「看護師さんがとても早口で。『もう一度お願いします』って何度も言って――」",
+    "romaji": "「Kangoshi-san ga totemo hayakuchi de. 『Mou ichido onegai shimasu』 tte nando mo itte――」"
+  },
+  "s5.l181": {
+    "en": "And I could see her patience wearing thin.",
+    "ru": "И я видела, что ее терпение на исходе.",
+    "zh": "我能看出来，她的耐心已经快磨没了。",
+    "ko": "간호사가 점점 인내심을 잃어가는 게 눈에 보이더라고.",
+    "ja": "「そのうち、相手の苛立ちが伝わってきてね。」",
+    "romaji": "「Sono uchi, aite no iradachi ga tsutawatte kite ne.」"
+  },
+  "s5.l182": {
+    "en": "That must have been very hard.",
+    "ru": "Должно быть, это было очень тяжело.",
+    "zh": "那一定很辛苦。",
+    "ko": "정말 힘드셨겠어요.",
+    "ja": "「それは本当に大変でしたね。」",
+    "romaji": "「Sore wa hontou ni taihen deshita ne.」"
+  },
+  "s5.l183": {
+    "en": "I've been independent my whole life.",
+    "ru": "Я всю жизнь была независимой.",
+    "zh": "我这一辈子都很独立。",
+    "ko": "내 평생을 자립심 하나로 살아온 사람인데.",
+    "ja": "「私はずっと自立して生きてきたのよ。」",
+    "romaji": "「Watashi wa zutto jiritsu shite ikite kita no yo.」"
+  },
+  "s5.l184": {
+    "en": "I've traveled alone, raised David alone after his father left—",
+    "ru": "Я путешествовала одна, одна растила Дэвида после того, как его отец ушел...",
+    "zh": "我独自旅行，并在戴维的父亲离开后独自抚养他长大——",
+    "ko": "혼자 여행도 다니고, 데이비드 아빠가 떠난 뒤에는 아들도 혼자 키워냈는데—",
+    "ja": "「一人で旅もしたし、夫が出て行った後はデイビッドを女手一つで育て上げたわ。」",
+    "romaji": "「Hitori de tabi mo shita shi, otto ga dete itta ato wa Deibiddo o onnade hitotsu de sodateageta wa.」"
+  },
+  "s5.l185": {
+    "en": "And now I can't fill in a form.",
+    "ru": "А теперь я не могу заполнить какую-то форму.",
+    "zh": "而现在，我连一张表格都填不了。",
+    "ko": "서류 한 장을 못 써서 쩔쩔매고 있다니.",
+    "ja": "「それなのに、書類一枚すら満足に書けないなんて。」",
+    "romaji": "「Sore na no ni, shorui ichimai sura manzoku ni kakenai nante.」"
+  },
+  "s5.l186": {
+    "en": "You're not failing, Mum. You're learning.",
+    "ru": "Ты не терпишь неудачу, мам. Ты учишься.",
+    "zh": "你没有失败，妈。你正在学习。",
+    "ko": "엄만 실패하신 게 아니에요. 배우고 계시는 중인걸요.",
+    "ja": "「母さんは失敗したんじゃないよ。学んでいる最中なんだ。」",
+    "romaji": "「Kaasan wa shippai shita n ja nai yo. Manande iru saichuu na n da.」"
+  },
+  "s5.l187": {
+    "en": "I know that in my head.",
+    "ru": "Головой я это понимаю.",
+    "zh": "我心里明白这一点。",
+    "ko": "머리로는 알고 있지.",
+    "ja": "「頭では分かっているのよ。」",
+    "romaji": "「Atama de wa wakatteru no yo.」"
+  },
+  "s5.l188": {
+    "en": "In the moment, it doesn't feel that way.",
+    "ru": "Но в тот момент это так не ощущается.",
+    "zh": "但在那一刻，感觉并不是那样的。",
+    "ko": "하지만 막상 그 상황이 되면 그런 생각이 안 들어.",
+    "ja": "「でもその場にいると、そうは思えないの。」",
+    "romaji": "「Demo sono ba ni iru to, sou wa omoenai no.」"
+  },
+  "s5.l189": {
+    "en": "Margaret-san.",
+    "ru": "Маргарет-сан.",
+    "zh": "玛格丽特桑。",
+    "ko": "마가렛 씨.",
+    "ja": "「マーガレットさん。」",
+    "romaji": "「Maagaretto-san.」"
+  },
+  "s5.l190": {
+    "en": "Next time—please call. Or I'll come.",
+    "ru": "В следующий раз, пожалуйста, позвони. Или я сама приеду.",
+    "zh": "下次——请务必打电话。或者我也会过去。",
+    "ko": "다음에는... 꼭 전화해 주세요. 아니면 제가 갈게요.",
+    "ja": "「今度は――必ず呼んでくださいね。私が一緒に行きますから。」",
+    "romaji": "「Kondo wa――kanarazu yonde kudasai ne. Watashi ga issho ni ikimasu kara.」"
+  },
+  "s5.l191": {
+    "en": "That's not being a burden. That's being family.",
+    "ru": "Это не значит быть обузой. Это значит быть семьей.",
+    "zh": "那不是负担。那是家人的意义所在。",
+    "ko": "그건 민폐가 아니에요. 가족이니까 당연한 거죠.",
+    "ja": "「頼ることは迷惑じゃありません。それが家族というものですから。」",
+    "romaji": "「Tayoru koto wa meiwaku ja arimasen. Sore ga kazoku to iu mono desu kara.」"
+  },
+  "s5.l192": {
+    "en": "Sewa ni naru.",
+    "ru": "Сэва ни нару.",
+    "zh": "Sewa ni naru（承蒙照顾）。",
+    "ko": "세와 니 나루.",
+    "ja": "世話になる。",
+    "romaji": "Sewa ni naru."
+  },
+  "s5.l193": {
+    "en": "To receive care from others.",
+    "ru": "Принимать заботу от других.",
+    "zh": "接受他人的关怀。",
+    "ko": "남의 도움을 받는 것.",
+    "ja": "人から世話を受けること。",
+    "romaji": "Hito kara sewa o ukeru koto."
+  },
+  "s5.l194": {
+    "en": "That's not weakness.",
+    "ru": "Это не слабость.",
+    "zh": "那不是软弱。",
+    "ko": "그건 약한 게 아니야.",
+    "ja": "それは弱さではないのだ。",
+    "romaji": "Sore wa yowasa de wa nai no da."
+  },
+  "s5.l195": {
+    "en": "From the sofa, Kenta stirs. He opens one eye.",
+    "ru": "На диване шевелится Кэнта. Он открывает один глаз.",
+    "zh": "肯太在沙发上蠕动了一下。他睁开一只眼睛。",
+    "ko": "소파에서 켄타가 뒤척이더니 한쪽 눈을 뜹니다.",
+    "ja": "ソファから、健二が身じろぎした。片目をうっすらと開ける。",
+    "romaji": "Sofa kara, Kenji ga mijirogi shita. Katame o ussura to akeru."
+  },
+  "s5.l196": {
+    "en": "Grandma...",
+    "ru": "Бабушка...",
+    "zh": "奶奶……",
+    "ko": "할머니...",
+    "ja": "「おばあちゃん……」",
+    "romaji": "「Obaachan...」"
+  },
+  "s5.l197": {
+    "en": "He closes his eyes again.",
+    "ru": "Он снова закрывает глаза.",
+    "zh": "由于困倦，他又闭上了眼。",
+    "ko": "아이는 다시 눈을 감습니다.",
+    "ja": "そしてまた目を閉じた。",
+    "romaji": "Soshite mata me o tojita."
+  },
+  "s5.l198": {
+    "en": "That word.",
+    "ru": "Это слово.",
+    "zh": "那个词。",
+    "ko": "그 한마디.",
+    "ja": "おばあちゃん。",
+    "romaji": "Obaachan."
+  },
+  "s5.l199": {
+    "en": "I came here for that word.",
+    "ru": "Ради этого слова я и приехала.",
+    "zh": "我就是为了那个词才来到这里的。",
+    "ko": "난 저 소리를 들으려고 여기 온 거야.",
+    "ja": "私はその言葉のために、ここへ来たのだ。",
+    "romaji": "Watashi wa sono kotoba no tame ni, koko e kita no da."
+  },
+  "s5.l200": {
+    "en": "Two days later. 6 AM. Your apartment.",
+    "ru": "Два дня спустя. 6 утра. Ваша квартира.",
+    "zh": "两天后。清晨 6 点。你的公寓。",
+    "ko": "이틀 뒤, 새벽 6시. 당신의 아파트.",
+    "ja": "2日後。朝6時。自宅のアパート。",
+    "romaji": "Futsuka-go. Asa rokuji. Jitaku no apaato."
+  },
+  "s5.l201": {
+    "en": "You sat down with your notebook and your grammar workbook and your cup of tea.",
+    "ru": "Вы сели со своим блокнотом, учебником грамматики и чашкой чая.",
+    "zh": "你拿着笔记本、语法练习册和一杯茶坐了下来。",
+    "ko": "수첩과 문법 문제집, 그리고 차 한 잔을 들고 자리에 앉습니다.",
+    "ja": "ノートと文法のワークブック、そして紅茶を前に机に向かった。",
+    "romaji": "Nooto to bunpou no waakubukku, soshite koucha o mae ni tsukue ni mukatta."
+  },
+  "s5.l202": {
+    "en": "And then you didn't open them.",
+    "ru": "А потом вы не стали их открывать.",
+    "zh": "然后你并没有打开它们。",
+    "ko": "하지만 책을 펴지는 않았습니다.",
+    "ja": "だが、ページを開くことができない。",
+    "romaji": "Daga, peeji o hiraku koto ga dekinai."
+  },
+  "s5.l203": {
+    "en": "You just sat.",
+    "ru": "Вы просто сидели.",
+    "zh": "你就那么坐着。",
+    "ko": "그저 가만히 앉아 있을 뿐입니다.",
+    "ja": "ただじっと座っていた。",
+    "romaji": "Tada jitto suwatte ita."
+  },
+  "s5.l204": {
+    "en": "Maybe David was being kind.",
+    "ru": "Может быть, Дэвид просто был вежлив.",
+    "zh": "也许戴维只是出于好心。",
+    "ko": "데이비드는 그저 친절을 베푼 걸지도 몰라.",
+    "ja": "「デイビッドは気遣ってくれただけかもしれない。」",
+    "romaji": "「Deibiddo wa kidzukatte kureta dake kamo shirenai.」"
+  },
+  "s5.l205": {
+    "en": "Maybe at sixty-seven, some things are just too late.",
+    "ru": "Может быть, в шестьдесят семь для некоторых вещей уже слишком поздно.",
+    "zh": "也许在六十七岁这个年纪，有些事情已经太晚了。",
+    "ko": "예순일곱이라는 나이에, 어떤 일들은 이미 너무 늦어버린 게 아닐까.",
+    "ja": "「67歳にもなって、今さら手遅れなことだってあるんじゃないかしら。」",
+    "romaji": "「Rokujuunana-sai ni mo natte, ima sara teokure na koto datte aru n ja nai kashira.」"
+  },
+  "s5.l206": {
+    "en": "Your phone buzzes.",
+    "ru": "Ваш телефон вибрирует.",
+    "zh": "你的手机响了。",
+    "ko": "휴대폰이 울립니다.",
+    "ja": "スマートフォンが震えた。",
+    "romaji": "Sumaatofon ga furueta."
+  },
+  "s5.l207": {
+    "en": "A message from an unknown number—then you see: Yamamoto.",
+    "ru": "Сообщение с неизвестного номера... затем вы видите имя: Ямамото.",
+    "zh": "一条来自陌生号码的消息——接着你看到了：山本。",
+    "ko": "모르는 번호로 온 메시지네요. 아, 야마모토 씨예요.",
+    "ja": "知らない番号からのメッセージ――差出人を見て気づく。山本さんだ。",
+    "romaji": "Shiranai bangou kara no messeeji――sashidashinin o mite kidzuku. Yamamoto-san da."
+  },
+  "s5.l208": {
+    "en": "Margaret-san, are you coming Monday? Okura-san is especially looking forward to it.",
+    "ru": "Маргарет-сан, вы придете в понедельник? Окура-сан особенно ждет вас.",
+    "zh": "玛格丽特桑，周一你要来吗？大仓桑特别期待你的自首。",
+    "ko": "마가렛 씨, 월요일에 오실 거죠? 오쿠라 씨가 특히 더 기다리고 계세요.",
+    "ja": "「マーガレットさん、月曜日は来られますか？大倉さんが特に楽しみにしていますよ。」",
+    "romaji": "「Maagaretto-san, getsuyoubi wa koraremasu ka? Ookura-san ga toku ni tanoshimi ni shite imasu yo.」"
+  },
+  "s5.l209": {
+    "en": "The eighty-year-old. The one in the violet cardigan.",
+    "ru": "Восьмидесятилетняя дама. Та, что в фиолетовом кардигане.",
+    "zh": "那位八十岁的老人。穿着紫色衬衫的那位。",
+    "ko": "그 80세 할머니. 보라색 가디건을 입고 계셨던 분.",
+    "ja": "あの80歳の女性。紫のカーディガンの人だ。",
+    "romaji": "Ano hachijuu-sai no josei. Murasaki no kaadigan no hito da."
+  },
+  "s5.l210": {
+    "en": "Yes, I'm coming.",
+    "ru": "Да, я приду.",
+    "zh": "是的，我会去的。",
+    "ko": "네, 갈게요.",
+    "ja": "「ええ、行きます。」",
+    "romaji": "「Ee, ikimasu.」"
+  },
+  "s5.l211": {
+    "en": "Okura-san is eighty. She is learning English.",
+    "ru": "Окуре-сан восемьдесят. Она учит английский.",
+    "zh": "大仓桑八十岁了。她正在学习英语。",
+    "ko": "오쿠라 씨는 여든 살인데 영어를 배우고 있어.",
+    "ja": "大倉さんは80歳だ。それでも英語を学んでいる。",
+    "romaji": "Ookura-san wa hachijuu-sai da. Soredemo eigo o manande iru."
+  },
+  "s5.l212": {
+    "en": "Persistence is power.",
+    "ru": "Настойчивость — это сила.",
+    "zh": "坚持就是力量。",
+    "ko": "계속하는 것이 힘이야.",
+    "ja": "「継続は力なり」。",
+    "romaji": "『Keizoku wa chikara nari』."
+  },
+  "s5.l213": {
+    "en": "You open your workbook.",
+    "ru": "Вы открываете свою рабочую тетрадь.",
+    "zh": "你打开了练习册。",
+    "ko": "문제집을 펼칩니다.",
+    "ja": "ワークブックを開いた。",
+    "romaji": "Waakubukku o hiraita."
+  },
+  "s5.l214": {
+    "en": "Six weeks after your first class.",
+    "ru": "Шесть недель спустя после вашего первого урока.",
+    "zh": "第一次上课六周后。",
+    "ko": "첫 수업 후 6주가 지났습니다.",
+    "ja": "最初の教室から6週間が経った。",
+    "romaji": "Saisho no kyoushitsu kara rokushuukan ga tatta."
+  },
+  "s5.l215": {
+    "en": "The community center has started to feel familiar. The smell of floor wax and old photocopies.",
+    "ru": "Общественный центр стал казаться знакомым. Запах воска для пола и старых ксерокопий.",
+    "zh": "社区中心开始让你感到熟悉。地板蜡和旧复印件的味道。",
+    "ko": "공민관의 풍경이 이제 제법 익숙합니다. 바닥 왁스 냄새와 오래된 복사물 냄새까지 말이죠.",
+    "ja": "公民館が馴染みの場所に感じられるようになってきた。床のワックスと古いコピー用紙の匂い。",
+    "romaji": "Kouminkan ga najimi no basho ni kanjirareru you ni natte kita. Yuka no wakkusu to furui kopii youshi no nioi."
+  },
+  "s5.l216": {
+    "en": "You know which vending machine is broken. You know the noticeboard by heart.",
+    "ru": "Вы знаете, какой торговый автомат сломан. Вы знаете доску объявлений наизусть.",
+    "zh": "你知道哪台自动售货机坏了。你对公告栏了如指掌。",
+    "ko": "어느 자판기가 고장 났는지도 알고, 게시판 내용은 통째로 외울 지경입니다.",
+    "ja": "どの自販機が故障しているかも知っている。掲示板の内容もすっかり頭に入っている。",
+    "romaji": "Dono jihanki ga koshou shite iru ka mo shitte iru. Keijiban no naiyou mo sukkari atama ni haitte iru."
+  },
+  "s5.l217": {
+    "en": "Okura-san is always the first one there. Today she's arranged the tables differently—into a proper square.",
+    "ru": "Окура-сан всегда приходит первой. Сегодня она расставила столы иначе — ровным квадратом.",
+    "zh": "大仓桑总是第一个到那里的人。今天她布置桌子的方式有所不同——摆成了一个整齐的正方形。",
+    "ko": "오쿠라 씨는 언제나 1등으로 도착해 있습니다. 오늘은 책상을 평소와 다르게 사각형으로 배치해 두었네요.",
+    "ja": "大倉さんはいつも一番乗りだ。今日は机の並べ方を変え、きれいな四角形にしていた。",
+    "romaji": "Ookura-san wa itsumo ichibannori da. Kyou wa tsukue no narabekata o kae, kirei na shikakukei ni shite ita."
+  },
+  "s5.l218": {
+    "en": "Margaret-sensei, today is special!",
+    "ru": "Маргарет-сэнсэй, сегодня особенный день!",
+    "zh": "玛格丽特老师，今天很特别！",
+    "ko": "마가렛 선생님, 오늘은 특별한 날이에요!",
+    "ja": "「マーガレット先生、今日は特別です！」",
+    "romaji": "「Maagaretto-sensei, kyou wa tokubetsu desu!」"
+  },
+  "s5.l219": {
+    "en": "Special?",
+    "ru": "Особенный?",
+    "zh": "特别？",
+    "ko": "특별한 날요?",
+    "ja": "「特別ですか？」",
+    "romaji": "「Tokubetsu desu ka?」"
+  },
+  "s5.l220": {
+    "en": "Yes! I invited everyone from the neighborhood association.",
+    "ru": "Да! Я пригласила всех из нашей ассоциации соседей.",
+    "zh": "是的！我邀请了邻里协会的所有人。",
+    "ko": "네! 반상회 분들을 전부 초대했거든요.",
+    "ja": "「はい！町内会のみなさんを招待しました。」",
+    "romaji": "「Hai! Chounaikai no minasan o shoutai shimashita.」"
+  },
+  "s5.l221": {
+    "en": "The room fills with more people than usual—fifteen, maybe twenty.",
+    "ru": "Комната наполняется большим количеством людей, чем обычно — пятнадцать, может, двадцать человек.",
+    "zh": "房间里的人比平时多——十五个，也许有二十个。",
+    "ko": "교실에 평소보다 많은 사람—15명에서 20명 정도—이 모여듭니다.",
+    "ja": "部屋にはいつもより多くの人々が集まってきた――15人、いや20人ほどいる。",
+    "romaji": "Heya ni wa itsumo yori ooku no hitobito ga atsumatte kita――juugonin, iya nijunin hodo iru."
+  },
+  "s5.l222": {
+    "en": "The regular students sit with them, and you realize: they've been telling their neighbors.",
+    "ru": "Постоянные ученики сидят вместе с ними, и вы понимаете: они рассказывали своим соседям.",
+    "zh": "经常上课的学生和他们坐在一起，你意识到：他们一直在告诉邻居们。",
+    "ko": "기존 학생들과 새로 온 분들이 어우러져 앉은 모습을 보니, 다들 이웃들에게 소문을 낸 모양입니다.",
+    "ja": "常連の生徒たちが彼らと一緒に座っているのを見て気づく。近所の人たちに声をかけてくれていたのだ。",
+    "romaji": "Jouren no seitotachi ga karera to issho ni suwatte iru no o mite kidzuku. Kinjo no hitotachi ni koe o kakete kurete ita no da."
+  },
+  "s5.l223": {
+    "en": "We want to show everyone what we learn.",
+    "ru": "Мы хотим показать всем, чему мы научились.",
+    "zh": "我们想向大家展示我们学到了什么。",
+    "ko": "우리가 배우는 걸 모두에게 보여주고 싶어서요.",
+    "ja": "「私たちが何を学んでいるか、みんなに見せたいんです。」",
+    "romaji": "「Watashitachi ga nani o manande iru ka, minna ni misetai n desu.」"
+  },
+  "s5.l224": {
+    "en": "And also... we want to learn more Japanese words from you.",
+    "ru": "А еще... мы хотим выучить от вас больше японских слов.",
+    "zh": "而且……我们也想从你那里学到更多日语单词。",
+    "ko": "그리고... 선생님한테 일본어 단어도 더 배우고 싶고요.",
+    "ja": "「それに……先生からもっと日本語の言葉も学びたいですし。」",
+    "romaji": "「Sore ni... sensei kara motto Nihongo no kotoba mo manabitai desu shi.」"
+  },
+  "s5.l225": {
+    "en": "You want me to teach Japanese?",
+    "ru": "Вы хотите, чтобы я учила вас японскому?",
+    "zh": "你想让我教日语？",
+    "ko": "저더러 일본어를 가르쳐 달라고요?",
+    "ja": "「私に日本語を教えてほしいのですか？」",
+    "romaji": "「Watashi ni Nihongo o oshiete hoshii no desu ka?」"
+  },
+  "s5.l226": {
+    "en": "You are the expert at learning Japanese. We learn together.",
+    "ru": "Вы эксперт в изучении японского. Мы учимся вместе.",
+    "zh": "你是学习日语方面的专家。我们一起学习吧。",
+    "ko": "선생님은 일본어 학습의 전문가시잖아요. 우리 같이 배워요.",
+    "ja": "「先生は日本語を学ぶエキスパートですから。一緒に学ぶんです。」",
+    "romaji": "「Sensei wa Nihongo o manabu ekisupaato desu kara. Issho ni manabu n desu.」"
+  },
+  "s5.l227": {
+    "en": "Expert at learning.",
+    "ru": "Эксперт в учении.",
+    "zh": "学习专家。",
+    "ko": "학습의 전문가.",
+    "ja": "学ぶエキスパート。",
+    "romaji": "Manabu ekisupaato."
+  },
+  "s5.l228": {
+    "en": "Not expert at knowing. Expert at trying.",
+    "ru": "Не эксперт в знании. Эксперт в старании.",
+    "zh": "不是知识方面的专家，而是努力方面的专家。",
+    "ko": "다 아는 전문가가 아니라, 계속 시도하는 전문가라는 뜻이구나.",
+    "ja": "知っている専門家ではなく、挑戦する専門家。",
+    "romaji": "Shitte iru senmonka de wa naku, chousen suru senmonka."
+  },
+  "s5.l229": {
+    "en": "The next hour is unlike anything in your thirty years of teaching.",
+    "ru": "Следующий час не похож ни на что за все ваши тридцать лет преподавания.",
+    "zh": "接下来的一个小时，和你三十年的教学生涯中的任何时刻都不同。",
+    "ko": "그다음 한 시간은 당신의 30년 교직 생활 중 그 어떤 시간과도 달랐습니다.",
+    "ja": "それからの1時間は、30年の教師生活のどれとも異なるものだった。",
+    "romaji": "Sore kara no ichijikan wa, sanjuunen no kyoushi seikatsu no doretomo kotonaru mono datta."
+  },
+  "s5.l230": {
+    "en": "Tanaka-san gives a five-minute presentation: in English, about his job, with hand gestures filling in the gaps.",
+    "ru": "Танака-сан выступает с пятиминутной презентацией: на английском, о своей работе, сопровождая рассказ жестами там, где не хватает слов.",
+    "zh": "田中桑做了一个五分钟的演讲：用英语，关于他的工作，手势填补了语言的空白。",
+    "ko": "타나카 씨는 자신의 직업에 대해 영어로 5분간 발표를 합니다. 서툰 표현은 손짓으로 채워가면서요.",
+    "ja": "田中さんが5分間のプレゼンを行う。英語で、自分の仕事について、足りない言葉は身振り手振りで補いながら。",
+    "romaji": "Tanaka-san ga gofunkan no purezen o okonau. Eigo de, jibun no shigoto ni tsuite, tarinai kotoba wa miburi teburi de oginai nagara."
+  },
+  "s5.l231": {
+    "en": "Okura-san teaches two phrases from old wartime films—words none of the younger members even know.",
+    "ru": "Окура-сан учит двум фразам из старых военных фильмов — словам, которых не знают даже более молодые участники.",
+    "zh": "大仓桑教了两个战争年代老电影里的短语——这些词现在的年轻人甚至都不知道。",
+    "ko": "오쿠라 씨는 옛 전쟁 영화에 나오는 대사 두 마디를 가르쳐 줍니다. 요즘 젊은 사람들은 모르는 단어들이죠.",
+    "ja": "大倉さんは古い戦時中の映画から2つの言い回しを披露した――若い人たちが誰も知らないような言葉だ。",
+    "romaji": "Ookura-san wa furui senjichuu no eiga kara futatsu no iimawashi o hirou shita――wakai hitotachi ga dare mo shiranai you na kotoba da."
+  },
+  "s5.l232": {
+    "en": "A shy woman named Fujita demonstrates asking for directions, and gets applause.",
+    "ru": "Стеснительная женщина по имени Фудзита показывает, как спрашивать дорогу, и срывает аплодисменты.",
+    "zh": "一位名叫藤田（Fujita）的害羞女士演示了问路，赢得了掌声。",
+    "ko": "후지타 씨라는 수줍음 많은 여성분은 길 묻기 시범을 보이고 박수갈채를 받습니다.",
+    "ja": "藤田さんという内気な女性が道案内の実演をし、満場の拍手を浴びた。",
+    "romaji": "Fujita-san to iu uchiki na josei ga michi annai no jitsuen o shi, manjou no hakushu o abita."
+  },
+  "s5.l233": {
+    "en": "Um, excuse me. The station... where is it?",
+    "ru": "Эм, простите. Вокзал... где он?",
+    "zh": "那个，打扰一下。车站……在哪里？",
+    "ko": "저, 실례합니다. 역은... 어디에 있나요?",
+    "ja": "「あの、すみません。駅は……どこですか？」",
+    "romaji": "「Ano, sumimasen. Eki wa... doko desu ka?」"
+  },
+  "s5.l234": {
+    "en": "Applause. Fujita covers her mouth and laughs.",
+    "ru": "Аплодисменты. Фудзита закрывает рот рукой и смеется.",
+    "zh": "掌声。藤田捂着嘴笑了。",
+    "ko": "박수 소리가 들리자 후지타 씨는 입을 가리고 웃네요.",
+    "ja": "拍手が鳴り響く。藤田さんは口元を手で覆って照れ笑いした。",
+    "romaji": "Hakushu ga narihibiku. Fujita-san wa kuchimoto o te de ootte terewarai shita."
+  },
+  "s5.l235": {
+    "en": "It's your turn, Margaret-sensei. Please try saying something in Japanese.",
+    "ru": "Ваша очередь, Маргарет-сэнсэй. Пожалуйста, попробуйте сказать что-нибудь по-японски.",
+    "zh": "轮到你了，玛格丽特老师。请试着用日语说点什么吧。",
+    "ko": "마가렛 선생님 차례예요. 일본어로 아무 말이나 한마디 해 보세요.",
+    "ja": "「マーガレット先生の番ですよ。何か日本語で話してみてください。」",
+    "romaji": "「Maagaretto-sensei no ban desu yo. Nanika Nihongo de hanashite mite kudasai.」"
+  },
+  "s5.l236": {
+    "en": "Your turn. Say something in Japanese.",
+    "ru": "Твоя очередь. Скажи что-нибудь по-японски.",
+    "zh": "轮到你了。用日语说点什么。",
+    "ko": "내 차례라니. 일본어로 뭐라고 말하지.",
+    "ja": "私の番。何か日本語で話す。",
+    "romaji": "Watashi no ban. Nanika Nihongo de hanasu."
+  },
+  "s5.l237": {
+    "en": "You think of all the things you know—your grocery list phrases, your medical appointment phrases.",
+    "ru": "Вы вспоминаете всё, что знаете: фразы для списка покупок, фразы для записи к врачу.",
+    "zh": "由于思考着你所知道的所有事情——比如买菜清单里的短语，或者是看医生预约时的短语。",
+    "ko": "장보기용 표현부터 병원 예약용 표현까지, 알고 있는 모든 말을 떠올려 봅니다.",
+    "ja": "自分が知っている言葉の数々を思い浮かべる――買い物のフレーズ、病院の診察でのフレーズ。",
+    "romaji": "Jibun ga shitte iru kotoba no kazukazu o omoiukaberu――kaimono no fureezu, byouin no shinsatsu de no fureezu."
+  },
+  "s5.l238": {
+    "en": "And then you say something you didn't plan.",
+    "ru": "И тогда вы говорите то, чего не планировали.",
+    "zh": "然后你说了些计划外的话。",
+    "ko": "그러다 계획에도 없던 말을 내뱉습니다.",
+    "ja": "そして、予定していなかった言葉が自然と口をついて出た。",
+    "romaji": "Soshite, yotei shite inakatta kotoba ga shizen to kuchi o tsuite deta."
+  },
+  "s5.l239": {
+    "en": "I'm glad I came here.",
+    "ru": "Я рада, что пришла сюда.",
+    "zh": "我很高兴来到这里。",
+    "ko": "이곳에 오길 참 잘했다는 생각이 들어요.",
+    "ja": "「ここに来て、よかったです。」",
+    "romaji": "「Koko ni kite, yokatta desu.」"
+  },
+  "s5.l240": {
+    "en": "I'm glad I came here.",
+    "ru": "Я рада, что пришла сюда.",
+    "zh": "我很高兴来到这里。",
+    "ko": "이곳에 와서 정말 기쁩니다.",
+    "ja": "「ここに来て、よかったです。」",
+    "romaji": "「Koko ni kite, yokatta desu.」"
+  },
+  "s5.l241": {
+    "en": "A moment of silence.",
+    "ru": "Минута молчания.",
+    "zh": "一阵沉默。",
+    "ko": "잠시 정적이 흐릅니다.",
+    "ja": "一瞬の静寂。",
+    "romaji": "Isshun no seijaku."
+  },
+  "s5.l242": {
+    "en": "Then Yamamoto-san puts a hand over her heart.",
+    "ru": "Затем Ямамото-сан прижимает руку к сердцу.",
+    "zh": "接着山本桑把一只手放在她的心上。",
+    "ko": "이윽고 야마모토 씨가 가슴에 손을 얹습니다.",
+    "ja": "そして山本さんが胸に手を当てた。",
+    "romaji": "Soshite Yamamoto-san ga mune ni te o ateta."
+  },
+  "s5.l243": {
+    "en": "Us too.",
+    "ru": "И мы тоже.",
+    "zh": "我们也是。",
+    "ko": "우리도 그래요.",
+    "ja": "「私たちもですよ。」",
+    "romaji": "「Watashitachi mo desu yo.」"
+  },
+  "s5.l244": {
+    "en": "Comfortable here.",
+    "ru": "Здесь уютно.",
+    "zh": "这里很舒服。",
+    "ko": "마음이 편안해.",
+    "ja": "「居心地がいい」。",
+    "romaji": "『Igokochi ga ii』."
+  },
+  "s5.l245": {
+    "en": "Three months ago I didn't know that word existed.",
+    "ru": "Три месяца назад я и знать не знала об этом слове.",
+    "zh": "三个月前，我甚至都不知道还有这个词。",
+    "ko": "석 달 전만 해도 이런 단어가 있는지도 몰랐는데.",
+    "ja": "3か月前には、そんな言葉の存在すら知らなかった。",
+    "romaji": "Sankagetsu mae ni wa, sonna kotoba no sonzai sura shiranakatta."
+  },
+  "s5.l246": {
+    "en": "Now I feel it.",
+    "ru": "Теперь я это чувствую.",
+    "zh": "现在我感受到了。",
+    "ko": "이제는 그 뜻이 몸으로 느껴져.",
+    "ja": "だが今、私はそれを肌で感じている。",
+    "romaji": "Daga ima, watashi wa sore o hada de kanjite iru."
+  },
+  "s5.l247": {
+    "en": "The Ito Clinic. Regular checkup.",
+    "ru": "Клиника Ито. Плановый осмотр.",
+    "zh": "伊藤诊所。定期检查。",
+    "ko": "이토 클리닉. 정기 검진 날입니다.",
+    "ja": "伊藤医院。定期検診の日。",
+    "romaji": "Itou Iin. Teiki kenshin no hi."
+  },
+  "s5.l248": {
+    "en": "You sit in the waiting room with your notebook on your lap.",
+    "ru": "Вы сидите в приемной, положив блокнот на колени.",
+    "zh": "你坐在候诊室里，笔记本放在膝盖上。",
+    "ko": "수첩을 무릎에 올린 채 대기실에 앉아 있습니다.",
+    "ja": "膝の上にノートを乗せ、待合室の椅子に座る。",
+    "romaji": "Hiza no ue ni nooto o nose, machiaishitsu no isu ni suwaru."
+  },
+  "s5.l249": {
+    "en": "This time you are not afraid.",
+    "ru": "На этот раз вам не страшно.",
+    "zh": "这一次你并不害怕。",
+    "ko": "이번엔 전혀 두렵지 않습니다.",
+    "ja": "今度は少しも怖くない。",
+    "romaji": "Kondo wa sukoshi mo kowakunai."
+  },
+  "s5.l250": {
+    "en": "When the receptionist calls your name—Margaret Thompson-san—you stand without hesitating.",
+    "ru": "Когда регистратор называет ваше имя — Маргарет Томпсон-сан — вы встаете без колебаний.",
+    "zh": "当接待员叫到你的名字——玛格丽特·汤普森桑（Maagaretto Tonpuson-san）时，你毫不犹豫地站了起来。",
+    "ko": "접수처에서 '마가렛 톰슨 씨'라고 이름을 부르자 망설임 없이 일어섭니다.",
+    "ja": "受付から名前を呼ばれる――「マーガレット・トンプソンさん」――私は迷わず立ち上がった。",
+    "romaji": "Uketsuke kara namae o yobareru――『Maagaretto Tonpuson-san』――watashi wa mayowazu tachiagatta."
+  },
+  "s5.l251": {
+    "en": "Nurse Akemi. You've seen her twice before. She speaks quickly. You used to dread her.",
+    "ru": "Медсестра Акэми. Вы видели ее дважды до этого. Она говорит быстро. Раньше вы ее побаивались.",
+    "zh": "护士明美（Akemi）。你之前见过她两次。她说话很快。你以前很怕她。",
+    "ko": "간호사 아케미. 전에도 두 번 만난 적이 있죠. 말이 아주 빠삭해서 예전엔 그녀를 만나는 게 참 두려웠는데.",
+    "ja": "看護師の朱美さん。以前2度会ったことがある。早口で、かつては恐れていた相手だ。",
+    "romaji": "Kangoshi no Akemi-san. Izen nido atta koto ga aru. Hayakuchi de, katsute wa osorete ita aite da."
+  },
+  "s5.l252": {
+    "en": "How are you today? Do you have any symptoms?",
+    "ru": "Как вы сегодня? Жалобы есть?",
+    "zh": "你今天怎么样？有什么症状吗？",
+    "ko": "오늘은 좀 어떠세요? 어디 불편한 데는 없으시고요?",
+    "ja": "「今日はどうですか？何か症状はありますか？」",
+    "romaji": "「Kyou wa dou desu ka? Nanika shoujou wa arimasu ka?」"
+  },
+  "s5.l253": {
+    "en": "Symptoms... none. I'm well.",
+    "ru": "Жалоб... нет. Я в порядке.",
+    "zh": "症状……没有。我很好。",
+    "ko": "불편한 곳은... 없어요. 아주 건강합니다.",
+    "ja": "「症状……ないです。元気です。」",
+    "romaji": "「Shoujou... nai desu. Genki desu.」"
+  },
+  "s5.l254": {
+    "en": "No symptoms. I feel well.",
+    "ru": "Жалоб нет. Чувствую себя хорошо.",
+    "zh": "没有症状。我感觉良好。",
+    "ko": "아픈 데는 없어요. 컨디션 최고예요.",
+    "ja": "「症状はありません。体調は良いです。」",
+    "romaji": "「Shoujou wa arimasen. Taichou wa ii desu.」"
+  },
+  "s5.l255": {
+    "en": "Akemi looks up from her clipboard. A small smile.",
+    "ru": "Акэми отрывается от планшета. Легкая улыбка.",
+    "zh": "明美从剪贴板上抬起头来。露出了淡淡的笑容。",
+    "ko": "아케미가 차트에서 고개를 들며 살짝 미소를 짓습니다.",
+    "ja": "朱美さんが問診票から顔を上げ、小さく微笑んだ。",
+    "romaji": "Akemi-san ga monshinhyou kara kao o age, chiisaku hohoenda."
+  },
+  "s5.l256": {
+    "en": "You're good. Your Japanese has improved compared to before.",
+    "ru": "Вы молодец. Ваш японский стал лучше, чем раньше.",
+    "zh": "你很棒。你的日语比以前进步了。",
+    "ko": "실력이 대단하신데요? 지난번보다 일본어가 훨씬 느셨어요.",
+    "ja": "「上手ですね。前より日本語が上手になりましたね。」",
+    "romaji": "「Jouzu desu ne. Mae yori Nihongo ga jouzu ni narimashita ne.」"
+  },
+  "s5.l257": {
+    "en": "Your Japanese has improved.",
+    "ru": "Ваш японский стал лучше.",
+    "zh": "你的日语进步了。",
+    "ko": "일본어가 정말 많이 늘었네.",
+    "ja": "「日本語が上手になった」。",
+    "romaji": "『Nihongo ga jouzu ni natta』."
+  },
+  "s5.l258": {
+    "en": "I practice every day.",
+    "ru": "Я практикуюсь каждый день.",
+    "zh": "我每天都在练习。",
+    "ko": "매일 연습하고 있거든요.",
+    "ja": "「毎日練習していますから。」",
+    "romaji": "「Mainichi renshuu shite imasu kara.」"
+  },
+  "s5.l259": {
+    "en": "Shall I speak slowly?",
+    "ru": "Мне говорить помедленнее?",
+    "zh": "我要说慢点吗？",
+    "ko": "좀 천천히 말씀드릴까요?",
+    "ja": "「ゆっくり話しましょうか？」",
+    "romaji": "「Yukkuri hanashimashou ka?」"
+  },
+  "s5.l260": {
+    "en": "No, it's okay. You don't need to speak slowly.",
+    "ru": "Нет, всё в порядке. Помедленнее не нужно.",
+    "zh": "不，没关系。你不需要慢吞吞地说话。",
+    "ko": "아뇨, 괜찮아요. 천천히 안 하셔도 돼요.",
+    "ja": "「いいえ、大丈夫です。ゆっくりじゃなくていいですよ。」",
+    "romaji": "「Iie, daijoubu desu. Yukkuri ja nakute ii desu yo.」"
+  },
+  "s5.l261": {
+    "en": "No, it's alright. I don't need slow.",
+    "ru": "Нет, всё нормально. Мне не нужно медленно.",
+    "zh": "不，没关系。我不需要慢下来。",
+    "ko": "아뇨, 괜찮습니다. 천천히는 이제 필요 없어요.",
+    "ja": "「いいえ、大丈夫です。普通の速さで構いません。」",
+    "romaji": "「Iie, daijoubu desu. Futsuu no hayasa de kamaimasen.」"
+  },
+  "s5.l262": {
+    "en": "She looks at you for a moment—this sixty-seven-year-old foreign woman sitting quietly in the chair with her notebook—",
+    "ru": "Она смотрит на вас мгновение — на эту шестидесятисемилетнюю иностранку, тихо сидящую в кресле со своим блокнотом —",
+    "zh": "她盯着你看了片刻——这位六十七岁的外籍女性静静地坐在椅子上，手里拿着笔记本——",
+    "ko": "간호사가 잠시 당신을 쳐다봅니다. 수첩을 들고 의자에 조용히 앉아 있는 예순일곱 살의 외국인 여성을요.",
+    "ja": "彼女はノートを手に静かに座る67歳の外国人の私を、しばし見つめ――",
+    "romaji": "Kanojo wa nooto o te ni shizuka ni suwaru rokujuunana-sai no gaikokujin no watashi o, shibashi mitsume――"
+  },
+  "s5.l263": {
+    "en": "And she speaks at regular speed.",
+    "ru": "И она начинает говорить с обычной скоростью.",
+    "zh": "然后她以正常速度开始说话。",
+    "ko": "그리고 그녀는 평소 속도로 말을 건넵니다.",
+    "ja": "そして普通のスピードで話し始めた。",
+    "romaji": "Soshite futsuu no supiido de hanashihajimeta."
+  },
+  "s5.l264": {
+    "en": "I understand most of it.",
+    "ru": "Я понимаю почти всё.",
+    "zh": "我理解其中的大部分。",
+    "ko": "대부분 알아들을 수 있어.",
+    "ja": "大半のことが理解できる。",
+    "romaji": "Taihan no koto ga rikai dekiru."
+  },
+  "s5.l265": {
+    "en": "The parts I don't, I write down for later.",
+    "ru": "То, что не понимаю, я записываю на потом.",
+    "zh": "我不懂的部分，我就先记下来等会儿再看。",
+    "ko": "모르는 부분은 나중에 찾아보려고 적어두면 되고.",
+    "ja": "分からない部分は、あとで調べるためにノートに書き留めた。",
+    "romaji": "Wakaranai bubun wa, ato de shiraberu tame ni nooto ni kakitometa."
+  },
+  "s5.l266": {
+    "en": "Dr. Ito reviews your chart.",
+    "ru": "Доктор Ито просматривает вашу карту.",
+    "zh": "伊藤医生查看了你的图表。",
+    "ko": "이토 선생님이 차트를 살펴봅니다.",
+    "ja": "伊藤医師がカルテを確認する。",
+    "romaji": "Itou ishi ga karute o kakunin suru."
+  },
+  "s5.l267": {
+    "en": "Your blood pressure has gone down.",
+    "ru": "Ваше кровяное давление снизилось.",
+    "zh": "你的血压下降了。",
+    "ko": "혈압이 많이 내려갔네요.",
+    "ja": "「血圧が下がっていますね。」",
+    "romaji": "「Ketsuatsu ga sagatte imasu ne.」"
+  },
+  "s5.l268": {
+    "en": "Blood pressure has gone down.",
+    "ru": "Давление снизилось.",
+    "zh": "血压下降了。",
+    "ko": "혈압이 내려갔어.",
+    "ja": "「血圧が下がっている」。",
+    "romaji": "『Ketsuatsu ga sagatte iru』."
+  },
+  "s5.l269": {
+    "en": "Really?!",
+    "ru": "Правда?!",
+    "zh": "真的吗？！",
+    "ko": "정말인가요?!",
+    "ja": "「本当ですか？！」",
+    "romaji": "「Hontou desu ka?!」"
+  },
+  "s5.l270": {
+    "en": "Yes. Did you change anything?",
+    "ru": "Да. Вы что-то изменили в образе жизни?",
+    "zh": "是的。你改变了什么吗？",
+    "ko": "네. 생활 습관에 변화라도 주셨나요?",
+    "ja": "「ええ。何か生活習慣を変えられましたか？」",
+    "romaji": "「Ee. Nanika seikatsu shuukan o kaeraremashita ka?」"
+  },
+  "s5.l271": {
+    "en": "I joined a class at the community center.",
+    "ru": "Я записалась на занятия в общественном центре.",
+    "zh": "我参加了社区中心的一个课程。",
+    "ko": "공민관 교실에 다니기 시작했거든요.",
+    "ja": "「公民館の教室に参加し始めたんです。」",
+    "romaji": "「Kouminkan no kyoushitsu ni sanka shihajimeta n desu.」"
+  },
+  "s5.l272": {
+    "en": "I teach English. I learn Japanese.",
+    "ru": "Я преподаю английский. И учу японский.",
+    "zh": "我教英语。我学日语。",
+    "ko": "영어를 가르치기도 하고, 일본어를 배우기도 해요.",
+    "ja": "「英語を教えて、日本語を学んでいます。」",
+    "romaji": "「Eigo o oshiete, Nihongo o manande imasu.」"
+  },
+  "s5.l273": {
+    "en": "I made... friends.",
+    "ru": "Я завела... друзей.",
+    "zh": "我交到了……朋友。",
+    "ko": "그리고... 친구들도 생겼고요.",
+    "ja": "「友達が……できました。」",
+    "romaji": "「Tomodachi ga... dekimashita.」"
+  },
+  "s5.l274": {
+    "en": "That word. Friends.",
+    "ru": "Это слово. Друзья.",
+    "zh": "那个词。朋友。",
+    "ko": "그 단어. 친구.",
+    "ja": "友達。その言葉。",
+    "romaji": "Tomodachi. Sono kotoba."
+  },
+  "s5.l275": {
+    "en": "I see. That's the power of community.",
+    "ru": "Понятно. В этом и заключается сила общества.",
+    "zh": "我懂了。这就是社区的力量。",
+    "ko": "그렇군요. 이게 바로 공동체의 힘이죠.",
+    "ja": "「なるほど。それが地域の力ですね。」",
+    "romaji": "「Naruhodo. Sore ga chiiki no chikara desu ne.」"
+  },
+  "s5.l276": {
+    "en": "The power of community.",
+    "ru": "Сила сообщества.",
+    "zh": "社区的力量。",
+    "ko": "지역 공동체의 힘.",
+    "ja": "「地域の力」。",
+    "romaji": "『Chiiki no chikara』."
+  },
+  "s5.l277": {
+    "en": "Please keep it up.",
+    "ru": "Пожалуйста, продолжайте в том же духе.",
+    "zh": "请继续保持下去。",
+    "ko": "앞으로도 계속 힘내 보세요.",
+    "ja": "「ぜひ続けてくださいね。」",
+    "romaji": "「Zehi tsudzukete kudasai ne.」"
+  },
+  "s5.l278": {
+    "en": "Yes, I'll continue.",
+    "ru": "Да, я продолжу.",
+    "zh": "好的，我会继续的。",
+    "ko": "네, 그럴게요.",
+    "ja": "「はい、続けます。」",
+    "romaji": "「Hai, tsudzukemasu.」"
+  },
+  "s5.l279": {
+    "en": "I will continue.",
+    "ru": "Я продолжу.",
+    "zh": "我会继续的。",
+    "ko": "계속 노력할 거예요.",
+    "ja": "これからも続けていこう。",
+    "romaji": "Kore kara mo tsudzukete ikou."
+  },
+  "s5.l280": {
+    "en": "October. The persimmon tree outside Yamamoto-san's gate has fruit on it.",
+    "ru": "Октябрь. Хурма у ворот дома Ямамото-сан плодоносит.",
+    "zh": "十月。山本桑大门外的柿子树挂果了。",
+    "ko": "10월입니다. 야마모토 씨네 대문 앞 감나무에 열매가 주렁주렁 열렸네요.",
+    "ja": "10月。山本さんの家の門にある柿の木が実をつけていた。",
+    "romaji": "Juugatsu. Yamamoto-san no ie no mon ni aru kaki no ki ga mi o tsukete ita."
+  },
+  "s5.l281": {
+    "en": "You stop to admire them—round and orange against the blue autumn sky.",
+    "ru": "Вы останавливаетесь полюбоваться ими — круглыми и оранжевыми на фоне синего осеннего неба.",
+    "zh": "你停下来注视着他们——在秋日的蓝天背景下，显得又圆又橙。",
+    "ko": "파란 가을 하늘을 배경으로 탐스럽게 익은 주황빛 감들을 잠시 감상합니다.",
+    "ja": "足を止めて見惚れる――青い秋の空に映える、丸く実った鮮やかなオレンジ色。",
+    "romaji": "Ashi o tomete mihoteru――aoi aki no sora ni haeru, maruku minotta azayaka na orenji-iro."
+  },
+  "s5.l282": {
+    "en": "Yamamoto-san is watering again. She sees you and holds one up, asking silently.",
+    "ru": "Ямамото-san снова что-то поливает. Она видит вас и поднимает один плод, безмолвно предлагая.",
+    "zh": "山本桑又在浇水了。她看见了你，举起一个，默默地询问着。",
+    "ko": "야마모토 씨가 또 물을 주고 있습니다. 그녀가 당신을 발견하고는 감 하나를 들어 올리며 눈빛으로 묻습니다.",
+    "ja": "山本さんがまた水やりをしている。私に気づくと柿をひとつ掲げ、無言で『いる？』と問いかけてきた。",
+    "romaji": "Yamamoto-san ga mata mizuyari o shite iru. Watashi ni kidzuku to kaki o hitotsu kakage, mugon de 『Iru?』 to toikakete kita."
+  },
+  "s5.l283": {
+    "en": "They're beautiful.",
+    "ru": "Они прекрасны.",
+    "zh": "他们很美。",
+    "ko": "참 예쁘네요.",
+    "ja": "「綺麗ですね。」",
+    "romaji": "「Kirei desu ne.」"
+  },
+  "s5.l284": {
+    "en": "Here you go.",
+    "ru": "Вот, держите.",
+    "zh": "给你这个。",
+    "ko": "자, 이거 받으세요.",
+    "ja": "「どうぞ。」",
+    "romaji": "「Douzo.」"
+  },
+  "s5.l285": {
+    "en": "She holds one out. You take it. Still warm from the sun.",
+    "ru": "Она протягивает его вам. Вы берете. Он всё еще теплый от солнца.",
+    "zh": "她递了一个过来。你接住了。由于阳光的照射，它还是暖和的。",
+    "ko": "그녀가 내민 감을 받아 듭니다. 햇살을 받아서 아직 온기가 남아 있네요.",
+    "ja": "彼女がひとつ差し出してくれた。それを受け取る。まだお日様の温もりが残っていた。",
+    "romaji": "Kanojo ga hitotsu sashidashite kureta. Sore o uketoru. Mada ohisama no nukumori ga nokotte ita."
+  },
+  "s5.l286": {
+    "en": "Next Monday, Okura-san says she wants to bring someone new.",
+    "ru": "В следующий понедельник Окура-сан хочет привести новенького.",
+    "zh": "下周一，大仓桑说她想带个新人过来。",
+    "ko": "다음 주 월요일에 오쿠라 씨가 새로운 분을 데려오고 싶대요.",
+    "ja": "「次の月曜日、大倉さんが新しい人を連れてきたいって言ってたわよ。」",
+    "romaji": "「Tsugi no getsuyoubi, Ookura-san ga atarashii hito o tsurete kitai tte itteta wa yo.」"
+  },
+  "s5.l287": {
+    "en": "They're a foreigner who wants to study Japanese.",
+    "ru": "Это иностранец, который хочет учить японский.",
+    "zh": "他们是想学日语的外籍人士。",
+    "ko": "일본어를 배우고 싶어 하는 외국인분이라네요.",
+    "ja": "「日本語を勉強したい外国人の方なんですって。」",
+    "romaji": "「Nihongo o benkyou shitai gaikokujin no kata na n desu tte.」"
+  },
+  "s5.l288": {
+    "en": "A newcomer. A foreigner wanting to learn Japanese.",
+    "ru": "Новичок. Иностранец, желающий выучить японский.",
+    "zh": "新来的人。一位想学日语的外籍人士。",
+    "ko": "새로운 사람. 일본어를 배우고 싶어 하는 외국인.",
+    "ja": "新しい仲間。日本語を学びたい外国人。",
+    "romaji": "Atarashii nakama. Nihongo o manabitai gaikokujin."
+  },
+  "s5.l289": {
+    "en": "How old?",
+    "ru": "Сколько лет?",
+    "zh": "多大年纪？",
+    "ko": "연세가 어떻게 되신대요?",
+    "ja": "「何歳くらいの方ですか？」",
+    "romaji": "「Nan-sai kurai no kata desu ka?」"
+  },
+  "s5.l290": {
+    "en": "I hear they're sixty-four.",
+    "ru": "Говорят, им шестьдесят четыре.",
+    "zh": "我听说他们六十四岁了。",
+    "ko": "예순네 살이라고 하시더라고요.",
+    "ja": "「64歳らしいわよ。」",
+    "romaji": "「Rokujuuyon-sai rashii wa yo.」"
+  },
+  "s5.l291": {
+    "en": "Young.",
+    "ru": "Молодой.",
+    "zh": "年轻。",
+    "ko": "젊네.",
+    "ja": "「若いですね。」",
+    "romaji": "「Wakai desu ne.」"
+  },
+  "s5.l292": {
+    "en": "Tell Okura-san—bring them Monday.",
+    "ru": "Передайте Окуре-сан — пусть приводит его в понедельник.",
+    "zh": "告诉大仓桑——周一带上他们吧。",
+    "ko": "오쿠라 씨한테 월요일에 꼭 같이 오시라고 전해 주세요.",
+    "ja": "「大倉さんに伝えてください――月曜日に連れてきてって。」",
+    "romaji": "「Ookura-san ni tsutaete kudasai――getsuyoubi ni tsurete kite tte.」"
+  },
+  "s5.l293": {
+    "en": "We'll be there.",
+    "ru": "Мы будем там.",
+    "zh": "我们会去那儿의。",
+    "ko": "저희도 기다리고 있을게요.",
+    "ja": "「待っていますから。」",
+    "romaji": "「Matte imasu kara.」"
+  },
+  "s5.l294": {
+    "en": "Yamamoto-san smiles and goes back to her watering.",
+    "ru": "Ямамото-сан улыбается и возвращается к поливу.",
+    "zh": "山本桑笑了，继续浇水。",
+    "ko": "야마모토 씨가 미소를 지으며 다시 물을 줍니다.",
+    "ja": "山本さんは微笑み、また水やりに戻った。",
+    "romaji": "Yamamoto-san wa hohoemi, mata mizuyari ni modotta."
+  },
+  "s5.l295": {
+    "en": "You stand in the autumn light with a persimmon in your hand, thinking about Portland.",
+    "ru": "Вы стоите в лучах осеннего света с хурмой в руке, думая о Портленде.",
+    "zh": "你站在秋日的阳光下，手里拿着柿子，回想着波特兰。",
+    "ko": "가을 햇살 속에 서서 감을 손에 쥔 채 포틀랜드를 떠올려 봅니다.",
+    "ja": "柿を手に秋の光の中に立ち、ポートランドのことを想う。",
+    "romaji": "Kaki o te ni aki no hikari no naka ni tachi, Pootorando no koto o omou."
+  },
+  "s5.l296": {
+    "en": "You think about it less and less.",
+    "ru": "Вы думаете о нем всё реже и реже.",
+    "zh": "你想等得越来越少了。",
+    "ko": "갈수록 그곳 생각은 뜸해지네요.",
+    "ja": "故郷のことを思い出す回数は、日ごとに少なくなっていた。",
+    "romaji": "Kokyou no koto o omoidasu kaisuu wa, higoto ni sukunaku natte ita."
+  },
+  "s5.l297": {
+    "en": "This is not a replacement for home. It's something different.",
+    "ru": "Это не замена дому. Это нечто другое.",
+    "zh": "这并不是家的替代品。而是某种截然不同的东西。",
+    "ko": "이곳이 고향을 대신할 순 없겠지만, 이건 그 자체로 또 다른 무언가예요.",
+    "ja": "ここは故郷の代わりではない。まったく別の、新しい何かだ。",
+    "romaji": "Koko wa kokyou no kawari de wa nai. Mattaku betsu no, atarashii nanika da."
+  },
+  "s5.l298": {
+    "en": "A second life.",
+    "ru": "Вторая жизнь.",
+    "zh": "第二人生。",
+    "ko": "인생의 두 번째 막이죠.",
+    "ja": "第二の人生。",
+    "romaji": "Daini no jinsei."
+  },
+  "s5.l299": {
+    "en": "Which, at sixty-seven, turns out to be plenty of time.",
+    "ru": "Которой в шестьдесят семь лет, оказывается, вполне достаточно времени.",
+    "zh": "对于六十七岁的你来说，事实证明时间还很充裕。",
+    "ko": "예순일곱이라는 나이도, 그러기엔 충분히 넉넉한 시간이라는 걸 이제 압니다.",
+    "ja": "67歳から始めるには、どうやら十分すぎるほどの時間が残されているようだ。",
+    "romaji": "Rokujuunana-sai kara hajimeru ni wa, douyara juubun sugiru hodo no jikan ga nokosarete iru you da."
+  },
+  "s5.l300": {
+    "en": "End of Story 5: The Retirement",
+    "ru": "Конец истории 5: Выход на пенсию",
+    "zh": "故事 5：退休 完",
+    "ko": "제5화 Retirement 종료",
+    "ja": "ストーリー5終了：退職後の暮らし",
+    "romaji": "Sutoorii 5 Shuuryou: Taishokugo no kurashi"
+  },
+  "s5.l301": {
+    "en": "You're back in the classroom with your classmates.",
+    "ru": "Вы вернулись в класс к своим одноклассникам.",
+    "zh": "你和同学们回到了教室。",
+    "ko": "당신은 급우들과 함께 교실로 돌아왔습니다.",
+    "ja": "教室に戻り、クラスメイトたちと席につく。",
+    "romaji": "Kyoushitsu ni modori, kurasumeitotachi to seki ni tsuku."
+  },
+  "s5.l302": {
+    "en": "The window shows bare autumn branches.",
+    "ru": "За окном виднеются голые осенние ветви.",
+    "zh": "窗外露出了秋天光秃秃的树枝。",
+    "ko": "창밖으로 앙상한 가을 나뭇가지가 보입니다.",
+    "ja": "窓の外には、葉を落とした秋の木々が見えている。",
+    "romaji": "Mado no soto ni wa, ha o otoshita aki no kigi ga miete iru."
+  },
+  "s5.l303": {
+    "en": "So. Margaret.",
+    "ru": "Итак. Маргарет.",
+    "zh": "那么，玛格丽特。",
+    "ko": "자, 마가렛.",
+    "ja": "「さて、マーガレットさんのお話でした。」",
+    "romaji": "「Sate, Maagaretto-san no ohanashi deshita.」"
+  },
+  "s5.l304": {
+    "en": "What do we think?",
+    "ru": "Что мы об этом думаем?",
+    "zh": "我们怎么想？",
+    "ko": "다들 어떻게 봤어?",
+    "ja": "「皆さんはどう感じましたか？」",
+    "romaji": "「Minasan wa dou kanjimashita ka?」"
+  },
+  "s5.l305": {
+    "en": "I didn't expect to be that affected.",
+    "ru": "Не ожидал, что меня это так тронет.",
+    "zh": "我没想到会受到这么大的影响。",
+    "ko": "이렇게까지 마음이 찡할 줄은 몰랐어.",
+    "ja": "「こんなに胸を打たれるとは思っていませんでした。」",
+    "romaji": "「Konna ni mune o utareru to wa omotte imasen deshita.」"
+  },
+  "s5.l306": {
+    "en": "I mean—it's not a dramatic story, right? Nobody dies.",
+    "ru": "Я имею в виду — история ведь не драматическая, верно? Никто не умирает.",
+    "zh": "我的意思是——这并不是一个充满戏剧性的故事，对吧？没有人去死。",
+    "ko": "뭐랄까, 대단한 사건이 터지는 건 아니잖아? 누가 죽는 것도 아니고.",
+    "ja": "「劇的な出来事が起きるわけじゃないですよね？誰も亡くなったりしないし。」",
+    "romaji": "「Gekiteki na dekigoto ga okiru wake ja nai desu yo ne? Dare mo nakunattari shinai shi.」"
+  },
+  "s5.l307": {
+    "en": "But I cried at the persimmon tree.",
+    "ru": "Но я заплакал у хурмы.",
+    "zh": "但我对着那棵柿子树哭了。",
+    "ko": "근데 그 감나무 장면에서 눈물이 나더라고.",
+    "ja": "「でも、柿の木のシーンで涙が出そうになりました。」",
+    "romaji": "「Demo, kaki no ki no shiin de namida ga desou ni narimashita.」"
+  },
+  "s5.l308": {
+    "en": "The doctor's visit. I felt that.",
+    "ru": "Осмотр у врача. Я это прочувствовала.",
+    "zh": "去医生那儿看病。我有同感。",
+    "ko": "병원 가는 장면. 공감되더라.",
+    "ja": "「病院のシーン、すごく共感できました。」",
+    "romaji": "「Byouin no shiin, sugoku kyoukan dekimashita.」"
+  },
+  "s5.l309": {
+    "en": "When she couldn't read the forms. I've felt that.",
+    "ru": "Когда она не могла прочитать бланки. Я тоже такое чувствовала.",
+    "zh": "她看不懂表格的时候。我也曾有过那种感觉。",
+    "ko": "서류를 못 읽어서 쩔쩔매는 모습. 나도 겪어본 일이라서.",
+    "ja": "「書類が読めなかった時の気持ち、私にも分かります。」",
+    "romaji": "「Shorui ga yomenakatta toki no kimochi, watashi ni mo wakarimasu.」"
+  },
+  "s5.l310": {
+    "en": "Where? In Japan?",
+    "ru": "Где? В Японии?",
+    "zh": "在哪儿？是在日本吗？",
+    "ko": "어디서? 일본에서?",
+    "ja": "「どこで？日本でかい？」",
+    "romaji": "「Doko de? Nihon de kai?」"
+  },
+  "s5.l311": {
+    "en": "At home, actually. My grandmother—she moved to Singapore when I was a child.",
+    "ru": "Вообще-то дома. Моя бабушка переехала в Сингапур, когда я была ребенком.",
+    "zh": "事实上是在家。我的奶奶——在我小时候，她搬到了新加坡。",
+    "ko": "사실 우리 집에서. 할머니가 나 어릴 때 싱가포르로 이사 오셨거든.",
+    "ja": "「実は故郷でのことです。祖母が、私が子どもの頃にシンガポールに移住してきたんです。」",
+    "romaji": "「Jitsu wa kokyou de no koto desu. Sobo ga, watashi ga kodomo no koro ni Shingapooru ni ijuu shite kita n desu.」"
+  },
+  "s5.l312": {
+    "en": "She couldn't read anything. She just followed me everywhere.",
+    "ru": "Она ничего не могла прочитать. Просто ходила за мной повсюду.",
+    "zh": "她什么也看不懂。她只是到哪儿都跟着我。",
+    "ko": "할머니는 아무것도 못 읽으셨어. 그냥 나만 졸졸 따라다니셨지.",
+    "ja": "「何も読めなくて、どこへ行くにも私の後ろをついてくるだけでした。」",
+    "romaji": "「Nani mo yomenakute, doko e iku ni mo watashi no ushiro o tsuite kuru dake deshita.」"
+  },
+  "s5.l313": {
+    "en": "I was embarrassed. I'm ashamed of that now.",
+    "ru": "Мне было неловко. Теперь мне за это стыдно.",
+    "zh": "我当时很尴尬。我现在为此感到愧疚。",
+    "ko": "그땐 그게 참 창피했는데, 지금은 너무 죄송스러워.",
+    "ja": "「当時の私はそれを恥ずかしく思ってしまって……今ではとても後悔しています。」",
+    "romaji": "「Touji no watashi wa sore o hazukashiku omotte shimatte... ima de wa totemo koukai shite imasu.」"
+  },
+  "s5.l314": {
+    "en": "The GDD notes say this story is about one thing above others.",
+    "ru": "В заметках GDD говорится, что эта история, прежде всего, об одной вещи.",
+    "zh": "GDD 的注释说，这个故事最核心的是一件事。",
+    "ko": "GDD 노트를 보니까 이 이야기가 강조하는 게 한 가지 있더라고.",
+    "ja": "「この物語が最も伝えたかったテーマがひとつあります。」",
+    "romaji": "「Kono monogatari ga mottomo tsutaekatta teema ga hitotsu arimasu.」"
+  },
+  "s5.l315": {
+    "en": "Anyone?",
+    "ru": "Кто-нибудь знает?",
+    "zh": "有人知道吗？",
+    "ko": "아는 사람?",
+    "ja": "「誰か分かりますか？」",
+    "romaji": "「Dareka wakarimasu ka?」"
+  },
+  "s5.l316": {
+    "en": "It's never too late.",
+    "ru": "Никогда не поздно.",
+    "zh": "永远不会太迟。",
+    "ko": "늦었다고 생각할 때가 가장 빠르다.",
+    "ja": "「何事も遅すぎることはない、ということですか？」",
+    "romaji": "「Nanigoto mo ososugiru koto wa nai, to iu koto desu ka?」"
+  },
+  "s5.l317": {
+    "en": "It's never too late.",
+    "ru": "Никогда не поздно.",
+    "zh": "永远不会太迟。",
+    "ko": "결코 늦은 게 아니라는 것.",
+    "ja": "「何事も遅すぎることはない。」",
+    "romaji": "「Nanigoto mo ososugiru koto wa nai.」"
+  },
+  "s5.l318": {
+    "en": "But what makes us believe that? Or not believe it?",
+    "ru": "Но что заставляет нас верить в это? Или не верить?",
+    "zh": "但什么让我们相信这一点？或者不相信呢？",
+    "ko": "하지만 우리가 그렇게 믿게 만드는 게 뭘까? 아니면 못 믿게 만드는 건?",
+    "ja": "「ですが、何が私たちにそう信じさせ、あるいは信じられなくさせるのでしょうか？」",
+    "romaji": "「Desu ga, nani ga watashitachi ni sou shinjisase, aruiwa shinjirarenaku saseru no deshou ka?」"
+  },
+  "s5.l319": {
+    "en": "Margaret believed it because she had evidence.",
+    "ru": "Маргарет верила в это, потому что у нее были доказательства.",
+    "zh": "玛格丽特相信这一点，因为她有证据。",
+    "ko": "마가렛은 증거가 있었으니까 믿을 수 있었던 거지.",
+    "ja": "「マーガレットさんがそう信じられたのは、目の前に生きた証拠があったからだと思います。」",
+    "romaji": "「Maagaretto-san ga sou shinjirareta no wa, me no mae ni ikita shouko ga atta kara da to omoimasu.」"
+  },
+  "s5.l320": {
+    "en": "Okura-san. Eighty years old, learning English.",
+    "ru": "Окура-сан. Восемьдесят лет, учит английский.",
+    "zh": "大仓桑。八十岁了，还在学英语。",
+    "ko": "오쿠라 씨 말이야. 여든 살에 영어를 배우고 계시잖아.",
+    "ja": "「大倉さんですね。80歳で英語を学んでいる。」",
+    "romaji": "「Ookura-san desu ne. Hachijuu-sai de eigo o manande iru.」"
+  },
+  "s5.l321": {
+    "en": "It's hard to say 'I'm too old' when someone thirty years older is sitting across from you doing it.",
+    "ru": "Трудно сказать «я слишком стар», когда напротив сидит человек на тридцать лет старше и делает это.",
+    "zh": "当一个比你大三十岁的人坐在你对面做这件事时，你很难说“我太老了”。",
+    "ko": "나보다 서른 살이나 많은 분이 눈앞에서 열심히 하시는데, '난 너무 늙었어'라고 말하긴 어렵지.",
+    "ja": "「30歳も年上の人が目の前で挑戦しているのを見たら、『もう歳だから』なんて言い訳できませんよね。」",
+    "romaji": "「Sanjuu-sai mo toshiue no hito ga me no mae de chousen shite iru no o mitara, 『mou toshi dakara』 nante iiwake dekimasen yo ne.」"
+  },
+  "s5.l322": {
+    "en": "Exactly. Persistence is power.",
+    "ru": "Именно так. Настойчивость — это сила.",
+    "zh": "没错。坚持就是力量。",
+    "ko": "맞아. 계속하는 게 곧 힘이지.",
+    "ja": "「その通りです。『継続は力なり』ですね。」",
+    "romaji": "「Sono toori desu. 『Keizoku wa chikara nari』 desu ne.」"
+  },
+  "s5.l323": {
+    "en": "Persistence is power.",
+    "ru": "Настойчивость — это сила.",
+    "zh": "坚持就是力量。",
+    "ko": "계속하는 것이 힘이다.",
+    "ja": "「継続は力なり。」",
+    "romaji": "「Keizoku wa chikara nari.」"
+  },
+  "s5.l324": {
+    "en": "Margaret wrote it in her notebook the first day.",
+    "ru": "Маргарет записала это в свой блокнот в первый же день.",
+    "zh": "玛格丽特第一天就在她的笔记本上写下了这句话。",
+    "ko": "마가렛이 첫날 수첩에 그 말을 적었잖아.",
+    "ja": "「マーガレットさんは初日にそれをノートに書き留めました。」",
+    "romaji": "「Maagaretto-san wa shonichi ni sore o nooto ni kakitomemashita.」"
+  },
+  "s5.l325": {
+    "en": "And Okura-san was the one who said it.",
+    "ru": "И Окура-сан была той, кто это произнес.",
+    "zh": "而大仓桑就是说出这句话的人。",
+    "ko": "그리고 오쿠라 씨가 바로 그 말을 해주신 분이고.",
+    "ja": "「そしてそれを言ったのが、他ならぬ大倉さんでしたね。」",
+    "romaji": "「Soshite sore o itta no ga, hoka naranu Ookura-san deshita ne.」"
+  },
+  "s5.l326": {
+    "en": "The class is quiet for a moment.",
+    "ru": "В классе на минуту воцаряется тишина.",
+    "zh": "教室里安静了一会儿。",
+    "ko": "교실 안에 잠시 침묵이 흐릅니다.",
+    "ja": "教室がしばし静まり返る。",
+    "romaji": "Kyoushitsu ga shibashi shizumarikaeru."
+  },
+  "s5.l327": {
+    "en": "There's a word we saw today: chousen (challenge).",
+    "ru": "Сегодня нам встретилось слово «тёсэн» (вызов).",
+    "zh": "今天我们看到一个词：chousen（挑战）。",
+    "ko": "오늘 '도전(쵸센)'이라는 단어가 나왔었지.",
+    "ja": "「今日出てきた大切な言葉に『挑戦』がありました。」",
+    "romaji": "「Kyou dete kita taisetsu na kotoba ni 『chousen』 ga arimashita.」"
+  },
+  "s5.l328": {
+    "en": "Challenge. Attempt.",
+    "ru": "Вызов. Попытка.",
+    "zh": "挑战。尝试。",
+    "ko": "도전, 시도.",
+    "ja": "「挑戦。やってみること。」",
+    "romaji": "「Chousen. Yatte miru koto.」"
+  },
+  "s5.l329": {
+    "en": "Not a hardship. An active choice.",
+    "ru": "Не тягости. Активный выбор.",
+    "zh": "不是苦难。而是一种积极的选择。",
+    "ko": "고난이 아니라, 스스로 내린 적극적인 선택인 거야.",
+    "ja": "「単なる困難ではなく、自ら進んで選ぶ行動です。」",
+    "romaji": "「Tannaru konnan de wa naku, mizukara susunde erabu koudou desu.」"
+  },
+  "s5.l330": {
+    "en": "One word I want to highlight: enryo.",
+    "ru": "Слово, которое я хочу выделить: «энрё».",
+    "zh": "我想强调的一个词是：enryo（客气）。",
+    "ko": "강조하고 싶은 단어가 하나 더 있어. '엔료' 말이야.",
+    "ja": "「もうひとつ注目したい言葉があります。『遠慮』です。」",
+    "romaji": "「Mou hitotsu chuumoku shitai kotoba ga arimasu. 『Enryo』 desu.」"
+  },
+  "s5.l331": {
+    "en": "Margaret kept saying she didn't want to be a burden.",
+    "ru": "Маргарет постоянно твердила, что не хочет быть обузой.",
+    "zh": "玛格丽特不停地说她不想成为负担。",
+    "ko": "마가렛은 계속 폐를 끼치고 싶지 않다고 말했어.",
+    "ja": "「マーガレットさんは迷惑をかけたくないと何度も言っていましたね。」",
+    "romaji": "「Maagaretto-san wa meiwaku o kaketakunai to nando mo itte imashita ne.」"
+  },
+  "s5.l332": {
+    "en": "Not calling Yuko for the hospital visit.",
+    "ru": "Она не позвонила Юко, когда пошла в больницу.",
+    "zh": "去医院看病也没给优子打电话。",
+    "ko": "병원 갈 때 유코한테 전화 안 한 것도 그렇고.",
+    "ja": "「病院に行く時も、陽子さんに連絡しませんでした。」",
+    "romaji": "「Byouin ni iku toki mo, Youko-san ni renraku shimasen deshita.」"
+  },
+  "s5.l333": {
+    "en": "That's enryo in practice.",
+    "ru": "Это и есть «энрё» на практике.",
+    "zh": "这就是实践中的 enryo。",
+    "ko": "그게 바로 실생활 속의 '엔료'지.",
+    "ja": "「それがまさに『遠慮』の表れです。」",
+    "romaji": "「Sore ga masa ni 『enryo』 no araware desu.」"
+  },
+  "s5.l334": {
+    "en": "It's very Japanese.",
+    "ru": "Это очень по-японски.",
+    "zh": "这很有日本特色。",
+    "ko": "정말 일본인스럽네.",
+    "ja": "「とても日本的な感覚ですね。」",
+    "romaji": "「Totemo Nihonteki na kankaku desu ne.」"
+  },
+  "s5.l335": {
+    "en": "Holding back your needs so others aren't inconvenienced.",
+    "ru": "Сдерживание своих потребностей, чтобы не причинять неудобства другим.",
+    "zh": "克制自己的需求，以免给他人带来不便。",
+    "ko": "다른 사람에게 방해되지 않도록 내 필요를 억누르는 것.",
+    "ja": "「他人に迷惑をかけまいと、自分の欲求を抑え込んでしまうこと。」",
+    "romaji": "「Tanin ni meiwaku o kakemai to, jibun no yokkyuu o osaekonde shimau koto.」"
+  },
+  "s5.l336": {
+    "en": "And what did Yuko say?",
+    "ru": "А что сказала Юко?",
+    "zh": "那优子是怎么说的？",
+    "ko": "그때 유코가 뭐라고 했더라?",
+    "ja": "「それに対して陽子さんは何と言いましたか？」",
+    "romaji": "「Sore ni taishite Youko-san wa nan to iimashita ka?」"
+  },
+  "s5.l337": {
+    "en": "'That's not being a burden. That's being family.'",
+    "ru": "«Это не значит быть обузой. Это значит быть семьей».",
+    "zh": "“那不是负担。那是家人的意义所在。”",
+    "ko": "'그건 민폐가 아니에요. 가족이니까 당연한 거죠.'",
+    "ja": "「『頼ることは迷惑じゃありません。それが家族というものです』って。」",
+    "romaji": "「『Tayoru koto wa meiwaku ja arimasen. Sore ga kazoku to iu mono desu』 tte.」"
+  },
+  "s5.l338": {
+    "en": "Right. Sometimes enryo isn't respect. It's distance.",
+    "ru": "Верно. Иногда «энрё» — это не уважение. Это дистанция.",
+    "zh": "没错。有时候 enryo 并不是尊重。而是距离感。",
+    "ko": "맞아. 때로는 '엔료'가 존중이 아니라 거리감으로 작용하기도 하지.",
+    "ja": "「その通り。時に遠慮は思いやりではなく、単なる距離を生んでしまいます。」",
+    "romaji": "「Sono toori. Toki ni enryo wa omoiyari de wa naku, tannaru kyori o unde shimaimasu.」"
+  },
+  "s5.l339": {
+    "en": "And family—real belonging—requires letting that go.",
+    "ru": "А семья — истинная принадлежность — требует отказа от этого.",
+    "zh": "而家人——真正的归属感——需要放下这些。",
+    "ko": "진정한 가족, 진정한 소속감을 느끼려면 그런 마음을 내려놓아야 해.",
+    "ja": "「そして家族――本当の絆を築くためには、その遠慮を手放す必要があるのです。」",
+    "romaji": "「Soshite kazoku――hontou no kizuna o kizuku tame ni wa, sono enryo o tebanasu hitsuyou ga aru no desu.」"
+  },
+  "s5.l340": {
+    "en": "Have any of you felt like Margaret? Like an outsider who didn't know the rules?",
+    "ru": "Кто-нибудь из вас чувствовал себя как Маргарет? Как аутсайдер, который не знает правил?",
+    "zh": "你们中有人觉得像玛格丽特吗？就像一个不懂规则的局外人？",
+    "ko": "여러분 중에도 마가렛처럼 느껴본 적 있어? 규칙을 모르는 이방인이 된 것 같은 기분 말이야.",
+    "ja": "「皆さんもマーガレットさんのように、ルールが分からない異邦人のように感じた経験はありませんか？」",
+    "romaji": "「Minasan mo Maagaretto-san no you ni, ruuru ga wakaranai ihoujin no you ni kanjita keiken wa arimasen ka?」"
+  },
+  "s5.l341": {
+    "en": "Share about feeling lost somewhere",
+    "ru": "Рассказать о том, как чувствовали себя потерянными где-то",
+    "zh": "分享在某处感到迷失的经历",
+    "ko": "어딘가에서 길을 잃은 듯한 기분을 느꼈던 경험 공유하기",
+    "ja": "どこかで途方に暮れた経験について話す",
+    "romaji": "Dokoka de tohou ni kureta keiken ni tsuite hanasu"
+  },
+  "s5.l342": {
+    "en": "Listen to classmates",
+    "ru": "Слушать одноклассников",
+    "zh": "听同学说",
+    "ko": "급우들의 이야기 듣기",
+    "ja": "クラスメイトの話に耳を傾ける",
+    "romaji": "Kurasumeito no hanashi ni mimi o katamukeru"
+  },
+  "s5.l343": {
+    "en": "I remember arriving here and not understanding anything.",
+    "ru": "Я помню, как приехал сюда и ничего не понимал.",
+    "zh": "我记得刚到这里的时候什么都不懂。",
+    "ko": "처음 여기 왔을 때 아무것도 이해 못 했던 기억이 나요.",
+    "ja": "「日本に来たばかりの頃、何も分からなかったのを覚えています。」",
+    "romaji": "「Nihon ni kita bakari no koro, nani mo wakaranakatta no o oboete imasu.」"
+  },
+  "s5.l344": {
+    "en": "The signs, the food, the way people interact.",
+    "ru": "Вывески, еда, то, как люди общаются.",
+    "zh": "那些标志、食物，还有人们互动的方式。",
+    "ko": "표지판, 음식, 그리고 사람들이 대화하는 방식까지 전부요.",
+    "ja": "「看板も、食べ物も、人との接し方も。」",
+    "romaji": "「Kanban mo, tabemono mo, hito to no sesshikata mo.」"
+  },
+  "s5.l345": {
+    "en": "I walked out of the combini the first day without bowing and felt everyone stare.",
+    "ru": "В первый день я вышел из комбини, не поклонившись, и почувствовал, как все на меня уставились.",
+    "zh": "第一天我从便利店出来没鞠躬，感觉所有人都在盯着我看。",
+    "ko": "첫날 편의점에서 인사 안 하고 나왔다가 사람들이 다 쳐다보는 걸 느꼈거든요.",
+    "ja": "「初日、コンビニでお辞儀をせずに出てしまった時、周り中から見られているように感じました。」",
+    "romaji": "「Shonichi, konbini de ojigi o sezu ni dete shimatta toki, mawarijuu kara mirarete iru you ni kanjimashita.」"
+  },
+  "s5.l346": {
+    "en": "I did exactly the same thing.",
+    "ru": "Я сделал то же самое.",
+    "zh": "我也做了完全一样的事情。",
+    "ko": "나도 똑같은 짓 했었는데!",
+    "ja": "「俺もまったく同じことやったよ。」",
+    "romaji": "「Ore mo mattaku onaji koto yatta yo.」"
+  },
+  "s5.l347": {
+    "en": "And now?",
+    "ru": "А теперь?",
+    "zh": "那现在呢？",
+    "ko": "지금은?",
+    "ja": "「それで、今はどうですか？」",
+    "romaji": "「Sore de, ima wa dou desu ka?」"
+  },
+  "s5.l348": {
+    "en": "Now I bow without thinking about it.",
+    "ru": "Теперь я кланяюсь, даже не задумываясь.",
+    "zh": "现在我如果不鞠躬我都不习惯。",
+    "ko": "이제는 생각하기도 전에 저절로 고개가 숙여져요.",
+    "ja": "「今は無意識にお辞儀していますね。」",
+    "romaji": "「Ima wa muishiki ni ojigi shite imasu ne.」"
+  },
+  "s5.l349": {
+    "en": "That's the story. That's Margaret.",
+    "ru": "Вот об этом и история. Это и есть Маргарет.",
+    "zh": "就是这个故事。这就是玛格丽特。",
+    "ko": "바로 그게 이 이야기야. 그게 마가렛이고.",
+    "ja": "「それが物語の力であり、マーガレットさんの歩みそのものです。」",
+    "romaji": "「Sore ga monogatari no chikara de ari, Maagaretto-san no ayumi sono mono desu.」"
+  },
+  "s5.l350": {
+    "en": "The story ends with a new person arriving at the class.",
+    "ru": "История заканчивается прибытием нового человека в класс.",
+    "zh": "故事以一个新人来到班级结束。",
+    "ko": "이야기는 교실에 새로운 사람이 오는 걸로 끝나지.",
+    "ja": "「物語の結末では、教室に新しい人がやって来ましたね。」",
+    "romaji": "「Monogatari no ketsumatsu de wa, kyoushitsu ni atarashii hito ga yatte kimashita ne.」"
+  },
+  "s5.l351": {
+    "en": "Sixty-four years old. Margaret calls them 'young.'",
+    "ru": "Шестьдесят четыре года. Маргарет называет их «молодыми».",
+    "zh": "六十四岁。玛格丽特称他们为“年青”。",
+    "ko": "예순네 살인데 마가렛은 '젊네'라고 말하잖아.",
+    "ja": "「64歳の方ですね。マーガレットさんは『若い』と言っていました。」",
+    "romaji": "「Rokujuuyon-sai no kata desu ne. Maagaretto-san wa 『wakai』 to itte imashita.」"
+  },
+  "s5.l352": {
+    "en": "I love that.",
+    "ru": "Мне это нравится.",
+    "zh": "我喜欢那个。",
+    "ko": "그 장면 너무 좋더라.",
+    "ja": "「あの場面、すごく好きだな。」",
+    "romaji": "「Ano bamen, sugoku suki da na.」"
+  },
+  "s5.l353": {
+    "en": "In story terms—what's happened to Margaret?",
+    "ru": "В терминах сюжета — что случилось с Маргарет?",
+    "zh": "从故事的角度来看——玛格丽特发生了什么？",
+    "ko": "이야기의 관점에서 보면, 마가렛에게 어떤 변화가 생긴 걸까?",
+    "ja": "「物語の構造として、マーガレットさんは何になったのでしょうか？」",
+    "romaji": "「Monogatari no kouzou to shite, Maagaretto-san wa nani ni natta no deshou ka?」"
+  },
+  "s5.l354": {
+    "en": "She became Yamamoto-san.",
+    "ru": "Она стала как Ямамото-сан.",
+    "zh": "她成了山本桑。",
+    "ko": "그녀가 야마모토 씨가 된 거지.",
+    "ja": "「山本さんになったんだと思います。」",
+    "romaji": "「Yamamoto-san ni natta n da to omoimasu.」"
+  },
+  "s5.l355": {
+    "en": "She became the one at the gate. Watering the plant. Helping the newcomer.",
+    "ru": "Она стала той, кто у ворот. Поливает растение. Помогает новичку.",
+    "zh": "她成了在大门口的那个人。给植物浇水。帮助新来的人。",
+    "ko": "대문 앞에서 식물에 물을 주며 새로 온 사람을 돕는 그런 사람이 된 거야.",
+    "ja": "「門の前に立って、水やりをして、新しく来た人に手を差し伸べる存在になった。」",
+    "romaji": "「Mon no mae ni tatte, mizuyari o shite, atarashiku kita hito ni te o sashinoberu sonzai ni natta.」"
+  },
+  "s5.l356": {
+    "en": "Exactly right, Yuki-san.",
+    "ru": "Совершенно верно, Юки-сан.",
+    "zh": "完全正确，由纪桑。",
+    "ko": "정확해, 유키 씨.",
+    "ja": "「まさにその通りです、ユキさん。」",
+    "romaji": "「Masa ni sono toori desu, Yuki-san.」"
+  },
+  "s5.l357": {
+    "en": "The circle.",
+    "ru": "Круг замкнулся.",
+    "zh": "循环。",
+    "ko": "선순환이지.",
+    "ja": "「繋がりの輪ですね。」",
+    "romaji": "「Tsunagari no wa desu ne.」"
+  },
+  "s5.l358": {
+    "en": "The bell rings.",
+    "ru": "Звенит звонок.",
+    "zh": "铃响了。",
+    "ko": "종이 울립니다.",
+    "ja": "チャイムが鳴り響く。",
+    "romaji": "Chaimu ga narihibiku."
+  },
+  "s5.l359": {
+    "en": "Next week: Story 6. Takeshi-san the translator. N3 vocabulary. Come prepared.",
+    "ru": "На следующей неделе: История 6. Переводчик Такэси-сан. Лексика N3. Подготовьтесь.",
+    "zh": "下周：故事 6。翻译员武志桑。N3 词汇。做好准备。",
+    "ko": "다음 주에는 제6화 번역가 타케시 씨 이야기를 볼 거야. N3 어휘가 나오니까 미리 준비해 오도록.",
+    "ja": "「来週はストーリー6、翻訳者のタケシさんのお話です。N3の語彙が出てきますので予習してきてくださいね。」",
+    "romaji": "「Raishuu wa Sutoorii 6, hon'yakusha no Takeshi-san no ohanashi desu. N3 no goi ga dete kimasu no de yoshuu shite kite kudasai ne.」"
+  },
+  "s5.l360": {
+    "en": "And—look at how far you've come. Really.",
+    "ru": "И — посмотрите, как далеко вы продвинулись. Правда.",
+    "zh": "还有——看看你们已经走了多远。真的。",
+    "ko": "그리고... 정말 다들 많이 성장했어. 진심으로.",
+    "ja": "「そして――皆さんがどれほど遠くまで歩んできたか、胸を張ってくださいね。」",
+    "romaji": "「Soshite――minasan ga dore hodo tooku made ayunde kita ka, mune o hatte kudasai ne.」"
+  },
+  "s5.l361": {
+    "en": "Yuki catches up with you near the shoe lockers.",
+    "ru": "Юки догоняет вас у обувных шкафчиков.",
+    "zh": "由纪在鞋柜附近追上了你。",
+    "ko": "유키가 신발장 근처에서 당신을 따라잡습니다.",
+    "ja": "靴箱の近くで、ユキが追いついてきた。",
+    "romaji": "Kutsubako no chikaku de, Yuki ga oitsuite kita."
+  },
+  "s5.l362": {
+    "en": "Can I say something?",
+    "ru": "Можно я кое-что скажу?",
+    "zh": "我能说点什么吗？",
+    "ko": "한 가지 말씀드려도 될까요?",
+    "ja": "「ちょっと話してもいい？」",
+    "romaji": "「Chotto hanashite mo ii?」"
+  },
+  "s5.l363": {
+    "en": "Of course.",
+    "ru": "Конечно.",
+    "zh": "当然可以。",
+    "ko": "그럼요.",
+    "ja": "「もちろん。」",
+    "romaji": "「Mochiron.」"
+  },
+  "s5.l364": {
+    "en": "My grandmother in Osaka—she never learned to use a smartphone.",
+    "ru": "Моя бабушка в Осаке — она так и не научилась пользоваться смартфоном.",
+    "zh": "我在大阪的奶奶——她从来没学会用智能手机。",
+    "ko": "오사카에 계셨던 우리 할머니는 스마트폰 쓰는 법을 끝내 못 배우셨어요.",
+    "ja": "「大阪にいる私の祖母ね、スマホの使い方が覚えられなかったの。」",
+    "romaji": "「Oosaka ni iru watashi no sobo ne, sumaho no tsukaikata ga oboerarenakatta no.」"
+  },
+  "s5.l365": {
+    "en": "She said it was too hard. Too late for her.",
+    "ru": "Она говорила, что это слишком сложно. Слишком поздно для нее.",
+    "zh": "她说这太难了。对她来说太晚了。",
+    "ko": "할머니는 너무 어렵다고, 당신 나이엔 이미 늦었다고만 하셨죠.",
+    "ja": "「難しすぎるし、自分にはもう遅いからって。」",
+    "romaji": "「Muzukashisugiru shi, jibun ni wa mou osoi kara tte.」"
+  },
+  "s5.l366": {
+    "en": "She died two years ago. We FaceTimed only a few times.",
+    "ru": "Она умерла два года назад. Мы созванивались по FaceTime всего несколько раз.",
+    "zh": "她两年前去世了。我们只视频通话过几次。",
+    "ko": "2년 전에 돌아가셨는데, 영상 통화는 고작 몇 번밖에 못 해봤어요.",
+    "ja": "「2年前に亡くなったんだけど、ビデオ通話できたのも数回だけだった。」",
+    "romaji": "「Ninen mae ni nakunatta n da kedo, bideo tsuuwa dekita no mo suukai dake datta.」"
+  },
+  "s5.l367": {
+    "en": "I always thought—why didn't someone sit with her? Just sit with her and show her.",
+    "ru": "Я всегда думала — почему никто не посидел с ней? Просто не посидел и не показал ей.",
+    "zh": "我一直想——为什么没有人陪着她？哪怕只是坐在一旁教教她也好。",
+    "ko": "늘 그게 생각나요. 왜 아무도 할머니 곁에 앉아주지 않았을까. 그냥 옆에 앉아서 차근차근 가르쳐드렸으면 됐을 텐데.",
+    "ja": "「ずっと考えてたの――どうして誰かが隣に座ってあげなかったんだろうって。ただ隣に座って、教えてあげればよかったのにって。」",
+    "romaji": "「Zutto kangaeteta no――doushite dareka ga tonari ni suwatte agenakatta n darou tte. Tada tonari ni suwatte, oshiete agereba yokatta no ni tte.」"
+  },
+  "s5.l368": {
+    "en": "I'm sorry.",
+    "ru": "Мне очень жаль.",
+    "zh": "我很抱歉。",
+    "ko": "안타까운 일이네요.",
+    "ja": "「つらかったね。」",
+    "romaji": "「Tsurakatta ne.」"
+  },
+  "s5.l369": {
+    "en": "I think about Margaret sitting in that classroom.",
+    "ru": "Я думаю о Маргарет, сидящей в том классе.",
+    "zh": "我想起玛格丽特坐在那个教室里的样子。",
+    "ko": "그 교실에 앉아 있던 마가렛이 계속 떠올라요.",
+    "ja": "「あの教室に座っているマーガレットさんを見て、思ったの。」",
+    "romaji": "「Ano kyoushitsu ni suwatte iru Maagaretto-san o mite, omotta no.」"
+  },
+  "s5.l370": {
+    "en": "Someone sat with her.",
+    "ru": "Кто-то посидел с ней.",
+    "zh": "有人陪着她。",
+    "ko": "누군가 그녀 곁에 있어줬잖아요.",
+    "ja": "「誰かが隣に座ってくれたんだなって。」",
+    "romaji": "「Dareka ga tonari ni suwatte kureta n da na tte.」"
+  },
+  "s5.l371": {
+    "en": "Yamamoto-san. And Okura-san.",
+    "ru": "Ямамото-сан. И Окура-сан.",
+    "zh": "山本桑。还有大仓桑。",
+    "ko": "야마모토 씨랑 오쿠라 씨요.",
+    "ja": "「山本さんや、大倉さんが。」",
+    "romaji": "「Yamamoto-san ya, Ookura-san ga.」"
+  },
+  "s5.l372": {
+    "en": "I wish someone had done that for my grandmother.",
+    "ru": "Я бы хотела, чтобы кто-то сделал это для моей бабушки.",
+    "zh": "我真希望有人也能为我奶奶这么做。",
+    "ko": "우리 할머니한테도 그런 분이 계셨더라면 좋았을 텐데.",
+    "ja": "「私の祖母にも、誰かがそうしてくれたらよかったのに。」",
+    "romaji": "「Watashi no sobo ni mo, dareka ga sou shite kuretara yokatta no ni.」"
+  },
+  "s5.l373": {
+    "en": "She doesn't wipe her eyes. She just lets the feeling sit there.",
+    "ru": "Она не вытирает слезы. Она просто позволяет этому чувству быть.",
+    "zh": "她没有擦眼泪。她只是任由那种情感停留在那儿。",
+    "ko": "그녀는 눈물을 훔치지 않습니다. 그저 복받치는 감정을 온전히 느끼고 있을 뿐입니다.",
+    "ja": "彼女は涙を拭おうとせず、ただ静かにその感情を受け止めていた。",
+    "romaji": "Kanojo wa namida o nuguou to sezu, tada shizuka ni sono kanjou o uketomete ita."
+  },
+  "s5.l374": {
+    "en": "Me too.",
+    "ru": "Мне тоже.",
+    "zh": "我也是。",
+    "ko": "저도 같은 생각이에요.",
+    "ja": "「私もそう思うよ。」",
+    "romaji": "「Watashi mo sou omou yo.」"
+  },
+  "s5.l375": {
+    "en": "You walk to the train together without speaking.",
+    "ru": "Вы идете к поезду вместе, не говоря ни слова.",
+    "zh": "你们默不作声地一起走向火车站。",
+    "ko": "당신은 그녀와 말없이 기차역까지 걸어갑니다.",
+    "ja": "言葉を交わすことなく、一緒に駅へと歩いていく。",
+    "romaji": "Kotoba o kawasu koto naku, issho ni eki e to aruite iku."
+  },
+  "s5.l376": {
+    "en": "The autumn leaves are falling.",
+    "ru": "Падают осенние листья.",
+    "zh": "秋叶正在飘落。",
+    "ko": "가을 낙엽이 떨어지고 있습니다.",
+    "ja": "秋の木の葉が静かに舞い散っていた。",
+    "romaji": "Aki no konoha ga shizuka ni maichitte ita."
+  },
+  "s5.l377": {
+    "en": "It's enough.",
+    "ru": "Этого достаточно.",
+    "zh": "这就足够了。",
+    "ko": "그것으로 충분합니다.",
+    "ja": "それだけで、十分だった。",
+    "romaji": "Sore dake de, juubun datta."
+  }
+}

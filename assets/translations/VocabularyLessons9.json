@@ -1,0 +1,793 @@
+{
+  "vl9.title": {
+    "en": "A Moon-Viewing Night",
+    "ru": "Ночь любования луной",
+    "zh": "赏月之夜",
+    "ja": "月見の夜",
+    "romaji": "Tsukimi no yoru"
+  },
+  "vl9.subtitle": {
+    "en": "A gentle evening together with everyone",
+    "ru": "Спокойный вечер со всеми",
+    "zh": "大家一起度过的安静时光",
+    "ja": "みんなで過ごす、おだやかな時間",
+    "romaji": "Minna de sugosu, odayaka na jikan"
+  },
+  "vl9.description": {
+    "en": "On a moon-viewing night at Ken's home, practice ten words about snacks, how to talk about family, mending clothes, and being tired.",
+    "ru": "В ночь любования луной в доме Кена потренируйте десять слов о сладостях, названиях родных, починке одежды и усталости.",
+    "zh": "在健家的赏月之夜，练习十个词：点心、家人的称呼、缝补衣服和疲惫时的话。",
+    "ja": "ケンの家の月見の夜に、お菓子、家族の呼び方、繕いもの、疲れたときの言葉を十つ練習します。",
+    "romaji": "Ken no ie no tsukimi no yoru ni, okashi, kazoku no yobikata, tsukuroimono, tsukareta toki no kotoba o touka renshuu shimasu."
+  },
+  "vl9.setup": {
+    "en": "An autumn evening. At Ken's home, they are preparing for moon viewing. Pampas grass sways in the garden.",
+    "ru": "Осенний вечер. В доме Кена готовятся к любованию луной. В саду колышется мискантус.",
+    "zh": "秋天的傍晚。健家正在准备赏月。院子里的芒草在摇曳。",
+    "ja": "秋の夕方。ケンの家では、月見の準備をしている。庭には、ススキがゆれている。",
+    "romaji": "Aki no yuugata. Ken no ie de wa, tsukimi no junbi o shite iru. Niwa ni wa, susuki ga yurete iru."
+  },
+  "vl9.t_intro": {
+    "en": "Today's theme is chatting on a moon-viewing night. Let's practice ten words in an unhurried atmosphere.",
+    "ru": "Тема сегодня — разговоры в ночь любования луной. Давайте потренируем десять слов в неторопливой атмосфере.",
+    "zh": "今天的主题是赏月之夜的闲聊。我们在悠闲的气氛中练习十个词。",
+    "ja": "今日のテーマは、月見の夜のおしゃべりです。ゆっくりした時間の中で、十の言葉を練習しましょう。",
+    "romaji": "Kyou no teema wa, tsukimi no yoru no oshaberi desu. Yukkuri shita jikan no naka de, juu no kotoba o renshuu shimashou."
+  },
+  "vl9.g_welcome": {
+    "en": "Everyone, welcome. Tonight, let's all look at the moon slowly together.",
+    "ru": "Все, добро пожаловать. Сегодня вечером давайте все вместе неспешно полюбуемся луной.",
+    "zh": "大家，欢迎欢迎。今晚我们一起慢慢赏月吧。",
+    "ja": "みんな、よく来ましたね。今夜は、みんなで、ゆっくり月を見ましょう。",
+    "romaji": "Minna, yoku kimashita ne. Konya wa, minna de, yukkuri tsuki o mimashou."
+  },
+  "vl9.w1": {
+    "en": "This is “minna,” everyone. It refers to all the people who are there. Saying “minna de” means “all together.”",
+    "ru": "Это «минна» — все. Так называют всех присутствующих. «Минна дэ» означает «все вместе».",
+    "zh": "这就是「みんな」。指在场的所有人。说「みんなで」就是“大家一起”的意思。",
+    "ja": "これが「みんな」です。そこにいる、全部の人たちのことです。「みんなで」と言うと、「全員で」という意味になります。",
+    "romaji": "Kore ga 'minna' desu. Soko ni iru, zenbu no hitotachi no koto desu. 'Minna de' to iu to, 'zenin de' to iu imi ni narimasu."
+  },
+  "vl9.w1_q": {
+    "en": "Is “minna” the same as “zenin”?",
+    "ru": "«Минна» и «дзэнъин» — это одно и то же?",
+    "zh": "「みんな」和「全員」一样吗？",
+    "ja": "「みんな」と「全員」は、同じですか？",
+    "romaji": "'Minna' to 'zenin' wa, onaji desu ka?"
+  },
+  "vl9.w1_a": {
+    "en": "The meaning is close. But “minna” is spoken and sounds soft. “Zenin” is a somewhat stiffer word.",
+    "ru": "Значения близки. Но «минна» — разговорное и звучит мягко. «Дзэнъин» — несколько более сухое слово.",
+    "zh": "意思相近。不过「みんな」是口语，听起来比较柔和。「全員」则稍微生硬一些。",
+    "ja": "意味は近いです。でも、「みんな」は、話し言葉で、やわらかい感じです。「全員」は、少しかたい言葉です。",
+    "romaji": "Imi wa chikai desu. Demo, 'minna' wa, hanashikotoba de, yawarakai kanji desu. 'Zenin' wa, sukoshi katai kotoba desu."
+  },
+  "vl9.g_first": {
+    "en": "So, what shall we do first?",
+    "ru": "Итак, с чего начнём?",
+    "zh": "那么，我们先做什么呢？",
+    "ja": "では、何から、しましょうか？",
+    "romaji": "Dewa, nani kara, shimashou ka?"
+  },
+  "vl9.w2": {
+    "en": "“Mazu” is the word you use when naming the very first thing you do. It is used in order: “mazu, tsugi ni, saigo ni,” first, next, and finally.",
+    "ru": "«Мадзу» — слово, которым называют самое первое действие. Оно используется по порядку: «мадзу, цуги ни, сайго ни» — сначала, затем, в конце.",
+    "zh": "「まず」是说出最先要做的事时用的词。按顺序使用：「まず、次に、最後に」，即首先、其次、最后。",
+    "ja": "「まず」は、いちばん初めにすることを言うときの言葉です。「まず、次に、最後に」と、順番に使います。",
+    "romaji": "'Mazu' wa, ichiban hajime ni suru koto o iu toki no kotoba desu. 'Mazu, tsugi ni, saigo ni' to, junban ni tsukaimasu."
+  },
+  "vl9.p1_prompt": {
+    "en": "Grandma asked, “What shall we do first?” You would like to have tea first. What do you say?",
+    "ru": "Бабушка спросила: «С чего начнём?» Вы хотите сначала выпить чаю. Что вы скажете?",
+    "zh": "奶奶问：“我们先做什么呢？”你想先喝茶。你会怎么说？",
+    "ja": "おばあちゃんが、「何から、しましょうか？」と聞きました。あなたは、まず、お茶を飲みたいです。何と言いますか？",
+    "romaji": "Obaachan ga, 'Nani kara, shimashou ka?' to kikimashita. Anata wa, mazu, ocha o nomitai desu. Nan to iimasu ka?"
+  },
+  "vl9.c1_natural": {
+    "en": "“First, let's have some tea.”",
+    "ru": "«Сначала давайте выпьем чаю».",
+    "zh": "“先喝茶吧。”",
+    "ja": "「まず、お茶を飲みましょう。」",
+    "romaji": "'Mazu, ocha o nomimashou.'"
+  },
+  "vl9.c1_formal": {
+    "en": "“If I may be so bold, I believe it would be best to first partake of tea.”",
+    "ru": "«Осмелюсь предположить, что для начала лучше всего испить чаю».",
+    "zh": "“恕我冒昧，我认为最好先饮茶。”",
+    "ja": "「僭越ながら、まずは、お茶をいただくのがよろしいかと存じます。」",
+    "romaji": "'Sen'etsu nagara, mazu wa, ocha o itadaku no ga yoroshii ka to zonjimasu.'"
+  },
+  "vl9.c1_mistake": {
+    "en": "“Finally, let's have tea.”",
+    "ru": "«В конце давайте выпьем чаю».",
+    "zh": "“最后再喝茶吧。”",
+    "ja": "「最後に、お茶を飲みましょう。」",
+    "romaji": "'Saigo ni, ocha o nomimashou.'"
+  },
+  "vl9.c1_own": {
+    "en": "“First, let's have tea, next eat sweets, and finally look at the moon.”",
+    "ru": "«Сначала выпьем чаю, затем съедим сладости, а в конце полюбуемся луной».",
+    "zh": "“先喝茶，接着吃点心，最后赏月吧。”",
+    "ja": "「まず、お茶を飲んで、次に、お菓子を食べて、最後に、月を見ましょう。」",
+    "romaji": "'Mazu, ocha o nonde, tsugi ni, okashi o tabete, saigo ni, tsuki o mimashou.'"
+  },
+  "vl9.c1_min": {
+    "en": "“First... tea...”",
+    "ru": "«Сначала… чай…»",
+    "zh": "“先……茶……”",
+    "ja": "「まず…お茶…」",
+    "romaji": "'Mazu... ocha...'"
+  },
+  "vl9.p1_nat_grandma": {
+    "en": "Sounds good. The water has just boiled.",
+    "ru": "Отлично. Как раз вскипела вода.",
+    "zh": "好啊。水刚好烧开了。",
+    "ja": "いいですね。ちょうど、お湯も、わいたところです。",
+    "romaji": "Ii desu ne. Choudo, oyu mo, waita tokoro desu."
+  },
+  "vl9.p1_form_ken": {
+    "en": "Haha, that sounds like a temple meeting. “Mazu, ocha o nomimashou” is fine.",
+    "ru": "Ха-ха, как на собрании в храме. Достаточно «мадзу, ття о номимасё».",
+    "zh": "哈哈，像寺庙里开会一样。说「まず、お茶を飲みましょう」就好。",
+    "ja": "あはは、まるで、お寺の会議みたいです。「まず、お茶を飲みましょう」で、いいですよ。",
+    "romaji": "Ahaha, marude, otera no kaigi mitai desu. 'Mazu, ocha o nomimashou' de, ii desu yo."
+  },
+  "vl9.p1_mis_mei": {
+    "en": "Ha, “saigo ni”? “Mazu” is for the very first thing.",
+    "ru": "Ха-ха, «сайго ни»? «Мадзу» — это самое первое.",
+    "zh": "呵呵，「最後に」吗？「まず」是最先做的事哦。",
+    "ja": "ふふ、「最後に」ですか？「まず」は、いちばん初めですよ。",
+    "romaji": "Fufu, 'saigo ni' desu ka? 'Mazu' wa, ichiban hajime desu yo."
+  },
+  "vl9.p1_mis_retry": {
+    "en": "Oh, first, let's have tea.",
+    "ru": "Ой, сначала давайте выпьем чаю.",
+    "zh": "啊，先喝茶吧。",
+    "ja": "あっ、まず、お茶を飲みましょう。",
+    "romaji": "A, mazu, ocha o nomimashou."
+  },
+  "vl9.p1_mis_relief": {
+    "en": "Yes, let's do that. You've got the order right.",
+    "ru": "Да, так и сделаем. Вы поняли порядок.",
+    "zh": "好，就这样吧。你明白顺序了呢。",
+    "ja": "はい、そうしましょう。順番が、分かりましたね。",
+    "romaji": "Hai, sou shimashou. Junban ga, wakarimashita ne."
+  },
+  "vl9.p1_own_grandma": {
+    "en": "Wonderful. You managed to say first, next, and finally.",
+    "ru": "Замечательно. Вы сумели сказать «сначала, затем, в конце».",
+    "zh": "太棒了。你把「まず、次に、最後に」都说出来了。",
+    "ja": "すばらしい。まず、次に、最後に、と言えましたね。",
+    "romaji": "Subarashii. Mazu, tsugi ni, saigo ni, to iemashita ne."
+  },
+  "vl9.p1_min_tanaka": {
+    "en": "It gets across. Next time, try a full sentence: “mazu, ocha o nomimashou.”",
+    "ru": "Поймут. В следующий раз попробуйте сказать целое предложение: «мадзу, ття о номимасё».",
+    "zh": "能听懂。下次试着说完整的句子：「まず、お茶を飲みましょう」。",
+    "ja": "伝わりますよ。次は、「まず、お茶を飲みましょう」と、文で言ってみましょう。",
+    "romaji": "Tsutawarimasu yo. Tsugi wa, 'mazu, ocha o nomimashou' to, bun de itte mimashou."
+  },
+  "vl9.g_senbei": {
+    "en": "Please have some rice crackers with your tea.",
+    "ru": "Пожалуйста, угощайтесь рисовыми крекерами к чаю.",
+    "zh": "请配着茶，也尝尝煎饼。",
+    "ja": "お茶と一緒に、おせんべいも、どうぞ。",
+    "romaji": "Ocha to issho ni, osenbei mo, douzo."
+  },
+  "vl9.w3": {
+    "en": "This is “senbei.” It is a hard, savory Japanese snack made from rice.",
+    "ru": "Это «сэмбэй». Твёрдое, ароматное японское лакомство из риса.",
+    "zh": "这就是「せんべい」。是用大米做的、又硬又香的日本点心。",
+    "ja": "これが「せんべい」です。お米で作った、かたくて、香ばしい、日本のお菓子です。",
+    "romaji": "Kore ga 'senbei' desu. Okome de tsukutta, katakute, kobashii, Nihon no okashi desu."
+  },
+  "vl9.w3_q": {
+    "en": "Senbei with a soy-sauce flavor is the tastiest, isn't it?",
+    "ru": "Сэмбэй со вкусом соевого соуса самый вкусный, правда?",
+    "zh": "酱油味的煎饼最好吃了，对吧？",
+    "ja": "しょうゆの味のせんべいが、いちばんおいしいですよね。",
+    "romaji": "Shouyu no aji no senbei ga, ichiban oishii desu yo ne."
+  },
+  "vl9.w4": {
+    "en": "When you agree with a friend, you say “sou sou.” It is a light way of saying “that's right.”",
+    "ru": "Когда соглашаются с другом, говорят «со со». Это лёгкая форма фразы «именно так».",
+    "zh": "赞同朋友时，说「そうそう」。是“没错”的轻松说法。",
+    "ja": "友達に賛成するとき、「そうそう」と言います。「そのとおり」という、軽い言い方です。",
+    "romaji": "Tomodachi ni sansei suru toki, 'sou sou' to iimasu. 'Sono toori' to iu, karui iikata desu."
+  },
+  "vl9.w4_q": {
+    "en": "How is “sou sou” different from “sou desu”?",
+    "ru": "Чем «со со» отличается от «со дэс»?",
+    "zh": "「そうそう」和「そうです」有什么不同？",
+    "ja": "「そうそう」と「そうです」は、どうちがいますか？",
+    "romaji": "'Sou sou' to 'sou desu' wa, dou chigaimasu ka?"
+  },
+  "vl9.w4_a": {
+    "en": "“Sou desu” is a polite reply. “Sou sou” is a casual expression used in conversations with friends. You also use it when you suddenly remember something.",
+    "ru": "«Со дэс» — вежливый ответ. «Со со» — неформальное выражение для разговоров с друзьями. Его также говорят, когда что-то вспомнили.",
+    "zh": "「そうです」是礼貌的回答。「そうそう」是与朋友对话时用的随意说法。突然想起什么时也用。",
+    "ja": "「そうです」は、ていねいな答えです。「そうそう」は、友達との会話で使う、くだけた言い方です。思い出したときにも、使います。",
+    "romaji": "'Sou desu' wa, teinei na kotae desu. 'Sou sou' wa, tomodachi to no kaiwa de tsukau, kudaketa iikata desu. Omoidashita toki ni mo, tsukaimasu."
+  },
+  "vl9.p2_prompt": {
+    "en": "Yuki said, “Soy-sauce senbei is the tastiest, isn't it?” You think so too. What do you say?",
+    "ru": "Юки сказала: «Сэмбэй с соевым соусом самый вкусный, правда?» Вы тоже так думаете. Что вы скажете?",
+    "zh": "由纪说：“酱油味的煎饼最好吃了，对吧？”你也这么认为。你会怎么说？",
+    "ja": "由紀さんが、「しょうゆのせんべいが、いちばんおいしいですよね」と言いました。あなたも、そう思います。何と言いますか？",
+    "romaji": "Yuki-san ga, 'Shouyu no senbei ga, ichiban oishii desu yo ne' to iimashita. Anata mo, sou omoimasu. Nan to iimasu ka?"
+  },
+  "vl9.c2_natural": {
+    "en": "“Right! Soy sauce is the tastiest.”",
+    "ru": "«Точно! С соевым соусом самый вкусный».",
+    "zh": "“对对！酱油味的最好吃。”",
+    "ja": "「そうそう！しょうゆが、いちばんおいしいですね。」",
+    "romaji": "'Sou sou! Shouyu ga, ichiban oishii desu ne.'"
+  },
+  "vl9.c2_formal": {
+    "en": "“Indeed, it is exactly as you say.”",
+    "ru": "«Воистину, всё именно так, как вы говорите».",
+    "zh": "“确实，正如您所说。”",
+    "ja": "「まことに、おっしゃるとおりでございます。」",
+    "romaji": "'Makoto ni, ossharu toori de gozaimasu.'"
+  },
+  "vl9.c2_mistake": {
+    "en": "“Sou sou? I don't understand at all.”",
+    "ru": "«Со со? Я совсем не понимаю».",
+    "zh": "“そうそう？我完全不明白。”",
+    "ja": "「そうそう？ぜんぜん、わかりません。」",
+    "romaji": "'Sou sou? Zenzen, wakarimasen.'"
+  },
+  "vl9.c2_own": {
+    "en": "“Right! But I like sweet senbei too. How does Grandma's flavor taste?”",
+    "ru": "«Точно! Но я люблю и сладкие сэмбэй. А как на вкус у бабушки?»",
+    "zh": "“对对！不过我也喜欢甜味的煎饼。奶奶的味道怎么样？”",
+    "ja": "「そうそう！でも、あまいせんべいも、好きです。おばあちゃんの味は、どうですか？」",
+    "romaji": "'Sou sou! Demo, amai senbei mo, suki desu. Obaachan no aji wa, dou desu ka?'"
+  },
+  "vl9.c2_min": {
+    "en": "“Ah... yeah...”",
+    "ru": "«А… ну…»",
+    "zh": "“啊……嗯……”",
+    "ja": "「あ…うん…」",
+    "romaji": "'A... un...'"
+  },
+  "vl9.p2_nat_yuki": {
+    "en": "Right? Talking about senbei never stops.",
+    "ru": "Правда? О сэмбэй можно говорить бесконечно.",
+    "zh": "是吧？聊起煎饼就停不下来呢。",
+    "ja": "でしょう？おせんべいの話は、止まりませんね。",
+    "romaji": "Deshou? Osenbei no hanashi wa, tomarimasen ne."
+  },
+  "vl9.p2_form_yuki": {
+    "en": "Ha, you don't need to be that polite with a friend.",
+    "ru": "Ха-ха, с другом не обязательно быть таким вежливым.",
+    "zh": "呵呵，对朋友不用说得这么礼貌也没关系。",
+    "ja": "ふふ、友達に、そんなにていねいに言わなくても、大丈夫ですよ。",
+    "romaji": "Fufu, tomodachi ni, sonna ni teinei ni iwanakute mo, daijoubu desu yo."
+  },
+  "vl9.p2_mis_ken": {
+    "en": "Huh? “Sou sou” isn't a question. It's what you say when you agree or when you remember something.",
+    "ru": "Ой? «Со со» — не вопрос. Это слово, когда соглашаются или что-то вспоминают.",
+    "zh": "咦？「そうそう」不是疑问。是赞同或想起什么时说的话。",
+    "ja": "あれ？「そうそう」は、質問ではありませんよ。賛成したり、思い出したりするときの、言葉です。",
+    "romaji": "Are? 'Sou sou' wa, shitsumon de wa arimasen yo. Sansei shitari, omoidashitari suru toki no, kotoba desu."
+  },
+  "vl9.p2_mis_retry": {
+    "en": "Oh, right! Soy sauce is the tastiest.",
+    "ru": "Ой, точно! С соевым соусом самый вкусный.",
+    "zh": "啊，对对！酱油味的最好吃。",
+    "ja": "あっ、そうそう！しょうゆが、いちばんおいしいですね。",
+    "romaji": "A, sou sou! Shouyu ga, ichiban oishii desu ne."
+  },
+  "vl9.p2_mis_relief": {
+    "en": "Yes, right? We think alike.",
+    "ru": "Да, правда? У нас одинаковые вкусы.",
+    "zh": "是吧。我们想法一样呢。",
+    "ja": "はい、そうですよね。気が合いますね。",
+    "romaji": "Hai, sou desu yo ne. Ki ga aimasu ne."
+  },
+  "vl9.p2_own_grandma": {
+    "en": "My senbei is a little sweet. Please try the two and compare them later.",
+    "ru": "Мои сэмбэй немного сладкие. Позже, пожалуйста, попробуйте оба и сравните.",
+    "zh": "我做的煎饼有点甜。请等会儿比较着吃吃看。",
+    "ja": "わたしのせんべいは、ちょっとあまいですよ。あとで、食べくらべてくださいね。",
+    "romaji": "Watashi no senbei wa, chotto amai desu yo. Ato de, tabekurabete kudasai ne."
+  },
+  "vl9.p2_min_mei": {
+    "en": "Ha, if you say a cheerful “Sou sou!” it gets even more fun.",
+    "ru": "Ха-ха, если сказать бодрое «со со!», станет ещё веселее.",
+    "zh": "呵呵，精神地说一声「そうそう！」，会更有趣哦。",
+    "ja": "ふふ、「そうそう！」と、元気に言うと、もっと楽しくなりますよ。",
+    "romaji": "Fufu, 'Sou sou!' to, genki ni iu to, motto tanoshiku narimasu yo."
+  },
+  "vl9.kids": {
+    "en": "The doorbell rings. The children of the neighbor, Mrs. Sato, have come to play. They are Yuri and Takumi.",
+    "ru": "Звонит звонок в прихожей. Пришли поиграть дети соседки, госпожи Сато: Юри и Такуми.",
+    "zh": "门铃响了。邻居佐藤太太家的孩子们来玩了。是由里和拓海。",
+    "ja": "玄関のベルが鳴った。となりの佐藤さんの子どもたちが、遊びに来た。ゆりちゃんと、たくみくんだ。",
+    "romaji": "Genkan no beru ga natta. Tonari no Satou-san no kodomotachi ga, asobi ni kita. Yuri-chan to, Takumi-kun da."
+  },
+  "vl9.g_intro": {
+    "en": "This is Yuri, Mrs. Sato's daughter, and this is Takumi, her son.",
+    "ru": "Это Юри, дочь госпожи Сато, а это Такуми, её сын.",
+    "zh": "这位是佐藤太太的女儿由里。这位是她的儿子拓海。",
+    "ja": "こちらは、佐藤さんの娘さんの、ゆりちゃん。そして、息子さんの、たくみくんです。",
+    "romaji": "Kochira wa, Satou-san no musume-san no, Yuri-chan. Soshite, musuko-san no, Takumi-kun desu."
+  },
+  "vl9.k_yuri": {
+    "en": "Good evening! I'm Yuri. I love senbei!",
+    "ru": "Добрый вечер! Я Юри. Обожаю сэмбэй!",
+    "zh": "晚上好！我是由里。我最喜欢煎饼了！",
+    "ja": "こんばんは！ゆりです。おせんべい、大好き！",
+    "romaji": "Konbanwa! Yuri desu. Osenbei, daisuki!"
+  },
+  "vl9.k_takumi": {
+    "en": "I'm Takumi. I came to see the moon!",
+    "ru": "Я Такуми. Я пришёл посмотреть на луну!",
+    "zh": "我是拓海。我是来看月亮的！",
+    "ja": "ぼくは、たくみです。月を見に来ました！",
+    "romaji": "Boku wa, Takumi desu. Tsuki o mi ni kimashita!"
+  },
+  "vl9.w5": {
+    "en": "“Musume” is a daughter, a female child. “Musuko” is a son, a male child. You call them that from the parent's point of view.",
+    "ru": "«Мусумэ» — дочь, ребёнок женского пола. «Мусуко» — сын, ребёнок мужского пола. Так называют детей с точки зрения родителей.",
+    "zh": "「娘」是女儿，即女孩子。「息子」是儿子，即男孩子。是从父母的角度这样称呼的。",
+    "ja": "「娘」は、女の子の子どもです。「息子」は、男の子の子どもです。親から見て、そう呼びます。",
+    "romaji": "'Musume' wa, onna no ko no kodomo desu. 'Musuko' wa, otoko no ko no kodomo desu. Oya kara mite, sou yobimasu."
+  },
+  "vl9.w5_q": {
+    "en": "Are “musume” and “musume-san” different?",
+    "ru": "«Мусумэ» и «мусумэ-сан» отличаются?",
+    "zh": "「娘」和「娘さん」有区别吗？",
+    "ja": "「娘」と「娘さん」は、ちがいますか？",
+    "romaji": "'Musume' to 'musume-san' wa, chigaimasu ka?"
+  },
+  "vl9.w5_a": {
+    "en": "Yes. Your own children are “musume” and “musuko.” Other people's children are “musume-san” and “musuko-san.” It's the same rule as “otousan” and “chichi.”",
+    "ru": "Да. Собственных детей называют «мусумэ» и «мусуко». Детей других людей — «мусумэ-сан» и «мусуко-сан». Правило то же, что и для «отосан» и «тити».",
+    "zh": "是的。自己的孩子说「娘」「息子」。别人的孩子说「娘さん」「息子さん」。和「お父さん」「父」是同样的规则。",
+    "ja": "はい。自分の子どもは、「娘」「息子」。ほかの人の子どもは、「娘さん」「息子さん」と言います。「お父さん」「父」と、同じルールです。",
+    "romaji": "Hai. Jibun no kodomo wa, 'musume' 'musuko'. Hoka no hito no kodomo wa, 'musume-san' 'musuko-san' to iimasu. 'Otousan' 'chichi' to, onaji ruuru desu."
+  },
+  "vl9.p3_prompt": {
+    "en": "Now let's practice. Let's ask about Tanaka-sensei's family. You want to ask whether Tanaka-sensei has a daughter. What do you say?",
+    "ru": "Теперь практика. Спросим о семье Танаки-сэнсэя. Вы хотите узнать, есть ли у него дочь. Что вы скажете?",
+    "zh": "现在来练习。我们来问问田中老师的家人。你想问田中老师有没有女儿。你会怎么说？",
+    "ja": "では、練習です。田中先生の家族について、聞いてみましょう。田中先生には、娘がいるかどうか、聞きたいです。何と言いますか？",
+    "romaji": "Dewa, renshuu desu. Tanaka-sensei no kazoku ni tsuite, kiite mimashou. Tanaka-sensei ni wa, musume ga iru ka dou ka, kikitai desu. Nan to iimasu ka?"
+  },
+  "vl9.c3_natural": {
+    "en": "“Does Tanaka-sensei have a daughter?”",
+    "ru": "«У Танаки-сэнсэя есть дочь?»",
+    "zh": "“田中老师有女儿吗？”",
+    "ja": "「田中先生には、娘さんがいますか？」",
+    "romaji": "'Tanaka-sensei ni wa, musume-san ga imasu ka?'"
+  },
+  "vl9.c3_formal": {
+    "en": "“As for Tanaka-sensei, might there be an honorable daughter?”",
+    "ru": "«Что до Танаки-сэнсэя, изволит ли у него быть достопочтенная дочь?»",
+    "zh": "“请问田中老师，是否有千金呢？”",
+    "ja": "「田中先生におかれましては、ご息女がいらっしゃいますでしょうか。」",
+    "romaji": "'Tanaka-sensei ni okaremashite wa, gosokujo ga irasshaimasu deshou ka.'"
+  },
+  "vl9.c3_mistake": {
+    "en": "“Does Tanaka-sensei have a musume?”",
+    "ru": "«У Танаки-сэнсэя есть мусумэ?»",
+    "zh": "“田中老师有『娘』吗？”",
+    "ja": "「田中先生には、娘がいますか？」",
+    "romaji": "'Tanaka-sensei ni wa, musume ga imasu ka?'"
+  },
+  "vl9.c3_own": {
+    "en": "“How old are your son and daughter, sensei?”",
+    "ru": "«Сколько лет вашему сыну и вашей дочери, сэнсэй?»",
+    "zh": "“老师，您的儿子和女儿多大了？”",
+    "ja": "「先生の息子さんと、娘さんは、何歳ですか？」",
+    "romaji": "'Sensei no musuko-san to, musume-san wa, nansai desu ka?'"
+  },
+  "vl9.c3_min": {
+    "en": "“Sensei... daughter...?”",
+    "ru": "«Сэнсэй… дочь…?»",
+    "zh": "“老师……女儿……？”",
+    "ja": "「先生…娘…？」",
+    "romaji": "'Sensei... musume...?'"
+  },
+  "vl9.p3_nat_tanaka": {
+    "en": "Yes, I do. My daughter will be ten years old soon.",
+    "ru": "Да, есть. Моей дочери скоро десять лет.",
+    "zh": "有的。我女儿马上就十岁了。",
+    "ja": "はい、います。娘は、もうすぐ十歳です。",
+    "romaji": "Hai, imasu. Musume wa, mou sugu juussai desu."
+  },
+  "vl9.p3_form_tanaka": {
+    "en": "Hahaha, that is far too polite. “Musume-san ga imasu ka?” is plenty.",
+    "ru": "Ха-ха-ха, это слишком вежливо. Достаточно «мусумэ-сан га имас ка?».",
+    "zh": "哈哈哈，这太礼貌了。说「娘さんがいますか？」就足够了。",
+    "ja": "ははは、それは、ていねいすぎます。「娘さんがいますか？」で、じゅうぶんですよ。",
+    "romaji": "Hahaha, sore wa, teinei sugimasu. 'Musume-san ga imasu ka?' de, juubun desu yo."
+  },
+  "vl9.p3_mis_mei": {
+    "en": "Ah, for someone else's daughter, you add “san.” “Musume” is for your own child.",
+    "ru": "Ой, к чужой дочери добавляют «сан». «Мусумэ» — когда речь о собственном ребёнке.",
+    "zh": "啊，别人的女儿要加「さん」。「娘」是说自己的孩子时用的。",
+    "ja": "あっ、ほかの人の娘さんには、「さん」をつけます。「娘」は、自分の子どものときですよ。",
+    "romaji": "A, hoka no hito no musume-san ni wa, 'san' o tsukemasu. 'Musume' wa, jibun no kodomo no toki desu yo."
+  },
+  "vl9.p3_mis_retry": {
+    "en": "Oh, does Tanaka-sensei have a daughter?",
+    "ru": "Ой, у Танаки-сэнсэя есть дочь?",
+    "zh": "啊，田中老师有女儿吗？",
+    "ja": "あっ、田中先生には、娘さんがいますか？",
+    "romaji": "A, Tanaka-sensei ni wa, musume-san ga imasu ka?"
+  },
+  "vl9.p3_mis_relief": {
+    "en": "Yes, that's correct. I have one daughter.",
+    "ru": "Да, верно. У меня одна дочь.",
+    "zh": "对，正确。我有一个女儿。",
+    "ja": "はい、正しいです。娘が、一人います。",
+    "romaji": "Hai, tadashii desu. Musume ga, hitori imasu."
+  },
+  "vl9.p3_own_tanaka": {
+    "en": "My son is seven. My daughter will be ten soon. They are both doing well.",
+    "ru": "Сыну семь лет. Дочери скоро десять. Оба здоровы.",
+    "zh": "我儿子七岁。女儿马上十岁了。两个都很健康。",
+    "ja": "息子は、七歳です。娘は、もうすぐ十歳です。ふたりとも、元気ですよ。",
+    "romaji": "Musuko wa, nanasai desu. Musume wa, mou sugu juussai desu. Futari tomo, genki desu yo."
+  },
+  "vl9.p3_min_yuki": {
+    "en": "Let's ask in a full sentence: “Musume-san ga imasu ka?” Don't forget the “san.”",
+    "ru": "Задайте вопрос целым предложением: «мусумэ-сан га имас ка?». Не забудьте «сан».",
+    "zh": "试着用完整的句子问：「娘さんがいますか？」别忘了「さん」。",
+    "ja": "「娘さんがいますか？」と、文で聞いてみましょう。「さん」を、忘れずに。",
+    "romaji": "'Musume-san ga imasu ka?' to, bun de kiite mimashou. 'San' o, wasurezu ni."
+  },
+  "vl9.sock": {
+    "en": "While everyone is having tea, Grandma looks at Ken's feet and says, “Oh, there's a hole in your sock.”",
+    "ru": "Пока все пьют чай, бабушка смотрит на ноги Кена и говорит: «Ой, у тебя в носке дырка».",
+    "zh": "大家喝茶的时候，奶奶看着健的脚边说：“哎呀，你的袜子破了个洞。”",
+    "ja": "みんなで、お茶を飲んでいると、ケンの足もとを見て、おばあちゃんが言った。「あら、くつしたに、穴があいていますよ。」",
+    "romaji": "Minna de, ocha o nonde iru to, Ken no ashimoto o mite, obaachan ga itta. 'Ara, kutsushita ni, ana ga aite imasu yo.'"
+  },
+  "vl9.w6": {
+    "en": "This is “ana,” a hole. It is an empty space that has opened up in something. You say “kutsushita ni ana ga aku,” a hole appears in a sock.",
+    "ru": "Это «ана» — дырка. Это пустое место, образовавшееся в чём-то. Говорят «куцусита ни ана га аку» — в носке появилась дырка.",
+    "zh": "这就是「穴」。指东西上开出来的空洞。说「くつしたに穴があく」。",
+    "ja": "これが「穴」です。ものに、あいている、空っぽの場所のことです。「くつしたに穴があく」と言います。",
+    "romaji": "Kore ga 'ana' desu. Mono ni, aite iru, karappo no basho no koto desu. 'Kutsushita ni ana ga aku' to iimasu."
+  },
+  "vl9.g_mend": {
+    "en": "Let me mend it for you. I'll sew it with all my heart.",
+    "ru": "Я вам его починю. Заштопаю от всего сердца.",
+    "zh": "我来帮你补好吧。我会用心地缝。",
+    "ja": "わたしが、なおしてあげましょう。心をこめて、ぬいますね。",
+    "romaji": "Watashi ga, naoshite agemashou. Kokoro o komete, nuimasu ne."
+  },
+  "vl9.w7": {
+    "en": "“綺麗” is the kanji for “kirei.” It has the meaning of beautiful, and also of clean and tidy.",
+    "ru": "«綺麗» — это иероглифическая запись слова «кирэй». Оно означает и «красивый», и «чистый, аккуратный».",
+    "zh": "「綺麗」是「きれい」的汉字。既有“美丽”的意思，也有“干净整洁”的意思。",
+    "ja": "「綺麗」は、「きれい」の漢字です。美しいという意味と、よごれていなくて、整っているという意味があります。",
+    "romaji": "'Kirei' wa, 'kirei' no kanji desu. Utsukushii to iu imi to, yogorete inakute, totonotte iru to iu imi ga arimasu."
+  },
+  "vl9.w7_q": {
+    "en": "What does “kirei ni naosu” mean?",
+    "ru": "Что означает «кирэй ни наосу»?",
+    "zh": "「綺麗に直す」是什么意思？",
+    "ja": "「綺麗に直す」は、どういう意味ですか？",
+    "romaji": "'Kirei ni naosu' wa, dou iu imi desu ka?"
+  },
+  "vl9.w7_a": {
+    "en": "“Kirei ni naosu” means to repair something properly so that the mark of the repair doesn't stand out.",
+    "ru": "«Кирэй ни наосу» — это починить что-то аккуратно, чтобы следов ремонта не было заметно.",
+    "zh": "「綺麗に直す」是把东西认真修好，使修补的痕迹不明显。",
+    "ja": "「綺麗に直す」は、あとが目立たないように、きちんと直すことです。",
+    "romaji": "'Kirei ni naosu' wa, ato ga medatanai you ni, kichinto naosu koto desu."
+  },
+  "vl9.mended": {
+    "en": "With needle and thread, Grandma skillfully sews up the hole in the sock. After a while, Ken's sock comes back.",
+    "ru": "Иглой с ниткой бабушка искусно зашила дырку в носке. Через некоторое время носок Кена вернулся к хозяину.",
+    "zh": "奶奶用针线熟练地把袜子上的洞缝好。过了一会儿，健的袜子回来了。",
+    "ja": "おばあちゃんは、針と糸で、くつしたの穴を、じょうずにぬった。しばらくして、ケンのくつしたが、もどってきた。",
+    "romaji": "Obaachan wa, hari to ito de, kutsushita no ana o, jouzu ni nutta. Shibaraku shite, Ken no kutsushita ga, modotte kita."
+  },
+  "vl9.p4_prompt": {
+    "en": "Well, how does it look?",
+    "ru": "Ну, как вам?",
+    "zh": "怎么样？",
+    "ja": "さあ、どうですか？",
+    "romaji": "Saa, dou desu ka?"
+  },
+  "vl9.p4_tanaka": {
+    "en": "Grandma is showing the mended sock. The hole is no longer visible. What do you say?",
+    "ru": "Бабушка показывает починенный носок. Дырки уже не видно. Что вы скажете?",
+    "zh": "奶奶正在展示补好的袜子。洞已经看不见了。你会怎么说？",
+    "ja": "おばあちゃんが、直したくつしたを見せています。穴は、もう見えません。何と言いますか？",
+    "romaji": "Obaachan ga, naoshita kutsushita o misete imasu. Ana wa, mou miemasen. Nan to iimasu ka?"
+  },
+  "vl9.c4_natural": {
+    "en": "“It's been mended beautifully! I can't see the hole at all.”",
+    "ru": "«Как красиво починено! Дырки совсем не видно».",
+    "zh": "“补得真漂亮！完全看不出有洞。”",
+    "ja": "「綺麗に直りましたね！穴が、ぜんぜん見えません。」",
+    "romaji": "'Kirei ni naorimashita ne! Ana ga, zenzen miemasen.'"
+  },
+  "vl9.c4_formal": {
+    "en": "“What truly splendid workmanship. It is a true craftsman's skill.”",
+    "ru": "«Поистине великолепное мастерство. Это настоящее искусство ремесленника».",
+    "zh": "“手艺实在精湛。真可谓是匠人之技。”",
+    "ja": "「実に見事な、お手並みでございます。まさに、職人技でございますね。」",
+    "romaji": "'Jitsu ni migoto na, otenami de gozaimasu. Masani, shokuninwaza de gozaimasu ne.'"
+  },
+  "vl9.c4_mistake": {
+    "en": "“The hole is still there.”",
+    "ru": "«Дырка всё ещё есть».",
+    "zh": "“洞还在呢。”",
+    "ja": "「穴が、まだありますね。」",
+    "romaji": "'Ana ga, mada arimasu ne.'"
+  },
+  "vl9.c4_own": {
+    "en": "“It's beautiful. Thank you. Please teach me how to sew, too.”",
+    "ru": "«Красиво. Спасибо. Научите и меня шить, пожалуйста».",
+    "zh": "“真漂亮。谢谢您。也请教教我怎么缝吧。”",
+    "ja": "「綺麗ですね。ありがとうございます。わたしも、ぬい方を、教えてください。」",
+    "romaji": "'Kirei desu ne. Arigatou gozaimasu. Watashi mo, nuikata o, oshiete kudasai.'"
+  },
+  "vl9.c4_min": {
+    "en": "“Ah... beautiful...”",
+    "ru": "«А… красиво…»",
+    "zh": "“啊……漂亮……”",
+    "ja": "「あ…綺麗…」",
+    "romaji": "'A... kirei...'"
+  },
+  "vl9.p4_nat_grandma": {
+    "en": "I'm glad. Hearing you say that makes putting my heart into it worthwhile.",
+    "ru": "Рада. Слыша ваши слова, понимаю, что вложить душу было не зря.",
+    "zh": "太好了。听你这么说，我用心缝就值得了。",
+    "ja": "よかった。そう言ってもらえると、心がこもった甲斐があります。",
+    "romaji": "Yokatta. Sou itte moraeru to, kokoro ga komotta kai ga arimasu."
+  },
+  "vl9.p4_form_grandma": {
+    "en": "Oh my, that's exaggerated. But I'm happy.",
+    "ru": "Ой-ой, это преувеличение. Но мне приятно.",
+    "zh": "哎呀哎呀，太夸张啦。不过我很高兴。",
+    "ja": "あらあら、大げさですよ。でも、うれしいです。",
+    "romaji": "Ara ara, oogesa desu yo. Demo, ureshii desu."
+  },
+  "vl9.p4_mis_ken": {
+    "en": "Huh, please look closely. There is no hole anymore. Grandma mended it beautifully.",
+    "ru": "Что, посмотрите повнимательнее. Дырки больше нет. Бабушка красиво всё починила.",
+    "zh": "咦，请仔细看看。已经没有洞了。奶奶补得很漂亮。",
+    "ja": "えっ、よく見てください。穴は、もう、ありませんよ。おばあちゃんが、綺麗に直しました。",
+    "romaji": "E, yoku mite kudasai. Ana wa, mou, arimasen yo. Obaachan ga, kirei ni naoshimashita."
+  },
+  "vl9.p4_mis_retry": {
+    "en": "Oh, you're right. It's been mended beautifully!",
+    "ru": "Ой, правда. Как красиво починено!",
+    "zh": "啊，真的。补得真漂亮！",
+    "ja": "あっ、本当だ。綺麗に直りましたね！",
+    "romaji": "A, hontou da. Kirei ni naorimashita ne!"
+  },
+  "vl9.p4_mis_relief": {
+    "en": "Ha, thank you. Though my eyes did get a little tired.",
+    "ru": "Ха-ха, спасибо. Хотя глаза немного устали.",
+    "zh": "呵呵，谢谢。不过眼睛有点累了。",
+    "ja": "ふふ、ありがとう。目が、少し疲れましたけれど。",
+    "romaji": "Fufu, arigatou. Me ga, sukoshi tsukaremashita keredo."
+  },
+  "vl9.p4_own_grandma": {
+    "en": "Of course. Next time, let's sew together.",
+    "ru": "Конечно. В следующий раз давайте шить вместе.",
+    "zh": "好啊。下次我们一起缝吧。",
+    "ja": "いいですよ。今度、いっしょに、ぬいましょう。",
+    "romaji": "Ii desu yo. Kondo, issho ni, nuimashou."
+  },
+  "vl9.p4_min_mei": {
+    "en": "Let's continue with “kirei ni naorimashita ne.”",
+    "ru": "Продолжим: «кирэй ни наорима ситa нэ».",
+    "zh": "接着说「綺麗に直りましたね」吧。",
+    "ja": "「綺麗に直りましたね」と、つづけて、言ってみましょう。",
+    "romaji": "'Kirei ni naorimashita ne' to, tsuzukete, itte mimashou."
+  },
+  "vl9.moon": {
+    "en": "Night falls, and everyone goes out into the garden. A big, round moon has risen in the sky. Grandma sits down slowly.",
+    "ru": "Наступает ночь, и все выходят в сад. На небе поднялась большая круглая луна. Бабушка не спеша присаживается.",
+    "zh": "夜幕降临，大家来到院子里。一轮又大又圆的月亮升上了天空。奶奶慢慢地坐了下来。",
+    "ja": "夜になって、みんなは、庭に出た。大きなまるい月が、空にのぼっている。おばあちゃんは、少し、ゆっくり座った。",
+    "romaji": "Yoru ni natte, minna wa, niwa ni deta. Ookina marui tsuki ga, sora ni nobotte iru. Obaachan wa, sukoshi, yukkuri suwatta."
+  },
+  "vl9.g_tired": {
+    "en": "Phew. I got a little tired today.",
+    "ru": "Уф. Сегодня я немного устала.",
+    "zh": "呼。今天有点累了呢。",
+    "ja": "ふう。今日は、ちょっと疲れましたね。",
+    "romaji": "Fuu. Kyou wa, chotto tsukaremashita ne."
+  },
+  "vl9.w8": {
+    "en": "“Tsukareru” means that your body or mind has worked and lost its strength. Its form changes: “tsukareta,” “tsukarete iru.”",
+    "ru": "«Цукарэру» означает, что тело или дух поработали и лишились сил. Форма меняется: «цукарэта», «цукарэтэ иру».",
+    "zh": "「疲れる」是身体或心灵因为工作而失去力气。形式会变化：「疲れた」「疲れている」。",
+    "ja": "「疲れる」は、体や心が、働いて、力がなくなることです。「疲れた」「疲れている」と、形が変わります。",
+    "romaji": "'Tsukareru' wa, karada ya kokoro ga, hataraite, chikara ga nakunaru koto desu. 'Tsukareta' 'tsukarete iru' to, katachi ga kawarimasu."
+  },
+  "vl9.w8_q": {
+    "en": "When do you use “tsukareru” and “tsukareta”?",
+    "ru": "Когда используют «цукарэру» и «цукарэта»?",
+    "zh": "「疲れる」和「疲れた」什么时候用？",
+    "ja": "「疲れる」と「疲れた」は、いつ使いますか？",
+    "romaji": "'Tsukareru' to 'tsukareta' wa, itsu tsukaimasu ka?"
+  },
+  "vl9.w8_a": {
+    "en": "“Tsukareru” is the action itself, getting tired. You say “tsukareta” after you have already become tired. You can also express habits, as in “yoku tsukareru,” I often get tired.",
+    "ru": "«Цукарэру» — само действие, усталость. «Цукарэта» говорят, когда уже устали. Можно выражать и привычку: «ёку цукарэру» — я часто устаю.",
+    "zh": "「疲れる」是“变累”这个动作本身。「疲れた」是已经累了之后说的。也可以表示习惯，如「よく疲れる」，即经常觉得累。",
+    "ja": "「疲れる」は、疲れる、という動きそのものです。「疲れた」は、もう、疲れたあとで言います。「よく疲れる」のように、習慣も言えます。",
+    "romaji": "'Tsukareru' wa, tsukareru, to iu ugoki sono mono desu. 'Tsukareta' wa, mou, tsukareta ato de iimasu. 'Yoku tsukareru' no you ni, shuukan mo iemasu."
+  },
+  "vl9.w9": {
+    "en": "And then “kokoro,” heart or mind. Not only your body but also your kokoro can get tired. “Kokoro” is the center of your feelings and thoughts inside your chest.",
+    "ru": "А ещё «кокоро» — сердце, душа. Устать может не только тело, но и кокоро. «Кокоро» — это центр чувств и мыслей в груди человека.",
+    "zh": "还有「心」。不仅是身体，心也会感到疲惫。「心」是胸中感情和想法的中心。",
+    "ja": "それから、「心」。体だけでなく、心も、疲れることがあります。「心」は、胸の中の、気持ちや考えの中心のことです。",
+    "romaji": "Sorekara, 'kokoro'. Karada dake de naku, kokoro mo, tsukareru koto ga arimasu. 'Kokoro' wa, mune no naka no, kimochi ya kangae no chuushin no koto desu."
+  },
+  "vl9.w9_q": {
+    "en": "Is “kokoro” the same as “kimochi”?",
+    "ru": "«Кокоро» и «кимоти» — это одно и то же?",
+    "zh": "「心」和「気持ち」一样吗？",
+    "ja": "「心」と「気持ち」は、同じですか？",
+    "romaji": "'Kokoro' to 'kimochi' wa, onaji desu ka?"
+  },
+  "vl9.w9_a": {
+    "en": "They're close, but “kimochi” is how you feel at that moment. “Kokoro” is deeper, the center of the person. “Kokoro o komeru” means to put your sincere heart into something.",
+    "ru": "Они близки, но «кимоти» — это чувство в данный момент, а «кокоро» — более глубокая суть человека. «Кокоро о комэру» означает вложить искреннее сердце.",
+    "zh": "两者相近，但「気持ち」是那一刻的感受。「心」则更深，是一个人的核心。「心をこめる」是倾注真心的意思。",
+    "ja": "近いですが、「気持ち」は、そのときの感じです。「心」は、もっと深い、その人の中心です。「心をこめる」は、まごころを入れる、という意味です。",
+    "romaji": "Chikai desu ga, 'kimochi' wa, sono toki no kanji desu. 'Kokoro' wa, motto fukai, sono hito no chuushin desu. 'Kokoro o komeru' wa, magokoro o ireru, to iu imi desu."
+  },
+  "vl9.p5_prompt": {
+    "en": "Grandma said, “I got a little tired today.” You are thinking of her. What do you say?",
+    "ru": "Бабушка сказала: «Сегодня я немного устала». Вы думаете о ней. Что вы скажете?",
+    "zh": "奶奶说：“今天有点累了呢。”你在为她着想。你会怎么说？",
+    "ja": "おばあちゃんが、「今日は、ちょっと疲れましたね」と言いました。あなたは、おばあちゃんを思っています。何と言いますか？",
+    "romaji": "Obaachan ga, 'Kyou wa, chotto tsukaremashita ne' to iimashita. Anata wa, obaachan o omotte imasu. Nan to iimasu ka?"
+  },
+  "vl9.c5_natural": {
+    "en": "“When you're tired, please rest. Both heart and body are important.”",
+    "ru": "«Когда устанете, отдыхайте, пожалуйста. И сердце, и тело важны».",
+    "zh": "“累的时候请休息。心和身体都很重要。”",
+    "ja": "「疲れたときは、休んでください。心も、体も、大切です。」",
+    "romaji": "'Tsukareta toki wa, yasunde kudasai. Kokoro mo, karada mo, taisetsu desu.'"
+  },
+  "vl9.c5_formal": {
+    "en": "“Please do not overexert yourself, and do take a good, long rest.”",
+    "ru": "«Прошу вас не переутомляться и как следует отдохнуть».",
+    "zh": "“请您不要勉强，务必好好休息。”",
+    "ja": "「ご無理をなさいませんよう、どうか、ごゆっくりお休みくださいませ。」",
+    "romaji": "'Gomuri o nasaimasen you, douka, goyukkuri oyasumi kudasaimase.'"
+  },
+  "vl9.c5_mistake": {
+    "en": "“My heart hurts.”",
+    "ru": "«У меня болит сердце».",
+    "zh": "“我的心好痛。”",
+    "ja": "「心が、痛いです。」",
+    "romaji": "'Kokoro ga, itai desu.'"
+  },
+  "vl9.c5_own": {
+    "en": "“Thank you for sewing so heartfully today. Next time, I'll help so that you don't get tired.”",
+    "ru": "«Спасибо, что сегодня так сердечно шили. В следующий раз я помогу, чтобы вы не уставали».",
+    "zh": "“今天谢谢您用心地缝补。下次我来帮忙，让您不那么累。”",
+    "ja": "「今日は、心をこめて、ぬってくれて、ありがとうございます。今度は、私が、疲れないように、手伝います。」",
+    "romaji": "'Kyou wa, kokoro o komete, nutte kurete, arigatou gozaimasu. Kondo wa, watashi ga, tsukarenai you ni, tetsudaimasu.'"
+  },
+  "vl9.c5_min": {
+    "en": "“Ah... get tired...”",
+    "ru": "«А… устаёшь…»",
+    "zh": "“啊……累……”",
+    "ja": "「あ…疲れる…」",
+    "romaji": "'A... tsukareru...'"
+  },
+  "vl9.p5_nat_grandma": {
+    "en": "Thank you. Your words made my heart feel lighter.",
+    "ru": "Спасибо. От ваших слов на сердце стало легче.",
+    "zh": "谢谢。你的话让我心里一下子轻松了。",
+    "ja": "ありがとう。あなたの言葉で、心が、すうっと軽くなりました。",
+    "romaji": "Arigatou. Anata no kotoba de, kokoro ga, suu tto karuku narimashita."
+  },
+  "vl9.p5_form_ken": {
+    "en": "Haha, Grandma looks embarrassed. “Yasunde kudasai ne” is fine.",
+    "ru": "Ха-ха, бабушка смутилась. Достаточно «ясундэ кудасай нэ».",
+    "zh": "哈哈，奶奶好像不好意思了。说「休んでくださいね」就可以了。",
+    "ja": "あはは、おばあちゃんが、恥ずかしそうです。「休んでくださいね」で、いいですよ。",
+    "romaji": "Ahaha, obaachan ga, hazukashisou desu. 'Yasunde kudasai ne' de, ii desu yo."
+  },
+  "vl9.p5_mis_mei": {
+    "en": "Huh, “kokoro ga itai” is used when you are very sad. Grandma will be worried.",
+    "ru": "Что, «кокоро га итай» говорят, когда очень грустно. Бабушка забеспокоится.",
+    "zh": "咦，「心が痛い」是在非常悲伤时用的。奶奶会担心的。",
+    "ja": "えっ、「心が痛い」は、とても悲しいときに使いますよ。おばあちゃんが、心配してしまいます。",
+    "romaji": "E, 'kokoro ga itai' wa, totemo kanashii toki ni tsukaimasu yo. Obaachan ga, shinpai shite shimaimasu."
+  },
+  "vl9.p5_mis_retry": {
+    "en": "Oh, no. When you're tired, please rest.",
+    "ru": "Ой, нет. Когда устанете, отдыхайте, пожалуйста.",
+    "zh": "啊，不是的。累的时候请休息。",
+    "ja": "あっ、ちがいます。疲れたときは、休んでください。",
+    "romaji": "A, chigaimasu. Tsukareta toki wa, yasunde kudasai."
+  },
+  "vl9.p5_mis_relief": {
+    "en": "Yes, thank you. Those are kind words.",
+    "ru": "Да, спасибо. Это добрые слова.",
+    "zh": "好，谢谢。真是温柔的话。",
+    "ja": "はい、ありがとう。やさしい言葉ですね。",
+    "romaji": "Hai, arigatou. Yasashii kotoba desu ne."
+  },
+  "vl9.p5_own_grandma": {
+    "en": "Well, what a lovely thing to say. Let's look at the moon together again next year.",
+    "ru": "Как приятно это слышать. В следующем году давайте снова вместе полюбуемся луной.",
+    "zh": "哎呀，你说的话真让人高兴。明年我们也一起赏月吧。",
+    "ja": "まあ、うれしいことを言ってくれますね。来年も、また、いっしょに月を見ましょう。",
+    "romaji": "Maa, ureshii koto o itte kuremasu ne. Rainen mo, mata, issho ni tsuki o mimashou."
+  },
+  "vl9.p5_min_yuki": {
+    "en": "Your worried feeling comes across. Try saying “tsukareta toki wa, yasunde kudasai.”",
+    "ru": "Ваше беспокойство понятно. Попробуйте сказать «цукарэта току ва, ясундэ кудасай».",
+    "zh": "你的担心能传达出来。试着说「疲れたときは、休んでください」吧。",
+    "ja": "心配な気持ちは、伝わりますよ。「疲れたときは、休んでください」と、言ってみましょう。",
+    "romaji": "Shinpai na kimochi wa, tsutawarimasu yo. 'Tsukareta toki wa, yasunde kudasai' to, itte mimashou."
+  },
+  "vl9.talk_open": {
+    "en": "Now, let's talk as we look at the moon. Out of today's ten words, which one stayed in your heart?",
+    "ru": "Теперь давайте поговорим, любуясь луной. Какое из сегодняшних десяти слов запало в вашу душу?",
+    "zh": "那么，我们一边赏月一边聊聊。今天这十个词里，哪个词留在了你的心里？",
+    "ja": "では、月を見ながら、話しましょう。今日の十の言葉の中で、心に残った言葉は、どれですか？",
+    "romaji": "Dewa, tsuki o minagara, hanashimashou. Kyou no juu no kotoba no naka de, kokoro ni nokotta kotoba wa, dore desu ka?"
+  },
+  "vl9.talk_mei": {
+    "en": "For me, it's “minna.” The moon we look at together is far more beautiful than one I'd see alone.",
+    "ru": "Для меня это «минна». Луна, на которую смотрят все вместе, гораздо красивее, чем та, на которую смотришь один.",
+    "zh": "我是「みんな」。大家一起看的月亮，比一个人看时要美得多。",
+    "ja": "わたしは、「みんな」です。みんなで見る月は、一人で見るより、ずっと、綺麗です。",
+    "romaji": "Watashi wa, 'minna' desu. Minna de miru tsuki wa, hitori de miru yori, zutto, kirei desu."
+  },
+  "vl9.talk_ken": {
+    "en": "For me, it's “ana.” I'll cherish the sock Grandma mended for me.",
+    "ru": "Для меня это «ана». Я буду беречь носок, который починила бабушка.",
+    "zh": "我是「穴」。我会珍惜奶奶帮我补好的袜子。",
+    "ja": "ぼくは、「穴」です。おばあちゃんが直してくれた、くつしたを、大切にします。",
+    "romaji": "Boku wa, 'ana' desu. Obaachan ga naoshite kureta, kutsushita o, taisetsu ni shimasu."
+  },
+  "vl9.talk_yuki": {
+    "en": "For me, it's “kokoro.” Things made with heart reach the heart.",
+    "ru": "Для меня это «кокоро». То, что сделано от души, доходит до души.",
+    "zh": "我是「心」。用心做出来的东西，是能传到心里的。",
+    "ja": "わたしは、「心」です。心をこめて作ったものは、心に、届きますね。",
+    "romaji": "Watashi wa, 'kokoro' desu. Kokoro o komete tsukutta mono wa, kokoro ni, todokimasu ne."
+  },
+  "vl9.talk_tanaka": {
+    "en": "Lovely. When heart goes even into small words, they become memories.",
+    "ru": "Прекрасно. Когда сердце вложено даже в маленькие слова, они становятся воспоминаниями.",
+    "zh": "真好。即使是小小的话语，只要注入了心意，也会成为回忆。",
+    "ja": "すてきですね。小さな言葉にも、心が入ると、思い出になります。",
+    "romaji": "Suteki desu ne. Chiisana kotoba ni mo, kokoro ga hairu to, omoide ni narimasu."
+  },
+  "vl9.talk_player": {
+    "en": "(Senbei, sou sou, minna, kokoro. Under the moon, every single word grew warm. I want to remember tonight's beautiful moon forever.)",
+    "ru": "(Сэмбэй, со со, минна, кокоро. Под луной каждое слово стало тёплым. Я хочу навсегда запомнить эту прекрасную луну.)",
+    "zh": "（煎饼、对对、大家、心。在月光下，每一个词都变得温暖起来。我想永远记住今晚这轮美丽的月亮。）",
+    "ja": "（せんべい、そうそう、みんな、心。月の下で、言葉の一つ一つが、あたたかくなった。今夜の綺麗な月を、ずっと覚えていたい。）",
+    "romaji": "(Senbei, sou sou, minna, kokoro. Tsuki no shita de, kotoba no hitotsu hitotsu ga, atatakaku natta. Konya no kirei na tsuki o, zutto oboete itai.)"
+  },
+  "vl9.talk_close": {
+    "en": "Good lesson, everyone. You used all ten words of the moon-viewing night in real situations.",
+    "ru": "Хороший урок, все. Вы использовали все десять слов ночи любования луной в настоящих ситуациях.",
+    "zh": "各位，这节课很棒。你们在真实的场景中用上了赏月之夜的十个词。",
+    "ja": "みなさん、いいレッスンでした。月見の夜の十の言葉を、本当の場面で使えましたね。",
+    "romaji": "Minasan, ii ressun deshita. Tsukimi no yoru no juu no kotoba o, hontou no bamen de tsukaemashita ne."
+  },
+  "vl9.complete": {
+    "en": "End of Vocabulary Lesson 9.",
+    "ru": "Конец урока лексики 9.",
+    "zh": "词汇课 9 结束。",
+    "ja": "語彙レッスン9、おわり。",
+    "romaji": "Goi ressun kyuu, owari."
+  }
+}
