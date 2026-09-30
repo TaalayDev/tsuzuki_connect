@@ -59,5 +59,34 @@ int expectStoryIsValid(Story story) {
       reason: 'scene ${scene.id} ends without a jump, choice or end',
     );
   }
+
+  // Every scene has to be reachable from the first one, otherwise part of the
+  // lesson is silently skipped.
+  final byTarget = <String, DialogueScene>{
+    for (final scene in story.scenes) ...<String, DialogueScene>{
+      scene.id: scene,
+      scene.label: scene,
+    },
+  };
+  final reached = <DialogueScene>{};
+  final pending = <DialogueScene>[story.scenes.first];
+  while (pending.isNotEmpty) {
+    final scene = pending.removeLast();
+    if (!reached.add(scene)) continue;
+    for (final line in scene.lines) {
+      if (line case ChoiceLine(choices: final choices)) {
+        pending.addAll(choices.map((choice) => byTarget[choice.next]!));
+      }
+      if (line case JumpLine(target: final target)) {
+        pending.add(byTarget[target]!);
+      }
+    }
+  }
+  final unreachable = story.scenes.where((scene) => !reached.contains(scene));
+  expect(
+    unreachable.map((scene) => scene.id),
+    isEmpty,
+    reason: 'scenes that can never be reached',
+  );
   return choiceCount;
 }

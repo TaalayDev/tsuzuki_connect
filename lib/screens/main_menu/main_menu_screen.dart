@@ -310,7 +310,7 @@ class _WideMenuLayout extends StatelessWidget {
                     padding: const EdgeInsets.fromLTRB(56, 72, 72, 0),
                     child: _TitleBlock(i18n: i18n, alignCenter: false),
                   ),
-                  const Expanded(child: _CharacterShowcase()),
+                  // const Expanded(child: _CharacterShowcase()),
                 ],
               ),
             ),

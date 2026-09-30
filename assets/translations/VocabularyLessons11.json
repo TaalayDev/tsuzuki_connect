@@ -1,0 +1,877 @@
+{
+  "vl11.title": {
+    "en": "A Night of Connection: To Someone Far Away",
+    "ru": "Ночь связи: к тому, кто далеко",
+    "zh": "相连的夜晚：与远方的人",
+    "ja": "つながる夜：遠くの人へ",
+    "romaji": "Tsunagaru yoru: tooku no hito e"
+  },
+  "vl11.subtitle": {
+    "en": "Conveying your feelings by message and video call",
+    "ru": "Передаём чувства сообщением и видеозвонком",
+    "zh": "用消息和视频通话传达心意",
+    "ja": "メッセージとビデオ通話で、気持ちを伝える",
+    "romaji": "Messeeji to bideo tsuuwa de, kimochi o tsutaeru"
+  },
+  "vl11.description": {
+    "en": "While on a video call with Tanaka-sensei, who is away in the countryside, practice ten words about connection and memories.",
+    "ru": "Общаясь по видеосвязи с Танакой-сэнсэем, который уехал в деревню, потренируйте десять слов о связи и воспоминаниях.",
+    "zh": "与去了乡下的田中老师视频通话的同时，练习十个关于联系和回忆的词。",
+    "ja": "田舎に行っている田中先生と、ビデオ通話をしながら、つながりと、思い出に関する十の言葉を練習します。",
+    "romaji": "Inaka ni itte iru Tanaka-sensei to, bideo tsuuwa o shinagara, tsunagari to, omoide ni kansuru juu no kotoba o renshuu shimasu."
+  },
+  "vl11.setup": {
+    "en": "Tanaka-sensei has gone to his grandmother's house in the countryside for a week. The classroom is a little quiet. That night, everyone gathers at Ken's home and sits in front of the computer.",
+    "ru": "Танака-сэнсэй на неделю уехал в дом своей бабушки в деревне. В классе немного тихо. Вечером все собираются у Кена и садятся перед компьютером.",
+    "zh": "田中老师去乡下奶奶家住一周。教室里有点安静。晚上，大家聚集在健家，坐在电脑前。",
+    "ja": "田中先生は、一週間、田舎のおばあさんの家に行っている。教室は、少し、しずかだ。夜、みんなは、ケンの家に集まって、パソコンの前に座った。",
+    "romaji": "Tanaka-sensei wa, isshuukan, inaka no obaasan no ie ni itte iru. Kyoushitsu wa, sukoshi, shizuka da. Yoru, minna wa, Ken no ie ni atsumatte, pasokon no mae ni suwatta."
+  },
+  "vl11.v_intro": {
+    "en": "Today's theme is words for connecting with someone far away. Let's make this a night for talking with Tanaka-sensei.",
+    "ru": "Тема сегодня — слова для связи с человеком, который далеко. Давайте проведём этот вечер в разговоре с Танакой-сэнсэем.",
+    "zh": "今天的主题是与远方的人联系的用语。让我们度过一个和田中老师聊天的夜晚吧。",
+    "ja": "今日のテーマは、遠くにいる人と、つながる言葉です。田中先生と、話す夜にしましょう。",
+    "romaji": "Kyou no teema wa, tooku ni iru hito to, tsunagaru kotoba desu. Tanaka-sensei to, hanasu yoru ni shimashou."
+  },
+  "vl11.w1": {
+    "en": "First, “messeeji,” a message. It is a short piece of writing sent by phone. You can deliver your feelings to someone far away right away.",
+    "ru": "Сначала «мэссэ:дзи» — сообщение. Это короткий текст, отправляемый со смартфона. Вы можете сразу доставить свои чувства человеку, который далеко.",
+    "zh": "首先是「メッセージ」。是用手机发送的简短文字。能立刻把心意传达给远方的人。",
+    "ja": "まず、「メッセージ」です。スマホで送る、短い文章のことです。遠くの人に、すぐ、気持ちを届けられます。",
+    "romaji": "Mazu, 'messeeji' desu. Sumaho de okuru, mijikai bunshou no koto desu. Tooku no hito ni, sugu, kimochi o todokeraremasu."
+  },
+  "vl11.w1_q": {
+    "en": "Are “messeeji” and “tegami” different?",
+    "ru": "«Мэссэ:дзи» и «тэгами» отличаются?",
+    "zh": "「メッセージ」和「手紙」有区别吗？",
+    "ja": "「メッセージ」と「手紙」は、ちがいますか？",
+    "romaji": "'Messeeji' to 'tegami' wa, chigaimasu ka?"
+  },
+  "vl11.w1_a": {
+    "en": "Yes. A letter is written on paper and sent. It takes time to arrive. A message arrives right away. With friends, keep it short. With teachers, write politely.",
+    "ru": "Да. Письмо пишут на бумаге и отправляют. Оно доходит не сразу. Сообщение доходит мгновенно. Друзьям пишут коротко. Учителям — вежливо.",
+    "zh": "有区别。信是写在纸上寄出的，要花时间才能到。消息立刻就能送到。对朋友写得短一些。对老师要写得礼貌。",
+    "ja": "はい。手紙は、紙に書いて、送ります。届くまでに、時間がかかります。メッセージは、すぐに届きます。友達には、短く。先生には、ていねいに、書きます。",
+    "romaji": "Hai. Tegami wa, kami ni kaite, okurimasu. Todoku made ni, jikan ga kakarimasu. Messeeji wa, sugu ni todokimasu. Tomodachi ni wa, mijikaku. Sensei ni wa, teinei ni, kakimasu."
+  },
+  "vl11.w1_mei": {
+    "en": "I sent Sensei a message saying “ogenki desu ka.”",
+    "ru": "Я отправила сэнсэю сообщение «огэнки дэс ка».",
+    "zh": "我给老师发了一条「お元気ですか」的消息哦。",
+    "ja": "わたしは、先生に、「お元気ですか」と、メッセージを送りましたよ。",
+    "romaji": "Watashi wa, sensei ni, 'ogenki desu ka' to, messeeji o okurimashita yo."
+  },
+  "vl11.p1_prompt": {
+    "en": "Now let's practice. Let's send Sensei a message. You want to ask whether he's well and let him know everyone is waiting. What do you write?",
+    "ru": "Теперь практика. Отправим сэнсэю сообщение. Вы хотите спросить, как он, и сообщить, что все ждут. Что вы напишете?",
+    "zh": "现在来练习。我们给老师发条消息吧。你想问老师是否安好，并告诉他大家都在等他。你会怎么写？",
+    "ja": "では、練習です。先生に、メッセージを送りましょう。先生が、元気かどうか聞いて、みんなが待っていることを、伝えたいです。何と書きますか？",
+    "romaji": "Dewa, renshuu desu. Sensei ni, messeeji o okurimashou. Sensei ga, genki ka dou ka kiite, minna ga matte iru koto o, tsutaetai desu. Nan to kakimasu ka?"
+  },
+  "vl11.c1_natural": {
+    "en": "“Sensei, how are you? Everyone is waiting.”",
+    "ru": "«Сэнсэй, как вы? Все ждут».",
+    "zh": "“老师，您好吗？大家都在等您。”",
+    "ja": "「先生、お元気ですか？みんな、待っています。」",
+    "romaji": "'Sensei, ogenki desu ka? Minna, matte imasu.'"
+  },
+  "vl11.c1_formal": {
+    "en": "“Sensei, we are delighted to hear of your good health. We all await your return.”",
+    "ru": "«Сэнсэй, мы рады вашему здоровью. Мы все ожидаем вашего возвращения».",
+    "zh": "“老师，闻悉您身体康健，我们深感欣慰。全体同学恭候您的归来。”",
+    "ja": "「先生におかれましては、ご健勝のこととお慶び申し上げます。一同、お帰りをお待ち申し上げております。」",
+    "romaji": "'Sensei ni okaremashite wa, gokenshou no koto to oyorokobi moushiagemasu. Ichidou, okaeri o omachi moushiagete orimasu.'"
+  },
+  "vl11.c1_mistake": {
+    "en": "“Sensei, you well? Everyone's waiting, y'know.”",
+    "ru": "«Сэнсэй, ты как? Все ждут, знаешь».",
+    "zh": "“老师，你还好吗？大家都在等你哦。”",
+    "ja": "「先生、元気？みんな、待ってるよ。」",
+    "romaji": "'Sensei, genki? Minna, matteru yo.'"
+  },
+  "vl11.c1_own": {
+    "en": "“Sensei, how are you? Everyone is waiting. Can we talk tonight?”",
+    "ru": "«Сэнсэй, как вы? Все ждут. Мы можем поговорить сегодня вечером?»",
+    "zh": "“老师，您好吗？大家都在等您。今晚能聊聊吗？”",
+    "ja": "「先生、お元気ですか？みんな、待っています。今夜、話せますか？」",
+    "romaji": "'Sensei, ogenki desu ka? Minna, matte imasu. Konya, hanasemasu ka?'"
+  },
+  "vl11.c1_min": {
+    "en": "“Sensei... well... waiting...”",
+    "ru": "«Сэнсэй… как вы… ждём…»",
+    "zh": "“老师……好……等……”",
+    "ja": "「先生…元気…待って…」",
+    "romaji": "'Sensei... genki... matte...'"
+  },
+  "vl11.p1_nat_yuki": {
+    "en": "A good message. It's short, polite, and conveys your feelings.",
+    "ru": "Хорошее сообщение. Оно короткое, вежливое и передаёт чувства.",
+    "zh": "很好的消息。简短、礼貌，也传达了心意。",
+    "ja": "いいメッセージですね。短くて、ていねいで、気持ちが伝わります。",
+    "romaji": "Ii messeeji desu ne. Mijikakute, teinei de, kimochi ga tsutawarimasu."
+  },
+  "vl11.p1_form_ken": {
+    "en": "Haha, that sounds like a company letter. A message can be much shorter.",
+    "ru": "Ха-ха, как деловое письмо. Сообщение может быть гораздо короче.",
+    "zh": "哈哈，像公司信函一样。消息可以写得更短。",
+    "ja": "あはは、会社の手紙みたいです。メッセージは、もっと短くて、大丈夫ですよ。",
+    "romaji": "Ahaha, kaisha no tegami mitai desu. Messeeji wa, motto mijikakute, daijoubu desu yo."
+  },
+  "vl11.p1_mis_yuki": {
+    "en": "It's fine for friends, but a little too casual for a teacher. Let's write politely: “ogenki desu ka,” “matte imasu.”",
+    "ru": "Друзьям так можно, но учителю это слишком неформально. Напишем вежливо: «огэнки дэс ка», «маттэ имас».",
+    "zh": "对朋友可以，但对老师就有点太随便了。要礼貌地写：「お元気ですか」「待っています」。",
+    "ja": "友達には、いいですが、先生には、少し、くだけすぎです。「お元気ですか」「待っています」と、ていねいに、書きましょう。",
+    "romaji": "Tomodachi ni wa, ii desu ga, sensei ni wa, sukoshi, kudakesugi desu. 'Ogenki desu ka' 'matte imasu' to, teinei ni, kakimashou."
+  },
+  "vl11.p1_mis_retry": {
+    "en": "Oh, Sensei, how are you? Everyone is waiting.",
+    "ru": "Ой, сэнсэй, как вы? Все ждут.",
+    "zh": "啊，老师，您好吗？大家都在等您。",
+    "ja": "あっ、先生、お元気ですか？みんな、待っています。",
+    "romaji": "A, sensei, ogenki desu ka? Minna, matte imasu."
+  },
+  "vl11.p1_mis_relief": {
+    "en": "Yes, that's it. Sensei will be happy with this.",
+    "ru": "Да, именно так. Сэнсэю это понравится.",
+    "zh": "对，就是这个。这样老师也会很高兴的。",
+    "ja": "はい、それです。これなら、先生も、うれしいと思います。",
+    "romaji": "Hai, sore desu. Kore nara, sensei mo, ureshii to omoimasu."
+  },
+  "vl11.p1_own_mei": {
+    "en": "“Can we talk tonight” is good too. It's easy for Sensei to answer.",
+    "ru": "«Мы можем поговорить сегодня вечером» — тоже хорошо. Сэнсэю легко ответить.",
+    "zh": "「今晚能聊聊吗」也不错。老师回答起来很方便。",
+    "ja": "「今夜、話せますか」も、いいですね。先生が、答えやすいです。",
+    "romaji": "'Konya, hanasemasu ka' mo, ii desu ne. Sensei ga, kotaeyasui desu."
+  },
+  "vl11.p1_min_ken": {
+    "en": "Your feeling comes across. But for a teacher, try writing a polite sentence.",
+    "ru": "Ваше чувство понятно. Но для учителя попробуйте написать вежливое предложение.",
+    "zh": "心意能传达。不过对老师，还是试着写成礼貌的句子吧。",
+    "ja": "気持ちは伝わります。でも、先生には、ていねいな文で、書いてみましょう。",
+    "romaji": "Kimochi wa tsutawarimasu. Demo, sensei ni wa, teinei na bun de, kaite mimashou."
+  },
+  "vl11.w2": {
+    "en": "Besides messages, you can also do a “bideo tsuuwa,” a video call. It's a call where you can talk while seeing each other's faces.",
+    "ru": "Помимо сообщений, можно использовать и «бидэо цу:ва» — видеозвонок. Это звонок, во время которого можно разговаривать, видя лица друг друга.",
+    "zh": "除了消息，还可以「ビデオ通話」。是一边看着对方的脸一边说话的电话。",
+    "ja": "メッセージだけではなく、「ビデオ通話」も、できます。顔を見ながら、話せる電話です。",
+    "romaji": "Messeeji dake de wa naku, 'bideo tsuuwa' mo, dekimasu. Kao o minagara, hanaseru denwa desu."
+  },
+  "vl11.w2_q": {
+    "en": "Is it different from an ordinary “denwa,” a phone call?",
+    "ru": "Отличается ли это от обычного «дэнва» — телефонного звонка?",
+    "zh": "它和普通的「電話」有区别吗？",
+    "ja": "ふつうの「電話」と、ちがいますか？",
+    "romaji": "Futsuu no 'denwa' to, chigaimasu ka?"
+  },
+  "vl11.w2_a": {
+    "en": "Yes. A phone call is voice only. A video call lets you see faces too. You say “bideo tsuuwa o, suru.” You don't say “bideo tsuuwa o, miru.”",
+    "ru": "Да. Телефонный звонок — только голос. Видеозвонок позволяет видеть и лица. Говорят «бидэо цу:ва о, суру». Не говорят «бидэо цу:ва о, миру».",
+    "zh": "有区别。电话只有声音。视频通话还能看到脸。说「ビデオ通話を、する」。不说「ビデオ通話を、見る」。",
+    "ja": "はい。電話は、声だけです。ビデオ通話は、顔も見えます。「ビデオ通話を、する」と言います。「ビデオ通話を、見る」とは、言いません。",
+    "romaji": "Hai. Denwa wa, koe dake desu. Bideo tsuuwa wa, kao mo miemasu. 'Bideo tsuuwa o, suru' to iimasu. 'Bideo tsuuwa o, miru' to wa, iimasen."
+  },
+  "vl11.p2_prompt": {
+    "en": "Sensei wrote in his message, “I have time now.” Please invite him to a video call. What do you say?",
+    "ru": "Сэнсэй написал в сообщении: «У меня сейчас есть время». Пригласите его на видеозвонок. Что вы скажете?",
+    "zh": "老师在消息里写了「今、時間があります」。请邀请他视频通话。你会怎么说？",
+    "ja": "先生が、メッセージに、「今、時間があります」と書いてくれました。先生を、ビデオ通話に、さそってください。何と言いますか？",
+    "romaji": "Sensei ga, messeeji ni, 'ima, jikan ga arimasu' to kaite kuremashita. Sensei o, bideo tsuuwa ni, sasotte kudasai. Nan to iimasu ka?"
+  },
+  "vl11.c2_natural": {
+    "en": "“Sensei, shall we do a video call now?”",
+    "ru": "«Сэнсэй, не хотите ли сейчас созвониться по видео?»",
+    "zh": "“老师，现在要不要视频通话？”",
+    "ja": "「先生、今から、ビデオ通話を、しませんか？」",
+    "romaji": "'Sensei, ima kara, bideo tsuuwa o, shimasen ka?'"
+  },
+  "vl11.c2_formal": {
+    "en": "“If it is convenient for you, might we be permitted to speak via video call?”",
+    "ru": "«Если вам удобно, не позволите ли поговорить с вами по видеосвязи?»",
+    "zh": "“若您方便，可否允许我们通过视频通话与您交谈？”",
+    "ja": "「もしご都合がよろしければ、ビデオ通話にて、お話しさせていただけませんでしょうか。」",
+    "romaji": "'Moshi gotsugou ga yoroshikereba, bideo tsuuwa nite, ohanashi sasete itadakemasen deshou ka.'"
+  },
+  "vl11.c2_mistake": {
+    "en": "“Sensei, shall we watch a video call now?”",
+    "ru": "«Сэнсэй, давайте посмотрим видеозвонок?»",
+    "zh": "“老师，现在要不要看视频通话？”（应该用「する」）",
+    "ja": "「先生、今から、ビデオ通話を、見ませんか？」",
+    "romaji": "'Sensei, ima kara, bideo tsuuwa o, mimasen ka?'"
+  },
+  "vl11.c2_own": {
+    "en": "“Sensei, shall we do a video call now? Everyone wants to see your face.”",
+    "ru": "«Сэнсэй, не хотите ли сейчас созвониться по видео? Все хотят вас увидеть».",
+    "zh": "“老师，现在要不要视频通话？大家都想见见您。”",
+    "ja": "「先生、今から、ビデオ通話を、しませんか？みんな、先生の顔が、見たいです。」",
+    "romaji": "'Sensei, ima kara, bideo tsuuwa o, shimasen ka? Minna, sensei no kao ga, mitai desu.'"
+  },
+  "vl11.c2_min": {
+    "en": "“Sensei... video... now...”",
+    "ru": "«Сэнсэй… видео… сейчас…»",
+    "zh": "“老师……视频……现在……”",
+    "ja": "「先生…ビデオ…今から…」",
+    "romaji": "'Sensei... bideo... ima kara...'"
+  },
+  "vl11.p2_nat_yuki": {
+    "en": "A reply came right away: “Yes, let's.” I'll connect us.",
+    "ru": "Сразу пришёл ответ: «Да, давайте». Я соединю.",
+    "zh": "马上就收到了回复：“好，我们开始吧。”我来接通。",
+    "ja": "「はい、しましょう」と、すぐ、返事が来ました。つなぎますね。",
+    "romaji": "'Hai, shimashou' to, sugu, henji ga kimashita. Tsunagimasu ne."
+  },
+  "vl11.p2_form_mei": {
+    "en": "Ha, Sensei would be surprised. “Bideo tsuuwa o, shimasen ka” is fine.",
+    "ru": "Ха-ха, сэнсэй удивится. Достаточно «бидэо цу:ва о, симасэн ка».",
+    "zh": "呵呵，老师会吓一跳的。说「ビデオ通話を、しませんか」就行。",
+    "ja": "ふふ、先生が、おどろきますよ。「ビデオ通話を、しませんか」で、いいですよ。",
+    "romaji": "Fufu, sensei ga, odorokimasu yo. 'Bideo tsuuwa o, shimasen ka' de, ii desu yo."
+  },
+  "vl11.p2_mis_yuki": {
+    "en": "Close. A video call is something you “suru,” not “miru.” You invite with “bideo tsuuwa o, shimasen ka.”",
+    "ru": "Почти. Видеозвонок «суру», а не «миру». Приглашают словами «бидэо цу:ва о, симасэн ка».",
+    "zh": "很接近。视频通话是「する」，而不是「見る」。邀请时说「ビデオ通話を、しませんか」。",
+    "ja": "惜しいです。ビデオ通話は、「見る」ではなく、「する」です。「ビデオ通話を、しませんか」と、さそいます。",
+    "romaji": "Oshii desu. Bideo tsuuwa wa, 'miru' de wa naku, 'suru' desu. 'Bideo tsuuwa o, shimasen ka' to, sasoimasu."
+  },
+  "vl11.p2_mis_retry": {
+    "en": "Oh, Sensei, shall we do a video call now?",
+    "ru": "Ой, сэнсэй, не хотите ли сейчас созвониться по видео?",
+    "zh": "啊，老师，现在要不要视频通话？",
+    "ja": "あっ、先生、今から、ビデオ通話を、しませんか？",
+    "romaji": "A, sensei, ima kara, bideo tsuuwa o, shimasen ka?"
+  },
+  "vl11.p2_mis_relief": {
+    "en": "Yes, that's it. You use it together with “suru.” I'll connect us.",
+    "ru": "Да, именно так. Его используют вместе с «суру». Я соединю.",
+    "zh": "对，就是这个。要和「する」一起用。我来接通。",
+    "ja": "はい、それです。「する」と、いっしょに使います。つなぎますね。",
+    "romaji": "Hai, sore desu. 'Suru' to, issho ni tsukaimasu. Tsunagimasu ne."
+  },
+  "vl11.p2_own_ken": {
+    "en": "A good phrase. I think Sensei will be happy too.",
+    "ru": "Хорошая фраза. Думаю, сэнсэй тоже обрадуется.",
+    "zh": "很好的一句话。我想老师也会很高兴。",
+    "ja": "いい一言ですね。先生も、うれしいと思います。",
+    "romaji": "Ii hitokoto desu ne. Sensei mo, ureshii to omoimasu."
+  },
+  "vl11.p2_min_mei": {
+    "en": "I understand. Try inviting with a full sentence: “bideo tsuuwa o, shimasen ka.”",
+    "ru": "Понимаю. Пригласите целым предложением: «бидэо цу:ва о, симасэн ка».",
+    "zh": "我明白。试着用完整的句子邀请：「ビデオ通話を、しませんか」。",
+    "ja": "分かりますよ。「ビデオ通話を、しませんか」と、文で、さそってみましょう。",
+    "romaji": "Wakarimasu yo. 'Bideo tsuuwa o, shimasen ka' to, bun de, sasotte mimashou."
+  },
+  "vl11.connect": {
+    "en": "The screen slowly brightens. A tatami room in a country house appears. Tanaka-sensei is smiling and waving.",
+    "ru": "Экран медленно светлеет. Появляется комната с татами в деревенском доме. Танака-сэнсэй улыбается и машет рукой.",
+    "zh": "屏幕慢慢亮了起来。乡下房子里铺着榻榻米的房间出现在画面中。田中老师笑着挥手。",
+    "ja": "画面が、ゆっくり、明るくなった。田舎の家の、たたみの部屋が、うつっている。田中先生が、笑顔で、手をふっている。",
+    "romaji": "Gamen ga, yukkuri, akaruku natta. Inaka no ie no, tatami no heya ga, utsutte iru. Tanaka-sensei ga, egao de, te o futte iru."
+  },
+  "vl11.t_hello": {
+    "en": "Good evening, everyone. We finally connected. We finally get to meet!",
+    "ru": "Добрый вечер, все. Наконец-то связались. Наконец-то встретились!",
+    "zh": "各位，晚上好。终于接通了呢。终于见到你们了！",
+    "ja": "みなさん、こんばんは。やっと、つながりましたね。やっと会えた！",
+    "romaji": "Minasan, konbanwa. Yatto, tsunagarimashita ne. Yatto aeta!"
+  },
+  "vl11.w3": {
+    "en": "“Yatto aeta” is what you say when you finally get to meet someone you've wanted to see for a long time. “Yatto” carries the feeling of “at last,” after waiting.",
+    "ru": "«Яттo аэта» говорят, когда наконец встречаешь человека, которого давно хотел увидеть. «Яттo» несёт чувство «наконец-то» после ожидания.",
+    "zh": "「やっと会えた」是在终于见到了长期想见的人时说的话。「やっと」带有等了很久之后“终于”的心情。",
+    "ja": "「やっと会えた」は、長い間、会いたかった人に、会えたときの言葉です。「やっと」は、待ったあとで、ついに、という気持ちです。",
+    "romaji": "'Yatto aeta' wa, nagai aida, aitakatta hito ni, aeta toki no kotoba desu. 'Yatto' wa, matta ato de, tsui ni, to iu kimochi desu."
+  },
+  "vl11.w3_q": {
+    "en": "Why is it “aeta” and not “aimashita”?",
+    "ru": "Почему «аэта», а не «аимасита»?",
+    "zh": "为什么是「会えた」，而不是「会いました」？",
+    "ja": "「会えた」は、どうして、「会いました」ではありませんか？",
+    "romaji": "'Aeta' wa, doushite, 'aimashita' de wa arimasen ka?"
+  },
+  "vl11.w3_a": {
+    "en": "“Aeta” is the past of the potential form of “au.” It means “I was able to meet.” “Aimashita” is a plain fact. “Aeta” contains the happy feeling of “I could finally do it.”",
+    "ru": "«Аэта» — прошедшее время потенциальной формы от «ау». Оно означает «мне удалось встретиться». «Аимасита» — просто факт. В «аэта» заключено радостное чувство «наконец-то получилось».",
+    "zh": "「会えた」是「会う」的可能形的过去式。意思是“得以见面”。「会いました」只是单纯的事实。「会えた」里包含着“终于做到了”的喜悦心情。",
+    "ja": "「会えた」は、「会う」の、「できる形」の過去です。「会うことが、できた」という意味です。「会いました」は、ただの事実です。「会えた」には、「やっと、できた」という、うれしい気持ちが、入っています。",
+    "romaji": "'Aeta' wa, 'au' no, 'dekiru katachi' no kako desu. 'Au koto ga, dekita' to iu imi desu. 'Aimashita' wa, tada no jijitsu desu. 'Aeta' ni wa, 'yatto, dekita' to iu, ureshii kimochi ga, haitte imasu."
+  },
+  "vl11.k_sabishii": {
+    "en": "With Sensei gone, the classroom felt lonely.",
+    "ru": "Без сэнсэя в классе было одиноко.",
+    "zh": "老师不在，教室里很寂寞。",
+    "ja": "先生がいなくて、教室は、寂しかったです。",
+    "romaji": "Sensei ga inakute, kyoushitsu wa, sabishikatta desu."
+  },
+  "vl11.w4": {
+    "en": "“Sabishii” is a word for when someone important is gone and your heart feels lonely. Ken felt lonely without me, didn't he. Thank you.",
+    "ru": "«Сабисий» — слово для случая, когда рядом нет важного человека и на сердце одиноко. Кену было одиноко без меня, да? Спасибо.",
+    "zh": "「寂しい」是重要的人不在身边、心里感到孤单时用的词。健因为我不在而觉得寂寞，是吧。谢谢。",
+    "ja": "「寂しい」は、大切な人が、いなくて、心が、さびしいときの言葉です。ケンさんは、私がいなくて、寂しかったのですね。ありがとう。",
+    "romaji": "'Sabishii' wa, taisetsu na hito ga, inakute, kokoro ga, sabishii toki no kotoba desu. Ken-san wa, watashi ga inakute, sabishikatta no desu ne. Arigatou."
+  },
+  "vl11.w4_q": {
+    "en": "Are “sabishii” and “kanashii” different?",
+    "ru": "«Сабисий» и «канасий» отличаются?",
+    "zh": "「寂しい」和「悲しい」有区别吗？",
+    "ja": "「寂しい」と「悲しい」は、ちがいますか？",
+    "romaji": "'Sabishii' to 'kanashii' wa, chigaimasu ka?"
+  },
+  "vl11.w4_a": {
+    "en": "Yes. “Kanashii” is for when something bad has happened. “Sabishii” is for when someone isn't there and you're alone.",
+    "ru": "Да. «Канасий» — когда случилось что-то плохое. «Сабисий» — когда кого-то нет рядом и вы один.",
+    "zh": "有区别。「悲しい」是发生了不好的事的时候。「寂しい」是某人不在、自己孤单一人的时候。",
+    "ja": "はい。「悲しい」は、悪いことが、あったときです。「寂しい」は、だれかが、いなくて、ひとりのときです。",
+    "romaji": "Hai. 'Kanashii' wa, warui koto ga, atta toki desu. 'Sabishii' wa, dareka ga, inakute, hitori no toki desu."
+  },
+  "vl11.p3_prompt": {
+    "en": "Sensei asked, “Were you all well?” You were well, but you felt a little lonely without Sensei. How do you answer?",
+    "ru": "Сэнсэй спросил: «Вы все были здоровы?» Вы были здоровы, но вам было немного одиноко без сэнсэя. Что вы ответите?",
+    "zh": "老师问：“大家都还好吗？”你身体不错，但老师不在，有点寂寞。你会怎么回答？",
+    "ja": "先生が、聞きました。「みなさん、元気でしたか？」あなたは、元気でしたが、先生がいなくて、少し寂しかったです。何と答えますか？",
+    "romaji": "Sensei ga, kikimashita. 'Minasan, genki deshita ka?' Anata wa, genki deshita ga, sensei ga inakute, sukoshi sabishikatta desu. Nan to kotaemasu ka?"
+  },
+  "vl11.c3_natural": {
+    "en": "“Yes, I was well. But I felt lonely without you, Sensei.”",
+    "ru": "«Да, я был здоров. Но без вас, сэнсэй, мне было одиноко».",
+    "zh": "“是的，我很好。不过老师不在，我觉得很寂寞。”",
+    "ja": "「はい、元気でした。でも、先生がいなくて、寂しかったです。」",
+    "romaji": "'Hai, genki deshita. Demo, sensei ga inakute, sabishikatta desu.'"
+  },
+  "vl11.c3_formal": {
+    "en": "“Thanks to you, I spent the time without incident, but your absence, Sensei, was rather forlorn.”",
+    "ru": "«Благодаря вам всё прошло без происшествий, но отсутствие вас, сэнсэй, вызывало тоску».",
+    "zh": "“托您的福，平安度日，但没有老师在，心里颇为不安寂寞。”",
+    "ja": "「おかげさまで、恙なく過ごしましたが、先生のご不在は、心細うございました。」",
+    "romaji": "'Okagesama de, tsutsugganaku sugoshimashita ga, sensei no gofuzai wa, kokorobosou gozaimashita.'"
+  },
+  "vl11.c3_mistake": {
+    "en": "“Yes, I was well. But without you, it was sabishii-deshita.”",
+    "ru": "«Да, я был здоров. Но без вас было сабисий-дэсита».",
+    "zh": "“是的，我很好。不过老师不在，寂しいでした。”（い形容词过去式用错）",
+    "ja": "「はい、元気でした。でも、先生がいなくて、寂しいでした。」",
+    "romaji": "'Hai, genki deshita. Demo, sensei ga inakute, sabishii deshita.'"
+  },
+  "vl11.c3_own": {
+    "en": "“Yes, I was well. But I felt lonely without you, Sensei. I wanted to see you soon.”",
+    "ru": "«Да, я был здоров. Но без вас, сэнсэй, мне было одиноко. Я хотел скорее вас увидеть».",
+    "zh": "“是的，我很好。不过老师不在，我觉得很寂寞。我很想早点见到您。”",
+    "ja": "「はい、元気でした。でも、先生がいなくて、寂しかったです。早く、会いたかったです。」",
+    "romaji": "'Hai, genki deshita. Demo, sensei ga inakute, sabishikatta desu. Hayaku, aitakatta desu.'"
+  },
+  "vl11.c3_min": {
+    "en": "“Yes... lonely...”",
+    "ru": "«Да… одиноко…»",
+    "zh": "“是……寂寞……”",
+    "ja": "「はい…寂しい…」",
+    "romaji": "'Hai... sabishii...'"
+  },
+  "vl11.p3_nat_tanaka": {
+    "en": "Thank you. That feeling makes me happy too.",
+    "ru": "Спасибо. Это чувство радует и меня.",
+    "zh": "谢谢。这份心意也让我很高兴。",
+    "ja": "ありがとう。その気持ちは、私にも、うれしいです。",
+    "romaji": "Arigatou. Sono kimochi wa, watashi ni mo, ureshii desu."
+  },
+  "vl11.p3_form_ken": {
+    "en": "Haha, that's far too difficult. “Sabishikatta desu” conveys the feeling.",
+    "ru": "Ха-ха, это слишком сложно. «Сабисикатта дэс» передаёт чувство.",
+    "zh": "哈哈，太难了。说「寂しかったです」，心意就能传达。",
+    "ja": "あはは、むずかしすぎます。「寂しかったです」で、気持ちは、伝わりますよ。",
+    "romaji": "Ahaha, muzukashisugimasu. 'Sabishikatta desu' de, kimochi wa, tsutawarimasu yo."
+  },
+  "vl11.p3_mis_tanaka": {
+    "en": "Close. “Sabishii” is an i-adjective. Its past is “sabishikatta desu.” You don't say “sabishii deshita.”",
+    "ru": "Почти. «Сабисий» — i-прилагательное. Прошедшее время — «сабисикатта дэс». Не говорят «сабисий дэсита».",
+    "zh": "很接近。「寂しい」是い形容词。过去式是「寂しかったです」。不说「寂しいでした」。",
+    "ja": "惜しいです。「寂しい」は、い形容詞です。過去は、「寂しかったです」です。「寂しいでした」とは、言いません。",
+    "romaji": "Oshii desu. 'Sabishii' wa, i-keiyoushi desu. Kako wa, 'sabishikatta desu' desu. 'Sabishii deshita' to wa, iimasen."
+  },
+  "vl11.p3_mis_retry": {
+    "en": "Oh, I felt lonely without you, Sensei.",
+    "ru": "Ой, мне было одиноко без вас, сэнсэй.",
+    "zh": "啊，老师不在，我觉得很寂寞。",
+    "ja": "あっ、先生がいなくて、寂しかったです。",
+    "romaji": "A, sensei ga inakute, sabishikatta desu."
+  },
+  "vl11.p3_mis_relief": {
+    "en": "Yes, that's it. With “katta,” your feeling came across perfectly.",
+    "ru": "Да, именно так. С «катта» ваше чувство передано идеально.",
+    "zh": "对，就是这个。用了「かった」，心意就完美地传达出来了。",
+    "ja": "はい、それです。「かった」で、気持ちが、ぴったり伝わりました。",
+    "romaji": "Hai, sore desu. 'Katta' de, kimochi ga, pittari tsutawarimashita."
+  },
+  "vl11.p3_own_tanaka": {
+    "en": "I wanted to see all of you soon too.",
+    "ru": "Я тоже хотел скорее увидеть вас всех.",
+    "zh": "我也很想早点见到你们呢。",
+    "ja": "私も、みなさんに、早く会いたかったですよ。",
+    "romaji": "Watashi mo, minasan ni, hayaku aitakatta desu yo."
+  },
+  "vl11.p3_min_mei": {
+    "en": "Your feeling comes across. Try saying it in the past form: “sabishikatta desu.”",
+    "ru": "Ваше чувство понятно. Скажите в прошедшей форме: «сабисикатта дэс».",
+    "zh": "你的心意能传达。试着用过去式说：「寂しかったです」。",
+    "ja": "気持ちは、伝わりますよ。「寂しかったです」と、過去の形で、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu yo. 'Sabishikatta desu' to, kako no katachi de, itte mimashou."
+  },
+  "vl11.w5": {
+    "en": "I'm relieved that you all look well. “Anshin” is the feeling of relief when worry disappears.",
+    "ru": "Я спокоен, что вы все выглядите здоровыми. «Аньсин» — чувство облегчения, когда тревога проходит.",
+    "zh": "看到大家都很有精神，我放心了。「安心」是担心消失后松了一口气的心情。",
+    "ja": "みなさんが、元気そうで、安心しました。「安心」は、心配が、なくなって、ほっとする気持ちです。",
+    "romaji": "Minasan ga, genki sou de, anshin shimashita. 'Anshin' wa, shinpai ga, nakunatte, hotto suru kimochi desu."
+  },
+  "vl11.w5_q": {
+    "en": "Are “yokatta” and “anshin shimashita” the same?",
+    "ru": "«Ёката» и «аньсин симасита» — это одно и то же?",
+    "zh": "「よかった」和「安心しました」一样吗？",
+    "ja": "「よかった」と、「安心しました」は、同じですか？",
+    "romaji": "'Yokatta' to, 'anshin shimashita' wa, onaji desu ka?"
+  },
+  "vl11.w5_a": {
+    "en": "Slightly different. “Yokatta” is a word that rejoices at a good outcome. “Anshin shimashita” means the thing you were worried about turned out fine and you felt relieved.",
+    "ru": "Немного по-разному. «Ёката» — слово, выражающее радость от хорошего исхода. «Аньсин симасита» означает, что то, о чём вы беспокоились, обошлось, и вы почувствовали облегчение.",
+    "zh": "有点不同。「よかった」是为好结果高兴的词。「安心しました」是指担心的事没事了，因此松了一口气。",
+    "ja": "少しちがいます。「よかった」は、いい結果を、よろこぶ言葉です。「安心しました」は、心配していたことが、大丈夫になって、ほっとした、という意味です。",
+    "romaji": "Sukoshi chigaimasu. 'Yokatta' wa, ii kekka o, yorokobu kotoba desu. 'Anshin shimashita' wa, shinpai shite ita koto ga, daijoubu ni natte, hotto shita, to iu imi desu."
+  },
+  "vl11.t_ill": {
+    "en": "Actually, I caught a cold a little while ago. But I'm fine now.",
+    "ru": "Вообще-то, недавно я простудился. Но теперь всё в порядке.",
+    "zh": "其实，前不久我感冒了。不过现在已经没事了。",
+    "ja": "実は、少し前に、かぜを、ひきました。でも、もう、大丈夫です。",
+    "romaji": "Jitsu wa, sukoshi mae ni, kaze o, hikimashita. Demo, mou, daijoubu desu."
+  },
+  "vl11.p4_prompt": {
+    "en": "Sensei told you he had a cold. He is well now. You feel relieved to hear that. What do you say?",
+    "ru": "Сэнсэй рассказал, что простудился. Теперь он здоров. Услышав это, вы почувствовали облегчение. Что вы скажете?",
+    "zh": "老师告诉你他之前感冒了。现在他很好。你听了之后松了一口气。你会怎么说？",
+    "ja": "先生が、かぜをひいていたことを、教えてくれました。今は、元気です。あなたは、それを聞いて、ほっとしました。何と言いますか？",
+    "romaji": "Sensei ga, kaze o hiite ita koto o, oshiete kuremashita. Ima wa, genki desu. Anata wa, sore o kiite, hotto shimashita. Nan to iimasu ka?"
+  },
+  "vl11.c4_natural": {
+    "en": "“I'm relieved that you've recovered, Sensei.”",
+    "ru": "«Я рад, что вы выздоровели, сэнсэй».",
+    "zh": "“老师恢复健康了，我放心了。”",
+    "ja": "「先生が、元気になって、安心しました。」",
+    "romaji": "'Sensei ga, genki ni natte, anshin shimashita.'"
+  },
+  "vl11.c4_formal": {
+    "en": "“Upon hearing of your recovery, Sensei, I have breathed a great sigh of relief.”",
+    "ru": "«Услышав о вашем выздоровлении, сэнсэй, я с облегчением выдохнул».",
+    "zh": "“听闻老师康复，我如释重负。”",
+    "ja": "「先生のご回復を伺い、胸を撫で下ろしております。」",
+    "romaji": "'Sensei no gokaifuku o ukagai, mune o nadeoroshite orimasu.'"
+  },
+  "vl11.c4_mistake": {
+    "en": "“I've become relief since you recovered.”",
+    "ru": "«Я стал облегчением, так как вы выздоровели».",
+    "zh": "“老师恢复了，我变成安心了。”（应该用「する」）",
+    "ja": "「先生が、元気になって、安心になりました。」",
+    "romaji": "'Sensei ga, genki ni natte, anshin ni narimashita.'"
+  },
+  "vl11.c4_own": {
+    "en": "“I'm relieved that you've recovered, Sensei. Please rest well.”",
+    "ru": "«Я рад, что вы выздоровели, сэнсэй. Пожалуйста, хорошо отдохните».",
+    "zh": "“老师恢复了，我放心了。请好好休息。”",
+    "ja": "「先生が、元気になって、安心しました。ゆっくり、休んでください。」",
+    "romaji": "'Sensei ga, genki ni natte, anshin shimashita. Yukkuri, yasunde kudasai.'"
+  },
+  "vl11.c4_min": {
+    "en": "“Sensei... well... relief...”",
+    "ru": "«Сэнсэй… здоровы… облегчение…»",
+    "zh": "“老师……好……放心……”",
+    "ja": "「先生…元気…安心…」",
+    "romaji": "'Sensei... genki... anshin...'"
+  },
+  "vl11.p4_nat_tanaka": {
+    "en": "Thank you. Your messages gave me energy.",
+    "ru": "Спасибо. Ваши сообщения придали мне сил.",
+    "zh": "谢谢。你们的消息给了我力量。",
+    "ja": "ありがとう。みなさんの、メッセージが、元気をくれました。",
+    "romaji": "Arigatou. Minasan no, messeeji ga, genki o kuremashita."
+  },
+  "vl11.p4_form_yuki": {
+    "en": "Ha, that's too polite. “Anshin shimashita” conveys the feeling well enough.",
+    "ru": "Ха-ха, слишком вежливо. «Аньсин симасита» вполне передаёт чувство.",
+    "zh": "呵呵，太礼貌了。说「安心しました」，心意就足够传达了。",
+    "ja": "ふふ、ていねいすぎます。「安心しました」で、気持ちは、じゅうぶん伝わりますよ。",
+    "romaji": "Fufu, teinei sugimasu. 'Anshin shimashita' de, kimochi wa, juubun tsutawarimasu yo."
+  },
+  "vl11.p4_mis_tanaka": {
+    "en": "Close. “Anshin” is used together with “suru.” It's “anshin shimashita.” You don't say “anshin ni narimashita.”",
+    "ru": "Почти. «Аньсин» используют вместе с «суру». Получается «аньсин симасита». Не говорят «аньсин ни наримасита».",
+    "zh": "很接近。「安心」和「する」一起用。说「安心しました」。不说「安心になりました」。",
+    "ja": "惜しいです。「安心」は、「する」と、いっしょに使います。「安心しました」です。「安心になりました」とは、言いません。",
+    "romaji": "Oshii desu. 'Anshin' wa, 'suru' to, issho ni tsukaimasu. 'Anshin shimashita' desu. 'Anshin ni narimashita' to wa, iimasen."
+  },
+  "vl11.p4_mis_retry": {
+    "en": "Oh, I'm relieved that you've recovered, Sensei.",
+    "ru": "Ой, я рад, что вы выздоровели, сэнсэй.",
+    "zh": "啊，老师恢复了，我放心了。",
+    "ja": "あっ、先生が、元気になって、安心しました。",
+    "romaji": "A, sensei ga, genki ni natte, anshin shimashita."
+  },
+  "vl11.p4_mis_relief": {
+    "en": "Yes, that's it. “Suru” fits perfectly.",
+    "ru": "Да, именно так. «Суру» подходит идеально.",
+    "zh": "对，就是这个。用「する」就正合适了。",
+    "ja": "はい、それです。「する」で、ぴったりです。",
+    "romaji": "Hai, sore desu. 'Suru' de, pittari desu."
+  },
+  "vl11.p4_own_tanaka": {
+    "en": "How kind. I'll rest well tonight.",
+    "ru": "Как мило. Сегодня вечером я хорошо отдохну.",
+    "zh": "真体贴。今晚我会好好休息。",
+    "ja": "やさしいですね。今夜は、ゆっくり、休みます。",
+    "romaji": "Yasashii desu ne. Konya wa, yukkuri, yasumimasu."
+  },
+  "vl11.p4_min_ken": {
+    "en": "Your feeling comes across. Try saying it through to the verb: “anshin shimashita.”",
+    "ru": "Ваше чувство понятно. Доведите фразу до глагола: «аньсин симасита».",
+    "zh": "心意能传达。试着说到动词为止：「安心しました」。",
+    "ja": "気持ちは、伝わります。「安心しました」と、動詞まで、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Anshin shimashita' to, doushi made, itte mimashou."
+  },
+  "vl11.w6": {
+    "en": "Actually, there's something I'd like to tell you. “Jitsu wa” is what you say when talking about something important or unexpected.",
+    "ru": "Вообще-то, мне нужно вам кое-что сказать. «Дзицу ва» говорят, когда речь идёт о чём-то важном или неожиданном.",
+    "zh": "其实，我有话想对大家说。「実は」是在说重要的事或出人意料的事时用的话。",
+    "ja": "実は、みなさんに、話したいことが、あります。「実は」は、大切なことや、意外なことを、話すときの言葉です。",
+    "romaji": "Jitsu wa, minasan ni, hanashitai koto ga, arimasu. 'Jitsu wa' wa, taisetsu na koto ya, igai na koto o, hanasu toki no kotoba desu."
+  },
+  "vl11.w6_q": {
+    "en": "Is it the same as “hontou wa”?",
+    "ru": "Это то же, что «хонто: ва»?",
+    "zh": "和「本当は」一样吗？",
+    "ja": "「本当は」と、同じですか？",
+    "romaji": "'Hontou wa' to, onaji desu ka?"
+  },
+  "vl11.w6_a": {
+    "en": "They are almost the same. “Jitsu wa” feels slightly more formal. “Jitsu ni” is a different word meaning “very.” Please don't mix them up.",
+    "ru": "Они почти одинаковы. «Дзицу ва» звучит несколько более официально. «Дзицу ни» — другое слово, означающее «очень». Пожалуйста, не путайте.",
+    "zh": "几乎相同。「実は」稍微郑重一些。「実に」是另一个词，意思是“非常”。请不要弄混。",
+    "ja": "ほとんど同じです。「実は」は、少し、あらたまった感じです。「実に」は、「とても」という、ちがう言葉です。まちがえないでくださいね。",
+    "romaji": "Hotondo onaji desu. 'Jitsu wa' wa, sukoshi, aratamatta kanji desu. 'Jitsu ni' wa, 'totemo' to iu, chigau kotoba desu. Machigaenaide kudasai ne."
+  },
+  "vl11.t_news": {
+    "en": "Actually, next week I'll bring back delicious rice from the countryside for you all. Please look forward to it.",
+    "ru": "Вообще-то, на следующей неделе я привезу вам вкусный рис из деревни. Ждите с нетерпением.",
+    "zh": "其实，下周我会给大家带乡下好吃的大米回来。请期待哦。",
+    "ja": "実は、来週、みなさんに、田舎の、おいしいお米を、持って帰ります。楽しみにしていてくださいね。",
+    "romaji": "Jitsu wa, raishuu, minasan ni, inaka no, oishii okome o, motte kaerimasu. Tanoshimi ni shite ite kudasai ne."
+  },
+  "vl11.p5_prompt": {
+    "en": "Sensei asked everyone, “Do you have something you'd like to tell me too?” You want to tell him that you felt lonely not seeing him. Please say it using “jitsu wa.” What do you say?",
+    "ru": "Сэнсэй спросил всех: «А у вас есть, что мне рассказать?» Вы хотите сказать, что вам было одиноко без встреч с ним. Скажите это, используя «дзицу ва». Что вы скажете?",
+    "zh": "老师问大家：“你们也有什么想对我说的吗？”你想告诉他，见不到他你觉得很寂寞。请用「実は」来说。你会怎么说？",
+    "ja": "先生が、みなさんに、聞きました。「あなたも、私に、話したいことが、ありますか？」あなたは、先生に会えなくて、寂しかったことを、伝えたいです。「実は」を使って、言ってください。何と言いますか？",
+    "romaji": "Sensei ga, minasan ni, kikimashita. 'Anata mo, watashi ni, hanashitai koto ga, arimasu ka?' Anata wa, sensei ni aenakute, sabishikatta koto o, tsutaetai desu. 'Jitsu wa' o tsukatte, itte kudasai. Nan to iimasu ka?"
+  },
+  "vl11.c5_natural": {
+    "en": "“Actually, I felt lonely not being able to see you, Sensei.”",
+    "ru": "«Вообще-то, мне тоже было одиноко, что я не мог вас видеть, сэнсэй».",
+    "zh": "“其实，我也因为见不到老师而觉得很寂寞。”",
+    "ja": "「実は、私も、先生に会えなくて、寂しかったです。」",
+    "romaji": "'Jitsu wa, watashi mo, sensei ni aenakute, sabishikatta desu.'"
+  },
+  "vl11.c5_formal": {
+    "en": "“If I may humbly say, in truth, I felt uneasy about your absence, Sensei.”",
+    "ru": "«Осмелюсь сказать, по правде говоря, мне было не по себе от вашего отсутствия, сэнсэй».",
+    "zh": "“恕我冒昧，实话说，我一直对老师不在感到心中不安。”",
+    "ja": "「恐縮ながら、実のところ、先生の不在を、心細く存じておりました。」",
+    "romaji": "'Kyoushuku nagara, jitsu no tokoro, sensei no fuzai o, kokorobosoku zonjite orimashita.'"
+  },
+  "vl11.c5_mistake": {
+    "en": "“Very much, I too, felt lonely not being able to see you, Sensei.”",
+    "ru": "«Весьма, я тоже, скучал, не имея возможности вас увидеть, сэнсэй».",
+    "zh": "“非常，我也因为见不到老师而觉得很寂寞。”（把実は说成了実に）",
+    "ja": "「実に、私も、先生に会えなくて、寂しかったです。」",
+    "romaji": "'Jitsu ni, watashi mo, sensei ni aenakute, sabishikatta desu.'"
+  },
+  "vl11.c5_own": {
+    "en": "“Actually, I felt lonely not being able to see you, Sensei. I'm happy that we could finally meet today.”",
+    "ru": "«Вообще-то, мне было одиноко без встреч с вами, сэнсэй. Я рад, что сегодня мы наконец встретились».",
+    "zh": "“其实，我也因为见不到老师而觉得很寂寞。今天终于见到您，我很高兴。”",
+    "ja": "「実は、私も、先生に会えなくて、寂しかったです。今日は、やっと会えて、うれしいです。」",
+    "romaji": "'Jitsu wa, watashi mo, sensei ni aenakute, sabishikatta desu. Kyou wa, yatto aete, ureshii desu.'"
+  },
+  "vl11.c5_min": {
+    "en": "“Actually... lonely...”",
+    "ru": "«Вообще-то… одиноко…»",
+    "zh": "“其实……寂寞……”",
+    "ja": "「実は…寂しい…」",
+    "romaji": "'Jitsu wa... sabishii...'"
+  },
+  "vl11.p5_nat_tanaka": {
+    "en": "Thank you. Actually, I wanted to see your faces too.",
+    "ru": "Спасибо. Вообще-то, я тоже хотел увидеть ваши лица.",
+    "zh": "谢谢。其实，我也想看看你们的脸。",
+    "ja": "ありがとう。私も、実は、みなさんの顔が、見たかったのです。",
+    "romaji": "Arigatou. Watashi mo, jitsu wa, minasan no kao ga, mitakatta no desu."
+  },
+  "vl11.p5_form_mei": {
+    "en": "Ha, Sensei looks surprised. “Jitsu wa, sabishikatta desu” is fine.",
+    "ru": "Ха-ха, сэнсэй удивился. Достаточно «дзицу ва, сабисикатта дэс».",
+    "zh": "呵呵，老师都吃惊了。说「実は、寂しかったです」就行。",
+    "ja": "ふふ、先生が、おどろいていますよ。「実は、寂しかったです」で、いいですよ。",
+    "romaji": "Fufu, sensei ga, odoroite imasu yo. 'Jitsu wa, sabishikatta desu' de, ii desu yo."
+  },
+  "vl11.p5_mis_tanaka": {
+    "en": "Close. “Jitsu ni” means “very.” It's different from “jitsu wa,” used to begin what you want to say. Let's say “jitsu wa, ~.”",
+    "ru": "Почти. «Дзицу ни» означает «очень». Это отличается от «дзицу ва», с которого начинают сообщение. Скажем «дзицу ва, ~».",
+    "zh": "很接近。「実に」是“非常”的意思。和用于引出话题的「実は」不同。要说「実は、〜」。",
+    "ja": "惜しいです。「実に」は、「とても」という意味です。話し出しの「実は」とは、ちがいます。「実は、〜」と言いましょう。",
+    "romaji": "Oshii desu. 'Jitsu ni' wa, 'totemo' to iu imi desu. Hanashidashi no 'jitsu wa' to wa, chigaimasu. 'Jitsu wa, ~' to iimashou."
+  },
+  "vl11.p5_mis_retry": {
+    "en": "Oh, actually, I felt lonely not being able to see you, Sensei.",
+    "ru": "Ой, вообще-то, мне было одиноко, что я не мог вас видеть, сэнсэй.",
+    "zh": "啊，其实，我也因为见不到老师而觉得很寂寞。",
+    "ja": "あっ、実は、私も、先生に会えなくて、寂しかったです。",
+    "romaji": "A, jitsu wa, watashi mo, sensei ni aenakute, sabishikatta desu."
+  },
+  "vl11.p5_mis_relief": {
+    "en": "Yes, that's it. You started what you wanted to say with “jitsu wa.”",
+    "ru": "Да, именно так. Вы начали своё сообщение с «дзицу ва».",
+    "zh": "对，就是这个。你用「実は」把话引出来了。",
+    "ja": "はい、それです。「実は」で、話が、始められましたね。",
+    "romaji": "Hai, sore desu. 'Jitsu wa' de, hanashi ga, hajimeraremashita ne."
+  },
+  "vl11.p5_own_tanaka": {
+    "en": "I'm happy we've finally met too. Let's talk a lot tonight.",
+    "ru": "Я тоже рад, что мы наконец встретились. Давайте сегодня вечером поговорим побольше.",
+    "zh": "我也很高兴终于见到你们。今晚我们多聊聊吧。",
+    "ja": "私も、やっと会えて、うれしいです。今夜は、たくさん話しましょう。",
+    "romaji": "Watashi mo, yatto aete, ureshii desu. Konya wa, takusan hanashimashou."
+  },
+  "vl11.p5_min_yuki": {
+    "en": "Your feeling comes across. Try saying it through: “jitsu wa, sabishikatta desu.”",
+    "ru": "Ваше чувство понятно. Скажите слитно: «дзицу ва, сабисикатта дэс».",
+    "zh": "你的心意能传达。试着连起来说：「実は、寂しかったです」。",
+    "ja": "気持ちは、伝わりますよ。「実は、寂しかったです」と、続けて、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu yo. 'Jitsu wa, sabishikatta desu' to, tsuzukete, itte mimashou."
+  },
+  "vl11.t_photo": {
+    "en": "At my grandmother's house, I found an old photo. Looking at it, I remembered all sorts of things.",
+    "ru": "В доме бабушки я нашёл старую фотографию. Глядя на неё, я вспомнил много всего.",
+    "zh": "在奶奶家，我发现了一张旧照片。看着它，我想起了许多事。",
+    "ja": "おばあさんの家で、昔の写真を、見つけました。これを見ていたら、いろいろなことを、思い出しました。",
+    "romaji": "Obaasan no ie de, mukashi no shashin o, mitsukemashita. Kore o miteitara, iroiro na koto o, omoidashimashita."
+  },
+  "vl11.w7": {
+    "en": "“Mukashi” refers to a time long ago. It's used like “mukashi wa, watashi mo, gakusei deshita.” It refers to a time even earlier than “mae.”",
+    "ru": "«Мукаси» — это время, бывшее очень давно. Используется так: «мукаси ва, ватаси мо, гакусэй дэсита». Это время ещё более раннее, чем «маэ».",
+    "zh": "「昔」指很久以前的时代。用法如「昔は、私も、学生でした」。比「前」更早得多。",
+    "ja": "「昔」は、ずっと前の時代のことです。「昔は、私も、学生でした」のように使います。「前」よりも、もっと、前のことです。",
+    "romaji": "'Mukashi' wa, zutto mae no jidai no koto desu. 'Mukashi wa, watashi mo, gakusei deshita' no you ni tsukaimasu. 'Mae' yori mo, motto, mae no koto desu."
+  },
+  "vl11.w8": {
+    "en": "This photo is one of my “omoide.” An “omoide” is a past experience that remains in your heart. There are good memories and painful memories.",
+    "ru": "Эта фотография — моё «омоидэ». «Омоидэ» — это прошлый опыт, оставшийся в сердце. Бывают хорошие воспоминания и тяжёлые.",
+    "zh": "这张照片是我的「思い出」。「思い出」是留在心里的过去经历。既有美好的回忆，也有痛苦的回忆。",
+    "ja": "この写真は、私の「思い出」です。「思い出」は、心に残っている、過去の経験です。いい思い出も、つらい思い出も、あります。",
+    "romaji": "Kono shashin wa, watashi no 'omoide' desu. 'Omoide' wa, kokoro ni nokotte iru, kako no keiken desu. Ii omoide mo, tsurai omoide mo, arimasu."
+  },
+  "vl11.w9": {
+    "en": "Bringing that memory back into your mind is “omoidasu.” You say “shashin o miru to, mukashi no koto o, omoidashimasu.”",
+    "ru": "Возвращать это воспоминание в сознание — это «омоидасу». Говорят «сясин о миру то, мукаси но кото о, омоидасимас».",
+    "zh": "把那份回忆重新唤回心中，就是「思い出す」。说「写真を見ると、昔のことを、思い出します」。",
+    "ja": "その思い出を、心の中に、よびもどすことは、「思い出す」です。「写真を見ると、昔のことを、思い出します」と言います。",
+    "romaji": "Sono omoide o, kokoro no naka ni, yobimodosu koto wa, 'omoidasu' desu. 'Shashin o miru to, mukashi no koto o, omoidashimasu' to iimasu."
+  },
+  "vl11.w9_q": {
+    "en": "Are “omoidasu” and “oboete iru” different?",
+    "ru": "«Омоидасу» и «обоэтэ иру» отличаются?",
+    "zh": "「思い出す」和「覚えている」有区别吗？",
+    "ja": "「思い出す」と「覚えている」は、ちがいますか？",
+    "romaji": "'Omoidasu' to 'oboete iru' wa, chigaimasu ka?"
+  },
+  "vl11.w9_a": {
+    "en": "Yes. “Oboete iru” is the state of not having forgotten it all along. “Omoidasu” is the movement of something you had temporarily forgotten coming back to your mind through some trigger.",
+    "ru": "Да. «Обоэтэ иру» — состояние, когда вы это не забывали всё время. «Омоидасу» — движение, когда то, что вы на время забыли, возвращается в сознание под влиянием какого-то повода.",
+    "zh": "有区别。「覚えている」是一直没有忘记的状态。「思い出す」是曾经忘掉的事，因某个契机重新回到心里的动作。",
+    "ja": "はい。「覚えている」は、ずっと、忘れていない状態です。「思い出す」は、いったん忘れていたことが、何かのきっかけで、心にもどってくる、という動きです。",
+    "romaji": "Hai. 'Oboete iru' wa, zutto, wasurete inai joutai desu. 'Omoidasu' wa, ittan wasurete ita koto ga, nani ka no kikkake de, kokoro ni modotte kuru, to iu ugoki desu."
+  },
+  "vl11.p6_prompt": {
+    "en": "Sensei asked, “What do you all recall when you look at photos?” When you look at photos of Kyoto, you remember the trip you took together. How do you answer?",
+    "ru": "Сэнсэй спросил: «Что вы вспоминаете, когда смотрите на фотографии?» Когда вы смотрите на фотографии Киото, то вспоминаете поездку, в которую вы ездили вместе. Что вы ответите?",
+    "zh": "老师问：“大家看到照片，会想起什么？”你一看到京都的照片，就会想起大家一起去的旅行。你会怎么回答？",
+    "ja": "先生が、聞きました。「みなさんは、写真を見て、何を思い出しますか？」あなたは、京都の写真を見ると、みんなで行った旅を、思い出します。何と答えますか？",
+    "romaji": "Sensei ga, kikimashita. 'Minasan wa, shashin o mite, nani o omoidashimasu ka?' Anata wa, Kyouto no shashin o miru to, minna de itta tabi o, omoidashimasu. Nan to kotaemasu ka?"
+  },
+  "vl11.c6_natural": {
+    "en": "“When I look at photos of Kyoto, I remember the trip we all took together.”",
+    "ru": "«Когда я смотрю на фотографии Киото, я вспоминаю поездку, в которую мы ездили вместе».",
+    "zh": "“一看到京都的照片，我就会想起大家一起去的旅行。”",
+    "ja": "「京都の写真を見ると、みんなで行った旅を、思い出します。」",
+    "romaji": "'Kyouto no shashin o miru to, minna de itta tabi o, omoidashimasu.'"
+  },
+  "vl11.c6_formal": {
+    "en": "“Each time I view photographs of Kyoto, the journey with all of you comes back vividly to my mind.”",
+    "ru": "«Каждый раз, когда я смотрю на фотографии Киото, путешествие со всеми вами оживает в моём сознании».",
+    "zh": "“每当看到京都的照片，与各位同行的旅程便浮现在脑海。”",
+    "ja": "「京都の写真を拝見するたびに、皆さまとの旅路が、脳裏に蘇ります。」",
+    "romaji": "'Kyouto no shashin o haiken suru tabi ni, minasama to no tabiji ga, nouri ni yomigaerimasu.'"
+  },
+  "vl11.c6_mistake": {
+    "en": "“When I look at photos of Kyoto, I omoidasu of the trip we all took.”",
+    "ru": "«Когда я смотрю на фотографии Киото, я вспоминаю (с «но») поездку, в которую мы ездили вместе».",
+    "zh": "“一看到京都的照片，就想起大家一起去的旅行の思い出します。”（把の和思い出す混在了一起）",
+    "ja": "「京都の写真を見ると、みんなで行った旅の、思い出します。」",
+    "romaji": "'Kyouto no shashin o miru to, minna de itta tabi no, omoidashimasu.'"
+  },
+  "vl11.c6_own": {
+    "en": "“When I look at photos of Kyoto, I remember the trip we all took. That trip is an important memory for me.”",
+    "ru": "«Когда я смотрю на фотографии Киото, я вспоминаю поездку, в которую мы ездили вместе. Эта поездка — мои важные воспоминания».",
+    "zh": "“一看到京都的照片，我就会想起大家一起去的旅行。那次旅行是我重要的回忆。”",
+    "ja": "「京都の写真を見ると、みんなで行った旅を、思い出します。あの旅は、私の大切な思い出です。」",
+    "romaji": "'Kyouto no shashin o miru to, minna de itta tabi o, omoidashimasu. Ano tabi wa, watashi no taisetsu na omoide desu.'"
+  },
+  "vl11.c6_min": {
+    "en": "“Kyoto... photos... remember...”",
+    "ru": "«Киото… фотографии… вспоминаю…»",
+    "zh": "“京都……照片……想起……”",
+    "ja": "「京都…写真…思い出す…」",
+    "romaji": "'Kyouto... shashin... omoidasu...'"
+  },
+  "vl11.p6_nat_tanaka": {
+    "en": "Lovely. I sometimes think back on that trip too.",
+    "ru": "Прекрасно. Я тоже иногда вспоминаю ту поездку.",
+    "zh": "真好。我有时也会想起那次旅行。",
+    "ja": "すてきですね。私も、あの旅を、時々、思い出します。",
+    "romaji": "Suteki desu ne. Watashi mo, ano tabi o, tokidoki, omoidashimasu."
+  },
+  "vl11.p6_form_ken": {
+    "en": "Haha, you sound like a novelist. “Omoidashimasu” is enough.",
+    "ru": "Ха-ха, как писатель. Достаточно «омоидасимас».",
+    "zh": "哈哈，像作家一样。说「思い出します」就足够了。",
+    "ja": "あはは、作家みたいです。「思い出します」で、じゅうぶんですよ。",
+    "romaji": "Ahaha, sakka mitai desu. 'Omoidashimasu' de, juubun desu yo."
+  },
+  "vl11.p6_mis_tanaka": {
+    "en": "Close. “Omoidasu” is a verb. You use “o”: “tabi o, omoidashimasu.” “Omoide” is a noun, so you say “tabi no omoide desu.”",
+    "ru": "Почти. «Омоидасу» — глагол. Используют «о»: «таби о, омоидасимас». «Омоидэ» — существительное, поэтому говорят «таби но омоидэ дэс».",
+    "zh": "很接近。「思い出す」是动词。要用「を」：「旅を、思い出します」。「思い出」是名词，所以说「旅の思い出です」。",
+    "ja": "惜しいです。「思い出す」は、動詞です。「旅を、思い出します」と、「を」を使います。「思い出」は、名詞ですから、「旅の思い出です」と言います。",
+    "romaji": "Oshii desu. 'Omoidasu' wa, doushi desu. 'Tabi o, omoidashimasu' to, 'o' o tsukaimasu. 'Omoide' wa, meishi desu kara, 'tabi no omoide desu' to iimasu."
+  },
+  "vl11.p6_mis_retry": {
+    "en": "Oh, when I look at photos of Kyoto, I remember the trip we all took together.",
+    "ru": "Ой, когда я смотрю на фотографии Киото, я вспоминаю поездку, в которую мы ездили вместе.",
+    "zh": "啊，一看到京都的照片，我就会想起大家一起去的旅行。",
+    "ja": "あっ、京都の写真を見ると、みんなで行った旅を、思い出します。",
+    "romaji": "A, Kyouto no shashin o miru to, minna de itta tabi o, omoidashimasu."
+  },
+  "vl11.p6_mis_relief": {
+    "en": "Yes, that's it. You've distinguished the verb from the noun.",
+    "ru": "Да, именно так. Вы различили глагол и существительное.",
+    "zh": "对，就是这个。你把动词和名词区分开了。",
+    "ja": "はい、それです。動詞と名詞の、区別が、できましたね。",
+    "romaji": "Hai, sore desu. Doushi to meishi no, kubetsu ga, dekimashita ne."
+  },
+  "vl11.p6_own_tanaka": {
+    "en": "You used both “omoidasu” and “omoide.” Wonderful.",
+    "ru": "Вы использовали и «омоидасу», и «омоидэ». Замечательно.",
+    "zh": "「思い出す」和「思い出」你都用上了。太棒了。",
+    "ja": "「思い出す」と「思い出」が、両方、使えましたね。すばらしいです。",
+    "romaji": "'Omoidasu' to 'omoide' ga, ryouhou, tsukaemashita ne. Subarashii desu."
+  },
+  "vl11.p6_min_yuki": {
+    "en": "I understand. Try putting it together: “Kyouto no shashin o miru to, tabi o omoidashimasu.”",
+    "ru": "Понимаю. Скажите слитно: «Кё:то но сясин о миру то, таби о омоидасимас».",
+    "zh": "我明白。试着连成一句话：「京都の写真を見ると、旅を思い出します」。",
+    "ja": "分かりますよ。「京都の写真を見ると、旅を思い出します」と、ひとつにして、言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Kyouto no shashin o miru to, tabi o omoidashimasu' to, hitotsu ni shite, itte mimashou."
+  },
+  "vl11.w10": {
+    "en": "Finally, let me “tsutaeru,” convey, my grandmother's words to you all. “Tsutaeru” means to deliver feelings or information to someone.",
+    "ru": "Наконец, позвольте мне «цутаэру» — передать вам слова моей бабушки. «Цутаэру» означает донести чувства или информацию до собеседника.",
+    "zh": "最后，让我把奶奶的话「伝える」给大家。「伝える」是把心意或信息送达给对方。",
+    "ja": "最後に、おばあさんの言葉を、みなさんに「伝える」ね。「伝える」は、気持ちや、情報を、相手に届けることです。",
+    "romaji": "Saigo ni, obaasan no kotoba o, minasan ni 'tsutaeru' ne. 'Tsutaeru' wa, kimochi ya, jouhou o, aite ni todokeru koto desu."
+  },
+  "vl11.t_grandma": {
+    "en": "My grandmother was saying, “Please come visit anytime.”",
+    "ru": "Бабушка говорила: «Приезжайте в гости в любое время».",
+    "zh": "奶奶说了：“随时欢迎你们来玩。”",
+    "ja": "おばあさんが、「いつでも、遊びに来てくださいね」と言っていましたよ。",
+    "romaji": "Obaasan ga, 'itsudemo, asobi ni kite kudasai ne' to itte imashita yo."
+  },
+  "vl11.w10_q": {
+    "en": "Are “tsutaeru” and “iu” different?",
+    "ru": "«Цутаэру» и «ию» отличаются?",
+    "zh": "「伝える」和「言う」有区别吗？",
+    "ja": "「伝える」と「言う」は、ちがいますか？",
+    "romaji": "'Tsutaeru' to 'iu' wa, chigaimasu ka?"
+  },
+  "vl11.w10_a": {
+    "en": "“Iu” means to say. “Tsutaeru” includes the sense of reaching the other person. Sometimes a person or a thing comes in between, as in “messeeji o, tsutaeru.”",
+    "ru": "«Ию» — просто говорить. «Цутаэру» включает в себя смысл «дойти до собеседника». Иногда между ними оказывается человек или предмет, как в «мэссэ:дзи о, цутаэру».",
+    "zh": "「言う」是说话。「伝える」包含“传到对方那里”的意思。有时中间还会有人或物介入，如「メッセージを、伝える」。",
+    "ja": "「言う」は、話すことです。「伝える」は、相手に届く、という意味が、入っています。「メッセージを、伝える」のように、間に、人や、ものが入ることも、あります。",
+    "romaji": "'Iu' wa, hanasu koto desu. 'Tsutaeru' wa, aite ni todoku, to iu imi ga, haitte imasu. 'Messeeji o, tsutaeru' no you ni, aida ni, hito ya, mono ga hairu koto mo, arimasu."
+  },
+  "vl11.talk_open": {
+    "en": "Now let's talk. Out of today's ten words, which one do you most want to convey to someone?",
+    "ru": "Теперь поговорим. Какое из сегодняшних десяти слов вы больше всего хотите кому-то передать?",
+    "zh": "现在来聊聊。今天这十个词里，你最想把哪个词传达给别人？",
+    "ja": "では、話しましょう。今日の十の言葉の中で、いちばん、だれかに伝えたい言葉は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no juu no kotoba no naka de, ichiban, dareka ni tsutaetai kotoba wa, dore desu ka?"
+  },
+  "vl11.talk_mei": {
+    "en": "For me, it's “yatto aeta.” I want to say it to a faraway friend someday.",
+    "ru": "Для меня это «яттo аэта». Хочу когда-нибудь сказать это далёкому другу.",
+    "zh": "我想说「やっと会えた」。我想有一天对远方的朋友说出这句话。",
+    "ja": "わたしは、「やっと会えた」です。遠くの友達に、いつか、言いたいです。",
+    "romaji": "Watashi wa, 'yatto aeta' desu. Tooku no tomodachi ni, itsuka, iitai desu."
+  },
+  "vl11.talk_ken": {
+    "en": "For me, it's “anshin.” I'm glad you're well.",
+    "ru": "Для меня это «аньсин». Я рад, что вы здоровы.",
+    "zh": "我想说「安心」。您身体好，太好了。",
+    "ja": "ぼくは、「安心」です。元気で、よかったです。",
+    "romaji": "Boku wa, 'anshin' desu. Genki de, yokatta desu."
+  },
+  "vl11.talk_yuki": {
+    "en": "For me, it's “omoide.” Tonight will someday become a memory too.",
+    "ru": "Для меня это «омоидэ». Сегодняшний вечер тоже когда-нибудь станет воспоминанием.",
+    "zh": "我想说「思い出」。今晚也总有一天会变成回忆呢。",
+    "ja": "わたしは、「思い出」です。今日の夜も、いつか、思い出になりますね。",
+    "romaji": "Watashi wa, 'omoide' desu. Kyou no yoru mo, itsuka, omoide ni narimasu ne."
+  },
+  "vl11.talk_tanaka": {
+    "en": "Lovely. Even when far apart, with words we can stay connected.",
+    "ru": "Прекрасно. Даже когда далеко друг от друга, слова позволяют оставаться на связи.",
+    "zh": "真好。即使相隔很远，只要有语言，就能保持联系。",
+    "ja": "すてきですね。遠くにいても、言葉があれば、つながれます。",
+    "romaji": "Suteki desu ne. Tooku ni ite mo, kotoba ga areba, tsunagaremasu."
+  },
+  "vl11.talk_player": {
+    "en": "(Message, video call, finally we meet, lonely, relief. With words, even far apart, our hearts can stay connected. Tomorrow, I'll send a message to a faraway friend too.)",
+    "ru": "(Сообщение, видеозвонок, наконец-то встретились, одиноко, облегчение. Со словами сердца могут оставаться связанными, даже если мы далеко друг от друга. Завтра я тоже отправлю сообщение далёкому другу.)",
+    "zh": "（消息、视频通话、终于见到、寂寞、放心。有了语言，即使相隔遥远，心也能连在一起。明天，我也要给远方的朋友发条消息。）",
+    "ja": "（メッセージ、ビデオ通話、やっと会えた、寂しい、安心。言葉があれば、遠く離れていても、心は、つながっていられる。あしたは、私も、遠くの友達に、メッセージを送ってみよう。）",
+    "romaji": "(Messeeji, bideo tsuuwa, yatto aeta, sabishii, anshin. Kotoba ga areba, tooku hanarete ite mo, kokoro wa, tsunagatte irareru. Ashita wa, watashi mo, tooku no tomodachi ni, messeeji o okutte miyou.)"
+  },
+  "vl11.talk_close": {
+    "en": "Good lesson, everyone. Please look forward to the warm rice from the countryside. Then, let's meet again in the classroom.",
+    "ru": "Хороший урок, все. Ждите тёплого риса из деревни. А теперь — до встречи в классе.",
+    "zh": "各位，这节课很棒。请期待乡下的热腾腾的大米。那么，我们教室里再见吧。",
+    "ja": "みなさん、いいレッスンでした。田舎の、あたたかいお米を、楽しみにしていてくださいね。では、また、教室で会いましょう。",
+    "romaji": "Minasan, ii ressun deshita. Inaka no, atatakai okome o, tanoshimi ni shite ite kudasai ne. Dewa, mata, kyoushitsu de aimashou."
+  },
+  "vl11.complete": {
+    "en": "End of Vocabulary Lesson 11.",
+    "ru": "Конец урока лексики 11.",
+    "zh": "词汇课 11 结束。",
+    "ja": "語彙レッスン11、おわり。",
+    "romaji": "Goi ressun juuichi, owari."
+  }
+}

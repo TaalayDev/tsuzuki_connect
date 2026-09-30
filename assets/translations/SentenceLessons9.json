@@ -1,0 +1,702 @@
+{
+  "sl9.title": {
+    "en": "Expressing Feelings: Hoshii, ~ tai, Suki",
+    "ru": "Выражаем чувства: хоси, ~ тай, суки",
+    "zh": "表达心情：想要・想做・喜欢",
+    "ja": "気持ちを伝える：ほしい・〜たい・好き",
+    "romaji": "Kimochi o tsutaeru: hoshii, ~ tai, suki"
+  },
+  "sl9.subtitle": {
+    "en": "What you want, what you'd like to do, what you like",
+    "ru": "Чего вы хотите, что хотели бы сделать, что вам нравится",
+    "zh": "想要的东西、想做的事、喜欢的东西",
+    "ja": "ほしいもの、したいこと、好きなもの",
+    "romaji": "Hoshii mono, shitai koto, suki na mono"
+  },
+  "sl9.description": {
+    "en": "While thinking about Mei's birthday, practice “~ ga hoshii desu,” “~ tai desu,” “~ ga suki desu,” and how to give a reason.",
+    "ru": "Размышляя о дне рождения Мэй, потренируйте «~ га хоси дэс», «~ тай дэс», «~ га суки дэс» и способ называть причину.",
+    "zh": "一边想着小梅的生日，一边练习「〜がほしいです」「〜たいです」「〜が好きです」和说明理由的说法。",
+    "ja": "メイさんの誕生日を考えながら、「〜がほしいです」「〜たいです」「〜が好きです」と、理由の言い方を練習します。",
+    "romaji": "Mei-san no tanjoubi o kangaenagara, '~ ga hoshii desu' '~ tai desu' '~ ga suki desu' to, riyuu no iikata o renshuu shimasu."
+  },
+  "sl9.pattern.1": {
+    "en": "I want X (things)",
+    "ru": "Я хочу X (предметы)",
+    "zh": "我想要X（东西）",
+    "ja": "〜がほしいです",
+    "romaji": "~ ga hoshii desu"
+  },
+  "sl9.pattern.2": {
+    "en": "I want to do X",
+    "ru": "Я хочу сделать X",
+    "zh": "我想做X",
+    "ja": "〜たいです",
+    "romaji": "~ tai desu"
+  },
+  "sl9.pattern.3": {
+    "en": "like / dislike / be good at X",
+    "ru": "нравится / не нравится / хорошо умею X",
+    "zh": "喜欢／讨厌／擅长X",
+    "ja": "〜が好きです・きらいです・上手です",
+    "romaji": "~ ga suki desu, kirai desu, jouzu desu"
+  },
+  "sl9.pattern.4": {
+    "en": "asking preferences and giving reasons",
+    "ru": "вопросы о предпочтениях и указание причины",
+    "zh": "询问喜好与说明理由",
+    "ja": "何が好きですか・〜からです",
+    "romaji": "nani ga suki desu ka, ~ kara desu"
+  },
+  "sl9.setup": {
+    "en": "The café after school. Next week is Mei's birthday. Everyone is thinking about what to give her. Mei has gone to buy drinks.",
+    "ru": "Кафе после уроков. На следующей неделе у Мэй день рождения. Все думают, что ей подарить. Мэй пошла купить напитки.",
+    "zh": "放学后的咖啡店。下周是小梅的生日。大家正在想送她什么礼物。小梅去买饮料了。",
+    "ja": "放課後のカフェ。来週は、メイの誕生日だ。みんなは、何をプレゼントしようか、考えている。メイは、飲みものを買いに行っている。",
+    "romaji": "Houkago no kafe. Raishuu wa, Mei no tanjoubi da. Minna wa, nani o purezento shiyou ka, kangaete iru. Mei wa, nomimono o kai ni itte iru."
+  },
+  "sl9.t_intro": {
+    "en": "Today's theme is your own feelings. Let's try expressing what you want, what you'd like to do, and what you like in Japanese.",
+    "ru": "Тема сегодня — ваши собственные чувства. Давайте попробуем выразить по-японски, чего вы хотите, что хотели бы сделать и что вам нравится.",
+    "zh": "今天的主题是自己的心情。我们试着用日语表达想要的东西、想做的事和喜欢的东西。",
+    "ja": "今日のテーマは、自分の気持ちです。ほしいもの、したいこと、好きなものを、日本語で、伝えてみましょう。",
+    "romaji": "Kyou no teema wa, jibun no kimochi desu. Hoshii mono, shitai koto, suki na mono o, nihongo de, tsutaete mimashou."
+  },
+  "sl9.s1_intro": {
+    "en": "When you “want” a thing, you say “~ ga hoshii desu.” It is used like “watashi wa, atarashii kaban ga hoshii desu.”",
+    "ru": "Когда вы «хотите» предмет, говорят «~ га хоси дэс». Используется так: «ватаси ва, атарасий кабан га хоси дэс».",
+    "zh": "想要某样东西时，说「〜がほしいです」。用法如「私は、新しいかばんがほしいです」。",
+    "ja": "ものが「ほしい」ときは、「〜がほしいです」と言います。「私は、新しいかばんがほしいです」のように使います。",
+    "romaji": "Mono ga 'hoshii' toki wa, '~ ga hoshii desu' to iimasu. 'Watashi wa, atarashii kaban ga hoshii desu' no you ni tsukaimasu."
+  },
+  "sl9.s1_yuki": {
+    "en": "I want warm socks.",
+    "ru": "Я хочу тёплые носки.",
+    "zh": "我想要暖和的袜子。",
+    "ja": "わたしは、あたたかい、くつしたがほしいです。",
+    "romaji": "Watashi wa, atatakai, kutsushita ga hoshii desu."
+  },
+  "sl9.s1_ken": {
+    "en": "I want a new computer.",
+    "ru": "Я хочу новый компьютер.",
+    "zh": "我想要一台新电脑。",
+    "ja": "ぼくは、新しいパソコンがほしいです。",
+    "romaji": "Boku wa, atarashii pasokon ga hoshii desu."
+  },
+  "sl9.s1_break": {
+    "en": "“Hoshii” is an i-adjective. It changes as in “hoshikunai desu” and “hoshikatta desu.” It's the same as the adjectives in Sentence Lesson 7.",
+    "ru": "«Хоси» — i-прилагательное. Оно изменяется так: «хосикунай дэс», «хосикатта дэс». Всё так же, как с прилагательными из урока предложений 7.",
+    "zh": "「ほしい」是い形容词。会像「ほしくないです」「ほしかったです」这样变化。和句型课7里的形容词一样。",
+    "ja": "「ほしい」は、い形容詞です。「ほしくないです」「ほしかったです」のように、変わります。文型レッスン7の、形容詞と、同じですね。",
+    "romaji": "'Hoshii' wa, i-keiyoushi desu. 'Hoshikunai desu' 'hoshikatta desu' no you ni, kawarimasu. Bunkei ressun nana no, keiyoushi to, onaji desu ne."
+  },
+  "sl9.s1_q1": {
+    "en": "Is it “ga,” not “o”?",
+    "ru": "Это «га», а не «о»?",
+    "zh": "是用「が」，而不是「を」吗？",
+    "ja": "「を」ではなく、「が」ですか？",
+    "romaji": "'O' de wa naku, 'ga' desu ka?"
+  },
+  "sl9.s1_a1": {
+    "en": "Yes. For words of feeling or ability, like “hoshii,” “suki,” and “jouzu,” you use “ga.” It is different from the “o” used with action words.",
+    "ru": "Да. Для слов, выражающих чувства или способности, таких как «хоси», «суки» и «дзёдзу», используют «га». Это отличается от «о», которое используют со словами действия.",
+    "zh": "是的。像「ほしい」「好き」「上手」这样表示心情或能力的词，要用「が」。和动作词用的「を」不同。",
+    "ja": "はい。「ほしい」「好き」「上手」のように、気持ちや能力の言葉には、「が」を使います。動きの言葉の「を」とは、ちがいます。",
+    "romaji": "Hai. 'Hoshii' 'suki' 'jouzu' no you ni, kimochi ya nouryoku no kotoba ni wa, 'ga' o tsukaimasu. Ugoki no kotoba no 'o' to wa, chigaimasu."
+  },
+  "sl9.s1_q2": {
+    "en": "Is it the same when someone else wants something?",
+    "ru": "Так же ли, когда чего-то хочет другой человек?",
+    "zh": "别人想要东西时，也一样吗？",
+    "ja": "ほかの人が「ほしい」ときも、同じですか？",
+    "romaji": "'Hoka no hito ga 'hoshii' toki mo, onaji desu ka?"
+  },
+  "sl9.s1_a1b": {
+    "en": "“Hoshii” is normally used for your own feelings. To the other person, you ask “hoshii desu ka.” About other people, you say “hoshii sou desu,” meaning “I hear they want it.”",
+    "ru": "«Хоси» обычно используют для собственных чувств. К собеседнику обращаются «хоси дэс ка». О других людях говорят «хоси сō дэс» — «говорят, что он хочет».",
+    "zh": "「ほしい」通常用于自己的心情。对对方要问「ほしいですか」。谈到别人时，说「ほしいそうです」（听说想要）。",
+    "ja": "「ほしい」は、ふつう、自分の気持ちに使います。相手には、「ほしいですか」と聞きます。ほかの人のことは、「ほしいそうです」と言います。",
+    "romaji": "'Hoshii' wa, futsuu, jibun no kimochi ni tsukaimasu. Aite ni wa, 'hoshii desu ka' to kikimasu. Hoka no hito no koto wa, 'hoshii sou desu' to iimasu."
+  },
+  "sl9.p1_prompt": {
+    "en": "Yuki asked you, “What do you want right now?” You want a new bag. How do you answer?",
+    "ru": "Юки спросила вас: «Чего вы хотите сейчас?» Вы хотите новую сумку. Что вы ответите?",
+    "zh": "由纪问你：“你现在想要什么？”你想要一个新包。你会怎么回答？",
+    "ja": "由紀さんが、あなたに、聞きました。「あなたは、いま、何がほしいですか？」あなたは、新しいかばんが、ほしいです。何と答えますか？",
+    "romaji": "Yuki-san ga, anata ni, kikimashita. 'Anata wa, ima, nani ga hoshii desu ka?' Anata wa, atarashii kaban ga, hoshii desu. Nan to kotaemasu ka?"
+  },
+  "sl9.c1_natural": {
+    "en": "“I want a new bag.”",
+    "ru": "«Я хочу новую сумку».",
+    "zh": "“我想要一个新包。”",
+    "ja": "「新しいかばんが、ほしいです。」",
+    "romaji": "'Atarashii kaban ga, hoshii desu.'"
+  },
+  "sl9.c1_formal": {
+    "en": "“I would be fortunate if I could receive a new bag.”",
+    "ru": "«Я был бы счастлив, если бы мог получить новую сумку».",
+    "zh": "“如果能得到一个新包，将不胜荣幸。”",
+    "ja": "「新しい鞄を、頂戴できれば、幸いに存じます。」",
+    "romaji": "'Atarashii kaban o, choudai dekireba, saiwai ni zonjimasu.'"
+  },
+  "sl9.c1_mistake": {
+    "en": "“I hoshii-masu a new bag.”",
+    "ru": "«Я хоси-мас новую сумку».",
+    "zh": "“我ほしいます一个新包。”（把ます接在了形容词后）",
+    "ja": "「新しいかばんが、ほしいます。」",
+    "romaji": "'Atarashii kaban ga, hoshii masu.'"
+  },
+  "sl9.c1_own": {
+    "en": "“I want a new bag. My current one is old and small.”",
+    "ru": "«Я хочу новую сумку. Моя нынешняя старая и маленькая».",
+    "zh": "“我想要一个新包。现在的又旧又小。”",
+    "ja": "「新しいかばんが、ほしいです。今のは、古くて、小さいです。」",
+    "romaji": "'Atarashii kaban ga, hoshii desu. Ima no wa, furukute, chiisai desu.'"
+  },
+  "sl9.c1_min": {
+    "en": "“Bag... want...”",
+    "ru": "«Сумка… хочу…»",
+    "zh": "“包……想要……”",
+    "ja": "「かばん…ほしい…」",
+    "romaji": "'Kaban... hoshii...'"
+  },
+  "sl9.p1_nat_yuki": {
+    "en": "Nice. What kind of bag would you like?",
+    "ru": "Отлично. Какая сумка вам нужна?",
+    "zh": "不错。想要什么样的包？",
+    "ja": "いいですね。どんなかばんが、いいですか？",
+    "romaji": "Ii desu ne. Donna kaban ga, ii desu ka?"
+  },
+  "sl9.p1_form_ken": {
+    "en": "Haha, it sounds like you're expecting a present. “Kaban ga, hoshii desu” is fine.",
+    "ru": "Ха-ха, звучит так, будто вы ждёте подарка. Достаточно «кабан га, хоси дэс».",
+    "zh": "哈哈，听起来像是在等着收礼物。说「かばんが、ほしいです」就行。",
+    "ja": "あはは、プレゼントをもらうつもりみたいです。「かばんが、ほしいです」で、いいですよ。",
+    "romaji": "Ahaha, purezento o morau tsumori mitai desu. 'Kaban ga, hoshii desu' de, ii desu yo."
+  },
+  "sl9.p1_mis_tanaka": {
+    "en": "Close. “Hoshii” is an i-adjective. You don't add “masu.” You say “hoshii desu.”",
+    "ru": "Почти. «Хоси» — i-прилагательное. «Мас» не добавляют. Говорят «хоси дэс».",
+    "zh": "很接近。「ほしい」是い形容词。不加「ます」。说「ほしいです」。",
+    "ja": "惜しいです。「ほしい」は、い形容詞です。「ます」は、つけません。「ほしいです」と言います。",
+    "romaji": "Oshii desu. 'Hoshii' wa, i-keiyoushi desu. 'Masu' wa, tsukemasen. 'Hoshii desu' to iimasu."
+  },
+  "sl9.p1_mis_retry": {
+    "en": "Oh, I want a new bag.",
+    "ru": "Ой, я хочу новую сумку.",
+    "zh": "啊，我想要一个新包。",
+    "ja": "あっ、新しいかばんが、ほしいです。",
+    "romaji": "A, atarashii kaban ga, hoshii desu."
+  },
+  "sl9.p1_mis_relief": {
+    "en": "Yes, that's it. Adjectives end with “desu.”",
+    "ru": "Да, именно так. Прилагательные заканчиваются на «дэс».",
+    "zh": "对，就是这个。形容词以「です」结尾。",
+    "ja": "はい、それです。形容詞は、「です」で、終わります。",
+    "romaji": "Hai, sore desu. Keiyoushi wa, 'desu' de, owarimasu."
+  },
+  "sl9.p1_own_yuki": {
+    "en": "In that case, a bigger bag would be good. Let's look for one together.",
+    "ru": "Тогда лучше сумку побольше. Давайте поищем вместе.",
+    "zh": "那样的话，大一点的包比较好。我们一起找吧。",
+    "ja": "それなら、大きいかばんが、いいですね。いっしょに、さがしましょう。",
+    "romaji": "Sore nara, ookii kaban ga, ii desu ne. Issho ni, sagashimashou."
+  },
+  "sl9.p1_min_mei": {
+    "en": "Your feeling comes across. Try a full sentence: “kaban ga, hoshii desu.”",
+    "ru": "Ваше желание понятно. Скажите целым предложением: «кабан га, хоси дэс».",
+    "zh": "你的心意能传达。试着用完整的句子说：「かばんが、ほしいです」。",
+    "ja": "気持ちは、伝わりますよ。「かばんが、ほしいです」と、文で言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu yo. 'Kaban ga, hoshii desu' to, bun de itte mimashou."
+  },
+  "sl9.s2_intro": {
+    "en": "When you say what you'd like to do, use “~ tai desu.” Remove “masu” and add “tai.” “Ikimasu” becomes “ikitai,” and “tabemasu” becomes “tabetai.”",
+    "ru": "Когда говорят о том, что хотят сделать, используют «~ тай дэс». Убирают «мас» и добавляют «тай». «Икимас» превращается в «икитай», «табэмас» — в «табэтай».",
+    "zh": "说想做的事时，用「〜たいです」。去掉「ます」，加上「たい」。「行きます」变成「行きたい」，「食べます」变成「食べたい」。",
+    "ja": "したいことを言うときは、「〜たいです」です。「ます」を取って、「たい」をつけます。「行きます」は「行きたい」、「食べます」は「食べたい」です。",
+    "romaji": "Shitai koto o iu toki wa, '~ tai desu' desu. 'Masu' o totte, 'tai' o tsukemasu. 'Ikimasu' wa 'ikitai', 'tabemasu' wa 'tabetai' desu."
+  },
+  "sl9.s2_ex": {
+    "en": "I want to go to Kyoto. I want to see temples. I want to eat delicious things in Kyoto.",
+    "ru": "Я хочу поехать в Киото. Я хочу посмотреть храмы. Я хочу поесть в Киото что-нибудь вкусное.",
+    "zh": "我想去京都。想看寺庙。想在京都吃好吃的东西。",
+    "ja": "私は、京都に、行きたいです。お寺を、見たいです。京都で、おいしいものを、食べたいです。",
+    "romaji": "Watashi wa, Kyouto ni, ikitai desu. Otera o, mitai desu. Kyouto de, oishii mono o, tabetai desu."
+  },
+  "sl9.s2_neg": {
+    "en": "“~ tai” also changes just like an i-adjective. You say “ikitakunai desu” and “ikitakatta desu.”",
+    "ru": "«~ тай» тоже изменяется так же, как i-прилагательное. Говорят «икитакунай дэс» и «икитакатта дэс».",
+    "zh": "「〜たい」的变化方式也和い形容词一样。说「行きたくないです」「行きたかったです」。",
+    "ja": "「〜たい」も、い形容詞と、同じ変わり方をします。「行きたくないです」「行きたかったです」と言います。",
+    "romaji": "'~ tai' mo, i-keiyoushi to, onaji kawarikata o shimasu. 'Ikitakunai desu' 'ikitakatta desu' to iimasu."
+  },
+  "sl9.s2_q1": {
+    "en": "Are both “koohii ga nomitai” and “koohii o nomitai” fine?",
+    "ru": "Правильны ли оба варианта: «кохи га номитай» и «кохи о номитай»?",
+    "zh": "「コーヒーが飲みたい」和「コーヒーを飲みたい」，两种说法都可以吗？",
+    "ja": "「コーヒーが飲みたい」と、「コーヒーを飲みたい」は、どちらも、いいですか？",
+    "romaji": "'Koohii ga nomitai' to, 'koohii o nomitai' wa, dochira mo, ii desu ka?"
+  },
+  "sl9.s2_a1": {
+    "en": "Yes, both can be used. “Ga” makes the feeling of wanting a little stronger.",
+    "ru": "Да, можно использовать оба. С «га» желание звучит немного сильнее.",
+    "zh": "可以，两种都能用。用「が」，想要的心情会稍微强烈一些。",
+    "ja": "はい、どちらも使えます。「が」のほうが、ほしい気持ちが、少し強くなります。",
+    "romaji": "Hai, dochira mo tsukaemasu. 'Ga' no hou ga, hoshii kimochi ga, sukoshi tsuyoku narimasu."
+  },
+  "sl9.s2_q2": {
+    "en": "Is it okay to ask a teacher “~ tai desu ka”?",
+    "ru": "Можно ли спрашивать учителя «~ тай дэс ка»?",
+    "zh": "可以向老师问「〜たいですか」吗？",
+    "ja": "先生にも、「〜たいですか」と聞いていいですか？",
+    "romaji": "'Sensei ni mo, '~ tai desu ka' to kiite ii desu ka?"
+  },
+  "sl9.s2_a2": {
+    "en": "To someone senior, “~ tai desu ka” is a bit direct. Instead, use “~ masu ka” or “~ masen ka.” We will study “masen ka” in a later class.",
+    "ru": "Старшим по положению «~ тай дэс ка» звучит немного прямолинейно. Вместо этого используют «~ мас ка» или «~ масэн ка». «Масэн ка» мы изучим на одном из следующих уроков.",
+    "zh": "对长辈来说，「〜たいですか」有点直接。可以改用「〜ますか」或「〜ませんか」。「ませんか」以后的课再学。",
+    "ja": "目上の人には、「〜たいですか」は、少しストレートです。かわりに、「〜ますか」や、「〜ませんか」を使います。「ませんか」は、あとの授業で勉強しますよ。",
+    "romaji": "Meue no hito ni wa, '~ tai desu ka' wa, sukoshi sutoreeto desu. Kawari ni, '~ masu ka' ya, '~ masen ka' o tsukaimasu. 'Masen ka' wa, ato no jugyou de benkyou shimasu yo."
+  },
+  "sl9.s2_mei": {
+    "en": "I'm back! I bought drinks. Where do you want to go tomorrow?",
+    "ru": "Я вернулась! Купила напитки. Куда вы хотите пойти завтра?",
+    "zh": "我回来了！饮料买回来了。明天你想去哪里？",
+    "ja": "ただいま！飲みものを、買ってきました。あしたは、どこに行きたいですか？",
+    "romaji": "Tadaima! Nomimono o, katte kimashita. Ashita wa, doko ni ikitai desu ka?"
+  },
+  "sl9.p2_prompt": {
+    "en": "Mei asked. You want to go to Kyoto. How do you answer?",
+    "ru": "Мэй спросила. Вы хотите поехать в Киото. Что вы ответите?",
+    "zh": "小梅问了。你想去京都。你会怎么回答？",
+    "ja": "メイさんが、聞きました。あなたは、京都に行きたいです。何と答えますか？",
+    "romaji": "Mei-san ga, kikimashita. Anata wa, Kyouto ni ikitai desu. Nan to kotaemasu ka?"
+  },
+  "sl9.c2_natural": {
+    "en": "“I want to go to Kyoto.”",
+    "ru": "«Я хочу поехать в Киото».",
+    "zh": "“我想去京都。”",
+    "ja": "「京都に、行きたいです。」",
+    "romaji": "'Kyouto ni, ikitai desu.'"
+  },
+  "sl9.c2_formal": {
+    "en": "“I humbly wish to go to Kyoto.”",
+    "ru": "«Я почтительно желаю отправиться в Киото».",
+    "zh": "“我想前往京都。”",
+    "ja": "「京都へ、参りたく存じます。」",
+    "romaji": "'Kyouto e, mairitaku zonjimasu.'"
+  },
+  "sl9.c2_mistake": {
+    "en": "“I ikimasu-tai to Kyoto.”",
+    "ru": "«Я икимас-тай в Киото».",
+    "zh": "“我行きますたい京都。”（把ます留在了たい前）",
+    "ja": "「京都に、行きますたいです。」",
+    "romaji": "'Kyouto ni, ikimasu tai desu.'"
+  },
+  "sl9.c2_own": {
+    "en": "“I want to go to Kyoto. I want to see temples.”",
+    "ru": "«Я хочу поехать в Киото. Я хочу посмотреть храмы».",
+    "zh": "“我想去京都。想看寺庙。”",
+    "ja": "「京都に、行きたいです。お寺を、見たいです。」",
+    "romaji": "'Kyouto ni, ikitai desu. Otera o, mitai desu.'"
+  },
+  "sl9.c2_min": {
+    "en": "“Kyoto... want to go...”",
+    "ru": "«Киото… хочу поехать…»",
+    "zh": "“京都……想去……”",
+    "ja": "「京都…行きたい…」",
+    "romaji": "'Kyouto... ikitai...'"
+  },
+  "sl9.p2_nat_mei": {
+    "en": "Nice! I want to go too. Let's all go together someday.",
+    "ru": "Здорово! Я тоже хочу. Давайте когда-нибудь поедем все вместе.",
+    "zh": "不错！我也想去。总有一天，我们大家一起去吧。",
+    "ja": "いいですね！わたしも、行きたいです。いつか、みんなで、行きましょう。",
+    "romaji": "Ii desu ne! Watashi mo, ikitai desu. Itsuka, minna de, ikimashou."
+  },
+  "sl9.p2_form_yuki": {
+    "en": "Ha, you sound like a travel teacher. “Kyouto ni, ikitai desu” is fine.",
+    "ru": "Ха-ха, как учитель путешествий. Достаточно «Кё:то ни, икитай дэс».",
+    "zh": "呵呵，像旅行老师一样。说「京都に、行きたいです」就行。",
+    "ja": "ふふ、旅の先生みたいです。「京都に、行きたいです」で、大丈夫ですよ。",
+    "romaji": "Fufu, tabi no sensei mitai desu. 'Kyouto ni, ikitai desu' de, daijoubu desu yo."
+  },
+  "sl9.p2_mis_ken": {
+    "en": "Close. Remove the “masu” from “ikimasu” and add “tai” to “iki.” It's “ikitai desu.”",
+    "ru": "Почти. Уберите «мас» из «икимас» и добавьте «тай» к «ики». Получится «икитай дэс».",
+    "zh": "很接近。去掉「行きます」里的「ます」，在「行き」后面加上「たい」。说「行きたいです」。",
+    "ja": "惜しいです。「行きます」の「ます」を取って、「行き」に「たい」をつけます。「行きたいです」です。",
+    "romaji": "Oshii desu. 'Ikimasu' no 'masu' o totte, 'iki' ni 'tai' o tsukemasu. 'Ikitai desu' desu."
+  },
+  "sl9.p2_mis_retry": {
+    "en": "Oh, I want to go to Kyoto.",
+    "ru": "Ой, я хочу поехать в Киото.",
+    "zh": "啊，我想去京都。",
+    "ja": "あっ、京都に、行きたいです。",
+    "romaji": "A, Kyouto ni, ikitai desu."
+  },
+  "sl9.p2_mis_relief": {
+    "en": "Yes, that's it! Once you remove “masu,” it fits perfectly.",
+    "ru": "Да, именно так! Если убрать «мас», всё подходит.",
+    "zh": "对，就是这个！去掉「ます」就正合适了。",
+    "ja": "はい、それです！「ます」を取ると、ぴったりです。",
+    "romaji": "Hai, sore desu! 'Masu' o toru to, pittari desu."
+  },
+  "sl9.p2_own_mei": {
+    "en": "So you like temples. There are many famous temples in Kyoto.",
+    "ru": "Значит, вам нравятся храмы. В Киото много знаменитых храмов.",
+    "zh": "你喜欢寺庙啊。京都有很多有名的寺庙哦。",
+    "ja": "お寺が、好きなんですね。京都には、有名なお寺が、たくさんありますよ。",
+    "romaji": "Otera ga, suki nan desu ne. Kyouto ni wa, yuumei na otera ga, takusan arimasu yo."
+  },
+  "sl9.p2_min_tanaka": {
+    "en": "I understand. Next time, try a full sentence: “Kyouto ni, ikitai desu.”",
+    "ru": "Понимаю. В следующий раз скажите целое предложение: «Кё:то ни, икитай дэс».",
+    "zh": "我明白。下次试着说完整的句子：「京都に、行きたいです」。",
+    "ja": "分かりますよ。次は、「京都に、行きたいです」と、文で言ってみましょう。",
+    "romaji": "Wakarimasu yo. Tsugi wa, 'Kyouto ni, ikitai desu' to, bun de itte mimashou."
+  },
+  "sl9.s3_intro": {
+    "en": "Next is “suki.” When you say what you like, use “~ ga suki desu.” “~ ga kirai desu,” “~ ga jouzu desu,” and “~ ga heta desu” have the same form.",
+    "ru": "Дальше — «суки». Когда говорят, что нравится, используют «~ га суки дэс». Формы «~ га кираи дэс», «~ га дзёдзу дэс» и «~ га хэта дэс» устроены так же.",
+    "zh": "接下来是「好き」。说喜欢的东西时，用「〜が好きです」。「〜がきらいです」「〜が上手です」「〜が下手です」也是同样的形式。",
+    "ja": "次は、「好き」です。好きなものを言うときは、「〜が好きです」です。「〜がきらいです」「〜が上手です」「〜が下手です」も、同じ形です。",
+    "romaji": "Tsugi wa, 'suki' desu. Suki na mono o iu toki wa, '~ ga suki desu' desu. '~ ga kirai desu' '~ ga jouzu desu' '~ ga heta desu' mo, onaji katachi desu."
+  },
+  "sl9.s3_ex": {
+    "en": "I like music. Ken is good at cooking. Mei is bad at sports.",
+    "ru": "Я люблю музыку. Кен хорошо готовит. Мэй плохо занимается спортом.",
+    "zh": "我喜欢音乐。健擅长做菜。小梅不擅长运动。",
+    "ja": "私は、音楽が好きです。ケンさんは、料理が上手です。メイさんは、運動が下手です。",
+    "romaji": "Watashi wa, ongaku ga suki desu. Ken-san wa, ryouri ga jouzu desu. Mei-san wa, undou ga heta desu."
+  },
+  "sl9.s3_na": {
+    "en": "“Suki,” “kirai,” “jouzu,” and “heta” are na-adjectives. So the negative is “suki ja arimasen.” You don't say “sukikunai desu.”",
+    "ru": "«Суки», «кираи», «дзёдзу» и «хэта» — na-прилагательные. Поэтому отрицание — «суки дзя аримасэн». «Сукикунай дэс» не говорят.",
+    "zh": "「好き」「きらい」「上手」「下手」是な形容词。因此否定是「好きじゃありません」。不说「好きくないです」。",
+    "ja": "「好き」「きらい」「上手」「下手」は、な形容詞です。ですから、否定は、「好きじゃありません」です。「好きくないです」とは、言いません。",
+    "romaji": "'Suki' 'kirai' 'jouzu' 'heta' wa, na-keiyoushi desu. Desu kara, hitei wa, 'suki ja arimasen' desu. 'Sukikunai desu' to wa, iimasen."
+  },
+  "sl9.s3_q1": {
+    "en": "What is “daisuki”?",
+    "ru": "Что такое «дайсуки»?",
+    "zh": "「大好き」是什么？",
+    "ja": "「大好き」は、何ですか？",
+    "romaji": "'Daisuki' wa, nan desu ka?"
+  },
+  "sl9.s3_a1": {
+    "en": "“Daisuki” means to like very much. “Daikirai” means to dislike very much. “Amari suki ja arimasen” is a softer way of saying you don't like something.",
+    "ru": "«Дайсуки» означает «очень нравится». «Дайкираи» — «очень не нравится». «Амари суки дзя аримасэн» — более мягкая форма.",
+    "zh": "「大好き」是非常喜欢的意思。「大きらい」是非常讨厌的意思。「あまり好きじゃありません」是比较委婉的说法。",
+    "ja": "「大好き」は、とても好き、という意味です。「大きらい」は、とてもきらい、という意味です。「あまり好きじゃありません」は、やわらかい言い方です。",
+    "romaji": "'Daisuki' wa, totemo suki, to iu imi desu. 'Daikirai' wa, totemo kirai, to iu imi desu. 'Amari suki ja arimasen' wa, yawarakai iikata desu."
+  },
+  "sl9.s3_q2": {
+    "en": "Is it okay to say “jouzu desu” about yourself?",
+    "ru": "Можно ли говорить о себе «дзёдзу дэс»?",
+    "zh": "可以说自己「上手です」吗？",
+    "ja": "自分のことを、「上手です」と言ってもいいですか？",
+    "romaji": "'Jibun no koto o, 'jouzu desu' to itte mo ii desu ka?"
+  },
+  "sl9.s3_a2": {
+    "en": "You rarely do. As we learned in Vocabulary Lesson 4, saying modestly “madamada desu” is more typical of Japanese.",
+    "ru": "Так говорят редко. Как мы узнали на уроке лексики 4, для японского характерно скромно говорить «мадамада дэс».",
+    "zh": "一般不这样说。就像词汇课4学过的，谦虚地说「まだまだです」更有日语的风格。",
+    "ja": "あまり言いません。文型レッスンではありませんが、語彙レッスン4で勉強したように、「まだまだです」と、控えめに言うのが、日本語らしいです。",
+    "romaji": "Amari iimasen. Bunkei ressun de wa arimasen ga, goi ressun yon de benkyou shita you ni, 'madamada desu' to, hikaeme ni iu no ga, nihongo rashii desu."
+  },
+  "sl9.s3_natto": {
+    "en": "Do you like natto?",
+    "ru": "Вам нравится натто?",
+    "zh": "你喜欢纳豆吗？",
+    "ja": "納豆は、好きですか？",
+    "romaji": "Nattou wa, suki desu ka?"
+  },
+  "sl9.p3_prompt": {
+    "en": "Yuki asked. You don't really like natto. How do you answer?",
+    "ru": "Юки спросила. Вы не очень любите натто. Что вы ответите?",
+    "zh": "由纪问了。你不太喜欢纳豆。你会怎么回答？",
+    "ja": "由紀さんが、聞きました。あなたは、納豆が、あまり好きではありません。何と答えますか？",
+    "romaji": "Yuki-san ga, kikimashita. Anata wa, nattou ga, amari suki de wa arimasen. Nan to kotaemasu ka?"
+  },
+  "sl9.c3_natural": {
+    "en": "“No, I don't like it very much.”",
+    "ru": "«Нет, я не очень его люблю».",
+    "zh": "“不，不太喜欢。”",
+    "ja": "「いいえ、あまり、好きじゃありません。」",
+    "romaji": "'Iie, amari, suki ja arimasen.'"
+  },
+  "sl9.c3_formal": {
+    "en": "“No, unfortunately, it is not my forte.”",
+    "ru": "«Нет, к сожалению, это не моя сильная сторона».",
+    "zh": "“不，很遗憾，这不是我的强项。”",
+    "ja": "「いえ、あいにく、得意ではございません。」",
+    "romaji": "'Ie, ainiku, tokui de wa gozaimasen.'"
+  },
+  "sl9.c3_mistake": {
+    "en": "“No, it's not likable. (with kunai)”",
+    "ru": "«Нет, не любимый (с кунай)».",
+    "zh": "“不，好きくないです。”（把い形容词的くない用在了な形容词上）",
+    "ja": "「いいえ、好きくないです。」",
+    "romaji": "'Iie, sukikunai desu.'"
+  },
+  "sl9.c3_own": {
+    "en": "“No, I don't like it very much. But I love sushi.”",
+    "ru": "«Нет, не очень люблю. Но я обожаю суши».",
+    "zh": "“不，不太喜欢。不过我最喜欢寿司。”",
+    "ja": "「いいえ、あまり、好きじゃありません。でも、お寿司が、大好きです。」",
+    "romaji": "'Iie, amari, suki ja arimasen. Demo, osushi ga, daisuki desu.'"
+  },
+  "sl9.c3_min": {
+    "en": "“No... like... not...”",
+    "ru": "«Нет… нравится… не…»",
+    "zh": "“不……喜欢……不……”",
+    "ja": "「いいえ…好き…ない…」",
+    "romaji": "'Iie... suki... nai...'"
+  },
+  "sl9.p3_nat_yuki": {
+    "en": "I see. Many Japanese people don't like it either.",
+    "ru": "Понятно. Многим японцам оно тоже не нравится.",
+    "zh": "这样啊。很多日本人也不喜欢呢。",
+    "ja": "そうですか。日本人にも、きらいな人が、たくさんいますよ。",
+    "romaji": "Sou desu ka. Nihonjin ni mo, kirai na hito ga, takusan imasu yo."
+  },
+  "sl9.p3_form_mei": {
+    "en": "Ha, that's a difficult phrase. “Amari suki ja arimasen” is fine.",
+    "ru": "Ха-ха, какое сложное слово. Достаточно «амари суки дзя аримасэн».",
+    "zh": "呵呵，这个词好难。说「あまり好きじゃありません」就行。",
+    "ja": "ふふ、むずかしい言葉ですね。「あまり好きじゃありません」で、いいですよ。",
+    "romaji": "Fufu, muzukashii kotoba desu ne. 'Amari suki ja arimasen' de, ii desu yo."
+  },
+  "sl9.p3_mis_ken": {
+    "en": "Close. “Suki” is a na-adjective. “Kunai” is the form for i-adjectives. You say “suki ja arimasen.”",
+    "ru": "Почти. «Суки» — na-прилагательное. «Кунай» — форма i-прилагательных. Говорят «суки дзя аримасэн».",
+    "zh": "很接近。「好き」是な形容词。「くない」是い形容词的形式。说「好きじゃありません」。",
+    "ja": "惜しいです。「好き」は、な形容詞です。「くない」は、い形容詞の形です。「好きじゃありません」と言います。",
+    "romaji": "Oshii desu. 'Suki' wa, na-keiyoushi desu. 'Kunai' wa, i-keiyoushi no katachi desu. 'Suki ja arimasen' to iimasu."
+  },
+  "sl9.p3_mis_retry": {
+    "en": "Oh, no, I don't like it very much.",
+    "ru": "Ой, нет, я не очень его люблю.",
+    "zh": "啊，不，不太喜欢。",
+    "ja": "あっ、いいえ、あまり、好きじゃありません。",
+    "romaji": "A, iie, amari, suki ja arimasen."
+  },
+  "sl9.p3_mis_relief": {
+    "en": "Yes, that's it! A review of Sentence Lesson 7.",
+    "ru": "Да, именно так! Повторение урока предложений 7.",
+    "zh": "对，就是这个！这是句型课7的复习。",
+    "ja": "はい、それです！文型レッスン7の、復習ですね。",
+    "romaji": "Hai, sore desu! Bunkei ressun nana no, fukushuu desu ne."
+  },
+  "sl9.p3_own_yuki": {
+    "en": "Sushi is great. I love it too. Let's eat it together next time.",
+    "ru": "Суши — это здорово. Я тоже их обожаю. В следующий раз поедим вместе.",
+    "zh": "寿司不错。我也最喜欢了。下次一起吃吧。",
+    "ja": "お寿司は、いいですね。わたしも、大好きです。今度、いっしょに、食べましょう。",
+    "romaji": "Osushi wa, ii desu ne. Watashi mo, daisuki desu. Kondo, issho ni, tabemashou."
+  },
+  "sl9.p3_min_tanaka": {
+    "en": "Your feeling comes across. Try saying “amari suki ja arimasen.”",
+    "ru": "Ваше чувство понятно. Попробуйте сказать «амари суки дзя аримасэн».",
+    "zh": "你的心意能传达。试着说「あまり好きじゃありません」。",
+    "ja": "気持ちは、伝わりますよ。「あまり好きじゃありません」と、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu yo. 'Amari suki ja arimasen' to, itte mimashou."
+  },
+  "sl9.s4_intro": {
+    "en": "The last is the form for asking about preferences and giving a reason. You ask “nani ga suki desu ka” or “donna ongaku ga suki desu ka.” You give the reason with “~ kara.”",
+    "ru": "Последнее — форма для вопроса о предпочтениях и указания причины. Спрашивают «нани га суки дэс ка» или «донна онгаку га суки дэс ка». Причину называют с помощью «~ кара».",
+    "zh": "最后是询问喜好并说明理由的句型。问「何が好きですか」「どんな音楽が好きですか」。理由用「〜から」来说。",
+    "ja": "最後は、好みを聞いて、理由を言う形です。「何が好きですか」「どんな音楽が好きですか」と聞きます。理由は、「〜から」で言います。",
+    "romaji": "Saigo wa, konomi o kiite, riyuu o iu katachi desu. 'Nani ga suki desu ka' 'donna ongaku ga suki desu ka' to kikimasu. Riyuu wa, '~ kara' de iimasu."
+  },
+  "sl9.s4_ex": {
+    "en": "Why do you want to go to Kyoto? Because I like temples, I want to go.",
+    "ru": "Почему вы хотите поехать в Киото? Потому что мне нравятся храмы, я хочу поехать.",
+    "zh": "为什么想去京都？因为喜欢寺庙，所以想去。",
+    "ja": "どうして、京都に行きたいですか？お寺が好きですから、行きたいです。",
+    "romaji": "Doushite, Kyouto ni ikitai desu ka? Otera ga suki desu kara, ikitai desu."
+  },
+  "sl9.s4_q1": {
+    "en": "Are “doushite” and “naze” the same?",
+    "ru": "«Доситэ» и «нзэ» — это одно и то же?",
+    "zh": "「どうして」和「なぜ」一样吗？",
+    "ja": "「どうして」と「なぜ」は、同じですか？",
+    "romaji": "'Doushite' to 'naze' wa, onaji desu ka?"
+  },
+  "sl9.s4_a1": {
+    "en": "The meaning is the same. “Naze” is a slightly stiffer word. In conversation, “doushite” is used more often.",
+    "ru": "Значение одно и то же. «Нзэ» звучит несколько строже. В разговоре чаще используют «доситэ».",
+    "zh": "意思相同。「なぜ」稍微生硬一些。会话中更常用「どうして」。",
+    "ja": "意味は同じです。「なぜ」は、少しかたい言葉です。会話では、「どうして」が、よく使われます。",
+    "romaji": "Imi wa onaji desu. 'Naze' wa, sukoshi katai kotoba desu. Kaiwa de wa, 'doushite' ga, yoku tsukawaremasu."
+  },
+  "sl9.s4_q2": {
+    "en": "Do you need “desu” before “kara” when giving a reason?",
+    "ru": "Нужно ли «дэс» перед «кара» при указании причины?",
+    "zh": "说理由时，「から」前面需要「です」吗？",
+    "ja": "理由は、「から」の前に、「です」が、必要ですか？",
+    "romaji": "'Riyuu wa, 'kara' no mae ni, 'desu' ga, hitsuyou desu ka?"
+  },
+  "sl9.s4_a2": {
+    "en": "When speaking politely, add “kara” after “desu” or “masu”: “suki desu kara,” “ikimasu kara.” In conversation with friends, “suki da kara” is also used.",
+    "ru": "При вежливой речи «кара» добавляют после «дэс» или «мас»: «суки дэс кара», «икимас кара». В разговоре с друзьями используют и «суки да кара».",
+    "zh": "礼貌地说话时，在「です」「ます」后面加「から」：「好きですから」「行きますから」。和朋友聊天时，也用「好きだから」。",
+    "ja": "ていねいに話すときは、「です」「ます」の後ろに、「から」をつけます。「好きですから」「行きますから」です。友達との会話では、「好きだから」も、使います。",
+    "romaji": "Teinei ni hanasu toki wa, 'desu' 'masu' no ushiro ni, 'kara' o tsukemasu. 'Suki desu kara' 'ikimasu kara' desu. Tomodachi to no kaiwa de wa, 'suki da kara' mo, tsukaimasu."
+  },
+  "sl9.ask_like": {
+    "en": "Ken, what do you like?",
+    "ru": "Кен, что вам нравится?",
+    "zh": "健，你喜欢什么？",
+    "ja": "ケンさんは、何が好きですか？",
+    "romaji": "Ken-san wa, nani ga suki desu ka?"
+  },
+  "sl9.p4_prompt": {
+    "en": "Mei asked you, “Why do you want to go to Kyoto?” You like temples. How do you answer?",
+    "ru": "Мэй спросила вас: «Почему вы хотите поехать в Киото?» Вам нравятся храмы. Что вы ответите?",
+    "zh": "小梅问你：“为什么想去京都？”你喜欢寺庙。你会怎么回答？",
+    "ja": "メイさんが、あなたに、聞きました。「どうして、京都に行きたいですか？」あなたは、お寺が好きです。何と答えますか？",
+    "romaji": "Mei-san ga, anata ni, kikimashita. 'Doushite, Kyouto ni ikitai desu ka?' Anata wa, otera ga suki desu. Nan to kotaemasu ka?"
+  },
+  "sl9.c4_natural": {
+    "en": "“Because I like temples.”",
+    "ru": "«Потому что мне нравятся храмы».",
+    "zh": "“因为我喜欢寺庙。”",
+    "ja": "「お寺が、好きですから。」",
+    "romaji": "'Otera ga, suki desu kara.'"
+  },
+  "sl9.c4_formal": {
+    "en": "“It is owing to my deep interest in ancient temples, I believe.”",
+    "ru": "«Я полагаю, причина в моём глубоком интересе к древним храмам».",
+    "zh": "“是因为我对古刹怀有深厚的兴趣。”",
+    "ja": "「古刹に、深い関心を、抱いておりますゆえに、存じます。」",
+    "romaji": "'Kosatsu ni, fukai kanshin o, idaite orimasu yue ni, zonjimasu.'"
+  },
+  "sl9.c4_mistake": {
+    "en": "“What (o) do you like?”",
+    "ru": "«Что (о) вам нравится?»",
+    "zh": "“你喜欢什么（を）？”（想反问对方，却误用了を）",
+    "ja": "「何を好きですか？」",
+    "romaji": "'Nani o suki desu ka?'"
+  },
+  "sl9.c4_own": {
+    "en": "“Because I like temples. They're quiet and beautiful.”",
+    "ru": "«Потому что мне нравятся храмы. Они тихие и красивые».",
+    "zh": "“因为我喜欢寺庙。又安静又漂亮。”",
+    "ja": "「お寺が、好きですから。しずかで、きれいですから。」",
+    "romaji": "'Otera ga, suki desu kara. Shizuka de, kirei desu kara.'"
+  },
+  "sl9.c4_min": {
+    "en": "“Temples... like... because...”",
+    "ru": "«Храмы… нравятся… потому что…»",
+    "zh": "“寺庙……喜欢……因为……”",
+    "ja": "「お寺…好き…から…」",
+    "romaji": "'Otera... suki... kara...'"
+  },
+  "sl9.p4_nat_mei": {
+    "en": "I see. I like the delicious sweets in Kyoto.",
+    "ru": "Понятно. А мне нравятся вкусные сладости Киото.",
+    "zh": "原来如此。我喜欢京都好吃的点心。",
+    "ja": "なるほど。わたしは、京都の、おいしいお菓子が、好きです。",
+    "romaji": "Naruhodo. Watashi wa, Kyouto no, oishii okashi ga, suki desu."
+  },
+  "sl9.p4_form_ken": {
+    "en": "Haha, I don't understand what that means. “Otera ga suki desu kara” is fine.",
+    "ru": "Ха-ха, я не понимаю, что это значит. Достаточно «отэра га суки дэс кара».",
+    "zh": "哈哈，我听不懂是什么意思。说「お寺が好きですから」就行。",
+    "ja": "あはは、ぼくは、意味が分かりません。「お寺が好きですから」で、いいですよ。",
+    "romaji": "Ahaha, boku wa, imi ga wakarimasen. 'Otera ga suki desu kara' de, ii desu yo."
+  },
+  "sl9.p4_mis_tanaka": {
+    "en": "Close. First, let's answer what was asked. “Doushite” asks for a reason. You answer with “~ kara.” And before “suki,” it is “ga,” not “o.”",
+    "ru": "Почти. Сначала ответим на заданный вопрос. «Доситэ» спрашивает о причине. Отвечают с помощью «~ кара». И перед «суки» стоит «га», а не «о».",
+    "zh": "很接近。首先要回答被问到的问题。「どうして」问的是理由，要用「〜から」回答。另外，「好き」前面要用「が」，而不是「を」。",
+    "ja": "惜しいです。まず、聞かれたことに、答えましょう。「どうして」は、理由を聞きます。「〜から」で答えます。そして、「好き」の前は、「を」ではなく、「が」です。",
+    "romaji": "Oshii desu. Mazu, kikareta koto ni, kotaemashou. 'Doushite' wa, riyuu o kikimasu. '~ kara' de kotaemasu. Soshite, 'suki' no mae wa, 'o' de wa naku, 'ga' desu."
+  },
+  "sl9.p4_mis_retry": {
+    "en": "Oh, because I like temples.",
+    "ru": "Ой, потому что мне нравятся храмы.",
+    "zh": "啊，因为我喜欢寺庙。",
+    "ja": "あっ、お寺が、好きですから。",
+    "romaji": "A, otera ga, suki desu kara."
+  },
+  "sl9.p4_mis_relief": {
+    "en": "Yes, that's it. The reason came across clearly.",
+    "ru": "Да, именно так. Причина передана чётко.",
+    "zh": "对，就是这个。理由很清楚地传达了。",
+    "ja": "はい、それです。理由が、はっきり伝わりました。",
+    "romaji": "Hai, sore desu. Riyuu ga, hakkiri tsutawarimashita."
+  },
+  "sl9.p4_own_mei": {
+    "en": "Nice. I'd like to relax at a quiet temple too.",
+    "ru": "Здорово. Я бы тоже хотела отдохнуть в тихом храме.",
+    "zh": "不错。我也想在安静的寺庙里悠闲地待一会儿。",
+    "ja": "いいですね。しずかなお寺で、ゆっくり、したいですね。",
+    "romaji": "Ii desu ne. Shizuka na otera de, yukkuri, shitai desu ne."
+  },
+  "sl9.p4_min_yuki": {
+    "en": "I understand what you want to say. Try connecting it: “otera ga suki desu kara.”",
+    "ru": "Я понимаю, что вы хотите сказать. Скажите слитно: «отэра га суки дэс кара».",
+    "zh": "我明白你想说什么。试着连起来说：「お寺が好きですから」。",
+    "ja": "言いたいことは、分かります。「お寺が好きですから」と、つなげて、言ってみましょう。",
+    "romaji": "Iitai koto wa, wakarimasu. 'Otera ga suki desu kara' to, tsunagete, itte mimashou."
+  },
+  "sl9.talk_open": {
+    "en": "Now let's talk. What do you most want to give Mei for her birthday? Let's use today's forms.",
+    "ru": "Теперь поговорим. Что вы больше всего хотите подарить Мэй на день рождения? Давайте используем сегодняшние формы.",
+    "zh": "现在来聊聊。你最想送小梅什么生日礼物？让我们用上今天学的句型。",
+    "ja": "では、話しましょう。メイさんの誕生日に、いちばん、あげたいものは、何ですか？今日の形を、使ってみましょう。",
+    "romaji": "Dewa, hanashimashou. Mei-san no tanjoubi ni, ichiban, agetai mono wa, nan desu ka? Kyou no katachi o, tsukatte mimashou."
+  },
+  "sl9.talk_ken": {
+    "en": "I want to give her a warm scarf. Because Mei feels the cold easily.",
+    "ru": "Я хочу подарить ей тёплый шарф. Потому что Мэй мёрзлячка.",
+    "zh": "我想送她一条暖和的围巾。因为小梅怕冷。",
+    "ja": "ぼくは、あたたかいマフラーを、あげたいです。メイさんは、さむがりですから。",
+    "romaji": "Boku wa, atatakai mafuraa o, agetai desu. Mei-san wa, samugari desu kara."
+  },
+  "sl9.talk_yuki": {
+    "en": "I want to give her a book. Because Mei likes books.",
+    "ru": "Я хочу подарить ей книгу. Потому что Мэй любит книги.",
+    "zh": "我想送她一本书。因为小梅喜欢书。",
+    "ja": "わたしは、本を、あげたいです。メイさんは、本が好きですから。",
+    "romaji": "Watashi wa, hon o, agetai desu. Mei-san wa, hon ga suki desu kara."
+  },
+  "sl9.talk_mei": {
+    "en": "Thank you, everyone. I want to go to Kyoto together with all of you. That would be the best present.",
+    "ru": "Спасибо всем. Я хочу поехать в Киото вместе со всеми вами. Это был бы лучший подарок.",
+    "zh": "谢谢大家。我想和大家一起去京都。那就是最好的礼物。",
+    "ja": "みなさん、ありがとうございます。わたしは、みんなと、いっしょに、京都に行きたいです。それが、いちばんの、プレゼントです。",
+    "romaji": "Minasan, arigatou gozaimasu. Watashi wa, minna to, issho ni, Kyouto ni ikitai desu. Sore ga, ichiban no, purezento desu."
+  },
+  "sl9.talk_tanaka": {
+    "en": "Lovely. The feeling of “~ tai” brings people closer together. In the next class, let's practice inviting people with “~ masen ka” and “~ mashou.”",
+    "ru": "Прекрасно. Чувство «~ тай» сближает людей. На следующем уроке потренируем приглашения с «~ масэн ка» и «~ масё».",
+    "zh": "真好。「〜たい」的心情会拉近人与人之间的距离。下节课，我们用「〜ませんか」「〜ましょう」来练习邀请别人。",
+    "ja": "すてきですね。「〜たい」の気持ちは、人と人を、近くします。次の授業では、「〜ませんか」「〜ましょう」で、さそう練習をしましょう。",
+    "romaji": "Suteki desu ne. '~ tai' no kimochi wa, hito to hito o, chikaku shimasu. Tsugi no jugyou de wa, '~ masen ka' '~ mashou' de, sasou renshuu o shimashou."
+  },
+  "sl9.talk_player": {
+    "en": "(Hoshii, tai, suki. When I put my own feelings into words, I also want to hear my friends' feelings. On Mei's birthday, I'll talk more about Kyoto.)",
+    "ru": "(Хоси, тай, суки. Когда выражаешь свои чувства словами, хочется слушать и чувства друзей. На дне рождения Мэй я поговорю о Киото побольше.)",
+    "zh": "（想要、想做、喜欢。把自己的心情说成话，就也想听听朋友的心情。小梅生日那天，我要多聊聊京都。）",
+    "ja": "（ほしい、たい、好き。自分の気持ちを言葉にすると、友達の気持ちも、聞きたくなる。メイさんの誕生日に、京都の話を、もっとしてみよう。）",
+    "romaji": "(Hoshii, tai, suki. Jibun no kimochi o kotoba ni suru to, tomodachi no kimochi mo, kikitaku naru. Mei-san no tanjoubi ni, Kyouto no hanashi o, motto shite miyou.)"
+  },
+  "sl9.talk_close": {
+    "en": "Good lesson, everyone. Tomorrow, too, please try saying your own “hoshii,” “tai,” and “suki” in Japanese.",
+    "ru": "Хороший урок, все. И завтра попробуйте сказать по-японски о своих «хоси», «тай» и «суки».",
+    "zh": "各位，这节课很棒。明天也请试着用日语说说自己的「ほしい」「たい」「好き」。",
+    "ja": "みなさん、いいレッスンでした。あしたも、自分の「ほしい」「たい」「好き」を、日本語で言ってみてください。",
+    "romaji": "Minasan, ii ressun deshita. Ashita mo, jibun no 'hoshii' 'tai' 'suki' o, nihongo de itte mite kudasai."
+  },
+  "sl9.complete": {
+    "en": "End of Sentence Lesson 9.",
+    "ru": "Конец урока предложений 9.",
+    "zh": "句型课 9 结束。",
+    "ja": "文型レッスン9、おわり。",
+    "romaji": "Bunkei ressun kyuu, owari."
+  }
+}

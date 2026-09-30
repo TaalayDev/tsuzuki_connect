@@ -1,0 +1,1080 @@
+{
+  "vl17.title": {
+    "en": "The Handicraft Class at the Community Center",
+    "ru": "Класс рукоделия в общественном центре",
+    "zh": "公民馆的手工艺教室",
+    "ja": "公民館の、手芸教室",
+    "romaji": "Koominkan no, shugei kyoushitsu"
+  },
+  "vl17.subtitle": {
+    "en": "Taking on a new hobby in the neighborhood",
+    "ru": "Пробуем новое занятие в своём районе",
+    "zh": "在社区里挑战新的兴趣班",
+    "ja": "地域で、習い事に、挑戦する",
+    "romaji": "Chiiki de, naraigoto ni, chousen suru"
+  },
+  "vl17.description": {
+    "en": "In the handicraft class taught by Yuki's grandmother, practise ten words about neighborhood activities and taking on new challenges.",
+    "ru": "На занятии по рукоделию, которое ведёт бабушка Юки, потренируйте десять слов о деятельности района и новых вызовах.",
+    "zh": "在由由纪的奶奶教授的手工艺教室里，练习十个关于社区活动和新挑战的词。",
+    "ja": "ユキのおばあさんが教える手芸教室で、地域の活動や、新しい挑戦に関する十の言葉を練習します。",
+    "romaji": "Yuki no obaasan ga oshieru shugei kyoushitsu de, chiiki no katsudou ya, atarashii chousen ni kansuru juu no kotoba o renshuu shimasu."
+  },
+  "vl17.setup": {
+    "en": "Sunday afternoon. Tanaka-sensei has brought everyone to a small building in town. A sign at the entrance reads “Sakura-machi Community Center.”",
+    "ru": "Воскресный день. Танака-сэнсэй привёл всех в небольшое здание в городе. У входа висит вывеска «Общественный центр Сакура-мати».",
+    "zh": "星期日下午。田中老师带大家来到了镇上的一栋小建筑。入口挂着“樱町公民馆”的牌子。",
+    "ja": "日曜日の午後。田中先生は、みんなを、町の、小さな建物に、連れてきた。入口には、「桜町公民館」という、看板が、出ている。",
+    "romaji": "Nichiyoubi no gogo. Tanaka-sensei wa, minna o, machi no, chiisana tatemono ni, tsurete kita. Iriguchi ni wa, 'Sakura-machi koominkan' to iu, kanban ga, dete iru."
+  },
+  "vl17.t_intro": {
+    "en": "Today let's study Japanese while experiencing a community activity.",
+    "ru": "Сегодня давайте изучать японский, знакомясь с деятельностью района.",
+    "zh": "今天我们一边体验社区活动，一边学习日语吧。",
+    "ja": "今日は、地域の活動を、体験しながら、日本語を、勉強しましょう。",
+    "romaji": "Kyou wa, chiiki no katsudou o, taiken shinagara, nihongo o, benkyou shimashou."
+  },
+  "vl17.w1": {
+    "en": "This building is a “koominkan.” A “koominkan” is a place where people of the town gather and do study or hobby activities. It's run by the city or town.",
+    "ru": "Это здание — «ко:минкан». «Ко:минкан» — место, где жители города собираются и занимаются учёбой и увлечениями. Его содержит город или посёлок.",
+    "zh": "这栋建筑是「公民館」。「公民館」是镇上的人聚在一起学习、进行兴趣活动的场所。由市或町运营。",
+    "ja": "この建物は、「公民館」です。「公民館」は、その町の人が、集まって、勉強や、趣味の活動を、する場所です。市や、町が、運営しています。",
+    "romaji": "Kono tatemono wa, 'koominkan' desu. 'Koominkan' wa, sono machi no hito ga, atsumatte, benkyou ya, shumi no katsudou o, suru basho desu. Shi ya, machi ga, un'ei shite imasu."
+  },
+  "vl17.w1_q": {
+    "en": "Is it different from a “toshokan,” a library, or a “gakkou,” a school?",
+    "ru": "Чем оно отличается от «тосёкан» — библиотеки или «гакко:» — школы?",
+    "zh": "和「図書館」或「学校」有区别吗？",
+    "ja": "「図書館」や「学校」と、ちがいますか？",
+    "romaji": "'Toshokan' ya 'gakkou' to, chigaimasu ka?"
+  },
+  "vl17.w1_a": {
+    "en": "Yes. A library is where you borrow and read books. A school is where you receive set education. A koominkan is a free gathering place that anyone can join. The fees are often cheap too.",
+    "ru": "Да. Библиотека — место, где берут и читают книги. Школа — место, где получают определённое образование. «Ко:минкан» — место свободных собраний, в котором может участвовать каждый. Плата там тоже часто невысока.",
+    "zh": "是的。图书馆是借书、读书的地方。学校是接受固定教育的地方。公民馆是任何人都能参加的自由聚会场所。费用也常常很便宜。",
+    "ja": "はい。図書館は、本を、借りたり、読んだりする所です。学校は、決まった、教育を、受ける所です。公民館は、だれでも、参加できる、自由な集まりの場所です。料金も、安いことが、多いです。",
+    "romaji": "Hai. Toshokan wa, hon o, karitari, yondari suru tokoro desu. Gakkou wa, kimatta, kyouiku o, ukeru tokoro desu. Koominkan wa, dare demo, sanka dekiru, jiyuu na atsumari no basho desu. Ryoukin mo, yasui koto ga, ooi desu."
+  },
+  "vl17.w2": {
+    "en": "The area around this town is called “chiiki.” A “chiiki” is the range of daily life of people living in the same place. It's used as in “chiiki no katsudou” or “chiiki no hito.”",
+    "ru": "Округу этого города называют «тиики». «Тиики» — область повседневной жизни людей, живущих в одном месте. Используется, например, в «тиики но кацудо:» или «тиики но хито».",
+    "zh": "这个镇的周边叫「地域」。「地域」是住在同一地方的人们的生活范围。用法如「地域の活動」「地域の人」。",
+    "ja": "この町のことを、「地域」と言います。「地域」は、同じ場所に、住んでいる人たちの、生活の範囲です。「地域の活動」「地域の人」のように、使います。",
+    "romaji": "Kono machi no koto o, 'chiiki' to iimasu. 'Chiiki' wa, onaji basho ni, sunde iru hitotachi no, seikatsu no han'i desu. 'Chiiki no katsudou' 'chiiki no hito' no you ni, tsukaimasu."
+  },
+  "vl17.w2_q": {
+    "en": "Are “chiiki” and “machi” the same?",
+    "ru": "«Тиики» и «мати» — одно и то же?",
+    "zh": "「地域」和「町」一样吗？",
+    "ja": "「地域」と「町」は、同じですか？",
+    "romaji": "'Chiiki' to 'machi' wa, onaji desu ka?"
+  },
+  "vl17.w2_a": {
+    "en": "A little different. “Machi” is an administrative division or the name of one town. “Chiiki” is broader, and you can freely decide its range. “Kono chiiki” can include several neighborhoods within the town.",
+    "ru": "Немного по-разному. «Мати» — административная единица или название одного города. «Тиики» шире, и его границы можно определять свободно. «Коно тиики» может включать несколько микрорайонов внутри города.",
+    "zh": "有点不同。「町」是行政区划或某个镇的名称。「地域」更宽泛，可以自由决定范围。说「この地域」，也可以包括镇内的几个小区。",
+    "ja": "少しちがいます。「町」は、行政の区分や、ひとつの町の名前です。「地域」は、もっと広くて、自由に、範囲を決めて、使えます。「この地域」と言えば、町の中の、いくつかの町内も、入ります。",
+    "romaji": "Sukoshi chigaimasu. 'Machi' wa, gyousei no kubun ya, hitotsu no machi no namae desu. 'Chiiki' wa, motto hirokute, jiyuu ni, han'i o kimete, tsukaemasu. 'Kono chiiki' to ieba, machi no naka no, ikutsu ka no chounai mo, hairimasu."
+  },
+  "vl17.p1_prompt": {
+    "en": "You want to ask the receptionist, “Is there a community center nearby?” Please ask using “chiiki.” What do you say?",
+    "ru": "Вы хотите спросить у сотрудника на ресепшене: «Есть ли поблизости общественный центр?» Спросите, используя «тиики». Что вы скажете?",
+    "zh": "你想问接待的人：“这附近有公民馆吗？”请使用「地域」来问。你会怎么说？",
+    "ja": "受付の人に、聞きたいです。「この近くに、公民館が、ありますか」と。「地域」を使って、聞いてください。何と言いますか？",
+    "romaji": "Uketsuke no hito ni, kikitai desu. 'Kono chikaku ni, koominkan ga, arimasu ka' to. 'Chiiki' o tsukatte, kiite kudasai. Nan to iimasu ka?"
+  },
+  "vl17.c1_natural": {
+    "en": "“How many community centers are there in this area?”",
+    "ru": "«Сколько общественных центров в этом районе?»",
+    "zh": "“这个地区有几个公民馆？”",
+    "ja": "「この地域には、公民館が、いくつ、ありますか？」",
+    "romaji": "'Kono chiiki ni wa, koominkan ga, ikutsu, arimasu ka?'"
+  },
+  "vl17.c1_formal": {
+    "en": "“Pardon me, but might you inform me of the number of community centers in this region?”",
+    "ru": "«Прошу прощения, не могли бы вы сообщить количество общественных центров в данном районе?»",
+    "zh": "“冒昧请问，可否告知本地区公民馆的数量？”",
+    "ja": "「恐れ入りますが、当地域における、公民館の数を、お教えいただけますでしょうか。」",
+    "romaji": "'Osoreirimasu ga, tou chiiki ni okeru, koominkan no kazu o, oshie itadakemasu deshou ka.'"
+  },
+  "vl17.c1_mistake": {
+    "en": "“In this area (de), are there community centers?”",
+    "ru": "«В этом районе (дэ), есть ли общественные центры?»",
+    "zh": "“这个地域で，有公民馆吗？”（表示存在应该用「に」）",
+    "ja": "「この地域で、公民館が、ありますか？」",
+    "romaji": "'Kono chiiki de, koominkan ga, arimasu ka?'"
+  },
+  "vl17.c1_own": {
+    "en": "“How many community centers are there in this area? What kinds of activities are there?”",
+    "ru": "«Сколько общественных центров в этом районе? Какие там есть мероприятия?»",
+    "zh": "“这个地区有几个公民馆？有什么活动？”",
+    "ja": "「この地域には、公民館が、いくつ、ありますか？どんな活動が、ありますか？」",
+    "romaji": "'Kono chiiki ni wa, koominkan ga, ikutsu, arimasu ka? Donna katsudou ga, arimasu ka?'"
+  },
+  "vl17.c1_min": {
+    "en": "“Community center... exist...”",
+    "ru": "«Ко:минкан… есть…»",
+    "zh": "“公民馆……有……”",
+    "ja": "「公民館…ある…」",
+    "romaji": "'Koominkan... aru...'"
+  },
+  "vl17.p1_natural_r": {
+    "en": "Yes, natural. “Chiiki ni wa” made the range clear.",
+    "ru": "Да, естественно. «Тиики ни ва» ясно определило рамки.",
+    "zh": "对，很自然。「地域には」让范围明确了。",
+    "ja": "はい、自然です。「地域には」で、範囲が、はっきりしました。",
+    "romaji": "Hai, shizen desu. 'Chiiki ni wa' de, han'i ga, hakkiri shimashita."
+  },
+  "vl17.p1_formal_r": {
+    "en": "Haha, it sounds like a city hall letter. “Ikutsu, arimasu ka” is fine.",
+    "ru": "Ха-ха, как письмо из мэрии. Достаточно «икуцу, аримас ка».",
+    "zh": "哈哈，像政府机关的信件一样。说「いくつ、ありますか」就行。",
+    "ja": "あはは、役所の手紙みたいです。「いくつ、ありますか」で、いいですよ。",
+    "romaji": "Ahaha, yakusho no tegami mitai desu. 'Ikutsu, arimasu ka' de, ii desu yo."
+  },
+  "vl17.p1_mistake_r": {
+    "en": "Close. The place where something exists takes “ni.” It's “chiiki ni, koominkan ga, arimasu ka.” “De” is for the place of an action.",
+    "ru": "Почти. Место, где что-то существует, обозначается «ни». Получается «тиики ни, ко:минкан га, аримас ка». «Дэ» — место действия.",
+    "zh": "很接近。事物存在的地点用「に」。说「地域に、公民館が、ありますか」。「で」是动作发生的地点。",
+    "ja": "惜しいです。ものが、ある場所は、「に」です。「地域に、公民館が、ありますか」です。「で」は、動作の場所です。",
+    "romaji": "Oshii desu. Mono ga, aru basho wa, 'ni' desu. 'Chiiki ni, koominkan ga, arimasu ka' desu. 'De' wa, dousa no basho desu."
+  },
+  "vl17.p1_mis_retry": {
+    "en": "Are there community centers in this area?",
+    "ru": "Есть ли в этом районе общественные центры?",
+    "zh": "这个地区有公民馆吗？",
+    "ja": "この地域に、公民館が、ありますか？",
+    "romaji": "Kono chiiki ni, koominkan ga, arimasu ka?"
+  },
+  "vl17.p1_mis_relief": {
+    "en": "Yes, that's it. Existence takes “ni.”",
+    "ru": "Да, именно так. Существование обозначается «ни».",
+    "zh": "对，就是这个。表示存在用「に」。",
+    "ja": "はい、それです。存在は、「に」ですね。",
+    "romaji": "Hai, sore desu. Sonzai wa, 'ni' desu ne."
+  },
+  "vl17.p1_own_r": {
+    "en": "A good question. There are a lot of activities.",
+    "ru": "Хороший вопрос. Мероприятий очень много.",
+    "zh": "好问题。活动有很多哦。",
+    "ja": "いい質問ですね。活動が、たくさん、ありますよ。",
+    "romaji": "Ii shitsumon desu ne. Katsudou ga, takusan, arimasu yo."
+  },
+  "vl17.p1_min_r": {
+    "en": "Your meaning comes across. Try asking in a sentence: “koominkan ga, arimasu ka.”",
+    "ru": "Ваш вопрос понятен. Задайте его предложением: «ко:минкан га, аримас ка».",
+    "zh": "你的意思能传达。试着用句子问：「公民館が、ありますか」。",
+    "ja": "気持ちは、伝わります。「公民館が、ありますか」と、文で、聞いてみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Koominkan ga, arimasu ka' to, bun de, kiite mimashou."
+  },
+  "vl17.room": {
+    "en": "In the tatami room on the second floor, elderly women had spread out colorful cloths. Yuki's grandmother is there too.",
+    "ru": "В комнате с татами на втором этаже пожилые женщины разложили разноцветные ткани. Бабушка Юки тоже здесь.",
+    "zh": "二楼的榻榻米房间里，几位老奶奶铺开了五颜六色的布料。由纪的奶奶也在。",
+    "ja": "二階の、和室では、おばあさんたちが、色とりどりの、布を、広げていた。ユキさんの、おばあさんも、いる。",
+    "romaji": "Nikai no, washitsu de wa, obaasan-tachi ga, iroirodori no, nuno o, hirogete ita. Yuki-san no, obaasan mo, iru."
+  },
+  "vl17.gm_hello": {
+    "en": "Welcome. Today I'll teach you handicrafts.",
+    "ru": "Добро пожаловать. Сегодня я буду учить вас рукоделию.",
+    "zh": "欢迎。今天由我来教大家手工艺。",
+    "ja": "いらっしゃい。今日は、私が、手芸を、教えますよ。",
+    "romaji": "Irasshai. Kyou wa, watashi ga, shugei o, oshiemasu yo."
+  },
+  "vl17.w3": {
+    "en": "Enjoyable things you pay to learn like this are called “naraigoto.” “Naraigoto” include piano, calligraphy, cooking, and many others.",
+    "ru": "Такие занятия, которым платят за обучение ради удовольствия, называются «нарайгото». «Нарайгото» бывают разные: пианино, каллиграфия, кулинария и др.",
+    "zh": "像这样花钱学习的兴趣活动，叫「習い事」。「習い事」有钢琴、书法、烹饪等各种各样。",
+    "ja": "こういう、お金を払って、ならう、楽しみのことを、「習い事」と言います。「習い事」は、ピアノ、書道、料理など、いろいろです。",
+    "romaji": "Kou iu, okane o haratte, narau, tanoshimi no koto o, 'naraigoto' to iimasu. 'Naraigoto' wa, piano, shodou, ryouri nado, iroiro desu."
+  },
+  "vl17.w3_q": {
+    "en": "Are “naraigoto” and “benkyou” different?",
+    "ru": "«Нарайгото» и «бэнкё:» отличаются?",
+    "zh": "「習い事」和「勉強」有区别吗？",
+    "ja": "「習い事」と「勉強」は、ちがいますか？",
+    "romaji": "'Naraigoto' to 'benkyou' wa, chigaimasu ka?"
+  },
+  "vl17.w3_a": {
+    "en": "Yes. “Benkyou” is learning for school or work. “Naraigoto” is lessons for hobbies or cultivation. You are taught by a teacher and gradually improve.",
+    "ru": "Да. «Бэнкё:» — учёба для школы или работы. «Нарайгото» — занятия для увлечений или образования. Вас учит наставник, и вы понемногу совершенствуетесь.",
+    "zh": "是的。「勉強」是为了学校或工作的学习。「習い事」是为了兴趣或修养的练习。跟着老师学，一点一点变得擅长。",
+    "ja": "はい。「勉強」は、学校や、仕事のための、学びです。「習い事」は、趣味や、教養のための、稽古です。先生に、教わって、少しずつ、上手になります。",
+    "romaji": "Hai. 'Benkyou' wa, gakkou ya, shigoto no tame no, manabi desu. 'Naraigoto' wa, shumi ya, kyouyou no tame no, keiko desu. Sensei ni, osowatte, sukoshi zutsu, jouzu ni narimasu."
+  },
+  "vl17.w4": {
+    "en": "Today's lesson is “shugei.” “Shugei” means making things by hand using cloth and thread. There's embroidery, knitting, patchwork, and so on.",
+    "ru": "Сегодняшнее занятие — «сюгэй». «Сюгэй» — делать вещи руками из ткани и ниток. Сюда относятся вышивка, вязание, лоскутное шитьё и другое.",
+    "zh": "今天的兴趣班是「手芸」。「手芸」是用布和线亲手制作东西。有刺绣、编织、拼布等。",
+    "ja": "今日の習い事は、「手芸」です。「手芸」は、布や、糸を使って、手で、ものを作ることです。刺繍や、編み物や、パッチワークなどが、あります。",
+    "romaji": "Kyou no naraigoto wa, 'shugei' desu. 'Shugei' wa, nuno ya, ito o tsukatte, te de, mono o tsukuru koto desu. Shishuu ya, amimono ya, patchiwaaku nado ga, arimasu."
+  },
+  "vl17.p2_prompt": {
+    "en": "Grandma asked, “What would you like to learn?” You're interested in embroidery. Please answer using “shugei.” What do you say?",
+    "ru": "Бабушка спросила: «Чему вы хотите научиться?» Вас интересует вышивка. Ответьте, используя «сюгэй». Что вы скажете?",
+    "zh": "奶奶问：“你想学什么？”你对刺绣感兴趣。请使用「手芸」来回答。你会怎么说？",
+    "ja": "おばあさんが、聞きました。「あなたは、何を、習いたいですか？」あなたは、刺繍に、興味があります。「手芸」を使って、答えてください。何と言いますか？",
+    "romaji": "Obaasan ga, kikimashita. 'Anata wa, nani o, naraitai desu ka?' Anata wa, shishuu ni, kyoumi ga arimasu. 'Shugei' o tsukatte, kotaete kudasai. Nan to iimasu ka?"
+  },
+  "vl17.c2_natural": {
+    "en": "“I'd like to learn handicrafts. I'm especially interested in embroidery.”",
+    "ru": "«Я хочу научиться рукоделию. Меня особенно интересует вышивка».",
+    "zh": "“我想学手工艺。特别是对刺绣感兴趣。”",
+    "ja": "「手芸を、習いたいです。特に、刺繍に、興味が、あります。」",
+    "romaji": "'Shugei o, naraitai desu. Toku ni, shishuu ni, kyoumi ga, arimasu.'"
+  },
+  "vl17.c2_formal": {
+    "en": "“Unworthy though I am, I wish to become an apprentice in the way of handicrafts.”",
+    "ru": "«Несмотря на свою недостойность, я хотел бы стать учеником на пути рукоделия».",
+    "zh": "“虽才疏学浅，愿拜入手工艺之门为徒。”",
+    "ja": "「不肖ながら、手芸の道に、弟子入りしとう、存じます。」",
+    "romaji": "'Fushou nagara, shugei no michi ni, deshiiri shitou, zonjimasu.'"
+  },
+  "vl17.c2_mistake": {
+    "en": "“I want to narau-tai handicrafts.”",
+    "ru": "«Я хочу нарау-тай рукоделие».",
+    "zh": "“手芸を、習うたいです。”（应该是「習いたい」）",
+    "ja": "「手芸を、習うたいです。」",
+    "romaji": "'Shugei o, narau-tai desu.'"
+  },
+  "vl17.c2_own": {
+    "en": "“I want to start a new lesson. I'd like to learn handicrafts.”",
+    "ru": "«Я хочу начать новое занятие. Я хочу научиться рукоделию».",
+    "zh": "“我想开始一个新的兴趣班。我想学手工艺。”",
+    "ja": "「新しい習い事を、始めたいです。手芸を、習いたいです。」",
+    "romaji": "'Atarashii naraigoto o, hajimetai desu. Shugei o, naraitai desu.'"
+  },
+  "vl17.c2_min": {
+    "en": "“Handicrafts... learn...”",
+    "ru": "«Рукоделие… учиться…»",
+    "zh": "“手工艺……学……”",
+    "ja": "「手芸…習う…」",
+    "romaji": "'Shugei... narau...'"
+  },
+  "vl17.p2_natural_r": {
+    "en": "Oh, how lovely. Embroidery has great depth.",
+    "ru": "Ох, как приятно. У вышивки большая глубина.",
+    "zh": "哎呀，真高兴。刺绣是很有深度的哦。",
+    "ja": "まあ、うれしいわ。刺繍は、奥が深いですよ。",
+    "romaji": "Maa, ureshii wa. Shishuu wa, oku ga fukai desu yo."
+  },
+  "vl17.p2_formal_r": {
+    "en": "Ha, Grandma would be startled. “Naraitai desu” is fine.",
+    "ru": "Ха-ха, бабушка удивится. Достаточно «нарайтай дэс».",
+    "zh": "呵呵，奶奶会吓一跳的。说「習いたいです」就行。",
+    "ja": "ふふ、おばあちゃんが、びっくりしますよ。「習いたいです」で、いいです。",
+    "romaji": "Fufu, obaachan ga, bikkuri shimasu yo. 'Naraitai desu' de, ii desu."
+  },
+  "vl17.p2_mistake_r": {
+    "en": "Close. “Tai” attaches to the stem of the verb's masu-form. “Narau” becomes “narai.” It's “naraitai desu.”",
+    "ru": "Почти. «Тай» присоединяется к основе формы масу. «Нарау» превращается в «нарай». Получается «нарайтай дэс».",
+    "zh": "很接近。「たい」接在动词ます形的词干后。「習う」变成「習い」。说「習いたいです」。",
+    "ja": "惜しいです。「たい」は、動詞の、ます形の、語幹に、つけます。「習う」は、「習い」に、なります。「習いたいです」です。",
+    "romaji": "Oshii desu. 'Tai' wa, doushi no, masu-kei no, gokan ni, tsukemasu. 'Narau' wa, 'narai' ni, narimasu. 'Naraitai desu' desu."
+  },
+  "vl17.p2_mis_retry": {
+    "en": "I'd like to learn handicrafts.",
+    "ru": "Я хочу научиться рукоделию.",
+    "zh": "我想学手工艺。",
+    "ja": "手芸を、習いたいです。",
+    "romaji": "Shugei o, naraitai desu."
+  },
+  "vl17.p2_mis_relief": {
+    "en": "Yes, that's it. “Tai” on the stem fits perfectly.",
+    "ru": "Да, именно так. «Тай» на основе подходит идеально.",
+    "zh": "对，就是这个。词干加「たい」就对了。",
+    "ja": "はい、それです。語幹に、「たい」で、ぴったりです。",
+    "romaji": "Hai, sore desu. Gokan ni, 'tai' de, pittari desu."
+  },
+  "vl17.p2_own_r": {
+    "en": "Nice. Starting something new is a wonderful thing.",
+    "ru": "Хорошо. Начинать что-то новое — прекрасно.",
+    "zh": "不错。开始新的事情是很棒的事。",
+    "ja": "いいですね。新しいことを、始めるのは、すてきなことです。",
+    "romaji": "Ii desu ne. Atarashii koto o, hajimeru no wa, suteki na koto desu."
+  },
+  "vl17.p2_min_r": {
+    "en": "Your meaning comes across. Try saying “shugei o, naraitai desu.”",
+    "ru": "Ваше желание понятно. Скажите «сюгэй о, нарайтай дэс».",
+    "zh": "你的意思能传达。试着说「手芸を、習いたいです」。",
+    "ja": "気持ちは、伝わります。「手芸を、習いたいです」と、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Shugei o, naraitai desu' to, itte mimashou."
+  },
+  "vl17.sew": {
+    "en": "Everyone took their seats and picked up needles. The woman sitting next to them speaks kindly.",
+    "ru": "Все сели за столы и взяли иглы. Женщина за соседним столом ласково заговаривает с ними.",
+    "zh": "大家坐到座位上，拿起针。旁边座位的阿姨亲切地跟他们搭话。",
+    "ja": "みんなで、席について、針を持った。となりの、席の、おばさんが、やさしく、話しかけてくれる。",
+    "romaji": "Minna de, seki ni tsuite, hari o motta. Tonari no, seki no, obasan ga, yasashiku, hanashikakete kureru."
+  },
+  "vl17.w5": {
+    "en": "People who do the same thing together are called “nakama.” “Nakama” has a stronger sense of sharing a purpose than “friends.” It's used as in “onaji shumi no nakama.”",
+    "ru": "Людей, которые вместе занимаются одним делом, называют «накама». «Накама» сильнее, чем «друзья», передаёт чувство общей цели. Используется, например, в «онаджи сюми но накама».",
+    "zh": "一起做同一件事的人，叫「仲間」。「仲間」比「友達」更强调有共同目标的感觉。用法如「同じ趣味の仲間」。",
+    "ja": "同じことを、いっしょに、する人を、「仲間」と言います。「仲間」は、友達より、目的を、共有している感じが、強いです。「同じ趣味の仲間」のように、使います。",
+    "romaji": "Onaji koto o, issho ni, suru hito o, 'nakama' to iimasu. 'Nakama' wa, tomodachi yori, mokuteki o, kyouyuu shite iru kanji ga, tsuyoi desu. 'Onaji shumi no nakama' no you ni, tsukaimasu."
+  },
+  "vl17.w5_q": {
+    "en": "Is “nakama” only positive?",
+    "ru": "«Накама» — только в хорошем смысле?",
+    "zh": "「仲間」只是好的意思吗？",
+    "ja": "「仲間」は、いい意味だけですか？",
+    "romaji": "'Nakama' wa, ii imi dake desu ka?"
+  },
+  "vl17.w5_a": {
+    "en": "Mostly positive. You say “nakama ni naru” or “nakama ni hairu.” “Nakamahazure” means being excluded from a group and is negative.",
+    "ru": "В основном в хорошем смысле. Говорят «накама ни нару», «накама ни хайру». «Накамахадзурэ» — когда вас не принимают в группу, это плохое значение.",
+    "zh": "大部分是好的意思。说「仲間になる」「仲間に入る」。「仲間はずれ」是没被拉进团体，含贬义。",
+    "ja": "ほとんど、いい意味です。「仲間になる」「仲間に入る」と言います。「仲間はずれ」は、グループに、入れてもらえない、ことで、悪い意味です。",
+    "romaji": "Hotondo, ii imi desu. 'Nakama ni naru' 'nakama ni hairu' to iimasu. 'Nakamahazure' wa, guruupu ni, irete moraenai, koto de, warui imi desu."
+  },
+  "vl17.p3_prompt": {
+    "en": "The woman next to you said, “I'm glad you all came here. Please do come again.” You're happy to have met good people here. Please answer using “nakama.” What do you say?",
+    "ru": "Женщина рядом сказала: «Я рада, что вы все сюда пришли. Обязательно приходите ещё». Вы рады, что встретили здесь хороших людей. Ответьте, используя «накама». Что вы скажете?",
+    "zh": "旁边的阿姨说：“大家能来，我很高兴。请一定再来。”你很高兴在这里遇到了好人。请使用「仲間」来回答。你会怎么说？",
+    "ja": "となりの、おばさんが、言いました。「みなさんは、ここに、来て、うれしいです。ぜひ、また来てください。」あなたは、ここで、いい人たちに、出会えて、うれしいです。「仲間」を使って、答えてください。何と言いますか？",
+    "romaji": "Tonari no, obasan ga, iimashita. 'Minasan wa, koko ni, kite, ureshii desu. Zehi, mata kite kudasai.' Anata wa, koko de, ii hitotachi ni, deaete, ureshii desu. 'Nakama' o tsukatte, kotaete kudasai. Nan to iimasu ka?"
+  },
+  "vl17.c3_natural": {
+    "en": "“I'm happy to have made good companions here. I'll come again.”",
+    "ru": "«Я рад, что здесь у меня появились хорошие товарищи. Я приду снова».",
+    "zh": "“我很高兴在这里有了好伙伴。我还会再来的。”",
+    "ja": "「ここで、いい仲間が、できて、うれしいです。また、来ます。」",
+    "romaji": "'Koko de, ii nakama ga, dekite, ureshii desu. Mata, kimasu.'"
+  },
+  "vl17.c3_formal": {
+    "en": "“I am overjoyed to have become acquainted with fellow enthusiasts.”",
+    "ru": "«Я в высшей степени рад знакомству с единомышленниками».",
+    "zh": "“能与志同道合的各位结识，不胜荣幸。”",
+    "ja": "「同志の方々と、お近づきになれまして、恐悦至極に、存じます。」",
+    "romaji": "'Doushi no katagata to, ochikadzuki ni naremashite, kyouetsu shigoku ni, zonjimasu.'"
+  },
+  "vl17.c3_mistake": {
+    "en": "“I'm happy to have been able (o) good companions here.”",
+    "ru": "«Я рад, что смог (о) хороших товарищей здесь».",
+    "zh": "“我很高兴在这里能有好伙伴を。”（「できる」用「が」）",
+    "ja": "「ここで、いい仲間を、できて、うれしいです。」",
+    "romaji": "'Koko de, ii nakama o, dekite, ureshii desu.'"
+  },
+  "vl17.c3_own": {
+    "en": "“I'm happy to have made good companions here. It's fun to talk with people who share the same hobby.”",
+    "ru": "«Я рад, что здесь у меня появились хорошие товарищи. Приятно общаться с людьми, разделяющими то же увлечение».",
+    "zh": "“我很高兴在这里有了好伙伴。能和同一兴趣的人聊天，很开心。”",
+    "ja": "「ここで、いい仲間が、できて、うれしいです。同じ趣味の人と、話せて、楽しいです。」",
+    "romaji": "'Koko de, ii nakama ga, dekite, ureshii desu. Onaji shumi no hito to, hanasete, tanoshii desu.'"
+  },
+  "vl17.c3_min": {
+    "en": "“Companions... happy...”",
+    "ru": "«Товарищи… рад…»",
+    "zh": "“伙伴……高兴……”",
+    "ja": "「仲間…うれしい…」",
+    "romaji": "'Nakama... ureshii...'"
+  },
+  "vl17.p3_natural_r": {
+    "en": "Thank you. We'll all be waiting.",
+    "ru": "Спасибо. Мы все будем ждать.",
+    "zh": "谢谢。我们大家都等着你哦。",
+    "ja": "ありがとう。みんなで、待っていますよ。",
+    "romaji": "Arigatou. Minna de, matte imasu yo."
+  },
+  "vl17.p3_formal_r": {
+    "en": "Haha, like a period drama. “Nakama ga, dekimashita” is fine.",
+    "ru": "Ха-ха, как в исторической драме. Достаточно «накама га, дэкимасита».",
+    "zh": "哈哈，像古装剧一样。说「仲間が、できました」就行。",
+    "ja": "あはは、時代劇みたいです。「仲間が、できました」で、いいですよ。",
+    "romaji": "Ahaha, jidaigeki mitai desu. 'Nakama ga, dekimashita' de, ii desu yo."
+  },
+  "vl17.p3_mistake_r": {
+    "en": "Close. “Dekiru” takes “ga.” It's “nakama ga, dekiru.” “O” isn't used.",
+    "ru": "Почти. «Дэкиру» используется с «га». Получается «накама га, дэкиру». «О» не используют.",
+    "zh": "很接近。「できる」要用「が」。说「仲間が、できる」。不用「を」。",
+    "ja": "惜しいです。「できる」は、「が」を使います。「仲間が、できる」です。「を」は、使いません。",
+    "romaji": "Oshii desu. 'Dekiru' wa, 'ga' o tsukaimasu. 'Nakama ga, dekiru' desu. 'O' wa, tsukaimasen."
+  },
+  "vl17.p3_mis_retry": {
+    "en": "I'm happy to have made good companions here.",
+    "ru": "Я рад, что здесь у меня появились хорошие товарищи.",
+    "zh": "我很高兴在这里有了好伙伴。",
+    "ja": "ここで、いい仲間が、できて、うれしいです。",
+    "romaji": "Koko de, ii nakama ga, dekite, ureshii desu."
+  },
+  "vl17.p3_mis_relief": {
+    "en": "Yes, that's it. “Ga” gives the sense that they came about naturally.",
+    "ru": "Да, именно так. «Га» передаёт ощущение, что они появились естественно.",
+    "zh": "对，就是这个。「が」有自然形成的感觉。",
+    "ja": "はい、それです。「が」で、自然に、できた感じです。",
+    "romaji": "Hai, sore desu. 'Ga' de, shizen ni, dekita kanji desu."
+  },
+  "vl17.p3_own_r": {
+    "en": "When you say that, I'm happy too.",
+    "ru": "Когда вы так говорите, я тоже рада.",
+    "zh": "被你这么说，我们也很高兴。",
+    "ja": "そう言われると、こちらも、うれしいわ。",
+    "romaji": "Sou iwareru to, kochira mo, ureshii wa."
+  },
+  "vl17.p3_min_r": {
+    "en": "Your feeling comes across. Try saying “nakama ga, dekite, ureshii desu.”",
+    "ru": "Ваше чувство понятно. Скажите «накама га, дэкитэ, урэсий дэс».",
+    "zh": "你的心情能传达。试着说「仲間が、できて、うれしいです」。",
+    "ja": "気持ちは、伝わります。「仲間が、できて、うれしいです」と、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Nakama ga, dekite, ureshii desu' to, itte mimashou."
+  },
+  "vl17.gm_hard": {
+    "en": "Now let's try a slightly harder embroidery. It's a cherry blossom.",
+    "ru": "Итак, попробуем немного более сложную вышивку. Цветок сакуры.",
+    "zh": "那么，我们来试试稍微难一点的刺绣。是樱花。",
+    "ja": "では、少し、むずかしい、刺繍に、してみましょう。桜の花です。",
+    "romaji": "Dewa, sukoshi, muzukashii, shishuu ni, shite mimashou. Sakura no hana desu."
+  },
+  "vl17.w6": {
+    "en": "Taking on something difficult is called “chousen.” You say “chousen suru.” It means giving it a try even if you don't know whether you'll succeed.",
+    "ru": "Попытка сделать что-то трудное называется «тё:сэн». Говорят «тё:сэн суру». Это значит попробовать, даже не зная, получится ли.",
+    "zh": "去尝试困难的事，叫「挑戦」。说「挑戦する」。即使不知道能否成功，也要试试看。",
+    "ja": "むずかしいことに、チャレンジすることを、「挑戦」と言います。「挑戦する」と言います。成功するか、分からなくても、やってみることです。",
+    "romaji": "Muzukashii koto ni, charenji suru koto o, 'chousen' to iimasu. 'Chousen suru' to iimasu. Seikou suru ka, wakaranakute mo, yatte miru koto desu."
+  },
+  "vl17.w6_q": {
+    "en": "Are “chousen” and “renshuu” different?",
+    "ru": "«Тё:сэн» и «рэнсю:» отличаются?",
+    "zh": "「挑戦」和「練習」有区别吗？",
+    "ja": "「挑戦」と「練習」は、ちがいますか？",
+    "romaji": "'Chousen' to 'renshuu' wa, chigaimasu ka?"
+  },
+  "vl17.w6_a": {
+    "en": "Yes. “Renshuu” is repeating in order to improve. “Chousen” is heading toward something a little above your current ability. It's often said as “atarashii koto ni, chousen suru.”",
+    "ru": "Да. «Рэнсю:» — повторение ради улучшения. «Тё:сэн» — движение к чему-то немного выше ваших нынешних сил. Часто говорят «атарасий кото ни, тё:сэн суру».",
+    "zh": "是的。「練習」是为了变得擅长而反复做。「挑戦」是朝着比现在实力稍高的目标前进。常说「新しいことに、挑戦する」。",
+    "ja": "はい。「練習」は、上手になるために、くり返すことです。「挑戦」は、今の力より、少し、上のことに、向かうことです。「新しいことに、挑戦する」と、よく言います。",
+    "romaji": "Hai. 'Renshuu' wa, jouzu ni naru tame ni, kurikaesu koto desu. 'Chousen' wa, ima no chikara yori, sukoshi, ue no koto ni, mukau koto desu. 'Atarashii koto ni, chousen suru' to, yoku iimasu."
+  },
+  "vl17.p4_prompt": {
+    "en": "Grandma shows you an embroidered cherry blossom. It looks difficult, but you want to try. Please say it using “chousen.” What do you say?",
+    "ru": "Бабушка показала вышивку сакуры. Выглядит сложно, но вам хочется попробовать. Скажите это, используя «тё:сэн». Что вы скажете?",
+    "zh": "奶奶给你看了樱花刺绣。看起来很难，但你想试试。请使用「挑戦」来说。你会怎么说？",
+    "ja": "おばあさんが、桜の刺繍を、見せてくれました。むずかしそうですが、やってみたいです。「挑戦」を使って、言ってください。何と言いますか？",
+    "romaji": "Obaasan ga, sakura no shishuu o, misete kuremashita. Muzukashisou desu ga, yatte mitai desu. 'Chousen' o tsukatte, itte kudasai. Nan to iimasu ka?"
+  },
+  "vl17.c4_natural": {
+    "en": "“It looks difficult, but I'll give it a try.”",
+    "ru": "«Выглядит сложно, но я попробую».",
+    "zh": "“看起来很难，不过我想挑战一下。”",
+    "ja": "「むずかしそうですが、挑戦してみます。」",
+    "romaji": "'Muzukashisou desu ga, chousen shite mimasu.'"
+  },
+  "vl17.c4_formal": {
+    "en": "“I realize it is arduous, but I should like to dare to take on the challenge.”",
+    "ru": "«Я понимаю, что это нелегко, но осмелюсь принять вызов».",
+    "zh": "“虽知艰难，仍愿斗胆一试。”",
+    "ja": "「難儀とは存じますが、敢えて、挑戦させていただきとう存じます。」",
+    "romaji": "'Nangi to wa zonjimasu ga, aete, chousen sasete itadakitou zonjimasu.'"
+  },
+  "vl17.c4_mistake": {
+    "en": "“It looks difficult, but I'll try becoming a challenge.”",
+    "ru": "«Выглядит сложно, но я попробую стать вызовом».",
+    "zh": "“看起来很难，不过我想变成挑战。”",
+    "ja": "「むずかしそうですが、挑戦になってみます。」",
+    "romaji": "'Muzukashisou desu ga, chousen ni natte mimasu.'"
+  },
+  "vl17.c4_own": {
+    "en": "“It looks difficult, but I'll give it a try. Please teach me.”",
+    "ru": "«Выглядит сложно, но я попробую. Пожалуйста, научите меня».",
+    "zh": "“看起来很难，不过我想挑战一下。请教教我。”",
+    "ja": "「むずかしそうですが、挑戦してみます。教えてください。」",
+    "romaji": "'Muzukashisou desu ga, chousen shite mimasu. Oshiete kudasai.'"
+  },
+  "vl17.c4_min": {
+    "en": "“Challenge... do...”",
+    "ru": "«Вызов… сделать…»",
+    "zh": "“挑战……做……”",
+    "ja": "「挑戦…やる…」",
+    "romaji": "'Chousen... yaru...'"
+  },
+  "vl17.p4_natural_r": {
+    "en": "Good. That spirit is what matters.",
+    "ru": "Хорошо. Этот настрой важен.",
+    "zh": "不错。这种心态很重要哦。",
+    "ja": "いいですね。その気持ちが、大切ですよ。",
+    "romaji": "Ii desu ne. Sono kimochi ga, taisetsu desu yo."
+  },
+  "vl17.p4_formal_r": {
+    "en": "Haha, that's over the top. “Chousen shite mimasu” is fine.",
+    "ru": "Ха-ха, слишком пафосно. Достаточно «тё:сэн ситэ мимас».",
+    "zh": "哈哈，太夸张了。说「挑戦してみます」就行。",
+    "ja": "あはは、大げさです。「挑戦してみます」で、いいですよ。",
+    "romaji": "Ahaha, oogesa desu. 'Chousen shite mimasu' de, ii desu yo."
+  },
+  "vl17.p4_mistake_r": {
+    "en": "Close. “Chousen” is used with “suru.” It's “chousen shite, mimasu.” “Naru” isn't used.",
+    "ru": "Почти. «Тё:сэн» используется с «суру». Получается «тё:сэн ситэ, мимас». «Нару» не используют.",
+    "zh": "很接近。「挑戦」要和「する」一起用。说「挑戦して、みます」。不用「なる」。",
+    "ja": "惜しいです。「挑戦」は、「する」と使います。「挑戦して、みます」です。「なる」は、使いません。",
+    "romaji": "Oshii desu. 'Chousen' wa, 'suru' to tsukaimasu. 'Chousen shite, mimasu' desu. 'Naru' wa, tsukaimasen."
+  },
+  "vl17.p4_mis_retry": {
+    "en": "It looks difficult, but I'll give it a try.",
+    "ru": "Выглядит сложно, но я попробую.",
+    "zh": "看起来很难，不过我想挑战一下。",
+    "ja": "むずかしそうですが、挑戦してみます。",
+    "romaji": "Muzukashisou desu ga, chousen shite mimasu."
+  },
+  "vl17.p4_mis_relief": {
+    "en": "Yes, that's it. “Suru” and “miru” give a positive feeling.",
+    "ru": "Да, именно так. «Суру» и «миру» создают позитивное ощущение.",
+    "zh": "对，就是这个。「する」加「みる」很积极。",
+    "ja": "はい、それです。「する」と「みる」で、前向きな感じです。",
+    "romaji": "Hai, sore desu. 'Suru' to 'miru' de, maemuki na kanji desu."
+  },
+  "vl17.p4_own_r": {
+    "en": "Of course. Let's do it together.",
+    "ru": "Конечно. Давайте сделаем вместе.",
+    "zh": "当然啦。我们一起来做吧。",
+    "ja": "もちろんですよ。いっしょに、やりましょう。",
+    "romaji": "Mochiron desu yo. Issho ni, yarimashou."
+  },
+  "vl17.p4_min_r": {
+    "en": "Your feeling comes across. Try saying “chousen shite mimasu.”",
+    "ru": "Ваше чувство понятно. Скажите «тё:сэн ситэ мимас».",
+    "zh": "你的心情能传达。试着说「挑戦してみます」。",
+    "ja": "気持ちは、伝わります。「挑戦してみます」と、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Chousen shite mimasu' to, itte mimashou."
+  },
+  "vl17.fail": {
+    "en": "An hour has passed. The thread in Ken's cherry blossom is tangled and a mess.",
+    "ru": "Прошёл час. Нитки в сакуре Кена спутались и превратились в беспорядок.",
+    "zh": "过了一个小时。健的樱花，线缠在了一起，乱成一团。",
+    "ja": "一時間、たった。ケンさんの、桜は、糸が、からまって、ぐちゃぐちゃに、なっている。",
+    "romaji": "Ichijikan, tatta. Ken-san no, sakura wa, ito ga, karamatte, guchagucha ni, natte iru."
+  },
+  "vl17.k_giveup": {
+    "en": "It's hopeless. It's impossible for me.",
+    "ru": "Всё, не получается. Для меня это невозможно.",
+    "zh": "不行了。我做不到。",
+    "ja": "もう、だめです。ぼくには、むりです。",
+    "romaji": "Mou, dame desu. Boku ni wa, muri desu."
+  },
+  "vl17.w7": {
+    "en": "At times like that, the word “akirameru” is used. “Akirameru” means to stop continuing because things aren't going well. People often say “akiramenaide.”",
+    "ru": "В такие моменты используют слово «акирамэру». «Акирамэру» — прекратить продолжать, потому что не получается. Часто говорят «акираменаидэ».",
+    "zh": "这种时候，会用到「諦める」这个词。「諦める」是因为不顺利而放弃继续。常说「諦めないで」。",
+    "ja": "そんなとき、「諦める」という言葉を、使います。「諦める」は、うまくいかないので、続けることを、やめることです。「諦めないで」と、よく言います。",
+    "romaji": "Sonna toki, 'akirameru' to iu kotoba o, tsukaimasu. 'Akirameru' wa, umaku ikanai node, tsudzukeru koto o, yameru koto desu. 'Akiramenaide' to, yoku iimasu."
+  },
+  "vl17.w7_q": {
+    "en": "Is “akirameru” only negative?",
+    "ru": "«Акирамэру» — только в плохом смысле?",
+    "zh": "「諦める」只是不好的意思吗？",
+    "ja": "「諦める」は、悪い意味だけですか？",
+    "romaji": "'Akirameru' wa, warui imi dake desu ka?"
+  },
+  "vl17.w7_a": {
+    "en": "No. Depending on the case, there's a positive usage like “isagiyoku, akirameru,” giving up gracefully. But in this scene, saying “mada, akiramenaitakunai” gives you strength.",
+    "ru": "Нет. В некоторых случаях есть и позитивное использование, например «исагиёку, акирамэру» — достойно отказаться. Но в этой ситуации, если сказать «мада, акирамэтакунай», прибавится сил.",
+    "zh": "不。视情况而定，也有「潔く、諦める」这种积极的用法。但在这种场合，说「まだ、諦めたくない」会让人更有力量。",
+    "ja": "いいえ。場合によっては、「潔く、諦める」という、前向きな使い方も、あります。でも、この場面では、「まだ、諦めたくない」と、言ったほうが、力が出ます。",
+    "romaji": "Iie. Baai ni yotte wa, 'isagiyoku, akirameru' to iu, maemuki na tsukaikata mo, arimasu. Demo, kono bamen de wa, 'mada, akiramenaitakunai' to, itta hou ga, chikara ga demasu."
+  },
+  "vl17.p5_prompt": {
+    "en": "Ken said, “I quit.” You find it difficult too, but you still want to continue. Please tell Ken using “akirameru.” What do you say?",
+    "ru": "Кен сказал: «Я бросаю». Вам тоже трудно, но вы по-прежнему хотите продолжать. Скажите Кену, используя «акирамэру». Что вы скажете?",
+    "zh": "健说：“我不做了。”你也觉得很难，但你还想继续。请使用「諦める」对健说。你会怎么说？",
+    "ja": "ケンさんが、「もう、やめます」と言いました。あなたも、むずかしいですが、まだ、続けたいです。「諦める」を使って、ケンさんに、言ってください。何と言いますか？",
+    "romaji": "Ken-san ga, 'mou, yamemasu' to iimashita. Anata mo, muzukashii desu ga, mada, tsuzuketai desu. 'Akirameru' o tsukatte, Ken-san ni, itte kudasai. Nan to iimasu ka?"
+  },
+  "vl17.c5_natural": {
+    "en": "“Ken, please don't give up yet. Let's do it together.”",
+    "ru": "«Кен, пожалуйста, не сдавайтесь. Давайте сделаем вместе».",
+    "zh": "“健，请不要放弃。我们一起做吧。”",
+    "ja": "「ケンさん、まだ、諦めないでください。いっしょに、やりましょう。」",
+    "romaji": "'Ken-san, mada, akiramenaide kudasai. Issho ni, yarimashou.'"
+  },
+  "vl17.c5_formal": {
+    "en": "“Ken-dono, I beseech you not to abandon the effort.”",
+    "ru": "«Кэн-доно, прошу вас, не оставляйте своих усилий».",
+    "zh": "“健君，恳请您切勿断念。”",
+    "ja": "「ケン殿、どうか、断念なさらぬよう、お願い申し上げます。」",
+    "romaji": "'Ken-dono, douka, dannen nasaranu you, onegai moushiagemasu.'"
+  },
+  "vl17.c5_mistake": {
+    "en": "“Ken, still, it's not that you give up.”",
+    "ru": "«Кен, всё ещё, это не то, что вы сдаётесь».",
+    "zh": "“健，还没，不是放弃的时候。”（否定形错误）",
+    "ja": "「ケンさん、まだ、諦めるじゃないです。」",
+    "romaji": "'Ken-san, mada, akirameru ja nai desu.'"
+  },
+  "vl17.c5_own": {
+    "en": "“Ken, please don't give up yet. I don't want to give up yet either.”",
+    "ru": "«Кен, пожалуйста, не сдавайтесь. Я тоже не хочу сдаваться».",
+    "zh": "“健，请不要放弃。我也还不想放弃。”",
+    "ja": "「ケンさん、まだ、諦めないでください。わたしも、まだ、諦めたくないです。」",
+    "romaji": "'Ken-san, mada, akiramenaide kudasai. Watashi mo, mada, akirametakunai desu.'"
+  },
+  "vl17.c5_min": {
+    "en": "“Ken... give up... no...”",
+    "ru": "«Кен… сдаваться… нет…»",
+    "zh": "“健……放弃……不……”",
+    "ja": "「ケンさん…諦める…ない…」",
+    "romaji": "'Ken-san... akirameru... nai...'"
+  },
+  "vl17.p5_natural_r": {
+    "en": "Thank you. I'll try a little more.",
+    "ru": "Спасибо. Я попробую ещё немного.",
+    "zh": "谢谢。我再试试看。",
+    "ja": "ありがとう。もう少し、やってみます。",
+    "romaji": "Arigatou. Mou sukoshi, yatte mimasu."
+  },
+  "vl17.p5_formal_r": {
+    "en": "Ha, like a samurai. “Akiramenaide kudasai” is fine.",
+    "ru": "Ха-ха, как самурай. Достаточно «акираменаидэ кудасай».",
+    "zh": "呵呵，像武士一样。说「諦めないでください」就行。",
+    "ja": "ふふ、武士みたいです。「諦めないでください」で、いいですよ。",
+    "romaji": "Fufu, bushi mitai desu. 'Akiramenaide kudasai' de, ii desu yo."
+  },
+  "vl17.p5_mistake_r": {
+    "en": "Close. The negative of a verb is not “~ ja nai.” It's “akiramenai” or “akiramemasen.” You ask with “akiramenaide kudasai.”",
+    "ru": "Почти. Отрицание глагола — не «~ дзя най». Это «акираменай» или «акирамэмасэн». Просьба выражается «акираменаидэ кудасай».",
+    "zh": "很接近。动词的否定不是「〜じゃない」。而是「諦めない」「諦めません」。请求时说「諦めないでください」。",
+    "ja": "惜しいです。動詞の否定は、「〜じゃない」では、ありません。「諦めない」「諦めません」です。「諦めないでください」と、お願いします。",
+    "romaji": "Oshii desu. Doushi no hitei wa, '~ ja nai' de wa, arimasen. 'Akiramenai' 'akiramemasen' desu. 'Akiramenaide kudasai' to, onegai shimasu."
+  },
+  "vl17.p5_mis_retry": {
+    "en": "Ken, please don't give up yet.",
+    "ru": "Кен, пожалуйста, не сдавайтесь.",
+    "zh": "健，请不要放弃。",
+    "ja": "ケンさん、まだ、諦めないでください。",
+    "romaji": "Ken-san, mada, akiramenaide kudasai."
+  },
+  "vl17.p5_mis_relief": {
+    "en": "Yes, that's it. “Naide kudasai” turned it into gentle encouragement.",
+    "ru": "Да, именно так. «Наидэ кудасай» превратило это в мягкое подбадривание.",
+    "zh": "对，就是这个。「ないでください」成了温柔的鼓励。",
+    "ja": "はい、それです。「ないでください」で、やさしい励ましに、なりました。",
+    "romaji": "Hai, sore desu. 'Naide kudasai' de, yasashii hagemashi ni, narimashita."
+  },
+  "vl17.p5_own_r": {
+    "en": "That's right. Together, it seems doable.",
+    "ru": "Верно. Вместе, кажется, получится.",
+    "zh": "是啊。一起的话，好像能做到。",
+    "ja": "そうですね。いっしょなら、できそうです。",
+    "romaji": "Sou desu ne. Issho nara, dekisou desu."
+  },
+  "vl17.p5_min_r": {
+    "en": "Your feeling comes across. Try saying it through: “akiramenaide kudasai.”",
+    "ru": "Ваше чувство понятно. Скажите слитно: «акираменаидэ кудасай».",
+    "zh": "你的心情能传达。连起来说：「諦めないでください」。",
+    "ja": "気持ちは、伝わります。「諦めないでください」と、続けて、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Akiramenaide kudasai' to, tsuzukete, itte mimashou."
+  },
+  "vl17.gm_proverb": {
+    "en": "Ken. “Keizoku wa chikara nari.” Even a little at a time, if you continue, you will surely get better.",
+    "ru": "Кен. «Кэйдзоку ва тикара нари». Даже понемногу, если продолжать, обязательно станете лучше.",
+    "zh": "健。「継続は力なり」哦。哪怕一点一点，只要坚持下去，一定会变得擅长。",
+    "ja": "ケンさん。「継続は力なり」ですよ。少しずつでも、続ければ、必ず、上手になります。",
+    "romaji": "Ken-san. 'Keizoku wa chikara nari' desu yo. Sukoshi zutsu demo, tsuzukereba, kanarazu, jouzu ni narimasu."
+  },
+  "vl17.w8": {
+    "en": "“Keizoku wa chikara nari” is a well-known proverb. It means that continuing has great power. It's often used in schools and sports.",
+    "ru": "«Кэйдзоку ва тикара нари» — известная пословица. Она означает, что в постоянстве большая сила. Её часто используют в школе и спорте.",
+    "zh": "「継続は力なり」是一句有名的谚语。意思是坚持下去有很大的力量。在学校和运动中经常使用。",
+    "ja": "「継続は力なり」は、有名な、ことわざです。続けることには、大きな力が、ある、という意味です。学校や、スポーツでも、よく使われます。",
+    "romaji": "'Keizoku wa chikara nari' wa, yuumei na, kotowaza desu. Tsuzukeru koto ni wa, ookina chikara ga, aru, to iu imi desu. Gakkou ya, supootsu demo, yoku tsukawaremasu."
+  },
+  "vl17.w8_q": {
+    "en": "What does “nari” mean?",
+    "ru": "Что означает «нари»?",
+    "zh": "「なり」是什么意思？",
+    "ja": "「なり」は、どういう意味ですか？",
+    "romaji": "'Nari' wa, douiu imi desu ka?"
+  },
+  "vl17.w8_a": {
+    "en": "“Nari” is an old word meaning “~ da.” In other words, “keizoku wa, chikara de aru.” Proverbs have fixed forms, so let's memorize them as they are.",
+    "ru": "«Нари» — древнее слово, означающее «~ да». То есть «кэйдзоку ва, тикара дэ ару». У пословиц фиксированная форма, поэтому запоминайте их как есть.",
+    "zh": "「なり」是古语，意思是「〜だ」。也就是「継続は、力である」。谚语的形式是固定的，所以按原样记住吧。",
+    "ja": "「なり」は、古い言葉で、「〜だ」という意味です。つまり、「継続は、力である」です。ことわざは、形が、決まっているので、そのまま、覚えましょう。",
+    "romaji": "'Nari' wa, furui kotoba de, '~ da' to iu imi desu. Tsumari, 'keizoku wa, chikara de aru' desu. Kotowaza wa, katachi ga, kimatte iru node, sono mama, oboemashou."
+  },
+  "vl17.p6_prompt": {
+    "en": "Hearing Grandma's proverb, Ken picked up his needle once more. You want to encourage him with this saying too. What do you say?",
+    "ru": "Услышав пословицу бабушки, Кен снова взял иглу. Вы тоже хотите подбодрить его этой фразой. Что вы скажете?",
+    "zh": "听了奶奶的谚语，健又拿起了针。你也想用这句话鼓励他。你会怎么说？",
+    "ja": "おばあさんの、ことわざを、聞いて、ケンさんは、もう一度、針を持ちました。あなたも、この言葉で、ケンさんを、はげましたいです。何と言いますか？",
+    "romaji": "Obaasan no, kotowaza o, kiite, Ken-san wa, mou ichido, hari o mochimashita. Anata mo, kono kotoba de, Ken-san o, hagemashitai desu. Nan to iimasu ka?"
+  },
+  "vl17.c6_natural": {
+    "en": "“Keizoku wa chikara nari, as they say. Let's keep at it, a little every day.”",
+    "ru": "«Как говорится, „кэйдзоку ва тикара нари“. Давайте продолжать понемногу каждый день».",
+    "zh": "“真是「継続は力なり」呢。我们每天一点一点地坚持下去吧。”",
+    "ja": "「継続は力なり、ですね。毎日、少しずつ、続けましょう。」",
+    "romaji": "'Keizoku wa chikara nari, desu ne. Mainichi, sukoshi zutsu, tsuzukemashou.'"
+  },
+  "vl17.c6_formal": {
+    "en": "“Continuity is strength. I shall engrave those words in my heart and strive diligently.”",
+    "ru": "«Постоянство — это сила. Я запечатлею эти слова в сердце и буду усердно стараться».",
+    "zh": "“继续即力量。此言我将铭记于心，努力精进。”",
+    "ja": "「継続は力なり。そのお言葉、肝に銘じて、精進いたします。」",
+    "romaji": "'Keizoku wa chikara nari. Sono okotoba, kimo ni meijite, shoujin itashimasu.'"
+  },
+  "vl17.c6_mistake": {
+    "en": "“Continuity is strength. Let's continue every day.”",
+    "ru": "«Постоянство — это сила. Давайте продолжать каждый день».",
+    "zh": "“継続は力です。每天坚持吧。”（谚语应该说「継続は力なり」）",
+    "ja": "「継続は力です。毎日、続けましょう。」",
+    "romaji": "'Keizoku wa chikara desu. Mainichi, tsuzukemashou.'"
+  },
+  "vl17.c6_own": {
+    "en": "“Keizoku wa chikara nari, as they say. Today was my first time holding a needle, but I want to continue.”",
+    "ru": "«Как говорится, „кэйдзоку ва тикара нари“. Сегодня я впервые взял иглу, но хочу продолжать».",
+    "zh": "“真是「継続は力なり」呢。今天第一次拿针，不过我想继续。”",
+    "ja": "「継続は力なり、ですね。今日、はじめて、針を持ちましたが、続けたいです。」",
+    "romaji": "'Keizoku wa chikara nari, desu ne. Kyou, hajimete, hari o mochimashita ga, tsuzuketai desu.'"
+  },
+  "vl17.c6_min": {
+    "en": "“Continuity... strength...”",
+    "ru": "«Постоянство… сила…»",
+    "zh": "“坚持……力量……”",
+    "ja": "「継続…力…」",
+    "romaji": "'Keizoku... chikara...'"
+  },
+  "vl17.p6_natural_r": {
+    "en": "That's right. I'll try a little every day.",
+    "ru": "Верно. Буду пробовать понемногу каждый день.",
+    "zh": "是啊。我每天试着做一点点。",
+    "ja": "そうですね。毎日、ちょっとずつ、やってみます。",
+    "romaji": "Sou desu ne. Mainichi, chotto zutsu, yatte mimasu."
+  },
+  "vl17.p6_formal_r": {
+    "en": "Ha, splendid, but stiff. “Tsuzukemashou” is fine.",
+    "ru": "Ха-ха, великолепно, но чопорно. Достаточно «цудзукэмасё:».",
+    "zh": "呵呵，很了不起，不过有点生硬。说「続けましょう」就行。",
+    "ja": "ふふ、りっぱですが、かたいですね。「続けましょう」で、いいですよ。",
+    "romaji": "Fufu, rippa desu ga, katai desu ne. 'Tsuzukemashou' de, ii desu yo."
+  },
+  "vl17.p6_mistake_r": {
+    "en": "The meaning is right. But proverbs have a fixed form. Let's say “keizoku wa chikara nari.”",
+    "ru": "Смысл верный. Но у пословиц фиксированная форма. Скажем «кэйдзоку ва тикара нари».",
+    "zh": "意思是对的。不过谚语的形式是固定的。要说「継続は力なり」。",
+    "ja": "意味は、合っています。でも、ことわざは、形が決まっています。「継続は力なり」と、言いましょう。",
+    "romaji": "Imi wa, atte imasu. Demo, kotowaza wa, katachi ga kimatte imasu. 'Keizoku wa chikara nari' to, iimashou."
+  },
+  "vl17.p6_mis_retry": {
+    "en": "Keizoku wa chikara nari, as they say. Let's continue every day.",
+    "ru": "Как говорится, «кэйдзоку ва тикара нари». Давайте продолжать каждый день.",
+    "zh": "真是「継続は力なり」呢。我们每天坚持吧。",
+    "ja": "継続は力なり、ですね。毎日、続けましょう。",
+    "romaji": "Keizoku wa chikara nari, desu ne. Mainichi, tsuzukemashou."
+  },
+  "vl17.p6_mis_relief": {
+    "en": "Yes, that's it. Proverbs sound cool when said as they are.",
+    "ru": "Да, именно так. Пословицы звучат здорово, если говорить их как есть.",
+    "zh": "对，就是这个。谚语原样说出来更酷。",
+    "ja": "はい、それです。ことわざは、そのまま、言うと、かっこいいです。",
+    "romaji": "Hai, sore desu. Kotowaza wa, sono mama, iu to, kakkoii desu."
+  },
+  "vl17.p6_own_r": {
+    "en": "If you have that spirit, you'll be fine. Come again.",
+    "ru": "Если у вас такой настрой, всё будет хорошо. Приходите ещё.",
+    "zh": "有这份心意就没问题了。欢迎再来。",
+    "ja": "その気持ちが、あれば、大丈夫。またいらっしゃい。",
+    "romaji": "Sono kimochi ga, areba, daijoubu. Mata irasshai."
+  },
+  "vl17.p6_min_r": {
+    "en": "Your feeling comes across. Try saying it as one phrase: “keizoku wa chikara nari.”",
+    "ru": "Ваше чувство понятно. Скажите как одну фразу: «кэйдзоку ва тикара нари».",
+    "zh": "你的心情能传达。试着把它当作一个整体来说：「継続は力なり」。",
+    "ja": "気持ちは、伝わります。「継続は力なり」と、ひとつの言葉として、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Keizoku wa chikara nari' to, hitotsu no kotoba to shite, itte mimashou."
+  },
+  "vl17.finish": {
+    "en": "Two hours later. Ken's cherry blossom is still a little awkward-looking. But all five petals are properly in place.",
+    "ru": "Два часа спустя. Сакура Кена всё ещё немного неуклюжая. Но пять лепестков на месте как положено.",
+    "zh": "两小时后。健的樱花看起来还有点笨拙。但五片花瓣都好好地凑齐了。",
+    "ja": "二時間後。ケンさんの、桜は、まだ、少し、不格好だ。でも、五枚の花びらが、ちゃんと、そろっている。",
+    "romaji": "Nijikan go. Ken-san no, sakura wa, mada, sukoshi, bukakkou da. Demo, gomai no hanabira ga, chanto, sorotte iru."
+  },
+  "vl17.w9": {
+    "en": "Ken's face has brightened. He has gained “jishin,” confidence. “Jishin” is the feeling of believing that you can do it. You say “jishin ga aru” or “jishin ga tsuku.”",
+    "ru": "Лицо Кена просветлело. У него появилась «дзисин» — уверенность. «Дзисин» — чувство веры в то, что вы можете это сделать. Говорят «дзисин га ару» или «дзисин га цуку».",
+    "zh": "健的脸亮了起来。他有了「自信」呢。「自信」是相信自己能做到的心情。说「自信がある」「自信がつく」。",
+    "ja": "ケンさんの、顔が、明るくなりました。「自信」が、ついたのですね。「自信」は、自分は、できると、信じる気持ちです。「自信がある」「自信がつく」と言います。",
+    "romaji": "Ken-san no, kao ga, akaruku narimashita. 'Jishin' ga, tsuita no desu ne. 'Jishin' wa, jibun wa, dekiru to, shinjiru kimochi desu. 'Jishin ga aru' 'jishin ga tsuku' to iimasu."
+  },
+  "vl17.w9_q": {
+    "en": "Are “jishin” and “jiman” different?",
+    "ru": "«Дзисин» и «дзиман» отличаются?",
+    "zh": "「自信」和「自慢」有区别吗？",
+    "ja": "「自信」と「自慢」は、ちがいますか？",
+    "romaji": "'Jishin' to 'jiman' wa, chigaimasu ka?"
+  },
+  "vl17.w9_a": {
+    "en": "Yes. “Jishin” is a feeling inside your own heart. “Jiman” is showing it off to others. “Jiman suru” doesn't leave a very good impression.",
+    "ru": "Да. «Дзисин» — чувство внутри вашего сердца. «Дзиман» — хвастаться этим перед другими. «Дзиман суру» производит не очень хорошее впечатление.",
+    "zh": "是的。「自信」是自己心中的感觉。「自慢」是向别人炫耀这一点。「自慢する」给人的印象不太好。",
+    "ja": "はい。「自信」は、自分の心の中の、気持ちです。「自慢」は、それを、人に、見せびらかすことです。「自慢する」は、あまり、いい印象では、ありません。",
+    "romaji": "Hai. 'Jishin' wa, jibun no kokoro no naka no, kimochi desu. 'Jiman' wa, sore o, hito ni, misebirakasu koto desu. 'Jiman suru' wa, amari, ii inshou de wa, arimasen."
+  },
+  "vl17.p7_prompt": {
+    "en": "Sensei asked, “How was today's handicraft?” At first you thought it was impossible, but you finished. You gained a little confidence. How do you answer?",
+    "ru": "Сэнсэй спросил: «Как вам сегодняшнее рукоделие?» Сначала вы думали, что это невозможно, но довели до конца. У вас появилась некоторая уверенность. Что вы ответите?",
+    "zh": "老师问：“今天的手工艺怎么样？”你一开始觉得不可能，但做到了最后。你有了一点自信。你会怎么回答？",
+    "ja": "先生が、聞きました。「今日の、手芸は、どうでしたか？」あなたは、最初は、むりだと思いましたが、最後まで、できました。少し、自信が、つきました。何と答えますか？",
+    "romaji": "Sensei ga, kikimashita. 'Kyou no, shugei wa, dou deshita ka?' Anata wa, saisho wa, muri da to omoimashita ga, saigo made, dekimashita. Sukoshi, jishin ga, tsukimashita. Nan to kotaemasu ka?"
+  },
+  "vl17.c7_natural": {
+    "en": "“I was able to finish it, and I gained a little confidence.”",
+    "ru": "«Я довёл всё до конца и обрёл небольшую уверенность».",
+    "zh": "“能做到最后，我有了一点自信。”",
+    "ja": "「最後まで、できて、少し、自信が、つきました。」",
+    "romaji": "'Saigo made, dekite, sukoshi, jishin ga, tsukimashita.'"
+  },
+  "vl17.c7_formal": {
+    "en": "“Having been able to see it through to completion, I gained a measure of self-assurance.”",
+    "ru": "«Сумев довести дело до конца, я приобрёл некоторую самоуверенность».",
+    "zh": "“能够完成到底，略有所得，添了几分自负。”",
+    "ja": "「最後まで、完遂できましたことで、些かの、自負を、得ました。」",
+    "romaji": "'Saigo made, kansui dekimashita koto de, isasaka no, jifu o, emashita.'"
+  },
+  "vl17.c7_mistake": {
+    "en": "“I was able to finish, and confidence (o) attached a little.”",
+    "ru": "«Я довёл до конца, и уверенность (о) прикрепилась немного».",
+    "zh": "“能做到最后，自信を，附着了一点。”（「つく」用「が」）",
+    "ja": "「最後まで、できて、少し、自信を、つきました。」",
+    "romaji": "'Saigo made, dekite, sukoshi, jishin o, tsukimashita.'"
+  },
+  "vl17.c7_own": {
+    "en": "“I was able to finish, and I gained a little confidence. Next I'd like to take on something more difficult.”",
+    "ru": "«Я довёл всё до конца и обрёл небольшую уверенность. В следующий раз хочу попробовать что-то более сложное».",
+    "zh": "“能做到最后，我有了一点自信。下次我想挑战更难的东西。”",
+    "ja": "「最後まで、できて、少し、自信が、つきました。次は、もっと、むずかしいものに、挑戦したいです。」",
+    "romaji": "'Saigo made, dekite, sukoshi, jishin ga, tsukimashita. Tsugi wa, motto, muzukashii mono ni, chousen shitai desu.'"
+  },
+  "vl17.c7_min": {
+    "en": "“Confidence... gain...”",
+    "ru": "«Уверенность… обрёл…»",
+    "zh": "“自信……有了……”",
+    "ja": "「自信…つく…」",
+    "romaji": "'Jishin... tsuku...'"
+  },
+  "vl17.p7_natural_r": {
+    "en": "Nice. Please treasure that confidence.",
+    "ru": "Хорошо. Берегите эту уверенность.",
+    "zh": "不错。请珍惜这份自信。",
+    "ja": "いいですね。その自信を、大切にしてください。",
+    "romaji": "Ii desu ne. Sono jishin o, taisetsu ni shite kudasai."
+  },
+  "vl17.p7_formal_r": {
+    "en": "Ha, that's stiff. “Jishin ga, tsukimashita” is fine.",
+    "ru": "Ха-ха, слишком формально. Достаточно «дзисин га, цукимасита».",
+    "zh": "呵呵，太生硬了。说「自信が、つきました」就行。",
+    "ja": "ふふ、かたいです。「自信が、つきました」で、いいですよ。",
+    "romaji": "Fufu, katai desu. 'Jishin ga, tsukimashita' de, ii desu yo."
+  },
+  "vl17.p7_mistake_r": {
+    "en": "Close. “Tsuku” is the naturally-acquired type, so it's “ga.” It's “jishin ga, tsukimashita.”",
+    "ru": "Почти. «Цуку» — естественно приобретаемое, поэтому «га». Получается «дзисин га, цукимасита».",
+    "zh": "很接近。「つく」是自然获得的一方，所以用「が」。说「自信が、つきました」。",
+    "ja": "惜しいです。「つく」は、自然に、身につくほうなので、「が」です。「自信が、つきました」です。",
+    "romaji": "Oshii desu. 'Tsuku' wa, shizen ni, mi ni tsuku hou na node, 'ga' desu. 'Jishin ga, tsukimashita' desu."
+  },
+  "vl17.p7_mis_retry": {
+    "en": "I was able to finish, and I gained a little confidence.",
+    "ru": "Я довёл всё до конца и обрёл небольшую уверенность.",
+    "zh": "能做到最后，我有了一点自信。",
+    "ja": "最後まで、できて、少し、自信が、つきました。",
+    "romaji": "Saigo made, dekite, sukoshi, jishin ga, tsukimashita."
+  },
+  "vl17.p7_mis_relief": {
+    "en": "Yes, that's it. “Ga” gives a sense that it developed naturally.",
+    "ru": "Да, именно так. «Га» передаёт ощущение, что она возникла естественно.",
+    "zh": "对，就是这个。「が」有自然获得的感觉。",
+    "ja": "はい、それです。「が」で、自然に、ついた感じです。",
+    "romaji": "Hai, sore desu. 'Ga' de, shizen ni, tsuita kanji desu."
+  },
+  "vl17.p7_own_r": {
+    "en": "Wonderful. Your spirit of taking on challenges is growing.",
+    "ru": "Замечательно. Ваш дух принятия вызовов растёт.",
+    "zh": "太棒了。你挑战的心态在成长呢。",
+    "ja": "すばらしいです。挑戦する気持ちが、育っていますね。",
+    "romaji": "Subarashii desu. Chousen suru kimochi ga, sodatte imasu ne."
+  },
+  "vl17.p7_min_r": {
+    "en": "Your feeling comes across. Try saying “jishin ga, tsukimashita.”",
+    "ru": "Ваше чувство понятно. Скажите «дзисин га, цукимасита».",
+    "zh": "你的心情能传达。试着说「自信が、つきました」。",
+    "ja": "気持ちは、伝わります。「自信が、つきました」と、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Jishin ga, tsukimashita' to, itte mimashou."
+  },
+  "vl17.leave": {
+    "en": "It was time to leave. Grandma gave everyone a small embroidered bookmark.",
+    "ru": "Настало время расходиться. Бабушка подарила всем маленькие вышитые закладки.",
+    "zh": "到了回去的时间。奶奶送给大家每人一枚小小的刺绣书签。",
+    "ja": "帰りの時間になった。おばあさんは、みんなに、小さな、刺繍のしおりを、くれた。",
+    "romaji": "Kaeri no jikan ni natta. Obaasan wa, minna ni, chiisana, shishuu no shiori o, kureta."
+  },
+  "vl17.w10": {
+    "en": "Finally, a greeting phrase. “Sewa ni naru” means being looked after or helped by someone. You express thanks with “osewa ni narimashita.”",
+    "ru": "Наконец, фраза-приветствие. «Сэва ни нару» — когда о вас позаботились или вам помогли. Благодарят словами «осэва ни наримасита».",
+    "zh": "最后是问候用语。「世話になる」是受到别人照顾或帮助。用「お世話になりました」来表示感谢。",
+    "ja": "最後に、あいさつの言葉です。「世話になる」は、人から、面倒を見てもらったり、助けてもらったりすることです。「お世話になりました」と、お礼を言います。",
+    "romaji": "Saigo ni, aisatsu no kotoba desu. 'Sewa ni naru' wa, hito kara, mendou o mite morattari, tasukete morattari suru koto desu. 'Osewa ni narimashita' to, orei o iimasu."
+  },
+  "vl17.w10_q": {
+    "en": "Is it different from “arigatou”?",
+    "ru": "Чем оно отличается от «аригато:»?",
+    "zh": "和「ありがとう」有区别吗？",
+    "ja": "「ありがとう」と、ちがいますか？",
+    "romaji": "'Arigatou' to, chigaimasu ka?"
+  },
+  "vl17.w10_a": {
+    "en": "Yes. “Arigatou” is thanks for that moment. “Osewa ni narimashita” is thanks for all the help until now. It's used at partings or after a long relationship.",
+    "ru": "Да. «Аригато:» — благодарность за конкретный момент. «Осэва ни наримасита» — благодарность за всю помощь до сих пор. Используется при прощании или после долгих отношений.",
+    "zh": "是的。「ありがとう」是当时的感谢。「お世話になりました」是对迄今为止所有帮助的感谢。用于告别时或长期交往之后。",
+    "ja": "はい。「ありがとう」は、その時の、お礼です。「お世話になりました」は、これまでの、すべての助けに対する、お礼です。別れ際や、長い付き合いの、あとで、使います。",
+    "romaji": "Hai. 'Arigatou' wa, sono toki no, orei desu. 'Osewa ni narimashita' wa, kore made no, subete no tasuke ni taisuru, orei desu. Wakaregiwa ya, nagai tsukiai no, ato de, tsukaimasu."
+  },
+  "vl17.p8_prompt": {
+    "en": "When leaving, you want to thank Grandma. She taught you many things today. Please say it using “osewa ni narimashita.” What do you say?",
+    "ru": "Уходя, вы хотите поблагодарить бабушку. Сегодня она многому вас научила. Скажите это, используя «осэва ни наримасита». Что вы скажете?",
+    "zh": "回去时，你想向奶奶道谢。今天她教了你很多东西。请使用「お世話になりました」来说。你会怎么说？",
+    "ja": "帰るとき、おばあさんに、お礼を言いたいです。今日、いろいろ、教えてもらいました。「お世話になりました」を使って、言ってください。何と言いますか？",
+    "romaji": "Kaeru toki, obaasan ni, orei o iitai desu. Kyou, iroiro, oshiete moraimashita. 'Osewa ni narimashita' o tsukatte, itte kudasai. Nan to iimasu ka?"
+  },
+  "vl17.c8_natural": {
+    "en": "“Thank you for looking after us today. Thank you very much.”",
+    "ru": "«Сегодня вы о нас так позаботились. Большое спасибо».",
+    "zh": "“今天承蒙您关照了。非常感谢。”",
+    "ja": "「今日は、お世話になりました。ありがとうございました。」",
+    "romaji": "'Kyou wa, osewa ni narimashita. Arigatou gozaimashita.'"
+  },
+  "vl17.c8_formal": {
+    "en": "“For your exceptional patronage today, I offer my deepest thanks.”",
+    "ru": "«За ваше особое покровительство сегодня я выражаю глубочайшую благодарность».",
+    "zh": "“今日承蒙格外关照，谨致深切谢意。”",
+    "ja": "「本日は、格別の、お引き立てを、賜りまして、厚く、御礼申し上げます。」",
+    "romaji": "'Honjitsu wa, kakubetsu no, ohikitate o, tamawarimashite, atsuku, onrei moushiagemasu.'"
+  },
+  "vl17.c8_mistake": {
+    "en": "“Today, I became (o) care. Thank you very much.”",
+    "ru": "«Сегодня я стал (о) заботой. Большое спасибо».",
+    "zh": "“今天，世話をなりました。非常感谢。”（应该是「お世話になりました」）",
+    "ja": "「今日は、世話をなりました。ありがとうございました。」",
+    "romaji": "'Kyou wa, sewa o narimashita. Arigatou gozaimashita.'"
+  },
+  "vl17.c8_own": {
+    "en": "“Thank you for looking after us today. I've come to like handicrafts. I'll come again.”",
+    "ru": "«Сегодня вы о нас так позаботились. Мне полюбилось рукоделие. Я приду снова».",
+    "zh": "“今天承蒙您关照了。我喜欢上了手工艺。我还会再来的。”",
+    "ja": "「今日は、お世話になりました。手芸が、好きに、なりました。また、来ます。」",
+    "romaji": "'Kyou wa, osewa ni narimashita. Shugei ga, suki ni, narimashita. Mata, kimasu.'"
+  },
+  "vl17.c8_min": {
+    "en": "“Thanks...”",
+    "ru": "«Спасибо…»",
+    "zh": "“谢谢……”",
+    "ja": "「ありがとう…」",
+    "romaji": "'Arigatou...'"
+  },
+  "vl17.p8_natural_r": {
+    "en": "Not at all. It was fun for me, too.",
+    "ru": "Что вы, что вы. Мне тоже было очень весело.",
+    "zh": "哪里哪里。我也很开心呢。",
+    "ja": "いえいえ。こちらこそ、楽しかったですよ。",
+    "romaji": "Ie ie. Kochira koso, tanoshikatta desu yo."
+  },
+  "vl17.p8_formal_r": {
+    "en": "Ha, Grandma would be startled. “Osewa ni narimashita” is fine.",
+    "ru": "Ха-ха, бабушка удивится. Достаточно «осэва ни наримасита».",
+    "zh": "呵呵，奶奶会吓一跳的。说「お世話になりました」就行。",
+    "ja": "ふふ、おばあちゃんが、びっくりしますよ。「お世話になりました」で、いいですよ。",
+    "romaji": "Fufu, obaachan ga, bikkuri shimasu yo. 'Osewa ni narimashita' de, ii desu yo."
+  },
+  "vl17.p8_mistake_r": {
+    "en": "Close. “Sewa ni naru” takes “ni.” The polite form is “osewa ni narimashita.” “O” isn't used.",
+    "ru": "Почти. «Сэва ни нару» используется с «ни». Вежливая форма — «осэва ни наримасита». «О» не используют.",
+    "zh": "很接近。「世話になる」要用「に」。礼貌说法是「お世話になりました」。不用「を」。",
+    "ja": "惜しいです。「世話になる」は、「に」を使います。丁寧には、「お世話になりました」です。「を」は、使いません。",
+    "romaji": "Oshii desu. 'Sewa ni naru' wa, 'ni' o tsukaimasu. Teinei ni wa, 'osewa ni narimashita' desu. 'O' wa, tsukaimasen."
+  },
+  "vl17.p8_mis_retry": {
+    "en": "Thank you for looking after us today. Thank you very much.",
+    "ru": "Сегодня вы о нас так позаботились. Большое спасибо.",
+    "zh": "今天承蒙您关照了。非常感谢。",
+    "ja": "今日は、お世話になりました。ありがとうございました。",
+    "romaji": "Kyou wa, osewa ni narimashita. Arigatou gozaimashita."
+  },
+  "vl17.p8_mis_relief": {
+    "en": "Yes, that's it. Adding “o” makes it more polite.",
+    "ru": "Да, именно так. Добавив «о», вы сделаете фразу вежливее.",
+    "zh": "对，就是这个。加上「お」会更礼貌。",
+    "ja": "はい、それです。「お」を、つけると、もっと、丁寧です。",
+    "romaji": "Hai, sore desu. 'O' o, tsukeru to, motto, teinei desu."
+  },
+  "vl17.p8_own_r": {
+    "en": "How lovely. I'll be waiting.",
+    "ru": "Как приятно. Буду ждать.",
+    "zh": "真高兴。我等着你哦。",
+    "ja": "うれしいわ。待っていますよ。",
+    "romaji": "Ureshii wa. Matte imasu yo."
+  },
+  "vl17.p8_min_r": {
+    "en": "Your feeling comes across. Adding “osewa ni narimashita” makes it more polite.",
+    "ru": "Ваше чувство понятно. Если добавить «осэва ни наримасита», станет вежливее.",
+    "zh": "你的心情能传达。再加上「お世話になりました」会更礼貌。",
+    "ja": "気持ちは、伝わります。「お世話になりました」も、そえると、もっと、丁寧です。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Osewa ni narimashita' mo, soeru to, motto, teinei desu."
+  },
+  "vl17.talk_open": {
+    "en": "Now let's talk. Out of today's ten words, which one stayed with you most?",
+    "ru": "Итак, поговорим. Какое из сегодняшних десяти слов больше всего запало вам в душу?",
+    "zh": "现在来聊聊。今天这十个词里，哪个最让你印象深刻？",
+    "ja": "では、話しましょう。今日の、十の言葉の中で、いちばん、心に残った言葉は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no, juu no kotoba no naka de, ichiban, kokoro ni nokotta kotoba wa, dore desu ka?"
+  },
+  "vl17.talk_ken": {
+    "en": "For me, “keizoku wa chikara nari.” I want to remember it when I feel like giving up.",
+    "ru": "Для меня это «кэйдзоку ва тикара нари». Хочу вспоминать её, когда захочется сдаться.",
+    "zh": "我想说「継続は力なり」。想放弃的时候，我想想起它。",
+    "ja": "ぼくは、「継続は力なり」です。諦めたくなったとき、思い出したいです。",
+    "romaji": "Boku wa, 'keizoku wa chikara nari' desu. Akirametaku natta toki, omoidashitai desu."
+  },
+  "vl17.talk_mei": {
+    "en": "For me, “nakama.” Doing the same thing together lets you become close.",
+    "ru": "Для меня это «накама». Когда вы вместе занимаетесь одним делом, можно сблизиться.",
+    "zh": "我想说「仲間」。一起做同一件事，就能亲近起来呢。",
+    "ja": "わたしは、「仲間」です。同じことを、いっしょに、すると、仲良くなれますね。",
+    "romaji": "Watashi wa, 'nakama' desu. Onaji koto o, issho ni, suru to, nakayoku naremasu ne."
+  },
+  "vl17.talk_yuki": {
+    "en": "For me, “chiiki.” Grandma's community is warm.",
+    "ru": "Для меня это «тиики». Район бабушки такой тёплый.",
+    "zh": "我想说「地域」。奶奶所在的社区很温暖呢。",
+    "ja": "わたしは、「地域」です。おばあちゃんの地域は、あたたかいですね。",
+    "romaji": "Watashi wa, 'chiiki' desu. Obaachan no chiiki wa, atatakai desu ne."
+  },
+  "vl17.talk_tanaka": {
+    "en": "Lovely. Learning, taking on challenges, and making companions within a community. That too is important study of Japanese.",
+    "ru": "Прекрасно. Учиться в своём районе, принимать вызовы, заводить товарищей. Это тоже важная часть изучения японского.",
+    "zh": "真好。在社区里学习、挑战、结交伙伴。这也是重要的日语学习。",
+    "ja": "すてきですね。地域の中で、学んで、挑戦して、仲間を作る。それも、大切な、日本語の勉強です。",
+    "romaji": "Suteki desu ne. Chiiki no naka de, manande, chousen shite, nakama o tsukuru. Sore mo, taisetsu na, nihongo no benkyou desu."
+  },
+  "vl17.talk_player": {
+    "en": "(Community center, neighborhood, lessons, handicrafts, companions, challenge, give up, continuity is strength, confidence, being looked after. Even difficult things become possible if you keep at them little by little. Next Sunday, I'll try coming to the community center again.)",
+    "ru": "(Общественный центр, район, занятия, рукоделие, товарищи, вызов, сдаться, постоянство — сила, уверенность, быть под опекой. Даже трудные вещи становятся возможными, если продолжать понемногу. В следующее воскресенье я снова попробую прийти в общественный центр.)",
+    "zh": "（公民馆、社区、兴趣班、手工艺、伙伴、挑战、放弃、继续即力量、自信、承蒙关照。即使是困难的事，只要一点一点地坚持，就能做到。下个星期日，我也再来公民馆看看吧。）",
+    "ja": "（公民館、地域、習い事、手芸、仲間、挑戦、諦める、継続は力なり、自信、世話になる。むずかしいことでも、少しずつ、続ければ、できるようになる。次の日曜日も、また、公民館に、来てみよう。）",
+    "romaji": "(Koominkan, chiiki, naraigoto, shugei, nakama, chousen, akirameru, keizoku wa chikara nari, jishin, sewa ni naru. Even difficult things become possible if you keep at them little by little. Next Sunday, I'll try coming to the community center again.)"
+  },
+  "vl17.talk_close": {
+    "en": "Everyone worked hard today. Then, let's meet again in the classroom.",
+    "ru": "Сегодня все хорошо потрудились. А теперь — до встречи в классе.",
+    "zh": "各位，今天都很努力。那么，我们教室里再见吧。",
+    "ja": "みなさん、今日は、よくがんばりました。では、また、教室で、会いましょう。",
+    "romaji": "Minasan, kyou wa, yoku ganbarimashita. Dewa, mata, kyoushitsu de, aimashou."
+  },
+  "vl17.complete": {
+    "en": "End of Vocabulary Lesson 17.",
+    "ru": "Конец урока лексики 17.",
+    "zh": "词汇课 17 结束。",
+    "ja": "語彙レッスン17、おわり。",
+    "romaji": "Goi ressun juunana, owari."
+  }
+}

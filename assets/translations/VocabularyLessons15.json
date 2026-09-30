@@ -1,0 +1,863 @@
+{
+  "vl15.title": {
+    "en": "A Changed Town, an Unchanged Feeling",
+    "ru": "Изменившийся город, неизменное чувство",
+    "zh": "变了的小镇，不变的心情",
+    "ja": "変わった町、変わらない気持ち",
+    "romaji": "Kawatta machi, kawaranai kimochi"
+  },
+  "vl15.subtitle": {
+    "en": "Returning home and revisiting a town of memories",
+    "ru": "Возвращение на родину и повторный визит в город воспоминаний",
+    "zh": "归国与重访，漫步在回忆的小镇",
+    "ja": "帰国と再訪、思い出の町を歩く",
+    "romaji": "Kikoku to saihou, omoide no machi o aruku"
+  },
+  "vl15.description": {
+    "en": "Walk together through the town Tanaka-sensei visits for the first time in ten years, and practise ten words for talking about nostalgia and change.",
+    "ru": "Прогуливаясь вместе по городу, который Танака-сэнсэй посещает впервые за десять лет, потренируйте десять слов для разговора о ностальгии и переменах.",
+    "zh": "陪田中老师走过他十年来第一次造访的小镇，练习十个谈论怀旧和变化的词。",
+    "ja": "田中先生が十年ぶりに訪れた町を、みんなで歩きながら、懐かしさと、変化を語る十の言葉を練習します。",
+    "romaji": "Tanaka-sensei ga juunen-buri ni otozureta machi o, minna de arukinagara, natsukashisa to, henka o kataru juu no kotoba o renshuu shimasu."
+  },
+  "vl15.setup": {
+    "en": "Evening. Tanaka-sensei has brought everyone to an old shopping street. This is the town where he lived when he was young.",
+    "ru": "Вечер. Танака-сэнсэй привёл всех на старую торговую улицу. Это город, где он жил в молодости.",
+    "zh": "傍晚。田中老师带大家来到了一条老商店街。这里是他年轻时住过的小镇。",
+    "ja": "夕方。田中先生は、みんなを、古い商店街に、連れてきた。ここは、先生が、若いころに、住んでいた町だ。",
+    "romaji": "Yuugata. Tanaka-sensei wa, minna o, furui shoutengai ni, tsurete kita. Koko wa, sensei ga, wakai koro ni, sunde ita machi da."
+  },
+  "vl15.t_intro": {
+    "en": "Today let's study some slightly harder words while walking through this town of memories.",
+    "ru": "Сегодня, гуляя по городу воспоминаний, изучим несколько более сложных слов.",
+    "zh": "今天我们一边走在回忆之城，一边学习一些稍难的词。",
+    "ja": "今日は、思い出の町を、歩きながら、少し、むずかしい言葉を、勉強しましょう。",
+    "romaji": "Kyou wa, omoide no machi o, arukinagara, sukoshi, muzukashii kotoba o, benkyou shimashou."
+  },
+  "vl15.w1": {
+    "en": "I was studying abroad. Coming back to Japan is called “kikoku.” I returned home ten years ago.",
+    "ru": "Я учился за границей. Возвращение в Японию называется «кикоку». Я вернулся на родину десять лет назад.",
+    "zh": "我曾在国外留学。回到日本叫「帰国」。我十年前归国了。",
+    "ja": "私は、外国で、勉強していました。日本に、帰ってくることを、「帰国」と言います。私は、十年前に、帰国しました。",
+    "romaji": "Watashi wa, gaikoku de, benkyou shite imashita. Nihon ni, kaette kuru koto o, 'kikoku' to iimasu. Watashi wa, juunen mae ni, kikoku shimashita."
+  },
+  "vl15.w1_q": {
+    "en": "Are “kikoku” and “kaeru” different?",
+    "ru": "«Кикоку» и «каэру» отличаются?",
+    "zh": "「帰国」和「帰る」有区别吗？",
+    "ja": "「帰国」と「帰る」は、ちがいますか？",
+    "romaji": "'Kikoku' to 'kaeru' wa, chigaimasu ka?"
+  },
+  "vl15.w1_a": {
+    "en": "Yes. “Kaeru” means returning to home or one's hometown. “Kikoku” means returning to one's own country. It's used as in “kikoku suru” or “kikokushijo.”",
+    "ru": "Да. «Каэру» — возвращаться домой или в родные места. «Кикоку» — возвращаться в свою страну. Используется, например, в «кикоку суру» или «кикокусидзё».",
+    "zh": "是的。「帰る」是回到家或故乡。「帰国」是回到自己的国家。用法如「帰国する」「帰国子女」。",
+    "ja": "はい。「帰る」は、家や、ふるさとに、もどることです。「帰国」は、自分の国に、もどることです。「帰国する」「帰国子女」のように、使います。",
+    "romaji": "Hai. 'Kaeru' wa, ie ya, furusato ni, modoru koto desu. 'Kikoku' wa, jibun no kuni ni, modoru koto desu. 'Kikoku suru' 'kikokushijo' no you ni, tsukaimasu."
+  },
+  "vl15.w2": {
+    "en": "Today I “saihou,” revisited, this town for the first time in ten years. “Saihou” means going once again to a place you've been before.",
+    "ru": "Сегодня я «сайхо:» — повторно посетил этот город впервые за десять лет. «Сайхо:» — снова отправиться в место, где вы уже бывали.",
+    "zh": "今天我时隔十年「再訪」了这个小镇。「再訪」是再次前往以前去过的地方。",
+    "ja": "今日は、この町を、十年ぶりに、「再訪」しました。「再訪」は、前に行った場所に、もう一度、行くことです。",
+    "romaji": "Kyou wa, kono machi o, juunen-buri ni, 'saihou' shimashita. 'Saihou' wa, mae ni itta basho ni, mou ichido, iku koto desu."
+  },
+  "vl15.w2_q": {
+    "en": "Are “saihou” and “mou ichido, iku” the same?",
+    "ru": "«Сайхо:» и «моу итидо, ику» — одно и то же?",
+    "zh": "「再訪」和「もう一度、行く」一样吗？",
+    "ja": "「再訪」と「もう一度、行く」は、同じですか？",
+    "romaji": "'Saihou' to 'mou ichido, iku' wa, onaji desu ka?"
+  },
+  "vl15.w2_a": {
+    "en": "The meaning is the same, but “saihou” is a stiffer word. It's often used in travel articles and announcements. In speech, “mata, iku” is more natural.",
+    "ru": "Значение одинаково, но «сайхо:» — более формальное слово. Его часто используют в статьях о путешествиях и в объявлениях. В разговоре естественнее «мата, ику».",
+    "zh": "意思相同，但「再訪」更书面。常用于旅行报道和通知。说话时，「また、行く」更自然。",
+    "ja": "意味は、同じですが、「再訪」のほうが、かたい言葉です。旅行の記事や、お知らせで、よく使います。話すときは、「また、行く」が、自然です。",
+    "romaji": "Imi wa, onaji desu ga, 'saihou' no hou ga, katai kotoba desu. Ryokou no kiji ya, oshirase de, yoku tsukaimasu. Hanasu toki wa, 'mata, iku' ga, shizen desu."
+  },
+  "vl15.w3": {
+    "en": "That time is called “touji.” “Touji” refers to the time when that event took place. It's used as in “touji, watashi wa, gakusei deshita.”",
+    "ru": "Тот момент называют «то:дзи». «То:дзи» — это время, когда произошло то событие. Используется, например, в «то:дзи, ватаси ва, гакусэй дэсита».",
+    "zh": "那个时候叫「当時」。「当時」指那件事发生的那个时期。用法如「当時、私は、学生でした」。",
+    "ja": "あの時は、「当時」と言います。「当時」は、その出来事が、あった、その時のことです。「当時、私は、学生でした」のように、使います。",
+    "romaji": "Ano toki wa, 'touji' to iimasu. 'Touji' wa, sono dekigoto ga, atta, sono toki no koto desu. 'Touji, watashi wa, gakusei deshita' no you ni, tsukaimasu."
+  },
+  "vl15.w3_q": {
+    "en": "Are “touji” and “mukashi” different?",
+    "ru": "«То:дзи» и «мукаси» отличаются?",
+    "zh": "「当時」和「昔」有区别吗？",
+    "ja": "「当時」と「昔」は、ちがいますか？",
+    "romaji": "'Touji' to 'mukashi' wa, chigaimasu ka?"
+  },
+  "vl15.w3_a": {
+    "en": "Yes. “Mukashi” is simply a long time ago. “Touji” is a period tied to the event being discussed. “Touji no shashin” is a photo from the time of that event.",
+    "ru": "Да. «Мукаси» — просто давным-давно. «То:дзи» — эпоха, связанная с обсуждаемым событием. «То:дзи но сясин» — фотография из времени того события.",
+    "zh": "是的。「昔」仅仅指很久以前。「当時」是与所谈事件相联系的那个时代。「当時の写真」是那件事发生时的照片。",
+    "ja": "はい。「昔」は、ただ、ずっと前のことです。「当時」は、話している出来事と、結びついた時代です。「当時の写真」は、その出来事の時の、写真です。",
+    "romaji": "Hai. 'Mukashi' wa, tada, zutto mae no koto desu. 'Touji' wa, hanashite iru dekigoto to, musubitsuita jidai desu. 'Touji no shashin' wa, sono dekigoto no toki no, shashin desu."
+  },
+  "vl15.w4": {
+    "en": "Look at this old sign. It's “natsukashii,” isn't it. “Natsukashii” is a feeling of happiness with a little loneliness when you meet things or people from the past.",
+    "ru": "Посмотрите на эту старую вывеску. Как «нацукасий», правда? «Нацукасий» — чувство радости, смешанной с лёгкой грустью, когда вы встречаете вещи или людей из прошлого.",
+    "zh": "请看这块旧招牌。真「懐かしい」呢。「懐かしい」是遇到过去的东西或人时，既高兴又有点寂寞的心情。",
+    "ja": "この、古い看板を、見てください。「懐かしい」ですね。「懐かしい」は、昔のものや、人に会って、うれしくて、少し、さびしい気持ちです。",
+    "romaji": "Kono, furui kanban o, mite kudasai. 'Natsukashii' desu ne. 'Natsukashii' wa, mukashi no mono ya, hito ni atte, ureshikute, sukoshi, sabishii kimochi desu."
+  },
+  "vl15.w4_q": {
+    "en": "Can I just read it as “natsukashii” and that's it?",
+    "ru": "Достаточно ли просто прочитать его как «нацукасий»?",
+    "zh": "「懐かしい」就读作「なつかしい」就可以了吗？",
+    "ja": "「懐かしい」は、「なつかしい」と、読むだけで、いいですか？",
+    "romaji": "'Natsukashii' wa, 'natsukashii' to, yomu dake de, ii desu ka?"
+  },
+  "vl15.w4_a": {
+    "en": "The reading is fine like that. For usage, attach it directly before a noun, as in “natsukashii omise” or “natsukashii uta.” You don't need “na.”",
+    "ru": "Чтение верное. При использовании его ставят прямо перед существительным: «нацукасий омисэ», «нацукасий ута». «На» не нужна.",
+    "zh": "读音这样就可以了。用法是直接加在名词前，如「懐かしいお店」「懐かしい歌」。不需要「な」。",
+    "ja": "読み方は、それで、いいです。使い方は、「懐かしいお店」「懐かしい歌」のように、名詞の前に、直接つけます。「な」は、要りません。",
+    "romaji": "Yomikata wa, sore de, ii desu. Tsukaikata wa, 'natsukashii omise' 'natsukashii uta' no you ni, meishi no mae ni, chokusetsu tsukemasu. 'Na' wa, irimasen."
+  },
+  "vl15.p1_prompt": {
+    "en": "Sensei points at the sign of an old toy shop. You also came to this shop as a child. You want to say you're happy to see a shop from long ago. What do you say?",
+    "ru": "Сэнсэй показывает на вывеску старого магазина игрушек. Вы тоже приходили в этот магазин в детстве. Вы хотите сказать, что рады видеть магазин из прошлого. Что вы скажете?",
+    "zh": "老师指着一家旧玩具店的招牌。你小时候也来过这家店。你想说看到旧时的店很高兴。你会怎么说？",
+    "ja": "先生が、古い、おもちゃ屋の看板を、指さしました。あなたも、子どものころ、この店に、来たことが、あります。「昔の、お店を見て、うれしい」と言いたいです。何と言いますか？",
+    "romaji": "Sensei ga, furui, omochaya no kanban o, yubisashimashita. Anata mo, kodomo no koro, kono mise ni, kita koto ga, arimasu. 'Mukashi no, omise o mite, ureshii' to iitai desu. Nan to iimasu ka?"
+  },
+  "vl15.c1_natural": {
+    "en": "“Wow, how nostalgic. I came here often as a child.”",
+    "ru": "«Ух ты, как ностальгично. В детстве я часто здесь бывал».",
+    "zh": "“哇，好怀念啊。小时候我经常来。”",
+    "ja": "「わあ、懐かしいですね。子どものころ、よく来ました。」",
+    "romaji": "'Waa, natsukashii desu ne. Kodomo no koro, yoku kimashita.'"
+  },
+  "vl15.c1_formal": {
+    "en": "“This scene truly evokes a sense of nostalgia.”",
+    "ru": "«Эта картина поистине пробуждает ностальгию».",
+    "zh": "“此情此景，实在令人乡愁涌动。”",
+    "ja": "「この光景は、まことに、郷愁を、誘われます。」",
+    "romaji": "'Kono koukei wa, makoto ni, kyoushuu o, sasowaremasu.'"
+  },
+  "vl15.c1_mistake": {
+    "en": "“Wow, what a natsukashii-na shop.”",
+    "ru": "«Ух ты, какой нацукасий-на магазин».",
+    "zh": "“哇，懐かしいなお店呢。”（多加了「な」）",
+    "ja": "「わあ、懐かしいなお店ですね。」",
+    "romaji": "'Waa, natsukashii na omise desu ne.'"
+  },
+  "vl15.c1_own": {
+    "en": "“Wow, how nostalgic. This sign is the same color as before.”",
+    "ru": "«Ух ты, как ностальгично. Эта вывеска такого же цвета, как раньше».",
+    "zh": "“哇，好怀念。这块招牌，和以前是同样的颜色呢。”",
+    "ja": "「わあ、懐かしいですね。この看板、昔と、同じ色ですね。」",
+    "romaji": "'Waa, natsukashii desu ne. Kono kanban, mukashi to, onaji iro desu ne.'"
+  },
+  "vl15.c1_min": {
+    "en": "“Nostalgic...”",
+    "ru": "«Ностальгично…»",
+    "zh": "“怀念……”",
+    "ja": "「懐かしい…」",
+    "romaji": "'Natsukashii...'"
+  },
+  "vl15.p1_natural_r": {
+    "en": "Yes, natural. That's just the right way to use “natsukashii.”",
+    "ru": "Да, естественно. Это самое подходящее использование «нацукасий».",
+    "zh": "对，很自然。这是「懐かしい」恰到好处的用法。",
+    "ja": "はい、自然です。「懐かしい」の、ぴったりの使い方です。",
+    "romaji": "Hai, shizen desu. 'Natsukashii' no, pittari no tsukaikata desu."
+  },
+  "vl15.p1_formal_r": {
+    "en": "Ha, you sound like a poet. “Natsukashii desu ne” is fine.",
+    "ru": "Ха-ха, как поэт. Достаточно «нацукасий дэс нэ».",
+    "zh": "呵呵，像诗人一样。说「懐かしいですね」就行。",
+    "ja": "ふふ、詩人みたいです。「懐かしいですね」で、いいですよ。",
+    "romaji": "Fufu, shijin mitai desu. 'Natsukashii desu ne' de, ii desu yo."
+  },
+  "vl15.p1_mistake_r": {
+    "en": "Close. “Natsukashii” is an i-adjective. You don't add “na.” It's “natsukashii omise.”",
+    "ru": "Почти. «Нацукасий» — i-прилагательное. «На» не добавляют. Получается «нацукасий омисэ».",
+    "zh": "很接近。「懐かしい」是い形容词。不加「な」。说「懐かしいお店」。",
+    "ja": "惜しいです。「懐かしい」は、い形容詞です。「な」は、つけません。「懐かしいお店」です。",
+    "romaji": "Oshii desu. 'Natsukashii' wa, i-keiyoushi desu. 'Na' wa, tsukemasen. 'Natsukashii omise' desu."
+  },
+  "vl15.p1_mis_retry": {
+    "en": "Wow, what a nostalgic shop.",
+    "ru": "Ух ты, какой ностальгичный магазин.",
+    "zh": "哇，好怀念的店呢。",
+    "ja": "わあ、懐かしいお店ですね。",
+    "romaji": "Waa, natsukashii omise desu ne."
+  },
+  "vl15.p1_mis_relief": {
+    "en": "Yes, that's it. An i-adjective connects directly to a noun.",
+    "ru": "Да, именно так. I-прилагательное присоединяется прямо к существительному.",
+    "zh": "对，就是这个。い形容词直接连接名词。",
+    "ja": "はい、それです。い形容詞は、そのまま、名詞に、つながります。",
+    "romaji": "Hai, sore desu. I-keiyoushi wa, sono mama, meishi ni, tsunagarimasu."
+  },
+  "vl15.p1_own_r": {
+    "en": "You noticed a good point. The color has faded a little, though.",
+    "ru": "Вы подметили важную деталь. Правда, цвет немного поблёк.",
+    "zh": "你注意到了很好的地方。虽然颜色稍微淡了一点。",
+    "ja": "いいところに、気づきましたね。少し、色が、うすくなりましたが。",
+    "romaji": "Ii tokoro ni, kizukimashita ne. Sukoshi, iro ga, usuku narimashita ga."
+  },
+  "vl15.p1_min_r": {
+    "en": "Your feeling comes across. Saying it politely, “natsukashii desu ne,” sounds nice.",
+    "ru": "Ваше чувство понятно. Если сказать вежливо, «нацукасий дэс нэ», прозвучит хорошо.",
+    "zh": "你的心情能传达。礼貌地说「懐かしいですね」，会更好。",
+    "ja": "気持ちは、伝わります。「懐かしいですね」と、ていねいに言うと、いい感じです。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Natsukashii desu ne' to, teinei ni iu to, ii kanji desu."
+  },
+  "vl15.k_touji": {
+    "en": "Sensei, what was this street like back then?",
+    "ru": "Сэнсэй, какой была эта улица в то время?",
+    "zh": "老师，当时这条路是什么样子的？",
+    "ja": "先生、当時は、この道は、どんな感じでしたか？",
+    "romaji": "Sensei, touji wa, kono michi wa, donna kanji deshita ka?"
+  },
+  "vl15.p2_prompt": {
+    "en": "You want to ask Sensei, “Was this street livelier back then?” Please ask using “touji.” What do you say?",
+    "ru": "Вы хотите спросить сэнсэя: «Была ли эта улица тогда оживлённее?» Спросите, используя «то:дзи». Что вы скажете?",
+    "zh": "你想问老师：“那时候，这条路更热闹吗？”请使用「当時」来问。你会怎么说？",
+    "ja": "先生に、聞きたいです。「あの頃は、この道は、もっと、にぎやかでしたか」と。「当時」を使って、聞いてください。何と言いますか？",
+    "romaji": "Sensei ni, kikitai desu. 'Ano koro wa, kono michi wa, motto, nigiyaka deshita ka' to. 'Touji' o tsukatte, kiite kudasai. Nan to iimasu ka?"
+  },
+  "vl15.c2_natural": {
+    "en": "“Sensei, was this street livelier back then?”",
+    "ru": "«Сэнсэй, была ли эта улица тогда оживлённее?»",
+    "zh": "“老师，当时这条路更热闹吗？”",
+    "ja": "「先生、当時は、この道は、もっと、にぎやかでしたか？」",
+    "romaji": "'Sensei, touji wa, kono michi wa, motto, nigiyaka deshita ka?'"
+  },
+  "vl15.c2_formal": {
+    "en": "“Pardon me, but might I ask you to tell me what this street was like back then?”",
+    "ru": "«Прошу прощения, не могли бы вы рассказать, какой была эта улица в то время?»",
+    "zh": "“冒昧请问，可否讲讲当时这条街的情形？”",
+    "ja": "「恐れ入りますが、当時の、この通りの様子を、お聞かせ願えませんでしょうか。」",
+    "romaji": "'Osoreirimasu ga, touji no, kono toori no yousu o, okikase negaemasen deshou ka.'"
+  },
+  "vl15.c2_mistake": {
+    "en": "“Sensei, at (de) that time, was this street livelier?”",
+    "ru": "«Сэнсэй, в (дэ) то время эта улица была оживлённее?»",
+    "zh": "“老师，当時で，这条路更热闹吗？”（应该用「は」）",
+    "ja": "「先生、当時で、この道は、もっと、にぎやかでしたか？」",
+    "romaji": "'Sensei, touji de, kono michi wa, motto, nigiyaka deshita ka?'"
+  },
+  "vl15.c2_own": {
+    "en": "“Sensei, was this street livelier back then? Was this shop here too?”",
+    "ru": "«Сэнсэй, была ли эта улица тогда оживлённее? Этот магазин тоже был?»",
+    "zh": "“老师，当时这条路更热闹吗？这家店也有吗？”",
+    "ja": "「先生、当時は、この道は、もっと、にぎやかでしたか？この店も、ありましたか？」",
+    "romaji": "'Sensei, touji wa, kono michi wa, motto, nigiyaka deshita ka? Kono mise mo, arimashita ka?'"
+  },
+  "vl15.c2_min": {
+    "en": "“Back then... lively...”",
+    "ru": "«Тогда… оживлённо…»",
+    "zh": "“当时……热闹……”",
+    "ja": "「当時…にぎやか…」",
+    "romaji": "'Touji... nigiyaka...'"
+  },
+  "vl15.p2_natural_r": {
+    "en": "Yes, it was. In the evenings, it was full of people.",
+    "ru": "Да, была. По вечерам она была полна людей.",
+    "zh": "是的。傍晚这里挤满了人。",
+    "ja": "はい、そうでした。夕方は、人で、いっぱいでした。",
+    "romaji": "Hai, sou deshita. Yuugata wa, hito de, ippai deshita."
+  },
+  "vl15.p2_formal_r": {
+    "en": "Haha, it sounds like an interview. “Donna kanji deshita ka” is fine.",
+    "ru": "Ха-ха, как интервью. Достаточно «донна канзи дэсита ка».",
+    "zh": "哈哈，像采访一样。说「どんな感じでしたか」就行。",
+    "ja": "あはは、インタビューみたいです。「どんな感じでしたか」で、いいですよ。",
+    "romaji": "Ahaha, intabyuu mitai desu. 'Donna kanji deshita ka' de, ii desu yo."
+  },
+  "vl15.p2_mistake_r": {
+    "en": "Close. After “touji,” use “wa” or a comma. It's “touji wa, ~.” You don't use “de.”",
+    "ru": "Почти. После «то:дзи» используют «ва» или запятую. Получается «то:дзи ва, ~». «Дэ» не используют.",
+    "zh": "很接近。「当時」之后用「は」或逗号。说「当時は、〜」。不用「で」。",
+    "ja": "惜しいです。「当時」の後には、「は」か、「、」を使います。「当時は、〜」です。「で」は、使いません。",
+    "romaji": "Oshii desu. 'Touji' no ato ni wa, 'wa' ka, ',' o tsukaimasu. 'Touji wa, ~' desu. 'De' wa, tsukaimasen."
+  },
+  "vl15.p2_mis_retry": {
+    "en": "Sensei, was this street livelier back then?",
+    "ru": "Сэнсэй, была ли эта улица тогда оживлённее?",
+    "zh": "老师，当时这条路更热闹吗？",
+    "ja": "先生、当時は、この道は、もっと、にぎやかでしたか？",
+    "romaji": "Sensei, touji wa, kono michi wa, motto, nigiyaka deshita ka?"
+  },
+  "vl15.p2_mis_relief": {
+    "en": "Yes, that's it. “Touji wa” lets you start speaking naturally.",
+    "ru": "Да, именно так. С «то:дзи ва» вы можете естественно начать говорить.",
+    "zh": "对，就是这个。用「当時は」，能自然地开始说话。",
+    "ja": "はい、それです。「当時は」で、自然に、話し始められます。",
+    "romaji": "Hai, sore desu. 'Touji wa' de, shizen ni, hanashihajimeraremasu."
+  },
+  "vl15.p2_own_r": {
+    "en": "Yes, it was. I often bought bread there.",
+    "ru": "Да, был. Я часто покупал там хлеб.",
+    "zh": "是的，有的。我经常在那里买面包。",
+    "ja": "はい、ありましたよ。よく、パンを、買いました。",
+    "romaji": "Hai, arimashita yo. Yoku, pan o, kaimashita."
+  },
+  "vl15.p2_min_r": {
+    "en": "I understand. Let's ask as a sentence: “touji wa, nigiyaka deshita ka.”",
+    "ru": "Понимаю. Спросим предложением: «то:дзи ва, нидзияка дэсита ка».",
+    "zh": "我明白。用句子问：「当時は、にぎやかでしたか」。",
+    "ja": "分かりますよ。「当時は、にぎやかでしたか」と、文で、聞きましょう。",
+    "romaji": "Wakarimasu yo. 'Touji wa, nigiyaka deshita ka' to, bun de, kikimashou."
+  },
+  "vl15.walk": {
+    "en": "They walked to the very end of the shopping street. A large vacant lot stretched out there.",
+    "ru": "Они дошли до самого конца торговой улицы. Там простирался большой пустырь.",
+    "zh": "走到了商店街的最深处。那里是一大片空地。",
+    "ja": "商店街の、いちばん奥まで、歩いた。そこには、大きな、空き地が、広がっていた。",
+    "romaji": "Shoutengai no, ichiban oku made, aruita. Soko ni wa, ookina, akichi ga, hirogatte ita."
+  },
+  "vl15.w5": {
+    "en": "There used to be an old movie theater here. But the building became old, and it was decided to “torikowasu,” demolish it. “Torikowasu” means to take a building down and get rid of it.",
+    "ru": "Здесь раньше был старый кинотеатр. Но здание обветшало, и было решено его «торикова́су» — снести. «Торикова́су» — разрушить здание и избавиться от него.",
+    "zh": "这里曾有一座老电影院。但建筑变旧了，决定要「取り壊す」。「取り壊す」是把建筑拆除掉。",
+    "ja": "ここには、古い映画館が、ありました。でも、建物が、古くなって、「取り壊す」ことに、なりました。「取り壊す」は、建物を、こわして、なくすことです。",
+    "romaji": "Koko ni wa, furui eigakan ga, arimashita. Demo, tatemono ga, furuku natte, 'torikowasu' koto ni, narimashita. 'Torikowasu' wa, tatemono o, kowashite, nakusu koto desu."
+  },
+  "vl15.w6": {
+    "en": "Now there is nothing. This place is called “atochi.” “Atochi” refers to the land after a building has disappeared.",
+    "ru": "Сейчас здесь ничего нет. Это место называют «атоти». «Атоти» — это земля после того, как здание исчезло.",
+    "zh": "现在什么都没有了。这个地方叫「跡地」。「跡地」是建筑消失之后留下的土地。",
+    "ja": "いまは、何も、ありません。この場所を、「跡地」と言います。「跡地」は、建物が、なくなった、あとの土地のことです。",
+    "romaji": "Ima wa, nani mo, arimasen. Kono basho o, 'atochi' to iimasu. 'Atochi' wa, tatemono ga, nakunatta, ato no tochi no koto desu."
+  },
+  "vl15.w6_q": {
+    "en": "Are “atochi” and “akichi” different?",
+    "ru": "«Атоти» и «акити» отличаются?",
+    "zh": "「跡地」和「空き地」有区别吗？",
+    "ja": "「跡地」と「空き地」は、ちがいますか？",
+    "romaji": "'Atochi' to 'akichi' wa, chigaimasu ka?"
+  },
+  "vl15.w6_a": {
+    "en": "Yes. “Akichi” is land with nothing standing on it. “Atochi” is land where something used to be. You name the former building, as in “eigakan no atochi.”",
+    "ru": "Да. «Акити» — земля, на которой ничего не стоит. «Атоти» — земля, где раньше что-то было. Называют прежнее здание, например «эйгакан но атоти».",
+    "zh": "是的。「空き地」是什么都没建的土地。「跡地」是以前有过什么东西的土地。像「映画館の跡地」这样，说出以前的建筑。",
+    "ja": "はい。「空き地」は、何も、建っていない土地です。「跡地」は、前に、何かが、あった土地です。「映画館の跡地」のように、前の建物を、言います。",
+    "romaji": "Hai. 'Akichi' wa, nani mo, tatte inai tochi desu. 'Atochi' wa, mae ni, nani ka ga, atta tochi desu. 'Eigakan no atochi' no you ni, mae no tatemono o, iimasu."
+  },
+  "vl15.p3_prompt": {
+    "en": "You want to explain this place to a friend. You want to say “the movie theater was demolished, and now it's a former site.” What do you say?",
+    "ru": "Вы хотите объяснить другу это место. Вы хотите сказать «кинотеатр снесли, и теперь на его месте пустырь». Что вы скажете?",
+    "zh": "你想向朋友说明这个地方。你想说“电影院被拆了，现在成了空地”。你会怎么说？",
+    "ja": "あなたは、この場所について、友達に、説明したいです。「映画館が、取り壊されて、今は、跡地に、なっている」と、言いたいです。何と言いますか？",
+    "romaji": "Anata wa, kono basho ni tsuite, tomodachi ni, setsumei shitai desu. 'Eigakan ga, torikowasarete, ima wa, atochi ni, natte iru' to, iitai desu. Nan to iimasu ka?"
+  },
+  "vl15.c3_natural": {
+    "en": "“This is the site of a former movie theater. It was demolished, and now there's nothing.”",
+    "ru": "«Это бывший кинотеатр. Его снесли, и теперь здесь ничего нет».",
+    "zh": "“这里是电影院的旧址。被拆除了，现在什么都没有。”",
+    "ja": "「ここは、映画館の跡地です。取り壊されて、今は、何もありません。」",
+    "romaji": "'Koko wa, eigakan no atochi desu. Torikowasarete, ima wa, nani mo arimasen.'"
+  },
+  "vl15.c3_formal": {
+    "en": "“This land is the former site of a movie theater, and following demolition it has become cleared ground.”",
+    "ru": "«Эта земля — бывший кинотеатр, и после сноса она стала расчищенным участком».",
+    "zh": "“此地乃电影院旧址，拆除之后已成为空地。”",
+    "ja": "「この地は、映画館の、旧跡にございまして、解体の後は、更地となっております。」",
+    "romaji": "'Kono chi wa, eigakan no, kyuuseki ni gozaimashite, kaitai no ato wa, sarachi to natte orimasu.'"
+  },
+  "vl15.c3_mistake": {
+    "en": "“(Someone) was demolished the movie theater (o), and now it's a former site.”",
+    "ru": "«Кинотеатр (о) был снесён, и теперь это бывший участок».",
+    "zh": "“映画館を，被拆除了，现在是旧址。”（被动句主语应该用「は」或「が」）",
+    "ja": "「映画館を、取り壊されて、今は、跡地です。」",
+    "romaji": "'Eigakan o, torikowasarete, ima wa, atochi desu.'"
+  },
+  "vl15.c3_own": {
+    "en": "“This is the site of a former movie theater. It's been ten years since it was demolished.”",
+    "ru": "«Это бывший кинотеатр. Прошло десять лет с тех пор, как его снесли».",
+    "zh": "“这里是电影院的旧址。已经被拆除十年了。”",
+    "ja": "「ここは、映画館の跡地です。取り壊されて、もう、十年に、なります。」",
+    "romaji": "'Koko wa, eigakan no atochi desu. Torikowasarete, mou, juunen ni, narimasu.'"
+  },
+  "vl15.c3_min": {
+    "en": "“Movie theater... former site...”",
+    "ru": "«Кинотеатр… бывший участок…»",
+    "zh": "“电影院……旧址……”",
+    "ja": "「映画館…跡地…」",
+    "romaji": "'Eigakan... atochi...'"
+  },
+  "vl15.p3_natural_r": {
+    "en": "Yes, easy to understand. You used both “atochi” and “torikowasu.”",
+    "ru": "Да, понятно. Вы использовали и «атоти», и «торикова́су».",
+    "zh": "对，很容易懂。「跡地」和「取り壊す」你都用上了。",
+    "ja": "はい、分かりやすいです。「跡地」と「取り壊す」が、両方、使えましたね。",
+    "romaji": "Hai, wakariyasui desu. 'Atochi' to 'torikowasu' ga, ryouhou, tsukaemashita ne."
+  },
+  "vl15.p3_formal_r": {
+    "en": "Ha, you sound like a tour guide. “Torikowasarete, ima wa, atochi desu” is fine.",
+    "ru": "Ха-ха, как гид. Достаточно «торикова́сарэтэ, има ва, атоти дэс».",
+    "zh": "呵呵，像导游一样。说「取り壊されて、今は、跡地です」就行。",
+    "ja": "ふふ、ガイドさんみたいです。「取り壊されて、今は、跡地です」で、いいですよ。",
+    "romaji": "Fufu, gaido-san mitai desu. 'Torikowasarete, ima wa, atochi desu' de, ii desu yo."
+  },
+  "vl15.p3_mistake_r": {
+    "en": "Close. “Torikowasareru” is the passive. The thing that was demolished becomes the subject, so it's “eigakan wa” or “eigakan ga.” “O” isn't used.",
+    "ru": "Почти. «Торикова́сарэру» — страдательный залог. Подлежащим становится разрушенный объект, поэтому «эйгакан ва» или «эйгакан га». «О» не используют.",
+    "zh": "很接近。「取り壊される」是被动态。被拆的东西成为主语，所以用「映画館は」或「映画館が」。不用「を」。",
+    "ja": "惜しいです。「取り壊される」は、受け身です。壊された物が、主語になるので、「映画館は」か、「映画館が」です。「を」は、使いません。",
+    "romaji": "Oshii desu. 'Torikowasareru' wa, ukemi desu. Kowasareta mono ga, shugo ni naru node, 'eigakan wa' ka, 'eigakan ga' desu. 'O' wa, tsukaimasen."
+  },
+  "vl15.p3_mis_retry": {
+    "en": "The movie theater was demolished, and now it's a former site.",
+    "ru": "Кинотеатр снесли, и теперь это бывший участок.",
+    "zh": "电影院被拆除了，现在是旧址。",
+    "ja": "映画館は、取り壊されて、今は、跡地です。",
+    "romaji": "Eigakan wa, torikowasarete, ima wa, atochi desu."
+  },
+  "vl15.p3_mis_relief": {
+    "en": "Yes, that's it. The subject of a passive is “ga” or “wa.”",
+    "ru": "Да, именно так. Подлежащее страдательного залога — «га» или «ва».",
+    "zh": "对，就是这个。被动句的主语用「が」或「は」。",
+    "ja": "はい、それです。受け身の主語は、「が」か「は」ですね。",
+    "romaji": "Hai, sore desu. Ukemi no shugo wa, 'ga' ka 'wa' desu ne."
+  },
+  "vl15.p3_own_r": {
+    "en": "That's right. It was just after I returned home.",
+    "ru": "Верно. Это было вскоре после моего возвращения на родину.",
+    "zh": "没错。那是我归国后不久。",
+    "ja": "そうです。私が、帰国した、少しあとでした。",
+    "romaji": "Sou desu. Watashi ga, kikoku shita, sukoshi ato deshita."
+  },
+  "vl15.p3_min_r": {
+    "en": "Your meaning comes across. Try saying “eigakan no atochi desu.”",
+    "ru": "Ваша мысль понятна. Скажите «эйгакан но атоти дэс».",
+    "zh": "你的意思能传达。试着说「映画館の跡地です」。",
+    "ja": "気持ちは、伝わります。「映画館の跡地です」と、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Eigakan no atochi desu' to, itte mimashou."
+  },
+  "vl15.signboard": {
+    "en": "At the edge of the vacant lot stands a small stone pillar. In faded characters it reads “Gin'eiza.”",
+    "ru": "На краю участка стоит небольшая каменная колонна. На ней выцветшими иероглифами написано «Гин-эйдза».",
+    "zh": "空地的一角，立着一根小石柱。上面用褪色的字写着“银映座”。",
+    "ja": "跡地の、はしに、小さな、石の柱が、立っていた。「銀映座」と、かすれた字で、書いてある。",
+    "romaji": "Atochi no, hashi ni, chiisana, ishi no hashira ga, tatte ita. 'Gin'eiza' to, kasureta ji de, kaite aru."
+  },
+  "vl15.w7": {
+    "en": "The building is gone, but this stone still has a trace of the past, an “omokage.” “Omokage” refers to an appearance that brings back the former look.",
+    "ru": "Здание исчезло, но у этого камня всё ещё есть «омокагэ» — след прошлого. «Омокагэ» — это облик, напоминающий прежний вид.",
+    "zh": "建筑虽然没有了，但这块石头上仍留有往昔的「面影」。「面影」是让人回想起以前样子的模样。",
+    "ja": "建物は、なくなりましたが、この石には、まだ、昔の「面影」が、あります。「面影」は、前の姿を、思い出させる、様子のことです。",
+    "romaji": "Tatemono wa, nakunarimashita ga, kono ishi ni wa, mada, mukashi no 'omokage' ga, arimasu. 'Omokage' wa, mae no sugata o, omoidasaseru, yousu no koto desu."
+  },
+  "vl15.w7_q": {
+    "en": "Are “omokage” and “omoide” different?",
+    "ru": "«Омокагэ» и «омоидэ» отличаются?",
+    "zh": "「面影」和「思い出」有区别吗？",
+    "ja": "「面影」と「思い出」は、ちがいますか？",
+    "romaji": "'Omokage' to 'omoide' wa, chigaimasu ka?"
+  },
+  "vl15.w7_a": {
+    "en": "Yes. “Omoide” is a memory in your heart. “Omokage” is the former appearance that remains in the thing or person in front of you. “Sobo no omokage” can also mean a face that resembles one's grandmother.",
+    "ru": "Да. «Омоидэ» — воспоминание в сердце. «Омокагэ» — прежний облик, сохранившийся в предмете или человеке перед вами. «Собо но омокагэ» также может означать лицо, похожее на бабушкино.",
+    "zh": "是的。「思い出」是心中的记忆。「面影」是眼前的物或人身上留存的往昔模样。「祖母の面影」也可以指长相与祖母相似。",
+    "ja": "はい。「思い出」は、心の中の記憶です。「面影」は、目の前の、ものや人に、残っている、昔の姿です。「祖母の面影」は、顔つきが、似ていることも、あります。",
+    "romaji": "Hai. 'Omoide' wa, kokoro no naka no kioku desu. 'Omokage' wa, me no mae no, mono ya hito ni, nokotte iru, mukashi no sugata desu. 'Sobo no omokage' wa, kaotsuki ga, nite iru koto mo, arimasu."
+  },
+  "vl15.w8": {
+    "en": "This stone was able to “nokoru,” remain, even after the demolition. “Nokoru” means to still be there without disappearing. You say “omokage ga, nokotte iru.”",
+    "ru": "Этот камень смог «нокору» — остаться — даже после сноса. «Нокору» — не исчезнуть, а находиться на месте. Говорят «омокагэ га, нокоттэ иру».",
+    "zh": "这块石头在拆除之后也得以「残る」。「残る」是没有消失，还在原处。说「面影が、残っている」。",
+    "ja": "この石は、取り壊しのあとも、「残る」ことが、できました。「残る」は、なくならないで、その場に、あることです。「面影が、残っている」と言います。",
+    "romaji": "Kono ishi wa, torikowashi no ato mo, 'nokoru' koto ga, dekimashita. 'Nokoru' wa, nakunaranaide, sono ba ni, aru koto desu. 'Omokage ga, nokotte iru' to iimasu."
+  },
+  "vl15.w8_q": {
+    "en": "Are “nokoru” and “nokosu” different?",
+    "ru": "«Нокору» и «нокосу» отличаются?",
+    "zh": "「残る」和「残す」有区别吗？",
+    "ja": "「残る」と「残す」は、ちがいますか？",
+    "romaji": "'Nokoru' to 'nokosu' wa, chigaimasu ka?"
+  },
+  "vl15.w8_a": {
+    "en": "Yes. “Nokoru” is when something remains on its own. It takes “ga.” “Nokosu” is when a person deliberately leaves something. It takes “o.” You say it as in “tabemono o, nokosu.”",
+    "ru": "Да. «Нокору» — когда что-то остаётся само собой. Используется «га». «Нокосу» — когда человек намеренно оставляет что-то. Используется «о». Говорят, например, «табэмоно о, нокосу».",
+    "zh": "是的。「残る」是自然而然地留下。用「が」。「残す」是人有意地留下。用「を」。说「食べ物を、残す」。",
+    "ja": "はい。「残る」は、自然に、残ることです。「が」を使います。「残す」は、人が、わざと、残すことです。「を」を使います。「食べ物を、残す」のように言います。",
+    "romaji": "Hai. 'Nokoru' wa, shizen ni, nokoru koto desu. 'Ga' o tsukaimasu. 'Nokosu' wa, hito ga, wazato, nokosu koto desu. 'O' o tsukaimasu. 'Tabemono o, nokosu' no you ni iimasu."
+  },
+  "vl15.p4_prompt": {
+    "en": "Sensei asked, “What remains on this stone?” You want to answer, “A trace of the past remains.” What do you say?",
+    "ru": "Сэнсэй спросил: «Что осталось на этом камне?» Вы хотите ответить: «След прошлого остался». Что вы скажете?",
+    "zh": "老师问：“这块石头上留下了什么？”你想回答“留下了往昔的面影”。你会怎么说？",
+    "ja": "先生が、聞きました。「この石に、何が、残っていますか？」あなたは、「昔の、面影が、残っている」と、答えたいです。何と言いますか？",
+    "romaji": "Sensei ga, kikimashita. 'Kono ishi ni, nani ga, nokotte imasu ka?' Anata wa, 'mukashi no, omokage ga, nokotte iru' to, kotaetai desu. Nan to iimasu ka?"
+  },
+  "vl15.c4_natural": {
+    "en": "“A trace of the past remains on this stone.”",
+    "ru": "«На этом камне остался след прошлого».",
+    "zh": "“这块石头上还留着往昔的面影呢。”",
+    "ja": "「この石に、昔の面影が、残っていますね。」",
+    "romaji": "'Kono ishi ni, mukashi no omokage ga, nokotte imasu ne.'"
+  },
+  "vl15.c4_formal": {
+    "en": "“In this monument, traces of former days are still preserved.”",
+    "ru": "«В этой стеле до сих пор сохранились следы былых времён».",
+    "zh": "“此石碑上，仍保留着往昔的面影。”",
+    "ja": "「この石碑には、往時の面影が、今なお、留められております。」",
+    "romaji": "'Kono sekihi ni wa, ouji no omokage ga, ima nao, todomerarete orimasu.'"
+  },
+  "vl15.c4_mistake": {
+    "en": "“On this stone, a trace of the past (o) remains.”",
+    "ru": "«На этом камне след прошлого (о) остался».",
+    "zh": "“这块石头上，昔の面影を，残っています。”（「残る」用「が」）",
+    "ja": "「この石に、昔の面影を、残っていますね。」",
+    "romaji": "'Kono ishi ni, mukashi no omokage o, nokotte imasu ne.'"
+  },
+  "vl15.c4_own": {
+    "en": "“A trace of the past remains on this stone. The letters are faint, but I can read them.”",
+    "ru": "«На этом камне остался след прошлого. Буквы блёклые, но я могу их прочесть».",
+    "zh": "“这块石头上还留着往昔的面影呢。字迹虽然淡了，但还能读出来。”",
+    "ja": "「この石に、昔の面影が、残っていますね。文字は、うすいですが、読めます。」",
+    "romaji": "'Kono ishi ni, mukashi no omokage ga, nokotte imasu ne. Moji wa, usui desu ga, yomemasu.'"
+  },
+  "vl15.c4_min": {
+    "en": "“Stone... trace... remain...”",
+    "ru": "«Камень… след… остаётся…»",
+    "zh": "“石头……面影……留下……”",
+    "ja": "「石…面影…残る…」",
+    "romaji": "'Ishi... omokage... nokoru...'"
+  },
+  "vl15.p4_natural_r": {
+    "en": "Yes, that's right. What a lovely way to put it.",
+    "ru": "Да, верно. Прекрасный оборот.",
+    "zh": "对，没错。说得真好。",
+    "ja": "はい、そうです。すてきな言い方ですね。",
+    "romaji": "Hai, sou desu. Suteki na iikata desu ne."
+  },
+  "vl15.p4_formal_r": {
+    "en": "Haha, it's splendid, but far too difficult. “Nokotte imasu ne” is fine.",
+    "ru": "Ха-ха, великолепно, но слишком сложно. Достаточно «нокоттэ имас нэ».",
+    "zh": "哈哈，很了不起，但太难了。说「残っていますね」就行。",
+    "ja": "あはは、りっぱですが、むずかしすぎます。「残っていますね」で、いいですよ。",
+    "romaji": "Ahaha, rippa desu ga, muzukashisugimasu. 'Nokotte imasu ne' de, ii desu yo."
+  },
+  "vl15.p4_mistake_r": {
+    "en": "Close. “Nokoru” is the naturally-remaining one, so it's “ga.” It's “omokage ga, nokotte iru.” If a person leaves it, it's “o” with “nokosu.”",
+    "ru": "Почти. «Нокору» — то, что остаётся само собой, поэтому «га». Получается «омокагэ га, нокоттэ иру». Если оставляет человек, то «о» с «нокосу».",
+    "zh": "很接近。「残る」是自然留存的一方，所以用「が」。说「面影が、残っている」。如果是人留下的，则用「を」和「残す」。",
+    "ja": "惜しいです。「残る」は、自然に残るほうなので、「が」です。「面影が、残っている」です。人が、残すなら、「を」で、「残す」です。",
+    "romaji": "Oshii desu. 'Nokoru' wa, shizen ni nokoru hou na node, 'ga' desu. 'Omokage ga, nokotte iru' desu. Hito ga, nokosu nara, 'o' de, 'nokosu' desu."
+  },
+  "vl15.p4_mis_retry": {
+    "en": "A trace of the past remains on this stone.",
+    "ru": "На этом камне остался след прошлого.",
+    "zh": "这块石头上还留着往昔的面影呢。",
+    "ja": "この石に、昔の面影が、残っていますね。",
+    "romaji": "Kono ishi ni, mukashi no omokage ga, nokotte imasu ne."
+  },
+  "vl15.p4_mis_relief": {
+    "en": "Yes, that's it. When something remains naturally, it's “ga.”",
+    "ru": "Да, именно так. Когда что-то остаётся само собой — «га».",
+    "zh": "对，就是这个。自然留下时用「が」。",
+    "ja": "はい、それです。自然に残るときは、「が」ですね。",
+    "romaji": "Hai, sore desu. Shizen ni nokoru toki wa, 'ga' desu ne."
+  },
+  "vl15.p4_own_r": {
+    "en": "You're observing well. That's important.",
+    "ru": "Вы внимательно смотрите. Это важно.",
+    "zh": "你观察得很仔细。这很重要。",
+    "ja": "よく、見ていますね。大切なことです。",
+    "romaji": "Yoku, mite imasu ne. Taisetsu na koto desu."
+  },
+  "vl15.p4_min_r": {
+    "en": "Your meaning comes across. Try saying it as a sentence: “omokage ga, nokotte imasu.”",
+    "ru": "Ваша мысль понятна. Скажите предложением: «омокагэ га, нокоттэ имас».",
+    "zh": "你的意思能传达。试着用句子说：「面影が、残っています」。",
+    "ja": "気持ちは、伝わります。「面影が、残っています」と、文で、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Omokage ga, nokotte imasu' to, bun de, itte mimashou."
+  },
+  "vl15.t_quiet": {
+    "en": "It's sad that the movie theater is gone. But towns are things that change.",
+    "ru": "Печально, что кинотеатра больше нет. Но города — это то, что меняется.",
+    "zh": "电影院不在了很令人难过。但小镇本来就是会变的。",
+    "ja": "映画館が、なくなったのは、悲しいです。でも、町は、変わって、いくものです。",
+    "romaji": "Eigakan ga, nakunatta no wa, kanashii desu. Demo, machi wa, kawatte, iku mono desu."
+  },
+  "vl15.w9": {
+    "en": "At times like that, the feeling of your heart being squeezed is called “setsunai.” It isn't only sadness. There's a warm feeling mixed in as well.",
+    "ru": "В такие моменты чувство, будто сердце сжимается, называют «сэцунай». Это не только печаль. В него примешивается и тёплое чувство.",
+    "zh": "这种时候，心被揪紧的感觉叫「切ない」。不只是悲伤，还混杂着温暖的心情。",
+    "ja": "そんなとき、心が、しめつけられるような気持ちを、「切ない」と言います。悲しいだけではなく、あたたかい思いも、混ざっています。",
+    "romaji": "Sonna toki, kokoro ga, shimetsukerareru you na kimochi o, 'setsunai' to iimasu. Kanashii dake de wa naku, atatakai omoi mo, mazatte imasu."
+  },
+  "vl15.w9_q": {
+    "en": "Are “setsunai” and “kanashii” different?",
+    "ru": "«Сэцунай» и «канасий» отличаются?",
+    "zh": "「切ない」和「悲しい」有区别吗？",
+    "ja": "「切ない」と「悲しい」は、ちがいますか？",
+    "romaji": "'Setsunai' to 'kanashii' wa, chigaimasu ka?"
+  },
+  "vl15.w9_a": {
+    "en": "Yes. “Kanashii” is a clear, painful feeling. “Setsunai” is a complex feeling that mixes sadness with nostalgia and affection. It appears often in songs and stories.",
+    "ru": "Да. «Канасий» — чёткое, тяжёлое чувство. «Сэцунай» — сложное чувство, в котором печаль смешана с ностальгией и нежностью. Оно часто встречается в песнях и историях.",
+    "zh": "是的。「悲しい」是痛苦而清晰的心情。「切ない」是悲伤与怀念、爱怜交织在一起的复杂心情。常出现在歌曲和故事里。",
+    "ja": "はい。「悲しい」は、つらい、はっきりした気持ちです。「切ない」は、悲しさと、なつかしさや、愛しさが、混ざった、複雑な気持ちです。歌や、物語で、よく出ます。",
+    "romaji": "Hai. 'Kanashii' wa, tsurai, hakkiri shita kimochi desu. 'Setsunai' wa, kanashisa to, natsukashisa ya, itoshisa ga, mazatta, fukuzatsu na kimochi desu. Uta ya, monogatari de, yoku demasu."
+  },
+  "vl15.p5_prompt": {
+    "en": "Sensei asked, “How do you feel looking at this site?” When you think about the movie theater being gone, your chest tightens a little. Please answer using “setsunaku naru.” What do you say?",
+    "ru": "Сэнсэй спросил: «Что вы чувствуете, глядя на этот участок?» Когда вы думаете о том, что кинотеатра больше нет, в груди слегка сжимается. Ответьте, используя «сэцунаку нару». Что вы скажете?",
+    "zh": "老师问：“大家看到这片旧址，有什么感想？”一想到电影院不见了，你的心有点揪紧。请使用「切なくなる」来回答。你会怎么说？",
+    "ja": "先生が、聞きました。「みなさんは、この跡地を見て、どう思いますか？」あなたは、映画館が、なくなったことを考えると、少し、胸が苦しくなります。「切なくなる」を使って、答えてください。何と言いますか？",
+    "romaji": "Sensei ga, kikimashita. 'Minasan wa, kono atochi o mite, dou omoimasu ka?' Anata wa, eigakan ga, nakunatta koto o kangaeru to, sukoshi, mune ga kurushiku narimasu. 'Setsunaku naru' o tsukatte, kotaete kudasai. Nan to iimasu ka?"
+  },
+  "vl15.c5_natural": {
+    "en": "“When I think it's gone, I feel a little wistful.”",
+    "ru": "«Когда я думаю, что его больше нет, мне становится немного грустно».",
+    "zh": "“一想到它不见了，我就有点难过怀念。”",
+    "ja": "「なくなったと思うと、少し、切なくなります。」",
+    "romaji": "'Nakunatta to omou to, sukoshi, setsunaku narimasu.'"
+  },
+  "vl15.c5_formal": {
+    "en": "“When I consider its ephemerality, a sense of wistfulness comes and goes in my heart.”",
+    "ru": "«Когда я думаю о его быстротечности, в моём сердце то и дело возникает тоска».",
+    "zh": "“想到它的短暂，胸中不禁涌起阵阵酸楚。”",
+    "ja": "「その儚さを思うと、胸中に、切なさが、去来いたします。」",
+    "romaji": "'Sono hakanasa o omou to, kyouchuu ni, setsunasa ga, kyorai itashimasu.'"
+  },
+  "vl15.c5_mistake": {
+    "en": "“When I think it's gone, it becomes (setsunai to) a little sad.”",
+    "ru": "«Когда я думаю, что его больше нет, становится (сэцунай то) немного грустно».",
+    "zh": "“一想到它不见了，就有点切ないと，なります。”（应该是「切なくなる」）",
+    "ja": "「なくなったと思うと、少し、切ないと、なります。」",
+    "romaji": "'Nakunatta to omou to, sukoshi, setsunai to, narimasu.'"
+  },
+  "vl15.c5_own": {
+    "en": "“When I think it's gone, I feel a little wistful. But I'm happy the stone remains.”",
+    "ru": "«Когда я думаю, что его больше нет, мне становится немного грустно. Но я рад, что камень остался».",
+    "zh": "“一想到它不见了，我就有点难过怀念。不过石头还留着，我很高兴。”",
+    "ja": "「なくなったと思うと、少し、切なくなります。でも、石が残っていて、うれしいです。」",
+    "romaji": "'Nakunatta to omou to, sukoshi, setsunaku narimasu. Demo, ishi ga nokotte ite, ureshii desu.'"
+  },
+  "vl15.c5_min": {
+    "en": "“Wistful...”",
+    "ru": "«Грустно…»",
+    "zh": "“难过怀念……”",
+    "ja": "「切ない…」",
+    "romaji": "'Setsunai...'"
+  },
+  "vl15.p5_natural_r": {
+    "en": "A good expression. Your feeling comes across well.",
+    "ru": "Хорошее выражение. Ваше чувство хорошо передаётся.",
+    "zh": "很好的表达。心情传达得很清楚。",
+    "ja": "いい表現です。気持ちが、よく、伝わります。",
+    "romaji": "Ii hyougen desu. Kimochi ga, yoku, tsutawarimasu."
+  },
+  "vl15.p5_formal_r": {
+    "en": "Haha, it sounds like a novel. “Setsunaku narimasu” is enough.",
+    "ru": "Ха-ха, как роман. Достаточно «сэцунаку наримас».",
+    "zh": "哈哈，像小说一样。说「切なくなります」就足够了。",
+    "ja": "あはは、小説みたいです。「切なくなります」で、じゅうぶんですよ。",
+    "romaji": "Ahaha, shousetsu mitai desu. 'Setsunaku narimasu' de, juubun desu yo."
+  },
+  "vl15.p5_mistake_r": {
+    "en": "Close. When an i-adjective connects to “naru,” change the “i” to “ku.” It's “setsunaku, narimasu.”",
+    "ru": "Почти. Когда i-прилагательное присоединяется к «нару», «и» меняется на «ку». Получается «сэцунаку, наримас».",
+    "zh": "很接近。い形容词接「なる」时，把「い」变成「く」。说「切なく、なります」。",
+    "ja": "惜しいです。い形容詞が、「なる」に、つながるときは、「い」を「く」に、かえます。「切なく、なります」です。",
+    "romaji": "Oshii desu. I-keiyoushi ga, 'naru' ni, tsunagaru toki wa, 'i' o 'ku' ni, kaemasu. 'Setsunaku, narimasu' desu."
+  },
+  "vl15.p5_mis_retry": {
+    "en": "When I think it's gone, I feel a little wistful.",
+    "ru": "Когда я думаю, что его больше нет, мне становится немного грустно.",
+    "zh": "一想到它不见了，我就有点难过怀念。",
+    "ja": "なくなったと思うと、少し、切なくなります。",
+    "romaji": "Nakunatta to omou to, sukoshi, setsunaku narimasu."
+  },
+  "vl15.p5_mis_relief": {
+    "en": "Yes, that's it. Changing to “ku” gives it the meaning of a change.",
+    "ru": "Да, именно так. Изменение на «ку» придаёт значение перемены.",
+    "zh": "对，就是这个。变成「く」，就有了变化的意思。",
+    "ja": "はい、それです。「く」に、かえると、変化の意味に、なります。",
+    "romaji": "Hai, sore desu. 'Ku' ni, kaeru to, henka no imi ni, narimasu."
+  },
+  "vl15.p5_own_r": {
+    "en": "Nice. You expressed both sadness and joy.",
+    "ru": "Хорошо. Вы выразили и печаль, и радость.",
+    "zh": "不错。悲伤与喜悦你都说到了。",
+    "ja": "いいですね。悲しさと、よろこびが、両方、言えました。",
+    "romaji": "Ii desu ne. Kanashisa to, yorokobi ga, ryouhou, iemashita."
+  },
+  "vl15.p5_min_r": {
+    "en": "Your feeling comes across. Try saying “setsunaku narimasu.”",
+    "ru": "Ваше чувство понятно. Скажите «сэцунаку наримас».",
+    "zh": "你的心情能传达。试着说「切なくなります」。",
+    "ja": "気持ちは、伝わります。「切なくなります」と、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Setsunaku narimasu' to, itte mimashou."
+  },
+  "vl15.w10": {
+    "en": "Finally, “kangaibukai.” It's the feeling of your heart being deeply moved as you look back on a long time. It's used as in “juunen-buri ni, kono machi ni kite, kangaibukai desu.”",
+    "ru": "Наконец, «кангайбукай». Это чувство глубокого душевного волнения при воспоминании о долгом времени. Используется, например, в «дзю:нэн-бури ни, коно мати ни китэ, кангайбукай дэс».",
+    "zh": "最后是「感慨深い」。回顾漫长的时光，内心深受触动的心情。用法如「十年ぶりに、この町に来て、感慨深いです」。",
+    "ja": "最後に、「感慨深い」。長い時間を、思い返して、心が、深く動かされる気持ちです。「十年ぶりに、この町に来て、感慨深いです」のように、使います。",
+    "romaji": "Saigo ni, 'kangaibukai'. Nagai jikan o, omoikaeshite, kokoro ga, fukaku ugokasareru kimochi desu. 'Juunen-buri ni, kono machi ni kite, kangaibukai desu' no you ni, tsukaimasu."
+  },
+  "vl15.w10_q": {
+    "en": "Are “kangaibukai” and “natsukashii” different?",
+    "ru": "«Кангайбукай» и «нацукасий» отличаются?",
+    "zh": "「感慨深い」和「懐かしい」有区别吗？",
+    "ja": "「感慨深い」と「懐かしい」は、ちがいますか？",
+    "romaji": "'Kangaibukai' to 'natsukashii' wa, chigaimasu ka?"
+  },
+  "vl15.w10_a": {
+    "en": "Yes. “Natsukashii” is the feeling at the moment of meeting something from the past. “Kangaibukai” is quietly feeling deeply while thinking about the flow of a long time. It's a slightly formal word.",
+    "ru": "Да. «Нацукасий» — чувство в момент встречи с чем-то из прошлого. «Кангайбукай» — глубокое, тихое ощущение при мыслях о течении долгого времени. Это несколько более формальное слово.",
+    "zh": "是的。「懐かしい」是遇见旧物时那一刻的心情。「感慨深い」是想到漫长时光的流逝，深深地感受。是稍微郑重一点的词。",
+    "ja": "はい。「懐かしい」は、昔のものに会った、そのときの気持ちです。「感慨深い」は、長い時間の流れを、思って、しみじみ感じることです。少し、あらたまった言葉です。",
+    "romaji": "Hai. 'Natsukashii' wa, mukashi no mono ni atta, sono toki no kimochi desu. 'Kangaibukai' wa, nagai jikan no nagare o, omotte, shimijimi kanjiru koto desu. Sukoshi, aratamatta kotoba desu."
+  },
+  "vl15.p6_prompt": {
+    "en": "Sensei asked everyone, “I've come after ten years. How did you feel coming here today?” Walking this town with Sensei moves you deeply. How do you answer?",
+    "ru": "Сэнсэй спросил всех: «Я приехал впервые за десять лет. Что вы почувствовали, приехав сегодня сюда?» Гуляя с сэнсэем по этому городу, вы глубоко тронуты. Что вы ответите?",
+    "zh": "老师问大家：“我时隔十年来了这里。你们今天来到这里，有什么感受？”能和老师一起走在这个小镇上，你深有感触。你会怎么回答？",
+    "ja": "先生が、みなさんに、聞きました。「私は、十年ぶりに、来ました。あなたは、今日、ここに来て、どう感じましたか？」あなたは、先生と、この町を歩けて、感慨深いです。何と答えますか？",
+    "romaji": "Sensei ga, minasan ni, kikimashita. 'Watashi wa, juunen-buri ni, kimashita. Anata wa, kyou, koko ni kite, dou kanjimashita ka?' Anata wa, sensei to, kono machi o arukete, kangaibukai desu. Nan to kotaemasu ka?"
+  },
+  "vl15.c6_natural": {
+    "en": "“Walking this town with you, Sensei, is deeply moving.”",
+    "ru": "«Гулять с вами по этому городу, сэнсэй, очень трогательно».",
+    "zh": "“能和老师一起走在这个小镇上，我深有感触。”",
+    "ja": "「先生と、この町を歩けて、感慨深いです。」",
+    "romaji": "'Sensei to, kono machi o arukete, kangaibukai desu.'"
+  },
+  "vl15.c6_formal": {
+    "en": "“Touring this town under your guidance, Sensei, fills me with boundless emotion.”",
+    "ru": "«Бродя по этому городу под вашим руководством, сэнсэй, я переполнен безграничными чувствами».",
+    "zh": "“在老师的带领下游览此镇，感慨万千。”",
+    "ja": "「先生のご案内で、この町を巡り、感慨無量にございます。」",
+    "romaji": "'Sensei no goannai de, kono machi o meguri, kangai muryou ni gozaimasu.'"
+  },
+  "vl15.c6_mistake": {
+    "en": "“Walking this town with you, I feel deeply moving (o).”",
+    "ru": "«Гуляя с вами по этому городу, я чувствую глубоко трогательное (о)».",
+    "zh": "“能和老师一起走在这个小镇上，感慨深いを，感じます。”（形容词不能直接用「を」）",
+    "ja": "「先生と、この町を歩けて、感慨深いを、感じます。」",
+    "romaji": "'Sensei to, kono machi o arukete, kangaibukai o, kanjimasu.'"
+  },
+  "vl15.c6_own": {
+    "en": "“Walking this town with you, Sensei, is deeply moving. I've come to like this town.”",
+    "ru": "«Гулять с вами по этому городу, сэнсэй, очень трогательно. Мне понравился этот город».",
+    "zh": "“能和老师一起走在这个小镇上，我深有感触。我喜欢上了这个小镇。”",
+    "ja": "「先生と、この町を歩けて、感慨深いです。この町が、好きになりました。」",
+    "romaji": "'Sensei to, kono machi o arukete, kangaibukai desu. Kono machi ga, suki ni narimashita.'"
+  },
+  "vl15.c6_min": {
+    "en": "“Deeply... moved...”",
+    "ru": "«Глубоко… тронут…»",
+    "zh": "“感慨……深……”",
+    "ja": "「感慨…深い…」",
+    "romaji": "'Kangai... fukai...'"
+  },
+  "vl15.p6_natural_r": {
+    "en": "Thank you. I'm deeply moved to have come with you all too.",
+    "ru": "Спасибо. Я тоже глубоко тронут тем, что приехал сюда вместе с вами.",
+    "zh": "谢谢。我能和大家一起来，也深有感触。",
+    "ja": "ありがとう。私も、みなさんと来られて、感慨深いです。",
+    "romaji": "Arigatou. Watashi mo, minasan to korarete, kangaibukai desu."
+  },
+  "vl15.p6_formal_r": {
+    "en": "Ha, splendid, but a little over the top. “Kangaibukai desu” is fine.",
+    "ru": "Ха-ха, великолепно, но немного чересчур. Достаточно «кангайбукай дэс».",
+    "zh": "呵呵，很了不起，但有点夸张。说「感慨深いです」就行。",
+    "ja": "ふふ、りっぱですが、少し、おおげさです。「感慨深いです」で、いいですよ。",
+    "romaji": "Fufu, rippa desu ga, sukoshi, oogesa desu. 'Kangaibukai desu' de, ii desu yo."
+  },
+  "vl15.p6_mistake_r": {
+    "en": "Close. “Kangaibukai” is an i-adjective, so “o” doesn't attach. It's “kangaibukai desu” or “kangaibukaku, kanjimasu.”",
+    "ru": "Почти. «Кангайбукай» — i-прилагательное, поэтому «о» не присоединяется. Получается «кангайбукай дэс» или «кангайбукаку, кандзимас».",
+    "zh": "很接近。「感慨深い」是い形容词，所以不能加「を」。说「感慨深いです」或「感慨深く、感じます」。",
+    "ja": "惜しいです。「感慨深い」は、い形容詞なので、「を」は、つきません。「感慨深いです」か、「感慨深く、感じます」です。",
+    "romaji": "Oshii desu. 'Kangaibukai' wa, i-keiyoushi na node, 'o' wa, tsukimasen. 'Kangaibukai desu' ka, 'kangaibukaku, kanjimasu' desu."
+  },
+  "vl15.p6_mis_retry": {
+    "en": "Walking this town with you, Sensei, is deeply moving.",
+    "ru": "Гулять с вами по этому городу, сэнсэй, очень трогательно.",
+    "zh": "能和老师一起走在这个小镇上，我深有感触。",
+    "ja": "先生と、この町を歩けて、感慨深いです。",
+    "romaji": "Sensei to, kono machi o arukete, kangaibukai desu."
+  },
+  "vl15.p6_mis_relief": {
+    "en": "Yes, that's it. An adjective can be said simply with “desu.”",
+    "ru": "Да, именно так. Прилагательное можно сказать просто с «дэс».",
+    "zh": "对，就是这个。形容词可以简单地用「です」来说。",
+    "ja": "はい、それです。形容詞は、「です」で、シンプルに、言えます。",
+    "romaji": "Hai, sore desu. Keiyoushi wa, 'desu' de, shinpuru ni, iemasu."
+  },
+  "vl15.p6_own_r": {
+    "en": "I'm glad. The town will surely be happy too.",
+    "ru": "Рад. Город тоже, наверняка, обрадуется.",
+    "zh": "我很高兴。小镇也一定会高兴的。",
+    "ja": "うれしいです。町も、きっと、よろこびます。",
+    "romaji": "Ureshii desu. Machi mo, kitto, yorokobimasu."
+  },
+  "vl15.p6_min_r": {
+    "en": "Your feeling comes across. Try saying it as one word: “kangaibukai desu.”",
+    "ru": "Ваше чувство понятно. Скажите как одно слово: «кангайбукай дэс».",
+    "zh": "你的心情能传达。试着把它当作一个词来说：「感慨深いです」。",
+    "ja": "気持ちは、伝わります。「感慨深いです」と、ひとつの言葉として、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Kangaibukai desu' to, hitotsu no kotoba to shite, itte mimashou."
+  },
+  "vl15.talk_open": {
+    "en": "Now let's talk. Out of today's ten words, which one stayed with you most?",
+    "ru": "Итак, поговорим. Какое из сегодняшних десяти слов больше всего запало вам в душу?",
+    "zh": "现在来聊聊。今天这十个词里，哪个最让你印象深刻？",
+    "ja": "では、話しましょう。今日の、十の言葉の中で、いちばん、心に残った言葉は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no, juu no kotoba no naka de, ichiban, kokoro ni nokotta kotoba wa, dore desu ka?"
+  },
+  "vl15.talk_ken": {
+    "en": "For me, “omokage.” Both things and people have traces of the past, don't they.",
+    "ru": "Для меня это «омокагэ». И у вещей, и у людей есть следы прошлого, не так ли.",
+    "zh": "我想说「面影」。原来物也好，人也好，都有面影呢。",
+    "ja": "ぼくは、「面影」です。ものにも、人にも、面影が、あるのですね。",
+    "romaji": "Boku wa, 'omokage' desu. Mono ni mo, hito ni mo, omokage ga, aru no desu ne."
+  },
+  "vl15.talk_mei": {
+    "en": "For me, “setsunai.” It's interesting that it isn't only sad, but has a warm feeling too.",
+    "ru": "Для меня это «сэцунай». Интересно, что оно не только печальное, но и содержит тёплое чувство.",
+    "zh": "我想说「切ない」。不只是悲伤，还带着温暖的心情，这很有意思。",
+    "ja": "わたしは、「切ない」です。悲しいだけじゃなくて、あたたかい気持ちも、あるのが、おもしろいです。",
+    "romaji": "Watashi wa, 'setsunai' desu. Kanashii dake ja nakute, atatakai kimochi mo, aru no ga, omoshiroi desu."
+  },
+  "vl15.talk_yuki": {
+    "en": "For me, “saihou.” Someday I want to revisit a town of memories too.",
+    "ru": "Для меня это «сайхо:». Когда-нибудь я тоже хочу повторно посетить город воспоминаний.",
+    "zh": "我想说「再訪」。总有一天，我也想重访回忆中的小镇。",
+    "ja": "わたしは、「再訪」です。いつか、わたしも、思い出の町を、再訪したいです。",
+    "romaji": "Watashi wa, 'saihou' desu. Itsuka, watashi mo, omoide no machi o, saihou shitai desu."
+  },
+  "vl15.talk_tanaka": {
+    "en": "Lovely. Towns change, but some things remain in the heart.",
+    "ru": "Прекрасно. Города меняются, но кое-что остаётся в сердце.",
+    "zh": "真好。小镇会变，但也有留在心中的东西。",
+    "ja": "すてきですね。町は、変わりますが、心に、残るものも、ありますね。",
+    "romaji": "Suteki desu ne. Machi wa, kawarimasu ga, kokoro ni, nokoru mono mo, arimasu ne."
+  },
+  "vl15.talk_player": {
+    "en": "(Returning home, revisit, back then, nostalgic, demolish, former site, trace, remain, wistful, deeply moving. Towns and people keep changing. But the traces left in the heart can be kept forever if put into words. Someday I'll look back on today with nostalgia too.)",
+    "ru": "(Возвращение на родину, повторный визит, в то время, ностальгия, снос, бывший участок, след, оставаться, грусть, глубокое волнение. Города и люди меняются. Но следы, оставшиеся в сердце, можно сохранить навсегда, если выразить их словами. Когда-нибудь я тоже с ностальгией вспомню сегодняшний день.)",
+    "zh": "（归国、重访、当时、怀念、拆除、旧址、面影、留下、难过怀念、感慨深。小镇和人都在变。但留在心中的面影，只要用语言表达，就能永远保留。今天的事，总有一天我也会怀念地想起吧。）",
+    "ja": "（帰国、再訪、当時、懐かしい、取り壊す、跡地、面影、残る、切ない、感慨深い。町も、人も、変わっていく。でも、心に残る面影は、言葉にすれば、ずっと、残せる。今日のことも、いつか、懐かしく思うだろう。）",
+    "romaji": "(Kikoku, saihou, touji, natsukashii, torikowasu, atochi, omokage, nokoru, setsunai, kangaibukai. Towns and people keep changing. But the traces left in the heart can be kept forever if put into words. Someday I'll look back on today with nostalgia too.)"
+  },
+  "vl15.talk_close": {
+    "en": "Thank you all for today. It was a good revisit. Then, let's meet again in the classroom.",
+    "ru": "Спасибо всем за сегодняшний день. Это был хороший повторный визит. А теперь — до встречи в классе.",
+    "zh": "各位，今天谢谢你们。这是一次很好的重访。那么，我们教室里再见吧。",
+    "ja": "みなさん、今日は、ありがとう。いい再訪に、なりました。では、また、教室で、会いましょう。",
+    "romaji": "Minasan, kyou wa, arigatou. Ii saihou ni, narimashita. Dewa, mata, kyoushitsu de, aimashou."
+  },
+  "vl15.complete": {
+    "en": "End of Vocabulary Lesson 15.",
+    "ru": "Конец урока лексики 15.",
+    "zh": "词汇课 15 结束。",
+    "ja": "語彙レッスン15、おわり。",
+    "romaji": "Goi ressun juugo, owari."
+  }
+}

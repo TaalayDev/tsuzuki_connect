@@ -1,0 +1,695 @@
+{
+  "sl11.title": {
+    "en": "~ te imasu: Now, Always, Not Yet",
+    "ru": "~ тэ имас: сейчас, всегда, ещё не",
+    "zh": "〜ています：现在・一直・还没",
+    "ja": "〜ています：いま・いつも・まだ",
+    "romaji": "~ te imasu: ima, itsumo, mada"
+  },
+  "sl11.subtitle": {
+    "en": "What are you doing on the train to Kyoto?",
+    "ru": "Что вы делаете в поезде до Киото?",
+    "zh": "在去京都的电车上，你在做什么？",
+    "ja": "京都への電車で、何をしていますか？",
+    "romaji": "Kyouto e no densha de, nani o shite imasu ka?"
+  },
+  "sl11.description": {
+    "en": "On the train to Kyoto and in a temple garden, practice the uses of “~ te imasu,” plus “~ te imasen” and “~ te imashita.”",
+    "ru": "В поезде до Киото и в саду храма потренируйте способы использования «~ тэ имас», а также «~ тэ имасэн» и «~ тэ имасита».",
+    "zh": "在去京都的电车上和寺庙的庭院里，练习「〜ています」的几种用法，以及「〜ていません」「〜ていました」。",
+    "ja": "京都へ行く電車と、お寺の庭で、「〜ています」の四つの使い方、「〜ていません」「〜ていました」を練習します。",
+    "romaji": "Kyouto e iku densha to, otera no niwa de, '~ te imasu' no yottsu no tsukaikata, '~ te imasen' '~ te imashita' o renshuu shimasu."
+  },
+  "sl11.pattern.1": {
+    "en": "doing right now",
+    "ru": "делать прямо сейчас",
+    "zh": "正在做",
+    "ja": "〜ています（いま、している）",
+    "romaji": "~ te imasu (doing now)"
+  },
+  "sl11.pattern.2": {
+    "en": "a continuing state or habit",
+    "ru": "длящееся состояние или привычка",
+    "zh": "持续的状态或习惯",
+    "ja": "〜ています（状態・習慣）",
+    "romaji": "~ te imasu (state, habit)"
+  },
+  "sl11.pattern.3": {
+    "en": "have not done yet",
+    "ru": "ещё не сделал",
+    "zh": "还没做",
+    "ja": "まだ〜ていません",
+    "romaji": "mada ~ te imasen"
+  },
+  "sl11.pattern.4": {
+    "en": "was doing (past)",
+    "ru": "делал (в прошлом)",
+    "zh": "当时正在做",
+    "ja": "〜ていました",
+    "romaji": "~ te imashita"
+  },
+  "sl11.setup": {
+    "en": "Saturday morning, on the train to Kyoto. Spring scenery flows past the window. Everyone is doing something different.",
+    "ru": "Утро субботы, в поезде до Киото. За окном проплывает весенний пейзаж. Каждый занят своим делом.",
+    "zh": "星期六早晨，在去京都的电车里。窗外流动着春天的景色。大家各自做着不同的事。",
+    "ja": "土曜日の朝。京都へ行く電車の中。まどの外には、春の景色が、流れている。みんなは、それぞれ、ちがうことをしている。",
+    "romaji": "Doyoubi no asa. Kyouto e iku densha no naka. Mado no soto ni wa, haru no keshiki ga, nagarete iru. Minna wa, sorezore, chigau koto o shite iru."
+  },
+  "sl11.t_intro": {
+    "en": "Today's theme is “~ te imasu.” It is a form for talking about what you are doing now and what you always do.",
+    "ru": "Тема сегодня — «~ тэ имас». Это форма для рассказа о том, что вы делаете сейчас и что делаете постоянно.",
+    "zh": "今天的主题是「〜ています」。是用来谈论现在正在做的事和一直在做的事的句型。",
+    "ja": "今日のテーマは、「〜ています」です。いま、していることや、いつもしていることを、話す形です。",
+    "romaji": "Kyou no teema wa, '~ te imasu' desu. Ima, shite iru koto ya, itsumo shite iru koto o, hanasu katachi desu."
+  },
+  "sl11.s1_intro": {
+    "en": "Put the verb into its “te” form and add “imasu.” “Yomimasu” becomes “yonde imasu,” “kikimasu” becomes “kiite imasu,” and “nemasu” becomes “nete imasu.”",
+    "ru": "Глагол ставят в форму «тэ» и добавляют «имас». «Ёмимас» превращается в «ёндэ имас», «кикимас» — в «киитэ имас», «нэмас» — в «нэтэ имас».",
+    "zh": "把动词变成「て」形，再加上「います」。「読みます」变成「読んでいます」，「聞きます」变成「聞いています」，「寝ます」变成「寝ています」。",
+    "ja": "動詞を「て」の形にして、「います」をつけます。「読みます」は「読んでいます」、「聞きます」は「聞いています」、「寝ます」は「寝ています」です。",
+    "romaji": "Doushi o 'te' no katachi ni shite, 'imasu' o tsukemasu. 'Yomimasu' wa 'yonde imasu', 'kikimasu' wa 'kiite imasu', 'nemasu' wa 'nete imasu' desu."
+  },
+  "sl11.s1_ex": {
+    "en": "Ken is reading a book. Mei is listening to music. Yuki is sleeping.",
+    "ru": "Кен читает книгу. Мэй слушает музыку. Юки спит.",
+    "zh": "健正在看书。小梅正在听音乐。由纪正在睡觉。",
+    "ja": "ケンさんは、本を読んでいます。メイさんは、音楽を聞いています。由紀さんは、寝ています。",
+    "romaji": "Ken-san wa, hon o yonde imasu. Mei-san wa, ongaku o kiite imasu. Yuki-san wa, nete imasu."
+  },
+  "sl11.s1_q1": {
+    "en": "Are “yomimasu” and “yonde imasu” different?",
+    "ru": "«Ёмимас» и «ёндэ имас» отличаются?",
+    "zh": "「読みます」和「読んでいます」有区别吗？",
+    "ja": "「読みます」と、「読んでいます」は、ちがいますか？",
+    "romaji": "'Yomimasu' to, 'yonde imasu' wa, chigaimasu ka?"
+  },
+  "sl11.s1_a1": {
+    "en": "Yes. “Yomimasu” means “I will read” or “I usually read.” “Yonde imasu” means “I am in the middle of reading right now.”",
+    "ru": "Да. «Ёмимас» означает «буду читать» или «обычно читаю». «Ёндэ имас» — «читаю прямо сейчас, в этот момент».",
+    "zh": "有区别。「読みます」是“将要读”或“经常读”的意思。「読んでいます」是“现在正在读”。",
+    "ja": "はい。「読みます」は、これから読む、または、いつも読む、という意味です。「読んでいます」は、いま、読んでいる最中です。",
+    "romaji": "Hai. 'Yomimasu' wa, korekara yomu, mata wa, itsumo yomu, to iu imi desu. 'Yonde imasu' wa, ima, yonde iru saichuu desu."
+  },
+  "sl11.s1_q2": {
+    "en": "Are “mite imasu” and “miemasu” the same?",
+    "ru": "«Митэ имас» и «миэмас» — это одно и то же?",
+    "zh": "「見ています」和「見えます」一样吗？",
+    "ja": "「見ています」と「見えます」は、同じですか？",
+    "romaji": "'Mite imasu' to 'miemasu' wa, onaji desu ka?"
+  },
+  "sl11.s1_a2": {
+    "en": "No. “Mite imasu” is the action of looking yourself. “Miemasu” means “can be seen,” or something comes into view. We'll study it later.",
+    "ru": "Нет. «Митэ имас» — это действие, когда вы сами смотрите. «Миэмас» означает «виден», то есть что-то попадает в поле зрения. Мы изучим это позже.",
+    "zh": "不一样。「見ています」是自己看的动作。「見えます」是“看得见”的意思。以后再学。",
+    "ja": "ちがいます。「見ています」は、自分で、見ている動作です。「見えます」は、目に入る、という意味です。あとで勉強しましょう。",
+    "romaji": "Chigaimasu. 'Mite imasu' wa, jibun de, mite iru dousa desu. 'Miemasu' wa, me ni hairu, to iu imi desu. Ato de benkyou shimashou."
+  },
+  "sl11.y_ask": {
+    "en": "What are you doing right now?",
+    "ru": "Что вы сейчас делаете?",
+    "zh": "你现在在做什么？",
+    "ja": "いま、何をしていますか？",
+    "romaji": "Ima, nani o shite imasu ka?"
+  },
+  "sl11.p1_prompt": {
+    "en": "Yuki has woken up and asks you. You are reading a Kyoto guidebook on the train. How do you answer?",
+    "ru": "Юки проснулась и спросила вас. Вы читаете в поезде путеводитель по Киото. Что вы ответите?",
+    "zh": "由纪醒了，问你。你正在电车里读京都的旅游指南。你会怎么回答？",
+    "ja": "由紀さんが、目をさまして、あなたに聞きました。あなたは、電車の中で、京都のガイドブックを読んでいます。何と答えますか？",
+    "romaji": "Yuki-san ga, me o samashite, anata ni kikimashita. Anata wa, densha no naka de, Kyouto no gaidobukku o yonde imasu. Nan to kotaemasu ka?"
+  },
+  "sl11.c1_natural": {
+    "en": "“I'm reading a Kyoto guidebook.”",
+    "ru": "«Я читаю путеводитель по Киото».",
+    "zh": "“我正在读京都的旅游指南。”",
+    "ja": "「京都のガイドブックを、読んでいます。」",
+    "romaji": "'Kyouto no gaidobukku o, yonde imasu.'"
+  },
+  "sl11.c1_formal": {
+    "en": "“I am respectfully perusing a guide to Kyoto.”",
+    "ru": "«Я почтительно изучаю путеводитель по Киото».",
+    "zh": "“我正在拜读京都的指南书。”",
+    "ja": "「京都の案内書を、拝読しております。」",
+    "romaji": "'Kyouto no annaisho o, haidoku shite orimasu.'"
+  },
+  "sl11.c1_mistake": {
+    "en": "“I yomu-te-imasu a Kyoto guidebook.”",
+    "ru": "«Я ёму-тэ-имас путеводитель по Киото».",
+    "zh": "“我读むています京都的旅游指南。”（把原形直接接在ています前）",
+    "ja": "「京都のガイドブックを、読むています。」",
+    "romaji": "'Kyouto no gaidobukku o, yomu te imasu.'"
+  },
+  "sl11.c1_own": {
+    "en": "“I'm reading a Kyoto guidebook. I'm looking for famous temples.”",
+    "ru": "«Я читаю путеводитель по Киото. Я ищу знаменитые храмы».",
+    "zh": "“我正在读京都的旅游指南。正在找有名的寺庙。”",
+    "ja": "「京都のガイドブックを、読んでいます。有名なお寺を、さがしています。」",
+    "romaji": "'Kyouto no gaidobukku o, yonde imasu. Yuumei na otera o, sagashite imasu.'"
+  },
+  "sl11.c1_min": {
+    "en": "“Book... reading...”",
+    "ru": "«Книга… читаю…»",
+    "zh": "“书……读着……”",
+    "ja": "「本…読んで…」",
+    "romaji": "'Hon... yonde...'"
+  },
+  "sl11.p1_nat_yuki": {
+    "en": "Nice. Please show it to me later too.",
+    "ru": "Здорово. Покажите потом и мне.",
+    "zh": "不错。等会儿也让我看看。",
+    "ja": "いいですね。わたしにも、あとで、見せてください。",
+    "romaji": "Ii desu ne. Watashi ni mo, ato de, misete kudasai."
+  },
+  "sl11.p1_form_ken": {
+    "en": "Haha, you sound like a book teacher. “Yonde imasu” is fine.",
+    "ru": "Ха-ха, как учитель книг. Достаточно «ёндэ имас».",
+    "zh": "哈哈，像书本老师一样。说「読んでいます」就行。",
+    "ja": "あはは、本の先生みたいです。「読んでいます」で、大丈夫ですよ。",
+    "romaji": "Ahaha, hon no sensei mitai desu. 'Yonde imasu' de, daijoubu desu yo."
+  },
+  "sl11.p1_mis_tanaka": {
+    "en": "Close. Before “imasu,” you need the “te” form. Not “yomu,” but “yonde.” You say “yonde imasu.”",
+    "ru": "Почти. Перед «имас» нужна форма «тэ». Не «ёму», а «ёндэ». Говорят «ёндэ имас».",
+    "zh": "很接近。「います」前面要用「て」形。不是「読む」，而是「読んで」。说「読んでいます」。",
+    "ja": "惜しいです。「います」の前は、「て」の形です。「読む」ではなく、「読んで」です。「読んでいます」と言います。",
+    "romaji": "Oshii desu. 'Imasu' no mae wa, 'te' no katachi desu. 'Yomu' de wa naku, 'yonde' desu. 'Yonde imasu' to iimasu."
+  },
+  "sl11.p1_mis_retry": {
+    "en": "Oh, I'm reading a Kyoto guidebook.",
+    "ru": "Ой, я читаю путеводитель по Киото.",
+    "zh": "啊，我正在读京都的旅游指南。",
+    "ja": "あっ、京都のガイドブックを、読んでいます。",
+    "romaji": "A, Kyouto no gaidobukku o, yonde imasu."
+  },
+  "sl11.p1_mis_relief": {
+    "en": "Yes, that's it. The “te” form is connected properly.",
+    "ru": "Да, именно так. Форма «тэ» присоединена верно.",
+    "zh": "对，就是这个。「て」形接对了。",
+    "ja": "はい、それです。「て」の形が、つながりました。",
+    "romaji": "Hai, sore desu. 'Te' no katachi ga, tsunagarimashita."
+  },
+  "sl11.p1_own_yuki": {
+    "en": "I'm looking forward to the temples too. Let's look for them together.",
+    "ru": "Я тоже жду храмы. Давайте поищем вместе.",
+    "zh": "我也很期待寺庙。我们一起找吧。",
+    "ja": "わたしも、お寺が、楽しみです。いっしょに、さがしましょう。",
+    "romaji": "Watashi mo, otera ga, tanoshimi desu. Issho ni, sagashimashou."
+  },
+  "sl11.p1_min_mei": {
+    "en": "The meaning gets across. Try a full sentence: “hon o, yonde imasu.”",
+    "ru": "Смысл понятен. Скажите целым предложением: «хон о, ёндэ имас».",
+    "zh": "意思能传达。试着说完整的句子：「本を、読んでいます」。",
+    "ja": "意味は、伝わりますよ。「本を、読んでいます」と、文で言ってみましょう。",
+    "romaji": "Imi wa, tsutawarimasu yo. 'Hon o, yonde imasu' to, bun de itte mimashou."
+  },
+  "sl11.temple": {
+    "en": "They have arrived in Kyoto. Everyone is walking slowly through the garden of a famous temple. The cherry blossoms are beginning to bloom little by little.",
+    "ru": "Они приехали в Киото. Все неспешно идут по саду знаменитого храма. Вишни понемногу начинают цвести.",
+    "zh": "到了京都。大家在一座有名寺庙的庭院里慢慢地走着。樱花正一点一点地开放。",
+    "ja": "京都に着いた。みんなは、有名なお寺の庭を、ゆっくり歩いている。桜が、少しずつ、咲きはじめている。",
+    "romaji": "Kyouto ni tsuita. Minna wa, yuumei na otera no niwa o, yukkuri aruite iru. Sakura ga, sukoshi zutsu, sakihajimete iru."
+  },
+  "sl11.s2_intro": {
+    "en": "“~ te imasu” has another use. It expresses a state that continues. It is used like “sunde imasu” and “hataraite imasu.”",
+    "ru": "У «~ тэ имас» есть и другое применение. Оно выражает длящееся состояние. Используется так: «сундэ имас», «хатарайтэ имас».",
+    "zh": "「〜ています」还有另一种用法。表示某种状态一直持续。用法如「住んでいます」「働いています」。",
+    "ja": "「〜ています」には、もう一つの使い方があります。ある状態が、ずっと続いていることです。「住んでいます」「働いています」のように使います。",
+    "romaji": "'~ te imasu' ni wa, mou hitotsu no tsukaikata ga arimasu. Aru joutai ga, zutto tsuzuite iru koto desu. 'Sunde imasu' 'hataraite imasu' no you ni tsukaimasu."
+  },
+  "sl11.s2_ex": {
+    "en": "I live in Tokyo. I work at a school.",
+    "ru": "Я живу в Токио. Я работаю в школе.",
+    "zh": "我住在东京。我在学校工作。",
+    "ja": "私は、東京に、住んでいます。学校で、働いています。",
+    "romaji": "Watashi wa, Toukyou ni, sunde imasu. Gakkou de, hataraite imasu."
+  },
+  "sl11.s2_more": {
+    "en": "There are also “motte imasu,” “shitte imasu,” and “kekkon shite imasu.” It is also used for habits, as in “mainichi, benkyou shite imasu.”",
+    "ru": "Есть также «моттэ имас», «ситтэ имас» и «кэккон ситэ имас». Оно используется и для привычек, например «майнити, бэнкё ситэ имас».",
+    "zh": "另外还有「持っています」「知っています」「結婚しています」。也可用于习惯，如「毎日、勉強しています」。",
+    "ja": "ほかにも、「持っています」「知っています」「結婚しています」があります。「毎日、勉強しています」のように、習慣にも使います。",
+    "romaji": "Hoka ni mo, 'motte imasu' 'shitte imasu' 'kekkon shite imasu' ga arimasu. 'Mainichi, benkyou shite imasu' no you ni, shuukan ni mo tsukaimasu."
+  },
+  "sl11.s2_q1": {
+    "en": "Is the answer to “shitte imasu ka?” “shitte imasen”?",
+    "ru": "Ответ на «ситтэ имас ка?» — «ситтэ имасэн»?",
+    "zh": "「知っていますか？」的回答是「知っていません」吗？",
+    "ja": "「知っていますか？」の答えは、「知っていません」ですか？",
+    "romaji": "'Shitte imasu ka?' no kotae wa, 'shitte imasen' desu ka?"
+  },
+  "sl11.s2_a1": {
+    "en": "No. The negative of “shitte imasu” is special. You say “shirimasen.” It's “hai, shitte imasu” and “iie, shirimasen.”",
+    "ru": "Нет. Отрицание от «ситтэ имас» — особый случай. Говорят «сиримасэн». Получается «хай, ситтэ имас» и «ииэ, сиримасэн».",
+    "zh": "不是。「知っています」的否定很特殊。说「知りません」。即「はい、知っています」「いいえ、知りません」。",
+    "ja": "いいえ。「知っています」の否定は、特別です。「知りません」と言います。「はい、知っています」「いいえ、知りません」です。",
+    "romaji": "Iie. 'Shitte imasu' no hitei wa, tokubetsu desu. 'Shirimasen' to iimasu. 'Hai, shitte imasu' 'iie, shirimasen' desu."
+  },
+  "sl11.s2_q2": {
+    "en": "How are “sunde imasu” and “sumimasu” different?",
+    "ru": "Чем «сундэ имас» отличается от «сумимас»?",
+    "zh": "「住んでいます」和「住みます」有什么不同？",
+    "ja": "「住んでいます」と「住みます」は、どうちがいますか？",
+    "romaji": "'Sunde imasu' to 'sumimasu' wa, dou chigaimasu ka?"
+  },
+  "sl11.s2_a2": {
+    "en": "“Sunde imasu” is the state of currently living there. “Sumimasu” means “I will live,” which is close to “I'm moving.”",
+    "ru": "«Сундэ имас» — состояние: сейчас там живу. «Сумимас» означает «буду жить», то есть близко к «переезжаю».",
+    "zh": "「住んでいます」是现在住在那里的状态。「住みます」是“将要住”，接近“搬家”的意思。",
+    "ja": "「住んでいます」は、いま、そこに住んでいる、という状態です。「住みます」は、これから住む、つまり、「引っ越します」に近い意味です。",
+    "romaji": "'Sunde imasu' wa, ima, soko ni sunde iru, to iu joutai desu. 'Sumimasu' wa, korekara sumu, tsumari, 'hikkoshimasu' ni chikai imi desu."
+  },
+  "sl11.m_ask": {
+    "en": "Yuki, where do you live?",
+    "ru": "Юки, где вы живёте?",
+    "zh": "由纪，你住在哪里？",
+    "ja": "由紀さんは、どこに、住んでいますか？",
+    "romaji": "Yuki-san wa, doko ni, sunde imasu ka?"
+  },
+  "sl11.p2_prompt": {
+    "en": "Mei asked you, “Where do you live?” You live in Tokyo. How do you answer?",
+    "ru": "Мэй спросила вас: «Где вы живёте?» Вы живёте в Токио. Что вы ответите?",
+    "zh": "小梅问你：“你住在哪里？”你住在东京。你会怎么回答？",
+    "ja": "メイさんが、あなたに、聞きました。「あなたは、どこに、住んでいますか？」あなたは、東京に住んでいます。何と答えますか？",
+    "romaji": "Mei-san ga, anata ni, kikimashita. 'Anata wa, doko ni, sunde imasu ka?' Anata wa, Toukyou ni sunde imasu. Nan to kotaemasu ka?"
+  },
+  "sl11.c2_natural": {
+    "en": "“I live in Tokyo.”",
+    "ru": "«Я живу в Токио».",
+    "zh": "“我住在东京。”",
+    "ja": "「東京に、住んでいます。」",
+    "romaji": "'Toukyou ni, sunde imasu.'"
+  },
+  "sl11.c2_formal": {
+    "en": "“I have established my residence in Tokyo.”",
+    "ru": "«Я обосновался в Токио».",
+    "zh": "“我在东京安家。”",
+    "ja": "「東京に、居を構えております。」",
+    "romaji": "'Toukyou ni, kyo o kamaete orimasu.'"
+  },
+  "sl11.c2_mistake": {
+    "en": "“I will live in Tokyo.”",
+    "ru": "«Я буду жить в Токио».",
+    "zh": "“我将要住在东京。”",
+    "ja": "「東京に、住みます。」",
+    "romaji": "'Toukyou ni, sumimasu.'"
+  },
+  "sl11.c2_own": {
+    "en": "“I live in Tokyo. It's twenty minutes to school by train.”",
+    "ru": "«Я живу в Токио. До школы двадцать минут на поезде».",
+    "zh": "“我住在东京。坐电车到学校要二十分钟。”",
+    "ja": "「東京に、住んでいます。学校まで、電車で、二十分です。」",
+    "romaji": "'Toukyou ni, sunde imasu. Gakkou made, densha de, nijuppun desu.'"
+  },
+  "sl11.c2_min": {
+    "en": "“Tokyo... living...”",
+    "ru": "«Токио… живу…»",
+    "zh": "“东京……住着……”",
+    "ja": "「東京…住んで…」",
+    "romaji": "'Toukyou... sunde...'"
+  },
+  "sl11.p2_nat_mei": {
+    "en": "I see. I live in Tokyo too. We're close.",
+    "ru": "Понятно. Я тоже живу в Токио. Мы живём недалеко друг от друга.",
+    "zh": "这样啊。我也住在东京。离得很近呢。",
+    "ja": "そうですか。わたしも、東京に、住んでいます。近いですね。",
+    "romaji": "Sou desu ka. Watashi mo, Toukyou ni, sunde imasu. Chikai desu ne."
+  },
+  "sl11.p2_form_yuki": {
+    "en": "Ha, it sounds like you own a grand house. “Toukyou ni, sunde imasu” is fine.",
+    "ru": "Ха-ха, как будто у вас роскошный дом. Достаточно «Токё: ни, сундэ имас».",
+    "zh": "呵呵，听起来像拥有一栋豪宅似的。说「東京に、住んでいます」就行。",
+    "ja": "ふふ、りっぱな家を、持っているみたいです。「東京に、住んでいます」で、いいですよ。",
+    "romaji": "Fufu, rippa na ie o, motte iru mitai desu. 'Toukyou ni, sunde imasu' de, ii desu yo."
+  },
+  "sl11.p2_mis_ken": {
+    "en": "Close. “Sumimasu” means “I will live.” When you are currently living there, you say “sunde imasu.”",
+    "ru": "Почти. «Сумимас» означает «буду жить». Когда вы живёте там сейчас, говорят «сундэ имас».",
+    "zh": "很接近。「住みます」是“将要住”的意思。现在正住着的时候，要说「住んでいます」。",
+    "ja": "惜しいです。「住みます」は、「これから住む」という意味です。いま住んでいるときは、「住んでいます」と言います。",
+    "romaji": "Oshii desu. 'Sumimasu' wa, 'korekara sumu' to iu imi desu. Ima sunde iru toki wa, 'sunde imasu' to iimasu."
+  },
+  "sl11.p2_mis_retry": {
+    "en": "Oh, I live in Tokyo.",
+    "ru": "Ой, я живу в Токио.",
+    "zh": "啊，我住在东京。",
+    "ja": "あっ、東京に、住んでいます。",
+    "romaji": "A, Toukyou ni, sunde imasu."
+  },
+  "sl11.p2_mis_relief": {
+    "en": "Yes, that's it! “Sunde imasu.”",
+    "ru": "Да, именно так! «Сундэ имас».",
+    "zh": "对，就是这个！是「住んでいます」。",
+    "ja": "はい、それです！「住んでいます」ですね。",
+    "romaji": "Hai, sore desu! 'Sunde imasu' desu ne."
+  },
+  "sl11.p2_own_mei": {
+    "en": "That's close. Then let's go to school together sometime.",
+    "ru": "Совсем близко. Тогда как-нибудь пойдём вместе в школу.",
+    "zh": "很近呢。那下次我们一起去学校吧。",
+    "ja": "近いですね。じゃあ、こんど、いっしょに、学校へ行きましょう。",
+    "romaji": "Chikai desu ne. Jaa, kondo, issho ni, gakkou e ikimashou."
+  },
+  "sl11.p2_min_tanaka": {
+    "en": "I understand. Try a full sentence: “Toukyou ni, sunde imasu.”",
+    "ru": "Понимаю. Скажите целым предложением: «Токё: ни, сундэ имас».",
+    "zh": "我明白。试着说完整的句子：「東京に、住んでいます」。",
+    "ja": "分かりますよ。「東京に、住んでいます」と、文で言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Toukyou ni, sunde imasu' to, bun de itte mimashou."
+  },
+  "sl11.s3_intro": {
+    "en": "Next is “mada ~ te imasen.” To “mou, tabemashita ka?” you answer “iie, mada, tabete imasen.”",
+    "ru": "Дальше — «мада ~ тэ имасэн». На «мо, табэмасита ка?» отвечают «ииэ, мада, табэтэ имасэн».",
+    "zh": "接下来是「まだ〜ていません」。对「もう、食べましたか？」，回答「いいえ、まだ、食べていません」。",
+    "ja": "次は、「まだ〜ていません」です。「もう、食べましたか？」に、「いいえ、まだ、食べていません」と答えます。",
+    "romaji": "Tsugi wa, 'mada ~ te imasen' desu. 'Mou, tabemashita ka?' ni, 'iie, mada, tabete imasen' to kotaemasu."
+  },
+  "sl11.s3_ex": {
+    "en": "“Mou, ~ mashita ka” asks “have you already done it?” The answer is “hai, mou, ~ mashita” or “iie, mada, ~ te imasen.”",
+    "ru": "«Мо, ~ масита ка» — вопрос «вы уже это сделали?». Ответ: «хай, мо, ~ масита» или «ииэ, мада, ~ тэ имасэн».",
+    "zh": "「もう、〜ましたか」是“已经做了吗”的疑问。回答是「はい、もう、〜ました」或「いいえ、まだ、〜ていません」。",
+    "ja": "「もう、〜ましたか」は、「すでに、しましたか」という質問です。答えは、「はい、もう、〜ました」か、「いいえ、まだ、〜ていません」です。",
+    "romaji": "'Mou, ~ mashita ka' wa, 'sude ni, shimashita ka' to iu shitsumon desu. Kotae wa, 'hai, mou, ~ mashita' ka, 'iie, mada, ~ te imasen' desu."
+  },
+  "sl11.s3_q1": {
+    "en": "Is it okay to say “mada, tabemasen”?",
+    "ru": "Можно ли сказать «мада, табэмасэн»?",
+    "zh": "可以说「まだ、食べません」吗？",
+    "ja": "「まだ、食べません」と、言ってもいいですか？",
+    "romaji": "'Mada, tabemasen' to, itte mo ii desu ka?"
+  },
+  "sl11.s3_a1": {
+    "en": "The meaning is different. “Mada, tabemasen” expresses the intention “I won't eat yet.” “Mada, tabete imasen” states the fact “I haven't eaten yet.”",
+    "ru": "Значение разное. «Мада, табэмасэн» выражает намерение «пока не буду есть». «Мада, табэтэ имасэн» констатирует факт «пока не ел».",
+    "zh": "意思不同。「まだ、食べません」表达的是“还不吃”这个今后的意愿。「まだ、食べていません」陈述的是“现在还没吃”这个事实。",
+    "ja": "意味が、ちがいます。「まだ、食べません」は、「まだ、食べない」という、これからの気持ちです。「まだ、食べていません」は、「いま、食べていない」という、事実です。",
+    "romaji": "Imi ga, chigaimasu. 'Mada, tabemasen' wa, 'mada, tabenai' to iu, korekara no kimochi desu. 'Mada, tabete imasen' wa, 'ima, tabete inai' to iu, jijitsu desu."
+  },
+  "sl11.s3_q2": {
+    "en": "When the answer to “mou” is “iie,” do you need “mada”?",
+    "ru": "Когда ответ на «мо» — «ииэ», нужно ли «мада»?",
+    "zh": "「もう」的回答是「いいえ」时，需要「まだ」吗？",
+    "ja": "「もう」の答えが、「いいえ」のとき、「まだ」が、必要ですか？",
+    "romaji": "'Mou' no kotae ga, 'iie' no toki, 'mada' ga, hitsuyou desu ka?"
+  },
+  "sl11.s3_a2": {
+    "en": "Yes, adding “mada” makes it natural. It conveys the feeling “I'm planning to eat from now.”",
+    "ru": "Да, с «мада» звучит естественно. Оно передаёт мысль «я собираюсь поесть».",
+    "zh": "是的，加上「まだ」会更自然。能传达“我打算接下来吃”的心情。",
+    "ja": "はい、「まだ」を入れると、自然です。「これから、食べるつもりです」という気持ちが、伝わります。",
+    "romaji": "Hai, 'mada' o ireru to, shizen desu. 'Korekara, taberu tsumori desu' to iu kimochi ga, tsutawarimasu."
+  },
+  "sl11.m_lunch": {
+    "en": "Have you already had lunch?",
+    "ru": "Вы уже пообедали?",
+    "zh": "你已经吃午饭了吗？",
+    "ja": "もう、お昼ごはんを、食べましたか？",
+    "romaji": "Mou, ohirugohan o, tabemashita ka?"
+  },
+  "sl11.p3_prompt": {
+    "en": "Mei asked. You haven't had lunch yet. How do you answer?",
+    "ru": "Мэй спросила. Вы ещё не обедали. Что вы ответите?",
+    "zh": "小梅问了。你还没吃午饭。你会怎么回答？",
+    "ja": "メイさんが、聞きました。あなたは、まだ、お昼ごはんを食べていません。何と答えますか？",
+    "romaji": "Mei-san ga, kikimashita. Anata wa, mada, ohirugohan o tabete imasen. Nan to kotaemasu ka?"
+  },
+  "sl11.c3_natural": {
+    "en": "“No, I haven't eaten yet.”",
+    "ru": "«Нет, я ещё не ел».",
+    "zh": "“不，我还没吃。”",
+    "ja": "「いいえ、まだ、食べていません。」",
+    "romaji": "'Iie, mada, tabete imasen.'"
+  },
+  "sl11.c3_formal": {
+    "en": "“No, I have not yet partaken.”",
+    "ru": "«Нет, я пока не отведал».",
+    "zh": "“不，我尚未用餐。”",
+    "ja": "「いえ、いまだ、いただいておりません。」",
+    "romaji": "'Ie, imada, itadaite orimasen.'"
+  },
+  "sl11.c3_mistake": {
+    "en": "“No, I won't eat yet.”",
+    "ru": "«Нет, я пока не буду есть».",
+    "zh": "“不，我还不吃。”（变成了不想吃的意愿）",
+    "ja": "「いいえ、まだ、食べません。」",
+    "romaji": "'Iie, mada, tabemasen.'"
+  },
+  "sl11.c3_own": {
+    "en": "“No, I haven't eaten yet. I'm hungry.”",
+    "ru": "«Нет, я ещё не ел. Я голоден».",
+    "zh": "“不，我还没吃。肚子饿了。”",
+    "ja": "「いいえ、まだ、食べていません。おなかが、すいています。」",
+    "romaji": "'Iie, mada, tabete imasen. Onaka ga, suite imasu.'"
+  },
+  "sl11.c3_min": {
+    "en": "“No... not yet...”",
+    "ru": "«Нет… ещё нет…»",
+    "zh": "“不……还没……”",
+    "ja": "「いいえ…まだ…」",
+    "romaji": "'Iie... mada...'"
+  },
+  "sl11.p3_nat_mei": {
+    "en": "Then let's eat together. There's a famous shop nearby.",
+    "ru": "Тогда пообедаем вместе. Неподалёку есть знаменитое заведение.",
+    "zh": "那我们一起吃吧。附近有一家有名的店。",
+    "ja": "じゃあ、いっしょに、食べましょう。近くに、有名なお店がありますよ。",
+    "romaji": "Jaa, issho ni, tabemashou. Chikaku ni, yuumei na omise ga arimasu yo."
+  },
+  "sl11.p3_form_ken": {
+    "en": "Haha, those are difficult words. “Mada, tabete imasen” is fine.",
+    "ru": "Ха-ха, какие сложные слова. Достаточно «мада, табэтэ имасэн».",
+    "zh": "哈哈，这些词好难。说「まだ、食べていません」就行。",
+    "ja": "あはは、むずかしい言葉ですね。「まだ、食べていません」で、大丈夫です。",
+    "romaji": "Ahaha, muzukashii kotoba desu ne. 'Mada, tabete imasen' de, daijoubu desu."
+  },
+  "sl11.p3_mis_tanaka": {
+    "en": "Close. “Tabemasen” expresses “I won't eat.” To state the fact that you haven't done it yet, you say “tabete imasen.”",
+    "ru": "Почти. «Табэмасэн» выражает «не буду есть». Чтобы констатировать факт, что вы ещё не сделали это, говорят «табэтэ имасэн».",
+    "zh": "很接近。「食べません」表达的是“不吃”的意愿。要陈述“还没做”这个事实，说「食べていません」。",
+    "ja": "惜しいです。「食べません」は、「食べない」という気持ちです。まだ、していない事実は、「食べていません」と言います。",
+    "romaji": "Oshii desu. 'Tabemasen' wa, 'tabenai' to iu kimochi desu. Mada, shite inai jijitsu wa, 'tabete imasen' to iimasu."
+  },
+  "sl11.p3_mis_retry": {
+    "en": "Oh, no, I haven't eaten yet.",
+    "ru": "Ой, нет, я ещё не ел.",
+    "zh": "啊，不，我还没吃。",
+    "ja": "あっ、いいえ、まだ、食べていません。",
+    "romaji": "A, iie, mada, tabete imasen."
+  },
+  "sl11.p3_mis_relief": {
+    "en": "Yes, that's it! Then let's eat together.",
+    "ru": "Да, именно так! Тогда пообедаем вместе.",
+    "zh": "对，就是这个！那我们一起吃吧。",
+    "ja": "はい、それです！じゃあ、いっしょに、食べましょう。",
+    "romaji": "Hai, sore desu! Jaa, issho ni, tabemashou."
+  },
+  "sl11.p3_own_mei": {
+    "en": "I'm hungry too. Let's go right away.",
+    "ru": "Я тоже проголодалась. Пойдёмте прямо сейчас.",
+    "zh": "我也饿了。我们马上去吧。",
+    "ja": "わたしも、おなかが、すいています。すぐ、行きましょう。",
+    "romaji": "Watashi mo, onaka ga, suite imasu. Sugu, ikimashou."
+  },
+  "sl11.p3_min_yuki": {
+    "en": "I understand. Try saying it through: “mada, tabete imasen.”",
+    "ru": "Понимаю. Скажите слитно: «мада, табэтэ имасэн».",
+    "zh": "我明白。试着连起来说：「まだ、食べていません」。",
+    "ja": "分かりますよ。「まだ、食べていません」と、続けて、言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Mada, tabete imasen' to, tsuzukete, itte mimashou."
+  },
+  "sl11.s4_intro": {
+    "en": "The last is the past form “~ te imashita.” It means “I was doing ~ at that time.” It is used like “kinou no yoru, benkyou shite imashita.”",
+    "ru": "Последнее — прошедшая форма «~ тэ имасита». Она означает «в то время я делал ~». Используется так: «кину но ёру, бэнкё ситэ имасита».",
+    "zh": "最后是过去式「〜ていました」。意思是“当时正在做〜”。用法如「きのうの夜、勉強していました」。",
+    "ja": "最後は、過去の「〜ていました」です。「そのとき、〜していた」という意味です。「きのうの夜、勉強していました」のように使います。",
+    "romaji": "Saigo wa, kako no '~ te imashita' desu. 'Sono toki, ~ shite ita' to iu imi desu. 'Kinou no yoru, benkyou shite imashita' no you ni tsukaimasu."
+  },
+  "sl11.s4_ex": {
+    "en": "You simply change the “masu” in “te imasu” to “mashita.” Yonde imasu, yonde imashita. Mite imasu, mite imashita.",
+    "ru": "Нужно просто заменить «мас» в «тэ имас» на «масита». Ёндэ имас — ёндэ имасита. Митэ имас — митэ имасита.",
+    "zh": "只要把「ています」里的「ます」变成「ました」就行。読んでいます、読んでいました。見ています、見ていました。",
+    "ja": "「ています」の「ます」を、「ました」に変えるだけです。読んでいます、読んでいました。見ています、見ていました。",
+    "romaji": "'Te imasu' no 'masu' o, 'mashita' ni kaeru dake desu. Yonde imasu, yonde imashita. Mite imasu, mite imashita."
+  },
+  "sl11.s4_q1": {
+    "en": "Is it “te imasu deshita”?",
+    "ru": "Это «тэ имас дэсита»?",
+    "zh": "是「ていますでした」吗？",
+    "ja": "「ていますでした」ですか？",
+    "romaji": "'Te imasu deshita' desu ka?"
+  },
+  "sl11.s4_a1": {
+    "en": "No. You don't say “te imasu” + “deshita.” You turn “te imasu” directly into “te imashita.” In Sentence Lesson 7, the past of verbs was “mashita.”",
+    "ru": "Нет. Не говорят «тэ имас» + «дэсита». «Тэ имас» прямо превращают в «тэ имасита». На уроке предложений 7 прошедшее время глаголов было «масита».",
+    "zh": "不是。不说「ています」＋「でした」。直接把「ています」变成「ていました」。在句型课7里，动词的过去式是「ました」。",
+    "ja": "いいえ。「ています」＋「でした」とは、言いません。「ています」を、そのまま、「ていました」にします。文型レッスン7で、動詞の過去は、「ました」でしたね。",
+    "romaji": "Iie. 'Te imasu' + 'deshita' to wa, iimasen. 'Te imasu' o, sono mama, 'te imashita' ni shimasu. Bunkei ressun nana de, doushi no kako wa, 'mashita' deshita ne."
+  },
+  "sl11.s4_q2": {
+    "en": "How are “mashita” and “te imashita” different?",
+    "ru": "Чем «масита» отличается от «тэ имасита»?",
+    "zh": "「ました」和「ていました」有什么不同？",
+    "ja": "「ました」と「ていました」は、どうちがいますか？",
+    "romaji": "'Mashita' to 'te imashita' wa, dou chigaimasu ka?"
+  },
+  "sl11.s4_a2": {
+    "en": "“Benkyou shimashita” states the fact that you finished studying. “Benkyou shite imashita” means that you were in the middle of studying during that time.",
+    "ru": "«Бэнкё симасита» констатирует факт, что вы закончили заниматься. «Бэнкё ситэ имасита» означает, что в то время вы были в процессе занятий.",
+    "zh": "「勉強しました」是“学完了”这个事实。「勉強していました」是“在那段时间里正在学习”的意思。",
+    "ja": "「勉強しました」は、勉強を終えた、という事実です。「勉強していました」は、その時間、勉強している最中だった、という意味です。",
+    "romaji": "'Benkyou shimashita' wa, benkyou o oeta, to iu jijitsu desu. 'Benkyou shite imashita' wa, sono jikan, benkyou shite iru saichuu datta, to iu imi desu."
+  },
+  "sl11.tanaka_ask": {
+    "en": "What were you doing last night?",
+    "ru": "Что вы делали вчера вечером?",
+    "zh": "昨天晚上你在做什么？",
+    "ja": "きのうの夜、何をしていましたか？",
+    "romaji": "Kinou no yoru, nani o shite imashita ka?"
+  },
+  "sl11.p4_prompt": {
+    "en": "Tanaka-sensei asked you. Last night, you were watching a movie with friends. How do you answer?",
+    "ru": "Танака-сэнсэй спросил вас. Вчера вечером вы смотрели фильм с друзьями. Что вы ответите?",
+    "zh": "田中老师问你。昨天晚上，你正和朋友一起看电影。你会怎么回答？",
+    "ja": "田中先生が、あなたに聞きました。あなたは、きのうの夜、友達と、映画を見ていました。何と答えますか？",
+    "romaji": "Tanaka-sensei ga, anata ni kikimashita. Anata wa, kinou no yoru, tomodachi to, eiga o mite imashita. Nan to kotaemasu ka?"
+  },
+  "sl11.c4_natural": {
+    "en": "“I was watching a movie with friends.”",
+    "ru": "«Я смотрел фильм с друзьями».",
+    "zh": "“我当时正和朋友看电影。”",
+    "ja": "「友達と、映画を、見ていました。」",
+    "romaji": "'Tomodachi to, eiga o, mite imashita.'"
+  },
+  "sl11.c4_formal": {
+    "en": "“I was appreciating a film with an acquaintance.”",
+    "ru": "«Я наслаждался просмотром фильма вместе с другом».",
+    "zh": "“我当时正与友人一同欣赏电影。”",
+    "ja": "「友人と、映画を、鑑賞しておりました。」",
+    "romaji": "'Yuujin to, eiga o, kanshou shite orimashita.'"
+  },
+  "sl11.c4_mistake": {
+    "en": "“I was watching-imasu-deshita a movie.”",
+    "ru": "«Я смотрел-имас-дэсита фильм».",
+    "zh": "“我和朋友看着でした电影。”（ています＋でした混用了）",
+    "ja": "「友達と、映画を、見ていますでした。」",
+    "romaji": "'Tomodachi to, eiga o, mite imasu deshita.'"
+  },
+  "sl11.c4_own": {
+    "en": "“I was watching a movie with friends. It was very interesting.”",
+    "ru": "«Я смотрел фильм с друзьями. Было очень интересно».",
+    "zh": "“我当时正和朋友看电影。非常有意思。”",
+    "ja": "「友達と、映画を、見ていました。とても、おもしろかったです。」",
+    "romaji": "'Tomodachi to, eiga o, mite imashita. Totemo, omoshirokatta desu.'"
+  },
+  "sl11.c4_min": {
+    "en": "“Movie... watching... was...”",
+    "ru": "«Фильм… смотрел… был…»",
+    "zh": "“电影……看……着……”",
+    "ja": "「映画…見て…いました…」",
+    "romaji": "'Eiga... mite... imashita...'"
+  },
+  "sl11.p4_nat_tanaka": {
+    "en": "Nice. I was at home reviewing the Kyoto plans.",
+    "ru": "Здорово. А я дома просматривал план поездки в Киото.",
+    "zh": "不错。我当时在家里看京都的行程。",
+    "ja": "いいですね。私は、家で、京都の計画を、見ていました。",
+    "romaji": "Ii desu ne. Watashi wa, ie de, Kyouto no keikaku o, mite imashita."
+  },
+  "sl11.p4_form_mei": {
+    "en": "Ha, you sound like a film critic. “Mite imashita” is enough.",
+    "ru": "Ха-ха, как кинокритик. Достаточно «митэ имасита».",
+    "zh": "呵呵，像影评人一样。说「見ていました」就足够了。",
+    "ja": "ふふ、映画評論家みたいです。「見ていました」で、じゅうぶんですよ。",
+    "romaji": "Fufu, eiga hyouronka mitai desu. 'Mite imashita' de, juubun desu yo."
+  },
+  "sl11.p4_mis_ken": {
+    "en": "Close. Change the “masu” in “te imasu” to “mashita.” It's “mite imashita.” You don't add “deshita.”",
+    "ru": "Почти. Замените «мас» в «тэ имас» на «масита». Получится «митэ имасита». «Дэсита» не добавляют.",
+    "zh": "很接近。把「ています」里的「ます」变成「ました」。说「見ていました」。不加「でした」。",
+    "ja": "惜しいです。「ています」の「ます」を、「ました」に変えます。「見ていました」です。「でした」は、つけません。",
+    "romaji": "Oshii desu. 'Te imasu' no 'masu' o, 'mashita' ni kaemasu. 'Mite imashita' desu. 'Deshita' wa, tsukemasen."
+  },
+  "sl11.p4_mis_retry": {
+    "en": "Oh, I was watching a movie with friends.",
+    "ru": "Ой, я смотрел фильм с друзьями.",
+    "zh": "啊，我当时正和朋友看电影。",
+    "ja": "あっ、友達と、映画を、見ていました。",
+    "romaji": "A, tomodachi to, eiga o, mite imashita."
+  },
+  "sl11.p4_mis_relief": {
+    "en": "Yes, that's it! “Te imashita.”",
+    "ru": "Да, именно так! «Тэ имасита».",
+    "zh": "对，就是这个！是「ていました」。",
+    "ja": "はい、それです！「ていました」ですね。",
+    "romaji": "Hai, sore desu! 'Te imashita' desu ne."
+  },
+  "sl11.p4_own_yuki": {
+    "en": "What kind of movie was it? Please tell me about it sometime.",
+    "ru": "Какой это был фильм? Расскажите как-нибудь.",
+    "zh": "是什么样的电影？下次告诉我吧。",
+    "ja": "どんな映画でしたか？今度、教えてください。",
+    "romaji": "Donna eiga deshita ka? Kondo, oshiete kudasai."
+  },
+  "sl11.p4_min_tanaka": {
+    "en": "The meaning gets across. Try putting it together: “eiga o, mite imashita.”",
+    "ru": "Смысл понятен. Скажите слитно: «эйга о, митэ имасита».",
+    "zh": "意思能传达。试着连成一句话：「映画を、見ていました」。",
+    "ja": "意味は、伝わります。「映画を、見ていました」と、ひとつにして、言ってみましょう。",
+    "romaji": "Imi wa, tsutawarimasu. 'Eiga o, mite imashita' to, hitotsu ni shite, itte mimashou."
+  },
+  "sl11.talk_open": {
+    "en": "Now let's talk. Out of today's four forms, which one is the easiest to use?",
+    "ru": "Теперь поговорим. Какая из сегодняшних четырёх форм кажется вам самой удобной?",
+    "zh": "现在来聊聊。今天这四个句型里，你觉得哪一个最好用？",
+    "ja": "では、話しましょう。今日の四つの形の中で、いちばん、使いやすい形は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no yottsu no katachi no naka de, ichiban, tsukaiyasui katachi wa, dore desu ka?"
+  },
+  "sl11.talk_mei": {
+    "en": "For me, it's “~ te imasu.” I can say what I'm doing right now immediately, so it's handy.",
+    "ru": "Для меня это «~ тэ имас». Я могу сразу сказать, что делаю сейчас, так что это удобно.",
+    "zh": "我觉得是「〜ています」。能马上说出自己现在在做什么，很方便。",
+    "ja": "わたしは、「〜ています」です。いま、何をしているか、すぐ言えるので、便利です。",
+    "romaji": "Watashi wa, '~ te imasu' desu. Ima, nani o shite iru ka, sugu iemasu node, benri desu."
+  },
+  "sl11.talk_ken": {
+    "en": "For me, it's “shitte imasu” and “shirimasen.” I want to learn the special forms properly.",
+    "ru": "Для меня это «ситтэ имас» и «сиримасэн». Я хочу как следует выучить особые формы.",
+    "zh": "我觉得是「知っています」和「知りません」。我想好好记住这些特殊形式。",
+    "ja": "ぼくは、「知っています」と「知りません」です。特別な形は、ちゃんと覚えたいです。",
+    "romaji": "Boku wa, 'shitte imasu' to 'shirimasen' desu. Tokubetsu na katachi wa, chanto oboetai desu."
+  },
+  "sl11.talk_yuki": {
+    "en": "For me, it's “mada ~ te imasen.” Having “mada” gives it a gentle feel.",
+    "ru": "Для меня это «мада ~ тэ имасэн». С «мада» звучит мягко.",
+    "zh": "我觉得是「まだ〜ていません」。有了「まだ」，语气就显得温和。",
+    "ja": "わたしは、「まだ〜ていません」です。「まだ」があると、やさしい感じがします。",
+    "romaji": "Watashi wa, 'mada ~ te imasen' desu. 'Mada' ga aru to, yasashii kanji ga shimasu."
+  },
+  "sl11.talk_tanaka": {
+    "en": "Lovely. “Te imasu” is one of the most frequently used forms in Japanese. You will hear it a lot in daily conversation.",
+    "ru": "Прекрасно. «Тэ имас» — одна из самых часто используемых форм в японском. Вы будете слышать её очень часто в повседневных разговорах.",
+    "zh": "真好。「ています」是日语里最常用的句型之一。在日常对话中你会经常听到。",
+    "ja": "すてきですね。「ています」は、日本語で、いちばんよく使う形の一つです。毎日の会話で、たくさん聞くでしょう。",
+    "romaji": "Suteki desu ne. 'Te imasu' wa, nihongo de, ichiban yoku tsukau katachi no hitotsu desu. Mainichi no kaiwa de, takusan kikudeshou."
+  },
+  "sl11.talk_player": {
+    "en": "(I'm reading, I live, I haven't eaten yet, I was watching. When I can use “~ te imasu,” I can see myself clearly in Japanese. Next, I'll ask about the rules at Kyoto's temples with “~ te mo ii desu ka.”)",
+    "ru": "(Читаю, живу, ещё не ел, смотрел. Когда умеешь использовать «~ тэ имас», себя нынешнего можно чётко увидеть на японском. Дальше я спрошу о правилах в киотоских храмах с помощью «~ тэ мо ии дэс ка».)",
+    "zh": "（正在读、住着、还没吃、当时在看。会用「〜ています」，现在的自己就能在日语里清晰地显现出来。接下来，我要用「〜てもいいですか」，去问问京都寺庙的规矩。）",
+    "ja": "（読んでいます、住んでいます、まだ食べていません、見ていました。「〜ています」が使えると、いまの自分が、日本語で、はっきり見えてくる。次は、「〜てもいいですか」で、京都のお寺の、ルールを聞いてみよう。）",
+    "romaji": "(Yonde imasu, sunde imasu, mada tabete imasen, mite imashita. '~ te imasu' ga tsukaeru to, ima no jibun ga, nihongo de, hakkiri miete kuru. Tsugi wa, '~ te mo ii desu ka' de, Kyouto no otera no, ruuru o kiite miyou.)"
+  },
+  "sl11.talk_close": {
+    "en": "Good lesson, everyone. In the next class, we'll study permission and prohibition with “~ te mo ii desu ka” and “~ te wa ikemasen.”",
+    "ru": "Хороший урок, все. На следующем уроке мы изучим разрешение и запрет с помощью «~ тэ мо ии дэс ка» и «~ тэ ва икэмасэн».",
+    "zh": "各位，这节课很棒。下节课我们用「〜てもいいですか」「〜てはいけません」来学习许可和禁止。",
+    "ja": "みなさん、いいレッスンでした。次の授業では、「〜てもいいですか」「〜てはいけません」で、許可と禁止を勉強しましょう。",
+    "romaji": "Minasan, ii ressun deshita. Tsugi no jugyou de wa, '~ te mo ii desu ka' '~ te wa ikemasen' de, kyoka to kinshi o benkyou shimashou."
+  },
+  "sl11.complete": {
+    "en": "End of Sentence Lesson 11.",
+    "ru": "Конец урока предложений 11.",
+    "zh": "句型课 11 结束。",
+    "ja": "文型レッスン11、おわり。",
+    "romaji": "Bunkei ressun juuichi, owari."
+  }
+}

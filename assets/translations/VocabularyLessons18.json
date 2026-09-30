@@ -1,0 +1,1073 @@
+{
+  "vl18.title": {
+    "en": "Grandpa's Regular Checkup",
+    "ru": "Плановый осмотр дедушки",
+    "zh": "爷爷的定期体检",
+    "ja": "おじいさんの、定期検診",
+    "romaji": "Ojiisan no, teiki kenshin"
+  },
+  "vl18.subtitle": {
+    "en": "Polite Japanese for the Clinic",
+    "ru": "Вежливый японский для клиники",
+    "zh": "在医院使用的礼貌日语",
+    "ja": "病院で使う、ていねいな日本語",
+    "romaji": "Byouin de tsukau, teinei na nihongo"
+  },
+  "vl18.description": {
+    "en": "Accompany Grandpa to his regular checkup after a neighborhood association notice, and practise ten words about health and polite ways to ask for things.",
+    "ru": "Сопровождая дедушку на плановый осмотр после объявления районной ассоциации, потренируйте десять слов о здоровье и вежливых просьбах.",
+    "zh": "陪爷爷去参加町内会通知的定期体检，练习十个关于健康和礼貌请求的词。",
+    "ja": "町内会のお知らせで、おじいさんの定期検診に同行しながら、健康と、ていねいな頼み方に関する十の言葉を練習します。",
+    "romaji": "Chounaikai no oshirase de, ojiisan no teiki kenshin ni doukou shinagara, kenkou to, teinei na tanomikata ni kansuru juu no kotoba o renshuu shimasu."
+  },
+  "vl18.setup": {
+    "en": "Morning. Yuki's grandfather is going to a nearby clinic. Today, Tanaka-sensei and everyone have decided to go along.",
+    "ru": "Утро. Дедушка Юки идёт в ближайшую поликлинику. Сегодня Танака-сэнсэй и все остальные решили пойти вместе с ним.",
+    "zh": "早晨。由纪的爷爷要去附近的诊所。今天田中老师和大家决定一起去。",
+    "ja": "朝。ユキさんの、おじいさんは、近くの診療所へ、行く。今日は、田中先生と、みんなも、いっしょに、行くことになった。",
+    "romaji": "Asa. Yuki-san no, ojiisan wa, chikaku no shinryoujo e, iku. Kyou wa, Tanaka-sensei to, minna mo, issho ni, iku koto ni natta."
+  },
+  "vl18.t_intro": {
+    "en": "Today let's study words used at the hospital. We'll also practise polite ways of asking.",
+    "ru": "Сегодня изучим слова, используемые в больнице. Также потренируем вежливые способы просить.",
+    "zh": "今天来学习在医院用的词。也要练习礼貌的请求方式哦。",
+    "ja": "今日は、病院で使う言葉を、勉強しましょう。ていねいな頼み方も、練習しますよ。",
+    "romaji": "Kyou wa, byouin de tsukau kotoba o, benkyou shimashou. Teinei na tanomikata mo, renshuu shimasu yo."
+  },
+  "vl18.w1": {
+    "en": "Grandpa learned of the checkup from a notice from the “chounaikai.” A “chounaikai” is a self-governing organization formed by people living in the same neighborhood. It handles things like garbage duty and festivals.",
+    "ru": "Дедушка узнал об осмотре из объявления «тё:найкай». «Тё:найкай» — самоуправляемая организация, создаваемая людьми, живущими в одном районе. Она занимается дежурствами по мусору, фестивалями и подобным.",
+    "zh": "爷爷是从「町内会」的通知里得知体检的。「町内会」是住在同一个町的人们组成的自治组织。负责垃圾值日和祭典等事务。",
+    "ja": "おじいさんが、検診を、知ったのは、「町内会」の、お知らせです。「町内会」は、同じ町に住む人たちが、作る、自治の組織です。ごみの当番や、お祭りなどを、担当します。",
+    "romaji": "Ojiisan ga, kenshin o, shitta no wa, 'chounaikai' no, oshirase desu. 'Chounaikai' wa, onaji machi ni sumu hitotachi ga, tsukuru, jichi no soshiki desu. Gomi no touban ya, omatsuri nado o, tantou shimasu."
+  },
+  "vl18.w1_q": {
+    "en": "Do you have to join a “chounaikai”?",
+    "ru": "Обязательно ли вступать в «тё:найкай»?",
+    "zh": "一定要加入「町内会」吗？",
+    "ja": "「町内会」は、入らなければ、いけませんか？",
+    "romaji": "'Chounaikai' wa, hairanakereba, ikemasen ka?"
+  },
+  "vl18.w1_a": {
+    "en": "It's not required by law. But since you can take part in local information and mutual aid, many people join. You say “chounaikai ni hairu” or “chounaikaihi o harau.”",
+    "ru": "По закону это не обязательно. Но поскольку можно получать местную информацию и участвовать во взаимопомощи, многие вступают. Говорят «тё:найкай ни хайру», «тё:найкайхи о харау».",
+    "zh": "法律上没有规定。不过可以获得当地信息并参与互助，所以很多人加入。说「町内会に入る」「町内会費を払う」。",
+    "ja": "法律で、決まっては、いません。でも、地域の情報や、助け合いに、参加できるので、入る人が、多いです。「町内会に入る」「町内会費を払う」と言います。",
+    "romaji": "Houritsu de, kimatte wa, imasen. Demo, chiiki no jouhou ya, tasukeai ni, sanka dekiru node, hairu hito ga, ooi desu. 'Chounaikai ni hairu' 'chounaikaihi o harau' to iimasu."
+  },
+  "vl18.p1_prompt": {
+    "en": "At the clinic reception, Grandpa's friend asked, “Where did you hear about this checkup?” You learned about it from a neighborhood association notice. How do you answer?",
+    "ru": "На ресепшене поликлиники друг дедушки спросил: «Где вы услышали об этом осмотре?» Вы узнали из объявления районной ассоциации. Что вы ответите?",
+    "zh": "诊所接待处，爷爷的朋友问：“这次体检的事，你是在哪里听说的？”你是从町内会的通知得知的。你会怎么回答？",
+    "ja": "診療所の、受付で、おじいさんの友達が、聞きました。「この検診の話は、どこで、聞きましたか？」あなたは、町内会の、お知らせで、知りました。何と答えますか？",
+    "romaji": "Shinryoujo no, uketsuke de, ojiisan no tomodachi ga, kikimashita. 'Kono kenshin no hanashi wa, doko de, kikimashita ka?' Anata wa, chounaikai no, oshirase de, shirimashita. Nan to kotaemasu ka?"
+  },
+  "vl18.c1_natural": {
+    "en": "“I learned about it from the neighborhood association's notice.”",
+    "ru": "«Я узнал об этом из объявления районной ассоциации».",
+    "zh": "“我是从町内会的通知里得知的。”",
+    "ja": "「町内会の、お知らせで、知りました。」",
+    "romaji": "'Chounaikai no, oshirase de, shirimashita.'"
+  },
+  "vl18.c1_formal": {
+    "en": "“I became aware of it through the guidance I received from the neighborhood association.”",
+    "ru": "«Я узнал об этом из уведомления, полученного от районной ассоциации».",
+    "zh": "“是通过从町内会收到的通知得知的。”",
+    "ja": "「町内会より、頂戴いたしました、ご案内にて、承知いたしました。」",
+    "romaji": "'Chounaikai yori, choudai itashimashita, goannai nite, shouchi itashimashita.'"
+  },
+  "vl18.c1_mistake": {
+    "en": "“I knew (ni) the notice from the neighborhood association.”",
+    "ru": "«Я знал (ни) объявление районной ассоциации».",
+    "zh": "“町内会のお知らせに，知りました。”（手段用「で」）",
+    "ja": "「町内会の、お知らせに、知りました。」",
+    "romaji": "'Chounaikai no, oshirase ni, shirimashita.'"
+  },
+  "vl18.c1_own": {
+    "en": "“I learned about it from the neighborhood association's notice. Grandpa told me about it.”",
+    "ru": "«Я узнал об этом из объявления районной ассоциации. Мне рассказал дедушка».",
+    "zh": "“我是从町内会的通知里得知的。是爷爷告诉我的。”",
+    "ja": "「町内会の、お知らせで、知りました。おじいさんが、教えてくれたんです。」",
+    "romaji": "'Chounaikai no, oshirase de, shirimashita. Ojiisan ga, oshiete kureta n desu.'"
+  },
+  "vl18.c1_min": {
+    "en": "“Notice... neighborhood association...”",
+    "ru": "«Объявление… районная ассоциация…»",
+    "zh": "“通知……町内会……”",
+    "ja": "「お知らせ…町内会…」",
+    "romaji": "'Oshirase... chounaikai...'"
+  },
+  "vl18.p1_natural_r": {
+    "en": "I see. The neighborhood association is a blessing.",
+    "ru": "Вот как. Районная ассоциация — большое благо.",
+    "zh": "是吗。町内会真是帮了大忙呢。",
+    "ja": "そうですか。町内会は、ありがたいですね。",
+    "romaji": "Sou desu ka. Chounaikai wa, arigatai desu ne."
+  },
+  "vl18.p1_formal_r": {
+    "en": "Ha, you sound like a city hall clerk. “Oshirase de, shirimashita” is fine.",
+    "ru": "Ха-ха, как чиновник. Достаточно «осирасэ дэ, сиримасита».",
+    "zh": "呵呵，像政府职员一样。说「お知らせで、知りました」就行。",
+    "ja": "ふふ、役所の人みたいです。「お知らせで、知りました」で、いいですよ。",
+    "romaji": "Fufu, yakusho no hito mitai desu. 'Oshirase de, shirimashita' de, ii desu yo."
+  },
+  "vl18.p1_mistake_r": {
+    "en": "Close. The means by which you learned takes “de.” It's “oshirase de, shirimashita.” “Ni” isn't used.",
+    "ru": "Почти. Способ, которым вы узнали, обозначается «дэ». Получается «осирасэ дэ, сиримасита». «Ни» не используют.",
+    "zh": "很接近。表示通过什么得知的手段用「で」。说「お知らせで、知りました」。不用「に」。",
+    "ja": "惜しいです。何で、知ったか、という手段は、「で」です。「お知らせで、知りました」です。「に」は、使いません。",
+    "romaji": "Oshii desu. Nani de, shitta ka, to iu shudan wa, 'de' desu. 'Oshirase de, shirimashita' desu. 'Ni' wa, tsukaimasen."
+  },
+  "vl18.p1_mis_retry": {
+    "en": "I learned about it from the neighborhood association's notice.",
+    "ru": "Я узнал об этом из объявления районной ассоциации.",
+    "zh": "我是从町内会的通知里得知的。",
+    "ja": "町内会の、お知らせで、知りました。",
+    "romaji": "Chounaikai no, oshirase de, shirimashita."
+  },
+  "vl18.p1_mis_relief": {
+    "en": "Yes, that's it. The means takes “de.”",
+    "ru": "Да, именно так. Способ обозначается «дэ».",
+    "zh": "对，就是这个。手段用「で」。",
+    "ja": "はい、それです。手段は、「で」ですね。",
+    "romaji": "Hai, sore desu. Shudan wa, 'de' desu ne."
+  },
+  "vl18.p1_own_r": {
+    "en": "That's right. Thank you for coming.",
+    "ru": "Так и было. Спасибо, что пришли.",
+    "zh": "没错。谢谢你能来。",
+    "ja": "そうでしたね。よく、来てくれました。",
+    "romaji": "Sou deshita ne. Yoku, kite kuremashita."
+  },
+  "vl18.p1_min_r": {
+    "en": "Your meaning comes across. Try saying it as a sentence: “oshirase de, shirimashita.”",
+    "ru": "Ваша мысль понятна. Скажите предложением: «осирасэ дэ, сиримасита».",
+    "zh": "你的意思能传达。试着用句子说：「お知らせで、知りました」。",
+    "ja": "気持ちは、伝わります。「お知らせで、知りました」と、文で、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Oshirase de, shirimashita' to, bun de, itte mimashou."
+  },
+  "vl18.w2": {
+    "en": "This checkup is a “teiki kenshin.” A “teiki kenshin” is a health examination you receive at a set time even when you're not ill. Once a year or once every six months is typical.",
+    "ru": "Этот осмотр — «тэйки кэнсин». «Тэйки кэнсин» — медицинский осмотр, который проходят в определённое время, даже если вы не больны. Обычно раз в год или раз в полгода.",
+    "zh": "这次检查是「定期検診」。「定期検診」是即使没病，也在固定时间接受的健康检查。通常每年一次或每半年一次。",
+    "ja": "この検診は、「定期検診」です。「定期検診」は、病気がなくても、決まった時期に、受ける、健康診断のことです。年に一回や、半年に一回が、ふつうです。",
+    "romaji": "Kono kenshin wa, 'teiki kenshin' desu. 'Teiki kenshin' wa, byouki ga nakute mo, kimatta jiki ni, ukeru, kenkou shindan no koto desu. Nen ni ikkai ya, hantoshi ni ikkai ga, futsuu desu."
+  },
+  "vl18.w2_q": {
+    "en": "Are “teiki kenshin” and “kenkou shindan” the same?",
+    "ru": "«Тэйки кэнсин» и «кэнко: синдан» — одно и то же?",
+    "zh": "「定期検診」和「健康診断」一样吗？",
+    "ja": "「定期検診」と「健康診断」は、同じですか？",
+    "romaji": "'Teiki kenshin' to 'kenkou shindan' wa, onaji desu ka?"
+  },
+  "vl18.w2_a": {
+    "en": "They are almost the same. “Kenkou shindan” is often done at companies or schools. “Teiki kenshin” can also refer to ongoing checkups to monitor dental health or a chronic condition.",
+    "ru": "Почти одно и то же. «Кэнко: синдан» часто проводится в компаниях или школах. «Тэйки кэнсин» также может относиться к регулярным осмотрам для наблюдения за состоянием зубов или хроническим заболеванием.",
+    "zh": "几乎相同。「健康診断」多在公司或学校进行。「定期検診」也指为了观察牙科或慢性病的进展而持续接受的检查。",
+    "ja": "ほとんど、同じです。「健康診断」は、会社や、学校で、行うことが、多いです。「定期検診」は、歯科や、持病の、経過を、見るために、続けて、受けることも、指します。",
+    "romaji": "Hotondo, onaji desu. 'Kenkou shindan' wa, kaisha ya, gakkou de, okonau koto ga, ooi desu. 'Teiki kenshin' wa, shika ya, jibyou no, keika o, miru tame ni, tsuzukete, ukeru koto mo, sashimasu."
+  },
+  "vl18.p2_prompt": {
+    "en": "Grandpa asked, “How often do you usually get checkups?” You get one once a year. How do you answer?",
+    "ru": "Дедушка спросил: «Как часто вы обычно проходите осмотры?» Вы проходите раз в год. Что вы ответите?",
+    "zh": "爷爷问：“你平时隔多久做一次检查？”你一年做一次。你会怎么回答？",
+    "ja": "おじいさんが、聞きました。「あなたは、いつも、どのくらいの間隔で、検診を、受けていますか？」あなたは、一年に一回、受けています。何と答えますか？",
+    "romaji": "Ojiisan ga, kikimashita. 'Anata wa, itsumo, dono kurai no kankaku de, kenshin o, ukete imasu ka?' Anata wa, ichinen ni ikkai, ukete imasu. Nan to kotaemasu ka?"
+  },
+  "vl18.c2_natural": {
+    "en": "“I get a regular checkup once a year.”",
+    "ru": "«Я прохожу плановый осмотр раз в год».",
+    "zh": "“我每年做一次定期体检。”",
+    "ja": "「一年に一回、定期検診を、受けています。」",
+    "romaji": "'Ichinen ni ikkai, teiki kenshin o, ukete imasu.'"
+  },
+  "vl18.c2_formal": {
+    "en": "“I undergo a regular health examination once a year.”",
+    "ru": "«Я прохожу плановое медицинское обследование раз в год».",
+    "zh": "“我每年接受一次定期健康检查。”",
+    "ja": "「年に一度、定期の健康診断を、受診いたしております。」",
+    "romaji": "'Nen ni ichido, teiki no kenkou shindan o, jushin itashite orimasu.'"
+  },
+  "vl18.c2_mistake": {
+    "en": "“I do a regular checkup once a year.”",
+    "ru": "«Я делаю плановый осмотр раз в год».",
+    "zh": "“我每年做一次定期検診を，している。”（应该用「受ける」）",
+    "ja": "「一年に一回、定期検診を、しています。」",
+    "romaji": "'Ichinen ni ikkai, teiki kenshin o, shite imasu.'"
+  },
+  "vl18.c2_own": {
+    "en": "“I get a regular checkup once a year. Last year there were no problems.”",
+    "ru": "«Я прохожу плановый осмотр раз в год. В прошлом году проблем не было».",
+    "zh": "“我每年做一次定期体检。去年没有问题。”",
+    "ja": "「一年に一回、定期検診を、受けています。去年は、問題が、ありませんでした。」",
+    "romaji": "'Ichinen ni ikkai, teiki kenshin o, ukete imasu. Kyonen wa, mondai ga, arimasen deshita.'"
+  },
+  "vl18.c2_min": {
+    "en": "“Every year... checkup... receive...”",
+    "ru": "«Каждый год… осмотр… проходить…»",
+    "zh": "“每年……体检……接受……”",
+    "ja": "「毎年…検診…受ける…」",
+    "romaji": "'Maitoshi... kenshin... ukeru...'"
+  },
+  "vl18.p2_natural_r": {
+    "en": "Admirable. Even young people should get them properly.",
+    "ru": "Похвально. Даже молодым людям следует проходить их как положено.",
+    "zh": "真了不起。年轻人也应该好好做。",
+    "ja": "えらいですね。若い人も、きちんと、受けるべきです。",
+    "romaji": "Erai desu ne. Wakai hito mo, kichinto, ukeru beki desu."
+  },
+  "vl18.p2_formal_r": {
+    "en": "Ha, it sounds like a hospital notice. “Ukete imasu” is fine.",
+    "ru": "Ха-ха, как объявление в больнице. Достаточно «укэтэ имас».",
+    "zh": "呵呵，像医院的告示一样。说「受けています」就行。",
+    "ja": "ふふ、病院の、案内みたいです。「受けています」で、いいですよ。",
+    "romaji": "Fufu, byouin no, annai mitai desu. 'Ukete imasu' de, ii desu yo."
+  },
+  "vl18.p2_mistake_r": {
+    "en": "Close. A checkup is something the doctor does, and you are the one who “ukeru,” receives it. It's “teiki kenshin o, ukete imasu.”",
+    "ru": "Почти. Осмотр проводит врач, а вы тот, кто «укэру» — проходит его. Получается «тэйки кэнсин о, укэтэ имас».",
+    "zh": "很接近。体检是医生做的，自己是「受ける」的一方。说「定期検診を、受けています」。",
+    "ja": "惜しいです。検診は、医者が、するもので、自分は、「受ける」ほうです。「定期検診を、受けています」です。",
+    "romaji": "Oshii desu. Kenshin wa, isha ga, suru mono de, jibun wa, 'ukeru' hou desu. 'Teiki kenshin o, ukete imasu' desu."
+  },
+  "vl18.p2_mis_retry": {
+    "en": "I get a regular checkup once a year.",
+    "ru": "Я прохожу плановый осмотр раз в год.",
+    "zh": "我每年做一次定期体检。",
+    "ja": "一年に一回、定期検診を、受けています。",
+    "romaji": "Ichinen ni ikkai, teiki kenshin o, ukete imasu."
+  },
+  "vl18.p2_mis_relief": {
+    "en": "Yes, that's it. The receiving side uses “ukeru.”",
+    "ru": "Да, именно так. Принимающая сторона использует «укэру».",
+    "zh": "对，就是这个。接受的一方用「受ける」。",
+    "ja": "はい、それです。受ける側は、「受ける」ですね。",
+    "romaji": "Hai, sore desu. Ukeru gawa wa, 'ukeru' desu ne."
+  },
+  "vl18.p2_own_r": {
+    "en": "That's good. Continuing is what's important.",
+    "ru": "Это хорошо. Важно продолжать.",
+    "zh": "那太好了。坚持很重要哦。",
+    "ja": "それは、よかった。続けることが、大切ですよ。",
+    "romaji": "Sore wa, yokatta. Tsuzukeru koto ga, taisetsu desu yo."
+  },
+  "vl18.p2_min_r": {
+    "en": "Your meaning comes across. Try saying “teiki kenshin o, ukete imasu.”",
+    "ru": "Ваша мысль понятна. Скажите «тэйки кэнсин о, укэтэ имас».",
+    "zh": "你的意思能传达。试着说「定期検診を、受けています」。",
+    "ja": "気持ちは、伝わります。「定期検診を、受けています」と、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Teiki kenshin o, ukete imasu' to, itte mimashou."
+  },
+  "vl18.exam": {
+    "en": "Inside the examination room, the doctor wrapped a black band around Grandpa's arm.",
+    "ru": "В кабинете врач обернул чёрную манжету вокруг руки дедушки.",
+    "zh": "进入诊室后，医生在爷爷的手臂上缠了一条黑色带子。",
+    "ja": "診察室に入ると、お医者さんが、おじいさんの腕に、黒い、バンドを巻いた。",
+    "romaji": "Shinsatsushitsu ni hairu to, oisha-san ga, ojiisan no ude ni, kuroi, bando o maita."
+  },
+  "vl18.w3": {
+    "en": "This is a machine that measures “ketsuatsu,” blood pressure. “Ketsuatsu” is the force of blood pushing against blood vessels. You say “ketsuatsu ga takai” or “ketsuatsu ga hikui.”",
+    "ru": "Это аппарат для измерения «кэцуацу» — кровяного давления. «Кэцуацу» — сила, с которой кровь давит на сосуды. Говорят «кэцуацу га такай», «кэцуацу га хикуй».",
+    "zh": "这是测量「血圧」的机器。「血圧」是血液压迫血管的力量。说「血圧が高い」「血圧が低い」。",
+    "ja": "これは、「血圧」を、はかる、機械です。「血圧」は、血が、血管を、押す力のことです。「血圧が高い」「血圧が低い」と言います。",
+    "romaji": "Kore wa, 'ketsuatsu' o, hakaru, kikai desu. 'Ketsuatsu' wa, chi ga, kekkan o, osu chikara no koto desu. 'Ketsuatsu ga takai' 'ketsuatsu ga hikui' to iimasu."
+  },
+  "vl18.w3_q": {
+    "en": "Why don't you say “ketsuatsu ga, ookii”?",
+    "ru": "Почему не говорят «кэцуацу га, о:кий»?",
+    "zh": "为什么不说「血圧が、大きい」呢？",
+    "ja": "どうして、「血圧が、大きい」と、言わないのですか？",
+    "romaji": "Doushite, 'ketsuatsu ga, ookii' to, iwanai no desu ka?"
+  },
+  "vl18.w3_a": {
+    "en": "Because in Japanese, for figures that go up and down, “takai” and “hikui” are used. That applies to blood pressure and fever alike. You can also say “netsu ga, takai.”",
+    "ru": "Потому что в японском для показателей, которые растут и падают, используют «такай» и «хикуй». Это относится и к давлению, и к температуре. Можно также сказать «нэцу га, такай».",
+    "zh": "因为在日语中，数值上下变化的感觉用「高い」「低い」。血压和体温都是如此。也可以说「熱が、高い」。",
+    "ja": "日本語では、数値が、上下する感じは、「高い」「低い」を、使うからです。血圧も、熱も、そうです。「熱が、高い」と、言うこともあります。",
+    "romaji": "Nihongo de wa, suuchi ga, jouge suru kanji wa, 'takai' 'hikui' o, tsukau kara desu. Ketsuatsu mo, netsu mo, sou desu. 'Netsu ga, takai' to, iu koto mo arimasu."
+  },
+  "vl18.p3_prompt": {
+    "en": "The doctor asked, “How has your blood pressure been lately?” Yours has risen a little recently. How do you answer?",
+    "ru": "Врач спросил: «Как у вас в последнее время с давлением?» В последнее время оно немного повысилось. Что вы ответите?",
+    "zh": "医生问：“最近血压怎么样？”你最近血压有点升高了。你会怎么回答？",
+    "ja": "お医者さんが、聞きました。「最近、血圧は、どうですか？」あなたは、最近、少し、高くなりました。何と答えますか？",
+    "romaji": "Oisha-san ga, kikimashita. 'Saikin, ketsuatsu wa, dou desu ka?' Anata wa, saikin, sukoshi, takaku narimashita. Nan to kotaemasu ka?"
+  },
+  "vl18.c3_natural": {
+    "en": "“My blood pressure has gone up a little lately.”",
+    "ru": "«В последнее время у меня немного повысилось давление».",
+    "zh": "“最近，血压稍微升高了一点。”",
+    "ja": "「最近、血圧が、少し、高くなりました。」",
+    "romaji": "'Saikin, ketsuatsu ga, sukoshi, takaku narimashita.'"
+  },
+  "vl18.c3_formal": {
+    "en": "“Lately, my blood pressure readings are showing a slight upward trend.”",
+    "ru": "«В последнее время показатели моего давления имеют лёгкую тенденцию к повышению».",
+    "zh": "“近来，血压数值略有上升的趋势。”",
+    "ja": "「昨今、血圧の数値が、やや、上昇傾向に、ございます。」",
+    "romaji": "'Sakkon, ketsuatsu no suuchi ga, yaya, joushou keikou ni, gozaimasu.'"
+  },
+  "vl18.c3_mistake": {
+    "en": "“Lately, my blood pressure has become takai-kunarimashita.”",
+    "ru": "«В последнее время моё давление стало такай-кунаримасита».",
+    "zh": "“最近，血圧が少し高いくなりました。”（应该是「高くなりました」）",
+    "ja": "「最近、血圧が、少し、高いくなりました。」",
+    "romaji": "'Saikin, ketsuatsu ga, sukoshi, takai-kunarimashita.'"
+  },
+  "vl18.c3_own": {
+    "en": "“My blood pressure has gone up a little lately. I can't sleep very well at night.”",
+    "ru": "«В последнее время у меня немного повысилось давление. Ночью плохо сплю».",
+    "zh": "“最近，血压稍微升高了一点。晚上不太能睡着。”",
+    "ja": "「最近、血圧が、少し、高くなりました。夜、あまり、眠れません。」",
+    "romaji": "'Saikin, ketsuatsu ga, sukoshi, takaku narimashita. Yoru, amari, nemuremasen.'"
+  },
+  "vl18.c3_min": {
+    "en": "“Blood pressure... high...”",
+    "ru": "«Давление… высокое…»",
+    "zh": "“血压……高……”",
+    "ja": "「血圧…高い…」",
+    "romaji": "'Ketsuatsu... takai...'"
+  },
+  "vl18.p3_natural_r": {
+    "en": "Hmm. You should watch your salt intake.",
+    "ru": "Хм. Вам стоит следить за потреблением соли.",
+    "zh": "嗯。最好注意盐分摄入呢。",
+    "ja": "ふむ。塩分に、気をつけたほうが、いいですね。",
+    "romaji": "Fumu. Enbun ni, ki o tsuketa hou ga, ii desu ne."
+  },
+  "vl18.p3_formal_r": {
+    "en": "Ha, it sounds like the news. “Sukoshi, takaku narimashita” is fine.",
+    "ru": "Ха-ха, как в новостях. Достаточно «сукоси, такаку наримасита».",
+    "zh": "呵呵，像新闻一样。说「少し、高くなりました」就行。",
+    "ja": "ふふ、ニュースみたいです。「少し、高くなりました」で、いいですよ。",
+    "romaji": "Fufu, nyuusu mitai desu. 'Sukoshi, takaku narimashita' de, ii desu yo."
+  },
+  "vl18.p3_mistake_r": {
+    "en": "Close. When an i-adjective connects to “naru,” change the “i” to “ku.” It's “takaku narimashita.”",
+    "ru": "Почти. Когда i-прилагательное присоединяется к «нару», «и» меняется на «ку». Получается «такаку наримасита».",
+    "zh": "很接近。い形容词接「なる」时，把「い」变成「く」。说「高くなりました」。",
+    "ja": "惜しいです。い形容詞が、「なる」に、つながるときは、「い」を「く」に、かえます。「高くなりました」です。",
+    "romaji": "Oshii desu. I-keiyoushi ga, 'naru' ni, tsunagaru toki wa, 'i' o 'ku' ni, kaemasu. 'Takaku narimashita' desu."
+  },
+  "vl18.p3_mis_retry": {
+    "en": "My blood pressure has gone up a little lately.",
+    "ru": "В последнее время у меня немного повысилось давление.",
+    "zh": "最近，血压稍微升高了一点。",
+    "ja": "最近、血圧が、少し、高くなりました。",
+    "romaji": "Saikin, ketsuatsu ga, sukoshi, takaku narimashita."
+  },
+  "vl18.p3_mis_relief": {
+    "en": "Yes, that's it. Change is linked with “ku.”",
+    "ru": "Да, именно так. Изменение связывается с помощью «ку».",
+    "zh": "对，就是这个。变化用「く」连接。",
+    "ja": "はい、それです。変化は、「く」で、つなぎます。",
+    "romaji": "Hai, sore desu. Henka wa, 'ku' de, tsunagimasu."
+  },
+  "vl18.p3_own_r": {
+    "en": "That's important information too. Let's tell the doctor.",
+    "ru": "Это тоже важная информация. Расскажем врачу.",
+    "zh": "那也是重要的信息。告诉医生吧。",
+    "ja": "それも、大事な情報です。先生に、伝えましょう。",
+    "romaji": "Sore mo, daiji na jouhou desu. Sensei ni, tsutaemashou."
+  },
+  "vl18.p3_min_r": {
+    "en": "Your meaning comes across. Try saying “ketsuatsu ga, takaku narimashita.”",
+    "ru": "Ваша мысль понятна. Скажите «кэцуацу га, такаку наримасита».",
+    "zh": "你的意思能传达。试着说「血圧が、高くなりました」。",
+    "ja": "気持ちは、伝わります。「血圧が、高くなりました」と、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Ketsuatsu ga, takaku narimashita' to, itte mimashou."
+  },
+  "vl18.w4": {
+    "en": "The doctor next asks about “shoujou,” symptoms. “Shoujou” are the signs of an illness. “Atama ga itai,” “netsu ga aru,” “seki ga deru,” and so on are symptoms.",
+    "ru": "Далее врач спрашивает о «сё:дзё:» — симптомах. «Сё:дзё:» — признаки болезни. «Атама га итай», «нэцу га ару», «сэки га дэру» и подобное — это симптомы.",
+    "zh": "医生接着问「症状」。「症状」是疾病的信号。「頭が痛い」「熱がある」「せきが出る」等都是症状。",
+    "ja": "お医者さんは、次に、「症状」を、聞きます。「症状」は、病気の、サインのことです。「頭が痛い」「熱がある」「せきが出る」などが、症状です。",
+    "romaji": "Oisha-san wa, tsugi ni, 'shoujou' o, kikimasu. 'Shoujou' wa, byouki no, sain no koto desu. 'Atama ga itai' 'netsu ga aru' 'seki ga deru' nado ga, shoujou desu."
+  },
+  "vl18.w4_q": {
+    "en": "Are “shoujou” and “byouki” different?",
+    "ru": "«Сё:дзё:» и «бё:ки» отличаются?",
+    "zh": "「症状」和「病気」有区别吗？",
+    "ja": "「症状」と「病気」は、ちがいますか？",
+    "romaji": "'Shoujou' to 'byouki' wa, chigaimasu ka?"
+  },
+  "vl18.w4_a": {
+    "en": "Yes. “Byouki” is the bad condition of the body itself. “Shoujou” is the sign of that illness appearing in the body. “Kaze no shoujou” refers to a cough or fever.",
+    "ru": "Да. «Бё:ки» — само плохое состояние тела. «Сё:дзё:» — признак этой болезни, проявившийся в теле. «Кадзэ но сё:дзё:» — это кашель или жар.",
+    "zh": "是的。「病気」是身体不好的状态本身。「症状」是这种病表现在身体上的迹象。「かぜの症状」是咳嗽或发热。",
+    "ja": "はい。「病気」は、体の、悪い状態そのものです。「症状」は、その病気が、体に、あらわれた、しるしです。「かぜの症状」は、せきや、熱のことです。",
+    "romaji": "Hai. 'Byouki' wa, karada no, warui joutai sono mono desu. 'Shoujou' wa, sono byouki ga, karada ni, arawareta, shirushi desu. 'Kaze no shoujou' wa, seki ya, netsu no koto desu."
+  },
+  "vl18.p4_prompt": {
+    "en": "The doctor asked, “Do you have any symptoms?” You sometimes feel dizzy. How do you answer?",
+    "ru": "Врач спросил: «Есть ли какие-нибудь симптомы?» Вы иногда чувствуете головокружение. Что вы ответите?",
+    "zh": "医生问：“有什么症状吗？”你有时会头晕。你会怎么回答？",
+    "ja": "お医者さんが、聞きました。「何か、症状は、ありますか？」あなたは、ときどき、めまいが、します。何と答えますか？",
+    "romaji": "Oisha-san ga, kikimashita. 'Nani ka, shoujou wa, arimasu ka?' Anata wa, tokidoki, memai ga, shimasu. Nan to kotaemasu ka?"
+  },
+  "vl18.c4_natural": {
+    "en": "“I sometimes have symptoms of dizziness.”",
+    "ru": "«Иногда у меня бывают симптомы головокружения».",
+    "zh": "“有时会有头晕的症状。”",
+    "ja": "「ときどき、めまいの症状が、あります。」",
+    "romaji": "'Tokidoki, memai no shoujou ga, arimasu.'"
+  },
+  "vl18.c4_formal": {
+    "en": "“Occasionally, symptoms inducing vertigo can be observed.”",
+    "ru": "«Время от времени наблюдаются симптомы, вызывающие головокружение».",
+    "zh": "“偶尔会出现诱发眩晕的症状。”",
+    "ja": "「時折、眩暈を、催す症状が、見られます。」",
+    "romaji": "'Tokiori, memai o, moyoosu shoujou ga, miraremasu.'"
+  },
+  "vl18.c4_mistake": {
+    "en": "“The symptom is painful.”",
+    "ru": "«Симптом болезненный».",
+    "zh": "“症状は，痛いです。”（「症状」不能直接接形容词）",
+    "ja": "「症状は、痛いです。」",
+    "romaji": "'Shoujou wa, itai desu.'"
+  },
+  "vl18.c4_own": {
+    "en": "“I sometimes have symptoms of dizziness. It's especially bad in the morning when I wake up.”",
+    "ru": "«Иногда у меня бывают симптомы головокружения. Особенно тяжело утром, когда я просыпаюсь».",
+    "zh": "“有时会有头晕的症状。早上起床时尤其严重。”",
+    "ja": "「ときどき、めまいの症状が、あります。朝、起きたときに、特に、ひどいです。」",
+    "romaji": "'Tokidoki, memai no shoujou ga, arimasu. Asa, okita toki ni, toku ni, hidoi desu.'"
+  },
+  "vl18.c4_min": {
+    "en": "“Dizziness... have...”",
+    "ru": "«Головокружение… есть…»",
+    "zh": "“头晕……有……”",
+    "ja": "「めまい…ある…」",
+    "romaji": "'Memai... aru...'"
+  },
+  "vl18.p4_natural_r": {
+    "en": "Hmm. Since about when?",
+    "ru": "Хм. С каких пор?",
+    "zh": "嗯。从什么时候开始的？",
+    "ja": "ふむ。いつ頃から、ですか？",
+    "romaji": "Fumu. Itsugoro kara, desu ka?"
+  },
+  "vl18.p4_formal_r": {
+    "en": "Haha, it sounds like doctor's language. “Memai no shoujou ga, arimasu” is fine.",
+    "ru": "Ха-ха, как язык врачей. Достаточно «мэмай но сё:дзё: га, аримас».",
+    "zh": "哈哈，像医生说的话。说「めまいの症状が、あります」就行。",
+    "ja": "あはは、お医者さんの、ことばみたいです。「めまいの症状が、あります」で、いいですよ。",
+    "romaji": "Ahaha, oisha-san no, kotoba mitai desu. 'Memai no shoujou ga, arimasu' de, ii desu yo."
+  },
+  "vl18.p4_mistake_r": {
+    "en": "Close. “Shoujou” is a noun, and it isn't “itai.” You say “shoujou wa, zutsuu desu” or “atama ga, itai desu.”",
+    "ru": "Почти. «Сё:дзё:» — существительное, оно не «итай». Говорят «сё:дзё: ва, дзуцу: дэс» или «атама га, итай дэс».",
+    "zh": "很接近。「症状」是名词，不是「痛い」。说「症状は、頭痛です」或「頭が、痛いです」。",
+    "ja": "惜しいです。「症状」は、名詞で、「痛い」では、ありません。「症状は、頭痛です」か、「頭が、痛いです」と言います。",
+    "romaji": "Oshii desu. 'Shoujou' wa, meishi de, 'itai' de wa, arimasen. 'Shoujou wa, zutsuu desu' ka, 'atama ga, itai desu' to iimasu."
+  },
+  "vl18.p4_mis_retry": {
+    "en": "I sometimes have symptoms of dizziness.",
+    "ru": "Иногда у меня бывают симптомы головокружения.",
+    "zh": "有时会有头晕的症状。",
+    "ja": "ときどき、めまいの症状が、あります。",
+    "romaji": "Tokidoki, memai no shoujou ga, arimasu."
+  },
+  "vl18.p4_mis_relief": {
+    "en": "Yes, that's it. “Shoujou ga, aru” is a commonly used pattern.",
+    "ru": "Да, именно так. «Сё:дзё: га, ару» — часто используемая форма.",
+    "zh": "对，就是这个。「症状が、ある」是常用的句式。",
+    "ja": "はい、それです。「症状が、ある」は、よく使う形です。",
+    "romaji": "Hai, sore desu. 'Shoujou ga, aru' wa, yoku tsukau katachi desu."
+  },
+  "vl18.p4_own_r": {
+    "en": "That's important information. Please tell me in detail.",
+    "ru": "Это важная информация. Расскажите подробнее.",
+    "zh": "这是重要的信息。请详细说说。",
+    "ja": "それは、大切な、情報です。詳しく、教えてください。",
+    "romaji": "Sore wa, taisetsu na, jouhou desu. Kuwashiku, oshiete kudasai."
+  },
+  "vl18.p4_min_r": {
+    "en": "Your meaning comes across. Try saying “memai no shoujou ga, arimasu.”",
+    "ru": "Ваша мысль понятна. Скажите «мэмай но сё:дзё: га, аримас».",
+    "zh": "你的意思能传达。试着说「めまいの症状が、あります」。",
+    "ja": "気持ちは、伝わります。「めまいの症状が、あります」と、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Memai no shoujou ga, arimasu' to, itte mimashou."
+  },
+  "vl18.prescription": {
+    "en": "When the examination finished, the doctor wrote out a small sheet of paper.",
+    "ru": "Когда осмотр закончился, врач выписал небольшой листок бумаги.",
+    "zh": "诊察结束后，医生写了一张小纸条。",
+    "ja": "診察が、終わると、お医者さんは、小さな、紙を、一枚、書いた。",
+    "romaji": "Shinsatsu ga, owaru to, oisha-san wa, chiisana, kami o, ichimai, kaita."
+  },
+  "vl18.w5": {
+    "en": "This is a “shohousen,” a prescription. A “shohousen” is a paper on which the doctor writes the type and amount of medicine. If you take it to a pharmacy, they will dispense the medicine.",
+    "ru": "Это «сёхо:сэн» — рецепт. «Сёхо:сэн» — бумага, на которой врач записывает вид и количество лекарства. Если отнести её в аптеку, вам выдадут лекарство.",
+    "zh": "这是「処方箋」。「処方箋」是医生写下药物种类和用量的纸。拿到药局，就能拿到药。",
+    "ja": "これが、「処方箋」です。「処方箋」は、お医者さんが、薬の種類と、量を、書いた紙です。薬局に、持って行くと、薬を、出してもらえます。",
+    "romaji": "Kore ga, 'shohousen' desu. 'Shohousen' wa, oisha-san ga, kusuri no shurui to, ryou o, kaita kami desu. Yakkyoku ni, motte iku to, kusuri o, dashite moraemasu."
+  },
+  "vl18.w5_q": {
+    "en": "Can't you buy medicine without a “shohousen”?",
+    "ru": "Нельзя ли купить лекарство без «сёхо:сэн»?",
+    "zh": "没有「処方箋」就买不到药吗？",
+    "ja": "「処方箋」がないと、薬は、買えませんか？",
+    "romaji": "'Shohousen' ga nai to, kusuri wa, kaemasen ka?"
+  },
+  "vl18.w5_a": {
+    "en": "It depends on the type of medicine. Cold medicine and the like can be bought at a pharmacy. Strong or specialized medicine requires a prescription. It also has an expiry date, so let's take it early.",
+    "ru": "Зависит от вида лекарства. Лекарства от простуды и подобное можно купить в аптеке. Для сильных или специализированных лекарств нужен рецепт. У него также есть срок действия, поэтому отнесём его пораньше.",
+    "zh": "视药物种类而定。感冒药等可以在药局买到。强效药或专科药需要处方箋。而且有有效期，所以要早点拿去。",
+    "ja": "薬の種類によります。かぜ薬などは、薬局で、買えます。強い薬や、専門的な薬は、処方箋が、必要です。有効期限も、あるので、早めに、持って行きましょう。",
+    "romaji": "Kusuri no shurui ni yorimasu. Kazegusuri nado wa, yakkyoku de, kaemasu. Tsuyoi kusuri ya, senmonteki na kusuri wa, shohousen ga, hitsuyou desu. Yuukou kigen mo, aru node, hayame ni, motte ikimashou."
+  },
+  "vl18.p5_prompt": {
+    "en": "You've arrived at the pharmacy. You want to hand the prescription to the pharmacist on Grandpa's behalf. Please say it using “motte kimashita.” What do you say?",
+    "ru": "Вы пришли в аптеку. Вы хотите передать рецепт фармацевту вместо дедушки. Скажите это, используя «моттэ кимасита». Что вы скажете?",
+    "zh": "来到了药局。你想代替爷爷把处方箋交给药剂师。请使用「持ってきました」来说。你会怎么说？",
+    "ja": "薬局に、着きました。おじいさんの代わりに、薬剤師さんに、処方箋を、渡したいです。「持ってきました」を使って、言ってください。何と言いますか？",
+    "romaji": "Yakkyoku ni, tsukimashita. Ojiisan no kawari ni, yakuzaishi-san ni, shohousen o, watashitai desu. 'Motte kimashita' o tsukatte, itte kudasai. Nan to iimasu ka?"
+  },
+  "vl18.c5_natural": {
+    "en": "“Excuse me, I've brought a prescription. Please, thank you.”",
+    "ru": "«Извините, я принёс рецепт. Пожалуйста».",
+    "zh": "“不好意思，我带了处方箋来。麻烦您了。”",
+    "ja": "「すみません、処方箋を、持ってきました。お願いします。」",
+    "romaji": "'Sumimasen, shohousen o, motte kimashita. Onegai shimasu.'"
+  },
+  "vl18.c5_formal": {
+    "en": "“Pardon me, but I would like to entrust this prescription to you.”",
+    "ru": "«Прошу прощения, я хотел бы вверить вам этот рецепт».",
+    "zh": "“冒昧打扰，想将此处方箋托付于您。”",
+    "ja": "「恐縮ながら、こちらの処方箋を、お預け申し上げたく、存じます。」",
+    "romaji": "'Kyoushuku nagara, kochira no shohousen o, oazuke moushiagetaku, zonjimasu.'"
+  },
+  "vl18.c5_mistake": {
+    "en": "“Excuse me, I held a prescription. Please.”",
+    "ru": "«Извините, я держал рецепт. Пожалуйста».",
+    "zh": "“不好意思，处方箋を，持ちました。麻烦您了。”（「持つ」是拿着，不是带来）",
+    "ja": "「すみません、処方箋を、持ちました。お願いします。」",
+    "romaji": "'Sumimasen, shohousen o, mochimashita. Onegai shimasu.'"
+  },
+  "vl18.c5_own": {
+    "en": "“Excuse me, I've brought a prescription. I came on behalf of my grandfather.”",
+    "ru": "«Извините, я принёс рецепт. Я пришёл вместо дедушки».",
+    "zh": "“不好意思，我带了处方箋来。我是代替爷爷来的。”",
+    "ja": "「すみません、処方箋を、持ってきました。祖父の、代わりに、来ました。」",
+    "romaji": "'Sumimasen, shohousen o, motte kimashita. Sofu no, kawari ni, kimashita.'"
+  },
+  "vl18.c5_min": {
+    "en": "“Prescription... please...”",
+    "ru": "«Рецепт… пожалуйста…»",
+    "zh": "“处方箋……拜托……”",
+    "ja": "「処方箋…お願い…」",
+    "romaji": "'Shohousen... onegai...'"
+  },
+  "vl18.p5_natural_r": {
+    "en": "Yes, good. The pharmacist will understand right away too.",
+    "ru": "Да, хорошо. Фармацевт тоже сразу поймёт.",
+    "zh": "对，很好。药剂师也能马上明白。",
+    "ja": "はい、いいですね。薬剤師さんも、すぐ、分かります。",
+    "romaji": "Hai, ii desu ne. Yakuzaishi-san mo, sugu, wakarimasu."
+  },
+  "vl18.p5_formal_r": {
+    "en": "Haha, splendid, but stiff. “Motte kimashita” is fine.",
+    "ru": "Ха-ха, великолепно, но чопорно. Достаточно «моттэ кимасита».",
+    "zh": "哈哈，很了不起，不过有点生硬。说「持ってきました」就行。",
+    "ja": "あはは、りっぱですが、かたいです。「持ってきました」で、いいですよ。",
+    "romaji": "Ahaha, rippa desu ga, katai desu. 'Motte kimashita' de, ii desu yo."
+  },
+  "vl18.p5_mistake_r": {
+    "en": "Close. “Motsu” is the state of holding something in your hand. When you've carried it here, it's “motte kimashita.”",
+    "ru": "Почти. «Моцу» — состояние, когда вы держите что-то в руке. Когда вы принесли это сюда, говорят «моттэ кимасита».",
+    "zh": "很接近。「持つ」是手里拿着的状态。带到这里来时，要说「持ってきました」。",
+    "ja": "惜しいです。「持つ」は、手に持っている状態です。ここに、運んできたときは、「持ってきました」です。",
+    "romaji": "Oshii desu. 'Motsu' wa, te ni motte iru joutai desu. Koko ni, hakonde kita toki wa, 'motte kimashita' desu."
+  },
+  "vl18.p5_mis_retry": {
+    "en": "Excuse me, I've brought a prescription. Please.",
+    "ru": "Извините, я принёс рецепт. Пожалуйста.",
+    "zh": "不好意思，我带了处方箋来。麻烦您了。",
+    "ja": "すみません、処方箋を、持ってきました。お願いします。",
+    "romaji": "Sumimasen, shohousen o, motte kimashita. Onegai shimasu."
+  },
+  "vl18.p5_mis_relief": {
+    "en": "Yes, that's it. “Motte kuru” means having carried something here.",
+    "ru": "Да, именно так. «Моттэ куру» означает, что вы принесли что-то сюда.",
+    "zh": "对，就是这个。「持ってくる」表示带来。",
+    "ja": "はい、それです。「持ってくる」で、運んできた、という意味に、なります。",
+    "romaji": "Hai, sore desu. 'Motte kuru' de, hakonde kita, to iu imi ni, narimasu."
+  },
+  "vl18.p5_own_r": {
+    "en": "That's right. You explained the circumstances properly too.",
+    "ru": "Верно. Вы ещё и обстоятельства как следует объяснили.",
+    "zh": "没错。情况也说明得很清楚。",
+    "ja": "そうですね。ちゃんと、事情も、伝えられましたね。",
+    "romaji": "Sou desu ne. Chanto, jijou mo, tsutaeraremashita ne."
+  },
+  "vl18.p5_min_r": {
+    "en": "Your meaning comes across. Try adding “motte kimashita.”",
+    "ru": "Ваше желание понятно. Попробуйте добавить «моттэ кимасита».",
+    "zh": "你的意思能传达。试着加上「持ってきました」。",
+    "ja": "気持ちは、伝わります。「持ってきました」と、言葉を、足してみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Motte kimashita' to, kotoba o, tashite mimashou."
+  },
+  "vl18.back": {
+    "en": "On the way back to the clinic, Grandpa hesitated a little as he tried to ask the doctor a question.",
+    "ru": "По дороге назад в поликлинику дедушка немного колебался, собираясь задать врачу вопрос.",
+    "zh": "回诊所的路上，爷爷想向医生提问，却有点犹豫。",
+    "ja": "診療所に、戻る途中、おじいさんが、お医者さんに、質問を、しようとして、少し、ためらっていた。",
+    "romaji": "Shinryoujo ni, modoru tochuu, ojiisan ga, oisha-san ni, shitsumon o, shiyou to shite, sukoshi, tameratte ita."
+  },
+  "vl18.gm_hesitate": {
+    "en": "There's a little more I'd like to ask, but he seems busy...",
+    "ru": "Я бы хотел спросить ещё кое-что, но он, кажется, занят…",
+    "zh": "我还有点想问的，不过他好像很忙……",
+    "ja": "もう少し、聞きたいことが、あるんですが、忙しそうで…。",
+    "romaji": "Mou sukoshi, kikitai koto ga, aru n desu ga, isogashisou de..."
+  },
+  "vl18.w6": {
+    "en": "At times like that, doctors often say, “Please, feel free to ask.” “Enryo” is holding back what you want to say or do out of consideration for the other person.",
+    "ru": "В такие моменты врачи часто говорят: «Пожалуйста, спрашивайте, не стесняйтесь». «Энрё» — сдерживаться и не говорить или не делать то, что хочется, из уважения к собеседнику.",
+    "zh": "这种时候，医生常说：“请不要客气，尽管问。”「遠慮」是出于顾虑对方而克制想说或想做的事。",
+    "ja": "そんなとき、お医者さんは、よく言います。「どうぞ、遠慮なく、聞いてください」。「遠慮」は、相手を、気づかって、言いたいことや、したいことを、控えることです。",
+    "romaji": "Sonna toki, oisha-san wa, yoku iimasu. 'Douzo, enryo naku, kiite kudasai'. 'Enryo' wa, aite o, kizukatte, iitai koto ya, shitai koto o, hikaeru koto desu."
+  },
+  "vl18.w6_q": {
+    "en": "Is “enryo naku” the same as “gojiyuu ni”?",
+    "ru": "«Энрё нару» — то же, что «годзию: ни»?",
+    "zh": "「遠慮なく」和「ご自由に」一样吗？",
+    "ja": "「遠慮なく」は、「ご自由に」と、同じですか？",
+    "romaji": "'Enryo naku' wa, 'gojiyuu ni' to, onaji desu ka?"
+  },
+  "vl18.w6_a": {
+    "en": "Close, but slightly different. “Gojiyuu ni” is permission meaning you may choose. “Enryo naku” is a phrase with the feeling of “you don't need to be considerate.” You can also say “enryo naku, shitsumon shimasu.”",
+    "ru": "Близко, но немного по-разному. «Годзию: ни» — разрешение, означающее «можно выбирать». «Энрё нару» — фраза с оттенком «нет нужды стесняться». Можно также сказать «энрё нару, сицумон симас».",
+    "zh": "相近，但略有不同。「ご自由に」是“可以自由选择”的许可。「遠慮なく」是带有“不必顾虑”心情的话。也可以说「遠慮なく、質問します」。",
+    "ja": "近いですが、少しちがいます。「ご自由に」は、選んでよい、という許可です。「遠慮なく」は、気をつかわなくてよい、という気持ちの、こもった言葉です。「遠慮なく、質問します」とも、言えます。",
+    "romaji": "Chikai desu ga, sukoshi chigaimasu. 'Gojiyuu ni' wa, erande yoi, to iu kyoka desu. 'Enryo naku' wa, ki o tsukawanakute yoi, to iu kimochi no, komotta kotoba desu. 'Enryo naku, shitsumon shimasu' tomo, iemasu."
+  },
+  "vl18.p6_prompt": {
+    "en": "The doctor said with a smile, “Please, feel free to ask.” You want to take him up on that and ask a question. What do you say?",
+    "ru": "Врач с улыбкой сказал: «Пожалуйста, спрашивайте, не стесняйтесь». Вы хотите воспользоваться этим приглашением и задать вопрос. Что вы скажете?",
+    "zh": "医生笑着说：“请不要客气，尽管问。”你想借着这句话提问。你会怎么说？",
+    "ja": "お医者さんが、笑顔で、言いました。「どうぞ、遠慮なく、聞いてください。」あなたは、その言葉に、甘えて、質問したいです。何と言いますか？",
+    "romaji": "Oisha-san ga, egao de, iimashita. 'Douzo, enryo naku, kiite kudasai.' Anata wa, sono kotoba ni, amaete, shitsumon shitai desu. Nan to iimasu ka?"
+  },
+  "vl18.c6_natural": {
+    "en": "“Thank you. Then I'll gladly ask.”",
+    "ru": "«Спасибо. Тогда я с удовольствием задам вопрос».",
+    "zh": "“谢谢。那我就不客气地提问了。”",
+    "ja": "「ありがとうございます。では、遠慮なく、質問します。」",
+    "romaji": "'Arigatou gozaimasu. Dewa, enryo naku, shitsumon shimasu.'"
+  },
+  "vl18.c6_formal": {
+    "en": "“Taking you at your word, I shall ask without reservation.”",
+    "ru": "«Воспользовавшись вашими словами, я без стеснения задам вопрос».",
+    "zh": "“承蒙您美言，我便不客气地请教了。”",
+    "ja": "「お言葉に、甘えまして、忌憚なく、お尋ね申し上げます。」",
+    "romaji": "'Okotoba ni, amaemashite, kitan naku, otazune moushiagemasu.'"
+  },
+  "vl18.c6_mistake": {
+    "en": "“Thank you. Then I'll get rid of restraint and ask.”",
+    "ru": "«Спасибо. Тогда я избавлюсь от сдержанности и задам вопрос».",
+    "zh": "“谢谢。那我就把顾虑弄丢，然后提问。”（不自然，应说「遠慮なく」）",
+    "ja": "「ありがとうございます。では、遠慮を、なくして、質問します。」",
+    "romaji": "'Arigatou gozaimasu. Dewa, enryo o, nakushite, shitsumon shimasu.'"
+  },
+  "vl18.c6_own": {
+    "en": "“Thank you. Then I'll gladly ask. Are there any side effects from the medicine?”",
+    "ru": "«Спасибо. Тогда я с удовольствием задам вопрос. Есть ли у лекарства побочные эффекты?»",
+    "zh": "“谢谢。那我就不客气地提问了。这种药有副作用吗？”",
+    "ja": "「ありがとうございます。では、遠慮なく、質問します。薬の、副作用は、ありますか？」",
+    "romaji": "'Arigatou gozaimasu. Dewa, enryo naku, shitsumon shimasu. Kusuri no, fukusayou wa, arimasu ka?'"
+  },
+  "vl18.c6_min": {
+    "en": "“Restraint... without... question...”",
+    "ru": "«Сдержанность… без… вопрос…»",
+    "zh": "“顾虑……没有……提问……”",
+    "ja": "「遠慮…なく…質問…」",
+    "romaji": "'Enryo... naku... shitsumon...'"
+  },
+  "vl18.p6_natural_r": {
+    "en": "Yes, please. Ask anything.",
+    "ru": "Да, пожалуйста. Спрашивайте что угодно.",
+    "zh": "好的，请。什么都可以问。",
+    "ja": "はい、どうぞ。何でも、聞いてください。",
+    "romaji": "Hai, douzo. Nan demo, kiite kudasai."
+  },
+  "vl18.p6_formal_r": {
+    "en": "Ha, so polite. “Enryo naku, shitsumon shimasu” is fine.",
+    "ru": "Ха-ха, как вежливо. Достаточно «энрё нару, сицумон симас».",
+    "zh": "呵呵，好礼貌。说「遠慮なく、質問します」就行。",
+    "ja": "ふふ、ていねいですね。「遠慮なく、質問します」で、いいですよ。",
+    "romaji": "Fufu, teinei desu ne. 'Enryo naku, shitsumon shimasu' de, ii desu yo."
+  },
+  "vl18.p6_mistake_r": {
+    "en": "Close. The meaning gets through, but it's unnatural. “Enryo naku” is a set form. Let's say “enryo naku, shitsumon shimasu.”",
+    "ru": "Почти. Смысл понятен, но звучит неестественно. «Энрё нару» — устойчивая форма. Скажем «энрё нару, сицумон симас».",
+    "zh": "很接近。意思能通，但不自然。「遠慮なく」是固定的形式。要说「遠慮なく、質問します」。",
+    "ja": "惜しいです。意味は、通じますが、不自然です。「遠慮なく」は、ひとつの、決まった形です。「遠慮なく、質問します」と、言いましょう。",
+    "romaji": "Oshii desu. Imi wa, tsuujimasu ga, fushizen desu. 'Enryo naku' wa, hitotsu no, kimatta katachi desu. 'Enryo naku, shitsumon shimasu' to, iimashou."
+  },
+  "vl18.p6_mis_retry": {
+    "en": "Thank you. Then I'll gladly ask.",
+    "ru": "Спасибо. Тогда я с удовольствием задам вопрос.",
+    "zh": "谢谢。那我就不客气地提问了。",
+    "ja": "ありがとうございます。では、遠慮なく、質問します。",
+    "romaji": "Arigatou gozaimasu. Dewa, enryo naku, shitsumon shimasu."
+  },
+  "vl18.p6_mis_relief": {
+    "en": "Yes, that's it. Let's use set forms as they are.",
+    "ru": "Да, именно так. Устойчивые формы используем как есть.",
+    "zh": "对，就是这个。固定的形式就原样使用。",
+    "ja": "はい、それです。決まった形は、そのまま、使いましょう。",
+    "romaji": "Hai, sore desu. Kimatta katachi wa, sono mama, tsukaimashou."
+  },
+  "vl18.p6_own_r": {
+    "en": "A good question. Let me explain.",
+    "ru": "Хороший вопрос. Позвольте объяснить.",
+    "zh": "好问题。我来说明一下。",
+    "ja": "いい質問です。説明しましょう。",
+    "romaji": "Ii shitsumon desu. Setsumei shimashou."
+  },
+  "vl18.p6_min_r": {
+    "en": "Your meaning comes across. Try saying it as one phrase: “enryo naku, shitsumon shimasu.”",
+    "ru": "Ваша мысль понятна. Скажите как одну фразу: «энрё нару, сицумон симас».",
+    "zh": "你的意思能传达。试着把它当作一个整体来说：「遠慮なく、質問します」。",
+    "ja": "気持ちは、伝わります。「遠慮なく、質問します」と、ひとつの言葉として、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Enryo naku, shitsumon shimasu' to, hitotsu no kotoba to shite, itte mimashou."
+  },
+  "vl18.w7": {
+    "en": "When making a polite request to a doctor, use “oshiete itadakemasu ka.” It is a much more polite way of putting it than “oshiete kudasai.”",
+    "ru": "Когда вы вежливо просите врача, используйте «осиэтэ итадакэмас ка». Это гораздо более вежливая формулировка, чем «осиэтэ кудасай».",
+    "zh": "向医生礼貌地请求时，用「教えていただけますか」。比「教えてください」礼貌得多。",
+    "ja": "お医者さんに、ていねいに、頼むときは、「教えていただけますか」を、使います。「教えてください」より、ずっと、ていねいな、言い方です。",
+    "romaji": "Oisha-san ni, teinei ni, tanomu toki wa, 'oshiete itadakemasu ka' o, tsukaimasu. 'Oshiete kudasai' yori, zutto, teinei na, iikata desu."
+  },
+  "vl18.w7_q": {
+    "en": "Is it different from “oshiete moraemasu ka”?",
+    "ru": "Чем оно отличается от «осиэтэ мораэмас ка»?",
+    "zh": "和「教えてもらえますか」有区别吗？",
+    "ja": "「教えてもらえますか」と、ちがいますか？",
+    "romaji": "'Oshiete moraemasu ka' to, chigaimasu ka?"
+  },
+  "vl18.w7_a": {
+    "en": "Yes. “Oshiete moraemasu ka” is used with friends or close people. “Oshiete itadakemasu ka” is used with superiors, doctors, and others you want to ask politely.",
+    "ru": "Да. «Осиэтэ мораэмас ка» используют с друзьями и близкими. «Осиэтэ итадакэмас ка» используют со старшими, врачами и другими людьми, которых хочется попросить вежливо.",
+    "zh": "是的。「教えてもらえますか」用于朋友或亲近的人。「教えていただけますか」用于长辈、医生等想要礼貌请求的对象。",
+    "ja": "はい。「教えてもらえますか」は、友達や、親しい人に、使います。「教えていただけますか」は、目上の人や、お医者さんなど、ていねいに、頼みたい相手に、使います。",
+    "romaji": "Hai. 'Oshiete moraemasu ka' wa, tomodachi ya, shitashii hito ni, tsukaimasu. 'Oshiete itadakemasu ka' wa, meue no hito ya, oisha-san nado, teinei ni, tanomitai aite ni, tsukaimasu."
+  },
+  "vl18.p7_prompt": {
+    "en": "You want to ask the doctor how to take the medicine. Please ask very politely. Please say it using “oshiete itadakemasu ka.” What do you say?",
+    "ru": "Вы хотите спросить врача, как принимать лекарство. Спросите очень вежливо. Скажите, используя «осиэтэ итадакэмас ка». Что вы скажете?",
+    "zh": "你想问医生药怎么吃。请非常礼貌地询问。请使用「教えていただけますか」来说。你会怎么说？",
+    "ja": "お医者さんに、薬の、飲み方を、聞きたいです。とても、ていねいに、聞いてください。「教えていただけますか」を使って、言ってください。何と言いますか？",
+    "romaji": "Oisha-san ni, kusuri no, nomikata o, kikitai desu. Totemo, teinei ni, kiite kudasai. 'Oshiete itadakemasu ka' o tsukatte, itte kudasai. Nan to iimasu ka?"
+  },
+  "vl18.c7_natural": {
+    "en": "“Could you tell me how to take this medicine?”",
+    "ru": "«Не могли бы вы объяснить, как принимать это лекарство?»",
+    "zh": "“请问可以告诉我这个药怎么吃吗？”",
+    "ja": "「この薬の、飲み方を、教えていただけますか？」",
+    "romaji": "'Kono kusuri no, nomikata o, oshiete itadakemasu ka?'"
+  },
+  "vl18.c7_formal": {
+    "en": "“Might I be favored with instruction on the dosage of this medication?”",
+    "ru": "«Не соблаговолите ли вы дать указания по способу приёма этого препарата?»",
+    "zh": "“可否赐教此药的服用方法？”",
+    "ja": "「この薬剤の、服用方法を、ご教示賜れませんでしょうか。」",
+    "romaji": "'Kono yakuzai no, fukuyou houhou o, gokyouji tamawaremasen deshou ka.'"
+  },
+  "vl18.c7_mistake": {
+    "en": "“Will you get told how to take this medicine?”",
+    "ru": "«Вам расскажут, как принимать это лекарство?»",
+    "zh": "“这个药的服用方法，得到教吗？”（请求应该用「〜ていただけますか」）",
+    "ja": "「この薬の、飲み方を、教えてもらいますか？」",
+    "romaji": "'Kono kusuri no, nomikata o, oshiete moraimasu ka?'"
+  },
+  "vl18.c7_own": {
+    "en": "“Could you tell me how to take this medicine? Is it better before or after meals?”",
+    "ru": "«Не могли бы вы объяснить, как принимать это лекарство? Лучше до еды или после?»",
+    "zh": "“请问可以告诉我这个药怎么吃吗？饭前还是饭后比较好？”",
+    "ja": "「この薬の、飲み方を、教えていただけますか？食前と、食後の、どちらが、いいですか？」",
+    "romaji": "'Kono kusuri no, nomikata o, oshiete itadakemasu ka? Shokuzen to, shokugo no, dochira ga, ii desu ka?'"
+  },
+  "vl18.c7_min": {
+    "en": "“Medicine... how to take... tell...”",
+    "ru": "«Лекарство… как принимать… скажите…»",
+    "zh": "“药……怎么吃……告诉……”",
+    "ja": "「薬…飲み方…教えて…」",
+    "romaji": "'Kusuri... nomikata... oshiete...'"
+  },
+  "vl18.p7_natural_r": {
+    "en": "Yes. One tablet each in the morning and evening after meals.",
+    "ru": "Да. По одной таблетке утром и вечером после еды.",
+    "zh": "好的。早晚饭后各一片。",
+    "ja": "はい。朝と夜、食後に、一錠ずつです。",
+    "romaji": "Hai. Asa to yoru, shokugo ni, ichijou zutsu desu."
+  },
+  "vl18.p7_formal_r": {
+    "en": "Haha, like a textbook. “Oshiete itadakemasu ka” is enough.",
+    "ru": "Ха-ха, как в учебнике. Достаточно «осиэтэ итадакэмас ка».",
+    "zh": "哈哈，像教科书一样。说「教えていただけますか」就足够了。",
+    "ja": "あはは、教科書みたいです。「教えていただけますか」で、じゅうぶんです。",
+    "romaji": "Ahaha, kyoukasho mitai desu. 'Oshiete itadakemasu ka' de, juubun desu."
+  },
+  "vl18.p7_mistake_r": {
+    "en": "Close. When requesting, use the potential form: “oshiete moraemasu ka” or “oshiete itadakemasu ka.” With “moraimasu ka,” it doesn't sound like you're making a request.",
+    "ru": "Почти. Для просьбы используют потенциальную форму: «осиэтэ мораэмас ка» или «осиэтэ итадакэмас ка». С «мораимас ка» не создаётся ощущения просьбы.",
+    "zh": "很接近。请求时要用可能形，说「教えてもらえますか」「教えていただけますか」。用「もらいますか」听不出是在请求。",
+    "ja": "惜しいです。頼むときは、可能の形を使って、「教えてもらえますか」「教えていただけますか」と言います。「もらいますか」では、頼んでいる、感じが、出ません。",
+    "romaji": "Oshii desu. Tanomu toki wa, kanou no katachi o tsukatte, 'oshiete moraemasu ka' 'oshiete itadakemasu ka' to iimasu. 'Moraimasu ka' de wa, tanonde iru, kanji ga, demasen."
+  },
+  "vl18.p7_mis_retry": {
+    "en": "Could you tell me how to take this medicine?",
+    "ru": "Не могли бы вы объяснить, как принимать это лекарство?",
+    "zh": "请问可以告诉我这个药怎么吃吗？",
+    "ja": "この薬の、飲み方を、教えていただけますか？",
+    "romaji": "Kono kusuri no, nomikata o, oshiete itadakemasu ka?"
+  },
+  "vl18.p7_mis_relief": {
+    "en": "Yes, that's it. The potential form lets you ask softly.",
+    "ru": "Да, именно так. Потенциальная форма позволяет просить мягко.",
+    "zh": "对，就是这个。用可能形能委婉地请求。",
+    "ja": "はい、それです。可能形で、やわらかく、頼めます。",
+    "romaji": "Hai, sore desu. Kanoukei de, yawarakaku, tanomemasu."
+  },
+  "vl18.p7_own_r": {
+    "en": "You check carefully. After meals, please.",
+    "ru": "Вы тщательно уточняете. После еды, пожалуйста.",
+    "zh": "您确认得很仔细呢。请饭后服用。",
+    "ja": "よく、確認されますね。食後で、お願いします。",
+    "romaji": "Yoku, kakunin saremasu ne. Shokugo de, onegai shimasu."
+  },
+  "vl18.p7_min_r": {
+    "en": "Your meaning comes across. Let's continue politely with “oshiete itadakemasu ka.”",
+    "ru": "Ваша мысль понятна. Продолжим вежливо: «осиэтэ итадакэмас ка».",
+    "zh": "你的意思能传达。礼貌地接着说「教えていただけますか」。",
+    "ja": "気持ちは、伝わります。「教えていただけますか」と、ていねいに、続けましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Oshiete itadakemasu ka' to, teinei ni, tsuzukemashou."
+  },
+  "vl18.wait": {
+    "en": "While waiting for the bill, everyone sat on the sofas in the waiting room. Warm sunlight streamed in through the window.",
+    "ru": "Пока все ждали счёт, они сели на диваны в зале ожидания. Тёплый солнечный свет проникал через окно.",
+    "zh": "等候结账的时候，大家坐在候诊室的沙发上。温暖的阳光从窗户照进来。",
+    "ja": "会計を待つ間、みんなは、待合室の、ソファーに、座った。あたたかい、日差しが、窓から、入ってくる。",
+    "romaji": "Kaikei o matsu aida, minna wa, machiaishitsu no, sofaa ni, suwatta. Atatakai, hizashi ga, mado kara, haitte kuru."
+  },
+  "vl18.w8": {
+    "en": "This waiting room is “igokochi ga ii,” comfortable, isn't it. “Igokochi ga ii” means being able to relax and feel at ease in a place. It's the opposite of “igokochi ga warui.”",
+    "ru": "Этот зал ожидания «игокоти га ий» — уютный, правда? «Игокоти га ий» — когда в каком-то месте можно расслабиться и чувствовать себя спокойно. Противоположность — «игокоти га варуй».",
+    "zh": "这间候诊室真是「居心地がいい」呢。「居心地がいい」是待在那个地方能放松、安心。与「居心地が悪い」相反。",
+    "ja": "この待合室は、「居心地がいい」ですね。「居心地がいい」は、その場所に、いると、リラックスできて、安心する、ことです。「居心地が悪い」の、反対です。",
+    "romaji": "Kono machiaishitsu wa, 'igokochi ga ii' desu ne. 'Igokochi ga ii' wa, sono basho ni, iru to, rirakkusu dekite, anshin suru, koto desu. 'Igokochi ga warui' no, hantai desu."
+  },
+  "vl18.w8_q": {
+    "en": "Are “igokochi ga ii” and “kaiteki” different?",
+    "ru": "«Игокоти га ий» и «кайтэки» отличаются?",
+    "zh": "「居心地がいい」和「快適」有区别吗？",
+    "ja": "「居心地がいい」と、「快適」は、ちがいますか？",
+    "romaji": "'Igokochi ga ii' to, 'kaiteki' wa, chigaimasu ka?"
+  },
+  "vl18.w8_a": {
+    "en": "Yes. “Kaiteki” is a physical quality such as facilities or temperature. “Igokochi ga ii” is a quality of feeling. Even an old house is “igokochi ga ii” if the people are warm.",
+    "ru": "Да. «Кайтэки» — физическое качество, такое как оборудование или температура. «Игокоти га ий» — качество, связанное с чувствами. Даже старый дом «игокоти га ий», если люди тёплые.",
+    "zh": "是的。「快適」是设施、温度等物理方面的好。「居心地がいい」是心理方面的好。即使是老房子，只要人温暖，也是居心地がいい。",
+    "ja": "はい。「快適」は、設備や、温度など、物理的な、よさです。「居心地がいい」は、気持ちの、面のよさです。古い家でも、人が、あたたかければ、居心地がいいのです。",
+    "romaji": "Hai. 'Kaiteki' wa, setsubi ya, ondo nado, butsuriteki na, yosa desu. 'Igokochi ga ii' wa, kimochi no, men no yosa desu. Furui ie demo, hito ga, atatakakereba, igokochi ga ii no desu."
+  },
+  "vl18.p8_prompt": {
+    "en": "You sat on the sofa in the waiting room and looked around. It's bright and quiet, and you feel relieved. Please give your impression using “igokochi ga ii.” What do you say?",
+    "ru": "В зале ожидания вы сели на диван и осмотрелись. Здесь светло и тихо, и вы чувствуете облегчение. Выразите своё впечатление, используя «игокоти га ий». Что вы скажете?",
+    "zh": "你坐在候诊室的沙发上，环顾四周。明亮、安静，让人安心。请使用「居心地がいい」说出你的感想。你会怎么说？",
+    "ja": "待合室で、ソファーに座って、まわりを見ました。明るくて、静かで、ほっとします。「居心地がいい」を使って、感想を、言ってください。何と言いますか？",
+    "romaji": "Machiaishitsu de, sofaa ni suwatte, mawari o mimashita. Akarukute, shizukade, hotto shimasu. 'Igokochi ga ii' o tsukatte, kansou o, itte kudasai. Nan to iimasu ka?"
+  },
+  "vl18.c8_natural": {
+    "en": "“This waiting room is comfortable. It puts me at ease.”",
+    "ru": "«В этом зале ожидания очень уютно. Он успокаивает».",
+    "zh": "“这间候诊室真让人自在。感觉很安心。”",
+    "ja": "「この待合室は、居心地がいいですね。ほっとします。」",
+    "romaji": "'Kono machiaishitsu wa, igokochi ga ii desu ne. Hotto shimasu.'"
+  },
+  "vl18.c8_formal": {
+    "en": "“This waiting area is truly a comfortable space.”",
+    "ru": "«Это помещение для ожидания — поистине уютное пространство».",
+    "zh": "“这间候诊室，实在是令人舒适自在的空间。”",
+    "ja": "「この待合の間は、まことに、居心地の良い、空間にございます。」",
+    "romaji": "'Kono machiai no ma wa, makoto ni, igokochi no yoi, kuukan ni gozaimasu.'"
+  },
+  "vl18.c8_mistake": {
+    "en": "“In (ni) this waiting room, it's comfortable.”",
+    "ru": "«В (ни) этом зале ожидания уютно».",
+    "zh": "“この待合室に，居心地がいいですね。”（话题用「は」）",
+    "ja": "「この待合室に、居心地がいいですね。」",
+    "romaji": "'Kono machiaishitsu ni, igokochi ga ii desu ne.'"
+  },
+  "vl18.c8_own": {
+    "en": "“This waiting room is comfortable. It's bright and quiet, and I'd like to stay here all day.”",
+    "ru": "«В этом зале ожидания уютно. Светло и тихо, я бы хотел остаться здесь надолго».",
+    "zh": "“这间候诊室真让人自在。明亮又安静，我想一直待在这里。”",
+    "ja": "「この待合室は、居心地がいいですね。明るくて、静かで、ずっと、いたいです。」",
+    "romaji": "'Kono machiaishitsu wa, igokochi ga ii desu ne. Akarukute, shizuka de, zutto, itai desu.'"
+  },
+  "vl18.c8_min": {
+    "en": "“Here... comfortable... good...”",
+    "ru": "«Здесь… уютно… хорошо…»",
+    "zh": "“这里……自在……好……”",
+    "ja": "「ここ…居心地…いい…」",
+    "romaji": "'Koko... igokochi... ii...'"
+  },
+  "vl18.p8_natural_r": {
+    "en": "Isn't it. I like this place too.",
+    "ru": "Не правда ли. Мне это место тоже нравится.",
+    "zh": "是吧。我也喜欢这里呢。",
+    "ja": "そうでしょう。私も、ここが、好きなんですよ。",
+    "romaji": "Sou deshou. Watashi mo, koko ga, suki nan desu yo."
+  },
+  "vl18.p8_formal_r": {
+    "en": "Ha, it sounds like a hotel guide. “Igokochi ga ii desu ne” is fine.",
+    "ru": "Ха-ха, как в путеводителе по отелю. Достаточно «игокоти га ий дэс нэ».",
+    "zh": "呵呵，像酒店介绍一样。说「居心地がいいですね」就行。",
+    "ja": "ふふ、ホテルの案内みたいです。「居心地がいいですね」で、いいですよ。",
+    "romaji": "Fufu, hoteru no annai mitai desu. 'Igokochi ga ii desu ne' de, ii desu yo."
+  },
+  "vl18.p8_mistake_r": {
+    "en": "Close. When making “this waiting room” the topic, it's “wa.” It's “machiaishitsu wa, igokochi ga ii desu ne.”",
+    "ru": "Почти. Когда «этот зал ожидания» становится темой, используют «ва». Получается «матиайсицу ва, игокоти га ий дэс нэ».",
+    "zh": "很接近。把「この待合室」作为话题时，用「は」。说「待合室は、居心地がいいですね」。",
+    "ja": "惜しいです。「この待合室は」と、話題にするときは、「は」です。「待合室は、居心地がいいですね」です。",
+    "romaji": "Oshii desu. 'Kono machiaishitsu wa' to, wadai ni suru toki wa, 'wa' desu. 'Machiaishitsu wa, igokochi ga ii desu ne' desu."
+  },
+  "vl18.p8_mis_retry": {
+    "en": "This waiting room is comfortable.",
+    "ru": "В этом зале ожидания очень уютно.",
+    "zh": "这间候诊室真让人自在。",
+    "ja": "この待合室は、居心地がいいですね。",
+    "romaji": "Kono machiaishitsu wa, igokochi ga ii desu ne."
+  },
+  "vl18.p8_mis_relief": {
+    "en": "Yes, that's it. “Wa” made the topic clear.",
+    "ru": "Да, именно так. «Ва» ясно указывает тему.",
+    "zh": "对，就是这个。「は」让话题明确了。",
+    "ja": "はい、それです。「は」で、話題が、はっきりしました。",
+    "romaji": "Hai, sore desu. 'Wa' de, wadai ga, hakkiri shimashita."
+  },
+  "vl18.p8_own_r": {
+    "en": "Thank you. I'm glad to hear you say so.",
+    "ru": "Спасибо. Мне приятно это слышать.",
+    "zh": "谢谢。能听你这么说，我很高兴。",
+    "ja": "ありがとう。そう言ってもらえると、うれしいです。",
+    "romaji": "Arigatou. Sou itte moraeru to, ureshii desu."
+  },
+  "vl18.p8_min_r": {
+    "en": "Your feeling comes across. Let's say it through: “igokochi ga ii desu ne.”",
+    "ru": "Ваше чувство понятно. Скажем слитно: «игокоти га ий дэс нэ».",
+    "zh": "你的心情能传达。连起来说：「居心地がいいですね」。",
+    "ja": "気持ちは、伝わります。「居心地がいいですね」と、続けて、言いましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Igokochi ga ii desu ne' to, tsuzukete, iimashou."
+  },
+  "vl18.gm_yome": {
+    "en": "Actually, the reason I came for a checkup today is because my daughter-in-law recommended it.",
+    "ru": "Вообще-то, я пришёл сегодня на осмотр потому, что мне его посоветовала моя невестка.",
+    "zh": "其实，今天我来体检，是因为我儿媳妇劝我来的。",
+    "ja": "実は、今日、検診に来たのは、うちの嫁が、すすめてくれたからなんです。",
+    "romaji": "Jitsu wa, kyou, kenshin ni kita no wa, uchi no yome ga, susumete kureta kara nan desu."
+  },
+  "vl18.w9": {
+    "en": "The “yome” that Grandpa mentioned refers to his son's wife. “Yome” is a slightly old-fashioned way of saying it. These days, some people say “oyomesan” or “giri no musume.”",
+    "ru": "«Ёмэ», о которой сказал дедушка, — это жена его сына. «Ёмэ» — несколько старомодное выражение. Сейчас некоторые говорят «оёмэсан» или «гири но мусумэ».",
+    "zh": "爷爷说的「嫁」是指儿子的妻子。「嫁」是稍微老派的说法。现在也有人说「お嫁さん」或「義理の娘」。",
+    "ja": "おじいさんの言った「嫁」は、息子さんの、奥さんのことです。「嫁」は、少し、古い言い方です。今は、「お嫁さん」や、「義理の娘」と、言う人も、います。",
+    "romaji": "Ojiisan no itta 'yome' wa, musuko-san no, okusan no koto desu. 'Yome' wa, sukoshi, furui iikata desu. Ima wa, 'oyomesan' ya, 'giri no musume' to, iu hito mo, imasu."
+  },
+  "vl18.w9_q": {
+    "en": "Are “yome” and “tsuma” different?",
+    "ru": "«Ёмэ» и «цума» отличаются?",
+    "zh": "「嫁」和「妻」有区别吗？",
+    "ja": "「嫁」と「妻」は、ちがいますか？",
+    "romaji": "'Yome' to 'tsuma' wa, chigaimasu ka?"
+  },
+  "vl18.w9_a": {
+    "en": "Yes. “Tsuma” refers to one's own spouse. “Yome” refers, from the perspective of the husband's family, to a son's wife or a woman who marries into another household. It changes depending on whose perspective you speak from.",
+    "ru": "Да. «Цума» — собственный супруг или супруга. «Ёмэ» — с точки зрения семьи мужа, это жена сына или женщина, вошедшая замужем в другой дом. Это меняется в зависимости от того, с чьей позиции говорить.",
+    "zh": "是的。「妻」是指自己的结婚对象。「嫁」是从丈夫家人的角度，指儿子的妻子或嫁入他家的女性。因说话者立场而异。",
+    "ja": "はい。「妻」は、自分の、結婚相手のことです。「嫁」は、夫の家族から見た、息子の妻や、結婚して、他の家に入る女性を、指します。だれの立場から言うかで、変わります。",
+    "romaji": "Hai. 'Tsuma' wa, jibun no, kekkon aite no koto desu. 'Yome' wa, otto no kazoku kara mita, musuko no tsuma ya, kekkon shite, hoka no ie ni hairu josei o, sashimasu. Dare no tachiba kara iu ka de, kawarimasu."
+  },
+  "vl18.w10": {
+    "en": "Finally, “koko ni kite.” Grandpa said, “Koko ni kite, taichou ga, yoku narimashita.” “Koko ni kite” is a phrase showing change, meaning “as of recently” or “now that it's come to this period.”",
+    "ru": "Наконец, «коко ни китэ». Дедушка сказал: «Коко ни китэ, тайтё: га, ёку наримасита». «Коко ни китэ» — выражение, показывающее перемену, означающее «в последнее время» или «теперь, когда наступил этот период».",
+    "zh": "最后是「ここに来て」。爷爷说：「ここに来て、体調が、よくなりました」。「ここに来て」是表示变化的词，意为“到了最近”“到了这个时期”。",
+    "ja": "最後に、「ここに来て」です。おじいさんが、「ここに来て、体調が、よくなりました」と言いました。「ここに来て」は、「最近になって」「この時期になって」という、変化を示す言葉です。",
+    "romaji": "Saigo ni, 'koko ni kite' desu. Ojiisan ga, 'koko ni kite, taichou ga, yoku narimashita' to iimashita. 'Koko ni kite' wa, 'saikin ni natte' 'kono jiki ni natte' to iu, henka o shimesu kotoba desu."
+  },
+  "vl18.w10_q": {
+    "en": "Doesn't “koko ni kite” have a meaning about place?",
+    "ru": "Разве «коко ни китэ» не имеет значения места?",
+    "zh": "「ここに来て」不是地点的意思吗？",
+    "ja": "「ここに来て」は、場所の意味では、ないのですか？",
+    "romaji": "'Koko ni kite' wa, basho no imi de wa, nai no desu ka?"
+  },
+  "vl18.w10_a": {
+    "en": "In its literal meaning, it's “coming to this place.” But “koko ni kite, ~ ni natta” expresses a change over time. It's used as in “koko ni kite, kyuu ni, samuku narimashita.” Let's judge by context.",
+    "ru": "В буквальном смысле это «прийдя в это место». Но «коко ни китэ, ~ ни натта» выражает изменение во времени. Используется, например, в «коко ни китэ, кю: ни, самуку наримасита». Судите по контексту.",
+    "zh": "字面意思是“来到这个地方”。但「ここに来て、〜になった」表示时间上的变化。用法如「ここに来て、急に、寒くなりました」。请根据上下文判断。",
+    "ja": "文字どおりの意味では、「この場所に来て」です。でも、「ここに来て、〜になった」は、時間の変化を表します。「ここに来て、急に、寒くなりました」のように使います。文脈で、判断しましょう。",
+    "romaji": "Moji doori no imi de wa, 'kono basho ni kite' desu. Demo, 'koko ni kite, ~ ni natta' wa, jikan no henka o arawashimasu. 'Koko ni kite, kyuu ni, samuku narimashita' no you ni tsukaimasu. Bunmyaku de, handan shimashou."
+  },
+  "vl18.talk_open": {
+    "en": "Now let's talk. Out of today's ten words, which one do you most want to remember?",
+    "ru": "Итак, поговорим. Какое из сегодняшних десяти слов вы больше всего хотите запомнить?",
+    "zh": "现在来聊聊。今天这十个词里，你最想记住哪个？",
+    "ja": "では、話しましょう。今日の、十の言葉の中で、いちばん、覚えておきたい言葉は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no, juu no kotoba no naka de, ichiban, oboete okitai kotoba wa, dore desu ka?"
+  },
+  "vl18.talk_ken": {
+    "en": "For me, “oshiete itadakemasu ka.” Being able to ask politely gives peace of mind.",
+    "ru": "Для меня это «осиэтэ итадакэмас ка». Когда можешь вежливо попросить, спокойнее.",
+    "zh": "我想说「教えていただけますか」。能礼貌地请求，让人安心。",
+    "ja": "ぼくは、「教えていただけますか」です。ていねいに、頼めると、安心です。",
+    "romaji": "Boku wa, 'oshiete itadakemasu ka' desu. Teinei ni, tanomeru to, anshin desu."
+  },
+  "vl18.talk_mei": {
+    "en": "For me, “enryo.” It's important not to hold back too much.",
+    "ru": "Для меня это «энрё». Важно и не сдерживаться слишком сильно.",
+    "zh": "我想说「遠慮」。不要过度客气也很重要呢。",
+    "ja": "わたしは、「遠慮」です。遠慮しすぎないことも、大切ですね。",
+    "romaji": "Watashi wa, 'enryo' desu. Enryo shisuginai koto mo, taisetsu desu ne."
+  },
+  "vl18.talk_yuki": {
+    "en": "For me, “chounaikai.” Grandpa's town supports one another together.",
+    "ru": "Для меня это «тё:найкай». В городе дедушки все поддерживают друг друга.",
+    "zh": "我想说「町内会」。爷爷的町，大家互相扶持呢。",
+    "ja": "わたしは、「町内会」です。おじいちゃんの町は、みんなで、支え合っていますね。",
+    "romaji": "Watashi wa, 'chounaikai' desu. Ojiichan no machi wa, minna de, sasaeatte imasu ne."
+  },
+  "vl18.talk_tanaka": {
+    "en": "Lovely. Health can't be protected alone. It's something you protect together with the people around you, through words.",
+    "ru": "Прекрасно. Здоровье нельзя защитить в одиночку. Его оберегают вместе с окружающими людьми — через слова.",
+    "zh": "真好。健康一个人是守护不了的。要通过语言，与周围的人一起守护。",
+    "ja": "すてきですね。健康は、ひとりでは、守れません。まわりの人と、言葉を通して、守っていくものです。",
+    "romaji": "Suteki desu ne. Kenkou wa, hitori de wa, mamoremasen. Mawari no hito to, kotoba o tooshite, mamotte iku mono desu."
+  },
+  "vl18.talk_player": {
+    "en": "(Neighborhood association, regular checkup, blood pressure, symptoms, prescription, restraint, could you tell me, comfortable, daughter-in-law, as of now. Asking politely and not holding back too much. Both are important words for protecting health.)",
+    "ru": "(Районная ассоциация, плановый осмотр, давление, симптомы, рецепт, сдержанность, не могли бы вы объяснить, уютно, невестка, теперь. Вежливо просить и не сдерживаться слишком сильно. И то и другое — важные слова для защиты здоровья.)",
+    "zh": "（町内会、定期检查、血压、症状、处方箋、顾虑、可以告诉我吗、自在、儿媳、到了现在。礼貌地请求，也不要过度客气。这两者都是守护健康的重要话语。）",
+    "ja": "（町内会、定期検診、血圧、症状、処方箋、遠慮、教えていただけますか、居心地がいい、嫁、ここに来て。ていねいに頼むこと、遠慮しすぎないこと。どちらも、健康を守る、大切な言葉だ。）",
+    "romaji": "(Chounaikai, teiki kenshin, ketsuatsu, shoujou, shohousen, enryo, oshiete itadakemasu ka, igokochi ga ii, yome, koko ni kite. Asking politely and not holding back too much. Both are important words for protecting health.)"
+  },
+  "vl18.talk_close": {
+    "en": "Thank you all for today. I'm glad Grandpa is well too. Then, let's meet again in the classroom.",
+    "ru": "Спасибо всем за сегодняшний день. Я рад, что дедушка здоров. А теперь — до встречи в классе.",
+    "zh": "各位，今天谢谢你们。爷爷身体也很好，太好了。那么，我们教室里再见吧。",
+    "ja": "みなさん、今日は、ありがとう。おじいさんも、元気で、よかったです。では、また、教室で、会いましょう。",
+    "romaji": "Minasan, kyou wa, arigatou. Ojiisan mo, genki de, yokatta desu. Dewa, mata, kyoushitsu de, aimashou."
+  },
+  "vl18.complete": {
+    "en": "End of Vocabulary Lesson 18.",
+    "ru": "Конец урока лексики 18.",
+    "zh": "词汇课 18 结束。",
+    "ja": "語彙レッスン18、おわり。",
+    "romaji": "Goi ressun juuhachi, owari."
+  }
+}

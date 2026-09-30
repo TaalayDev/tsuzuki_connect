@@ -1,0 +1,702 @@
+{
+  "sl18.title": {
+    "en": "Talking About Change: ~ kunaru, ~ you ni naru, ~ you ni suru",
+    "ru": "Рассказываем об изменениях: ~ кунару, ~ ё: ни нару, ~ ё: ни суру",
+    "zh": "谈论变化：〜くなる・〜ようになる・〜ようにする",
+    "ja": "変化を話す：〜くなる・〜ようになる・〜ようにする",
+    "romaji": "Henka o hanasu: ~ kunaru, ~ you ni naru, ~ you ni suru"
+  },
+  "sl18.subtitle": {
+    "en": "Yourself half a year ago, and yourself now",
+    "ru": "Вы полгода назад и вы сейчас",
+    "zh": "半年前的自己和现在的自己",
+    "ja": "半年前の自分と、いまの自分",
+    "romaji": "Hantoshi mae no jibun to, ima no jibun"
+  },
+  "sl18.description": {
+    "en": "In an autumn classroom half a year after the Kyoto trip, talk about your own changes using four patterns: “~ kunaru / ~ ni naru,” “~ you ni naru,” “~ nakunaru,” and “~ you ni suru.”",
+    "ru": "В осеннем классе через полгода после поездки в Киото расскажите о своих изменениях, используя четыре формы: «~ кунару / ~ ни нару», «~ ё: ни нару», «~ накунару» и «~ ё: ни суру».",
+    "zh": "在京都旅行半年后的秋日教室里，用四种句型谈论自己的变化：「〜くなる・〜になる」「〜ようになる」「〜なくなる」「〜ようにする」。",
+    "ja": "京都旅行から半年たった秋の教室で、「〜くなる・〜になる」「〜ようになる」「〜なくなる」「〜ようにする」の四つの形を使って、自分の変化を話します。",
+    "romaji": "Kyouto ryokou kara hantoshi tatta aki no kyoushitsu de, '~ kunaru, ~ ni naru' '~ you ni naru' '~ nakunaru' '~ you ni suru' no yottsu no katachi o tsukatte, jibun no henka o hanashimasu."
+  },
+  "sl18.pattern.1": {
+    "en": "become ~ (adjectives, nouns)",
+    "ru": "становиться ~ (прилагательные, существительные)",
+    "zh": "变得〜（形容词、名词）",
+    "ja": "〜くなる・〜になる",
+    "romaji": "~ kunaru, ~ ni naru"
+  },
+  "sl18.pattern.2": {
+    "en": "come to be able to / have come to ~",
+    "ru": "научиться / прийти к тому, что ~",
+    "zh": "变得能够〜／变成〜",
+    "ja": "〜ようになる",
+    "romaji": "~ you ni naru"
+  },
+  "sl18.pattern.3": {
+    "en": "no longer ~",
+    "ru": "больше не ~",
+    "zh": "不再〜",
+    "ja": "〜なくなる",
+    "romaji": "~ nakunaru"
+  },
+  "sl18.pattern.4": {
+    "en": "make an effort to ~",
+    "ru": "стараться ~",
+    "zh": "努力做到〜",
+    "ja": "〜ようにする",
+    "romaji": "~ you ni suru"
+  },
+  "sl18.setup": {
+    "en": "Half a year has passed since the Kyoto trip. An autumn classroom. Red and yellow leaves sway outside the window. Tanaka-sensei is showing everyone an old photo.",
+    "ru": "С поездки в Киото прошло полгода. Осенний класс. За окном колышутся красные и жёлтые листья. Танака-сэнсэй показывает всем старую фотографию.",
+    "zh": "京都旅行过去半年了。秋天的教室。窗外，红色和黄色的叶子在摇曳。田中老师正给大家看一张旧照片。",
+    "ja": "京都旅行から、半年が過ぎた。秋の教室。まどの外で、赤や黄色の葉が、ゆれている。田中先生が、古い写真を、みんなに見せている。",
+    "romaji": "Kyouto ryokou kara, hantoshi ga sugita. Aki no kyoushitsu. Mado no soto de, aka ya kiiro no ha ga, yurete iru. Tanaka-sensei ga, furui shashin o, minna ni misete iru."
+  },
+  "sl18.t_intro": {
+    "en": "This is a photo from the day you all first came to the classroom. Today's theme is words for change. Let's compare yourselves half a year ago with yourselves now.",
+    "ru": "Это фотография того дня, когда вы все впервые пришли в класс. Тема сегодня — слова для изменений. Давайте сравним себя полгода назад и сейчас.",
+    "zh": "这是大家第一次来教室那天的照片。今天的主题是表示变化的词。让我们把半年前的自己和现在的自己比较一下。",
+    "ja": "これは、みなさんが、はじめて教室に来た日の、写真です。今日のテーマは、変化の言葉です。半年前の自分と、いまの自分を、くらべてみましょう。",
+    "romaji": "Kore wa, minasan ga, hajimete kyoushitsu ni kita hi no, shashin desu. Kyou no teema wa, henka no kotoba desu. Hantoshi mae no jibun to, ima no jibun o, kurabete mimashou."
+  },
+  "sl18.s1_intro": {
+    "en": "First, “~ kunaru” and “~ ni naru.” For i-adjectives, drop the “i” and add “kunaru.” For na-adjectives and nouns, add “ni” to make “ni naru.” “~ ni naru” means “to change into ~.”",
+    "ru": "Сначала «~ кунару» и «~ ни нару». У i-прилагательных убирают «и» и добавляют «кунару». К na-прилагательным и существительным добавляют «ни»: «ни нару». «~ ни нару» означает «превращаться в ~».",
+    "zh": "首先是「〜くなる」和「〜になる」。い形容词去掉「い」，加上「くなる」。な形容词和名词加「に」，成为「になる」。「〜になる」是“变成〜”的意思。",
+    "ja": "まず、「〜くなる」と「〜になる」です。い形容詞は、「い」を取って、「くなる」。な形容詞と名詞は、「に」をつけて、「になる」。「〜になる」は、「〜に変わる」という意味です。",
+    "romaji": "Mazu, '~ kunaru' to '~ ni naru' desu. I-keiyoushi wa, 'i' o totte, 'kunaru'. Na-keiyoushi to meishi wa, 'ni' o tsukete, 'ni naru'. '~ ni naru' wa, '~ ni kawaru' to iu imi desu."
+  },
+  "sl18.s1_ex": {
+    "en": "Japanese has become interesting. My Japanese has become good. I have become a teacher.",
+    "ru": "Японский стал интересным. Мой японский стал хорошим. Я стал учителем.",
+    "zh": "日语变得有趣了。日语变好了。我成了老师。",
+    "ja": "日本語が、おもしろくなりました。日本語が、上手になりました。私は、先生になりました。",
+    "romaji": "Nihongo ga, omoshirokunarimashita. Nihongo ga, jouzu ni narimashita. Watashi wa, sensei ni narimashita."
+  },
+  "sl18.s1_q1": {
+    "en": "Isn't it “omoshiroi narimashita”?",
+    "ru": "Разве не «омосирой наримасита»?",
+    "zh": "不是「おもしろいなりました」吗？",
+    "ja": "「おもしろいなりました」ではありませんか？",
+    "romaji": "'Omoshiroi narimashita' de wa arimasen ka?"
+  },
+  "sl18.s1_a1": {
+    "en": "No, with i-adjectives you change the “i” to “ku.” It's “omoshirokunarimashita.” You don't say “omoshiroi narimashita.”",
+    "ru": "Нет, у i-прилагательных «и» меняют на «ку». Получается «омосирокунаримасита». Не говорят «омосирой наримасита».",
+    "zh": "不是，い形容词要把「い」变成「く」。说「おもしろくなりました」。不说「おもしろいなりました」。",
+    "ja": "いいえ、い形容詞は、「い」を、「く」に変えます。「おもしろくなりました」です。「おもしろいなりました」とは、言いません。",
+    "romaji": "Iie, i-keiyoushi wa, 'i' o, 'ku' ni kaemasu. 'Omoshirokunarimashita' desu. 'Omoshiroi narimashita' to wa, iimasen."
+  },
+  "sl18.s1_q2": {
+    "en": "What happens with “ii”?",
+    "ru": "Что происходит с «ии»?",
+    "zh": "「いい」会怎么变？",
+    "ja": "「いい」は、どうなりますか？",
+    "romaji": "'Ii' wa, dou narimasu ka?"
+  },
+  "sl18.s1_a2": {
+    "en": "“Ii” is special. You say “yoku naru.” It's used like “kaze ga, yoku narimashita.”",
+    "ru": "«Ии» — особый случай. Говорят «ёку нару». Используется так: «кадзэ га, ёку наримасита».",
+    "zh": "「いい」是特殊的。说「よくなる」。用法如「かぜが、よくなりました」。",
+    "ja": "「いい」は、特別です。「よくなる」と言います。「かぜが、よくなりました」のように使います。",
+    "romaji": "'Ii' wa, tokubetsu desu. 'Yoku naru' to iimasu. 'Kaze ga, yoku narimashita' no you ni tsukaimasu."
+  },
+  "sl18.s1_q3": {
+    "en": "Can you add “dandan”?",
+    "ru": "Можно ли добавить «данданн»?",
+    "zh": "可以加上「だんだん」吗？",
+    "ja": "「だんだん」を、つけてもいいですか？",
+    "romaji": "'Dandan' o, tsukete mo ii desu ka?"
+  },
+  "sl18.s1_a3": {
+    "en": "Yes, adding “dandan” or “dondon” conveys the sense of gradual change well. “Dandan, omoshirokunarimashita.”",
+    "ru": "Да, если добавить «данданн» или «дондон», хорошо передаётся постепенность изменения. «Данданн, омосирокунаримасита».",
+    "zh": "可以。加上「だんだん」或「どんどん」，能很好地传达逐渐变化的样子。「だんだん、おもしろくなりました」。",
+    "ja": "はい、「だんだん」や、「どんどん」を入れると、少しずつ、変わるようすが、よく伝わります。「だんだん、おもしろくなりました」。",
+    "romaji": "Hai, 'dandan' ya, 'dondon' o ireru to, sukoshi zutsu, kawaru yousu ga, yoku tsutawarimasu. 'Dandan, omoshirokunarimashita'."
+  },
+  "sl18.tanaka_ask": {
+    "en": "How is your Japanese lately?",
+    "ru": "Как ваш японский в последнее время?",
+    "zh": "最近你的日语怎么样？",
+    "ja": "最近、日本語は、どうですか？",
+    "romaji": "Saikin, nihongo wa, dou desu ka?"
+  },
+  "sl18.p1_prompt": {
+    "en": "Tanaka-sensei asked. You have gradually come to find studying Japanese interesting. How do you answer?",
+    "ru": "Танака-сэнсэй спросил. Вы постепенно стали находить изучение японского интересным. Что вы ответите?",
+    "zh": "田中老师问了。你对学习日语的兴趣在渐渐增加。你会怎么回答？",
+    "ja": "田中先生が、聞きました。あなたは、日本語の勉強が、だんだん、おもしろいと思うようになりました。何と答えますか？",
+    "romaji": "Tanaka-sensei ga, kikimashita. Anata wa, nihongo no benkyou ga, dandan, omoshiroi to omou you ni narimashita. Nan to kotaemasu ka?"
+  },
+  "sl18.c1_natural": {
+    "en": "“It has gradually become interesting.”",
+    "ru": "«Постепенно стало интересно».",
+    "zh": "“渐渐变得有意思了。”",
+    "ja": "「だんだん、おもしろくなりました。」",
+    "romaji": "'Dandan, omoshirokunarimashita.'"
+  },
+  "sl18.c1_formal": {
+    "en": "“Gradually, it has come to feel increasingly fascinating.”",
+    "ru": "«Постепенно оно стало казаться всё более увлекательным».",
+    "zh": "“渐渐地，越来越觉得饶有兴味了。”",
+    "ja": "「次第に、興味深く感じられるようになってまいりました。」",
+    "romaji": "'Shidai ni, kyoumibukaku kanjirareru you ni natte mairimashita.'"
+  },
+  "sl18.c1_mistake": {
+    "en": "“It has gradually omoshiroi-become.”",
+    "ru": "«Постепенно стало омосирой».",
+    "zh": "“渐渐地，变得おもしろい了。”（没有把い变成く）",
+    "ja": "「だんだん、おもしろいなりました。」",
+    "romaji": "'Dandan, omoshiroi narimashita.'"
+  },
+  "sl18.c1_own": {
+    "en": "“It has gradually become interesting. I used to think it was hard, but now it's fun.”",
+    "ru": "«Постепенно стало интересно. Раньше мне казалось, что это сложно, но теперь весело».",
+    "zh": "“渐渐变得有意思了。以前觉得很难，现在很开心。”",
+    "ja": "「だんだん、おもしろくなりました。前は、むずかしいと思いましたが、今は、楽しいです。」",
+    "romaji": "'Dandan, omoshirokunarimashita. Mae wa, muzukashii to omoimashita ga, ima wa, tanoshii desu.'"
+  },
+  "sl18.c1_min": {
+    "en": "“Interesting... became...”",
+    "ru": "«Интересно… стало…»",
+    "zh": "“有意思……变……”",
+    "ja": "「おもしろ…なりました…」",
+    "romaji": "'Omoshiro... narimashita...'"
+  },
+  "sl18.p1_nat_tanaka": {
+    "en": "That's a happy change.",
+    "ru": "Это приятное изменение.",
+    "zh": "那是令人高兴的变化呢。",
+    "ja": "それは、うれしい変化ですね。",
+    "romaji": "Sore wa, ureshii henka desu ne."
+  },
+  "sl18.p1_form_ken": {
+    "en": "Haha, those are difficult words. “Omoshirokunarimashita” is fine.",
+    "ru": "Ха-ха, какие сложные слова. Достаточно «омосирокунаримасита».",
+    "zh": "哈哈，这些词好难。说「おもしろくなりました」就行。",
+    "ja": "あはは、むずかしい言葉ですね。「おもしろくなりました」で、いいですよ。",
+    "romaji": "Ahaha, muzukashii kotoba desu ne. 'Omoshirokunarimashita' de, ii desu yo."
+  },
+  "sl18.p1_mis_tanaka": {
+    "en": "Close. With i-adjectives, you change the “i” to “ku.” Not “omoshiroi narimashita,” but “omoshirokunarimashita.”",
+    "ru": "Почти. У i-прилагательных «и» меняют на «ку». Не «омосирой наримасита», а «омосирокунаримасита».",
+    "zh": "很接近。い形容词要把「い」变成「く」。不是「おもしろいなりました」，而是「おもしろくなりました」。",
+    "ja": "惜しいです。い形容詞は、「い」を、「く」に変えます。「おもしろいなりました」ではなく、「おもしろくなりました」です。",
+    "romaji": "Oshii desu. I-keiyoushi wa, 'i' o, 'ku' ni kaemasu. 'Omoshiroi narimashita' de wa naku, 'omoshirokunarimashita' desu."
+  },
+  "sl18.p1_mis_retry": {
+    "en": "Oh, it has gradually become interesting.",
+    "ru": "Ой, постепенно стало интересно.",
+    "zh": "啊，渐渐变得有意思了。",
+    "ja": "あっ、だんだん、おもしろくなりました。",
+    "romaji": "A, dandan, omoshirokunarimashita."
+  },
+  "sl18.p1_mis_relief": {
+    "en": "Yes, that's it. By changing it to “ku,” you expressed the change.",
+    "ru": "Да, именно так. Изменив на «ку», вы выразили изменение.",
+    "zh": "对，就是这个。变成「く」，就表达出了变化。",
+    "ja": "はい、それです。「く」に変えて、変化を表せました。",
+    "romaji": "Hai, sore desu. 'Ku' ni kaete, henka o arawasemashita."
+  },
+  "sl18.p1_own_tanaka": {
+    "en": "Wonderful. You compared before and now in what you said.",
+    "ru": "Замечательно. Вы сравнили «раньше» и «сейчас».",
+    "zh": "太好了。你把以前和现在做了比较。",
+    "ja": "すばらしい。前と今を、くらべて、話せましたね。",
+    "romaji": "Subarashii. Mae to ima o, kurabete, hanasemashita ne."
+  },
+  "sl18.p1_min_yuki": {
+    "en": "I understand. Try saying it in one go: “omoshirokunarimashita.”",
+    "ru": "Понимаю. Скажите слитно: «омосирокунаримасита».",
+    "zh": "我明白。试着连起来说：「おもしろくなりました」。",
+    "ja": "分かりますよ。「おもしろくなりました」と、続けて、言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Omoshirokunarimashita' to, tsuzukete, itte mimashou."
+  },
+  "sl18.s2_intro": {
+    "en": "Next is “~ you ni naru.” It expresses a change like “I've come to be able to do what I couldn't before.” Attach “you ni naru” to the verb's potential form.",
+    "ru": "Дальше — «~ ё: ни нару». Оно выражает изменение вроде «я научился делать то, чего раньше не мог». К потенциальной форме глагола добавляют «ё: ни нару».",
+    "zh": "接下来是「〜ようになる」。表示“以前做不到的事，现在做得到了”这样的变化。在动词的「可能形」后面加上「ようになる」。",
+    "ja": "次は、「〜ようになる」です。「できなかったことが、できるようになった」という変化を言います。動詞の「できる形」に、「ようになる」をつけます。",
+    "romaji": "Tsugi wa, '~ you ni naru' desu. 'Dekinakatta koto ga, dekiru you ni natta' to iu henka o iimasu. Doushi no 'dekiru katachi' ni, 'you ni naru' o tsukemasu."
+  },
+  "sl18.s2_potential": {
+    "en": "The potential form is made like this: hanasu becomes hanaseru, yomu becomes yomeru, kaku becomes kakeru, taberu becomes taberareru, miru becomes mirareru, suru becomes dekiru, and kuru becomes korareru.",
+    "ru": "Потенциальная форма образуется так: ханасу — ханасэру, ёму — ёмэру, каку — какэру, табэру — табэрарэру, миру — мирарэру, суру — дэкиру, куру — корарэру.",
+    "zh": "「可能形」这样构成：話す变成話せる，読む变成読める，書く变成書ける，食べる变成食べられる，見る变成見られる，する变成できる，来る变成来られる。",
+    "ja": "「できる形」は、こう作ります。話す、話せる。読む、読める。書く、書ける。食べる、食べられる。見る、見られる。する、できる。来る、来られる。",
+    "romaji": "'Dekiru katachi' wa, kou tsukurimasu. Hanasu, hanaseru. Yomu, yomeru. Kaku, kakeru. Taberu, taberareru. Miru, mirareru. Suru, dekiru. Kuru, korareru."
+  },
+  "sl18.s2_ex": {
+    "en": "I have come to be able to read kanji. I have come to be able to make phone calls in Japanese.",
+    "ru": "Я научился читать иероглифы. Я научился разговаривать по телефону на японском.",
+    "zh": "我现在能读汉字了。我现在能用日语打电话了。",
+    "ja": "漢字が、読めるようになりました。日本語で、電話ができるようになりました。",
+    "romaji": "Kanji ga, yomeru you ni narimashita. Nihongo de, denwa ga dekiru you ni narimashita."
+  },
+  "sl18.s2_q1": {
+    "en": "Is it the same as “~ koto ga dekiru”?",
+    "ru": "Это то же самое, что «~ кото га дэкиру»?",
+    "zh": "和「〜ことができる」一样吗？",
+    "ja": "「〜ことができる」と、同じですか？",
+    "romaji": "'~ koto ga dekiru' to, onaji desu ka?"
+  },
+  "sl18.s2_a1": {
+    "en": "The meaning is almost the same. “Hanasu koto ga dekiru” and “hanaseru” both mean “have the ability to speak.” “Hanaseru” is shorter and more common in conversation.",
+    "ru": "Значение почти одинаковое. «Ханасу кото га дэкиру» и «ханасэру» означают «обладать способностью говорить». «Ханасэру» короче и чаще используется в разговоре.",
+    "zh": "意思几乎相同。「話すことができる」和「話せる」都是“有说话的能力”的意思。「話せる」更短，会话中更常用。",
+    "ja": "意味は、ほとんど同じです。「話すことができる」と、「話せる」は、どちらも「話す力がある」という意味です。「話せる」のほうが、短くて、会話でよく使います。",
+    "romaji": "Imi wa, hotondo onaji desu. 'Hanasu koto ga dekiru' to, 'hanaseru' wa, dochira mo 'hanasu chikara ga aru' to iu imi desu. 'Hanaseru' no hou ga, mijikakute, kaiwa de yoku tsukaimasu."
+  },
+  "sl18.s2_q2": {
+    "en": "Can it be used for things other than becoming able to do something?",
+    "ru": "Можно ли использовать это и не только для приобретения способности?",
+    "zh": "除了“变得能够”以外，还能用于别的场合吗？",
+    "ja": "できるようになること以外にも、使えますか？",
+    "romaji": "'Dekiru you ni naru' koto igai ni mo, tsukaemasu ka?"
+  },
+  "sl18.s2_a2": {
+    "en": "Yes. It is also used for new habits, as in “mainichi, benkyou suru you ni narimashita.” It's the change “I didn't do it before, but now I do.”",
+    "ru": "Да. Его используют и для новых привычек, например «майнити, бэнкё суру ё: ни наримасита». Это изменение: «раньше не делал, а теперь делаю».",
+    "zh": "可以。也用于新习惯，如「毎日、勉強するようになりました」。表示“以前不做，现在做了”这样的变化。",
+    "ja": "はい。「毎日、勉強するようになりました」のように、新しい習慣にも使います。「前は、しなかったのに、今は、するようになった」という変化です。",
+    "romaji": "Hai. 'Mainichi, benkyou suru you ni narimashita' no you ni, atarashii shuukan ni mo tsukaimasu. 'Mae wa, shinakatta noni, ima wa, suru you ni natta' to iu henka desu."
+  },
+  "sl18.y_ask": {
+    "en": "What have you become able to do in Japanese?",
+    "ru": "Что вы научились делать по-японски?",
+    "zh": "你现在能用日语做什么了？",
+    "ja": "日本語で、何が、できるようになりましたか？",
+    "romaji": "Nihongo de, nani ga, dekiru you ni narimashita ka?"
+  },
+  "sl18.p2_prompt": {
+    "en": "Yuki asked. Half a year ago you couldn't, but now you can make phone calls in Japanese. How do you answer?",
+    "ru": "Юки спросила. Полгода назад вы не могли, но теперь можете разговаривать по телефону на японском. Что вы ответите?",
+    "zh": "由纪问了。半年前你做不到，但现在你能用日语打电话了。你会怎么回答？",
+    "ja": "由紀さんが、聞きました。あなたは、半年前は、できなかったけれど、今は、日本語で電話ができます。何と答えますか？",
+    "romaji": "Yuki-san ga, kikimashita. Anata wa, hantoshi mae wa, dekinakatta keredo, ima wa, nihongo de denwa ga dekimasu. Nan to kotaemasu ka?"
+  },
+  "sl18.c2_natural": {
+    "en": "“I've become able to make phone calls in Japanese.”",
+    "ru": "«Я научился разговаривать по телефону на японском».",
+    "zh": "“我现在能用日语打电话了。”",
+    "ja": "「日本語で、電話が、できるようになりました。」",
+    "romaji": "'Nihongo de, denwa ga, dekiru you ni narimashita.'"
+  },
+  "sl18.c2_formal": {
+    "en": "“I have come to be capable of handling telephone correspondence in Japanese.”",
+    "ru": "«Я научился справляться с телефонными разговорами на японском».",
+    "zh": "“我已经渐渐能用日语应对电话了。”",
+    "ja": "「日本語での電話応対が、こなせるようになってまいりました。」",
+    "romaji": "'Nihongo de no denwa outai ga, konaseru you ni natte mairimashita.'"
+  },
+  "sl18.c2_mistake": {
+    "en": "“I dekiru-became phone calls in Japanese.”",
+    "ru": "«Я дэкиру-стал по телефону на японском».",
+    "zh": "“我用日语打电话できるなりました。”（漏掉了よう）",
+    "ja": "「日本語で、電話が、できるなりました。」",
+    "romaji": "'Nihongo de, denwa ga, dekiru narimashita.'"
+  },
+  "sl18.c2_own": {
+    "en": "“I've become able to make phone calls in Japanese. I used to be afraid.”",
+    "ru": "«Я научился разговаривать по телефону на японском. Раньше мне было страшно».",
+    "zh": "“我现在能用日语打电话了。以前很害怕。”",
+    "ja": "「日本語で、電話が、できるようになりました。前は、こわかったです。」",
+    "romaji": "'Nihongo de, denwa ga, dekiru you ni narimashita. Mae wa, kowakatta desu.'"
+  },
+  "sl18.c2_min": {
+    "en": "“Phone... can... became...”",
+    "ru": "«Телефон… могу… стал…»",
+    "zh": "“电话……能……变……”",
+    "ja": "「電話…できる…なりました…」",
+    "romaji": "'Denwa... dekiru... narimashita...'"
+  },
+  "sl18.p2_nat_yuki": {
+    "en": "That's great. I was afraid of phone calls too, but now I'm fine.",
+    "ru": "Здорово. Мне тоже было страшно по телефону, но теперь всё в порядке.",
+    "zh": "真厉害。我以前也怕打电话，不过现在没问题了。",
+    "ja": "すごいですね。わたしも、電話が、こわかったですが、今は、大丈夫です。",
+    "romaji": "Sugoi desu ne. Watashi mo, denwa ga, kowakatta desu ga, ima wa, daijoubu desu."
+  },
+  "sl18.p2_form_mei": {
+    "en": "Ha, that sounds like a job interview. “Denwa ga, dekiru you ni narimashita” is fine.",
+    "ru": "Ха-ха, как на собеседовании. Достаточно «дэнва га, дэкиру ё: ни наримасита».",
+    "zh": "呵呵，像公司面试一样。说「電話が、できるようになりました」就行。",
+    "ja": "ふふ、会社の面接みたいです。「電話が、できるようになりました」で、いいですよ。",
+    "romaji": "Fufu, kaisha no mensetsu mitai desu. 'Denwa ga, dekiru you ni narimashita' de, ii desu yo."
+  },
+  "sl18.p2_mis_tanaka": {
+    "en": "Close. After “dekiru,” you need “you ni.” You say “dekiru you ni narimashita.”",
+    "ru": "Почти. После «дэкиру» нужно «ё: ни». Говорят «дэкиру ё: ни наримасита».",
+    "zh": "很接近。「できる」后面需要「ように」。说「できるようになりました」。",
+    "ja": "惜しいです。「できる」のあとに、「ように」が必要です。「できるようになりました」と言います。",
+    "romaji": "Oshii desu. 'Dekiru' no ato ni, 'you ni' ga hitsuyou desu. 'Dekiru you ni narimashita' to iimasu."
+  },
+  "sl18.p2_mis_retry": {
+    "en": "Oh, I've become able to make phone calls in Japanese.",
+    "ru": "Ой, я научился разговаривать по телефону на японском.",
+    "zh": "啊，我现在能用日语打电话了。",
+    "ja": "あっ、日本語で、電話が、できるようになりました。",
+    "romaji": "A, nihongo de, denwa ga, dekiru you ni narimashita."
+  },
+  "sl18.p2_mis_relief": {
+    "en": "Yes, that's it. With “you ni” included, the change comes across.",
+    "ru": "Да, именно так. С «ё: ни» изменение передано.",
+    "zh": "对，就是这个。加上「ように」，变化就传达出来了。",
+    "ja": "はい、それです。「ように」が入って、変化が伝わりました。",
+    "romaji": "Hai, sore desu. 'You ni' ga haitte, henka ga tsutawarimashita."
+  },
+  "sl18.p2_own_mei": {
+    "en": "It's a happy thing when something that used to be scary becomes doable.",
+    "ru": "Приятно, когда то, что раньше пугало, становится возможным.",
+    "zh": "以前害怕的事现在能做到了，真让人高兴。",
+    "ja": "こわかったことが、できるようになるのは、うれしいですね。",
+    "romaji": "Kowakatta koto ga, dekiru you ni naru no wa, ureshii desu ne."
+  },
+  "sl18.p2_min_ken": {
+    "en": "I understand. Try saying it through: “denwa ga, dekiru you ni narimashita.”",
+    "ru": "Понимаю. Скажите слитно: «дэнва га, дэкиру ё: ни наримасита».",
+    "zh": "我明白。试着连起来说：「電話が、できるようになりました」。",
+    "ja": "分かりますよ。「電話が、できるようになりました」と、続けて、言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Denwa ga, dekiru you ni narimashita' to, tsuzukete, itte mimashou."
+  },
+  "sl18.s3_intro": {
+    "en": "On the other hand, when you have stopped doing something, use “~ nakunaru.” Remove the “i” from the “nai” form and add “kunaru.” It expresses the change “I no longer do it.”",
+    "ru": "С другой стороны, когда вы перестали что-то делать, используют «~ накунару». Уберите «и» из формы «най» и добавьте «кунару». Это изменение «больше не делаю».",
+    "zh": "反过来，表示“不再做某事”时，用「〜なくなる」。去掉「ない」形里的「い」，加上「くなる」。表示“已经不再做了”这样的变化。",
+    "ja": "反対に、「しなくなった」ときは、「〜なくなる」です。「ない」の形の「い」を取って、「くなる」をつけます。「もう、しなくなった」という変化です。",
+    "romaji": "Hantai ni, 'shinakunatta' toki wa, '~ nakunaru' desu. 'Nai' no katachi no 'i' o totte, 'kunaru' o tsukemasu. 'Mou, shinakunatta' to iu henka desu."
+  },
+  "sl18.s3_ex": {
+    "en": "When I speak in Japanese, I no longer get nervous. Instead of “I no longer understand the teacher's words,” I've come to understand them.",
+    "ru": "Когда я говорю по-японски, я больше не нервничаю. Вместо «я перестал понимать слова учителя» — я научился их понимать.",
+    "zh": "用日语说话时，我不再紧张了。不是“听不懂老师的话了”，而是“能听懂老师的话了”。",
+    "ja": "日本語で話すとき、緊張しなくなりました。先生の言葉が、分からなくなりました、ではなく、わかるようになりました。",
+    "romaji": "Nihongo de hanasu toki, kinchou shinakunarimashita. Sensei no kotoba ga, wakaranakunarimashita, de wa naku, wakaru you ni narimashita."
+  },
+  "sl18.s3_q1": {
+    "en": "How is it different from “mou, kinchou shimasen”?",
+    "ru": "Чем это отличается от «мо:, кинтё: симасэн»?",
+    "zh": "它和「もう、緊張しません」有什么不同？",
+    "ja": "「もう、緊張しません」と、どうちがいますか？",
+    "romaji": "'Mou, kinchou shimasen' to, dou chigaimasu ka?"
+  },
+  "sl18.s3_a1": {
+    "en": "“Mou, kinchou shimasen” describes the present state. “Kinchou shinakunarimashita” describes the change: you used to, but it has changed.",
+    "ru": "«Мо:, кинтё: симасэн» описывает нынешнее состояние. «Кинтё: синакунаримасита» описывает изменение: раньше нервничал, но это изменилось.",
+    "zh": "「もう、緊張しません」描述现在的状态。「緊張しなくなりました」描述“以前会紧张，现在变了”这个变化。",
+    "ja": "「もう、緊張しません」は、今の状態を言います。「緊張しなくなりました」は、前は、していたのに、変わった、という変化を言います。",
+    "romaji": "'Mou, kinchou shimasen' wa, ima no joutai o iimasu. 'Kinchou shinakunarimashita' wa, mae wa, shite ita noni, kawatta, to iu henka o iimasu."
+  },
+  "sl18.s3_q2": {
+    "en": "Isn't it “~ nai ni narimashita”?",
+    "ru": "Разве не «~ най ни наримасита»?",
+    "zh": "不是「〜ないになりました」吗？",
+    "ja": "「〜ないになりました」ではありませんか？",
+    "romaji": "'~ nai ni narimashita' de wa arimasen ka?"
+  },
+  "sl18.s3_a2": {
+    "en": "No, the “nai” form changes just like an i-adjective. Change the “i” of “nai” to “ku” to get “nakunaru.” You don't say “kinchou shinai ni narimashita.”",
+    "ru": "Нет, форма «най» изменяется так же, как i-прилагательное. «И» в «най» меняют на «ку» и получают «накунару». Не говорят «кинтё: синай ни наримасита».",
+    "zh": "不是，「ない」形和い形容词的变化方式一样。把「ない」的「い」变成「く」，得到「なくなる」。不说「緊張しないになりました」。",
+    "ja": "いいえ、「ない」の形は、い形容詞と、同じように変わります。「ない」の「い」を「く」にして、「なくなる」です。「緊張しないになりました」とは、言いません。",
+    "romaji": "Iie, 'nai' no katachi wa, i-keiyoushi to, onaji you ni kawarimasu. 'Nai' no 'i' o 'ku' ni shite, 'nakunaru' desu. 'Kinchou shinai ni narimashita' to wa, iimasen."
+  },
+  "sl18.m_ask": {
+    "en": "You used to get nervous when speaking Japanese. How is it now?",
+    "ru": "Раньше вы нервничали, когда говорили по-японски. А как сейчас?",
+    "zh": "以前你用日语说话时会紧张呢。现在怎么样？",
+    "ja": "前は、日本語で話すとき、緊張していましたね。今は、どうですか？",
+    "romaji": "Mae wa, nihongo de hanasu toki, kinchou shite imashita ne. Ima wa, dou desu ka?"
+  },
+  "sl18.p3_prompt": {
+    "en": "Mei asked. You used to be nervous when speaking Japanese. Now you're not. How do you answer?",
+    "ru": "Мэй спросила. Раньше вы нервничали, когда говорили по-японски. Теперь — нет. Что вы ответите?",
+    "zh": "小梅问了。你以前用日语说话时会紧张。现在不紧张了。你会怎么回答？",
+    "ja": "メイさんが、聞きました。あなたは、前は、日本語で話すとき、緊張していました。今は、緊張しません。何と答えますか？",
+    "romaji": "Mei-san ga, kikimashita. Anata wa, mae wa, nihongo de hanasu toki, kinchou shite imashita. Ima wa, kinchou shimasen. Nan to kotaemasu ka?"
+  },
+  "sl18.c3_natural": {
+    "en": "“Now I've stopped getting so nervous.”",
+    "ru": "«Теперь я почти перестал нервничать».",
+    "zh": "“现在我不怎么紧张了。”",
+    "ja": "「今は、あまり、緊張しなくなりました。」",
+    "romaji": "'Ima wa, amari, kinchou shinakunarimashita.'"
+  },
+  "sl18.c3_formal": {
+    "en": "“By now, I have come not to feel so much timidity.”",
+    "ru": "«К настоящему времени я перестал так робеть».",
+    "zh": "“如今，我已经不怎么胆怯了。”",
+    "ja": "「今では、それほど、気後れしなくなってまいりました。」",
+    "romaji": "'Ima de wa, sorehodo, ki'okure shinakunatte mairimashita.'"
+  },
+  "sl18.c3_mistake": {
+    "en": "“Now I've become not-nervous (with ni).”",
+    "ru": "«Теперь я стал не-нервничающим (с ни)».",
+    "zh": "“现在我变得不紧张にな了。”（ない后面用了に）",
+    "ja": "「今は、あまり、緊張しないになりました。」",
+    "romaji": "'Ima wa, amari, kinchou shinai ni narimashita.'"
+  },
+  "sl18.c3_own": {
+    "en": "“Now I've stopped getting so nervous. Talking with friends has become fun.”",
+    "ru": "«Теперь я почти перестал нервничать. Разговаривать с друзьями стало весело».",
+    "zh": "“现在我不怎么紧张了。和朋友聊天变得很开心。”",
+    "ja": "「今は、あまり、緊張しなくなりました。友達と話すのが、楽しくなりました。」",
+    "romaji": "'Ima wa, amari, kinchou shinakunarimashita. Tomodachi to hanasu no ga, tanoshikunarimashita.'"
+  },
+  "sl18.c3_min": {
+    "en": "“Now... nervous... don't...”",
+    "ru": "«Теперь… нервничать… не…»",
+    "zh": "“现在……紧张……不……”",
+    "ja": "「今は…緊張…しない…」",
+    "romaji": "'Ima wa... kinchou... shinai...'"
+  },
+  "sl18.p3_nat_mei": {
+    "en": "That's good. Once you get used to it, speaking becomes fun.",
+    "ru": "Хорошо. Когда привыкаешь, говорить становится весело.",
+    "zh": "太好了。习惯了之后，说话就变得开心了。",
+    "ja": "よかったですね。慣れると、話すのが、楽しくなりますよね。",
+    "romaji": "Yokatta desu ne. Nareru to, hanasu no ga, tanoshiku narimasu yo ne."
+  },
+  "sl18.p3_form_ken": {
+    "en": "Haha, that's so polite that I'm getting nervous. “Kinchou shinakunarimashita” is fine.",
+    "ru": "Ха-ха, так вежливо, что я сам начинаю нервничать. Достаточно «кинтё: синакунаримасита».",
+    "zh": "哈哈，太礼貌了，我都要紧张了。说「緊張しなくなりました」就行。",
+    "ja": "あはは、ていねいすぎて、ぼくは、緊張しそうです。「緊張しなくなりました」で、大丈夫です。",
+    "romaji": "Ahaha, teinei sugite, boku wa, kinchou shisou desu. 'Kinchou shinakunarimashita' de, daijoubu desu."
+  },
+  "sl18.p3_mis_tanaka": {
+    "en": "Close. Change the “i” of “shinai” to “ku” and say “shinakunarimashita.” You don't say “shinai ni narimashita.”",
+    "ru": "Почти. «И» в «синай» меняют на «ку» и говорят «синакунаримасита». Не говорят «синай ни наримасита».",
+    "zh": "很接近。把「しない」的「い」变成「く」，说「しなくなりました」。不说「しないになりました」。",
+    "ja": "惜しいです。「しない」の「い」を、「く」に変えて、「しなくなりました」と言います。「しないになりました」とは、言いません。",
+    "romaji": "Oshii desu. 'Shinai' no 'i' o, 'ku' ni kaete, 'shinakunarimashita' to iimasu. 'Shinai ni narimashita' to wa, iimasen."
+  },
+  "sl18.p3_mis_retry": {
+    "en": "Oh, now I've stopped getting so nervous.",
+    "ru": "Ой, теперь я почти перестал нервничать.",
+    "zh": "啊，现在我不怎么紧张了。",
+    "ja": "あっ、今は、あまり、緊張しなくなりました。",
+    "romaji": "A, ima wa, amari, kinchou shinakunarimashita."
+  },
+  "sl18.p3_mis_relief": {
+    "en": "Yes, that's it. You used “nakunaru” properly.",
+    "ru": "Да, именно так. Вы правильно использовали «накунару».",
+    "zh": "对，就是这个。「なくなる」你用得很好。",
+    "ja": "はい、それです。「なくなる」が、ちゃんと使えましたね。",
+    "romaji": "Hai, sore desu. 'Nakunaru' ga, chanto tsukaemashita ne."
+  },
+  "sl18.p3_own_mei": {
+    "en": "Talking with all of you has become fun for me too.",
+    "ru": "Мне тоже стало весело разговаривать со всеми вами.",
+    "zh": "我也觉得和大家聊天变得开心了。",
+    "ja": "わたしも、みなさんと話すのが、楽しくなりました。",
+    "romaji": "Watashi mo, minasan to hanasu no ga, tanoshikunarimashita."
+  },
+  "sl18.p3_min_yuki": {
+    "en": "Your feeling comes across. Try saying “kinchou shinakunarimashita.”",
+    "ru": "Ваше чувство понятно. Попробуйте сказать «кинтё: синакунаримасита».",
+    "zh": "你的心意能传达。试着说「緊張しなくなりました」。",
+    "ja": "気持ちは、伝わりますよ。「緊張しなくなりました」と、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu yo. 'Kinchou shinakunarimashita' to, itte mimashou."
+  },
+  "sl18.s4_intro": {
+    "en": "The last is “~ you ni suru.” It expresses your effort from now on. It means “I take care to do ~ regularly.”",
+    "ru": "Последнее — «~ ё: ни суру». Оно выражает ваши усилия в дальнейшем. Означает «я стараюсь всегда делать ~».",
+    "zh": "最后是「〜ようにする」。表示今后的努力。意思是“注意总是做〜”。",
+    "ja": "最後は、「〜ようにする」です。これからの、努力を言います。「いつも、〜するように、気をつける」という意味です。",
+    "romaji": "Saigo wa, '~ you ni suru' desu. Korekara no, doryoku o iimasu. 'Itsumo, ~ suru you ni, ki o tsukeru' to iu imi desu."
+  },
+  "sl18.s4_ex": {
+    "en": "I make an effort to speak Japanese every day. I'll make sure not to be late.",
+    "ru": "Я стараюсь говорить по-японски каждый день. Я постараюсь не опаздывать.",
+    "zh": "我努力做到每天说日语。我会注意不迟到。",
+    "ja": "毎日、日本語を話すようにしています。遅れないようにします。",
+    "romaji": "Mainichi, nihongo o hanasu you ni shite imasu. Okurenai you ni shimasu."
+  },
+  "sl18.s4_q1": {
+    "en": "Is it different from “~ koto ni suru”?",
+    "ru": "Отличается ли это от «~ кото ни суру»?",
+    "zh": "它和「〜ことにする」有区别吗？",
+    "ja": "「〜ことにする」とは、ちがいますか？",
+    "romaji": "'~ koto ni suru' to wa, chigaimasu ka?"
+  },
+  "sl18.s4_a1": {
+    "en": "Yes. “~ koto ni suru” means “to decide.” “Mainichi, benkyou suru koto ni shimashita” means “I decided.” “~ you ni suru” means “to make an effort so that it happens.”",
+    "ru": "Да. «~ кото ни суру» означает «решить». «Майнити, бэнкё суру кото ни симасита» означает «я решил». «~ ё: ни суру» означает «стараться, чтобы так и было».",
+    "zh": "有区别。「〜ことにする」是“决定”的意思。「毎日、勉強することにしました」是“决定了”。「〜ようにする」是“努力使其成为那样”的意思。",
+    "ja": "はい。「〜ことにする」は、「決める」という意味です。「毎日、勉強することにしました」は、「決めた」ということです。「〜ようにする」は、「そうなるように、努力する」という意味です。",
+    "romaji": "Hai. '~ koto ni suru' wa, 'kimeru' to iu imi desu. 'Mainichi, benkyou suru koto ni shimashita' wa, 'kimeta' to iu koto desu. '~ you ni suru' wa, 'sou naru you ni, doryoku suru' to iu imi desu."
+  },
+  "sl18.s4_q2": {
+    "en": "How do you say the negative?",
+    "ru": "Как сказать отрицание?",
+    "zh": "否定该怎么说？",
+    "ja": "否定は、どう言いますか？",
+    "romaji": "'Hitei wa, dou iimasu ka?"
+  },
+  "sl18.s4_a2": {
+    "en": "It's “~ nai you ni suru.” As in “okurenai you ni shimasu” and “wasurenai you ni shimasu,” it means “I take care not to do it.”",
+    "ru": "Это «~ най ё: ни суру». Например, «окурэнай ё: ни симас» и «васурэнай ё: ни симас» означают «я стараюсь этого не делать».",
+    "zh": "是「〜ないようにする」。如「遅れないようにします」「忘れないようにします」，表示“注意不要做”。",
+    "ja": "「〜ないようにする」です。「遅れないようにします」「忘れないようにします」のように、「しないように、気をつける」という意味です。",
+    "romaji": "'~ nai you ni suru' desu. 'Okurenai you ni shimasu' 'wasurenai you ni shimasu' no you ni, 'shinai you ni, ki o tsukeru' to iu imi desu."
+  },
+  "sl18.tanaka_future": {
+    "en": "From now on, how will you go about studying Japanese?",
+    "ru": "Как вы будете заниматься японским в дальнейшем?",
+    "zh": "今后你打算怎么学习日语？",
+    "ja": "これから、日本語の勉強を、どうしますか？",
+    "romaji": "Korekara, nihongo no benkyou o, dou shimasu ka?"
+  },
+  "sl18.p4_prompt": {
+    "en": "Tanaka-sensei asked. From now on, you want to be careful to speak Japanese every day. How do you answer?",
+    "ru": "Танака-сэнсэй спросил. В дальнейшем вы хотите стараться говорить по-японски каждый день. Что вы ответите?",
+    "zh": "田中老师问了。你今后想注意每天说日语。你会怎么回答？",
+    "ja": "田中先生が、聞きました。あなたは、これから、毎日、日本語を話すように、気をつけたいです。何と答えますか？",
+    "romaji": "Tanaka-sensei ga, kikimashita. Anata wa, korekara, mainichi, nihongo o hanasu you ni, ki o tsuketai desu. Nan to kotaemasu ka?"
+  },
+  "sl18.c4_natural": {
+    "en": "“I'll make an effort to speak Japanese every day.”",
+    "ru": "«Я буду стараться говорить по-японски каждый день».",
+    "zh": "“我会努力每天说日语。”",
+    "ja": "「毎日、日本語を、話すようにします。」",
+    "romaji": "'Mainichi, nihongo o, hanasu you ni shimasu.'"
+  },
+  "sl18.c4_formal": {
+    "en": "“It is my intention to strive to converse in Japanese each day.”",
+    "ru": "«Намерен ежедневно стремиться вести беседы на японском».",
+    "zh": "“我打算每日努力用日语交谈。”",
+    "ja": "「日々、日本語で会話するよう、努めてまいる所存でございます。」",
+    "romaji": "'Hibi, nihongo de kaiwa suru you, tsutomete mairu shozon de gozaimasu.'"
+  },
+  "sl18.c4_mistake": {
+    "en": "“I'll do speak-you Japanese every day.”",
+    "ru": "«Я буду ханасу-ё: японский каждый день».",
+    "zh": "“我每天日语话すようします。”（漏掉了に）",
+    "ja": "「毎日、日本語を、話すようします。」",
+    "romaji": "'Mainichi, nihongo o, hanasu you shimasu.'"
+  },
+  "sl18.c4_own": {
+    "en": "“I'll make an effort to speak Japanese every day. And I'll try not to make mistakes.”",
+    "ru": "«Я буду стараться говорить по-японски каждый день. И буду стараться не ошибаться».",
+    "zh": "“我会努力每天说日语。还有，我会注意不出错。”",
+    "ja": "「毎日、日本語を、話すようにします。それから、間違えないようにします。」",
+    "romaji": "'Mainichi, nihongo o, hanasu you ni shimasu. Sorekara, machigaenai you ni shimasu.'"
+  },
+  "sl18.c4_min": {
+    "en": "“Every day... speak... do...”",
+    "ru": "«Каждый день… говорить… делаю…»",
+    "zh": "“每天……说……做……”",
+    "ja": "「毎日…話す…します…」",
+    "romaji": "'Mainichi... hanasu... shimasu...'"
+  },
+  "sl18.p4_nat_tanaka": {
+    "en": "A wonderful attitude. That effort will lead to the next change.",
+    "ru": "Замечательный настрой. Эти усилия приведут к следующему изменению.",
+    "zh": "很好的心态。这份努力会带来下一个变化。",
+    "ja": "すばらしい心がけです。その努力が、次の変化に、つながりますよ。",
+    "romaji": "Subarashii kokorogake desu. Sono doryoku ga, tsugi no henka ni, tsunagarimasu yo."
+  },
+  "sl18.p4_form_mei": {
+    "en": "Ha, that sounds like a great resolution. “Hanasu you ni shimasu” is enough.",
+    "ru": "Ха-ха, как великое решение. Достаточно «ханасу ё: ни симас».",
+    "zh": "呵呵，像是一个宏大的决心。说「話すようにします」就足够了。",
+    "ja": "ふふ、大きな決意みたいです。「話すようにします」で、じゅうぶんですよ。",
+    "romaji": "Fufu, ookina ketsui mitai desu. 'Hanasu you ni shimasu' de, juubun desu yo."
+  },
+  "sl18.p4_mis_ken": {
+    "en": "Close. You need the “ni” in “you ni.” You say “hanasu you ni shimasu.”",
+    "ru": "Почти. Нужно «ни» в «ё: ни». Говорят «ханасу ё: ни симас».",
+    "zh": "很接近。「ように」里的「に」是必须的。说「話すようにします」。",
+    "ja": "惜しいです。「ように」の、「に」が必要です。「話すようにします」と言います。",
+    "romaji": "Oshii desu. 'You ni' no, 'ni' ga hitsuyou desu. 'Hanasu you ni shimasu' to iimasu."
+  },
+  "sl18.p4_mis_retry": {
+    "en": "Oh, I'll make an effort to speak Japanese every day.",
+    "ru": "Ой, я буду стараться говорить по-японски каждый день.",
+    "zh": "啊，我会努力每天说日语。",
+    "ja": "あっ、毎日、日本語を、話すようにします。",
+    "romaji": "A, mainichi, nihongo o, hanasu you ni shimasu."
+  },
+  "sl18.p4_mis_relief": {
+    "en": "Yes, that's it! The “ni” is in place.",
+    "ru": "Да, именно так! «Ни» на месте.",
+    "zh": "对，就是这个！「に」加进去了。",
+    "ja": "はい、それです！「に」が入りましたね。",
+    "romaji": "Hai, sore desu! 'Ni' ga hairimashita ne."
+  },
+  "sl18.p4_own_tanaka": {
+    "en": "Please don't be afraid of mistakes. Making mistakes is evidence that you're improving.",
+    "ru": "Не бойтесь ошибок. Ошибки — доказательство того, что вы прогрессируете.",
+    "zh": "请不要害怕犯错。犯错是你在进步的证明。",
+    "ja": "まちがいを、こわがらないでください。間違えるのは、上達している証拠です。",
+    "romaji": "Machigai o, kowagaranaide kudasai. Machigaeru no wa, joutatsu shite iru shouko desu."
+  },
+  "sl18.p4_min_yuki": {
+    "en": "I understand. Try saying it through: “mainichi, hanasu you ni shimasu.”",
+    "ru": "Понимаю. Скажите слитно: «майнити, ханасу ё: ни симас».",
+    "zh": "我明白。试着连起来说：「毎日、話すようにします」。",
+    "ja": "分かりますよ。「毎日、話すようにします」と、続けて、言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Mainichi, hanasu you ni shimasu' to, tsuzukete, itte mimashou."
+  },
+  "sl18.talk_open": {
+    "en": "Now let's talk. What has been the biggest change over this half year? Let's use today's forms.",
+    "ru": "Теперь поговорим. Какое самое большое изменение произошло за эти полгода? Давайте используем сегодняшние формы.",
+    "zh": "现在来聊聊。这半年里，最大的变化是什么？让我们用上今天学的句型。",
+    "ja": "では、話しましょう。この半年で、いちばん、大きな変化は、何ですか？今日の形を、使ってみましょう。",
+    "romaji": "Dewa, hanashimashou. Kono hantoshi de, ichiban, ookina henka wa, nan desu ka? Kyou no katachi o, tsukatte mimashou."
+  },
+  "sl18.talk_mei": {
+    "en": "For me, talking in Japanese has become fun. It's because I made friends.",
+    "ru": "Для меня стало весело болтать по-японски. Потому что у меня появились друзья.",
+    "zh": "我觉得用日语聊天变得开心了。因为交到了朋友。",
+    "ja": "わたしは、日本語で、しゃべるのが、楽しくなりました。友達が、できたからです。",
+    "romaji": "Watashi wa, nihongo de, shaberu no ga, tanoshikunarimashita. Tomodachi ga, dekita kara desu."
+  },
+  "sl18.talk_ken": {
+    "en": "I've come to be able to read a little kanji. I still make mistakes, but I make an effort to read every day.",
+    "ru": "Я научился немного читать иероглифы. Я всё ещё ошибаюсь, но стараюсь читать каждый день.",
+    "zh": "我现在能读一点汉字了。虽然还会出错，但我努力每天都读。",
+    "ja": "ぼくは、漢字が、少し読めるようになりました。まだ、まちがえますけど、毎日、読むようにしています。",
+    "romaji": "Boku wa, kanji ga, sukoshi yomeru you ni narimashita. Mada, machigaemasu kedo, mainichi, yomu you ni shite imasu."
+  },
+  "sl18.talk_yuki": {
+    "en": "I've come to understand customers' Japanese well. Work has become even more fun.",
+    "ru": "Я стала хорошо понимать японский язык посетителей. Работа стала ещё веселее.",
+    "zh": "我现在能很好地听懂客人的日语了。工作变得更开心了。",
+    "ja": "わたしは、お客さんの日本語が、よく分かるようになりました。仕事が、もっと楽しくなりました。",
+    "romaji": "Watashi wa, okyakusan no nihongo ga, yoku wakaru you ni narimashita. Shigoto ga, motto tanoshikunarimashita."
+  },
+  "sl18.talk_tanaka": {
+    "en": "Wonderful changes. The you in the photo from half a year ago and the you now are completely different.",
+    "ru": "Прекрасные изменения. Вы на фотографии полугодовой давности и вы сейчас — совершенно разные.",
+    "zh": "真是美好的变化。半年前照片里的大家和现在的大家，完全不一样了。",
+    "ja": "すてきな変化ですね。半年前の写真の、みなさんと、今のみなさんは、ぜんぜん、ちがいますよ。",
+    "romaji": "Suteki na henka desu ne. Hantoshi mae no shashin no, minasan to, ima no minasan wa, zenzen, chigaimasu yo."
+  },
+  "sl18.talk_player": {
+    "en": "(It's become interesting, I've become able to do it, I've stopped getting nervous, I make an effort to speak every day. When I put change into words, I feel a little proud of myself. I wonder what kind of person I'll be half a year from now.)",
+    "ru": "(Стало интересно, научился, перестал нервничать, стараюсь говорить каждый день. Когда выражаешь изменения словами, немного гордишься собой. Интересно, каким я стану через полгода.)",
+    "zh": "（变得有意思了、能做到了、不再紧张了、努力每天说话。把变化说出口，会对自己有一点自豪感。半年后的自己，会是什么样子呢。）",
+    "ja": "（おもしろくなった、できるようになった、緊張しなくなった、毎日話すようにする。変化を言葉にすると、自分が、少し誇らしくなる。半年後の自分は、どんな自分になっているだろう。）",
+    "romaji": "(Omoshirokunatta, dekiru you ni natta, kinchou shinakunatta, mainichi hanasu you ni suru. Henka o kotoba ni suru to, jibun ga, sukoshi hokorashiku naru. Hantoshi go no jibun wa, donna jibun ni natte iru darou.)"
+  },
+  "sl18.talk_close": {
+    "en": "Good lesson, everyone. In the next class, we'll study ways of saying you did something for someone or had something done for you, with “~ te ageru” and “~ te morau.”",
+    "ru": "Хороший урок, все. На следующем уроке мы изучим, как говорить, что вы что-то сделали для кого-то или что-то сделали для вас, с помощью «~ тэ агэру» и «~ тэ морау».",
+    "zh": "各位，这节课很棒。下节课我们用「〜てあげる」「〜てもらう」来学习为别人做事、请别人为自己做事的说法。",
+    "ja": "みなさん、いいレッスンでした。次の授業では、「〜てあげる」「〜てもらう」で、してあげたり、してもらったりする、言い方を勉強しましょう。",
+    "romaji": "Minasan, ii ressun deshita. Tsugi no jugyou de wa, '~ te ageru' '~ te morau' de, shite agetari, shite morattari suru, iikata o benkyou shimashou."
+  },
+  "sl18.complete": {
+    "en": "End of Sentence Lesson 18.",
+    "ru": "Конец урока предложений 18.",
+    "zh": "句型课 18 结束。",
+    "ja": "文型レッスン18、おわり。",
+    "romaji": "Bunkei ressun juuhachi, owari."
+  }
+}

@@ -1,0 +1,968 @@
+{
+  "vl16.title": {
+    "en": "The Diner's Thirtieth Year",
+    "ru": "Тридцатый год закусочной",
+    "zh": "开业第三十年的食堂",
+    "ja": "三十年目の食堂",
+    "romaji": "Sanjuunenme no shokudou"
+  },
+  "vl16.subtitle": {
+    "en": "On the Night a Regular's Place Closes",
+    "ru": "В вечер закрытия любимого заведения",
+    "zh": "常去的店即将关门的夜晚",
+    "ja": "常連の店が、閉店する夜に",
+    "romaji": "Jouren no mise ga, heiten suru yoru ni"
+  },
+  "vl16.description": {
+    "en": "On the last night of the small diner Tanaka-sensei kept visiting, practise ten words about shops and getting along with people.",
+    "ru": "В последний вечер маленькой закусочной, куда постоянно ходил Танака-сэнсэй, потренируйте десять слов о заведениях и отношениях между людьми.",
+    "zh": "在田中老师一直光顾的小食堂的最后一晚，练习十个关于店铺与人际相处的词。",
+    "ja": "田中先生が通い続けた小さな食堂の最後の夜に、お店と人づきあいに関する十の言葉を練習します。",
+    "romaji": "Tanaka-sensei ga kayoitsuzuketa chiisana shokudou no saigo no yoru ni, omise to hitozukiai ni kansuru juu no kotoba o renshuu shimasu."
+  },
+  "vl16.setup": {
+    "en": "Evening. Tanaka-sensei has brought everyone to a small diner behind the station. “Sakura Shokudou.” An old noren curtain hangs at the entrance.",
+    "ru": "Вечер. Танака-сэнсэй привёл всех в небольшую закусочную за вокзалом. «Сакура сёкудо:». У входа висит старая занавеска норэн.",
+    "zh": "傍晚。田中老师带大家来到了车站后面的一家小食堂。“樱食堂”。门口挂着旧的暖帘。",
+    "ja": "夕方。田中先生は、みんなを、駅の裏の、小さな食堂に、連れてきた。「さくら食堂」。古い、のれんが、かかっている。",
+    "romaji": "Yuugata. Tanaka-sensei wa, minna o, eki no ura no, chiisana shokudou ni, tsurete kita. 'Sakura shokudou'. Furui, noren ga, kakatte iru."
+  },
+  "vl16.t_intro": {
+    "en": "This is a place I've been going to for twenty years. Today let's study some grown-up Japanese in this shop.",
+    "ru": "Это заведение, куда я хожу уже двадцать лет. Сегодня давайте изучим немного взрослого японского в этой закусочной.",
+    "zh": "这是我光顾了二十年的店。今天我们就在这家店里学一些成年人的日语。",
+    "ja": "ここは、私が、二十年、通っている店です。今日は、この店で、少し、大人の日本語を、勉強しましょう。",
+    "romaji": "Koko wa, watashi ga, nijuunen, kayotte iru mise desu. Kyou wa, kono mise de, sukoshi, otona no nihongo o, benkyou shimashou."
+  },
+  "vl16.w1": {
+    "en": "I'm a “jouren” of this shop. A “jouren” is a customer who has come to that shop many times. The staff remember their face too.",
+    "ru": "Я — «дзё:рэн» этого заведения. «Дзё:рэн» — клиент, который приходил в это заведение много раз. Персонал тоже помнит его в лицо.",
+    "zh": "我是这家店的「常連」。「常連」是多次光顾同一家店的客人。店里的人也记得他的长相。",
+    "ja": "私は、この店の「常連」です。「常連」は、その店に、何度も、通っている客のことです。店の人も、顔を、覚えています。",
+    "romaji": "Watashi wa, kono mise no 'jouren' desu. 'Jouren' wa, sono mise ni, nando mo, kayotte iru kyaku no koto desu. Mise no hito mo, kao o, oboete imasu."
+  },
+  "vl16.w1_q": {
+    "en": "Are “jouren” and “okyaku-san” different?",
+    "ru": "«Дзё:рэн» и «окякуса́н» отличаются?",
+    "zh": "「常連」和「お客さん」有区别吗？",
+    "ja": "「常連」と「お客さん」は、ちがいますか？",
+    "romaji": "'Jouren' to 'okyaku-san' wa, chigaimasu ka?"
+  },
+  "vl16.w1_a": {
+    "en": "Yes. “Okyaku-san” is everyone who comes to a shop. “Jouren” is a special customer among them who comes often. You can also call them “jouren-san.”",
+    "ru": "Да. «Окякуса́н» — это все, кто приходит в заведение. «Дзё:рэн» — особый клиент среди них, который приходит часто. Также можно сказать «дзё:рэн-сан».",
+    "zh": "是的。「お客さん」是来店的所有人。「常連」是其中常来的特别客人。也可以称作「常連さん」。",
+    "ja": "はい。「お客さん」は、店に来た、すべての人です。「常連」は、その中で、よく来る、特別な客です。「常連さん」と、呼ぶこともあります。",
+    "romaji": "Hai. 'Okyaku-san' wa, mise ni kita, subete no hito desu. 'Jouren' wa, sono naka de, yoku kuru, tokubetsu na kyaku desu. 'Jouren-san' to, yobu koto mo arimasu."
+  },
+  "vl16.p1_prompt": {
+    "en": "The shop's owner asks, “Is this your first time today?” You like this place. You want to come again and become a “jouren.” What do you say?",
+    "ru": "Владелец заведения спрашивает: «Вы сегодня впервые?» Вам понравилось это место. Вы хотите приходить снова и стать «дзё:рэн». Что вы скажете?",
+    "zh": "店主问：“今天是第一次来吗？”你很喜欢这家店。你想再来，成为「常連」。你会怎么说？",
+    "ja": "店の、マスターが、聞きました。「今日は、はじめてですか？」あなたは、この店が、気に入りました。また来て、「常連」に、なりたいです。何と言いますか？",
+    "romaji": "Mise no, masutaa ga, kikimashita. 'Kyou wa, hajimete desu ka?' Anata wa, kono mise ga, ki ni irimashita. Mata kite, 'jouren' ni, naritai desu. Nan to iimasu ka?"
+  },
+  "vl16.c1_natural": {
+    "en": "“Yes, it's my first time. It's a very nice place. I'd like to come again and become a regular.”",
+    "ru": "«Да, впервые. Очень хорошее заведение. Хочу прийти снова и стать постоянным клиентом».",
+    "zh": "“是的，第一次来。这家店很好。我想再来，成为常客。”",
+    "ja": "「はい、はじめてです。とても、いい店ですね。また来て、常連に、なりたいです。」",
+    "romaji": "'Hai, hajimete desu. Totemo, ii mise desu ne. Mata kite, jouren ni, naritai desu.'"
+  },
+  "vl16.c1_formal": {
+    "en": "“It is a truly splendid establishment. I should like to be favored as your patron.”",
+    "ru": "«Это поистине прекрасное заведение. Я хотел бы удостоиться вашего покровительства».",
+    "zh": "“此店实在是绝佳之处。愿蒙照顾，成为常客。”",
+    "ja": "「まこと、結構なお店で、ございます。ご贔屓に、預かりたく存じます。」",
+    "romaji": "'Makoto, kekkou na omise de, gozaimasu. Gohiiki ni, azukaritaku zonjimasu.'"
+  },
+  "vl16.c1_mistake": {
+    "en": "“Yes, first time. I want to come again and become (o) a regular.”",
+    "ru": "«Да, впервые. Хочу прийти снова и стать (о) постоянным клиентом».",
+    "zh": "“是的，第一次来。想再来，常連を，成为。”（应该用「に」）",
+    "ja": "「はい、はじめてです。また来て、常連を、なりたいです。」",
+    "romaji": "'Hai, hajimete desu. Mata kite, jouren o, naritai desu.'"
+  },
+  "vl16.c1_own": {
+    "en": "“Yes, first time. This oden is delicious. I'd like to come again and become a regular.”",
+    "ru": "«Да, впервые. Этот одэн очень вкусный. Хочу прийти снова и стать постоянным клиентом».",
+    "zh": "“是的，第一次来。这个关东煮很好吃。我想再来，成为常客。”",
+    "ja": "「はい、はじめてです。この、おでんが、おいしいですね。また来て、常連に、なりたいです。」",
+    "romaji": "'Hai, hajimete desu. Kono, oden ga, oishii desu ne. Mata kite, jouren ni, naritai desu.'"
+  },
+  "vl16.c1_min": {
+    "en": "“Yes... regular...”",
+    "ru": "«Да… постоянный клиент…»",
+    "zh": "“是……常客……”",
+    "ja": "「はい…常連…」",
+    "romaji": "'Hai... jouren...'"
+  },
+  "vl16.p1_natural_r": {
+    "en": "Nice. If you say “jouren ni, naru,” the staff will be happy too.",
+    "ru": "Хорошо. Если сказать «дзё:рэн ни, нару», персонал тоже обрадуется.",
+    "zh": "不错。说「常連に、なる」，店里的人也会高兴。",
+    "ja": "いいですね。「常連に、なる」と言えば、店の人も、うれしいです。",
+    "romaji": "Ii desu ne. 'Jouren ni, naru' to ieba, mise no hito mo, ureshii desu."
+  },
+  "vl16.p1_formal_r": {
+    "en": "Ha, you sound like the head of a shopping-street company. “Jouren ni, naritai desu” is fine.",
+    "ru": "Ха-ха, как директор торговой улицы. Достаточно «дзё:рэн ни, наритай дэс».",
+    "zh": "呵呵，像商店街的社长一样。说「常連に、なりたいです」就行。",
+    "ja": "ふふ、商店街の、社長さんみたいです。「常連に、なりたいです」で、いいですよ。",
+    "romaji": "Fufu, shoutengai no, shachou-san mitai desu. 'Jouren ni, naritai desu' de, ii desu yo."
+  },
+  "vl16.p1_mistake_r": {
+    "en": "Close. “Naru” goes with “ni.” It's “jouren ni, naritai desu.” “O” isn't used.",
+    "ru": "Почти. «Нару» используется с «ни». Получается «дзё:рэн ни, наритай дэс». «О» не используют.",
+    "zh": "很接近。「なる」要和「に」一起用。说「常連に、なりたいです」。不用「を」。",
+    "ja": "惜しいです。「なる」は、「に」と使います。「常連に、なりたいです」です。「を」は、使いません。",
+    "romaji": "Oshii desu. 'Naru' wa, 'ni' to tsukaimasu. 'Jouren ni, naritai desu' desu. 'O' wa, tsukaimasen."
+  },
+  "vl16.p1_mis_retry": {
+    "en": "Yes, first time. I want to come again and become a regular.",
+    "ru": "Да, впервые. Хочу прийти снова и стать постоянным клиентом.",
+    "zh": "是的，第一次来。想再来，成为常客。",
+    "ja": "はい、はじめてです。また来て、常連に、なりたいです。",
+    "romaji": "Hai, hajimete desu. Mata kite, jouren ni, naritai desu."
+  },
+  "vl16.p1_mis_relief": {
+    "en": "Yes, that's it. “Ni” connects what you want to become.",
+    "ru": "Да, именно так. «Ни» связывает то, кем вы хотите стать.",
+    "zh": "对，就是这个。「に」连接了想成为的对象。",
+    "ja": "はい、それです。「に」で、なりたいものが、つながります。",
+    "romaji": "Hai, sore desu. 'Ni' de, naritai mono ga, tsunagarimasu."
+  },
+  "vl16.p1_own_r": {
+    "en": "What a happy thing to say. The owner is smiling too.",
+    "ru": "Как приятно это слышать. Владелец тоже улыбается.",
+    "zh": "你说了让人高兴的话呢。店主也笑了。",
+    "ja": "うれしいことを、言ってくれますね。マスターも、笑っています。",
+    "romaji": "Ureshii koto o, itte kuremasu ne. Masutaa mo, waratte imasu."
+  },
+  "vl16.p1_min_r": {
+    "en": "Your meaning comes across. Try saying “jouren ni, naritai desu.”",
+    "ru": "Ваше желание понятно. Скажите «дзё:рэн ни, наритай дэс».",
+    "zh": "你的意思能传达。试着说「常連に、なりたいです」。",
+    "ja": "気持ちは、伝わります。「常連に、なりたいです」と、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Jouren ni, naritai desu' to, itte mimashou."
+  },
+  "vl16.master": {
+    "en": "The owner is a kindly-looking old man of about seventy. Faded photographs hang on the wall.",
+    "ru": "Владелец — добродушный на вид старик лет семидесяти. На стене висят выцветшие фотографии.",
+    "zh": "店主是一位七十岁左右、看起来和蔼的老人。墙上挂着褪了色的照片。",
+    "ja": "マスターは、七十歳くらいの、やさしそうな、おじいさんだ。壁には、色あせた、写真が、かかっている。",
+    "romaji": "Masutaa wa, nanajussai kurai no, yasashisou na, ojiisan da. Kabe ni wa, iroaseta, shashin ga, kakatte iru."
+  },
+  "vl16.w2": {
+    "en": "The owner “kaigyou”-ed, opened, this shop thirty years ago. “Kaigyou” means starting a new shop or business. It's used as in “kaigyou suru” or “kaigyoui.”",
+    "ru": "Владелец «кайгё:» — открыл это заведение тридцать лет назад. «Кайгё:» — начать новое дело или бизнес. Используется, например, в «кайгё: суру» и «кайгёи».",
+    "zh": "店主三十年前「開業」了这家店。「開業」是开始新的店铺或事业。用法如「開業する」「開業医」。",
+    "ja": "マスターは、三十年前に、この店を「開業」しました。「開業」は、新しい店や、仕事を、始めることです。「開業する」「開業医」のように、使います。",
+    "romaji": "Masutaa wa, sanjuunen mae ni, kono mise o 'kaigyou' shimashita. 'Kaigyou' wa, atarashii mise ya, shigoto o, hajimeru koto desu. 'Kaigyou suru' 'kaigyoui' no you ni, tsukaimasu."
+  },
+  "vl16.w2_q": {
+    "en": "Are “kaigyou” and “oopun” the same?",
+    "ru": "«Кайгё:» и «о:пун» — одно и то же?",
+    "zh": "「開業」和「オープン」一样吗？",
+    "ja": "「開業」と「オープン」は、同じですか？",
+    "romaji": "'Kaigyou' to 'oopun' wa, onaji desu ka?"
+  },
+  "vl16.w2_a": {
+    "en": "Almost the same. “Kaigyou” means starting a business or enterprise and is a slightly stiffer word. “Oopun” can also be used for a shop opening on that day.",
+    "ru": "Почти одинаково. «Кайгё:» означает начало дела или предприятия и звучит несколько более формально. «О:пун» также можно использовать для открытия заведения в тот день.",
+    "zh": "几乎相同。「開業」意为开始工作或事业，稍微书面一些。「オープン」也可以指当天开门营业。",
+    "ja": "ほとんど、同じです。「開業」は、仕事や、事業を始める意味で、少し、かたい言葉です。「オープン」は、その日に、店が、開くことにも、使います。",
+    "romaji": "Hotondo, onaji desu. 'Kaigyou' wa, shigoto ya, jigyou o hajimeru imi de, sukoshi, katai kotoba desu. 'Oopun' wa, sono hi ni, mise ga, hiraku koto ni mo, tsukaimasu."
+  },
+  "vl16.news": {
+    "en": "The owner slowly began to speak. “Actually, I'm thinking of closing the shop at the end of next month.”",
+    "ru": "Владелец медленно начал говорить. «Вообще-то, я думаю закрыть заведение в конце следующего месяца».",
+    "zh": "店主缓缓开口。“其实，我打算下个月关掉这家店。”",
+    "ja": "マスターが、ゆっくり、話し始めた。「実は、来月で、店を、閉めようと思っています。」",
+    "romaji": "Masutaa ga, yukkuri, hanashihajimeta. 'Jitsu wa, raigetsu de, mise o, shimeyou to omotte imasu.'"
+  },
+  "vl16.w3": {
+    "en": "When a shop ends its business, it's called “heiten,” closing. You say “heiten suru.” “Heiten jikan” is the time the day's business ends.",
+    "ru": "Когда заведение прекращает работу, это называют «хэйтэн» — закрытие. Говорят «хэйтэн суру». «Хэйтэн дзикан» — время окончания работы в этот день.",
+    "zh": "店铺结束营业，叫「閉店」。说「閉店する」。「閉店時間」指当天营业结束的时间。",
+    "ja": "お店が、営業を、終わりにすることを、「閉店」と言います。「閉店する」と言います。「閉店時間」は、その日の、営業が終わる、時間のことです。",
+    "romaji": "Omise ga, eigyou o, owari ni suru koto o, 'heiten' to iimasu. 'Heiten suru' to iimasu. 'Heiten jikan' wa, sono hi no, eigyou ga owaru, jikan no koto desu."
+  },
+  "vl16.w3_q": {
+    "en": "Why is it closing?",
+    "ru": "Почему оно закрывается?",
+    "zh": "为什么要闭店呢？",
+    "ja": "どうして、閉店するのですか？",
+    "romaji": "Doushite, heiten suru no desu ka?"
+  },
+  "vl16.w3_a": {
+    "en": "The owner says, “Because the yachin went up.” “Yachin” is the money you pay every month to rent a room or a shop. The shop's rent has become very high.",
+    "ru": "Владелец говорит: «Потому что арендная плата поднялась». «Ятин» — деньги, которые ежемесячно платят за аренду комнаты или заведения. Арендная плата за заведение стала очень высокой.",
+    "zh": "店主说：“因为房租涨了。”「家賃」是为了租房或租店面，每月支付的钱。这家店的房租变得很高。",
+    "ja": "マスターは、「家賃が、上がったから」と、言っています。「家賃」は、部屋や、店を、借りるために、毎月、払うお金です。店の家賃は、とても高くなりました。",
+    "romaji": "Masutaa wa, 'yachin ga, agatta kara' to, itte imasu. 'Yachin' wa, heya ya, mise o, kariru tame ni, maitsuki, harau okane desu. Mise no yachin wa, totemo takaku narimashita."
+  },
+  "vl16.p2_prompt": {
+    "en": "Hearing the owner's story, you feel sad. You want to say “It's a pity that it's closing.” What do you say?",
+    "ru": "Услышав слова владельца, вам стало грустно. Вы хотите сказать «жаль, что оно закрывается». Что вы скажете?",
+    "zh": "听了店主的话，你很难过。你想表达“店要关门了，真遗憾”。你会怎么说？",
+    "ja": "マスターの話を、聞いて、あなたは、悲しくなりました。「閉店するのは、残念です」と、伝えたいです。何と言いますか？",
+    "romaji": "Masutaa no hanashi o, kiite, anata wa, kanashiku narimashita. 'Heiten suru no wa, zannen desu' to, tsutaetai desu. Nan to iimasu ka?"
+  },
+  "vl16.c2_natural": {
+    "en": "“It's a pity that it's closing. Even though it's such a delicious place.”",
+    "ru": "«Жаль, что оно закрывается. Ведь это такое вкусное заведение».",
+    "zh": "“要闭店了，真遗憾。明明是家这么好吃的店。”",
+    "ja": "「閉店するのは、残念です。おいしい店なのに。」",
+    "romaji": "'Heiten suru no wa, zannen desu. Oishii mise na no ni.'"
+  },
+  "vl16.c2_formal": {
+    "en": "“To hear of your closing is truly a matter of utmost regret.”",
+    "ru": "«Узнав о закрытии, испытываю крайнее сожаление».",
+    "zh": "“得知闭店，实在深表遗憾之至。”",
+    "ja": "「ご閉店の由、まことに、残念至極に、存じます。」",
+    "romaji": "'Gohetten no yoshi, makoto ni, zannen shigoku ni, zonjimasu.'"
+  },
+  "vl16.c2_mistake": {
+    "en": "“(It) closes is a pity.”",
+    "ru": "«Закрывается — это жаль».",
+    "zh": "“閉店しますは，遗憾。”（应该用「閉店するのは」）",
+    "ja": "「閉店しますは、残念です。」",
+    "romaji": "'Heiten shimasu wa, zannen desu.'"
+  },
+  "vl16.c2_own": {
+    "en": "“It's a pity that it's closing. I made so many memories here.”",
+    "ru": "«Жаль, что оно закрывается. Я создал здесь много воспоминаний».",
+    "zh": "“要闭店了，真遗憾。我在这里创造了很多回忆。”",
+    "ja": "「閉店するのは、残念です。ここで、たくさん、思い出を、作りました。」",
+    "romaji": "'Heiten suru no wa, zannen desu. Koko de, takusan, omoide o, tsukurimashita.'"
+  },
+  "vl16.c2_min": {
+    "en": "“Closing... pity...”",
+    "ru": "«Закрытие… жаль…»",
+    "zh": "“闭店……遗憾……”",
+    "ja": "「閉店…残念…」",
+    "romaji": "'Heiten... zannen...'"
+  },
+  "vl16.p2_natural_r": {
+    "en": "Thank you. The owner must be happy too.",
+    "ru": "Спасибо. Владелец, наверняка, тоже рад.",
+    "zh": "谢谢。店主一定也很高兴。",
+    "ja": "ありがとう。マスターも、きっと、うれしいです。",
+    "romaji": "Arigatou. Masutaa mo, kitto, ureshii desu."
+  },
+  "vl16.p2_formal_r": {
+    "en": "Haha, it sounds like a letter. “Heiten suru no wa, zannen desu” is fine.",
+    "ru": "Ха-ха, как в письме. Достаточно «хэйтэн суру но ва, дзаннэн дэс».",
+    "zh": "哈哈，像信件一样。说「閉店するのは、残念です」就行。",
+    "ja": "あはは、手紙みたいです。「閉店するのは、残念です」で、いいですよ。",
+    "romaji": "Ahaha, tegami mitai desu. 'Heiten suru no wa, zannen desu' de, ii desu yo."
+  },
+  "vl16.p2_mistake_r": {
+    "en": "Close. When placing a verb before “wa,” add “no” and use the plain form. It's “heiten suru no wa, zannen desu.”",
+    "ru": "Почти. Когда глагол ставится перед «ва», добавляют «но» и используют простую форму. Получается «хэйтэн суру но ва, дзаннэн дэс».",
+    "zh": "很接近。在「は」前面放动词时，要加「の」并使用简体。说「閉店するのは、残念です」。",
+    "ja": "惜しいです。「は」の前に、動詞を、置くときは、「の」を、つけて、普通形にします。「閉店するのは、残念です」です。",
+    "romaji": "Oshii desu. 'Wa' no mae ni, doushi o, oku toki wa, 'no' o, tsukete, futsuukei ni shimasu. 'Heiten suru no wa, zannen desu' desu."
+  },
+  "vl16.p2_mis_retry": {
+    "en": "It's a pity that it's closing.",
+    "ru": "Жаль, что оно закрывается.",
+    "zh": "要闭店了，真遗憾。",
+    "ja": "閉店するのは、残念です。",
+    "romaji": "Heiten suru no wa, zannen desu."
+  },
+  "vl16.p2_mis_relief": {
+    "en": "Yes, that's it. “No” made the verb work like a noun.",
+    "ru": "Да, именно так. «Но» сделало глагол похожим на существительное.",
+    "zh": "对，就是这个。「の」让动词起到了名词的作用。",
+    "ja": "はい、それです。「の」で、動詞が、名詞のように、なりました。",
+    "romaji": "Hai, sore desu. 'No' de, doushi ga, meishi no you ni, narimashita."
+  },
+  "vl16.p2_own_r": {
+    "en": "Being told that must make the owner happy.",
+    "ru": "Услышав это, владелец, наверное, обрадуется.",
+    "zh": "被这样说，店主也会很高兴呢。",
+    "ja": "そう言われると、マスターも、うれしいですね。",
+    "romaji": "Sou iwareru to, masutaa mo, ureshii desu ne."
+  },
+  "vl16.p2_min_r": {
+    "en": "Your feeling comes across. Let's say it through: “heiten suru no wa, zannen desu.”",
+    "ru": "Ваше чувство понятно. Скажем слитно: «хэйтэн суру но ва, дзаннэн дэс».",
+    "zh": "你的心情能传达。连起来说：「閉店するのは、残念です」。",
+    "ja": "気持ちは、伝わります。「閉店するのは、残念です」と、続けて、言いましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Heiten suru no wa, zannen desu' to, tsuzukete, iimashou."
+  },
+  "vl16.bill": {
+    "en": "On the last night, everyone ate slowly together. Then it was time to pay.",
+    "ru": "В последний вечер все неспешно поели вместе. Пришло время платить.",
+    "zh": "最后一晚，大家一起慢慢地吃了饭。到了结账的时间。",
+    "ja": "最後の夜は、みんなで、ゆっくり、食べた。会計の時間に、なった。",
+    "romaji": "Saigo no yoru wa, minna de, yukkuri, tabeta. Kaikei no jikan ni, natta."
+  },
+  "vl16.w4": {
+    "en": "Splitting the cost of a meal equally among the number of people is called “warikan.” You say “warikan ni, suru.”",
+    "ru": "Разделить стоимость еды поровну между всеми участниками называется «варикан». Говорят «варикан ни, суру».",
+    "zh": "把大家一起吃饭的钱按人数平均分摊，叫「割り勘」。说「割り勘に、する」。",
+    "ja": "みんなで、食べたお金を、人数で、同じように、分けることを、「割り勘」と言います。「割り勘に、する」と、言います。",
+    "romaji": "Minna de, tabeta okane o, ninzuu de, onaji you ni, wakeru koto o, 'warikan' to iimasu. 'Warikan ni, suru' to, iimasu."
+  },
+  "vl16.w4_q": {
+    "en": "In Japan, is warikan more common than treating?",
+    "ru": "В Японии «варикан» обычнее, чем угощать?",
+    "zh": "在日本，比起请客，AA制更常见吗？",
+    "ja": "日本では、おごるより、割り勘が、ふつうですか？",
+    "romaji": "Nihon de wa, ogoru yori, warikan ga, futsuu desu ka?"
+  },
+  "vl16.w4_a": {
+    "en": "Among friends or people of equal standing, warikan is common. A senior person sometimes treats. “Warikan” is one way to pay comfortably.",
+    "ru": "Между друзьями или людьми равного положения «варикан» — обычное дело. Иногда старший угощает. «Варикан» — один из способов платить, не испытывая неловкости.",
+    "zh": "朋友之间或同等地位的人之间，AA制比较多。有时也有上位者请客。「割り勘」是让大家愉快付款的一种方法。",
+    "ja": "友達同士や、同じ立場の人とは、割り勘が、多いです。目上の人が、おごることも、あります。「割り勘」は、気持ちよく、払うための、ひとつの方法です。",
+    "romaji": "Tomodachi doushi ya, onaji tachiba no hito to wa, warikan ga, ooi desu. Meue no hito ga, ogoru koto mo, arimasu. 'Warikan' wa, kimochi yoku, harau tame no, hitotsu no houhou desu."
+  },
+  "vl16.p3_prompt": {
+    "en": "The total bill is six thousand yen. Four people ate. You want everyone to pay the same amount. What do you say?",
+    "ru": "Общий счёт — шесть тысяч иен. Ели четверо. Вы хотите, чтобы все заплатили одинаковую сумму. Что вы скажете?",
+    "zh": "账单一共六千日元。四个人吃的。你想让大家平摊付款。你会怎么说？",
+    "ja": "お会計は、全部で、六千円です。四人で、食べました。あなたは、みんなで、同じ金額を、払いたいです。何と言いますか？",
+    "romaji": "Okaikei wa, zenbu de, rokusen'en desu. Yonin de, tabemashita. Anata wa, minna de, onaji kingaku o, haraitai desu. Nan to iimasu ka?"
+  },
+  "vl16.c3_natural": {
+    "en": "“Let's split it evenly. That's fifteen hundred yen each.”",
+    "ru": "«Давайте разделим поровну. Получается по полторы тысячи иен с человека».",
+    "zh": "“我们AA吧。每人一千五百日元。”",
+    "ja": "「割り勘に、しましょう。一人、千五百円ですね。」",
+    "romaji": "'Warikan ni, shimashou. Hitori, sen gohyaku en desu ne.'"
+  },
+  "vl16.c3_formal": {
+    "en": "“Pardon me, but might I ask that we each pay an equal share?”",
+    "ru": "«Прошу прощения, не могли бы мы оплатить счёт поровну?»",
+    "zh": "“恕我冒昧，可否请各位平摊付款？”",
+    "ja": "「恐縮ながら、頭割りにて、お支払いを、いただけますでしょうか。」",
+    "romaji": "'Kyoushuku nagara, atamawari nite, oshiharai o, itadakemasu deshou ka.'"
+  },
+  "vl16.c3_mistake": {
+    "en": "“Let's become warikan.”",
+    "ru": "«Давайте станем варикан».",
+    "zh": "“割り勘に、なりましょう。”（应该用「する」）",
+    "ja": "「割り勘に、なりましょう。」",
+    "romaji": "'Warikan ni, narimashou.'"
+  },
+  "vl16.c3_own": {
+    "en": "“Let's split it evenly. It's fifteen hundred yen each. Let's tell the owner, ‘thank you very much.’”",
+    "ru": "«Давайте разделим поровну. По полторы тысячи иен. Скажем владельцу „большое спасибо“».",
+    "zh": "“我们AA吧。每人一千五百日元。我们向店主说声‘谢谢’吧。”",
+    "ja": "「割り勘に、しましょう。一人、千五百円です。マスターに、ありがとうございましたと、言いましょう。」",
+    "romaji": "'Warikan ni, shimashou. Hitori, sen gohyaku en desu. Masutaa ni, arigatou gozaimashita to, iimashou.'"
+  },
+  "vl16.c3_min": {
+    "en": "“Warikan... let's...”",
+    "ru": "«Варикан… давайте…»",
+    "zh": "“AA……吧……”",
+    "ja": "「割り勘…しよう…」",
+    "romaji": "'Warikan... shiyou...'"
+  },
+  "vl16.p3_natural_r": {
+    "en": "Yes, good. You also calculated quickly.",
+    "ru": "Да, хорошо. Вы ещё и быстро посчитали.",
+    "zh": "对，很好。计算也很快。",
+    "ja": "はい、いいですね。計算も、すぐ、できました。",
+    "romaji": "Hai, ii desu ne. Keisan mo, sugu, dekimashita."
+  },
+  "vl16.p3_formal_r": {
+    "en": "Ha, that's stiff. “Warikan ni, shimashou” is enough.",
+    "ru": "Ха-ха, слишком формально. Достаточно «варикан ни, симасё:».",
+    "zh": "呵呵，太生硬了。说「割り勘に、しましょう」就足够了。",
+    "ja": "ふふ、かたいです。「割り勘に、しましょう」で、じゅうぶんです。",
+    "romaji": "Fufu, katai desu. 'Warikan ni, shimashou' de, juubun desu."
+  },
+  "vl16.p3_mistake_r": {
+    "en": "Close. For things you decide yourselves, use “suru.” It's “warikan ni, shimashou.” “Naru” is for when it naturally turns out that way.",
+    "ru": "Почти. Для того, что вы решаете сами, используют «суру». Получается «варикан ни, симасё:». «Нару» — когда всё естественным образом становится так.",
+    "zh": "很接近。自己决定的事用「する」。说「割り勘に、しましょう」。「なる」是自然变成那样时用的。",
+    "ja": "惜しいです。自分たちで、決めることは、「する」です。「割り勘に、しましょう」です。「なる」は、自然に、そうなるときです。",
+    "romaji": "Oshii desu. Jibuntachi de, kimeru koto wa, 'suru' desu. 'Warikan ni, shimashou' desu. 'Naru' wa, shizen ni, sou naru toki desu."
+  },
+  "vl16.p3_mis_retry": {
+    "en": "Let's split it evenly.",
+    "ru": "Давайте разделим поровну.",
+    "zh": "我们AA吧。",
+    "ja": "割り勘に、しましょう。",
+    "romaji": "Warikan ni, shimashou."
+  },
+  "vl16.p3_mis_relief": {
+    "en": "Yes, that's it. “Suru” gives the sense of a decision.",
+    "ru": "Да, именно так. «Суру» передаёт ощущение принятого решения.",
+    "zh": "对，就是这个。用「する」有做决定的感觉。",
+    "ja": "はい、それです。「する」で、決めた感じが、出ます。",
+    "romaji": "Hai, sore desu. 'Suru' de, kimeta kanji ga, demasu."
+  },
+  "vl16.p3_own_r": {
+    "en": "Nice. The final greeting is important too.",
+    "ru": "Хорошо. Последнее приветствие тоже важно.",
+    "zh": "不错。最后的问候也很重要。",
+    "ja": "いいですね。最後の、あいさつも、大切です。",
+    "romaji": "Ii desu ne. Saigo no, aisatsu mo, taisetsu desu."
+  },
+  "vl16.p3_min_r": {
+    "en": "Your meaning comes across. Let's say it politely: “warikan ni, shimashou.”",
+    "ru": "Ваше желание понятно. Скажем вежливо: «варикан ни, симасё:».",
+    "zh": "你的意思能传达。要礼貌地说：「割り勘に、しましょう」。",
+    "ja": "気持ちは、伝わります。「割り勘に、しましょう」と、ていねいに、言いましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Warikan ni, shimashou' to, teinei ni, iimashou."
+  },
+  "vl16.dessert": {
+    "en": "When the bill was settled, the owner placed a small box of sweets on the table. “Since it's the last night, I'd like to give you all this.”",
+    "ru": "Когда счёт был оплачен, владелец поставил на стол небольшую коробку сладостей. «Раз уж это последний вечер, я хочу подарить это вам всем».",
+    "zh": "结完账，店主把一小盒点心放在桌上。“因为是最后一晚，我想把这个送给大家。”",
+    "ja": "会計が、終わると、マスターは、小さな、お菓子の箱を、テーブルに、置いた。「最後の夜だから、みんなに、これを、あげたいんです。」",
+    "romaji": "Kaikei ga, owaru to, masutaa wa, chiisana, okashi no hako o, teeburu ni, oita. 'Saigo no yoru dakara, minna ni, kore o, agetain desu.'"
+  },
+  "vl16.w5": {
+    "en": "The owner is “ki o tsukatte,” being considerate toward us. “Ki o tsukau” means thinking about the other person's feelings and taking various kinds of care.",
+    "ru": "Владелец «ки о цукаттэ» — проявляет внимание к нам. «Ки о цукау» — думать о чувствах другого человека и проявлять разнообразную заботу.",
+    "zh": "店主在对我们「気を遣って」。「気を遣う」是考虑对方的心情，周到地操心。",
+    "ja": "マスターは、私たちに、「気を遣って」います。「気を遣う」は、相手の気持ちを考えて、いろいろ、心配りをすることです。",
+    "romaji": "Masutaa wa, watashitachi ni, 'ki o tsukatte' imasu. 'Ki o tsukau' wa, aite no kimochi o kangaete, iroiro, kokorokubari o suru koto desu."
+  },
+  "vl16.w5_q": {
+    "en": "Is “ki o tsukau” a good thing?",
+    "ru": "«Ки о цукау» — это хорошо?",
+    "zh": "「気を遣う」是好的意思吗？",
+    "ja": "「気を遣う」は、いい意味ですか？",
+    "romaji": "'Ki o tsukau' wa, ii imi desu ka?"
+  },
+  "vl16.w5_a": {
+    "en": "It depends. Being considerate for the sake of others is kindness. But if you overdo it, you get tired. Saying “ki o tsukawanaide kudasai” means “please don't hold back.”",
+    "ru": "Зависит от ситуации. Быть внимательным ради других — доброта. Но если переусердствовать, устанешь. Фраза «ки о цукаванаидэ кудасай» означает «пожалуйста, не стесняйтесь».",
+    "zh": "视情况而定。为对方着想而费心，是一种温柔。但太过费心会很累。说「気を遣わないでください」，意思是“请别客气”。",
+    "ja": "場合によります。相手のために、気を遣うのは、やさしさです。でも、気を遣いすぎると、疲れます。「気を遣わないでください」と言うと、「遠慮しないで」という意味に、なります。",
+    "romaji": "Baai ni yorimasu. Aite no tame ni, ki o tsukau no wa, yasashisa desu. Demo, ki o tsukaisugiru to, tsukaremasu. 'Ki o tsukawanaide kudasai' to iu to, 'enryo shinaide' to iu imi ni, narimasu."
+  },
+  "vl16.p4_prompt": {
+    "en": "The owner gave everyone a box of sweets. You want to tell him he doesn't need to worry so much. Please say it using “ki o tsukau.” What do you say?",
+    "ru": "Владелец дал всем коробку сладостей. Вы хотите сказать ему, что не нужно так беспокоиться. Скажите это, используя «ки о цукау». Что вы скажете?",
+    "zh": "店主送给大家一盒点心。你想告诉他不必那么费心。请使用「気を遣う」来说。你会怎么说？",
+    "ja": "マスターが、お菓子の箱を、みんなに、くれました。あなたは、マスターに、そんなに、心配しなくていい、と、伝えたいです。「気を遣う」を使って、言ってください。何と言いますか？",
+    "romaji": "Masutaa ga, okashi no hako o, minna ni, kuremashita. Anata wa, masutaa ni, sonna ni, shinpai shinakute ii, to, tsutaetai desu. 'Ki o tsukau' o tsukatte, itte kudasai. Nan to iimasu ka?"
+  },
+  "vl16.c4_natural": {
+    "en": "“Master, please don't go to so much trouble. Thank you.”",
+    "ru": "«Мастер, пожалуйста, не беспокойтесь так сильно. Спасибо».",
+    "zh": "“老板，请不要这么费心。谢谢您。”",
+    "ja": "「マスター、そんなに、気を遣わないでください。ありがとうございます。」",
+    "romaji": "'Masutaa, sonna ni, ki o tsukawanaide kudasai. Arigatou gozaimasu.'"
+  },
+  "vl16.c4_formal": {
+    "en": "“Please, do not trouble yourself. I am most obliged.”",
+    "ru": "«Пожалуйста, не утруждайте себя. Я весьма признателен».",
+    "zh": "“请不必费心。实在过意不去。”",
+    "ja": "「どうか、お気遣いなく。恐れ入ります。」",
+    "romaji": "'Douka, okizukai naku. Osoreirimasu.'"
+  },
+  "vl16.c4_mistake": {
+    "en": "“Master, please don't tsukau-naide so much.”",
+    "ru": "«Мастер, пожалуйста, не цукау-найдэ так сильно».",
+    "zh": "“老板，请不要気を遣うない。”（否定形错误）",
+    "ja": "「マスター、そんなに、気を遣うないでください。」",
+    "romaji": "'Masutaa, sonna ni, ki o tsukau naide kudasai.'"
+  },
+  "vl16.c4_own": {
+    "en": "“Master, please don't go to so much trouble. But I'm happy. I'll gladly accept it.”",
+    "ru": "«Мастер, пожалуйста, не беспокойтесь так сильно. Но мне очень приятно. С благодарностью принимаю».",
+    "zh": "“老板，请不要这么费心。不过我很高兴。我收下了。”",
+    "ja": "「マスター、そんなに、気を遣わないでください。でも、うれしいです。いただきます。」",
+    "romaji": "'Masutaa, sonna ni, ki o tsukawanaide kudasai. Demo, ureshii desu. Itadakimasu.'"
+  },
+  "vl16.c4_min": {
+    "en": "“Care... use... no...”",
+    "ru": "«Забота… использовать… нет…»",
+    "zh": "“心……费……不……”",
+    "ja": "「気…遣う…ない…」",
+    "romaji": "'Ki... tsukau... nai...'"
+  },
+  "vl16.p4_natural_r": {
+    "en": "Yes, natural. Your gratitude comes across properly too.",
+    "ru": "Да, естественно. Благодарность тоже передана как надо.",
+    "zh": "对，很自然。感谢之意也传达到了。",
+    "ja": "はい、自然です。感謝も、ちゃんと、伝わっています。",
+    "romaji": "Hai, shizen desu. Kansha mo, chanto, tsutawatte imasu."
+  },
+  "vl16.p4_formal_r": {
+    "en": "Haha, it's polite and fine, but a bit stiff.",
+    "ru": "Ха-ха, вежливо и хорошо, но немного чопорно.",
+    "zh": "哈哈，很礼貌也不错，但有点生硬呢。",
+    "ja": "あはは、ていねいで、いいですが、少し、かたいですね。",
+    "romaji": "Ahaha, teinei de, ii desu ga, sukoshi, katai desu ne."
+  },
+  "vl16.p4_mistake_r": {
+    "en": "Close. “~ naide kudasai” attaches to the verb's nai-form. The nai-form of “tsukau” is “tsukawanai.” It's “ki o tsukawanaide kudasai.”",
+    "ru": "Почти. «~ найдэ кудасай» присоединяется к отрицательной форме глагола. Отрицательная форма «цукау» — «цукаванай». Получается «ки о цукаванаидэ кудасай».",
+    "zh": "很接近。「〜ないでください」接在动词的ない形后面。「遣う」的ない形是「遣わない」。说「気を遣わないでください」。",
+    "ja": "惜しいです。「〜ないでください」は、動詞の、ない形に、つなぎます。「遣う」の、ない形は、「遣わない」です。「気を遣わないでください」です。",
+    "romaji": "Oshii desu. '~ naide kudasai' wa, doushi no, nai-kei ni, tsunagimasu. 'Tsukau' no, nai-kei wa, 'tsukawanai' desu. 'Ki o tsukawanaide kudasai' desu."
+  },
+  "vl16.p4_mis_retry": {
+    "en": "Master, please don't go to so much trouble.",
+    "ru": "Мастер, пожалуйста, не беспокойтесь так сильно.",
+    "zh": "老板，请不要这么费心。",
+    "ja": "マスター、そんなに、気を遣わないでください。",
+    "romaji": "Masutaa, sonna ni, ki o tsukawanaide kudasai."
+  },
+  "vl16.p4_mis_relief": {
+    "en": "Yes, that's it. For u-verbs ending in “u,” change it to “wa.”",
+    "ru": "Да, именно так. У глаголов на «у» меняют «у» на «ва».",
+    "zh": "对，就是这个。以「う」结尾的动词，把「う」变成「わ」。",
+    "ja": "はい、それです。う動詞は、「う」を「わ」に、かえます。",
+    "romaji": "Hai, sore desu. U-doushi wa, 'u' o 'wa' ni, kaemasu."
+  },
+  "vl16.p4_own_r": {
+    "en": "A good answer. Not refusing too much is also a form of consideration.",
+    "ru": "Хороший ответ. Не отказываться слишком настойчиво — тоже проявление внимания.",
+    "zh": "很好的回答。不过度推辞也是一种体贴。",
+    "ja": "いい答えです。断りすぎないのも、気遣いですね。",
+    "romaji": "Ii kotae desu. Kotowarisuginai no mo, kizukai desu ne."
+  },
+  "vl16.p4_min_r": {
+    "en": "I understand. Try putting it together: “ki o tsukawanaide kudasai.”",
+    "ru": "Понимаю. Скажите слитно: «ки о цукаванаидэ кудасай».",
+    "zh": "我明白。试着连起来说：「気を遣わないでください」。",
+    "ja": "分かりますよ。「気を遣わないでください」と、ひとつに、して、言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Ki o tsukawanaide kudasai' to, hitotsu ni, shite, itte mimashou."
+  },
+  "vl16.tears": {
+    "en": "The owner began to talk little by little as he poured tea.",
+    "ru": "Владелец начал понемногу говорить, наливая чай.",
+    "zh": "店主一边沏茶，一边慢慢地说了起来。",
+    "ja": "マスターは、お茶を、いれながら、少しずつ、話し始めた。",
+    "romaji": "Masutaa wa, ocha o, irenagara, sukoshi zutsu, hanashihajimeta."
+  },
+  "vl16.vent": {
+    "en": "“My son became an office worker and says he won't take over the shop. I've worked hard by myself for years, but...”",
+    "ru": "«Сын стал служащим и говорит, что не будет продолжать дело. Я много лет усердно работал один, но…»",
+    "zh": "“儿子成了公司职员，说不打算继承这家店。我一个人拼命干了好几年，可是……”",
+    "ja": "「息子は、会社員になって、店を、継がないと言うんです。何年も、ひとりで、がんばってきたんですが…。」",
+    "romaji": "'Musuko wa, kaishain ni natte, mise o, tsuganai to iu n desu. Nannen mo, hitori de, ganbatte kita n desu ga...'"
+  },
+  "vl16.w6": {
+    "en": "This is the owner's “guchi.” “Guchi” means complaining about dissatisfaction or painful feelings. You say “guchi o iu” or “guchi o kiku.”",
+    "ru": "Это «гути» владельца. «Гути» — жаловаться на недовольство или тяжёлые чувства. Говорят «гути о ию» и «гути о кику».",
+    "zh": "这是店主的「愚痴」。「愚痴」是絮絮叨叨地倾诉不满或痛苦的心情。说「愚痴を言う」「愚痴を聞く」。",
+    "ja": "これは、マスターの「愚痴」です。「愚痴」は、不満や、つらい気持ちを、ぐちぐち、言うことです。「愚痴を言う」「愚痴を聞く」と、言います。",
+    "romaji": "Kore wa, masutaa no 'guchi' desu. 'Guchi' wa, fuman ya, tsurai kimochi o, guchiguchi, iu koto desu. 'Guchi o iu' 'guchi o kiku' to, iimasu."
+  },
+  "vl16.w7": {
+    "en": "When listening to complaints, what matters is “aizuchi.” “Aizuchi” means giving responses like “un” or “sou desu ka” while listening.",
+    "ru": "Когда слушаете жалобы, важен «айдзути». «Айдзути» — отвечать репликами вроде «ун» или «со: дэс ка» во время слушания.",
+    "zh": "听人倾诉时，重要的是「相槌」。「相槌」是边听边回应「うん」「そうですか」。",
+    "ja": "愚痴を、聞くとき、大切なのは、「相槌」です。「相槌」は、話を聞きながら、「うん」「そうですか」と、返事をすることです。",
+    "romaji": "Guchi o, kiku toki, taisetsu na no wa, 'aizuchi' desu. 'Aizuchi' wa, hanashi o kikinagara, 'un' 'sou desu ka' to, henji o suru koto desu."
+  },
+  "vl16.w7_q": {
+    "en": "What happens without aizuchi?",
+    "ru": "Что будет без «айдзути»?",
+    "zh": "没有相槌会怎么样呢？",
+    "ja": "相槌が、ないと、どうなりますか？",
+    "romaji": "Aizuchi ga, nai to, dou narimasu ka?"
+  },
+  "vl16.w7_a": {
+    "en": "The person speaking feels they aren't being listened to. In Japanese conversation, aizuchi is very important. Phrases like “sou desu ka,” “naruhodo,” and “taihen deshita ne” are often used.",
+    "ru": "Говорящий чувствует, что его не слушают. В японской беседе «айдзути» очень важен. Часто используются такие фразы, как «со: дэс ка», «наруходо» и «тайхэн дэсита нэ».",
+    "zh": "说话的人会觉得没有被倾听。日语会话中，相槌非常重要。经常使用「そうですか」「なるほど」「大変でしたね」等。",
+    "ja": "話している人は、聞いてもらっていないと、感じます。日本語の会話は、相槌が、とても大切です。「そうですか」「なるほど」「大変でしたね」などが、よく使われます。",
+    "romaji": "Hanashite iru hito wa, kiite moratte inai to, kanjimasu. Nihongo no kaiwa wa, aizuchi ga, totemo taisetsu desu. 'Sou desu ka' 'naruhodo' 'taihen deshita ne' nado ga, yoku tsukawaremasu."
+  },
+  "vl16.p5_prompt": {
+    "en": "The owner is talking about his son. You are listening to his complaints. Please give a polite aizuchi. What do you say?",
+    "ru": "Владелец говорит о своём сыне. Вы слушаете его жалобы. Ответьте вежливым «айдзути». Что вы скажете?",
+    "zh": "店主正在谈他的儿子。你在倾听店主的牢骚。请礼貌地附和。你会怎么说？",
+    "ja": "マスターが、息子さんのことを、話しています。あなたは、マスターの愚痴を、聞いています。ていねいに、相槌を、打ってください。何と言いますか？",
+    "romaji": "Masutaa ga, musuko-san no koto o, hanashite imasu. Anata wa, masutaa no guchi o, kiite imasu. Teinei ni, aizuchi o, utte kudasai. Nan to iimasu ka?"
+  },
+  "vl16.c5_natural": {
+    "en": "“I see. That must have been hard.”",
+    "ru": "«Понятно. Это, должно быть, было тяжело».",
+    "zh": "“原来如此。那真是辛苦了。”",
+    "ja": "「そうなんですね。それは、大変でしたね。」",
+    "romaji": "'Sou nan desu ne. Sore wa, taihen deshita ne.'"
+  },
+  "vl16.c5_formal": {
+    "en": "“Is that so. I truly appreciate the hardship you have endured.”",
+    "ru": "«Вот как. Я искренне понимаю, сколько трудов вы вынесли».",
+    "zh": "“原来如此。深知您辛苦了。”",
+    "ja": "「左様でございますか。誠に、ご苦労、お察し申し上げます。」",
+    "romaji": "'Sayou de gozaimasu ka. Makoto ni, gokurou, osasshi moushiagemasu.'"
+  },
+  "vl16.c5_mistake": {
+    "en": "“Hmm. I don't care either way.”",
+    "ru": "«Хм. Мне всё равно».",
+    "zh": "“嗯。无所谓。”（冷漠的回应）",
+    "ja": "「ふうん。どうでもいいです。」",
+    "romaji": "'Fuun. Dou demo ii desu.'"
+  },
+  "vl16.c5_own": {
+    "en": "“I see. I think it's amazing that you've worked so hard on your own all this time.”",
+    "ru": "«Понятно. Я думаю, это удивительно, что вы так долго усердно работали один».",
+    "zh": "“原来如此。您一直一个人努力过来，我觉得很了不起。”",
+    "ja": "「そうなんですね。ずっと、ひとりで、がんばってこられて、すごいと思います。」",
+    "romaji": "'Sou nan desu ne. Zutto, hitori de, ganbatte korarete, sugoi to omoimasu.'"
+  },
+  "vl16.c5_min": {
+    "en": "“Yes...”",
+    "ru": "«Да…»",
+    "zh": "“是……”",
+    "ja": "「はい…」",
+    "romaji": "'Hai...'"
+  },
+  "vl16.p5_natural_r": {
+    "en": "Yes, a good aizuchi. It makes it easy for the owner to talk.",
+    "ru": "Да, хороший «айдзути». Владельцу легко говорить.",
+    "zh": "对，很好的附和。店主也更容易说下去。",
+    "ja": "はい、いい相槌です。マスターも、話しやすいです。",
+    "romaji": "Hai, ii aizuchi desu. Masutaa mo, hanashiyasui desu."
+  },
+  "vl16.p5_formal_r": {
+    "en": "Ha, it's polite, but a little stiff. “Sou desu ka” is fine.",
+    "ru": "Ха-ха, вежливо, но немного чопорно. Достаточно «со: дэс ка».",
+    "zh": "呵呵，很礼貌，但有点生硬。说「そうですか」就行。",
+    "ja": "ふふ、ていねいですが、少し、かたいです。「そうですか」で、いいですよ。",
+    "romaji": "Fufu, teinei desu ga, sukoshi, katai desu. 'Sou desu ka' de, ii desu yo."
+  },
+  "vl16.p5_mistake_r": {
+    "en": "That sounds cold. It would make the owner sad. Let's answer with feeling: “sou desu ka,” “taihen deshita ne.”",
+    "ru": "Это звучит холодно. Владелец расстроится. Ответим от души: «со: дэс ка», «тайхэн дэсита нэ».",
+    "zh": "那听起来很冷淡，会让店主难过。要用心地回应：「そうですか」「大変でしたね」。",
+    "ja": "それは、冷たく、聞こえます。マスターが、悲しくなります。「そうですか」「大変でしたね」と、心をこめて、答えましょう。",
+    "romaji": "Sore wa, tsumetaku, kikoemasu. Masutaa ga, kanashiku narimasu. 'Sou desu ka' 'taihen deshita ne' to, kokoro o komete, kotaemashou."
+  },
+  "vl16.p5_mis_retry": {
+    "en": "I see. That must have been hard.",
+    "ru": "Понятно. Это, должно быть, было тяжело.",
+    "zh": "原来如此。那真是辛苦了。",
+    "ja": "そうですか。それは、大変でしたね。",
+    "romaji": "Sou desu ka. Sore wa, taihen deshita ne."
+  },
+  "vl16.p5_mis_relief": {
+    "en": "Yes, that's it. That became a heartfelt aizuchi.",
+    "ru": "Да, именно так. Это стало искренним «айдзути».",
+    "zh": "对，就是这个。成了一个饱含心意的附和。",
+    "ja": "はい、それです。心のこもった相槌に、なりました。",
+    "romaji": "Hai, sore desu. Kokoro no komotta aizuchi ni, narimashita."
+  },
+  "vl16.p5_own_r": {
+    "en": "What a lovely thing to say. The owner's face brightened.",
+    "ru": "Прекрасные слова. Лицо владельца просветлело.",
+    "zh": "很棒的话。店主的脸亮了起来。",
+    "ja": "すてきな言葉です。マスターの顔が、明るくなりました。",
+    "romaji": "Suteki na kotoba desu. Masutaa no kao ga, akaruku narimashita."
+  },
+  "vl16.p5_min_r": {
+    "en": "A good start. Try adding one more phrase: “sou desu ka,” “taihen deshita ne.”",
+    "ru": "Хорошее начало. Попробуйте добавить ещё фразу: «со: дэс ка», «тайхэн дэсита нэ».",
+    "zh": "是个好的开始。再加一句试试：「そうですか」「大変でしたね」。",
+    "ja": "いい始まりです。「そうですか」「大変でしたね」と、もう一言、そえてみましょう。",
+    "romaji": "Ii hajimari desu. 'Sou desu ka' 'taihen deshita ne' to, mou hitokoto, soete mimashou."
+  },
+  "vl16.quiet": {
+    "en": "The owner finishes talking and keeps gazing at the photograph on the wall. No one says anything. Ken was about to start saying something.",
+    "ru": "Владелец закончил говорить и всё смотрит на фотографию на стене. Никто ничего не говорит. Кен собирался что-то сказать.",
+    "zh": "店主说完话，一直凝视着墙上的照片。没有人说话。健正要开口说点什么。",
+    "ja": "マスターは、話し終わって、壁の写真を、ずっと、見つめている。だれも、何も、言わない。ケンさんが、何か、話し始めようとした。",
+    "romaji": "Masutaa wa, hanashiowatte, kabe no shashin o, zutto, mitsumete iru. Dare mo, nani mo, iwanai. Ken-san ga, nani ka, hanashihajimeyou to shita."
+  },
+  "vl16.w8": {
+    "en": "At that moment, Tanaka-sensei signaled to Ken with his eyes. That is “kuuki o yomu.” “Kuuki o yomu” means sensing the atmosphere of the moment and acting accordingly.",
+    "ru": "В тот момент Танака-сэнсэй подал Кену знак глазами. Это и есть «куки о ёму». «Куки о ёму» — уловить атмосферу момента и действовать соответственно.",
+    "zh": "这时，田中老师用眼神向健示意。这就是「空気を読む」。「空気を読む」是感受当下的气氛，并采取与之相符的行动。",
+    "ja": "そのとき、田中先生は、ケンさんに、目で、合図をしました。「空気を読む」ことです。「空気を読む」は、その場の雰囲気を、感じ取って、それに、合った行動を、することです。",
+    "romaji": "Sono toki, Tanaka-sensei wa, Ken-san ni, me de, aizu o shimashita. 'Kuuki o yomu' koto desu. 'Kuuki o yomu' wa, sono ba no fun'iki o, kanjitotte, sore ni, atta koudou o, suru koto desu."
+  },
+  "vl16.w8_q": {
+    "en": "Is “kuuki o yomu” a way of thinking unique to Japan?",
+    "ru": "«Куки о ёму» — способ мышления, присущий только Японии?",
+    "zh": "「空気を読む」是日本特有的想法吗？",
+    "ja": "「空気を読む」は、日本だけの、考え方ですか？",
+    "romaji": "'Kuuki o yomu' wa, Nihon dake no, kangaekata desu ka?"
+  },
+  "vl16.w8_a": {
+    "en": "Every country has a similar idea. But in Japanese it is especially valued. Saying “kuuki ga yomenai” is slightly critical. “Kuuki o yomu no ga, jouzu” is praise.",
+    "ru": "В каждой стране есть похожая идея. Но в японском языке ей придают особое значение. «Куки га ёмэнай» звучит немного критично. «Куки о ёму но га, дзё:дзу» — похвала.",
+    "zh": "每个国家都有类似的想法。不过，在日语里尤其受重视。说「空気が読めない」带有一点批评的意思。「空気を読むのが、上手」是称赞。",
+    "ja": "どの国にも、似た考え方は、あります。でも、日本語では、特に、大切にされます。「空気が読めない」と言うと、少し、批判的です。「空気を読むのが、上手」は、ほめ言葉です。",
+    "romaji": "Dono kuni ni mo, nita kangaekata wa, arimasu. Demo, Nihongo de wa, toku ni, taisetsu ni saremasu. 'Kuuki ga yomenai' to iu to, sukoshi, hihanteki desu. 'Kuuki o yomu no ga, jouzu' wa, homekotoba desu."
+  },
+  "vl16.p6_prompt": {
+    "en": "Ken quietly closed his mouth. You want to praise him for having “read the room.” What do you say?",
+    "ru": "Кен тихо закрыл рот. Вы хотите похвалить его за то, что он «уловил атмосферу». Что вы скажете?",
+    "zh": "健安静地闭上了嘴。你想夸他“看懂了气氛”。你会怎么说？",
+    "ja": "ケンさんが、静かに、口を閉じました。あなたは、ケンさんの、「空気を読んだ」ことを、ほめたいです。何と言いますか？",
+    "romaji": "Ken-san ga, shizuka ni, kuchi o tojimashita. Anata wa, Ken-san no, 'kuuki o yonda' koto o, hometai desu. Nan to iimasu ka?"
+  },
+  "vl16.c6_natural": {
+    "en": "“Ken, you're good at reading the room.”",
+    "ru": "«Кен, вы хорошо чувствуете атмосферу».",
+    "zh": "“健很会看气氛呢。”",
+    "ja": "「ケンさんは、空気を読むのが、上手ですね。」",
+    "romaji": "'Ken-san wa, kuuki o yomu no ga, jouzu desu ne.'"
+  },
+  "vl16.c6_formal": {
+    "en": "“Ken has a talent for sensing the subtleties of the moment.”",
+    "ru": "«У Кена есть талант улавливать тонкости момента».",
+    "zh": "“健擅长体察当下的微妙之处。”",
+    "ja": "「ケンさんは、その場の機微を、察する力に、長けていらっしゃいます。」",
+    "romaji": "'Ken-san wa, sono ba no kibi o, sassuru chikara ni, takete irasshaimasu.'"
+  },
+  "vl16.c6_mistake": {
+    "en": "“Ken is good at reading (ni) the air.”",
+    "ru": "«Кен хорошо читает (ни) воздух».",
+    "zh": "“健很会读空気に。”（应该用「を」）",
+    "ja": "「ケンさんは、空気に、読むのが、上手ですね。」",
+    "romaji": "'Ken-san wa, kuuki ni, yomu no ga, jouzu desu ne.'"
+  },
+  "vl16.c6_own": {
+    "en": "“Ken, you're good at reading the room. I want to learn from you.”",
+    "ru": "«Кен, вы хорошо чувствуете атмосферу. Я тоже хочу у вас поучиться».",
+    "zh": "“健很会看气氛呢。我也想向你学习。”",
+    "ja": "「ケンさんは、空気を読むのが、上手ですね。わたしも、見習いたいです。」",
+    "romaji": "'Ken-san wa, kuuki o yomu no ga, jouzu desu ne. Watashi mo, minaraitai desu.'"
+  },
+  "vl16.c6_min": {
+    "en": "“Ken... air... good...”",
+    "ru": "«Кен… атмосфера… хорошо…»",
+    "zh": "“健……气氛……擅长……”",
+    "ja": "「ケンさん…空気…上手…」",
+    "romaji": "'Ken-san... kuuki... jouzu...'"
+  },
+  "vl16.p6_natural_r": {
+    "en": "Thank you. Today I understood by looking at Sensei's eyes.",
+    "ru": "Спасибо. Сегодня я понял, посмотрев в глаза сэнсэю.",
+    "zh": "谢谢。今天我看老师的眼神就明白了。",
+    "ja": "ありがとう。今日は、先生の、目を見て、分かりました。",
+    "romaji": "Arigatou. Kyou wa, sensei no, me o mite, wakarimashita."
+  },
+  "vl16.p6_formal_r": {
+    "en": "Ha, that's too much praise. “Kuuki o yomu no ga, jouzu” is fine.",
+    "ru": "Ха-ха, слишком много похвалы. Достаточно «куки о ёму но га, дзё:дзу».",
+    "zh": "呵呵，夸得太过了。说「空気を読むのが、上手」就行。",
+    "ja": "ふふ、ほめすぎです。「空気を読むのが、上手」で、いいですよ。",
+    "romaji": "Fufu, homesugi desu. 'Kuuki o yomu no ga, jouzu' de, ii desu yo."
+  },
+  "vl16.p6_mistake_r": {
+    "en": "Close. “Yomu” takes “o.” It's “kuuki o, yomu.” “Ni” isn't used.",
+    "ru": "Почти. «Ёму» используется с «о». Получается «куки о, ёму». «Ни» не используют.",
+    "zh": "很接近。「読む」要用「を」。说「空気を、読む」。不用「に」。",
+    "ja": "惜しいです。「読む」は、「を」を使います。「空気を、読む」です。「に」は、使いません。",
+    "romaji": "Oshii desu. 'Yomu' wa, 'o' o tsukaimasu. 'Kuuki o, yomu' desu. 'Ni' wa, tsukaimasen."
+  },
+  "vl16.p6_mis_retry": {
+    "en": "Ken, you're good at reading the room.",
+    "ru": "Кен, вы хорошо чувствуете атмосферу.",
+    "zh": "健很会看气氛呢。",
+    "ja": "ケンさんは、空気を読むのが、上手ですね。",
+    "romaji": "Ken-san wa, kuuki o yomu no ga, jouzu desu ne."
+  },
+  "vl16.p6_mis_relief": {
+    "en": "Yes, that's it. “O” connects to “yomu.”",
+    "ru": "Да, именно так. «О» связывается с «ёму».",
+    "zh": "对，就是这个。「を」连接「読む」。",
+    "ja": "はい、それです。「を」で、「読む」と、つながります。",
+    "romaji": "Hai, sore desu. 'O' de, 'yomu' to, tsunagarimasu."
+  },
+  "vl16.p6_own_r": {
+    "en": "Huh, me? I'm happy.",
+    "ru": "Э, я? Мне приятно.",
+    "zh": "咦，我吗？我很高兴。",
+    "ja": "えっ、ぼくが、ですか？うれしいです。",
+    "romaji": "E, boku ga, desu ka? Ureshii desu."
+  },
+  "vl16.p6_min_r": {
+    "en": "Your meaning comes across. Try saying it in full: “kuuki o yomu no ga, jouzu desu ne.”",
+    "ru": "Ваша мысль понятна. Скажите полностью: «куки о ёму но га, дзё:дзу дэс нэ».",
+    "zh": "你的意思能传达。试着连起来说：「空気を読むのが、上手ですね」。",
+    "ja": "気持ちは、伝わります。「空気を読むのが、上手ですね」と、続けて、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Kuuki o yomu no ga, jouzu desu ne' to, tsuzukete, itte mimashou."
+  },
+  "vl16.quiet2": {
+    "en": "A quiet time passed for a while. Then the owner suddenly smiled.",
+    "ru": "Некоторое время прошло в тишине. Затем владелец вдруг улыбнулся.",
+    "zh": "安静的时间流淌了一阵。然后，店主忽然笑了。",
+    "ja": "しばらく、静かな時間が、流れた。それから、マスターが、ふっと、笑った。",
+    "romaji": "Shibaraku, shizuka na jikan ga, nagareta. Sore kara, masutaa ga, futto, waratta."
+  },
+  "vl16.master_line": {
+    "en": "“But I don't regret having opened this shop. Because I got to meet so many wonderful customers.”",
+    "ru": "«Но я не жалею, что открыл это заведение. Ведь я встретил так много замечательных клиентов».",
+    "zh": "“不过，我并不后悔开了这家店。因为遇到了好多好客人。”",
+    "ja": "「でも、この店を、開いたことは、後悔していません。いい、お客さんに、たくさん、会えましたから。」",
+    "romaji": "'Demo, kono mise o, hiraita koto wa, koukai shite imasen. Ii, okyaku-san ni, takusan, aemashita kara.'"
+  },
+  "vl16.w9": {
+    "en": "“Koukai” is the feeling of thinking afterward, “I wish I hadn't done that.” You say “koukai suru” or “koukai shite iru.” “Koukai shinai” means it was a good choice.",
+    "ru": "«Кока́й» — чувство, когда потом думаешь: «Лучше бы я так не поступал». Говорят «коука́й суру» или «коука́й ситэ иру». «Коука́й синай» означает, что выбор был правильным.",
+    "zh": "「後悔」是事后觉得“早知道就不做那件事了”的心情。说「後悔する」「後悔している」。「後悔しない」意思是那是个好的选择。",
+    "ja": "「後悔」は、あとで、「あんなことを、しなければよかった」と、思う、気持ちです。「後悔する」「後悔している」と言います。「後悔しない」は、よい選択だった、という意味です。",
+    "romaji": "'Koukai' wa, ato de, 'anna koto o, shinakereba yokatta' to, omou, kimochi desu. 'Koukai suru' 'koukai shite iru' to iimasu. 'Koukai shinai' wa, yoi sentaku datta, to iu imi desu."
+  },
+  "vl16.w9_q": {
+    "en": "Are “koukai” and “zannen” different?",
+    "ru": "«Коукай» и «дзаннэн» отличаются?",
+    "zh": "「後悔」和「残念」有区别吗？",
+    "ja": "「後悔」と「残念」は、ちがいますか？",
+    "romaji": "'Koukai' to 'zannen' wa, chigaimasu ka?"
+  },
+  "vl16.w9_a": {
+    "en": "Yes. “Zannen” is the feeling that things didn't go as one wished. “Koukai” is regretting what you did or didn't do. Your own actions are involved.",
+    "ru": "Да. «Дзаннэн» — чувство, что всё пошло не так, как хотелось. «Коукай» — сожаление о том, что вы сделали или не сделали. Здесь задействованы ваши собственные действия.",
+    "zh": "是的。「残念」是事情没有如愿的心情。「後悔」是对自己做过或没做的事感到懊悔的心情。与自己的行为有关。",
+    "ja": "はい。「残念」は、思いどおりに、ならなかった、という気持ちです。「後悔」は、自分が、したことや、しなかったことを、くやしく思う気持ちです。自分の行動が、関係しています。",
+    "romaji": "Hai. 'Zannen' wa, omoidoori ni, naranakatta, to iu kimochi desu. 'Koukai' wa, jibun ga, shita koto ya, shinakatta koto o, kuyashiku omou kimochi desu. Jibun no koudou ga, kankei shite imasu."
+  },
+  "vl16.p7_prompt": {
+    "en": "The owner asks, “Is there anything you regret?” You regret not having studied Japanese more. How do you answer?",
+    "ru": "Владелец спросил: «Есть ли что-нибудь, о чём вы сожалеете?» Вы сожалеете, что не занимались японским больше. Что вы ответите?",
+    "zh": "店主问：“你有什么后悔的事吗？”你后悔没有多学日语。你会怎么回答？",
+    "ja": "マスターが、「あなたは、何か、後悔していることが、ありますか？」と、聞きました。あなたは、もっと日本語を、勉強しなかったことを、後悔しています。何と答えますか？",
+    "romaji": "Masutaa ga, 'anata wa, nani ka, koukai shite iru koto ga, arimasu ka?' to, kikimashita. Anata wa, motto nihongo o, benkyou shinakatta koto o, koukai shite imasu. Nan to kotaemasu ka?"
+  },
+  "vl16.c7_natural": {
+    "en": "“I regret not having studied Japanese more.”",
+    "ru": "«Я сожалею, что не занимался японским больше».",
+    "zh": "“我后悔没有多学日语。”",
+    "ja": "「もっと、日本語を、勉強しなかったことを、後悔しています。」",
+    "romaji": "'Motto, nihongo o, benkyou shinakatta koto o, koukai shite imasu.'"
+  },
+  "vl16.c7_formal": {
+    "en": "“I cannot help but regret, even now, that I neglected my studies.”",
+    "ru": "«Я до сих пор не могу не сожалеть о том, что пренебрегал учёбой».",
+    "zh": "“至今仍不禁为疏于学业而后悔不已。”",
+    "ja": "「勉学を、疎かにしたことが、今もって、悔やまれてなりません。」",
+    "romaji": "'Benkaku o, orosoka ni shita koto ga, ima motte, kuyamarete narimasen.'"
+  },
+  "vl16.c7_mistake": {
+    "en": "“I regret (o) not having studied Japanese more.”",
+    "ru": "«Я сожалею (о) не занимался японским больше».",
+    "zh": "“もっと日本語を勉強しなかったを，后悔。”（缺少「こと」）",
+    "ja": "「もっと、日本語を、勉強しなかったを、後悔します。」",
+    "romaji": "'Motto, nihongo o, benkyou shinakatta o, koukai shimasu.'"
+  },
+  "vl16.c7_own": {
+    "en": "“I regret not having studied Japanese more. But I'm happy that I could speak a little today.”",
+    "ru": "«Я сожалею, что не занимался японским больше. Но я рад, что сегодня смог немного поговорить».",
+    "zh": "“我后悔没有多学日语。不过今天能说一点，我很高兴。”",
+    "ja": "「もっと、日本語を、勉強しなかったことを、後悔しています。でも、今日、少し、話せて、うれしいです。」",
+    "romaji": "'Motto, nihongo o, benkyou shinakatta koto o, koukai shite imasu. Demo, kyou, sukoshi, hanasete, ureshii desu.'"
+  },
+  "vl16.c7_min": {
+    "en": "“Regret... study...”",
+    "ru": "«Сожаление… учёба…»",
+    "zh": "“后悔……学习……”",
+    "ja": "「後悔…勉強…」",
+    "romaji": "'Koukai... benkyou...'"
+  },
+  "vl16.p7_natural_r": {
+    "en": "A good answer. But it's not too late to start from now.",
+    "ru": "Хороший ответ. Но начать сейчас ещё не поздно.",
+    "zh": "很好的回答。不过，现在开始也不晚哦。",
+    "ja": "いい答えです。でも、今から、始めても、遅くないですよ。",
+    "romaji": "Ii kotae desu. Demo, ima kara, hajimete mo, osokunai desu yo."
+  },
+  "vl16.p7_formal_r": {
+    "en": "Ha, like a period drama. “Koukai shite imasu” is fine.",
+    "ru": "Ха-ха, как в исторической драме. Достаточно «коукай ситэ имас».",
+    "zh": "呵呵，像古装剧一样。说「後悔しています」就行。",
+    "ja": "ふふ、時代劇みたいです。「後悔しています」で、いいですよ。",
+    "romaji": "Fufu, jidaigeki mitai desu. 'Koukai shite imasu' de, ii desu yo."
+  },
+  "vl16.p7_mistake_r": {
+    "en": "Close. When attaching “o” to a verb, you need “koto.” It's “benkyou shinakatta koto o, koukai shite imasu.”",
+    "ru": "Почти. Чтобы присоединить «о» к глаголу, нужно «кото». Получается «бэнкё: синакатта кото о, коукай ситэ имас».",
+    "zh": "很接近。要把「を」接在动词后面，需要「こと」。说「勉強しなかったことを、後悔しています」。",
+    "ja": "惜しいです。動詞に、「を」を、つなげるときは、「こと」が、必要です。「勉強しなかったことを、後悔しています」です。",
+    "romaji": "Oshii desu. Doushi ni, 'o' o, tsunageru toki wa, 'koto' ga, hitsuyou desu. 'Benkyou shinakatta koto o, koukai shite imasu' desu."
+  },
+  "vl16.p7_mis_retry": {
+    "en": "I regret not having studied Japanese more.",
+    "ru": "Я сожалею, что не занимался японским больше.",
+    "zh": "我后悔没有多学日语。",
+    "ja": "もっと、日本語を、勉強しなかったことを、後悔しています。",
+    "romaji": "Motto, nihongo o, benkyou shinakatta koto o, koukai shite imasu."
+  },
+  "vl16.p7_mis_relief": {
+    "en": "Yes, that's it. “Koto” turned the verb into a noun.",
+    "ru": "Да, именно так. «Кото» превратило глагол в существительное.",
+    "zh": "对，就是这个。「こと」把动词变成了名词。",
+    "ja": "はい、それです。「こと」で、動詞が、名詞に、なりました。",
+    "romaji": "Hai, sore desu. 'Koto' de, doushi ga, meishi ni, narimashita."
+  },
+  "vl16.p7_own_r": {
+    "en": "That feeling is the most important.",
+    "ru": "Это чувство — самое важное.",
+    "zh": "这份心情最重要。",
+    "ja": "その気持ちが、いちばん、大切です。",
+    "romaji": "Sono kimochi ga, ichiban, taisetsu desu."
+  },
+  "vl16.p7_min_r": {
+    "en": "I understand. Try saying “benkyou shinakatta koto o, koukai shite imasu.”",
+    "ru": "Понимаю. Скажите «бэнкё: синакатта кото о, коукай ситэ имас».",
+    "zh": "我明白。试着说「勉強しなかったことを、後悔しています」。",
+    "ja": "分かりますよ。「勉強しなかったことを、後悔しています」と、言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Benkyou shinakatta koto o, koukai shite imasu' to, itte mimashou."
+  },
+  "vl16.talk_open": {
+    "en": "Now let's talk. Out of today's ten words, which one stayed with you most?",
+    "ru": "Итак, поговорим. Какое из сегодняшних десяти слов больше всего запало вам в душу?",
+    "zh": "现在来聊聊。今天这十个词里，哪个最让你印象深刻？",
+    "ja": "では、話しましょう。今日の、十の言葉の中で、いちばん、心に残った言葉は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no, juu no kotoba no naka de, ichiban, kokoro ni nokotta kotoba wa, dore desu ka?"
+  },
+  "vl16.talk_ken": {
+    "en": "For me, “aizuchi.” Just listening to someone can cheer them up.",
+    "ru": "Для меня это «айдзути». Просто слушая человека, можно его подбодрить.",
+    "zh": "我想说「相槌」。原来光是倾听，就能让人打起精神。",
+    "ja": "ぼくは、「相槌」です。話を聞くだけで、人を、元気にできるのですね。",
+    "romaji": "Boku wa, 'aizuchi' desu. Hanashi o kiku dake de, hito o, genki ni dekiru no desu ne."
+  },
+  "vl16.talk_mei": {
+    "en": "For me, “jouren.” When you go for a long time, a shop becomes like a home.",
+    "ru": "Для меня это «дзё:рэн». Если ходить долго, заведение становится как дом.",
+    "zh": "我想说「常連」。常去很久，店就变得像家一样了呢。",
+    "ja": "わたしは、「常連」です。長く、通うと、店が、家みたいに、なりますね。",
+    "romaji": "Watashi wa, 'jouren' desu. Nagaku, kayou to, mise ga, ie mitai ni, narimasu ne."
+  },
+  "vl16.talk_yuki": {
+    "en": "For me, “koukai.” So as not to have regrets, I want to do what I want to do starting today.",
+    "ru": "Для меня это «коукай». Чтобы не сожалеть, я хочу с сегодняшнего дня делать то, что хочу.",
+    "zh": "我想说「後悔」。为了不后悔，从今天起，我想做自己想做的事。",
+    "ja": "わたしは、「後悔」です。後悔しないように、今日から、やりたいことを、やりたいです。",
+    "romaji": "Watashi wa, 'koukai' desu. Koukai shinai you ni, kyou kara, yaritai koto o, yaritai desu."
+  },
+  "vl16.talk_tanaka": {
+    "en": "Lovely. Even when a shop is gone, the connections between people continue.",
+    "ru": "Прекрасно. Даже когда заведения не станет, связи между людьми продолжатся.",
+    "zh": "真好。即使店没了，人与人之间的联系依然延续。",
+    "ja": "すてきですね。店は、なくなっても、人と人の、つながりは、続きます。",
+    "romaji": "Suteki desu ne. Mise wa, nakunatte mo, hito to hito no, tsunagari wa, tsuzukimasu."
+  },
+  "vl16.talk_player": {
+    "en": "(Regular, opening a business, rent, closing, splitting the bill, being considerate, complaint, aizuchi, reading the room, regret. Even when a shop closes, the words exchanged there don't disappear. Today's aizuchi will surely remain in the owner's heart too.)",
+    "ru": "(Постоянный клиент, открытие дела, арендная плата, закрытие, разделить счёт, проявлять внимание, жалоба, айдзути, чувствовать атмосферу, сожаление. Даже когда заведение закрывается, слова, сказанные в нём, не исчезают. Сегодняшнее «айдзути» тоже наверняка останется в сердце владельца.)",
+    "zh": "（常客、开业、房租、闭店、AA制、费心、牢骚、相槌、看气氛、后悔。即使店关了，在那里说过的话也不会消失。今天的相槌，一定也会留在店主心里。）",
+    "ja": "（常連、開業、家賃、閉店、割り勘、気を遣う、愚痴、相槌、空気を読む、後悔。店は、閉まっても、そこで、交わした言葉は、消えない。今日の相槌も、きっと、マスターの心に、残るだろう。）",
+    "romaji": "(Jouren, kaigyou, yachin, heiten, warikan, ki o tsukau, guchi, aizuchi, kuuki o yomu, koukai. Even when a shop closes, the words exchanged there don't disappear. Today's aizuchi will surely remain in the owner's heart too.)"
+  },
+  "vl16.talk_close": {
+    "en": "Thank you all for today. Let's thank the owner once more. Then, let's meet again in the classroom.",
+    "ru": "Спасибо всем за сегодняшний день. Поблагодарим владельца ещё раз. А теперь — до встречи в классе.",
+    "zh": "各位，今天谢谢你们。我们再向店主道一次谢吧。那么，我们教室里再见吧。",
+    "ja": "みなさん、今日は、ありがとう。マスターに、もう一度、お礼を言いましょう。では、また、教室で、会いましょう。",
+    "romaji": "Minasan, kyou wa, arigatou. Masutaa ni, mou ichido, orei o iimashou. Dewa, mata, kyoushitsu de, aimashou."
+  },
+  "vl16.complete": {
+    "en": "End of Vocabulary Lesson 16.",
+    "ru": "Конец урока лексики 16.",
+    "zh": "词汇课 16 结束。",
+    "ja": "語彙レッスン16、おわり。",
+    "romaji": "Goi ressun juuroku, owari."
+  }
+}

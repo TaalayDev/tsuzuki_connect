@@ -1,0 +1,709 @@
+{
+  "sl15.title": {
+    "en": "Talking About Experiences: ~ ta koto ga arimasu",
+    "ru": "Рассказываем об опыте: ~ та кото га аримас",
+    "zh": "谈论经历：〜たことがあります",
+    "ja": "経験を話す：〜たことがあります",
+    "romaji": "Keiken o hanasu: ~ ta koto ga arimasu"
+  },
+  "sl15.subtitle": {
+    "en": "Mei's Birthday Party",
+    "ru": "День рождения Мэй",
+    "zh": "小梅的生日派对",
+    "ja": "メイさんの誕生日パーティー",
+    "romaji": "Mei-san no tanjoubi paatii"
+  },
+  "sl15.description": {
+    "en": "At Mei's birthday party, practice the ta-form, “~ ta koto ga arimasu,” “~ ta koto ga arimasen,” how to count times, and “~ tari ~ tari shimasu.”",
+    "ru": "На дне рождения Мэй потренируйте форму «та», «~ та кото га аримас», «~ та кото га аримасэн», способы называть число раз и «~ тари ~ тари симас».",
+    "zh": "在小梅的生日派对上，练习た形、「〜たことがあります」「〜たことがありません」、次数的说法以及「〜たり〜たりします」。",
+    "ja": "メイさんの誕生日パーティーで、た形、「〜たことがあります」「〜たことがありません」、回数の言い方、「〜たり〜たりします」を練習します。",
+    "romaji": "Mei-san no tanjoubi paatii de, ta-kei, '~ ta koto ga arimasu' '~ ta koto ga arimasen', kaisuu no iikata, '~ tari ~ tari shimasu' o renshuu shimasu."
+  },
+  "sl15.pattern.1": {
+    "en": "the ta-form (plain past)",
+    "ru": "форма «та» (простое прошедшее время)",
+    "zh": "た形（普通过去式）",
+    "ja": "た形（ふつうの過去）",
+    "romaji": "ta-kei (plain past)"
+  },
+  "sl15.pattern.2": {
+    "en": "have done ~ before",
+    "ru": "делал ~ раньше",
+    "zh": "做过〜",
+    "ja": "〜たことがあります",
+    "romaji": "~ ta koto ga arimasu"
+  },
+  "sl15.pattern.3": {
+    "en": "have never done ~ / not even once / for the first time",
+    "ru": "никогда не делал ~ / ни разу / впервые",
+    "zh": "没做过〜／一次也没有／第一次",
+    "ja": "〜たことがありません・一度も・初めて",
+    "romaji": "~ ta koto ga arimasen, ichido mo, hajimete"
+  },
+  "sl15.pattern.4": {
+    "en": "doing things like ~ and ~",
+    "ru": "делать такие вещи, как ~ и ~",
+    "zh": "做〜、〜之类的事",
+    "ja": "〜たり〜たりします",
+    "romaji": "~ tari ~ tari shimasu"
+  },
+  "sl15.setup": {
+    "en": "Saturday night. Yuki's café is beautifully decorated with balloons. Today is Mei's birthday. Everyone who came back from Kyoto has gathered.",
+    "ru": "Субботний вечер. Кафе Юки красиво украшено воздушными шарами. Сегодня день рождения Мэй. Собрались все, кто вернулся из Киото.",
+    "zh": "星期六晚上。由纪的咖啡店用气球装饰得很漂亮。今天是小梅的生日。从京都回来的大家都聚在这里。",
+    "ja": "土曜日の夜。由紀のカフェは、風船で、きれいにかざられている。今日は、メイの誕生日。京都から帰ってきた、みんなが、集まっている。",
+    "romaji": "Doyoubi no yoru. Yuki no kafe wa, fuusen de, kirei ni kazararete iru. Kyou wa, Mei no tanjoubi. Kyouto kara kaette kita, minna ga, atsumatte iru."
+  },
+  "sl15.t_intro": {
+    "en": "Happy birthday, Mei. Today's theme is words for talking about experiences. Let's all share our experiences so far.",
+    "ru": "С днём рождения, Мэй. Тема сегодня — слова для рассказа об опыте. Давайте все поделимся тем, что мы пережили.",
+    "zh": "小梅，生日快乐。今天的主题是谈论经历的用语。让我们大家来聊聊各自至今的经历。",
+    "ja": "メイさん、お誕生日、おめでとうございます。今日のテーマは、経験を話す言葉です。みんなで、これまでの経験を、話してみましょう。",
+    "romaji": "Mei-san, otanjoubi, omedetou gozaimasu. Kyou no teema wa, keiken o hanasu kotoba desu. Minna de, kore made no keiken o, hanashite mimashou."
+  },
+  "sl15.s1_intro": {
+    "en": "First, let's make the “ta form.” It is very similar to the “te form.” “Te” changes to “ta,” and “de” changes to “da.”",
+    "ru": "Сначала образуем форму «та». Она очень похожа на форму «тэ». «Тэ» меняется на «та», а «дэ» — на «да».",
+    "zh": "首先来构成「た形」。它和「て形」很相似。「て」变成「た」，「で」变成「だ」。",
+    "ja": "まず、「た形」を作ります。「て形」と、よく似ています。「て」が「た」に、「で」が「だ」に変わります。",
+    "romaji": "Mazu, 'ta-kei' o tsukurimasu. 'Te-kei' to, yoku nite imasu. 'Te' ga 'ta' ni, 'de' ga 'da' ni kawarimasu."
+  },
+  "sl15.s1_ex": {
+    "en": "Tabemasu, tabeta. Mimasu, mita. Kakimasu, kaita. Yomimasu, yonda. Machimasu, matta. Ikimasu, itta. Shimasu, shita. Kimasu, kita.",
+    "ru": "Табэмас — табэта. Мимас — мита. Какимас — кайта. Ёмимас — ёнда. Мачимас — матта. Икимас — итта. Симас — сита. Кимас — кита.",
+    "zh": "食べます、食べた。見ます、見た。書きます、書いた。読みます、読んだ。待ちます、待った。行きます、行った。します、した。来ます、来た。",
+    "ja": "食べます、食べた。見ます、見た。書きます、書いた。読みます、読んだ。待ちます、待った。行きます、行った。します、した。来ます、来た。",
+    "romaji": "Tabemasu, tabeta. Mimasu, mita. Kakimasu, kaita. Yomimasu, yonda. Machimasu, matta. Ikimasu, itta. Shimasu, shita. Kimasu, kita."
+  },
+  "sl15.s1_koto": {
+    "en": "To speak of an experience, add “koto ga arimasu” to the “ta form.” “Osushi o, tabeta koto ga arimasu” means “I have the experience of having eaten sushi before.”",
+    "ru": "Чтобы говорить об опыте, к форме «та» добавляют «кото га аримас». «Осуси о, табэта кото га аримас» означает «у меня есть опыт того, что я раньше ел суши».",
+    "zh": "说经历时，在「た形」后面加上「ことがあります」。「お寿司を、食べたことがあります」的意思是“以前有过吃寿司的经历”。",
+    "ja": "経験を言うときは、「た形」に、「ことがあります」をつけます。「お寿司を、食べたことがあります」は、「前に、食べた経験がある」という意味です。",
+    "romaji": "Keiken o iu toki wa, 'ta-kei' ni, 'koto ga arimasu' o tsukemasu. 'Osushi o, tabeta koto ga arimasu' wa, 'mae ni, tabeta keiken ga aru' to iu imi desu."
+  },
+  "sl15.s1_q1": {
+    "en": "Are “tabemashita” and “tabeta koto ga arimasu” different?",
+    "ru": "«Табэмасита» и «табэта кото га аримас» отличаются?",
+    "zh": "「食べました」和「食べたことがあります」有区别吗？",
+    "ja": "「食べました」と、「食べたことがあります」は、ちがいますか？",
+    "romaji": "'Tabemashita' to, 'tabeta koto ga arimasu' wa, chigaimasu ka?"
+  },
+  "sl15.s1_a1": {
+    "en": "Yes. “Tabemashita” states the fact that you ate at some particular time. “Tabeta koto ga arimasu” means you have that experience somewhere in your life so far.",
+    "ru": "Да. «Табэмасита» констатирует факт, что вы поели в определённое время. «Табэта кото га аримас» означает, что этот опыт есть в вашей жизни до сих пор.",
+    "zh": "有区别。「食べました」是陈述在某个时候吃过这一事实。「食べたことがあります」是说在至今的人生中有过这样的经历。",
+    "ja": "はい。「食べました」は、ある時に、食べたという事実です。「食べたことがあります」は、これまでの人生に、その経験がある、という意味です。",
+    "romaji": "Hai. 'Tabemashita' wa, aru toki ni, tabeta to iu jijitsu desu. 'Tabeta koto ga arimasu' wa, kore made no jinsei ni, sono keiken ga aru, to iu imi desu."
+  },
+  "sl15.s1_q2": {
+    "en": "What does “taberu koto ga arimasu” mean?",
+    "ru": "Что означает «табэру кото га аримас»?",
+    "zh": "「食べることがあります」是什么意思？",
+    "ja": "「食べることがあります」は、どんな意味ですか？",
+    "romaji": "'Taberu koto ga arimasu' wa, donna imi desu ka?"
+  },
+  "sl15.s1_a2": {
+    "en": "“Taberu koto ga arimasu” means “I sometimes eat it.” Depending on whether it's “ta” or “ru,” the meaning changes completely. Let's be careful.",
+    "ru": "«Табэру кото га аримас» означает «иногда ем». В зависимости от того, «та» это или «ру», смысл меняется полностью. Будьте внимательны.",
+    "zh": "「食べることがあります」是“有时会吃”的意思。是「た」还是「る」，意思完全不同。要注意。",
+    "ja": "「食べることがあります」は、「ときどき、食べる」という意味です。「た」か「る」かで、意味が、ぜんぜん変わります。気をつけましょう。",
+    "romaji": "'Taberu koto ga arimasu' wa, 'tokidoki, taberu' to iu imi desu. 'Ta' ka 'ru' ka de, imi ga, zenzen kawarimasu. Ki o tsukemashou."
+  },
+  "sl15.tanaka_ask": {
+    "en": "What have you eaten in Japan?",
+    "ru": "Что вы ели в Японии?",
+    "zh": "你在日本吃过什么？",
+    "ja": "日本で、何を食べたことがありますか？",
+    "romaji": "Nihon de, nani o tabeta koto ga arimasu ka?"
+  },
+  "sl15.p1_prompt": {
+    "en": "Tanaka-sensei asked you. You have eaten sushi in Japan. How do you answer?",
+    "ru": "Танака-сэнсэй спросил вас. Вы ели суши в Японии. Что вы ответите?",
+    "zh": "田中老师问你。你在日本吃过寿司。你会怎么回答？",
+    "ja": "田中先生が、あなたに聞きました。あなたは、日本で、お寿司を、食べたことがあります。何と答えますか？",
+    "romaji": "Tanaka-sensei ga, anata ni kikimashita. Anata wa, Nihon de, osushi o, tabeta koto ga arimasu. Nan to kotaemasu ka?"
+  },
+  "sl15.c1_natural": {
+    "en": "“I have eaten sushi.”",
+    "ru": "«Я ел суши».",
+    "zh": "“我吃过寿司。”",
+    "ja": "「お寿司を、食べたことがあります。」",
+    "romaji": "'Osushi o, tabeta koto ga arimasu.'"
+  },
+  "sl15.c1_formal": {
+    "en": "“I have had the experience of partaking of sushi.”",
+    "ru": "«У меня есть опыт употребления суши».",
+    "zh": "“我有品尝过寿司的经历。”",
+    "ja": "「寿司を、いただいた経験が、ございます。」",
+    "romaji": "'Sushi o, itadaita keiken ga, gozaimasu.'"
+  },
+  "sl15.c1_mistake": {
+    "en": "“I sometimes eat sushi.”",
+    "ru": "«Я иногда ем суши».",
+    "zh": "“我有时会吃寿司。”（说成了“有时吃”，而不是“吃过”）",
+    "ja": "「お寿司を、食べることがあります。」",
+    "romaji": "'Osushi o, taberu koto ga arimasu.'"
+  },
+  "sl15.c1_own": {
+    "en": "“I have eaten sushi. It was very delicious.”",
+    "ru": "«Я ел суши. Это было очень вкусно».",
+    "zh": "“我吃过寿司。非常好吃。”",
+    "ja": "「お寿司を、食べたことがあります。とても、おいしかったです。」",
+    "romaji": "'Osushi o, tabeta koto ga arimasu. Totemo, oishikatta desu.'"
+  },
+  "sl15.c1_min": {
+    "en": "“Sushi... ate... have...”",
+    "ru": "«Суши… ел… есть…»",
+    "zh": "“寿司……吃了……有……”",
+    "ja": "「お寿司…食べた…ある…」",
+    "romaji": "'Osushi... tabeta... aru...'"
+  },
+  "sl15.p1_nat_tanaka": {
+    "en": "I see. How was the sushi in Japan?",
+    "ru": "Понятно. Как вам японские суши?",
+    "zh": "这样啊。日本的寿司怎么样？",
+    "ja": "そうですか。日本のお寿司は、どうでしたか？",
+    "romaji": "Sou desu ka. Nihon no osushi wa, dou deshita ka?"
+  },
+  "sl15.p1_form_ken": {
+    "en": "Haha, that sounds like a restaurant guide. “Tabeta koto ga arimasu” is fine.",
+    "ru": "Ха-ха, как путеводитель по ресторанам. Достаточно «табэта кото га аримас».",
+    "zh": "哈哈，像餐厅介绍一样。说「食べたことがあります」就行。",
+    "ja": "あはは、レストランの、案内みたいです。「食べたことがあります」で、いいですよ。",
+    "romaji": "Ahaha, resutoran no, annai mitai desu. 'Tabeta koto ga arimasu' de, ii desu yo."
+  },
+  "sl15.p1_mis_tanaka": {
+    "en": "Close. “Taberu koto ga arimasu” means “I sometimes eat it.” To speak of an experience, use the “ta” form and say “tabeta koto ga arimasu.”",
+    "ru": "Почти. «Табэру кото га аримас» означает «иногда ем». Чтобы говорить об опыте, используйте форму «та» и говорите «табэта кото га аримас».",
+    "zh": "很接近。「食べることがあります」是“有时会吃”的意思。说经历时，要用「食べた」的形式，说「食べたことがあります」。",
+    "ja": "惜しいです。「食べることがあります」は、「ときどき、食べる」という意味です。経験を言うときは、「食べた」の形で、「食べたことがあります」と言います。",
+    "romaji": "Oshii desu. 'Taberu koto ga arimasu' wa, 'tokidoki, taberu' to iu imi desu. Keiken o iu toki wa, 'tabeta' no katachi de, 'tabeta koto ga arimasu' to iimasu."
+  },
+  "sl15.p1_mis_retry": {
+    "en": "Oh, I have eaten sushi.",
+    "ru": "Ой, я ел суши.",
+    "zh": "啊，我吃过寿司。",
+    "ja": "あっ、お寿司を、食べたことがあります。",
+    "romaji": "A, osushi o, tabeta koto ga arimasu."
+  },
+  "sl15.p1_mis_relief": {
+    "en": "Yes, that's it. With the “ta” form, it became an experience.",
+    "ru": "Да, именно так. С формой «та» это стало опытом.",
+    "zh": "对，就是这个。用了「た」形，就变成了经历。",
+    "ja": "はい、それです。「た」の形で、経験になりました。",
+    "romaji": "Hai, sore desu. 'Ta' no katachi de, keiken ni narimashita."
+  },
+  "sl15.p1_own_tanaka": {
+    "en": "That's wonderful. Next time, please try Kyoto's delicious Japanese sweets too.",
+    "ru": "Замечательно. В следующий раз попробуйте и вкусные японские сладости Киото.",
+    "zh": "那太好了。下次也请尝尝京都好吃的和果子。",
+    "ja": "それは、よかったですね。今度は、京都の、おいしい和菓子も、食べてみてください。",
+    "romaji": "Sore wa, yokatta desu ne. Kondo wa, Kyouto no, oishii wagashi mo, tabete mite kudasai."
+  },
+  "sl15.p1_min_mei": {
+    "en": "The meaning gets across. Try putting it together: “osushi o, tabeta koto ga arimasu.”",
+    "ru": "Смысл понятен. Скажите слитно: «осуси о, табэта кото га аримас».",
+    "zh": "意思能传达。试着连成一句话：「お寿司を、食べたことがあります」。",
+    "ja": "意味は、伝わりますよ。「お寿司を、食べたことがあります」と、ひとつにして、言ってみましょう。",
+    "romaji": "Imi wa, tsutawarimasu yo. 'Osushi o, tabeta koto ga arimasu' to, hitotsu ni shite, itte mimashou."
+  },
+  "sl15.s2_intro": {
+    "en": "To ask about experience, use “~ ta koto ga arimasu ka.” The answer is “hai, arimasu” or “iie, arimasen.”",
+    "ru": "Чтобы спросить об опыте, используют «~ та кото га аримас ка». Ответ: «хай, аримас» или «ииэ, аримасэн».",
+    "zh": "询问经历时，用「〜たことがありますか」。回答是「はい、あります」或「いいえ、ありません」。",
+    "ja": "経験を聞くときは、「〜たことがありますか」です。答えは、「はい、あります」か、「いいえ、ありません」です。",
+    "romaji": "Keiken o kiku toki wa, '~ ta koto ga arimasu ka' desu. Kotae wa, 'hai, arimasu' ka, 'iie, arimasen' desu."
+  },
+  "sl15.s2_neg": {
+    "en": "When you have no experience, use “~ ta koto ga arimasen.” “Ichido mo, tabeta koto ga arimasen” is a strong way of saying “not even once.”",
+    "ru": "Когда опыта нет, используют «~ та кото га аримасэн». «Итидо мо, табэта кото га аримасэн» — сильное выражение: «ни разу».",
+    "zh": "没有经历时，用「〜たことがありません」。「一度も、食べたことがありません」是“一次都没有”的强调说法。",
+    "ja": "経験が、ないときは、「〜たことがありません」です。「一度も、食べたことがありません」は、「一回も、ない」という、強い言い方です。",
+    "romaji": "Keiken ga, nai toki wa, '~ ta koto ga arimasen' desu. 'Ichido mo, tabeta koto ga arimasen' wa, 'ikkai mo, nai' to iu, tsuyoi iikata desu."
+  },
+  "sl15.s2_q1": {
+    "en": "Can you also say “mada, tabeta koto ga arimasen”?",
+    "ru": "Можно ли сказать и «мада, табэта кото га аримасэн»?",
+    "zh": "可以说「まだ、食べたことがありません」吗？",
+    "ja": "「まだ、食べたことがありません」も、言えますか？",
+    "romaji": "'Mada, tabeta koto ga arimasen' mo, iemasu ka?"
+  },
+  "sl15.s2_a1": {
+    "en": "Yes, you can. Adding “mada” gives a feeling of “I might eat it from now on.”",
+    "ru": "Да, можно. С «мада» появляется оттенок «возможно, я ещё попробую».",
+    "zh": "可以。加上「まだ」，会带有“今后也许会吃”的感觉。",
+    "ja": "はい、言えます。「まだ」をつけると、「これから、食べるかもしれない」という感じが、入ります。",
+    "romaji": "Hai, iemasu. 'Mada' o tsukeru to, 'korekara, taberu kamoshirenai' to iu kanji ga, hairimasu."
+  },
+  "sl15.s2_q2": {
+    "en": "What about a different form, “tabenakatta koto ga arimasu”?",
+    "ru": "А что насчёт другой формы: «табэнакатта кото га аримас»?",
+    "zh": "如果换一种形式，说「食べなかったことがあります」呢？",
+    "ja": "ちがう形で、「食べなかったことがあります」は、どうですか？",
+    "romaji": "'Chigau katachi de, 'tabenakatta koto ga arimasu' wa, dou desu ka?"
+  },
+  "sl15.s2_a2": {
+    "en": "That would have the strange meaning of “I have the experience of not having eaten.” When you want to say “I have no experience,” you say “tabeta koto ga arimasen.”",
+    "ru": "Это получится странный смысл: «у меня есть опыт того, что я не ел». Когда хотите сказать «у меня нет опыта», говорят «табэта кото га аримасэн».",
+    "zh": "那样就变成了“有过没吃的经历”这种奇怪的意思。想说“没有经历”时，要说「食べたことがありません」。",
+    "ja": "それは、「食べなかった、経験がある」という、ふしぎな意味になります。「経験がない」と言いたいときは、「食べたことがありません」です。",
+    "romaji": "Sore wa, 'tabenakatta, keiken ga aru' to iu, fushigi na imi ni narimasu. 'Keiken ga nai' to iitai toki wa, 'tabeta koto ga arimasen' desu."
+  },
+  "sl15.m_ask": {
+    "en": "Have you ever eaten natto?",
+    "ru": "Вы когда-нибудь ели натто?",
+    "zh": "你吃过纳豆吗？",
+    "ja": "納豆を、食べたことがありますか？",
+    "romaji": "Nattou o, tabeta koto ga arimasu ka?"
+  },
+  "sl15.p2_prompt": {
+    "en": "Mei asked. You have never once eaten natto. How do you answer?",
+    "ru": "Мэй спросила. Вы ни разу не ели натто. Что вы ответите?",
+    "zh": "小梅问了。你一次也没吃过纳豆。你会怎么回答？",
+    "ja": "メイさんが、聞きました。あなたは、納豆を、一度も、食べたことがありません。何と答えますか？",
+    "romaji": "Mei-san ga, kikimashita. Anata wa, nattou o, ichido mo, tabeta koto ga arimasen. Nan to kotaemasu ka?"
+  },
+  "sl15.c2_natural": {
+    "en": "“No, I have never eaten it, not even once.”",
+    "ru": "«Нет, ни разу не ел».",
+    "zh": "“不，我一次也没吃过。”",
+    "ja": "「いいえ、一度も、食べたことがありません。」",
+    "romaji": "'Iie, ichido mo, tabeta koto ga arimasen.'"
+  },
+  "sl15.c2_formal": {
+    "en": "“No, I have not yet had it in my mouth even once.”",
+    "ru": "«Нет, я до сих пор ни разу не пробовал».",
+    "zh": "“不，至今我一次也没有尝过。”",
+    "ja": "「いえ、いまだ、一度も、口にしたことがございません。」",
+    "romaji": "'Ie, imada, ichido mo, kuchi ni shita koto ga gozaimasen.'"
+  },
+  "sl15.c2_mistake": {
+    "en": "“No, I have the experience of not having eaten.”",
+    "ru": "«Нет, у меня есть опыт того, что я не ел».",
+    "zh": "“不，我有过没吃的经历。”",
+    "ja": "「いいえ、食べなかったことが、あります。」",
+    "romaji": "'Iie, tabenakatta koto ga, arimasu.'"
+  },
+  "sl15.c2_own": {
+    "en": "“No, I have never eaten it. But I'd like to try.”",
+    "ru": "«Нет, ни разу не ел. Но хотел бы попробовать».",
+    "zh": "“不，我一次也没吃过。不过我想尝尝。”",
+    "ja": "「いいえ、一度も、食べたことがありません。でも、食べてみたいです。」",
+    "romaji": "'Iie, ichido mo, tabeta koto ga arimasen. Demo, tabete mitai desu.'"
+  },
+  "sl15.c2_min": {
+    "en": "“No... not...”",
+    "ru": "«Нет… нет…»",
+    "zh": "“不……没有……”",
+    "ja": "「いいえ…ない…」",
+    "romaji": "'Iie... nai...'"
+  },
+  "sl15.p2_nat_mei": {
+    "en": "I see. I wasn't good with it at first either. But now I like it.",
+    "ru": "Понятно. Мне он сначала тоже не давался. Но теперь мне нравится.",
+    "zh": "这样啊。我一开始也不太行。不过现在很喜欢。",
+    "ja": "そうですか。わたしも、最初は、にがてでしたよ。でも、今は、好きです。",
+    "romaji": "Sou desu ka. Watashi mo, saisho wa, nigate deshita yo. Demo, ima wa, suki desu."
+  },
+  "sl15.p2_form_yuki": {
+    "en": "Ha, it's just about natto. “Ichido mo, tabeta koto ga arimasen” is fine.",
+    "ru": "Ха-ха, речь всего лишь о натто. Достаточно «итидо мо, табэта кото га аримасэн».",
+    "zh": "呵呵，只是纳豆而已。说「一度も、食べたことがありません」就行。",
+    "ja": "ふふ、納豆の話ですよ。「一度も、食べたことがありません」で、いいです。",
+    "romaji": "Fufu, nattou no hanashi desu yo. 'Ichido mo, tabeta koto ga arimasen' de, ii desu."
+  },
+  "sl15.p2_mis_tanaka": {
+    "en": "Close. “Tabenakatta koto ga arimasu” means “I have the experience of not having eaten.” When you have no experience, it's “tabeta koto ga arimasen.”",
+    "ru": "Почти. «Табэнакатта кото га аримас» означает «у меня есть опыт того, что я не ел». Когда опыта нет, нужно «табэта кото га аримасэн».",
+    "zh": "很接近。「食べなかったことがあります」的意思是“有过没吃的经历”。没有经历时，要说「食べたことがありません」。",
+    "ja": "惜しいです。「食べなかったことがあります」は、「食べなかった、経験がある」という意味になります。経験がないときは、「食べたことがありません」です。",
+    "romaji": "Oshii desu. 'Tabenakatta koto ga arimasu' wa, 'tabenakatta, keiken ga aru' to iu imi ni narimasu. Keiken ga nai toki wa, 'tabeta koto ga arimasen' desu."
+  },
+  "sl15.p2_mis_retry": {
+    "en": "Oh, no, I have never eaten it.",
+    "ru": "Ой, нет, я ни разу не ел.",
+    "zh": "啊，不，我一次也没吃过。",
+    "ja": "あっ、いいえ、一度も、食べたことがありません。",
+    "romaji": "A, iie, ichido mo, tabeta koto ga arimasen."
+  },
+  "sl15.p2_mis_relief": {
+    "en": "Yes, that's it. With “arimasen,” the fact that you have no experience came across.",
+    "ru": "Да, именно так. С «аримасэн» стало ясно, что опыта нет.",
+    "zh": "对，就是这个。用了「ありません」，就传达出了没有经历这一点。",
+    "ja": "はい、それです。「ありません」で、経験がないことが、伝わりました。",
+    "romaji": "Hai, sore desu. 'Arimasen' de, keiken ga nai koto ga, tsutawarimashita."
+  },
+  "sl15.p2_own_mei": {
+    "en": "In that case, let's try it together sometime.",
+    "ru": "Тогда как-нибудь попробуем вместе.",
+    "zh": "那样的话，下次我们一起尝尝吧。",
+    "ja": "それなら、今度、いっしょに、食べてみましょう。",
+    "romaji": "Sore nara, kondo, issho ni, tabete mimashou."
+  },
+  "sl15.p2_min_ken": {
+    "en": "The meaning gets across. Try saying it politely: “tabeta koto ga arimasen.”",
+    "ru": "Смысл понятен. Скажите вежливо: «табэта кото га аримасэн».",
+    "zh": "意思能传达。试着礼貌地说：「食べたことがありません」。",
+    "ja": "意味は、伝わります。「食べたことがありません」と、ていねいに言ってみましょう。",
+    "romaji": "Imi wa, tsutawarimasu. 'Tabeta koto ga arimasen' to, teinei ni itte mimashou."
+  },
+  "sl15.s3_intro": {
+    "en": "To speak of how many times you have experienced something, use “kai.” “Ikkai,” “nikai,” “sankai.” You ask the number of times with “nankai.”",
+    "ru": "Чтобы сказать, сколько раз что-то случалось, используют «кай»: «иккай», «никай», «санкай». Число раз спрашивают с помощью «нанкай».",
+    "zh": "说经历的次数时，用「回」。「一回」「二回」「三回」。问次数用「何回」。",
+    "ja": "経験の回数を言うときは、「回」を使います。「一回」「二回」「三回」。「何回」で、回数を聞きます。",
+    "romaji": "Keiken no kaisuu o iu toki wa, 'kai' o tsukaimasu. 'Ikkai' 'nikai' 'sankai'. 'Nankai' de, kaisuu o kikimasu."
+  },
+  "sl15.s3_ex": {
+    "en": "I have climbed Mount Fuji twice. There is also the way of saying “ichido” and “nido.”",
+    "ru": "Я дважды поднимался на гору Фудзи. Есть и способ говорить «итидо», «нидо».",
+    "zh": "我爬过两次富士山。也有「一度」「二度」这样的说法。",
+    "ja": "富士山に、二回、登ったことがあります。「一度」「二度」という言い方もあります。",
+    "romaji": "Fujisan ni, nikai, nobotta koto ga arimasu. 'Ichido' 'nido' to iu iikata mo arimasu."
+  },
+  "sl15.s3_first": {
+    "en": "For a first-time experience, use “hajimete.” “Hajimete, nattou o tabemashita” describes a first-time experience. It is a different word from “hajimemashite.”",
+    "ru": "Для первого опыта используют «хадзимэтэ». «Хадзимэтэ, натто о табэмасита» описывает первый опыт. Это другое слово, чем «хадзимэмасите».",
+    "zh": "第一次的经历，用「初めて」。「初めて、納豆を食べました」表示第一次的经历。它和「初めまして」是不同的词。",
+    "ja": "はじめての経験は、「初めて」を使います。「初めて、納豆を食べました」は、「はじめて」の経験を表します。「初めまして」とは、ちがう言葉ですよ。",
+    "romaji": "Hajimete no keiken wa, 'hajimete' o tsukaimasu. 'Hajimete, nattou o tabemashita' wa, 'hajimete' no keiken o arawashimasu. 'Hajimemashite' to wa, chigau kotoba desu yo."
+  },
+  "sl15.s3_q1": {
+    "en": "How do you choose between “ichido mo” and “hajimete”?",
+    "ru": "Как выбирать между «итидо мо» и «хадзимэтэ»?",
+    "zh": "「一度も」和「初めて」该怎么区分？",
+    "ja": "「一度も」と、「初めて」は、どう使い分けますか？",
+    "romaji": "'Ichido mo' to, 'hajimete' wa, dou tsukaiwakemasu ka?"
+  },
+  "sl15.s3_a1": {
+    "en": "“Ichido mo” emphasizes that it has never happened. “Hajimete” describes experiencing something for the first time now. Compare “hajimete tabemashita” with “ichido mo tabeta koto ga arimasen.”",
+    "ru": "«Итидо мо» подчёркивает, что этого не было. «Хадзимэтэ» описывает то, что вы переживаете впервые. Сравните «хадзимэтэ табэмасита» и «итидо мо табэта кото га аримасэн».",
+    "zh": "「一度も」强调从未发生过。「初めて」说的是现在第一次经历某事。请比较「初めて食べました」和「一度も食べたことがありません」。",
+    "ja": "「一度も」は、ないことを強く言います。「初めて」は、今、はじめて経験することを、言います。「初めて食べました」と、「一度も食べたことがありません」を、比べてみましょう。",
+    "romaji": "'Ichido mo' wa, nai koto o tsuyoku iimasu. 'Hajimete' wa, ima, hajimete keiken suru koto o, iimasu. 'Hajimete tabemashita' to, 'ichido mo tabeta koto ga arimasen' o, kurabete mimashou."
+  },
+  "sl15.s3_q2": {
+    "en": "Is the answer to “nankai” something like “nikai desu”?",
+    "ru": "Ответ на «нанкай» — «никай дэс»?",
+    "zh": "「何回」的回答是「二回です」吗？",
+    "ja": "「何回」の答えは、「二回です」ですか？",
+    "romaji": "'Nankai' no kotae wa, 'nikai desu' desu ka?"
+  },
+  "sl15.s3_a2": {
+    "en": "Yes, either “nikai desu” or “nikai, ikimashita” works. Putting the number of times inside the sentence sounds natural.",
+    "ru": "Да, подходит и «никай дэс», и «никай, икимасита». Если вставить число раз в предложение, звучит естественно.",
+    "zh": "可以，说「二回です」或「二回、行きました」都行。把次数放进句子里，听起来很自然。",
+    "ja": "はい、「二回です」でも、「二回、行きました」でも、大丈夫です。文の中に、回数を入れれば、自然です。",
+    "romaji": "Hai, 'nikai desu' demo, 'nikai, ikimashita' demo, daijoubu desu. Bun no naka ni, kaisuu o irereba, shizen desu."
+  },
+  "sl15.y_ask": {
+    "en": "Have you ever climbed Mount Fuji?",
+    "ru": "Вы когда-нибудь поднимались на гору Фудзи?",
+    "zh": "你爬过富士山吗？",
+    "ja": "富士山に、登ったことがありますか？",
+    "romaji": "Fujisan ni, nobotta koto ga arimasu ka?"
+  },
+  "sl15.p3_prompt": {
+    "en": "Yuki asked. You have climbed Mount Fuji once. How do you answer?",
+    "ru": "Юки спросила. Вы один раз поднимались на гору Фудзи. Что вы ответите?",
+    "zh": "由纪问了。你爬过一次富士山。你会怎么回答？",
+    "ja": "由紀さんが、聞きました。あなたは、富士山に、一度、登ったことがあります。何と答えますか？",
+    "romaji": "Yuki-san ga, kikimashita. Anata wa, Fujisan ni, ichido, nobotta koto ga arimasu. Nan to kotaemasu ka?"
+  },
+  "sl15.c3_natural": {
+    "en": "“Yes, I've climbed it once.”",
+    "ru": "«Да, я поднимался один раз».",
+    "zh": "“是的，我爬过一次。”",
+    "ja": "「はい、一度、登ったことがあります。」",
+    "romaji": "'Hai, ichido, nobotta koto ga arimasu.'"
+  },
+  "sl15.c3_formal": {
+    "en": "“Yes, I have had the experience of reaching the summit just once.”",
+    "ru": "«Да, у меня есть опыт восхождения на вершину, один раз».",
+    "zh": "“是的，我有过一次登顶的经历。”",
+    "ja": "「はい、一度だけ、登頂した経験が、ございます。」",
+    "romaji": "'Hai, ichido dake, touchou shita keiken ga, gozaimasu.'"
+  },
+  "sl15.c3_mistake": {
+    "en": "“Yes, I've once noborita.”",
+    "ru": "«Да, я один раз нобори-та».",
+    "zh": "“是的，我一度登りた过。”（た形没变对）",
+    "ja": "「はい、一度、登りたことがあります。」",
+    "romaji": "'Hai, ichido, noboritta koto ga arimasu.'"
+  },
+  "sl15.c3_own": {
+    "en": "“Yes, I've climbed it once. I went with friends in the summer.”",
+    "ru": "«Да, я поднимался один раз. Летом, с друзьями».",
+    "zh": "“是的，我爬过一次。夏天和朋友一起去的。”",
+    "ja": "「はい、一度、登ったことがあります。夏に、友達と、行きました。」",
+    "romaji": "'Hai, ichido, nobotta koto ga arimasu. Natsu ni, tomodachi to, ikimashita.'"
+  },
+  "sl15.c3_min": {
+    "en": "“Yes... once... climbed...”",
+    "ru": "«Да… один раз… поднимался…»",
+    "zh": "“是的……一次……爬了……”",
+    "ja": "「はい…一度…登った…」",
+    "romaji": "'Hai... ichido... nobotta...'"
+  },
+  "sl15.p3_nat_yuki": {
+    "en": "Wow! How was it? I've never climbed it, not even once.",
+    "ru": "Здорово! Как это было? Я ни разу не поднималась.",
+    "zh": "真厉害！怎么样？我一次也没爬过。",
+    "ja": "すごい！どうでしたか？わたしは、一度も、登ったことがありません。",
+    "romaji": "Sugoi! Dou deshita ka? Watashi wa, ichido mo, nobotta koto ga arimasen."
+  },
+  "sl15.p3_form_ken": {
+    "en": "Haha, you sound like a mountaineer. “Ichido, nobotta koto ga arimasu” is plenty.",
+    "ru": "Ха-ха, как альпинист. Достаточно «итидо, нобота кото га аримас».",
+    "zh": "哈哈，像登山家一样。说「一度、登ったことがあります」就足够了。",
+    "ja": "あはは、登山家みたいです。「一度、登ったことがあります」で、じゅうぶんですよ。",
+    "romaji": "Ahaha, tozanka mitai desu. 'Ichido, nobotta koto ga arimasu' de, juubun desu yo."
+  },
+  "sl15.p3_mis_tanaka": {
+    "en": "Close. The “ta form” of “noborimasu” is “nobotta.” It is not “noborita.” Add “koto ga arimasu” to “nobotta.”",
+    "ru": "Почти. Форма «та» от «боримас» — «нобота». Не «нобори-та». К «нобота» добавляют «кото га аримас».",
+    "zh": "很接近。「登ります」的「た形」是「登った」。不是「登りた」。在「登った」后面加「ことがあります」。",
+    "ja": "惜しいです。「登ります」の「た形」は、「登った」です。「登りた」ではありません。「登った」に、「ことがあります」をつけます。",
+    "romaji": "Oshii desu. 'Noborimasu' no 'ta-kei' wa, 'nobotta' desu. 'Noborita' de wa arimasen. 'Nobotta' ni, 'koto ga arimasu' o tsukemasu."
+  },
+  "sl15.p3_mis_retry": {
+    "en": "Oh, yes, I've climbed it once.",
+    "ru": "Ой, да, я поднимался один раз.",
+    "zh": "啊，是的，我爬过一次。",
+    "ja": "あっ、はい、一度、登ったことがあります。",
+    "romaji": "A, hai, ichido, nobotta koto ga arimasu."
+  },
+  "sl15.p3_mis_relief": {
+    "en": "Yes, that's it. You formed “nobotta” properly.",
+    "ru": "Да, именно так. Вы правильно образовали «нобота».",
+    "zh": "对，就是这个。「登った」这个形式你构成得很好。",
+    "ja": "はい、それです。「登った」の形が、ちゃんと作れましたね。",
+    "romaji": "Hai, sore desu. 'Nobotta' no katachi ga, chanto tsukuremashita ne."
+  },
+  "sl15.p3_own_yuki": {
+    "en": "Mount Fuji in summer. How wonderful. Please show me your photos sometime.",
+    "ru": "Гора Фудзи летом. Прекрасно. Покажите как-нибудь ваши фотографии.",
+    "zh": "夏天的富士山啊。真棒。下次请给我看看照片。",
+    "ja": "夏の富士山ですね。すてきです。今度、写真を、見せてください。",
+    "romaji": "Natsu no Fujisan desu ne. Suteki desu. Kondo, shashin o, misete kudasai."
+  },
+  "sl15.p3_min_mei": {
+    "en": "I understand. Try connecting it: “ichido, nobotta koto ga arimasu.”",
+    "ru": "Понимаю. Скажите слитно: «итидо, нобота кото га аримас».",
+    "zh": "我明白。试着连起来说：「一度、登ったことがあります」。",
+    "ja": "分かりますよ。「一度、登ったことがあります」と、つなげて、言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Ichido, nobotta koto ga arimasu' to, tsunagete, itte mimashou."
+  },
+  "sl15.s4_intro": {
+    "en": "The last is “~ tari, ~ tari shimasu.” It is a form for listing several actions as examples.",
+    "ru": "Последнее — «~ тари, ~ тари симас». Это форма для перечисления нескольких действий в качестве примеров.",
+    "zh": "最后是「〜たり、〜たりします」。是把几个动作作为例子并列出来的句型。",
+    "ja": "最後は、「〜たり、〜たりします」です。いくつかの行動を、例として、ならべる形です。",
+    "romaji": "Saigo wa, '~ tari, ~ tari shimasu' desu. Ikutsu ka no koudou o, rei to shite, naraberu katachi desu."
+  },
+  "sl15.s4_ex": {
+    "en": "On my days off, I do things like reading books, watching movies, and meeting friends.",
+    "ru": "В выходные я читаю книги, смотрю фильмы, встречаюсь с друзьями и делаю тому подобное.",
+    "zh": "休息日的时候，我会读读书、看看电影、见见朋友。",
+    "ja": "休みの日は、本を読んだり、映画を見たり、友達に会ったりします。",
+    "romaji": "Yasumi no hi wa, hon o yondari, eiga o mitari, tomodachi ni attari shimasu."
+  },
+  "sl15.s4_form": {
+    "en": "Add “ri” to the “ta form”: “yondari,” “mitari.” Then finish with “shimasu.” For the past, it's “shimashita.”",
+    "ru": "К форме «та» добавляют «ри»: «ёндари», «митари». В конце добавляют «симас». Для прошедшего времени — «симасита».",
+    "zh": "在「た形」后面加「り」：「読んだり」「見たり」。最后加上「します」。过去式则是「しました」。",
+    "ja": "「た形」に、「り」をつけます。「読んだり」「見たり」。最後に、「します」をつけます。過去なら、「しました」です。",
+    "romaji": "'Ta-kei' ni, 'ri' o tsukemasu. 'Yondari' 'mitari'. Saigo ni, 'shimasu' o tsukemasu. Kako nara, 'shimashita' desu."
+  },
+  "sl15.s4_q1": {
+    "en": "Is it okay not to say the second “tari”?",
+    "ru": "Можно ли не говорить второе «тари»?",
+    "zh": "可以不说第二个「たり」吗？",
+    "ja": "二つ目の「たり」を、言わなくても、いいですか？",
+    "romaji": "'Futatsume no 'tari' o, iwanakute mo, ii desu ka?"
+  },
+  "sl15.s4_a1": {
+    "en": "No, listing two or more is the norm. “Hon o yondari, eiga o mimasu” sounds unnatural. It's “hon o yondari, eiga o mitari shimasu.”",
+    "ru": "Нет, обычно перечисляют два или более. «Хон о ёндари, эйга о симас» звучит неестественно. Нужно «хон о ёндари, эйга о митари симас».",
+    "zh": "不行，通常要并列两个以上。「本を読んだり、映画を見ます」听起来不自然。要说「本を読んだり、映画を見たりします」。",
+    "ja": "いいえ、二つ以上、ならべるのが、ふつうです。「本を読んだり、映画を見ます」は、不自然です。「本を読んだり、映画を見たりします」です。",
+    "romaji": "Iie, futatsu ijou, naraberu no ga, futsuu desu. 'Hon o yondari, eiga o mimasu' wa, fushizen desu. 'Hon o yondari, eiga o mitari shimasu' desu."
+  },
+  "sl15.s4_q2": {
+    "en": "What do you do when listing nouns?",
+    "ru": "Что делать, когда перечисляют существительные?",
+    "zh": "并列名词时该怎么办？",
+    "ja": "名詞を、ならべるときは、どうしますか？",
+    "romaji": "'Meishi' o, naraberu toki wa, dou shimasu ka?"
+  },
+  "sl15.s4_a2": {
+    "en": "For nouns, use “ya”: “hon ya, zasshi o, yomimasu.” For verbs, use “tari.”",
+    "ru": "Для существительных используют «я»: «хон я, дзасси о, ёмимас». Для глаголов — «тари».",
+    "zh": "名词用「や」：「本や、雑誌を、読みます」。动词用「たり」。",
+    "ja": "名詞のときは、「や」を使います。「本や、雑誌を、読みます」。動詞のときは、「たり」です。",
+    "romaji": "Meishi no toki wa, 'ya' o tsukaimasu. 'Hon ya, zasshi o, yomimasu'. Doushi no toki wa, 'tari' desu."
+  },
+  "sl15.tanaka_holiday": {
+    "en": "What do you usually do on your days off?",
+    "ru": "Что вы обычно делаете в выходные?",
+    "zh": "休息日你通常做什么？",
+    "ja": "休みの日は、いつも、何をしますか？",
+    "romaji": "Yasumi no hi wa, itsumo, nani o shimasu ka?"
+  },
+  "sl15.p4_prompt": {
+    "en": "Tanaka-sensei asked. On your days off, you do things like reading books and watching movies. How do you answer?",
+    "ru": "Танака-сэнсэй спросил. В выходные вы читаете книги, смотрите фильмы и делаете тому подобное. Что вы ответите?",
+    "zh": "田中老师问了。你在休息日会读读书、看看电影。你会怎么回答？",
+    "ja": "田中先生が、聞きました。あなたは、休みの日に、本を読んだり、映画を見たり、しています。何と答えますか？",
+    "romaji": "Tanaka-sensei ga, kikimashita. Anata wa, yasumi no hi ni, hon o yondari, eiga o mitari, shite imasu. Nan to kotaemasu ka?"
+  },
+  "sl15.c4_natural": {
+    "en": "“I do things like reading books and watching movies.”",
+    "ru": "«Я читаю книги, смотрю фильмы и тому подобное».",
+    "zh": "“我会读读书、看看电影。”",
+    "ja": "「本を読んだり、映画を見たりします。」",
+    "romaji": "'Hon o yondari, eiga o mitari shimasu.'"
+  },
+  "sl15.c4_formal": {
+    "en": "“I indulge in pastimes such as reading and film appreciation.”",
+    "ru": "«Я увлекаюсь такими занятиями, как чтение и просмотр кино».",
+    "zh": "“我爱好读书、欣赏电影等。”",
+    "ja": "「読書や、映画鑑賞などを、嗜んでおります。」",
+    "romaji": "'Dokusho ya, eiga kanshou nado o, tashinande orimasu.'"
+  },
+  "sl15.c4_mistake": {
+    "en": "“I do things like reading books, and watch movies.”",
+    "ru": "«Я читаю книги и смотрю фильмы (с одним «тари»)».",
+    "zh": "“我读读书，看电影。”（只用了一个「たり」）",
+    "ja": "「本を読んだり、映画を見ます。」",
+    "romaji": "'Hon o yondari, eiga o mimasu.'"
+  },
+  "sl15.c4_own": {
+    "en": "“I do things like reading books, watching movies, and meeting friends.”",
+    "ru": "«Я читаю книги, смотрю фильмы, встречаюсь с друзьями и тому подобное».",
+    "zh": "“我会读读书、看看电影、见见朋友。”",
+    "ja": "「本を読んだり、映画を見たり、友達に会ったりします。」",
+    "romaji": "'Hon o yondari, eiga o mitari, tomodachi ni attari shimasu.'"
+  },
+  "sl15.c4_min": {
+    "en": "“Books... movies... do...”",
+    "ru": "«Книги… фильмы… делаю…»",
+    "zh": "“书……电影……做……”",
+    "ja": "「本…映画…します…」",
+    "romaji": "'Hon... eiga... shimasu...'"
+  },
+  "sl15.p4_nat_tanaka": {
+    "en": "Nice. On my days off, I look at the flowers in the garden and take walks.",
+    "ru": "Здорово. В выходные я смотрю на цветы в саду и гуляю.",
+    "zh": "不错。我在休息日会看看院子里的花、散散步。",
+    "ja": "いいですね。私は、休みの日に、庭の花を見たり、散歩をしたりします。",
+    "romaji": "Ii desu ne. Watashi wa, yasumi no hi ni, niwa no hana o mitari, sanpo o shitari shimasu."
+  },
+  "sl15.p4_form_mei": {
+    "en": "Ha, those are difficult words. “Hon o yondari, eiga o mitari shimasu” is fine.",
+    "ru": "Ха-ха, какие сложные слова. Достаточно «хон о ёндари, эйга о митари симас».",
+    "zh": "呵呵，这些词好难。说「本を読んだり、映画を見たりします」就行。",
+    "ja": "ふふ、むずかしい言葉ですね。「本を読んだり、映画を見たりします」で、いいですよ。",
+    "romaji": "Fufu, muzukashii kotoba desu ne. 'Hon o yondari, eiga o mitari shimasu' de, ii desu yo."
+  },
+  "sl15.p4_mis_tanaka": {
+    "en": "Close. “Tari” is used to list two or more items. After “yondari,” you also need “mitari.” You say “yondari, mitari shimasu.”",
+    "ru": "Почти. «Тари» используют для перечисления двух и более действий. После «ёндари» нужно и «митари». Говорят «ёндари, митари симас».",
+    "zh": "很接近。「たり」用来并列两个以上的动作。「読んだり」之后也需要「見たり」。说「読んだり、見たりします」。",
+    "ja": "惜しいです。「たり」は、二つ以上、ならべます。「読んだり」のあとに、「見たり」も必要です。「読んだり、見たりします」と言います。",
+    "romaji": "Oshii desu. 'Tari' wa, futatsu ijou, narabemasu. 'Yondari' no ato ni, 'mitari' mo hitsuyou desu. 'Yondari, mitari shimasu' to iimasu."
+  },
+  "sl15.p4_mis_retry": {
+    "en": "Oh, I do things like reading books and watching movies.",
+    "ru": "Ой, я читаю книги, смотрю фильмы и тому подобное.",
+    "zh": "啊，我会读读书、看看电影。",
+    "ja": "あっ、本を読んだり、映画を見たりします。",
+    "romaji": "A, hon o yondari, eiga o mitari shimasu."
+  },
+  "sl15.p4_mis_relief": {
+    "en": "Yes, that's it. Both “tari” are in place.",
+    "ru": "Да, именно так. Оба «тари» на месте.",
+    "zh": "对，就是这个。两个「たり」都齐了。",
+    "ja": "はい、それです。二つの「たり」が、そろいました。",
+    "romaji": "Hai, sore desu. Futatsu no 'tari' ga, soroimashita."
+  },
+  "sl15.p4_own_tanaka": {
+    "en": "What a lovely holiday. You listed three things.",
+    "ru": "Прекрасный выходной. Вы перечислили три занятия.",
+    "zh": "真是个美好的休息日。你并列了三件事呢。",
+    "ja": "すてきな、休日ですね。三つ、ならべられましたね。",
+    "romaji": "Suteki na, kyuujitsu desu ne. Mittsu, narabemashita ne."
+  },
+  "sl15.p4_min_ken": {
+    "en": "I understand. Try shaping it into a sentence: “hon o yondari, eiga o mitari shimasu.”",
+    "ru": "Понимаю. Попробуйте оформить это в предложение: «хон о ёндари, эйга о митари симас».",
+    "zh": "我明白。试着组成一个句子：「本を読んだり、映画を見たりします」。",
+    "ja": "分かりますよ。「本を読んだり、映画を見たりします」と、形にしてみましょう。",
+    "romaji": "Wakarimasu yo. 'Hon o yondari, eiga o mitari shimasu' to, katachi ni shite mimashou."
+  },
+  "sl15.talk_open": {
+    "en": "Now let's talk. Out of today's four forms, which one makes you want to talk the most?",
+    "ru": "Теперь поговорим. Какая из сегодняшних четырёх форм больше всего располагает к разговору?",
+    "zh": "现在来聊聊。今天这四个句型里，哪一个最让你想开口说话？",
+    "ja": "では、話しましょう。今日の四つの形の中で、いちばん、話したくなる形は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no yottsu no katachi no naka de, ichiban, hanashitaku naru katachi wa, dore desu ka?"
+  },
+  "sl15.talk_mei": {
+    "en": "For me, it's “~ ta koto ga arimasu.” I was happy to hear so many of your experiences.",
+    "ru": "Для меня это «~ та кото га аримас». Мне было приятно услышать столько ваших рассказов о пережитом.",
+    "zh": "我觉得是「〜たことがあります」。能听到大家这么多的经历，我很开心。",
+    "ja": "わたしは、「〜たことがあります」です。みなさんの経験が、たくさん聞けて、うれしかったです。",
+    "romaji": "Watashi wa, '~ ta koto ga arimasu' desu. Minasan no keiken ga, takusan kikete, ureshikatta desu."
+  },
+  "sl15.talk_ken": {
+    "en": "For me, it's the “ta form.” I'm practicing it together with the “te form.”",
+    "ru": "Для меня это форма «та». Я практикуюсь с ней вместе с формой «тэ».",
+    "zh": "我觉得是「た形」。我正在和「て形」一起练习。",
+    "ja": "ぼくは、「た形」です。「て形」と、いっしょに、練習しています。",
+    "romaji": "Boku wa, 'ta-kei' desu. 'Te-kei' to, issho ni, renshuu shite imasu."
+  },
+  "sl15.talk_yuki": {
+    "en": "For me, it's “~ tari ~ tari.” Because I can talk about my days off right away.",
+    "ru": "Для меня это «~ тари ~ тари». Потому что я сразу могу рассказать о своих выходных.",
+    "zh": "我觉得是「〜たり〜たり」。因为马上就能聊休息日的事了。",
+    "ja": "わたしは、「〜たり〜たり」です。休みの日の話が、すぐ、できますから。",
+    "romaji": "Watashi wa, '~ tari ~ tari' desu. Yasumi no hi no hanashi ga, sugu, dekimasu kara."
+  },
+  "sl15.mei_thanks": {
+    "en": "Thank you for today. The fact that we all went to Kyoto together is a memory I'll keep for my whole life.",
+    "ru": "Спасибо за сегодняшний день. То, что мы все вместе съездили в Киото, — воспоминание на всю жизнь.",
+    "zh": "谢谢大家今天来。大家一起去京都的这件事，是我一生的回忆。",
+    "ja": "今日は、ありがとうございました。京都に、みんなで行ったことは、わたしの、一生の思い出です。",
+    "romaji": "Kyou wa, arigatou gozaimashita. Kyouto ni, minna de itta koto wa, watashi no, isshou no omoide desu."
+  },
+  "sl15.talk_tanaka": {
+    "en": "Lovely. When you talk about experiences, they become memories. And memories bring the next experiences.",
+    "ru": "Прекрасно. Когда вы рассказываете об опыте, он становится воспоминанием. А воспоминания приводят с собой следующий опыт.",
+    "zh": "真好。经历讲出来，就变成了回忆。而回忆，会带来下一次的经历。",
+    "ja": "すてきですね。経験は、話すと、思い出になります。そして、思い出は、次の経験を、つれてきます。",
+    "romaji": "Suteki desu ne. Keiken wa, hanasu to, omoide ni narimasu. Soshite, omoide wa, tsugi no keiken o, tsurete kimasu."
+  },
+  "sl15.talk_player": {
+    "en": "(I have eaten it, I have climbed it, I have never eaten it. When you talk about experiences, you can catch a glimpse of that person's life. Today's party has become an important memory for me too.)",
+    "ru": "(Я ел, я поднимался, я ни разу не ел. Когда рассказываешь об опыте, можно немного увидеть жизнь человека. Сегодняшняя вечеринка стала важным воспоминанием и для меня.)",
+    "zh": "（吃过、爬过、一次也没吃过。谈论经历，就能窥见那个人的一点人生。今天的派对，对我来说也成了重要的回忆。）",
+    "ja": "（食べたことがあります、登ったことがあります、一度も食べたことがありません。経験を話すと、その人の人生が、少し見える。今日のパーティーは、わたしにとっても、大切な思い出になった。）",
+    "romaji": "(Tabeta koto ga arimasu, nobotta koto ga arimasu, ichido mo tabeta koto ga arimasen. Keiken o hanasu to, sono hito no jinsei ga, sukoshi mieru. Kyou no paatii wa, watashi ni totte mo, taisetsu na omoide ni natta.)"
+  },
+  "sl15.talk_close": {
+    "en": "Good lesson, everyone. In the next class, let's share our own thoughts with “~ to omoimasu.”",
+    "ru": "Хороший урок, все. На следующем уроке поделимся своими мыслями с помощью «~ то омоимас».",
+    "zh": "各位，这节课很棒。下节课我们用「〜と思います」来说说自己的想法。",
+    "ja": "みなさん、いいレッスンでした。次の授業では、「〜と思います」で、自分の考えを話しましょう。",
+    "romaji": "Minasan, ii ressun deshita. Tsugi no jugyou de wa, '~ to omoimasu' de, jibun no kangae o hanashimashou."
+  },
+  "sl15.complete": {
+    "en": "End of Sentence Lesson 15.",
+    "ru": "Конец урока предложений 15.",
+    "zh": "句型课 15 结束。",
+    "ja": "文型レッスン15、おわり。",
+    "romaji": "Bunkei ressun juugo, owari."
+  }
+}

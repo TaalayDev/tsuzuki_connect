@@ -1,0 +1,982 @@
+{
+  "vl14.title": {
+    "en": "When You Get Lost at the Station",
+    "ru": "Если вы заблудились на вокзале",
+    "zh": "在车站迷路了怎么办",
+    "ja": "駅で、道に迷ったら",
+    "romaji": "Eki de, michi ni mayottara"
+  },
+  "vl14.subtitle": {
+    "en": "Practising going alone and meeting at the ticket gate",
+    "ru": "Учимся ехать одному и встречаться у турникетов",
+    "zh": "练习独自出行并在检票口会合",
+    "ja": "改札で会う、ひとりで行く、練習",
+    "romaji": "Kaisatsu de au, hitori de iku, renshuu"
+  },
+  "vl14.description": {
+    "en": "Practise ten words you can use when meeting at a station and when you get lost.",
+    "ru": "Потренируйте десять слов, которые пригодятся при встрече на вокзале и когда вы заблудились.",
+    "zh": "练习在车站会合和迷路时能用到的十个词。",
+    "ja": "駅で待ち合わせをして、道に迷ったときに、使える十の言葉を、練習します。",
+    "romaji": "Eki de machiawase o shite, michi ni mayotta toki ni, tsukaeru juu no kotoba o, renshuu shimasu."
+  },
+  "vl14.setup": {
+    "en": "Saturday afternoon. Tanaka-sensei gave everyone an assignment. “Today, each of you please come to Sakura Station alone. Let's meet at the ticket gate at three o'clock.”",
+    "ru": "Субботний день. Танака-сэнсэй дал всем задание. «Сегодня каждый из вас приедет на станцию Сакура один. Встретимся у турникетов в три часа».",
+    "zh": "星期六下午。田中老师给大家布置了一项任务。“今天请每个人独自来樱站。三点，在检票口会合。”",
+    "ja": "土曜日の午後。田中先生が、みんなに、宿題を出した。「今日は、それぞれ、ひとりで、桜駅まで来てください。三時に、改札で、会いましょう。」",
+    "romaji": "Doyoubi no gogo. Tanaka-sensei ga, minna ni, shukudai o dashita. 'Kyou wa, sorezore, hitori de, Sakura-eki made kite kudasai. Sanji ni, kaisatsu de, aimashou.'"
+  },
+  "vl14.t_intro": {
+    "en": "Today let's study words used at stations. Actually coming alone is good practice.",
+    "ru": "Сегодня изучим слова, используемые на вокзале. Приехать самому — хорошая практика.",
+    "zh": "今天来学习在车站用的词。实际独自前来，是很好的练习哦。",
+    "ja": "今日は、駅で使う言葉を、勉強しましょう。実際に、ひとりで来る、いい練習ですよ。",
+    "romaji": "Kyou wa, eki de tsukau kotoba o, benkyou shimashou. Jissai ni, hitori de kuru, ii renshuu desu yo."
+  },
+  "vl14.w1": {
+    "en": "First, “kaisatsu,” the ticket gate. It's the gate at a station that you pass through with a ticket or card. It's used as in “kaisatsu o deru” or “kaisatsu no mae de, matsu.”",
+    "ru": "Сначала «кайсацу» — турникеты. Это ворота на станции, через которые проходят с билетом или картой. Используется, например, в «кайсацу о дэру», «кайсацу но маэ дэ, мацу».",
+    "zh": "首先是「改札」。是车站里用车票或卡通过的闸机。用法如「改札を出る」「改札の前で、待つ」。",
+    "ja": "まず、「改札」です。駅で、切符やカードを、通す、ゲートのことです。「改札を出る」「改札の前で、待つ」のように、使います。",
+    "romaji": "Mazu, 'kaisatsu' desu. Eki de, kippu ya kaado o, toosu, geeto no koto desu. 'Kaisatsu o deru' 'kaisatsu no mae de, matsu' no you ni, tsukaimasu."
+  },
+  "vl14.w1_q": {
+    "en": "Is “kaisatsu” the same word for going in and going out?",
+    "ru": "«Кайсацу» — одно и то же слово и на вход, и на выход?",
+    "zh": "「改札」进站和出站时都用同一个词吗？",
+    "ja": "「改札」は、入るときも、出るときも、同じ言葉ですか？",
+    "romaji": "'Kaisatsu' wa, hairu toki mo, deru toki mo, onaji kotoba desu ka?"
+  },
+  "vl14.w1_a": {
+    "en": "Yes. When entering, you say “kaisatsu o tooru,” not “kaisatsu o hairu.” When leaving, it's “kaisatsu o deru.” For meeting up, “kaisatsu no mae” is the easiest to understand.",
+    "ru": "Да. При входе говорят «кайсацу о тору», а не «кайсацу о хайру». При выходе — «кайсацу о дэру». Для встречи проще всего «кайсацу но маэ».",
+    "zh": "是的。进站时不说「改札を入る」，而说「改札を通る」。出站时说「改札を出る」。约定会合，「改札の前」最容易懂。",
+    "ja": "はい。入るときは、「改札を入る」ではなく、「改札を通る」と言います。出るときは、「改札を出る」です。待ち合わせは、「改札の前」が、いちばん、分かりやすいです。",
+    "romaji": "Hai. Hairu toki wa, 'kaisatsu o hairu' de wa naku, 'kaisatsu o tooru' to iimasu. Deru toki wa, 'kaisatsu o deru' desu. Machiawase wa, 'kaisatsu no mae' ga, ichiban, wakariyasui desu."
+  },
+  "vl14.p1_prompt": {
+    "en": "A call comes from Sensei. “Where are you now? Where shall we meet at three?” You want to meet everyone in front of the ticket gate. What do you say?",
+    "ru": "Вам звонит сэнсэй. «Где вы сейчас? Где мы встретимся в три часа?» Вы хотите встретиться со всеми перед турникетами. Что вы скажете?",
+    "zh": "老师打来了电话。“你现在在哪里？三点在哪里会合？”你想和大家在检票口前会合。你会怎么说？",
+    "ja": "先生から、電話が来ました。「今、どこにいますか？三時に、どこで会いますか？」あなたは、みんなと、改札の前で、会いたいです。何と言いますか？",
+    "romaji": "Sensei kara, denwa ga kimashita. 'Ima, doko ni imasu ka? Sanji ni, doko de aimasu ka?' Anata wa, minna to, kaisatsu no mae de, aitai desu. Nan to iimasu ka?"
+  },
+  "vl14.c1_natural": {
+    "en": "“Let's meet in front of the ticket gate at three.”",
+    "ru": "«Давайте встретимся перед турникетами в три часа».",
+    "zh": "“三点，在检票口前会合吧。”",
+    "ja": "「三時に、改札の前で、会いましょう。」",
+    "romaji": "'Sanji ni, kaisatsu no mae de, aimashou.'"
+  },
+  "vl14.c1_formal": {
+    "en": "“Pardon me, but I would like to have the honor of meeting you before the ticket gate at three.”",
+    "ru": "«Прошу прощения, но я хотел бы иметь честь встретиться с вами перед турникетами в три часа».",
+    "zh": "“冒昧打扰，三点钟在检票口前拜见您。”",
+    "ja": "「恐れ入りますが、三時に、改札口の前にて、お目にかかりとう存じます。」",
+    "romaji": "'Osoreirimasu ga, sanji ni, kaisatsuguchi no mae nite, ome ni kakaritou zonjimasu.'"
+  },
+  "vl14.c1_mistake": {
+    "en": "“Let's meet at (ni) the ticket gate at three.”",
+    "ru": "«Давайте встретимся у (ни) турникетов в три часа».",
+    "zh": "“三点，改札に，会いましょう。”（会う场所要用「で」）",
+    "ja": "「三時に、改札に、会いましょう。」",
+    "romaji": "'Sanji ni, kaisatsu ni, aimashou.'"
+  },
+  "vl14.c1_own": {
+    "en": "“Let's meet in front of the ticket gate at three. I'm carrying a red bag.”",
+    "ru": "«Давайте встретимся перед турникетами в три часа. У меня красная сумка».",
+    "zh": "“三点，在检票口前会合吧。我拿着红色的包。”",
+    "ja": "「三時に、改札の前で、会いましょう。赤いかばんを、持っています。」",
+    "romaji": "'Sanji ni, kaisatsu no mae de, aimashou. Akai kaban o, motte imasu.'"
+  },
+  "vl14.c1_min": {
+    "en": "“Three... ticket gate...”",
+    "ru": "«Три… турникеты…»",
+    "zh": "“三点……检票口……”",
+    "ja": "「三時…改札…」",
+    "romaji": "'Sanji... kaisatsu...'"
+  },
+  "vl14.p1_natural_r": {
+    "en": "Yes, good. You stated both the place and the time clearly.",
+    "ru": "Да, хорошо. Вы чётко назвали и место, и время.",
+    "zh": "对，很好。地点和时间都说得很清楚。",
+    "ja": "はい、いいですね。場所も、時間も、はっきり言えました。",
+    "romaji": "Hai, ii desu ne. Basho mo, jikan mo, hakkiri iemashita."
+  },
+  "vl14.p1_formal_r": {
+    "en": "Ha, it sounds like a station announcement. “Aimashou” is fine.",
+    "ru": "Ха-ха, как вокзальное объявление. Достаточно «аимасё:».",
+    "zh": "呵呵，像车站广播一样。说「会いましょう」就行。",
+    "ja": "ふふ、駅の放送みたいです。「会いましょう」で、いいですよ。",
+    "romaji": "Fufu, eki no housou mitai desu. 'Aimashou' de, ii desu yo."
+  },
+  "vl14.p1_mistake_r": {
+    "en": "Close. The place where you meet takes “de.” It's “kaisatsu de, aimashou” or “kaisatsu no mae de, aimashou.”",
+    "ru": "Почти. Место встречи — «дэ». Получается «кайсацу дэ, аимасё:» или «кайсацу но маэ дэ, аимасё:».",
+    "zh": "很接近。会面的地点用「で」。说「改札で、会いましょう」或「改札の前で、会いましょう」。",
+    "ja": "惜しいです。会う場所は、「で」です。「改札で、会いましょう」か、「改札の前で、会いましょう」です。",
+    "romaji": "Oshii desu. Au basho wa, 'de' desu. 'Kaisatsu de, aimashou' ka, 'kaisatsu no mae de, aimashou' desu."
+  },
+  "vl14.p1_mis_retry": {
+    "en": "Let's meet in front of the ticket gate at three.",
+    "ru": "Давайте встретимся перед турникетами в три часа.",
+    "zh": "三点，在检票口前会合吧。",
+    "ja": "三時に、改札の前で、会いましょう。",
+    "romaji": "Sanji ni, kaisatsu no mae de, aimashou."
+  },
+  "vl14.p1_mis_relief": {
+    "en": "Yes, that's it. “De” made the place clear.",
+    "ru": "Да, именно так. «Дэ» ясно указывает место.",
+    "zh": "对，就是这个。「で」让地点明确了。",
+    "ja": "はい、それです。「で」で、場所が、はっきりしました。",
+    "romaji": "Hai, sore desu. 'De' de, basho ga, hakkiri shimashita."
+  },
+  "vl14.p1_own_r": {
+    "en": "Nice. Having a landmark makes it easy to find you.",
+    "ru": "Хорошо. С ориентиром легче найти.",
+    "zh": "不错。有个标记就容易认出来了。",
+    "ja": "いいですね。目印が、あると、分かりやすいです。",
+    "romaji": "Ii desu ne. Mejirushi ga, aru to, wakariyasui desu."
+  },
+  "vl14.p1_min_r": {
+    "en": "Your meaning comes across. Try saying “kaisatsu no mae de, aimashou.”",
+    "ru": "Ваше желание понятно. Скажите «кайсацу но маэ дэ, аимасё:».",
+    "zh": "你的意思能传达。试着说「改札の前で、会いましょう」。",
+    "ja": "気持ちは、伝わります。「改札の前で、会いましょう」と、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Kaisatsu no mae de, aimashou' to, itte mimashou."
+  },
+  "vl14.k_nervous": {
+    "en": "It's my first time taking a train alone. I'm really nervous.",
+    "ru": "Я впервые еду на поезде один. Я очень нервничаю.",
+    "zh": "我是第一次独自坐电车。非常紧张。",
+    "ja": "ぼく、ひとりで電車に乗るのは、はじめてです。すごく、緊張します。",
+    "romaji": "Boku, hitori de densha ni noru no wa, hajimete desu. Sugoku, kinchou shimasu."
+  },
+  "vl14.w2": {
+    "en": "“Kinchou” is the feeling of your body stiffening in a first-time situation or an important moment. You say “kinchou suru.”",
+    "ru": "«Кинтё:» — чувство, когда тело деревенеет в новой ситуации или в важный момент. Говорят «кинтё: суру».",
+    "zh": "「緊張」是遇到第一次的事或重要场合时，身体变得僵硬的心情。说「緊張する」。",
+    "ja": "「緊張」は、はじめてのことや、大切な場面で、体が、かたくなる気持ちです。「緊張する」と言います。",
+    "romaji": "'Kinchou' wa, hajimete no koto ya, taisetsu na bamen de, karada ga, kataku naru kimochi desu. 'Kinchou suru' to iimasu."
+  },
+  "vl14.w2_q": {
+    "en": "Is it the same as “dokidoki”?",
+    "ru": "Это то же, что «докидоки»?",
+    "zh": "和「ドキドキ」一样吗？",
+    "ja": "「ドキドキ」と、同じですか？",
+    "romaji": "'Dokidoki' to, onaji desu ka?"
+  },
+  "vl14.w2_a": {
+    "en": "A little different. “Dokidoki” is the heart feeling, and can be used for excitement too. “Kinchou” is the body stiffening, and is often used when things aren't very enjoyable.",
+    "ru": "Немного по-разному. «Докидоки» — ощущение сердца, его можно использовать и в предвкушении. «Кинтё:» — деревенеющее тело, чаще используется, когда не слишком приятно.",
+    "zh": "有点不同。「ドキドキ」是心脏的感觉，期待时也能用。「緊張」是身体僵硬的感觉，多用于不太愉快的时候。",
+    "ja": "少しちがいます。「ドキドキ」は、心臓の感じで、楽しみの時にも、使えます。「緊張」は、体が、かたくなる感じで、あまり楽しくない時に、よく使います。",
+    "romaji": "Sukoshi chigaimasu. 'Dokidoki' wa, shinzou no kanji de, tanoshimi no toki ni mo, tsukaemasu. 'Kinchou' wa, karada ga, kataku naru kanji de, amari tanoshiku nai toki ni, yoku tsukaimasu."
+  },
+  "vl14.lost": {
+    "en": "After a while, you came out of an unfamiliar exit. Buildings you've never seen line the streets around you. You can't find the ticket gate of Sakura Station.",
+    "ru": "Через некоторое время вы вышли через незнакомый выход. Вокруг стоят здания, которых вы никогда не видели. Вы не можете найти турникеты станции Сакура.",
+    "zh": "过了一会儿，你从一个不熟悉的出口走了出来。周围排列着从没见过的大楼。找不到樱站的检票口。",
+    "ja": "しばらくして、あなたは、知らない出口から、出てしまった。周りに、見たことのない、ビルが並んでいる。桜駅の、改札が、見つからない。",
+    "romaji": "Shibaraku shite, anata wa, shiranai deguchi kara, dete shimatta. Mawari ni, mita koto no nai, biru ga narande iru. Sakura-eki no, kaisatsu ga, mitsukaranai."
+  },
+  "vl14.w3": {
+    "en": "At times like that, you say “michi ni mayou.” It means no longer knowing the way. The past is “michi ni mayoimashita.”",
+    "ru": "В таких случаях говорят «мити ни маёу». Это значит, что вы больше не знаете дорогу. Прошедшее время — «мити ни маёимасита».",
+    "zh": "这种时候，说「道に迷う」。是指不知道该怎么走了。过去式是「道に迷いました」。",
+    "ja": "そういうとき、「道に迷う」と言います。行き方が、分からなくなることです。過去は、「道に迷いました」です。",
+    "romaji": "Sou iu toki, 'michi ni mayou' to iimasu. Ikikata ga, wakaranaku naru koto desu. Kako wa, 'michi ni mayoimashita' desu."
+  },
+  "vl14.w3_q": {
+    "en": "Are “michi ni mayou” and “maigo” different?",
+    "ru": "«Мити ни маёу» и «майго» отличаются?",
+    "zh": "「道に迷う」和「迷子」有区别吗？",
+    "ja": "「道に迷う」と、「迷子」は、ちがいますか？",
+    "romaji": "'Michi ni mayou' to, 'maigo' wa, chigaimasu ka?"
+  },
+  "vl14.w3_a": {
+    "en": "Yes. “Maigo” is mainly for a child who has been separated from their parents. Adults use “michi ni mayou.” Please don't forget the “ni” in “michi ni.”",
+    "ru": "Да. «Майго» — в основном о ребёнке, потерявшемся от родителей. Взрослые используют «мити ни маёу». Не забывайте «ни» в «мити ни».",
+    "zh": "是的。「迷子」主要指孩子与父母走散了。大人用「道に迷う」。别忘了「道に」里的「に」。",
+    "ja": "はい。「迷子」は、主に、子どもが、親と、はぐれたときです。大人は、「道に迷う」を使います。「道に」の「に」を、忘れないでくださいね。",
+    "romaji": "Hai. 'Maigo' wa, omo ni, kodomo ga, oya to, hagureta toki desu. Otona wa, 'michi ni mayou' o tsukaimasu. 'Michi ni' no 'ni' o, wasurenaide kudasai ne."
+  },
+  "vl14.p2_prompt": {
+    "en": "You want to tell Sensei your current situation by phone. You want to say “I no longer know the way.” What do you say?",
+    "ru": "Вы хотите по телефону сообщить сэнсэю о своей ситуации. Вы хотите сказать «я больше не знаю дорогу». Что вы скажете?",
+    "zh": "你想通过电话告诉老师你现在的状况。你想说“我不知道路了”。你会怎么说？",
+    "ja": "あなたは、電話で、先生に、今の状況を、伝えたいです。「道が、分からなくなりました」と言いたいです。何と言いますか？",
+    "romaji": "Anata wa, denwa de, sensei ni, ima no joukyou o, tsutaetai desu. 'Michi ga, wakaranaku narimashita' to iitai desu. Nan to iimasu ka?"
+  },
+  "vl14.c2_natural": {
+    "en": "“Sensei, I'm sorry. I got lost.”",
+    "ru": "«Сэнсэй, простите. Я заблудился».",
+    "zh": "“老师，对不起。我迷路了。”",
+    "ja": "「先生、すみません。道に迷いました。」",
+    "romaji": "'Sensei, sumimasen. Michi ni mayoimashita.'"
+  },
+  "vl14.c2_formal": {
+    "en": "“I am terribly sorry. I have wandered astray and am at a complete loss.”",
+    "ru": "«Мне ужасно жаль. Я сбился с пути и совершенно растерян».",
+    "zh": "“实在抱歉。我误入歧途，不知所措。”",
+    "ja": "「誠に申し訳ございません。道に、迷い込んで、しまいまして、途方に暮れております。」",
+    "romaji": "'Makoto ni moushiwake gozaimasen. Michi ni, mayoikonde, shimaimashite, tohou ni kurete orimasu.'"
+  },
+  "vl14.c2_mistake": {
+    "en": "“Sensei, I'm sorry. I lost (o) the way.”",
+    "ru": "«Сэнсэй, простите. Я потерял (о) дорогу».",
+    "zh": "“老师，对不起。道を，迷いました。”（应该用「に」）",
+    "ja": "「先生、すみません。道を、迷いました。」",
+    "romaji": "'Sensei, sumimasen. Michi o, mayoimashita.'"
+  },
+  "vl14.c2_own": {
+    "en": "“Sensei, I'm sorry. I got lost. I'm at the east exit of the station.”",
+    "ru": "«Сэнсэй, простите. Я заблудился. Я у восточного выхода станции».",
+    "zh": "“老师，对不起。我迷路了。我在车站的东口。”",
+    "ja": "「先生、すみません。道に迷いました。駅の、東口に、います。」",
+    "romaji": "'Sensei, sumimasen. Michi ni mayoimashita. Eki no, higashiguchi ni, imasu.'"
+  },
+  "vl14.c2_min": {
+    "en": "“Sensei... lost...”",
+    "ru": "«Сэнсэй… заблудился…»",
+    "zh": "“老师……迷……”",
+    "ja": "「先生…迷う…」",
+    "romaji": "'Sensei... mayou...'"
+  },
+  "vl14.p2_natural_r": {
+    "en": "It's all right. It's good that you could say “michi ni mayoimashita” right away.",
+    "ru": "Ничего страшного. Хорошо, что вы сразу сказали «мити ни маёимасита».",
+    "zh": "没关系的。能马上说出「道に迷いました」，很好。",
+    "ja": "大丈夫ですよ。「道に迷いました」と、すぐ、言えて、いいですね。",
+    "romaji": "Daijoubu desu yo. 'Michi ni mayoimashita' to, sugu, iete, ii desu ne."
+  },
+  "vl14.p2_formal_r": {
+    "en": "Haha, it's like a drama. “Michi ni mayoimashita” is fine.",
+    "ru": "Ха-ха, как в дораме. Достаточно «мити ни маёимасита».",
+    "zh": "哈哈，像电视剧一样。说「道に迷いました」就行。",
+    "ja": "あはは、ドラマみたいです。「道に迷いました」で、いいですよ。",
+    "romaji": "Ahaha, dorama mitai desu. 'Michi ni mayoimashita' de, ii desu yo."
+  },
+  "vl14.p2_mistake_r": {
+    "en": "Close. “Mayou” is used with “michi ni.” It's “michi ni, mayoimashita.”",
+    "ru": "Почти. «Маёу» используется с «мити ни». Получается «мити ни, маёимасита».",
+    "zh": "很接近。「迷う」要和「道に」一起用。说「道に、迷いました」。",
+    "ja": "惜しいです。「迷う」は、「道に」と、使います。「道に、迷いました」です。",
+    "romaji": "Oshii desu. 'Mayou' wa, 'michi ni' to, tsukaimasu. 'Michi ni, mayoimashita' desu."
+  },
+  "vl14.p2_mis_retry": {
+    "en": "Sensei, I'm sorry. I got lost.",
+    "ru": "Сэнсэй, простите. Я заблудился.",
+    "zh": "老师，对不起。我迷路了。",
+    "ja": "先生、すみません。道に、迷いました。",
+    "romaji": "Sensei, sumimasen. Michi ni, mayoimashita."
+  },
+  "vl14.p2_mis_relief": {
+    "en": "Yes, that's it. “Ni” fits perfectly.",
+    "ru": "Да, именно так. «Ни» подходит идеально.",
+    "zh": "对，就是这个。「に」正合适。",
+    "ja": "はい、それです。「に」が、ぴったりです。",
+    "romaji": "Hai, sore desu. 'Ni' ga, pittari desu."
+  },
+  "vl14.p2_own_r": {
+    "en": "A good explanation. When you say where you are, I can come help right away.",
+    "ru": "Хорошее объяснение. Если вы сообщите, где находитесь, я сразу приду на помощь.",
+    "zh": "说明得很好。告诉我位置，我就能马上去帮你。",
+    "ja": "いい説明です。場所を伝えると、すぐ、助けに行けます。",
+    "romaji": "Ii setsumei desu. Basho o tsutaeru to, sugu, tasuke ni ikemasu."
+  },
+  "vl14.p2_min_r": {
+    "en": "Your meaning comes across. Try saying “michi ni mayoimashita.”",
+    "ru": "Ваша мысль понятна. Скажите «мити ни маёимасита».",
+    "zh": "你的意思能传达。试着说「道に迷いました」。",
+    "ja": "気持ちは、伝わります。「道に迷いました」と、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Michi ni mayoimashita' to, itte mimashou."
+  },
+  "vl14.t_advice": {
+    "en": "It's all right. Let's try asking the people around you.",
+    "ru": "Всё хорошо. Давайте спросим людей вокруг.",
+    "zh": "没关系。试着问问周围的人吧。",
+    "ja": "大丈夫です。まわりの人に、聞いてみましょう。",
+    "romaji": "Daijoubu desu. Mawari no hito ni, kiite mimashou."
+  },
+  "vl14.k_shy": {
+    "en": "Asking a stranger is a little embarrassing.",
+    "ru": "Спрашивать незнакомого человека немного неловко.",
+    "zh": "向陌生人问路，有点不好意思。",
+    "ja": "知らない人に、聞くのは、ちょっと、恥ずかしいです。",
+    "romaji": "Shiranai hito ni, kiku no wa, chotto, hazukashii desu."
+  },
+  "vl14.w4": {
+    "en": "“Hazukashii” is the feeling that makes your face red when you're seen by others or make a mistake. You say “hazukashii desu” or “hazukashikatta desu.”",
+    "ru": "«Хадзукасий» — чувство, от которого краснеет лицо, когда вас видят или вы допускаете ошибку. Говорят «хадзукасий дэс», «хадзукасикатта дэс».",
+    "zh": "「恥ずかしい」是被人看到或失败时，脸会变红的心情。说「恥ずかしいです」「恥ずかしかったです」。",
+    "ja": "「恥ずかしい」は、人に見られたり、失敗したりして、顔が、赤くなるような気持ちです。「恥ずかしいです」「恥ずかしかったです」と、言います。",
+    "romaji": "'Hazukashii' wa, hito ni mirareta ri, shippai shitari shite, kao ga, akaku naru you na kimochi desu. 'Hazukashii desu' 'hazukashikatta desu' to, iimasu."
+  },
+  "vl14.w4_q": {
+    "en": "Are “hazukashii” and “hazukashigariya” different?",
+    "ru": "«Хадзукасий» и «хадзукасигария» отличаются?",
+    "zh": "「恥ずかしい」和「恥ずかしがり屋」有区别吗？",
+    "ja": "「恥ずかしい」と「はずかしがり屋」は、ちがいますか？",
+    "romaji": "'Hazukashii' to 'hazukashigariya' wa, chigaimasu ka?"
+  },
+  "vl14.w4_a": {
+    "en": "Yes. “Hazukashii” is the feeling at that moment. “Hazukashigariya” is a person whose personality makes them always shy.",
+    "ru": "Да. «Хадзукасий» — чувство в данный момент. «Хадзукасигария» — человек, который по характеру всегда стесняется.",
+    "zh": "是的。「恥ずかしい」是当时的心情。「はずかしがり屋」是一个性格上总是害羞的人。",
+    "ja": "はい。「恥ずかしい」は、その時の気持ちです。「はずかしがり屋」は、いつも、恥ずかしがる、性格の人のことです。",
+    "romaji": "Hai. 'Hazukashii' wa, sono toki no kimochi desu. 'Hazukashigariya' wa, itsumo, hazukashigaru, seikaku no hito no koto desu."
+  },
+  "vl14.p3_prompt": {
+    "en": "Ken said, “Asking a stranger is embarrassing.” You don't think so. You want to say “I'm not embarrassed.” What do you say?",
+    "ru": "Кен сказал: «Спрашивать незнакомого человека неловко». Вы так не думаете. Вы хотите сказать «мне не стыдно». Что вы скажете?",
+    "zh": "健说：“向陌生人问路很不好意思。”你不这么认为。你想说“我不觉得不好意思”。你会怎么说？",
+    "ja": "ケンさんが、「知らない人に、聞くのは、恥ずかしいです」と言いました。あなたは、そう思いません。「わたしは、恥ずかしくないです」と、言いたいです。何と言いますか？",
+    "romaji": "Ken-san ga, 'shiranai hito ni, kiku no wa, hazukashii desu' to iimashita. Anata wa, sou omoimasen. 'Watashi wa, hazukashikunai desu' to, iitai desu. Nan to iimasu ka?"
+  },
+  "vl14.c3_natural": {
+    "en": "“I'm not embarrassed. It's faster to ask.”",
+    "ru": "«Мне не стыдно. Спросить быстрее».",
+    "zh": "“我不觉得不好意思。问一下比较快。”",
+    "ja": "「わたしは、恥ずかしくないです。聞いたほうが、早いですよ。」",
+    "romaji": "'Watashi wa, hazukashikunai desu. Kiita hou ga, hayai desu yo.'"
+  },
+  "vl14.c3_formal": {
+    "en": "“I feel no shame whatsoever.”",
+    "ru": "«Я не испытываю ни малейшего стыда».",
+    "zh": "“我并无羞耻之感。”",
+    "ja": "「私は、羞恥を、覚えることは、ございません。」",
+    "romaji": "'Watakushi wa, shuuchi o, oboeru koto wa, gozaimasen.'"
+  },
+  "vl14.c3_mistake": {
+    "en": "“I'm not hazukashii-kunai.”",
+    "ru": "«Я не хадзукасий-кунай».",
+    "zh": "“わたしは、恥ずかしいくないです。”（应该是「恥ずかしくない」）",
+    "ja": "「わたしは、恥ずかしいくないです。」",
+    "romaji": "'Watashi wa, hazukashii kunai desu.'"
+  },
+  "vl14.c3_own": {
+    "en": "“I'm a little embarrassed too. But I'll try asking.”",
+    "ru": "«Мне тоже немного неловко. Но я попробую спросить».",
+    "zh": "“我也有点不好意思。不过我会试着问问。”",
+    "ja": "「わたしも、少し、恥ずかしいです。でも、聞いてみます。」",
+    "romaji": "'Watashi mo, sukoshi, hazukashii desu. Demo, kiite mimasu.'"
+  },
+  "vl14.c3_min": {
+    "en": "“Embarrassed... not...”",
+    "ru": "«Стыдно… нет…»",
+    "zh": "“不好意思……没有……”",
+    "ja": "「恥ずかしい…ない…」",
+    "romaji": "'Hazukashii... nai...'"
+  },
+  "vl14.p3_natural_r": {
+    "en": "That's right. Even if it's embarrassing, it's better to ask.",
+    "ru": "Верно. Даже если неловко, лучше спросить.",
+    "zh": "是啊。即使不好意思，问一下也比较好。",
+    "ja": "そうですね。恥ずかしくても、聞いたほうが、いいですね。",
+    "romaji": "Sou desu ne. Hazukashikute mo, kiita hou ga, ii desu ne."
+  },
+  "vl14.p3_formal_r": {
+    "en": "Ha, that's stiff. “Hazukashikunai desu” is enough.",
+    "ru": "Ха-ха, слишком формально. Достаточно «хадзукасикунай дэс».",
+    "zh": "呵呵，太生硬了。说「恥ずかしくないです」就足够了。",
+    "ja": "ふふ、かたいです。「恥ずかしくないです」で、じゅうぶんです。",
+    "romaji": "Fufu, katai desu. 'Hazukashikunai desu' de, juubun desu."
+  },
+  "vl14.p3_mistake_r": {
+    "en": "Close. To negate an i-adjective, drop the “i” and add “kunai.” It's “hazukashikunai desu.”",
+    "ru": "Почти. Чтобы отрицать i-прилагательное, отбрасывают «и» и добавляют «кунай». Получается «хадзукасикунай дэс».",
+    "zh": "很接近。い形容词的否定，去掉「い」加「くない」。说「恥ずかしくないです」。",
+    "ja": "惜しいです。い形容詞の否定は、「い」を取って、「くない」です。「恥ずかしくないです」です。",
+    "romaji": "Oshii desu. I-keiyoushi no hitei wa, 'i' o totte, 'kunai' desu. 'Hazukashikunai desu' desu."
+  },
+  "vl14.p3_mis_retry": {
+    "en": "I'm not embarrassed.",
+    "ru": "Мне не стыдно.",
+    "zh": "我不觉得不好意思。",
+    "ja": "わたしは、恥ずかしくないです。",
+    "romaji": "Watashi wa, hazukashikunai desu."
+  },
+  "vl14.p3_mis_relief": {
+    "en": "Yes, that's it. “Kunai” is spot on.",
+    "ru": "Да, именно так. «Кунай» — это то, что нужно.",
+    "zh": "对，就是这个。用「くない」就对了。",
+    "ja": "はい、それです。「くない」で、ばっちりです。",
+    "romaji": "Hai, sore desu. 'Kunai' de, bacchiri desu."
+  },
+  "vl14.p3_own_r": {
+    "en": "Thank you. Together, it's a bit more reassuring.",
+    "ru": "Спасибо. Вместе немного спокойнее.",
+    "zh": "谢谢。一起的话，稍微有点安心。",
+    "ja": "ありがとう。いっしょなら、少し、心強いです。",
+    "romaji": "Arigatou. Issho nara, sukoshi, kokorozuyoi desu."
+  },
+  "vl14.p3_min_r": {
+    "en": "I understand. Try saying “hazukashikunai desu.”",
+    "ru": "Понимаю. Скажите «хадзукасикунай дэс».",
+    "zh": "我明白。试着说「恥ずかしくないです」。",
+    "ja": "分かりますよ。「恥ずかしくないです」と、言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Hazukashikunai desu' to, itte mimashou."
+  },
+  "vl14.w5": {
+    "en": "Now let's do “renshuu,” practice, of asking. “Renshuu” means repeating something many times to get better at it. You say “renshuu suru.”",
+    "ru": "Итак, потренируемся спрашивать — «рэнсю:». «Рэнсю:» — повторять многократно, чтобы стать лучше. Говорят «рэнсю: суру».",
+    "zh": "那么，来「練習」一下问路吧。「練習」是为了变得擅长而反复做多次。说「練習する」。",
+    "ja": "では、聞く「練習」を、しましょう。「練習」は、上手になるために、何度も、くり返すことです。「練習する」と言います。",
+    "romaji": "Dewa, kiku 'renshuu' o, shimashou. 'Renshuu' wa, jouzu ni naru tame ni, nando mo, kurikaesu koto desu. 'Renshuu suru' to iimasu."
+  },
+  "vl14.w5_q": {
+    "en": "Are “benkyou” and “renshuu” different?",
+    "ru": "«Бэнкё:» и «рэнсю:» отличаются?",
+    "zh": "「勉強」和「練習」有区别吗？",
+    "ja": "「勉強」と「練習」は、ちがいますか？",
+    "romaji": "'Benkyou' to 'renshuu' wa, chigaimasu ka?"
+  },
+  "vl14.w5_a": {
+    "en": "Yes. “Benkyou” is learning knowledge. “Renshuu” is actually trying it with your body or mouth. “Nihongo o, renshuu suru” is practising speaking.",
+    "ru": "Да. «Бэнкё:» — изучение знаний. «Рэнсю:» — реально попробовать телом или ртом. «Нихонго о, рэнсю: суру» — это тренировка разговорной речи.",
+    "zh": "是的。「勉強」是学习知识。「練習」是用身体或嘴实际去尝试。「日本語を、練習する」是练习说话。",
+    "ja": "はい。「勉強」は、知識を、学ぶことです。「練習」は、体や、口で、実際に、やってみることです。「日本語を、練習する」は、話す練習です。",
+    "romaji": "Hai. 'Benkyou' wa, chishiki o, manabu koto desu. 'Renshuu' wa, karada ya, kuchi de, jissai ni, yatte miru koto desu. 'Nihongo o, renshuu suru' wa, hanasu renshuu desu."
+  },
+  "vl14.p4_prompt": {
+    "en": "An elderly woman is standing in front of the station. This is practice for asking where the station is. Please ask her, “sumimasen, eki wa, doko desu ka.” What do you say?",
+    "ru": "У вокзала стоит пожилая женщина. Это тренировка вопроса о том, где вокзал. Спросите её: «суимасэн, эки ва, доко дэс ка». Что вы скажете?",
+    "zh": "车站前站着一位老奶奶。这是练习问车站位置。请问她：“不好意思，车站在哪里？”你会怎么说？",
+    "ja": "駅の前に、おばあさんが、立っています。駅の場所を、聞く練習です。おばあさんに、「すみません、駅は、どこですか」と、聞いてください。何と言いますか？",
+    "romaji": "Eki no mae ni, obaasan ga, tatte imasu. Eki no basho o, kiku renshuu desu. Obaasan ni, 'sumimasen, eki wa, doko desu ka' to, kiite kudasai. Nan to iimasu ka?"
+  },
+  "vl14.c4_natural": {
+    "en": "“Excuse me, where is Sakura Station?”",
+    "ru": "«Извините, где станция Сакура?»",
+    "zh": "“不好意思，请问樱站在哪里？”",
+    "ja": "「すみません、桜駅は、どこですか？」",
+    "romaji": "'Sumimasen, Sakura-eki wa, doko desu ka?'"
+  },
+  "vl14.c4_formal": {
+    "en": "“Excuse me. Might I be instructed as to the route to Sakura Station?”",
+    "ru": "«Прошу прощения. Не могли бы вы указать мне маршрут до станции Сакура?»",
+    "zh": "“打扰了。请问可否指教前往樱站的路线？”",
+    "ja": "「恐れ入ります。桜駅への、道順を、ご教示いただけますでしょうか。」",
+    "romaji": "'Osoreirimasu. Sakura-eki e no, michijun o, gokyouji itadakemasu deshou ka.'"
+  },
+  "vl14.c4_mistake": {
+    "en": "“Excuse me, Sakura Station (ga), where?”",
+    "ru": "«Извините, станция Сакура (га), где?»",
+    "zh": "“不好意思，桜駅が，哪里？”（提问位置一般用「は」）",
+    "ja": "「すみません、桜駅が、どこですか？」",
+    "romaji": "'Sumimasen, Sakura-eki ga, doko desu ka?'"
+  },
+  "vl14.c4_own": {
+    "en": "“Excuse me, where is Sakura Station? Can I walk there?”",
+    "ru": "«Извините, где станция Сакура? Можно дойти пешком?»",
+    "zh": "“不好意思，请问樱站在哪里？走路能到吗？”",
+    "ja": "「すみません、桜駅は、どこですか？歩いて、行けますか？」",
+    "romaji": "'Sumimasen, Sakura-eki wa, doko desu ka? Aruite, ikemasu ka?'"
+  },
+  "vl14.c4_min": {
+    "en": "“Station... where...”",
+    "ru": "«Станция… где…»",
+    "zh": "“车站……哪里……”",
+    "ja": "「駅…どこ…」",
+    "romaji": "'Eki... doko...'"
+  },
+  "vl14.p4_natural_r": {
+    "en": "Yes, natural. The results of the practice are showing.",
+    "ru": "Да, естественно. Результаты практики налицо.",
+    "zh": "对，很自然。练习的成果显现出来了。",
+    "ja": "はい、自然です。練習の成果が、出ていますね。",
+    "romaji": "Hai, shizen desu. Renshuu no seika ga, dete imasu ne."
+  },
+  "vl14.p4_formal_r": {
+    "en": "Haha, the woman would be startled. “Doko desu ka” is fine.",
+    "ru": "Ха-ха, женщина удивится. Достаточно «доко дэс ка».",
+    "zh": "哈哈，老奶奶会吓一跳的。说「どこですか」就行。",
+    "ja": "あはは、おばあさんが、びっくりしますよ。「どこですか」で、いいです。",
+    "romaji": "Ahaha, obaasan ga, bikkuri shimasu yo. 'Doko desu ka' de, ii desu."
+  },
+  "vl14.p4_mistake_r": {
+    "en": "Close. “~ wa, doko desu ka” is the basic form. “Eki ga” would sound like “which station is it that…”",
+    "ru": "Почти. Основная форма — «~ ва, доко дэс ка». С «эки га» звучит как «какая именно станция…».",
+    "zh": "很接近。基本句型是「〜は、どこですか」。用「駅が」听起来会像“是哪个车站……”。",
+    "ja": "惜しいです。「〜は、どこですか」が、基本です。「駅が」ですと、「どの駅が」の、ような感じになります。",
+    "romaji": "Oshii desu. '~ wa, doko desu ka' ga, kihon desu. 'Eki ga' desu to, 'dono eki ga' no, you na kanji ni narimasu."
+  },
+  "vl14.p4_mis_retry": {
+    "en": "Excuse me, where is Sakura Station?",
+    "ru": "Извините, где станция Сакура?",
+    "zh": "不好意思，请问樱站在哪里？",
+    "ja": "すみません、桜駅は、どこですか？",
+    "romaji": "Sumimasen, Sakura-eki wa, doko desu ka?"
+  },
+  "vl14.p4_mis_relief": {
+    "en": "Yes, that's it. The basic form is easy to understand.",
+    "ru": "Да, именно так. Основная форма легко понимается.",
+    "zh": "对，就是这个。基本句型容易被理解。",
+    "ja": "はい、それです。基本の形で、伝わりやすいです。",
+    "romaji": "Hai, sore desu. Kihon no katachi de, tsutawariyasui desu."
+  },
+  "vl14.p4_own_r": {
+    "en": "Good question. You'll find out the time too.",
+    "ru": "Хороший вопрос. Вы ещё и время узнаете.",
+    "zh": "好问题。还能知道所需时间。",
+    "ja": "いい質問ですね。時間も、分かります。",
+    "romaji": "Ii shitsumon desu ne. Jikan mo, wakarimasu."
+  },
+  "vl14.p4_min_r": {
+    "en": "Your meaning comes across. Let's say it as a sentence: “eki wa, doko desu ka.”",
+    "ru": "Ваш вопрос понятен. Скажем предложением: «эки ва, доко дэс ка».",
+    "zh": "你的意思能传达。用句子说：「駅は、どこですか」。",
+    "ja": "気持ちは、伝わります。「駅は、どこですか」と、文で、言いましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Eki wa, doko desu ka' to, bun de, iimashou."
+  },
+  "vl14.pharmacy": {
+    "en": "From nervousness, Ken has a stomachache. Near the station, he finds a small “yakkyoku,” a pharmacy.",
+    "ru": "От волнения у Кена заболел живот. Рядом со станцией он нашёл небольшую «якккё:ку» — аптеку.",
+    "zh": "因为紧张，健肚子疼了起来。车站附近，他发现了一家小小的「薬局」。",
+    "ja": "緊張して、ケンさんは、お腹が痛くなった。駅の近くに、小さな「薬局」を、見つけた。",
+    "romaji": "Kinchou shite, Ken-san wa, onaka ga itaku natta. Eki no chikaku ni, chiisana 'yakkyoku' o, mitsuketa."
+  },
+  "vl14.w6": {
+    "en": "A “yakkyoku” is a shop that sells medicine. It's almost the same as a drugstore. There is a pharmacist, so you can also consult about medicine.",
+    "ru": "«Якккё:ку» — магазин, где продают лекарства. Это почти то же, что дрогстор. Там есть фармацевт, с которым можно посоветоваться о лекарствах.",
+    "zh": "「薬局」是卖药的店。和药妆店几乎一样。有药剂师，也可以咨询用药。",
+    "ja": "「薬局」は、薬を、売っている店です。ドラッグストアと、ほとんど、同じです。薬剤師さんが、いて、薬の相談も、できます。",
+    "romaji": "'Yakkyoku' wa, kusuri o, utte iru mise desu. Doraggu sutoa to, hotondo, onaji desu. Yakuzaishi-san ga, ite, kusuri no soudan mo, dekimasu."
+  },
+  "vl14.w6_q": {
+    "en": "Is it different from a “byouin,” a hospital?",
+    "ru": "Чем она отличается от «бё:ин» — больницы?",
+    "zh": "和「病院」有区别吗？",
+    "ja": "「病院」と、ちがいますか？",
+    "romaji": "'Byouin' to, chigaimasu ka?"
+  },
+  "vl14.w6_a": {
+    "en": "Yes. A “byouin” is where a doctor examines you. A “yakkyoku” is where you buy or receive medicine. For a minor illness, you can consult at a pharmacy.",
+    "ru": "Да. «Бё:ин» — место, где вас осматривает врач. «Якккё:ку» — место, где покупают или получают лекарства. При лёгком недомогании можно проконсультироваться в аптеке.",
+    "zh": "是的。「病院」是让医生看病的地方。「薬局」是买药或取药的地方。轻微的病，可以在药局咨询。",
+    "ja": "はい。「病院」は、医者に、見てもらう所です。「薬局」は、薬を、買ったり、もらったりする所です。軽い病気なら、薬局で、相談できます。",
+    "romaji": "Hai. 'Byouin' wa, isha ni, mite morau tokoro desu. 'Yakkyoku' wa, kusuri o, kattari, morattari suru tokoro desu. Karui byouki nara, yakkyoku de, soudan dekimasu."
+  },
+  "vl14.p5_prompt": {
+    "en": "You went into the pharmacy together with Ken. You want to tell the staff that his stomach hurts. Please say it using “itai.” What do you say?",
+    "ru": "Вы вместе с Кеном зашли в аптеку. Вы хотите сообщить сотруднику, что у него болит живот. Скажите это, используя «итай». Что вы скажете?",
+    "zh": "你和健一起走进了药局。你想告诉店员他肚子疼。请使用「痛い」来说。你会怎么说？",
+    "ja": "ケンさんと、いっしょに、薬局に入りました。店員さんに、お腹が痛いことを、伝えたいです。「痛い」を使って、言ってください。何と言いますか？",
+    "romaji": "Ken-san to, issho ni, yakkyoku ni hairimashita. Tenin-san ni, onaka ga itai koto o, tsutaetai desu. 'Itai' o tsukatte, itte kudasai. Nan to iimasu ka?"
+  },
+  "vl14.c5_natural": {
+    "en": "“Excuse me, my stomach hurts. Do you have any good medicine?”",
+    "ru": "«Извините, у меня болит живот. Есть ли у вас хорошее лекарство?»",
+    "zh": "“不好意思，肚子疼。有什么好药吗？”",
+    "ja": "「すみません、お腹が、痛いです。いい薬は、ありますか？」",
+    "romaji": "'Sumimasen, onaka ga, itai desu. Ii kusuri wa, arimasu ka?'"
+  },
+  "vl14.c5_formal": {
+    "en": "“Pardon me, but I have a dull pain in the abdomen and wish to obtain some medicine.”",
+    "ru": "«Прошу прощения, но у меня тупая боль в животе, и я хотел бы приобрести лекарство».",
+    "zh": "“不好意思，在下腹部有隐隐作痛，想要购买药品。”",
+    "ja": "「恐縮ですが、腹部に、鈍い痛みが、ございまして、お薬を、お求めしたく存じます。」",
+    "romaji": "'Kyoushuku desu ga, fukubu ni, nibui itami ga, gozaimashite, okusuri o, omotome shitaku zonjimasu.'"
+  },
+  "vl14.c5_mistake": {
+    "en": "“Excuse me, my stomach (o) is painful.”",
+    "ru": "«Извините, живот (о) болит».",
+    "zh": "“不好意思，お腹を，痛いです。”（应该用「が」）",
+    "ja": "「すみません、お腹を、痛いです。」",
+    "romaji": "'Sumimasen, onaka o, itai desu.'"
+  },
+  "vl14.c5_own": {
+    "en": "“Excuse me, my stomach hurts. I haven't eaten anything since the morning.”",
+    "ru": "«Извините, у меня болит живот. С утра я ничего не ел».",
+    "zh": "“不好意思，肚子疼。从早上起什么都没吃。”",
+    "ja": "「すみません、お腹が、痛いです。朝から、何も、食べていません。」",
+    "romaji": "'Sumimasen, onaka ga, itai desu. Asa kara, nani mo, tabete imasen.'"
+  },
+  "vl14.c5_min": {
+    "en": "“Stomach... hurts... medicine...”",
+    "ru": "«Живот… болит… лекарство…»",
+    "zh": "“肚子……疼……药……”",
+    "ja": "「お腹…痛い…薬…」",
+    "romaji": "'Onaka... itai... kusuri...'"
+  },
+  "vl14.p5_natural_r": {
+    "en": "Yes, natural. You stated both the symptom and the question.",
+    "ru": "Да, естественно. Вы назвали и симптом, и вопрос.",
+    "zh": "对，很自然。症状和问题你都说了。",
+    "ja": "はい、自然です。症状と、質問が、両方、言えました。",
+    "romaji": "Hai, shizen desu. Shoujou to, shitsumon ga, ryouhou, iemashita."
+  },
+  "vl14.p5_formal_r": {
+    "en": "Ha, you sound like a doctor. “Onaka ga, itai desu” gets it across.",
+    "ru": "Ха-ха, как врач. «Онака га, итай дэс» вполне понятно.",
+    "zh": "呵呵，像医生一样。说「お腹が、痛いです」就能传达。",
+    "ja": "ふふ、お医者さんみたいです。「お腹が、痛いです」で、伝わりますよ。",
+    "romaji": "Fufu, oishasan mitai desu. 'Onaka ga, itai desu' de, tsutawarimasu yo."
+  },
+  "vl14.p5_mistake_r": {
+    "en": "Close. “Itai” describes a state, so use “ga.” It's “onaka ga, itai desu.”",
+    "ru": "Почти. «Итай» описывает состояние, поэтому используют «га». Получается «онака га, итай дэс».",
+    "zh": "很接近。「痛い」是表示状态的词，所以用「が」。说「お腹が、痛いです」。",
+    "ja": "惜しいです。「痛い」は、状態の言葉なので、「が」を使います。「お腹が、痛いです」です。",
+    "romaji": "Oshii desu. 'Itai' wa, joutai no kotoba na node, 'ga' o tsukaimasu. 'Onaka ga, itai desu' desu."
+  },
+  "vl14.p5_mis_retry": {
+    "en": "Excuse me, my stomach hurts.",
+    "ru": "Извините, у меня болит живот.",
+    "zh": "不好意思，肚子疼。",
+    "ja": "すみません、お腹が、痛いです。",
+    "romaji": "Sumimasen, onaka ga, itai desu."
+  },
+  "vl14.p5_mis_relief": {
+    "en": "Yes, that's it. “Ga” makes the painful place clear.",
+    "ru": "Да, именно так. «Га» ясно указывает, где болит.",
+    "zh": "对，就是这个。「が」让疼痛的部位明确了。",
+    "ja": "はい、それです。「が」で、痛い場所が、はっきりしました。",
+    "romaji": "Hai, sore desu. 'Ga' de, itai basho ga, hakkiri shimashita."
+  },
+  "vl14.p5_own_r": {
+    "en": "A good explanation. It makes it easier for the pharmacist to choose.",
+    "ru": "Хорошее объяснение. Фармацевту проще подобрать.",
+    "zh": "说明得很好。药剂师也容易选药。",
+    "ja": "いい説明です。薬剤師さんも、選びやすいです。",
+    "romaji": "Ii setsumei desu. Yakuzaishi-san mo, erabiyasui desu."
+  },
+  "vl14.p5_min_r": {
+    "en": "Your meaning comes across. Try saying it as a sentence: “onaka ga, itai desu.”",
+    "ru": "Ваша мысль понятна. Скажите предложением: «онака га, итай дэс».",
+    "zh": "你的意思能传达。试着用句子说：「お腹が、痛いです」。",
+    "ja": "気持ちは、伝わります。「お腹が、痛いです」と、文で、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Onaka ga, itai desu' to, bun de, itte mimashou."
+  },
+  "vl14.sample": {
+    "en": "The pharmacist listened kindly. Then she gave Ken a small bag of tea.",
+    "ru": "Фармацевт добродушно выслушала. Затем она дала Кену небольшой пакетик чая.",
+    "zh": "药剂师温柔地听了他们说话。然后给了健一小袋茶。",
+    "ja": "薬剤師さんは、やさしく、話を聞いてくれた。そして、ケンさんに、小さな、お茶の袋を、くれた。",
+    "romaji": "Yakuzaishi-san wa, yasashiku, hanashi o kiite kureta. Soshite, Ken-san ni, chiisana, ocha no fukuro o, kureta."
+  },
+  "vl14.w7": {
+    "en": "Ken “morai”-mashita, received, tea. “Morau” means to receive something from someone. You say “~ ni, ~ o, morau.”",
+    "ru": "Кен «мораи»-л чай, то есть получил. «Морау» — получить что-то от человека. Говорят «~ ни, ~ о, морау».",
+    "zh": "健「もらい」了茶，即收到了茶。「もらう」是从别人那里接受东西。说「〜に、〜を、もらう」。",
+    "ja": "ケンさんは、お茶を「もらい」ました。「もらう」は、人から、ものを、受け取ることです。「〜に、〜を、もらう」と言います。",
+    "romaji": "Ken-san wa, ocha o 'morai' mashita. 'Morau' wa, hito kara, mono o, uketoru koto desu. '~ ni, ~ o, morau' to iimasu."
+  },
+  "vl14.w7_q": {
+    "en": "Are “morau” and “kureru” different?",
+    "ru": "«Морау» и «курэру» отличаются?",
+    "zh": "「もらう」和「くれる」有区别吗？",
+    "ja": "「もらう」と「くれる」は、ちがいますか？",
+    "romaji": "'Morau' to 'kureru' wa, chigaimasu ka?"
+  },
+  "vl14.w7_a": {
+    "en": "Yes. With “morau,” the receiver is the subject. “Ken-san ga, ocha o, morau.” With “kureru,” the giver is the subject. “Yakuzaishi-san ga, ocha o, kureru.” They are words that view the same event from different sides.",
+    "ru": "Да. С «морау» подлежащее — получающий. «Кэн-сан га, оча о, морау». С «курэру» подлежащее — дающий. «Якудзайси-сан га, оча о, курэру». Это слова, которые описывают одно и то же событие с разных сторон.",
+    "zh": "是的。「もらう」以接受者为主语。「ケンさんが、お茶を、もらう」。「くれる」以给予者为主语。「薬剤師さんが、お茶を、くれる」。它们是从不同角度看同一件事的词。",
+    "ja": "はい。「もらう」は、受け取る人が、主語です。「ケンさんが、お茶を、もらう」。「くれる」は、くれる人が、主語です。「薬剤師さんが、お茶を、くれる」。同じ出来事を、ちがう側から、見る言葉です。",
+    "romaji": "Hai. 'Morau' wa, uketoru hito ga, shugo desu. 'Ken-san ga, ocha o, morau'. 'Kureru' wa, kureru hito ga, shugo desu. 'Yakuzaishi-san ga, ocha o, kureru'. Onaji dekigoto o, chigau gawa kara, miru kotoba desu."
+  },
+  "vl14.p6_prompt": {
+    "en": "After leaving the pharmacy, you phone Sensei. You want to say “I received tea at the pharmacy.” What do you say?",
+    "ru": "Выйдя из аптеки, вы звоните сэнсэю. Вы хотите сказать «в аптеке я получил чай». Что вы скажете?",
+    "zh": "走出药局后，你给老师打电话。你想说“在药局收到了茶”。你会怎么说？",
+    "ja": "薬局を出て、先生に電話をしました。「薬局で、お茶を、もらいました」と、伝えたいです。何と言いますか？",
+    "romaji": "Yakkyoku o dete, sensei ni denwa o shimashita. 'Yakkyoku de, ocha o, moraimashita' to, tsutaetai desu. Nan to iimasu ka?"
+  },
+  "vl14.c6_natural": {
+    "en": "“I received some tea at the pharmacy.”",
+    "ru": "«В аптеке я получил чай».",
+    "zh": "“在药局，收到了茶。”",
+    "ja": "「薬局で、お茶を、もらいました。」",
+    "romaji": "'Yakkyoku de, ocha o, moraimashita.'"
+  },
+  "vl14.c6_formal": {
+    "en": "“At the pharmacy, I humbly received some tea.”",
+    "ru": "«В аптеке я с почтением получил чай».",
+    "zh": "“在药局，我恭敬地收下了茶。”",
+    "ja": "「薬局にて、恐縮ながら、お茶を、頂戴いたしました。」",
+    "romaji": "'Yakkyoku nite, kyoushuku nagara, ocha o, choudai itashimashita.'"
+  },
+  "vl14.c6_mistake": {
+    "en": "“The pharmacy received tea.”",
+    "ru": "«Аптека получила чай».",
+    "zh": "“薬局が，お茶を，もらいました。”（主语弄错了）",
+    "ja": "「薬局が、お茶を、もらいました。」",
+    "romaji": "'Yakkyoku ga, ocha o, moraimashita.'"
+  },
+  "vl14.c6_own": {
+    "en": "“I received tea from the person at the pharmacy. They were very kind.”",
+    "ru": "«Я получил чай от человека в аптеке. Он был очень добр».",
+    "zh": "“药局的人给了我茶。她非常和善。”",
+    "ja": "「薬局の人に、お茶を、もらいました。とても、やさしかったです。」",
+    "romaji": "'Yakkyoku no hito ni, ocha o, moraimashita. Totemo, yasashikatta desu.'"
+  },
+  "vl14.c6_min": {
+    "en": "“Tea... receive...”",
+    "ru": "«Чай… получить…»",
+    "zh": "“茶……收到……”",
+    "ja": "「お茶…もらう…」",
+    "romaji": "'Ocha... morau...'"
+  },
+  "vl14.p6_natural_r": {
+    "en": "Yes, natural. “Moraimashita” conveys the happy feeling too.",
+    "ru": "Да, естественно. «Мораимасита» передаёт и радостное чувство.",
+    "zh": "对，很自然。「もらいました」也传达出了喜悦的心情。",
+    "ja": "はい、自然です。「もらいました」で、うれしい気持ちも、伝わります。",
+    "romaji": "Hai, shizen desu. 'Moraimashita' de, ureshii kimochi mo, tsutawarimasu."
+  },
+  "vl14.p6_formal_r": {
+    "en": "Haha, splendid. But to Sensei, “moraimashita” is fine.",
+    "ru": "Ха-ха, великолепно. Но с сэнсэем достаточно «мораимасита».",
+    "zh": "哈哈，真气派。不过对老师，说「もらいました」就可以了。",
+    "ja": "あはは、りっぱですね。でも、先生には、「もらいました」で、大丈夫です。",
+    "romaji": "Ahaha, rippa desu ne. Demo, sensei ni wa, 'moraimashita' de, daijoubu desu."
+  },
+  "vl14.p6_mistake_r": {
+    "en": "Close. That would mean “the pharmacy received it.” With “morau,” the receiver is the subject. Let's say “yakkyoku de.”",
+    "ru": "Почти. Тогда получится «аптека получила». С «морау» подлежащее — получатель. Скажем «якккё:ку дэ».",
+    "zh": "很接近。那样的话就成了“药局收到了”。「もらう」以接受者为主语。要说「薬局で」。",
+    "ja": "惜しいです。それだと、「薬局が、もらった」という意味です。「もらう」は、受け取る人が、主語です。「薬局で」と、言いましょう。",
+    "romaji": "Oshii desu. Sore da to, 'yakkyoku ga, moratta' to iu imi desu. 'Morau' wa, uketoru hito ga, shugo desu. 'Yakkyoku de' to, iimashou."
+  },
+  "vl14.p6_mis_retry": {
+    "en": "I received some tea at the pharmacy.",
+    "ru": "В аптеке я получил чай.",
+    "zh": "在药局，收到了茶。",
+    "ja": "薬局で、お茶を、もらいました。",
+    "romaji": "Yakkyoku de, ocha o, moraimashita."
+  },
+  "vl14.p6_mis_relief": {
+    "en": "Yes, that's it. “De” made the place clear.",
+    "ru": "Да, именно так. «Дэ» ясно указывает место.",
+    "zh": "对，就是这个。「で」让地点明确了。",
+    "ja": "はい、それです。「で」で、場所が、はっきりしました。",
+    "romaji": "Hai, sore desu. 'De' de, basho ga, hakkiri shimashita."
+  },
+  "vl14.p6_own_r": {
+    "en": "Nice. You said who you received it from.",
+    "ru": "Хорошо. Вы сказали, от кого получили.",
+    "zh": "不错。你说出了是从谁那里收到的。",
+    "ja": "いいですね。だれから、もらったか、言えました。",
+    "romaji": "Ii desu ne. Dare kara, moratta ka, iemashita."
+  },
+  "vl14.p6_min_r": {
+    "en": "Your meaning comes across. Try saying “ocha o, moraimashita.”",
+    "ru": "Ваша мысль понятна. Скажите «оча о, мораимасита».",
+    "zh": "你的意思能传达。试着说「お茶を、もらいました」。",
+    "ja": "気持ちは、伝わります。「お茶を、もらいました」と、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Ocha o, moraimashita' to, itte mimashou."
+  },
+  "vl14.found": {
+    "en": "After that, they asked a station attendant for directions and finally reached the front of the ticket gate.",
+    "ru": "После этого они спросили дорогу у сотрудника станции и наконец добрались до турникетов.",
+    "zh": "之后向站务员问了路，终于来到了检票口前。",
+    "ja": "その後、駅員さんに道を聞いて、ようやく、改札の前に、着いた。",
+    "romaji": "Sono ato, eki-in-san ni michi o kiite, youyaku, kaisatsu no mae ni, tsuita."
+  },
+  "vl14.t_welcome": {
+    "en": "You made it. Was it hard coming alone?",
+    "ru": "Вы добрались. Было ли тяжело ехать одному?",
+    "zh": "你们来啦。独自前来很辛苦吧？",
+    "ja": "よく来ましたね。ひとりで来るのは、大変でしたか？",
+    "romaji": "Yoku kimashita ne. Hitori de kuru no wa, taihen deshita ka?"
+  },
+  "vl14.w8": {
+    "en": "Ken, did you think “I shouldn't have come”? Or did you think “yappari, kite, yokatta”? “Yappari” is a word expressing the feeling of “just as I thought.”",
+    "ru": "Кен, вы подумали «лучше бы не приезжать»? Или вы подумали «яппари, китэ, ёката»? «Яппари» — слово, выражающее чувство «как я и думал».",
+    "zh": "健，你是否觉得“早知道就不来了”？还是觉得「やっぱり、来て、よかった」？「やっぱり」是表达“果然如我所想”的心情的词。",
+    "ja": "ケンさんは、「行かなければ、よかった」と、思いましたか？それとも、「やっぱり、来て、よかった」と、思いましたか？「やっぱり」は、思ったとおりだった、という気持ちの言葉です。",
+    "romaji": "Ken-san wa, 'ikanakereba, yokatta' to, omoimashita ka? Soretomo, 'yappari, kite, yokatta' to, omoimashita ka? 'Yappari' wa, omotta toori datta, to iu kimochi no kotoba desu."
+  },
+  "vl14.w9": {
+    "en": "“Yokatta” is a word that rejoices at a good outcome or a right choice. It's used as in “kite, yokatta” or “aete, yokatta.”",
+    "ru": "«Ёката» — слово, выражающее радость по поводу хорошего результата или правильного выбора. Используется, например, в «китэ, ёката», «аэтэ, ёката».",
+    "zh": "「よかった」是为好结果或正确选择而高兴的词。用法如「来て、よかった」「会えて、よかった」。",
+    "ja": "「よかった」は、いい結果や、正しい選択を、よろこぶ言葉です。「来て、よかった」「会えて、よかった」のように使います。",
+    "romaji": "'Yokatta' wa, ii kekka ya, tadashii sentaku o, yorokobu kotoba desu. 'Kite, yokatta' 'aete, yokatta' no you ni tsukaimasu."
+  },
+  "vl14.w9_q": {
+    "en": "Are “yappari” and “yahari” the same?",
+    "ru": "«Яппари» и «яхари» — это одно и то же?",
+    "zh": "「やっぱり」和「やはり」一样吗？",
+    "ja": "「やっぱり」と「やはり」は、同じですか？",
+    "romaji": "'Yappari' to 'yahari' wa, onaji desu ka?"
+  },
+  "vl14.w9_a": {
+    "en": "They mean the same. “Yappari” is spoken language and casual. “Yahari” is used in writing or slightly formal situations.",
+    "ru": "Значение одинаковое. «Яппари» — разговорная, непринуждённая форма. «Яхари» используют в письменной речи или в несколько более официальных ситуациях.",
+    "zh": "意思相同。「やっぱり」是口语，比较随意。「やはり」用于书面语或稍微正式的场合。",
+    "ja": "意味は、同じです。「やっぱり」は、話し言葉で、くだけた感じです。「やはり」は、書き言葉や、少し、あらたまった場面で、使います。",
+    "romaji": "Imi wa, onaji desu. 'Yappari' wa, hanashikotoba de, kudaketa kanji desu. 'Yahari' wa, kakikotoba ya, sukoshi, aratamatta bamen de, tsukaimasu."
+  },
+  "vl14.p7_prompt": {
+    "en": "Ken asked, “It was hard coming alone, but are you glad you came?” You got lost, but you still think you're glad you came. How do you answer?",
+    "ru": "Кен спросил: «Ехать одному было трудно, но вы рады, что приехали?» Вы заблудились, но всё равно думаете, что рады, что приехали. Что вы ответите?",
+    "zh": "健问：“独自来很辛苦，不过你觉得来了很好吗？”你虽然迷了路，但还是觉得来了很好。你会怎么回答？",
+    "ja": "ケンさんが、聞きました。「ひとりで来るのは、大変でしたが、来て、よかったですか？」あなたは、道に迷いましたが、やっぱり、来て、よかったと、思っています。何と答えますか？",
+    "romaji": "Ken-san ga, kikimashita. 'Hitori de kuru no wa, taihen deshita ga, kite, yokatta desu ka?' Anata wa, michi ni mayoimashita ga, yappari, kite, yokatta to, omotte imasu. Nan to kotaemasu ka?"
+  },
+  "vl14.c7_natural": {
+    "en": "“Yes, it was hard, but I'm glad I came after all.”",
+    "ru": "«Да, было трудно, но я всё же рад, что приехал».",
+    "zh": "“是的，虽然很辛苦，但果然还是来了比较好。”",
+    "ja": "「はい、大変でしたが、やっぱり、来て、よかったです。」",
+    "romaji": "'Hai, taihen deshita ga, yappari, kite, yokatta desu.'"
+  },
+  "vl14.c7_formal": {
+    "en": "“It was arduous, but, as I'd thought, it was fortunate that I came.”",
+    "ru": "«Было нелегко, но, как я и думал, мне посчастливилось приехать».",
+    "zh": "“虽然艰难，但果然前来是有幸之事。”",
+    "ja": "「難儀ではございましたが、やはり、参りまして、幸いでございました。」",
+    "romaji": "'Nangi de wa gozaimashita ga, yahari, mairimashite, saiwai de gozaimashita.'"
+  },
+  "vl14.c7_mistake": {
+    "en": "“Yes, it was hard, but yappari, I came, it was ii-deshita.”",
+    "ru": "«Да, было трудно, но яппари, приехал, было ии-дэсита».",
+    "zh": "“是的，虽然很辛苦，但果然，来了，いいでした。”（「いい」的过去式是「よかった」）",
+    "ja": "「はい、大変でしたが、やっぱり、来て、いいでした。」",
+    "romaji": "'Hai, taihen deshita ga, yappari, kite, ii deshita.'"
+  },
+  "vl14.c7_own": {
+    "en": "“Yes, it was hard, but I'm glad I came after all. Next time, I want to arrive earlier.”",
+    "ru": "«Да, было трудно, но я всё же рад, что приехал. В следующий раз хочу приехать пораньше».",
+    "zh": "“是的，虽然很辛苦，但果然还是来了比较好。下次我想早点到。”",
+    "ja": "「はい、大変でしたが、やっぱり、来て、よかったです。次は、もっと、早く着きたいです。」",
+    "romaji": "'Hai, taihen deshita ga, yappari, kite, yokatta desu. Tsugi wa, motto, hayaku tsukitai desu.'"
+  },
+  "vl14.c7_min": {
+    "en": "“Yes... after all... glad...”",
+    "ru": "«Да… всё же… рад…»",
+    "zh": "“是……果然……好……”",
+    "ja": "「はい…やっぱり…よかった…」",
+    "romaji": "'Hai... yappari... yokatta...'"
+  },
+  "vl14.p7_natural_r": {
+    "en": "Same for me. I'm glad I could come alone.",
+    "ru": "У меня то же самое. Я рад, что смог приехать один.",
+    "zh": "我也一样。能独自来到，真好。",
+    "ja": "ぼくも、同じです。ひとりで、来られて、よかったです。",
+    "romaji": "Boku mo, onaji desu. Hitori de, koraretee, yokatta desu."
+  },
+  "vl14.p7_formal_r": {
+    "en": "Ha, like a period drama. “Yappari, kite, yokatta desu” is fine.",
+    "ru": "Ха-ха, как в исторической драме. Достаточно «яппари, китэ, ёката дэс».",
+    "zh": "呵呵，像古装剧一样。说「やっぱり、来て、よかったです」就行。",
+    "ja": "ふふ、時代劇みたいです。「やっぱり、来て、よかったです」で、いいですよ。",
+    "romaji": "Fufu, jidaigeki mitai desu. 'Yappari, kite, yokatta desu' de, ii desu yo."
+  },
+  "vl14.p7_mistake_r": {
+    "en": "Close. The past of “ii” is “yokatta.” You don't say “ii deshita.” It's “kite, yokatta desu.”",
+    "ru": "Почти. Прошедшая форма «ии» — «ёката». Не говорят «ии дэсита». Получается «китэ, ёката дэс».",
+    "zh": "很接近。「いい」的过去式是「よかった」。不说「いいでした」。说「来て、よかったです」。",
+    "ja": "惜しいです。「いい」の過去形は、「よかった」です。「いいでした」とは、言いません。「来て、よかったです」です。",
+    "romaji": "Oshii desu. 'Ii' no kakokei wa, 'yokatta' desu. 'Ii deshita' to wa, iimasen. 'Kite, yokatta desu' desu."
+  },
+  "vl14.p7_mis_retry": {
+    "en": "Yes, it was hard, but I'm glad I came after all.",
+    "ru": "Да, было трудно, но я всё же рад, что приехал.",
+    "zh": "是的，虽然很辛苦，但果然还是来了比较好。",
+    "ja": "はい、大変でしたが、やっぱり、来て、よかったです。",
+    "romaji": "Hai, taihen deshita ga, yappari, kite, yokatta desu."
+  },
+  "vl14.p7_mis_relief": {
+    "en": "Yes, that's it. “Yokatta” conveys your happiness.",
+    "ru": "Да, именно так. «Ёката» передаёт вашу радость.",
+    "zh": "对，就是这个。「よかった」传达出了喜悦。",
+    "ja": "はい、それです。「よかった」で、うれしさが、伝わります。",
+    "romaji": "Hai, sore desu. 'Yokatta' de, ureshisa ga, tsutawarimasu."
+  },
+  "vl14.p7_own_r": {
+    "en": "Nice. Let's practise together next time too.",
+    "ru": "Хорошо. В следующий раз тоже потренируемся вместе.",
+    "zh": "不错。下次也一起练习吧。",
+    "ja": "いいですね。次も、いっしょに、練習しましょう。",
+    "romaji": "Ii desu ne. Tsugi mo, issho ni, renshuu shimashou."
+  },
+  "vl14.p7_min_r": {
+    "en": "Your meaning comes across. Let's say it through: “kite, yokatta desu.”",
+    "ru": "Ваша мысль понятна. Скажем слитно: «китэ, ёката дэс».",
+    "zh": "你的意思能传达。连起来说：「来て、よかったです」。",
+    "ja": "気持ちは、伝わります。「来て、よかったです」と、続けて、言いましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Kite, yokatta desu' to, tsuzukete, iimashou."
+  },
+  "vl14.w10": {
+    "en": "Finally, “kotoba.” “Kotoba” means words that people speak or write. It's used as in “Nihongo no kotoba” or “yasashii kotoba.”",
+    "ru": "Наконец, «котоба». «Котоба» — слова, которые люди говорят или пишут. Используется, например, в «нихонго но котоба» или «ясасий котоба».",
+    "zh": "最后是「言葉」。「言葉」是人说的或写的语言。用法如「日本語の言葉」「やさしい言葉」。",
+    "ja": "最後に、「言葉」です。「言葉」は、人が、話したり、書いたりする、ことばのことです。「日本語の言葉」「やさしい言葉」のように、使います。",
+    "romaji": "Saigo ni, 'kotoba' desu. 'Kotoba' wa, hito ga, hanashitari, kaitari suru, kotoba no koto desu. 'Nihongo no kotoba' 'yasashii kotoba' no you ni, tsukaimasu."
+  },
+  "vl14.w10_q": {
+    "en": "Are “kotoba” and “tango” different?",
+    "ru": "«Котоба» и «танго» отличаются?",
+    "zh": "「言葉」和「単語」有区别吗？",
+    "ja": "「言葉」と「単語」は、ちがいますか？",
+    "romaji": "'Kotoba' to 'tango' wa, chigaimasu ka?"
+  },
+  "vl14.w10_a": {
+    "en": "Yes. “Tango” are individual words found in a dictionary. “Kotoba” is broader and includes ways of putting things and ways of speaking. “Kotobazukai” means one's way of speaking.",
+    "ru": "Да. «Танго» — отдельные слова, которые можно найти в словаре. «Котоба» шире, оно включает манеру выражения и манеру говорить. «Котобадзукай» — манера речи.",
+    "zh": "是的。「単語」是词典里的一个个词。「言葉」更广泛，包含说法和说话方式。「言葉づかい」指说话的方式。",
+    "ja": "はい。「単語」は、ひとつひとつの、辞書にある言葉です。「言葉」は、もっと広くて、言い方や、話し方も、含みます。「言葉づかい」は、話し方のことです。",
+    "romaji": "Hai. 'Tango' wa, hitotsu hitotsu no, jisho ni aru kotoba desu. 'Kotoba' wa, motto hirokute, iikata ya, hanashikata mo, fukumimasu. 'Kotobazukai' wa, hanashikata no koto desu."
+  },
+  "vl14.talk_open": {
+    "en": "Now let's talk. Out of today's ten words, which one do you most want to use?",
+    "ru": "Итак, поговорим. Какое из сегодняшних десяти слов вы больше всего хотите использовать?",
+    "zh": "现在来聊聊。今天这十个词里，你最想用哪个？",
+    "ja": "では、話しましょう。今日の、十の言葉の中で、いちばん、使いたい言葉は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no, juu no kotoba no naka de, ichiban, tsukaitai kotoba wa, dore desu ka?"
+  },
+  "vl14.talk_ken": {
+    "en": "For me, “kinchou.” I was nervous, but somehow managed to come.",
+    "ru": "Для меня это «кинтё:». Я нервничал, но как-то добрался.",
+    "zh": "我想说「緊張」。虽然紧张，但总算来了。",
+    "ja": "ぼくは、「緊張」です。緊張しましたが、なんとか、来られました。",
+    "romaji": "Boku wa, 'kinchou' desu. Kinchou shimashita ga, nantoka, koraremashita."
+  },
+  "vl14.talk_mei": {
+    "en": "For me, “michi ni mayou.” Even if you get lost, you can arrive if you ask.",
+    "ru": "Для меня это «мити ни маёу». Даже заблудившись, если спросить, можно добраться.",
+    "zh": "我想说「道に迷う」。即使迷路，只要问路就能到达呢。",
+    "ja": "わたしは、「道に迷う」です。迷っても、聞けば、ちゃんと、着けますね。",
+    "romaji": "Watashi wa, 'michi ni mayou' desu. Mayotte mo, kikeba, chanto, tsukemasu ne."
+  },
+  "vl14.talk_yuki": {
+    "en": "For me, “kotoba.” With words, even an unfamiliar town isn't scary.",
+    "ru": "Для меня это «котоба». Со словами даже незнакомый город не страшен.",
+    "zh": "我想说「言葉」。有了语言，陌生的城镇也不可怕了。",
+    "ja": "わたしは、「言葉」です。言葉が、あると、知らない町も、こわくないです。",
+    "romaji": "Watashi wa, 'kotoba' desu. Kotoba ga, aru to, shiranai machi mo, kowakunai desu."
+  },
+  "vl14.talk_tanaka": {
+    "en": "Lovely. Everyone worked very hard today.",
+    "ru": "Прекрасно. Сегодня все очень постарались.",
+    "zh": "真好。今天大家都非常努力。",
+    "ja": "すてきですね。今日は、みんな、とても、よくがんばりました。",
+    "romaji": "Suteki desu ne. Kyou wa, minna, totemo, yoku ganbarimashita."
+  },
+  "vl14.talk_player": {
+    "en": "(Ticket gate, nervous, get lost, embarrassed, practice, pharmacy, receive, after all, glad, words. Even if you get lost, with words you can keep moving forward. Next time, I'll try going alone to an unfamiliar station.)",
+    "ru": "(Турникеты, нервничать, заблудиться, стыдно, практика, аптека, получить, всё же, рад, слова. Даже если заблудишься, со словами можно двигаться дальше. В следующий раз попробую поехать один на незнакомую станцию.)",
+    "zh": "（检票口、紧张、迷路、不好意思、练习、药局、收到、果然、太好了、语言。即使迷了路，有了语言就能继续前进。下次，试着独自去陌生的车站。）",
+    "ja": "（改札、緊張、道に迷う、恥ずかしい、練習、薬局、もらう、やっぱり、よかった、言葉。道に迷っても、言葉があれば、進める。次は、ひとりで、知らない駅に、行ってみよう。）",
+    "romaji": "(Kaisatsu, kinchou, michi ni mayou, hazukashii, renshuu, yakkyoku, morau, yappari, yokatta, kotoba. Even if you get lost, with words you can move forward. Next time, I'll try going to an unfamiliar station alone.)"
+  },
+  "vl14.talk_close": {
+    "en": "Well done, everyone. Then, let's meet again in the classroom.",
+    "ru": "Отлично, все. А теперь — до встречи в классе.",
+    "zh": "各位，做得很好。那么，我们教室里再见吧。",
+    "ja": "みなさん、よくできました。では、また、教室で、会いましょう。",
+    "romaji": "Minasan, yoku dekimashita. Dewa, mata, kyoushitsu de, aimashou."
+  },
+  "vl14.complete": {
+    "en": "End of Vocabulary Lesson 14.",
+    "ru": "Конец урока лексики 14.",
+    "zh": "词汇课 14 结束。",
+    "ja": "語彙レッスン14、おわり。",
+    "romaji": "Goi ressun juuyon, owari."
+  }
+}

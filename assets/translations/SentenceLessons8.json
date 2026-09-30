@@ -1,0 +1,674 @@
+{
+  "sl8.title": {
+    "en": "Making Requests: Kudasai and ~ te Kudasai",
+    "ru": "Как просить: кудасай и ~ тэ кудасай",
+    "zh": "请求的说法：ください・〜てください",
+    "ja": "お願いの言い方：ください・〜てください",
+    "romaji": "Onegai no iikata: kudasai, ~ te kudasai"
+  },
+  "sl8.subtitle": {
+    "en": "Asking politely",
+    "ru": "Просим вежливо",
+    "zh": "礼貌地请求",
+    "ja": "ていねいに、たのむ",
+    "romaji": "Teinei ni, tanomu"
+  },
+  "sl8.description": {
+    "en": "In the classroom and at the station, practice “~ o kudasai,” “~ te kudasai,” “~ naide kudasai,” and polite ways of making requests.",
+    "ru": "В классе и на вокзале потренируйте «~ о кудасай», «~ тэ кудасай», «~ найдэ кудасай» и вежливые способы просить.",
+    "zh": "在教室和车站，练习「〜をください」「〜てください」「〜ないでください」以及礼貌的请求说法。",
+    "ja": "教室と駅で、「〜をください」「〜てください」「〜ないでください」と、ていねいなお願いの言い方を練習します。",
+    "romaji": "Kyoushitsu to eki de, '~ o kudasai' '~ te kudasai' '~ naide kudasai' to, teinei na onegai no iikata o renshuu shimasu."
+  },
+  "sl8.pattern.1": {
+    "en": "Please give me X",
+    "ru": "Дайте мне X",
+    "zh": "请给我X",
+    "ja": "〜をください",
+    "romaji": "~ o kudasai"
+  },
+  "sl8.pattern.2": {
+    "en": "Please do X (te-form)",
+    "ru": "Пожалуйста, сделайте X (форма тэ)",
+    "zh": "请做X（て形）",
+    "ja": "〜てください（て形）",
+    "romaji": "~ te kudasai (te-form)"
+  },
+  "sl8.pattern.3": {
+    "en": "Please don't do X",
+    "ru": "Пожалуйста, не делайте X",
+    "zh": "请不要做X",
+    "ja": "〜ないでください",
+    "romaji": "~ naide kudasai"
+  },
+  "sl8.pattern.4": {
+    "en": "softening a request and answering one",
+    "ru": "смягчаем просьбу и отвечаем на неё",
+    "zh": "缓和语气，以及回应请求",
+    "ja": "すみません・お願いします・ちょっと…",
+    "romaji": "sumimasen, onegaishimasu, chotto..."
+  },
+  "sl8.setup": {
+    "en": "The classroom after the lesson. Tanaka-sensei is handing out notebooks. Those without anything to write with seem to want to borrow a pen.",
+    "ru": "Класс после урока. Танака-сэнсэй раздаёт тетради. Похоже, те, у кого нет ручки, хотят одолжить её.",
+    "zh": "下课后的教室。田中老师正在给大家发笔记本。没有笔的人好像想借一支。",
+    "ja": "授業のあと、教室。田中先生が、みんなにノートを配っている。書くものがない人は、ペンを借りたいようだ。",
+    "romaji": "Jugyou no ato, kyoushitsu. Tanaka-sensei ga, minna ni nooto o kubatte iru. Kaku mono ga nai hito wa, pen o karitai you da."
+  },
+  "sl8.t_intro": {
+    "en": "Today's theme is how to make requests. When you ask someone for something, polite words are important.",
+    "ru": "Тема сегодня — как просить. Когда вы о чём-то просите человека, важны вежливые слова.",
+    "zh": "今天的主题是请求的说法。请别人做事时，礼貌的措辞很重要。",
+    "ja": "今日のテーマは、お願いの言い方です。人に何かをたのむとき、ていねいな言葉が、大切です。",
+    "romaji": "Kyou no teema wa, onegai no iikata desu. Hito ni nani ka o tanomu toki, teinei na kotoba ga, taisetsu desu."
+  },
+  "sl8.s1_intro": {
+    "en": "First, when you ask for something, use “~ o kudasai.” In Sentence Lesson 5 you said “takoyaki o, futatsu kudasai.”",
+    "ru": "Сначала: когда вы просите предмет, используют «~ о кудасай». На уроке предложений 5 вы говорили «такояки о, футацу кудасай».",
+    "zh": "首先，请求东西时用「〜をください」。在句型课5里你说过「たこ焼きを、二つください」。",
+    "ja": "まず、ものをたのむときは、「〜をください」です。文型レッスン5で、「たこ焼きを、二つください」と言いましたね。",
+    "romaji": "Mazu, mono o tanomu toki wa, '~ o kudasai' desu. Bunkei ressun go de, 'takoyaki o, futatsu kudasai' to iimashita ne."
+  },
+  "sl8.s1_ex": {
+    "en": "A pen, please. Water, please. The menu, please.",
+    "ru": "Ручку, пожалуйста. Воды, пожалуйста. Меню, пожалуйста.",
+    "zh": "请给我笔。请给我水。请给我菜单。",
+    "ja": "ペンを、ください。水を、ください。メニューを、ください。",
+    "romaji": "Pen o, kudasai. Mizu o, kudasai. Menyuu o, kudasai."
+  },
+  "sl8.s1_q1": {
+    "en": "Can you say “kudasai” to anyone?",
+    "ru": "«Кудасай» можно говорить кому угодно?",
+    "zh": "「ください」对谁都可以说吗？",
+    "ja": "「ください」は、だれにでも、言えますか？",
+    "romaji": "'Kudasai' wa, dare ni demo, iemasu ka?"
+  },
+  "sl8.s1_a1": {
+    "en": "Yes, you can. But adding “sumimasen” first, as in “sumimasen, pen o kudasai,” is more polite.",
+    "ru": "Да, можно. Но если добавить «сумимасэн» в начале, например «сумимасэн, пэн о кудасай», это вежливее.",
+    "zh": "可以。不过像「すみません、ペンをください」这样，先加上「すみません」会更礼貌。",
+    "ja": "はい、言えます。でも、「すみません、ペンをください」のように、「すみません」を先につけると、もっと、ていねいです。",
+    "romaji": "Hai, iemasu. Demo, 'sumimasen, pen o kudasai' no you ni, 'sumimasen' o saki ni tsukeru to, motto, teinei desu."
+  },
+  "sl8.s1_q2": {
+    "en": "Is it different from “onegaishimasu”?",
+    "ru": "Отличается ли это от «онэгайсимас»?",
+    "zh": "它和「お願いします」有区别吗？",
+    "ja": "「お願いします」と、ちがいますか？",
+    "romaji": "'Onegaishimasu' to, chigaimasu ka?"
+  },
+  "sl8.s1_a2": {
+    "en": "“~ o onegaishimasu” is also very common. It is a slightly softer way of saying it. In shops, both sound natural.",
+    "ru": "«~ о онэгайсимас» тоже часто используют. Это несколько более мягкая форма. В магазинах естественно звучат обе.",
+    "zh": "「〜をお願いします」也很常用。语气稍微柔和一些。在店里，两种说法都很自然。",
+    "ja": "「〜をお願いします」も、よく使います。少し、やわらかい言い方です。お店では、どちらも自然です。",
+    "romaji": "'~ o onegaishimasu' mo, yoku tsukaimasu. Sukoshi, yawarakai iikata desu. Omise de wa, dochira mo shizen desu."
+  },
+  "sl8.p1_prompt": {
+    "en": "You don't have a pen. You want to ask Tanaka-sensei for one. What do you say?",
+    "ru": "У вас нет ручки. Вы хотите попросить одну у Танаки-сэнсэя. Что вы скажете?",
+    "zh": "你没带笔。你想向田中老师借一支。你会怎么说？",
+    "ja": "あなたは、ペンを持っていません。田中先生に、ペンを一本、たのみたいです。何と言いますか？",
+    "romaji": "Anata wa, pen o motte imasen. Tanaka-sensei ni, pen o ippon, tanomitai desu. Nan to iimasu ka?"
+  },
+  "sl8.c1_natural": {
+    "en": "“Excuse me, could I have a pen, please?”",
+    "ru": "«Извините, дайте, пожалуйста, ручку».",
+    "zh": "“不好意思，请给我一支笔。”",
+    "ja": "「すみません、ペンを、ください。」",
+    "romaji": "'Sumimasen, pen o, kudasai.'"
+  },
+  "sl8.c1_formal": {
+    "en": "“Pardon me, but might I be lent a pen?”",
+    "ru": "«Прошу прощения, не могли бы вы одолжить мне ручку?»",
+    "zh": "“打扰了，能否借我一支笔？”",
+    "ja": "「恐れ入りますが、ペンを、一本、貸していただけますでしょうか。」",
+    "romaji": "'Osoreirimasu ga, pen o, ippon, kashite itadakemasu deshou ka.'"
+  },
+  "sl8.c1_mistake": {
+    "en": "“Excuse me, pen (ga), please.”",
+    "ru": "«Извините, ручка (га), пожалуйста».",
+    "zh": "“不好意思，笔が请给我。”（误用了が）",
+    "ja": "「すみません、ペンが、ください。」",
+    "romaji": "'Sumimasen, pen ga, kudasai.'"
+  },
+  "sl8.c1_own": {
+    "en": "“Excuse me, could I have a pen, please? I forgot something to write with.”",
+    "ru": "«Извините, дайте, пожалуйста, ручку. Я забыл, чем писать».",
+    "zh": "“不好意思，请给我一支笔。我忘了带写字的东西。”",
+    "ja": "「すみません、ペンを、ください。書くものを、忘れました。」",
+    "romaji": "'Sumimasen, pen o, kudasai. Kaku mono o, wasuremashita.'"
+  },
+  "sl8.c1_min": {
+    "en": "“Pen... please...”",
+    "ru": "«Ручку… пожалуйста…»",
+    "zh": "“笔……请给……”",
+    "ja": "「ペン…ください…」",
+    "romaji": "'Pen... kudasai...'"
+  },
+  "sl8.p1_nat_tanaka": {
+    "en": "Here you are. Please use this.",
+    "ru": "Пожалуйста, вот. Используйте эту.",
+    "zh": "好的，请拿去。请用这支。",
+    "ja": "はい、どうぞ。これを、使ってください。",
+    "romaji": "Hai, douzo. Kore o, tsukatte kudasai."
+  },
+  "sl8.p1_form_ken": {
+    "en": "Haha, we're talking about a pen. “Pen o, kudasai” is fine.",
+    "ru": "Ха-ха, речь же о ручке. Достаточно «пэн о, кудасай».",
+    "zh": "哈哈，只是借支笔而已。说「ペンを、ください」就行。",
+    "ja": "あはは、ペンの話ですよ。「ペンを、ください」で、大丈夫です。",
+    "romaji": "Ahaha, pen no hanashi desu yo. 'Pen o, kudasai' de, daijoubu desu."
+  },
+  "sl8.p1_mis_mei": {
+    "en": "Huh, when you ask for something, it's “o,” not “ga.” It's “pen o, kudasai.”",
+    "ru": "Ой, когда просите предмет, нужно «о», а не «га». Говорят «пэн о, кудасай».",
+    "zh": "咦，请求东西时，要用「を」，而不是「が」。说「ペンを、ください」。",
+    "ja": "あれ、ものをたのむときは、「が」ではなく、「を」です。「ペンを、ください」ですよ。",
+    "romaji": "Are, mono o tanomu toki wa, 'ga' de wa naku, 'o' desu. 'Pen o, kudasai' desu yo."
+  },
+  "sl8.p1_mis_retry": {
+    "en": "Oh, excuse me, could I have a pen, please?",
+    "ru": "Ой, извините, дайте, пожалуйста, ручку.",
+    "zh": "啊，不好意思，请给我一支笔。",
+    "ja": "あっ、すみません、ペンを、ください。",
+    "romaji": "A, sumimasen, pen o, kudasai."
+  },
+  "sl8.p1_mis_relief": {
+    "en": "Yes, that's it! “O” fits perfectly.",
+    "ru": "Да, именно так! «О» подходит идеально.",
+    "zh": "对，就是这个！用「を」正合适。",
+    "ja": "はい、それです！「を」で、ぴったりです。",
+    "romaji": "Hai, sore desu! 'O' de, pittari desu."
+  },
+  "sl8.p1_own_tanaka": {
+    "en": "Understood. Please don't forget next time.",
+    "ru": "Понятно. В следующий раз не забывайте, пожалуйста.",
+    "zh": "明白了。下次请别忘了哦。",
+    "ja": "分かりました。次は、忘れないでくださいね。",
+    "romaji": "Wakarimashita. Tsugi wa, wasurenaide kudasai ne."
+  },
+  "sl8.p1_min_yuki": {
+    "en": "I understand. Let's start with “sumimasen”: “sumimasen, pen o, kudasai.”",
+    "ru": "Понимаю. Давайте начнём с «сумимасэн»: «сумимасэн, пэн о, кудасай».",
+    "zh": "我明白。开头先说「すみません」：「すみません、ペンを、ください」。",
+    "ja": "分かりますよ。「すみません、ペンを、ください」と、はじめに、「すみません」を言いましょう。",
+    "romaji": "Wakarimasu yo. 'Sumimasen, pen o, kudasai' to, hajime ni, 'sumimasen' o iimashou."
+  },
+  "sl8.s2_intro": {
+    "en": "Next is the form for asking someone to do something. Put the verb into its “te” form and add “kudasai.” For example, “mite kudasai” and “kaite kudasai.”",
+    "ru": "Дальше — форма для просьбы что-то сделать. Глагол ставят в форму «тэ» и добавляют «кудасай». Например, «митэ кудасай» и «кайтэ кудасай».",
+    "zh": "接下来是请求别人做动作的句型。把动词变成「て」形，再加上「ください」。如「見てください」「書いてください」。",
+    "ja": "次は、動作をたのむ形です。動詞を「て」の形にして、「ください」をつけます。「見てください」「書いてください」です。",
+    "romaji": "Tsugi wa, dousa o tanomu katachi desu. Doushi o 'te' no katachi ni shite, 'kudasai' o tsukemasu. 'Mite kudasai' 'kaite kudasai' desu."
+  },
+  "sl8.s2_rule": {
+    "en": "How you make the “te” form depends on the verb group. For tabemasu, mimasu, and oshiemasu, remove “masu” and add “te”: tabete, mite, oshiete.",
+    "ru": "Способ образования формы «тэ» зависит от группы глагола. У «табэмас», «мимас» и «осиэмас» убирают «мас» и добавляют «тэ»: табэтэ, митэ, осиэтэ.",
+    "zh": "「て」形的构成方式因动词类别而异。食べます、見ます、教えます，去掉「ます」再加「て」，即食べて、見て、教えて。",
+    "ja": "「て」の形の作り方は、動詞のグループで、ちがいます。食べます、見ます、教えますは、「ます」を取って、「て」をつけます。食べて、見て、教えてです。",
+    "romaji": "'Te' no katachi no tsukurikata wa, doushi no guruupu de, chigaimasu. Tabemasu, mimasu, oshiemasu wa, 'masu' o totte, 'te' o tsukemasu. Tabete, mite, oshiete desu."
+  },
+  "sl8.s2_rule2": {
+    "en": "“Kakimasu” becomes “kaite,” “machimasu” becomes “matte,” “yomimasu” becomes “yonde,” and “hanashimasu” becomes “hanashite.” “Kimasu” becomes “kite,” and “shimasu” becomes “shite.”",
+    "ru": "«Какимас» превращается в «кайтэ», «мачимас» — в «маттэ», «ёмимас» — в «ёндэ», «ханасимас» — в «ханасите». «Кимас» — в «китэ», «симас» — в «ситэ».",
+    "zh": "「書きます」变成「書いて」，「待ちます」变成「待って」，「読みます」变成「読んで」，「話します」变成「話して」。「来ます」变成「来て」，「します」变成「して」。",
+    "ja": "「書きます」は「書いて」、「待ちます」は「待って」、「読みます」は「読んで」、「話します」は「話して」です。「来ます」は「来て」、「します」は「して」です。",
+    "romaji": "'Kakimasu' wa 'kaite', 'machimasu' wa 'matte', 'yomimasu' wa 'yonde', 'hanashimasu' wa 'hanashite' desu. 'Kimasu' wa 'kite', 'shimasu' wa 'shite' desu."
+  },
+  "sl8.s2_q1": {
+    "en": "Is “ikimasu” also “iite”?",
+    "ru": "«Икимас» тоже превращается в «иитэ»?",
+    "zh": "「行きます」也是「行いて」吗？",
+    "ja": "「行きます」も、「行いて」ですか？",
+    "romaji": "'Ikimasu' mo, 'iite' desu ka?"
+  },
+  "sl8.s2_a1": {
+    "en": "No, “ikimasu” is special. You say “itte.” Only “iku” does not follow the same pattern as “kaku.”",
+    "ru": "Нет, «икимас» — особый случай. Говорят «иттэ». Только «ику» не следует той же схеме, что и «каку».",
+    "zh": "不是，「行きます」是特殊的。要说「行って」。只有「行く」不和「書く」一样变化。",
+    "ja": "いいえ、「行きます」は、特別です。「行って」と言います。「行く」だけは、「書く」と同じ形になりません。",
+    "romaji": "Iie, 'ikimasu' wa, tokubetsu desu. 'Itte' to iimasu. 'Iku' dake wa, 'kaku' to onaji katachi ni narimasen."
+  },
+  "sl8.s2_q2": {
+    "en": "There are so many, and it's difficult. How do you learn them?",
+    "ru": "Их так много, и это сложно. Как их запоминать?",
+    "zh": "有这么多，好难啊。该怎么记？",
+    "ja": "たくさん、あって、むずかしいです。どうやって、覚えますか？",
+    "romaji": "Takusan, atte, muzukashii desu. Dou yatte, oboemasu ka?"
+  },
+  "sl8.s2_a2": {
+    "en": "Let's learn them little by little, starting with verbs you use often: mite, kaite, matte, oshiete, kite. Saying them out loud many times is best.",
+    "ru": "Давайте запоминать понемногу, начиная с часто используемых глаголов: митэ, кайтэ, маттэ, осиэтэ, китэ. Лучше всего произносить их вслух много раз.",
+    "zh": "我们从常用的动词开始，一点一点地记：見て、書いて、待って、教えて、来て。多出声练习几遍最好。",
+    "ja": "よく使う動詞から、少しずつ、覚えましょう。「見て」「書いて」「待って」「教えて」「来て」。声に出して、何度も言うのが、いちばんです。",
+    "romaji": "Yoku tsukau doushi kara, sukoshi zutsu, oboemashou. 'Mite' 'kaite' 'matte' 'oshiete' 'kite'. Koe ni dashite, nando mo iu no ga, ichiban desu."
+  },
+  "sl8.m_walk": {
+    "en": "Oh, I left my pen in my locker. I'll go and get it.",
+    "ru": "Ой, я забыла ручку в шкафчике. Схожу за ней.",
+    "zh": "啊，我把笔忘在储物柜里了。我去拿。",
+    "ja": "あっ、ペンを、ロッカーに忘れました。取ってきます。",
+    "romaji": "A, pen o, rokkaa ni wasuremashita. Tottekimasu."
+  },
+  "sl8.p2_prompt": {
+    "en": "Mei is about to leave the classroom. You want her to wait. What do you say?",
+    "ru": "Мэй собирается выйти из класса. Вы хотите, чтобы она подождала. Что вы скажете?",
+    "zh": "小梅正要走出教室。你想让她等一下。你会怎么说？",
+    "ja": "メイさんが、教室を出ようとしています。あなたは、メイさんに、待ってほしいです。何と言いますか？",
+    "romaji": "Mei-san ga, kyoushitsu o deyou to shite imasu. Anata wa, Mei-san ni, matte hoshii desu. Nan to iimasu ka?"
+  },
+  "sl8.c2_natural": {
+    "en": "“Excuse me, please wait a moment.”",
+    "ru": "«Извините, подождите, пожалуйста, минутку».",
+    "zh": "“不好意思，请稍等一下。”",
+    "ja": "「すみません、ちょっと、待ってください。」",
+    "romaji": "'Sumimasen, chotto, matte kudasai.'"
+  },
+  "sl8.c2_formal": {
+    "en": "“Pardon me, but I humbly ask you to wait a little.”",
+    "ru": "«Прошу прощения, соблаговолите немного подождать».",
+    "zh": "“打扰了，请您稍候片刻。”",
+    "ja": "「恐れ入りますが、少々、お待ちくださいませ。」",
+    "romaji": "'Osoreirimasu ga, shoushou, omachi kudasaimase.'"
+  },
+  "sl8.c2_mistake": {
+    "en": "“Excuse me, please wait (dictionary form).”",
+    "ru": "«Извините, подождите (словарная форма)».",
+    "zh": "“不好意思，请等待（用了原形）。”",
+    "ja": "「すみません、ちょっと、待つください。」",
+    "romaji": "'Sumimasen, chotto, matsu kudasai.'"
+  },
+  "sl8.c2_own": {
+    "en": "“Excuse me, please wait a moment. I'll go with you.”",
+    "ru": "«Извините, подождите минутку. Я пойду с вами».",
+    "zh": "“不好意思，请稍等一下。我也一起去。”",
+    "ja": "「すみません、ちょっと、待ってください。ぼくも、いっしょに行きます。」",
+    "romaji": "'Sumimasen, chotto, matte kudasai. Boku mo, issho ni ikimasu.'"
+  },
+  "sl8.c2_min": {
+    "en": "“Um... wait...”",
+    "ru": "«Э-э… подожди…»",
+    "zh": "“呃……等……”",
+    "ja": "「あの…待って…」",
+    "romaji": "'Ano... matte...'"
+  },
+  "sl8.p2_nat_mei": {
+    "en": "Sure, I'll wait. Let's go together.",
+    "ru": "Хорошо, подожду. Пойдёмте вместе.",
+    "zh": "好的，我等你。我们一起去吧。",
+    "ja": "はい、待ちます。いっしょに、行きましょう。",
+    "romaji": "Hai, machimasu. Issho ni, ikimashou."
+  },
+  "sl8.p2_form_ken": {
+    "en": "Haha, you sound like shop staff. With a friend, even “chotto matte” is fine.",
+    "ru": "Ха-ха, как сотрудник магазина. Другу можно сказать и просто «чотто мацутэ».",
+    "zh": "哈哈，像店员一样。对朋友说「ちょっと待って」也可以。",
+    "ja": "あはは、お店の人みたいです。友達には、「ちょっと待って」でも、いいですよ。",
+    "romaji": "Ahaha, omise no hito mitai desu. Tomodachi ni wa, 'chotto matte' demo, ii desu yo."
+  },
+  "sl8.p2_mis_tanaka": {
+    "en": "Close. “Matsu” is the dictionary form. Before “kudasai,” you use the “te” form, “matte.”",
+    "ru": "Почти. «Мацу» — это словарная форма. Перед «кудасай» используют форму «тэ» — «маттэ».",
+    "zh": "很接近。「待つ」是原形。在「ください」前面，要用「て」形的「待って」。",
+    "ja": "惜しいです。「待つ」は、そのままの形です。「ください」の前は、「て」の形の、「待って」にします。",
+    "romaji": "Oshii desu. 'Matsu' wa, sono mama no katachi desu. 'Kudasai' no mae wa, 'te' no katachi no, 'matte' ni shimasu."
+  },
+  "sl8.p2_mis_retry": {
+    "en": "Oh, excuse me, please wait a moment.",
+    "ru": "Ой, извините, подождите минутку.",
+    "zh": "啊，不好意思，请稍等一下。",
+    "ja": "あっ、すみません、ちょっと、待ってください。",
+    "romaji": "A, sumimasen, chotto, matte kudasai."
+  },
+  "sl8.p2_mis_relief": {
+    "en": "Yes, that's it. “Matte” and “kudasai” are now connected.",
+    "ru": "Да, именно так. «Маттэ» и «кудасай» соединились.",
+    "zh": "对，就是这个。「待って」和「ください」连起来了。",
+    "ja": "はい、それです。「待って」と「ください」が、つながりました。",
+    "romaji": "Hai, sore desu. 'Matte' to 'kudasai' ga, tsunagarimashita."
+  },
+  "sl8.p2_own_mei": {
+    "en": "Thank you. Then let's go together, the two of us.",
+    "ru": "Спасибо. Тогда пойдёмте вдвоём.",
+    "zh": "谢谢。那我们两个人一起去吧。",
+    "ja": "ありがとうございます。じゃあ、二人で、行きましょう。",
+    "romaji": "Arigatou gozaimasu. Jaa, futari de, ikimashou."
+  },
+  "sl8.p2_min_yuki": {
+    "en": "The meaning gets across. Try saying it politely: “matte kudasai.”",
+    "ru": "Смысл понятен. Скажите вежливо: «маттэ кудасай».",
+    "zh": "意思能传达。试着礼貌地说：「待ってください」。",
+    "ja": "意味は、伝わりますよ。「待ってください」と、ていねいに、言ってみましょう。",
+    "romaji": "Imi wa, tsutawarimasu yo. 'Matte kudasai' to, teinei ni, itte mimashou."
+  },
+  "sl8.door": {
+    "en": "While Mei is at her locker, a short quiz begins in the classroom. Ken is about to open the classroom door.",
+    "ru": "Пока Мэй ходит к шкафчику, в классе начинается короткий тест. Кен собирается открыть дверь класса.",
+    "zh": "小梅去储物柜的时候，教室里开始了小测验。健正要打开教室的门。",
+    "ja": "メイが、ロッカーに行っている間に、教室で、小テストがはじまった。ケンが、教室のドアを、開けようとしている。",
+    "romaji": "Mei ga, rokkaa ni itte iru aida ni, kyoushitsu de, shou tesuto ga hajimatta. Ken ga, kyoushitsu no doa o, akeyou to shite iru."
+  },
+  "sl8.s3_intro": {
+    "en": "When you ask someone not to do something, use “~ naide kudasai.” Take the verb's “nai” form and add “de” and “kudasai.”",
+    "ru": "Когда просят не делать что-то, используют «~ найдэ кудасай». К форме глагола на «най» добавляют «дэ» и «кудасай».",
+    "zh": "请别人不要做某事时，用「〜ないでください」。在动词的「ない」形后面加上「で」和「ください」。",
+    "ja": "「しないで」と、たのむときは、「〜ないでください」です。動詞の「ない」の形に、「で」と「ください」をつけます。",
+    "romaji": "'Shinaide' to, tanomu toki wa, '~ naide kudasai' desu. Doushi no 'nai' no katachi ni, 'de' to 'kudasai' o tsukemasu."
+  },
+  "sl8.s3_rule": {
+    "en": "The “nai” forms are: tabemasu becomes tabenai, kimasu becomes konai, shimasu becomes shinai, akemasu becomes akenai, and hairimasu becomes hairanai.",
+    "ru": "Формы на «най»: «табэмас» — «табэнай», «кимас» — «конай», «симас» — «синай», «акэмас» — «акэнай», «хаиримас» — «хаирай».",
+    "zh": "「ない」形是：食べます变成食べない，来ます变成来ない，します变成しない，開けます变成開けない，入ります变成入らない。",
+    "ja": "「ない」の形は、「食べます」は「食べない」、「来ます」は「来ない」、「します」は「しない」です。「開けます」は「開けない」、「入ります」は「入らない」です。",
+    "romaji": "'Nai' no katachi wa, 'tabemasu' wa 'tabenai', 'kimasu' wa 'konai', 'shimasu' wa 'shinai' desu. 'Akemasu' wa 'akenai', 'hairimasu' wa 'hairanai' desu."
+  },
+  "sl8.s3_ex": {
+    "en": "Please don't enter here. Please don't open the door.",
+    "ru": "Пожалуйста, не входите сюда. Пожалуйста, не открывайте дверь.",
+    "zh": "请不要进到这里来。请不要打开门。",
+    "ja": "ここに、入らないでください。ドアを、開けないでください。",
+    "romaji": "Koko ni, hairanaide kudasai. Doa o, akenaide kudasai."
+  },
+  "sl8.s3_q": {
+    "en": "Are “~ masen” and “~ naide kudasai” different?",
+    "ru": "«~ масэн» и «~ найдэ кудасай» отличаются?",
+    "zh": "「〜ません」和「〜ないでください」有区别吗？",
+    "ja": "「〜ません」と「〜ないでください」は、ちがいますか？",
+    "romaji": "'~ masen' to '~ naide kudasai' wa, chigaimasu ka?"
+  },
+  "sl8.s3_a": {
+    "en": "Yes. “Masen” is about yourself or a fact. “Naide kudasai” is what you say to ask the other person not to do something.",
+    "ru": "Да. «Масэн» — о себе или о факте. «Найдэ кудасай» — когда просят другого человека не делать что-то.",
+    "zh": "有区别。「ません」是说自己或事实。「ないでください」是拜托对方不要做某事时用的话。",
+    "ja": "はい。「ません」は、自分や、事実の話です。「ないでください」は、相手に、しないでほしいとたのむ言葉です。",
+    "romaji": "Hai. 'Masen' wa, jibun ya, jijitsu no hanashi desu. 'Naide kudasai' wa, aite ni, shinaide hoshii to tanomu kotoba desu."
+  },
+  "sl8.p3_prompt": {
+    "en": "A quiz is happening in the classroom now. Ken is about to open the door. You want him not to. What do you say?",
+    "ru": "Сейчас в классе идёт тест. Кен собирается открыть дверь. Вы хотите, чтобы он этого не делал. Что вы скажете?",
+    "zh": "现在教室里正在进行小测验。健正要打开门。你想让他别开。你会怎么说？",
+    "ja": "いま、教室で、小テストをしています。ケンさんが、ドアを開けようとしています。ケンさんに、開けないでほしいです。何と言いますか？",
+    "romaji": "Ima, kyoushitsu de, shou tesuto o shite imasu. Ken-san ga, doa o akeyou to shite imasu. Ken-san ni, akenaide hoshii desu. Nan to iimasu ka?"
+  },
+  "sl8.c3_natural": {
+    "en": "“Excuse me, please don't open the door. There's a quiz.”",
+    "ru": "«Извините, не открывайте, пожалуйста, дверь. Идёт тест».",
+    "zh": "“不好意思，请不要开门。正在测验。”",
+    "ja": "「すみません、ドアを、開けないでください。テストです。」",
+    "romaji": "'Sumimasen, doa o, akenaide kudasai. Tesuto desu.'"
+  },
+  "sl8.c3_formal": {
+    "en": "“Pardon me, but might I ask you to refrain from opening or closing the door?”",
+    "ru": "«Прошу прощения, не могли бы вы воздержаться от открывания и закрывания двери?»",
+    "zh": "“打扰了，能否请您不要开关门呢？”",
+    "ja": "「恐れ入りますが、扉の開閉は、ご遠慮いただけますでしょうか。」",
+    "romaji": "'Osoreirimasu ga, tobira no kaihei wa, goenryo itadakemasu deshou ka.'"
+  },
+  "sl8.c3_mistake": {
+    "en": "“Excuse me, please not-open the door.”",
+    "ru": "«Извините, не-открыть, пожалуйста, дверь».",
+    "zh": "“不好意思，请不开门。”（漏掉了で）",
+    "ja": "「すみません、ドアを、開けないください。」",
+    "romaji": "'Sumimasen, doa o, akenai kudasai.'"
+  },
+  "sl8.c3_own": {
+    "en": "“Excuse me, please don't open the door. Everyone is writing right now.”",
+    "ru": "«Извините, не открывайте, пожалуйста, дверь. Сейчас все пишут».",
+    "zh": "“不好意思，请不要开门。现在大家都在写。”",
+    "ja": "「すみません、ドアを、開けないでください。今、みんな、書いています。」",
+    "romaji": "'Sumimasen, doa o, akenaide kudasai. Ima, minna, kaite imasu.'"
+  },
+  "sl8.c3_min": {
+    "en": "“Door... don't open...”",
+    "ru": "«Дверь… не открыть…»",
+    "zh": "“门……不开……”",
+    "ja": "「ドア…開けない…」",
+    "romaji": "'Doa... akenai...'"
+  },
+  "sl8.p3_nat_ken": {
+    "en": "Oh, I see. Sorry. I'll come back later.",
+    "ru": "Ах, понятно. Простите. Я вернусь позже.",
+    "zh": "啊，是这样啊。对不起。我等会儿再来。",
+    "ja": "あっ、そうですか。すみません。あとで、来ます。",
+    "romaji": "A, sou desu ka. Sumimasen. Ato de, kimasu."
+  },
+  "sl8.p3_form_yuki": {
+    "en": "Ha, that's so difficult that even Ken wouldn't understand. “Akenaide kudasai” is fine.",
+    "ru": "Ха-ха, это так сложно, что даже Кен не поймёт. Достаточно «акэнайдэ кудасай».",
+    "zh": "呵呵，太难了，连健也听不懂。说「開けないでください」就行。",
+    "ja": "ふふ、むずかしくて、ケンさんも、分かりません。「開けないでください」で、大丈夫ですよ。",
+    "romaji": "Fufu, muzukashikute, Ken-san mo, wakarimasen. 'Akenaide kudasai' de, daijoubu desu yo."
+  },
+  "sl8.p3_mis_tanaka": {
+    "en": "Close. You need “de” after “akenai.” You say “akenaide kudasai.”",
+    "ru": "Почти. После «акэнай» нужно «дэ». Говорят «акэнайдэ кудасай».",
+    "zh": "很接近。「開けない」后面需要「で」。说「開けないでください」。",
+    "ja": "惜しいです。「開けない」の後ろに、「で」が必要です。「開けないでください」と言います。",
+    "romaji": "Oshii desu. 'Akenai' no ushiro ni, 'de' ga hitsuyou desu. 'Akenaide kudasai' to iimasu."
+  },
+  "sl8.p3_mis_retry": {
+    "en": "Oh, please don't open the door.",
+    "ru": "Ой, не открывайте, пожалуйста, дверь.",
+    "zh": "啊，请不要开门。",
+    "ja": "あっ、ドアを、開けないでください。",
+    "romaji": "A, doa o, akenaide kudasai."
+  },
+  "sl8.p3_mis_relief": {
+    "en": "Yes, that's it. With “de” added, it's perfect.",
+    "ru": "Да, именно так. С «дэ» всё идеально.",
+    "zh": "对，就是这个。加上「で」就正合适了。",
+    "ja": "はい、それです。「で」が入って、ぴったりです。",
+    "romaji": "Hai, sore desu. 'De' ga haitte, pittari desu."
+  },
+  "sl8.p3_own_ken": {
+    "en": "Thank you. I'll wait without opening the door.",
+    "ru": "Спасибо. Я подожду, не открывая дверь.",
+    "zh": "谢谢。我不开门，在外面等。",
+    "ja": "ありがとうございます。ドアを、開けないで、待ちます。",
+    "romaji": "Arigatou gozaimasu. Doa o, akenaide, machimasu."
+  },
+  "sl8.p3_min_mei": {
+    "en": "Your feeling comes across. Try saying it politely: “doa o, akenaide kudasai.”",
+    "ru": "Ваше желание понятно. Скажите вежливо: «доа о, акэнайдэ кудасай».",
+    "zh": "你的心意能传达。试着礼貌地说：「ドアを、開けないでください」。",
+    "ja": "気持ちは、伝わりますよ。「ドアを、開けないでください」と、ていねいに言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu yo. 'Doa o, akenaide kudasai' to, teinei ni itte mimashou."
+  },
+  "sl8.s4_intro": {
+    "en": "The last is words that soften a request. We use “sumimasen,” “onegaishimasu,” and “chotto.”",
+    "ru": "Последнее — слова, смягчающие просьбу. Мы используем «сумимасэн», «онэгайсимас» и «чотто».",
+    "zh": "最后是让请求变得柔和的词。我们用「すみません」「お願いします」「ちょっと」。",
+    "ja": "最後は、お願いを、やわらかくする言葉です。「すみません」「お願いします」「ちょっと」を、使います。",
+    "romaji": "Saigo wa, onegai o, yawarakaku suru kotoba desu. 'Sumimasen' 'onegaishimasu' 'chotto' o, tsukaimasu."
+  },
+  "sl8.s4_ex": {
+    "en": "“Sumimasen, chotto, oshiete kudasai.” “Kore o, onegaishimasu.” Just adding a few words makes the feeling gentler.",
+    "ru": "«Сумимасэн, чотто, осиэтэ кудасай». «Коре о, онэгайсимас». Всего несколько добавленных слов делают тон мягче.",
+    "zh": "「すみません、ちょっと、教えてください」。「これを、お願いします」。只要多加几个词，语气就变得温和了。",
+    "ja": "「すみません、ちょっと、教えてください」。「これを、お願いします」。少し言葉を足すだけで、気持ちが、やさしくなります。",
+    "romaji": "'Sumimasen, chotto, oshiete kudasai'. 'Kore o, onegaishimasu'. Sukoshi kotoba o tasu dake de, kimochi ga, yasashiku narimasu."
+  },
+  "sl8.s4_q1": {
+    "en": "When someone asks you for something, is it okay to say “iya desu”?",
+    "ru": "Когда вас о чём-то просят, можно ли сказать «ия дэс»?",
+    "zh": "被别人拜托时，可以说「いやです」吗？",
+    "ja": "人に、たのまれたら、「いやです」と言ってもいいですか？",
+    "romaji": "Hito ni, tanomaretara, 'iya desu' to itte mo ii desu ka?"
+  },
+  "sl8.s4_a1": {
+    "en": "“Iya desu” is a very strong phrase. When you decline, letting your words trail off with “sumimasen, chotto...” is more typical of Japanese.",
+    "ru": "«Ия дэс» — очень резкая фраза. Когда отказываются, для японского характерно смягчить слова: «сумимасэн, чотто…».",
+    "zh": "「いやです」是很强烈的说法。拒绝时，说成「すみません、ちょっと……」，把话说得含糊一些，更像日语的风格。",
+    "ja": "「いやです」は、とても強い言葉です。ことわるときは、「すみません、ちょっと…」と、言葉をにごすのが、日本語らしいです。",
+    "romaji": "'Iya desu' wa, totemo tsuyoi kotoba desu. Kotowaru toki wa, 'sumimasen, chotto...' to, kotoba o nigosu no ga, nihongo rashii desu."
+  },
+  "sl8.s4_q2": {
+    "en": "What does “chotto...” mean?",
+    "ru": "Что означает «чотто…»?",
+    "zh": "「ちょっと……」是什么意思？",
+    "ja": "「ちょっと…」は、どういう意味ですか？",
+    "romaji": "'Chotto...' wa, dou iu imi desu ka?"
+  },
+  "sl8.s4_a2": {
+    "en": "“Chotto” usually means “a little.” But if you stop with “chotto...,” it becomes a gentle “no,” meaning “that's difficult.”",
+    "ru": "«Чотто» обычно означает «немного». Но если оборвать фразу на «чотто…», получится мягкое «нет», означающее «это сложно».",
+    "zh": "「ちょっと」通常是“一点”的意思。但如果说到「ちょっと……」就停住，就变成了委婉的“不”，意思是“有点困难”。",
+    "ja": "「ちょっと」は、ふつうは「少し」の意味です。でも、「ちょっと…」と、言葉を止めると、「むずかしいです」という、やんわりした「いいえ」になります。",
+    "romaji": "'Chotto' wa, futsuu wa 'sukoshi' no imi desu. Demo, 'chotto...' to, kotoba o tomeru to, 'muzukashii desu' to iu, yanwari shita 'iie' ni narimasu."
+  },
+  "sl8.station": {
+    "en": "Everyone comes to the station. Tomorrow's outing involves riding a train. In front of the ticket machines, you don't know how to buy a ticket.",
+    "ru": "Все пришли на вокзал. Завтра во время экскурсии нужно ехать на поезде. Перед кассовыми автоматами вы не знаете, как купить билет.",
+    "zh": "大家来到了车站。明天的郊游要坐电车。在售票机前，你不知道怎么买票。",
+    "ja": "みんなは、駅に来た。あしたの遠足で、電車に乗る。切符売り場の前で、あなたは、切符の買い方が、分かりません。",
+    "romaji": "Minna wa, eki ni kita. Ashita no ensoku de, densha ni noru. Kippu uriba no mae de, anata wa, kippu no kaikata ga, wakarimasen."
+  },
+  "sl8.p4_prompt": {
+    "en": "A station attendant is nearby. You want them to teach you how to buy a ticket. What do you say?",
+    "ru": "Рядом находится сотрудник вокзала. Вы хотите, чтобы он объяснил, как купить билет. Что вы скажете?",
+    "zh": "车站工作人员就在旁边。你想请他教你怎么买票。你会怎么说？",
+    "ja": "駅の人が、近くにいます。切符の買い方を、教えてほしいです。何と言いますか？",
+    "romaji": "Eki no hito ga, chikaku ni imasu. Kippu no kaikata o, oshiete hoshii desu. Nan to iimasu ka?"
+  },
+  "sl8.c4_natural": {
+    "en": "“Excuse me, please tell me how to buy a ticket.”",
+    "ru": "«Извините, объясните, пожалуйста, как купить билет».",
+    "zh": "“不好意思，请告诉我怎么买票。”",
+    "ja": "「すみません、切符の買い方を、教えてください。」",
+    "romaji": "'Sumimasen, kippu no kaikata o, oshiete kudasai.'"
+  },
+  "sl8.c4_formal": {
+    "en": "“Pardon me, but might you kindly instruct me on the method of purchasing a passenger ticket?”",
+    "ru": "«Прошу прощения, не соблаговолите ли вы разъяснить способ приобретения проездного билета?»",
+    "zh": "“打扰了，能否请您指教乘车券的购买方法？”",
+    "ja": "「恐れ入りますが、乗車券の購入方法を、ご教示いただけますでしょうか。」",
+    "romaji": "'Osoreirimasu ga, joushaken no kounyuu houhou o, gokyouji itadakemasu deshou ka.'"
+  },
+  "sl8.c4_mistake": {
+    "en": "“Ticket, tell me!”",
+    "ru": "«Билет, скажи!»",
+    "zh": "“车票，告诉我！”",
+    "ja": "「切符、教えて！」",
+    "romaji": "'Kippu, oshiete!'"
+  },
+  "sl8.c4_own": {
+    "en": "“Excuse me, please tell me how to buy a ticket. Thank you in advance.”",
+    "ru": "«Извините, объясните, пожалуйста, как купить билет. Заранее благодарю».",
+    "zh": "“不好意思，请告诉我怎么买票。拜托了。”",
+    "ja": "「すみません、切符の買い方を、教えてください。お願いします。」",
+    "romaji": "'Sumimasen, kippu no kaikata o, oshiete kudasai. Onegaishimasu.'"
+  },
+  "sl8.c4_min": {
+    "en": "“Um... ticket... tell me...”",
+    "ru": "«Э-э… билет… расскажите…»",
+    "zh": "“呃……车票……告诉我……”",
+    "ja": "「あの…切符…教えて…」",
+    "romaji": "'Ano... kippu... oshiete...'"
+  },
+  "sl8.p4_nat_yuki": {
+    "en": "The station attendant kindly explains: “First, please press your destination.”",
+    "ru": "Сотрудник вокзала любезно объяснил: «Сначала нажмите на пункт назначения».",
+    "zh": "车站工作人员亲切地教了我们：“首先，请按目的地。”",
+    "ja": "駅の人が、やさしく教えてくれました。「まず、行き先を、押してください」だそうです。",
+    "romaji": "Eki no hito ga, yasashiku oshiete kuremashita. 'Mazu, ikisaki o, oshite kudasai' da sou desu."
+  },
+  "sl8.p4_form_ken": {
+    "en": "Haha, the station attendant will be startled. “Kippu no kaikata o, oshiete kudasai” is fine.",
+    "ru": "Ха-ха, сотрудник вокзала удивится. Достаточно «киппу но кайката о, осиэтэ кудасай».",
+    "zh": "哈哈，车站工作人员会吓一跳的。说「切符の買い方を、教えてください」就行。",
+    "ja": "あはは、駅の人が、びっくりしますよ。「切符の買い方を、教えてください」で、大丈夫です。",
+    "romaji": "Ahaha, eki no hito ga, bikkuri shimasu yo. 'Kippu no kaikata o, oshiete kudasai' de, daijoubu desu."
+  },
+  "sl8.p4_mis_mei": {
+    "en": "Huh, to a stranger, just “oshiete” sounds harsh. Let's say “sumimasen” first and use “oshiete kudasai.”",
+    "ru": "Ой, для незнакомого человека одно «осиэтэ» звучит резко. Давайте сначала скажем «сумимасэн» и используем «осиэтэ кудасай».",
+    "zh": "咦，对陌生人只说「教えて」，听起来很生硬。先说「すみません」，再用「教えてください」吧。",
+    "ja": "あれ、知らない人に、「教えて」だけは、きつく聞こえますよ。「すみません」を言って、「教えてください」にしましょう。",
+    "romaji": "Are, shiranai hito ni, 'oshiete' dake wa, kitsuku kikoemasu yo. 'Sumimasen' o itte, 'oshiete kudasai' ni shimashou."
+  },
+  "sl8.p4_mis_retry": {
+    "en": "Oh, excuse me, please tell me how to buy a ticket.",
+    "ru": "Ой, извините, объясните, пожалуйста, как купить билет.",
+    "zh": "啊，不好意思，请告诉我怎么买票。",
+    "ja": "あっ、すみません、切符の買い方を、教えてください。",
+    "romaji": "A, sumimasen, kippu no kaikata o, oshiete kudasai."
+  },
+  "sl8.p4_mis_relief": {
+    "en": "Yes, that's it! With this, they'll be glad to explain kindly.",
+    "ru": "Да, именно так! Так вам с удовольствием объяснят.",
+    "zh": "对，就是这个！这样的话，对方会很亲切地教你的。",
+    "ja": "はい、それです！これなら、やさしく教えてもらえますよ。",
+    "romaji": "Hai, sore desu! Kore nara, yasashiku oshiete moraemasu yo."
+  },
+  "sl8.p4_own_yuki": {
+    "en": "Adding “onegaishimasu” makes it even gentler. The attendant looks pleased too.",
+    "ru": "С добавлением «онэгайсимас» звучит ещё мягче. Сотрудник вокзала тоже выглядит довольным.",
+    "zh": "加上「お願いします」，语气就更温和了。车站工作人员看起来也很高兴。",
+    "ja": "「お願いします」を足すと、もっと、やさしいですね。駅の人も、うれしそうです。",
+    "romaji": "'Onegaishimasu' o tasu to, motto, yasashii desu ne. Eki no hito mo, ureshisou desu."
+  },
+  "sl8.p4_min_tanaka": {
+    "en": "It gets across. Next time, try saying the whole sentence: “sumimasen, kippu no kaikata o, oshiete kudasai.”",
+    "ru": "Поймут. В следующий раз скажите всё целиком: «сумимасэн, киппу но кайката о, осиэтэ кудасай».",
+    "zh": "能听懂。下次试着把整句话说完整：「すみません、切符の買い方を、教えてください」。",
+    "ja": "伝わりますよ。次は、「すみません、切符の買い方を、教えてください」と、全部言ってみましょう。",
+    "romaji": "Tsutawarimasu yo. Tsugi wa, 'sumimasen, kippu no kaikata o, oshiete kudasai' to, zenbu itte mimashou."
+  },
+  "sl8.talk_open": {
+    "en": "Now let's talk. Out of today's four forms, which one do you most want to use?",
+    "ru": "Теперь поговорим. Какую из сегодняшних четырёх форм вы больше всего хотите использовать?",
+    "zh": "现在来聊聊。今天这四个句型里，你最想用哪一个？",
+    "ja": "では、話しましょう。今日の四つの形の中で、いちばん使いたい形は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no yottsu no katachi no naka de, ichiban tsukaitai katachi wa, dore desu ka?"
+  },
+  "sl8.talk_mei": {
+    "en": "For me, it's “~ te kudasai.” Being able to ask people for things makes life in Japan easier.",
+    "ru": "Для меня это «~ тэ кудасай». Когда можешь просить людей, жить в Японии становится легче.",
+    "zh": "我觉得是「〜てください」。能向别人提出请求，在日本的生活就会轻松很多。",
+    "ja": "わたしは、「〜てください」です。人に、お願いできると、日本での生活が、楽になります。",
+    "romaji": "Watashi wa, '~ te kudasai' desu. Hito ni, onegai dekiru to, Nihon de no seikatsu ga, raku ni narimasu."
+  },
+  "sl8.talk_ken": {
+    "en": "For me, it's the “te” form. It's difficult, so I'll practice a little every day.",
+    "ru": "Для меня это форма «тэ». Она сложная, поэтому я буду понемногу практиковаться каждый день.",
+    "zh": "我觉得是「て」形。因为很难，所以我每天一点一点地练习。",
+    "ja": "ぼくは、「て」の形です。むずかしいので、毎日、少しずつ、練習します。",
+    "romaji": "Boku wa, 'te' no katachi desu. Muzukashii node, mainichi, sukoshi zutsu, renshuu shimasu."
+  },
+  "sl8.talk_yuki": {
+    "en": "For me, it's “chotto...” I like a phrase that lets you say “no” gently.",
+    "ru": "Для меня это «чотто…». Мне нравится фраза, которая позволяет мягко сказать «нет».",
+    "zh": "我觉得是「ちょっと……」。我喜欢这个能温柔地说“不”的词。",
+    "ja": "わたしは、「ちょっと…」です。「いいえ」を、やさしく言える言葉が、好きです。",
+    "romaji": "Watashi wa, 'chotto...' desu. 'Iie' o, yasashiku ieru kotoba ga, suki desu."
+  },
+  "sl8.talk_tanaka": {
+    "en": "Lovely. Words of request are words that connect people. Let's use them politely.",
+    "ru": "Прекрасно. Слова просьбы — это слова, которые связывают людей. Давайте использовать их вежливо.",
+    "zh": "真好。请求的用语，是连接人与人的话。让我们礼貌地使用它们吧。",
+    "ja": "すてきですね。お願いの言葉は、人と人を、つなぐ言葉です。ていねいに、使いましょう。",
+    "romaji": "Suteki desu ne. Onegai no kotoba wa, hito to hito o, tsunagu kotoba desu. Teinei ni, tsukaimashou."
+  },
+  "sl8.talk_player": {
+    "en": "(Kudasai, matte kudasai, akenaide kudasai, oshiete kudasai. When I learn words for requests, every day in Japan becomes a little gentler. At tomorrow's outing, too, I'll try asking politely.)",
+    "ru": "(Кудасай, маттэ кудасай, акэнайдэ кудасай, осиэтэ кудасай. Когда выучишь слова для просьб, каждый день в Японии становится немного мягче. И на завтрашней экскурсии я попробую спрашивать вежливо.)",
+    "zh": "（ください、待ってください、開けないでください、教えてください。学会请求的说法，在日本的每一天就会变得更温和一些。明天的郊游，我也要礼貌地开口询问。）",
+    "ja": "（ください、待ってください、開けないでください、教えてください。お願いの言葉を覚えると、日本での毎日が、少しやさしくなる。あしたの遠足でも、ていねいに、聞いてみよう。）",
+    "romaji": "(Kudasai, matte kudasai, akenaide kudasai, oshiete kudasai. Onegai no kotoba o oboeru to, Nihon de no mainichi ga, sukoshi yasashiku naru. Ashita no ensoku demo, teinei ni, kiite miyou.)"
+  },
+  "sl8.talk_close": {
+    "en": "Good lesson, everyone. In the next class, let's talk about our feelings with “~ tai desu” and “~ ga suki desu.”",
+    "ru": "Хороший урок, все. На следующем уроке расскажем о своих чувствах с помощью «~ тай дэс» и «~ га суки дэс».",
+    "zh": "各位，这节课很棒。下节课我们用「〜たいです」「〜が好きです」来谈谈自己的心情。",
+    "ja": "みなさん、いいレッスンでした。次の授業では、「〜たいです」「〜が好きです」で、自分の気持ちを話しましょう。",
+    "romaji": "Minasan, ii ressun deshita. Tsugi no jugyou de wa, '~ tai desu' '~ ga suki desu' de, jibun no kimochi o hanashimashou."
+  },
+  "sl8.complete": {
+    "en": "End of Sentence Lesson 8.",
+    "ru": "Конец урока предложений 8.",
+    "zh": "句型课 8 结束。",
+    "ja": "文型レッスン8、おわり。",
+    "romaji": "Bunkei ressun hachi, owari."
+  }
+}

@@ -1,0 +1,646 @@
+{
+  "sl5.title": {
+    "en": "Numbers, Time, and Prices",
+    "ru": "Числа, время и цены",
+    "zh": "数字、时间、价格",
+    "ja": "数字・時間・値段",
+    "romaji": "Suuji, jikan, nedan"
+  },
+  "sl5.subtitle": {
+    "en": "Counting, asking, and ordering at a festival stall",
+    "ru": "Считаем, спрашиваем и заказываем у лотка на празднике",
+    "zh": "在庙会摊位前数数、询问、点单",
+    "ja": "お祭りの屋台で、数える・聞く・注文する",
+    "romaji": "Omatsuri no yatai de, kazoeru, kiku, chuumon suru"
+  },
+  "sl5.description": {
+    "en": "At the festival takoyaki stall, practice numbers, time, asking prices, and the “~ o kudasai” ordering pattern.",
+    "ru": "У лотка с такояки на празднике потренируйте числа, время, вопросы о цене и форму заказа «~ о кудасай».",
+    "zh": "在庙会的章鱼烧摊前，练习数字、时间、询问价格，以及「〜をください」的点单句型。",
+    "ja": "お祭りのたこ焼きの店で、数字、時間、値段の聞き方、「〜をください」の注文の形を使う練習をします。",
+    "romaji": "Omatsuri no takoyaki no mise de, suuji, jikan, nedan no kikikata, '~ o kudasai' no chuumon no katachi o tsukau renshuu o shimasu."
+  },
+  "sl5.pattern.1": {
+    "en": "numbers (1, 2, 3 ... 100)",
+    "ru": "числа (1, 2, 3 ... 100)",
+    "zh": "数字（一、二、三……一百）",
+    "ja": "数字（一・二・三…百）",
+    "romaji": "suuji (ichi, ni, san ... hyaku)"
+  },
+  "sl5.pattern.2": {
+    "en": "~ o'clock, ~ minutes, what time is it?",
+    "ru": "~ часов ~ минут, который час?",
+    "zh": "〜点〜分、几点了？",
+    "ja": "〜時〜分・何時ですか",
+    "romaji": "~ ji ~ fun, nanji desu ka"
+  },
+  "sl5.pattern.3": {
+    "en": "It costs ~ yen. How much is it?",
+    "ru": "Стоит ~ иен. Сколько стоит?",
+    "zh": "〜日元；多少钱？",
+    "ja": "〜円です・いくらですか",
+    "romaji": "~ en desu, ikura desu ka"
+  },
+  "sl5.pattern.4": {
+    "en": "Please give me X of Y (ordering)",
+    "ru": "Дайте мне X штук Y (заказ)",
+    "zh": "请给我X个Y（点单）",
+    "ja": "〜を〜つください",
+    "romaji": "~ o ~ tsu kudasai"
+  },
+  "sl5.setup": {
+    "en": "Festival day. Many stalls line the school garden. Ken's “takoyaki” stall has a small sign, with numbers written on it.",
+    "ru": "День праздника. В школьном саду выстроились ряды лотков. У лотка Кена с такояки — небольшая вывеска с написанными числами.",
+    "zh": "庙会当天。学校的院子里摆满了摊位。健的「章鱼烧」摊位上有一块小招牌，上面写着数字。",
+    "ja": "お祭りの日。学校の庭に、たくさんの屋台が並んでいる。ケンの「たこ焼き」の屋台には、小さな看板がある。そこに、数字が書いてある。",
+    "romaji": "Omatsuri no hi. Gakkou no niwa ni, takusan no yatai ga narande iru. Ken no 'takoyaki' no yatai ni wa, chiisana kanban ga aru. Soko ni, suuji ga kaite aru."
+  },
+  "sl5.t_intro": {
+    "en": "Today's theme is numbers, time, and prices. At the festival stall, let's try three things: counting, asking, and ordering.",
+    "ru": "Тема сегодня — числа, время и цены. У лотка на празднике давайте сделаем три вещи: посчитаем, спросим и закажем.",
+    "zh": "今天的主题是数字、时间和价格。在庙会的摊位前，我们来试试数数、询问和点单这三件事。",
+    "ja": "今日のテーマは、数字と時間と、値段です。お祭りの屋台で、数える、聞く、注文する、の三つをやってみましょう。",
+    "romaji": "Kyou no teema wa, suuji to jikan to, nedan desu. Omatsuri no yatai de, kazoeru, kiku, chuumon suru, no mittsu o yatte mimashou."
+  },
+  "sl5.s1_count": {
+    "en": "Let's say the numbers together. One, two, three, four, five, six, seven, eight, nine, ten.",
+    "ru": "Давайте вместе назовём числа. Один, два, три, четыре, пять, шесть, семь, восемь, девять, десять.",
+    "zh": "我们一起来说数字。一、二、三、四、五、六、七、八、九、十。",
+    "ja": "数字を、いっしょに言いましょう。一、二、三、四、五、六、七、八、九、十。",
+    "romaji": "Suuji o, issho ni iimashou. Ichi, ni, san, yon, go, roku, nana, hachi, kyuu, juu."
+  },
+  "sl5.s1_q1": {
+    "en": "Do “four” and “seven” have two readings?",
+    "ru": "У «четырёх» и «семи» по два чтения?",
+    "zh": "「四」和「七」有两种读法吗？",
+    "ja": "「四」と「七」は、読み方が、二つありますか？",
+    "romaji": "'Yon' to 'nana' wa, yomikata ga, futatsu arimasu ka?"
+  },
+  "sl5.s1_a1": {
+    "en": "Yes. Four is “yon” and “shi,” and seven is “nana” and “shichi.” When counting, “yon” and “nana” are easier to hear, so they are used often.",
+    "ru": "Да. Четыре — «ён» и «си», семь — «нана» и «сити». При счёте чаще используют «ён» и «нана», потому что их легче расслышать.",
+    "zh": "有。「四」读作「よん」和「し」，「七」读作「なな」和「しち」。数数的时候，「よん」「なな」更容易听清，所以常用。",
+    "ja": "はい。「四」は「よん」と「し」、「七」は「なな」と「しち」です。数えるときは、「よん」「なな」が、聞きやすいので、よく使います。",
+    "romaji": "Hai. 'Yon' wa 'yon' to 'shi', 'nana' wa 'nana' to 'shichi' desu. Kazoeru toki wa, 'yon' 'nana' ga, kikiyasui node, yoku tsukaimasu."
+  },
+  "sl5.s1_hyaku": {
+    "en": "One hundred is “hyaku.” Two hundred is “nihyaku.” Three hundred is “sanbyaku.”",
+    "ru": "Сто — «хяку». Двести — «нихяку». Триста — «санбяку».",
+    "zh": "一百是「ひゃく」。二百是「にひゃく」。三百是「さんびゃく」哦。",
+    "ja": "百は、「ひゃく」です。二百は、「にひゃく」。三百は、「さんびゃく」ですよ。",
+    "romaji": "Hyaku wa, 'hyaku' desu. Nihyaku wa, 'nihyaku'. Sanbyaku wa, 'sanbyaku' desu yo."
+  },
+  "sl5.s1_q2": {
+    "en": "Why isn't it “sanhyaku”?",
+    "ru": "Почему не «санхяку»?",
+    "zh": "为什么不是「さんひゃく」呢？",
+    "ja": "どうして、「さんひゃく」ではありませんか？",
+    "romaji": "Doushite, 'sanhyaku' de wa arimasen ka?"
+  },
+  "sl5.s1_a2": {
+    "en": "The sounds change for 300, 600, and 800: “sanbyaku,” “roppyaku,” and “happyaku.” They are tricky, so let's practice saying them out loud.",
+    "ru": "В числах 300, 600 и 800 звуки меняются: «санбяку», «роппяку» и «хаппяку». Это непросто, так что давайте потренируемся вслух.",
+    "zh": "「三百」「六百」「八百」的读音会发生变化，读作「さんびゃく」「ろっぴゃく」「はっぴゃく」。有点难，所以要多出声练习。",
+    "ja": "「三百」「六百」「八百」は、音が変わります。「さんびゃく」「ろっぴゃく」「はっぴゃく」です。むずかしいので、よく声に出して練習しましょう。",
+    "romaji": "'Sanbyaku' 'roppyaku' 'happyaku' wa, oto ga kawarimasu. 'Sanbyaku' 'roppyaku' 'happyaku' desu. Muzukashii node, yoku koe ni dashite renshuu shimashou."
+  },
+  "sl5.p1_prompt": {
+    "en": "Ken's sign says “300 yen.” Please read just the number out loud. What do you say?",
+    "ru": "На вывеске Кена написано «300 иен». Прочитайте вслух только число. Что вы скажете?",
+    "zh": "健的招牌上写着「三百円」。请只把数字念出来。你会怎么说？",
+    "ja": "ケンさんの看板に、「三百円」と書いてあります。数字だけ、声に出して読んでください。何と言いますか？",
+    "romaji": "Ken-san no kanban ni, 'sanbyaku en' to kaite arimasu. Suuji dake, koe ni dashite yonde kudasai. Nan to iimasu ka?"
+  },
+  "sl5.c1_natural": {
+    "en": "“It's three hundred yen.”",
+    "ru": "«Это триста иен».",
+    "zh": "“是三百日元。”",
+    "ja": "「さんびゃくえんです。」",
+    "romaji": "'Sanbyaku en desu.'"
+  },
+  "sl5.c1_formal": {
+    "en": "“It is three hundred yen. Please confirm.”",
+    "ru": "«Это триста иен. Пожалуйста, убедитесь».",
+    "zh": "“是三百日元。请您确认。”",
+    "ja": "「三百円でございます。ご確認くださいませ。」",
+    "romaji": "'Sanbyaku en de gozaimasu. Gokakunin kudasaimase.'"
+  },
+  "sl5.c1_mistake": {
+    "en": "“It's sanhyaku yen.”",
+    "ru": "«Это санхяку иен».",
+    "zh": "“是さんひゃく日元。”（读音不对）",
+    "ja": "「さんひゃくえんです。」",
+    "romaji": "'Sanhyaku en desu.'"
+  },
+  "sl5.c1_own": {
+    "en": "“It's three hundred yen. So takoyaki is three hundred yen.”",
+    "ru": "«Это триста иен. Значит, такояки стоят триста иен».",
+    "zh": "“是三百日元。章鱼烧三百日元，对吧。”",
+    "ja": "「さんびゃくえんです。たこ焼きは、三百円ですね。」",
+    "romaji": "'Sanbyaku en desu. Takoyaki wa, sanbyaku en desu ne.'"
+  },
+  "sl5.c1_min": {
+    "en": "“Three... hundred... yen...”",
+    "ru": "«Три… сто… иен…»",
+    "zh": "“三……百……日元……”",
+    "ja": "「さん…ひゃく…えん…」",
+    "romaji": "'San... hyaku... en...'"
+  },
+  "sl5.p1_nat_mei": {
+    "en": "Yes, well done! You said the “sanbyaku” sound properly.",
+    "ru": "Да, отлично! Вы правильно произнесли «санбяку».",
+    "zh": "对，说得很好！「さんびゃく」的读音你说对了。",
+    "ja": "はい、上手です！「さんびゃく」の音が、ちゃんと言えましたね。",
+    "romaji": "Hai, jouzu desu! 'Sanbyaku' no oto ga, chanto iemashita ne."
+  },
+  "sl5.p1_form_ken": {
+    "en": "Haha, I'm the one running the stall. “Sanbyaku en desu” is fine.",
+    "ru": "Ха-ха, лоток держу я. Достаточно «санбяку эн дэс».",
+    "zh": "哈哈，摆摊的人是我。说「三百円です」就行了。",
+    "ja": "あはは、屋台の人は、ぼくですよ。「三百円です」で、大丈夫です。",
+    "romaji": "Ahaha, yatai no hito wa, boku desu yo. 'Sanbyaku en desu' de, daijoubu desu."
+  },
+  "sl5.p1_mis_yuki": {
+    "en": "Close. Three hundred is “sanbyaku,” not “sanhyaku.” The “hi” changes to “bi.”",
+    "ru": "Почти. Триста — это «санбяку», а не «санхяку». «Хи» меняется на «би».",
+    "zh": "很接近。三百读作「さんびゃく」，而不是「さんひゃく」。「ひ」变成了「び」。",
+    "ja": "惜しいです。三百は、「さんひゃく」ではなく、「さんびゃく」です。「ひ」が、「び」に変わります。",
+    "romaji": "Oshii desu. Sanbyaku wa, 'sanhyaku' de wa naku, 'sanbyaku' desu. 'Hi' ga, 'bi' ni kawarimasu."
+  },
+  "sl5.p1_mis_retry": {
+    "en": "Oh, it's three hundred yen.",
+    "ru": "Ой, это триста иен.",
+    "zh": "啊，是三百日元。",
+    "ja": "あっ、さんびゃくえんです。",
+    "romaji": "A, sanbyaku en desu."
+  },
+  "sl5.p1_mis_relief": {
+    "en": "Yes, that's it! You said the difficult sound.",
+    "ru": "Да, именно так! Вы произнесли трудный звук.",
+    "zh": "对，就是这个！那个难发的音你说出来了。",
+    "ja": "はい、それです！むずかしい音が、言えましたね。",
+    "romaji": "Hai, sore desu! Muzukashii oto ga, iemashita ne."
+  },
+  "sl5.p1_own_ken": {
+    "en": "Yes, exactly. It's cheap and delicious.",
+    "ru": "Да, верно. Дёшево и вкусно.",
+    "zh": "是的，没错。又便宜又好吃。",
+    "ja": "はい、そのとおりです。安くて、おいしいですよ。",
+    "romaji": "Hai, sono toori desu. Yasukute, oishii desu yo."
+  },
+  "sl5.p1_min_tanaka": {
+    "en": "Take your time. Try saying it connected: “sanbyaku.”",
+    "ru": "Не торопитесь. Попробуйте произнести слитно: «санбяку».",
+    "zh": "慢慢来没关系。试着连起来说：「さんびゃく」。",
+    "ja": "ゆっくりで大丈夫です。「さんびゃく」と、つなげて言ってみましょう。",
+    "romaji": "Yukkuri de daijoubu desu. 'Sanbyaku' to, tsunagete itte mimashou."
+  },
+  "sl5.s2_watch": {
+    "en": "What time does the festival start?",
+    "ru": "Во сколько начинается праздник?",
+    "zh": "庙会几点开始？",
+    "ja": "お祭りは、何時に、はじまりますか？",
+    "romaji": "Omatsuri wa, nanji ni, hajimarimasu ka?"
+  },
+  "sl5.s2_intro": {
+    "en": "For time, you add “ji” to the number. You say it like “yoji,” “goji,” “rokuji.” “Nanji desu ka” is the phrase for asking the time.",
+    "ru": "Для времени к числу добавляют «дзи». Говорят: «ёдзи», «годзи», «рокудзи». «Нандзи дэс ка» — вопрос о времени.",
+    "zh": "表示时间时，在数字后面加「時」。说成四時、五時、六時。「何時ですか」是询问时间的说法。",
+    "ja": "時間は、数字に「時」をつけます。四時、五時、六時のように言います。「何時ですか」は、時間を聞く言葉です。",
+    "romaji": "Jikan wa, suuji ni 'ji' o tsukemasu. Yoji, goji, rokuji no you ni iimasu. 'Nanji desu ka' wa, jikan o kiku kotoba desu."
+  },
+  "sl5.s2_special": {
+    "en": "Be careful. 4 o'clock is “yoji,” 7 o'clock is “shichiji,” and 9 o'clock is “kuji.” You don't say “yonji,” “nanaji,” or “kyuuji.”",
+    "ru": "Будьте внимательны. 4 часа — «ёдзи», 7 часов — «ситидзи», 9 часов — «кудзи». Не говорят «ёндзи», «нанадзи» или «кюдзи».",
+    "zh": "请注意。四点读「よじ」，七点读「しちじ」，九点读「くじ」。不说「よんじ」「ななじ」「きゅうじ」。",
+    "ja": "気をつけてください。「四時」は「よじ」、「七時」は「しちじ」、「九時」は「くじ」です。「よんじ」「ななじ」「きゅうじ」とは、言いません。",
+    "romaji": "Ki o tsukete kudasai. 'Yoji' wa 'yoji', 'shichiji' wa 'shichiji', 'kuji' wa 'kuji' desu. 'Yonji' 'nanaji' 'kyuuji' to wa, iimasen."
+  },
+  "sl5.s2_min": {
+    "en": "Thirty minutes is also called “han,” half. “Yoji han” is 4:30. Minutes are said like “gofun,” “juppun.”",
+    "ru": "Тридцать минут называют также «хан» — половина. «Ёдзи хан» — 4:30. Минуты говорят так: «гофун», «дзюппун».",
+    "zh": "三十分也叫「半」。「四時半」就是四点三十分。分钟说成「五分」「十分」。",
+    "ja": "三十分は、「半」とも言います。「四時半」は、四時三十分です。分は、「五分」「十分」のように言います。",
+    "romaji": "Sanjuppun wa, 'han' to mo iimasu. 'Yoji han' wa, yoji sanjuppun desu. Fun wa, 'gofun' 'juppun' no you ni iimasu."
+  },
+  "sl5.s2_q": {
+    "en": "What's the difference between “yoji” and “yonji”?",
+    "ru": "В чём разница между «ёдзи» и «ёндзи»?",
+    "zh": "「よじ」和「よんじ」有什么区别？",
+    "ja": "「よじ」と「よんじ」の、ちがいは、何ですか？",
+    "romaji": "'Yoji' to 'yonji' no, chigai wa, nan desu ka?"
+  },
+  "sl5.s2_a": {
+    "en": "For time, only “yoji” is correct. There are many special readings, like “yonin” for four people and “yokka” for the fourth day. Let's learn them little by little.",
+    "ru": "Для времени правильно только «ёдзи». Есть много особых чтений, например «ёнин» — четыре человека и «ёкка» — четвёртое число. Будем запоминать понемногу.",
+    "zh": "读时间时，只有「よじ」是正确的。还有很多特殊读法，比如四个人读「よにん」、四号读「よっか」。我们一点一点地记。",
+    "ja": "時間のときだけ、「よじ」が正しいです。「四人」は「よにん」、「四日」は「よっか」のように、特別な読み方が、たくさんあります。少しずつ、覚えましょう。",
+    "romaji": "Jikan no toki dake, 'yoji' ga tadashii desu. 'Yonin' wa 'yonin', 'yokka' wa 'yokka' no you ni, tokubetsu na yomikata ga, takusan arimasu. Sukoshi zutsu, oboemashou."
+  },
+  "sl5.p2_prompt": {
+    "en": "Tanaka-sensei points at a clock. It says four o'clock. You are asked, “What time is it now?” How do you answer?",
+    "ru": "Танака-сэнсэй показывает на часы. Они показывают четыре часа. Вас спрашивают: «Который час?» Что вы ответите?",
+    "zh": "田中老师指着钟表。钟表显示四点。他问你：“现在几点？”你会怎么回答？",
+    "ja": "田中先生が、時計を指しました。時計は、四時です。「いま、何時ですか？」と聞かれました。何と答えますか？",
+    "romaji": "Tanaka-sensei ga, tokei o yubi shimashita. Tokei wa, yoji desu. 'Ima, nanji desu ka?' to kikaremashita. Nan to kotaemasu ka?"
+  },
+  "sl5.c2_natural": {
+    "en": "“It's four o'clock now.”",
+    "ru": "«Сейчас четыре часа».",
+    "zh": "“现在四点。”",
+    "ja": "「いま、四時です。」",
+    "romaji": "'Ima, yoji desu.'"
+  },
+  "sl5.c2_formal": {
+    "en": "“At present, it is four o'clock.”",
+    "ru": "«В настоящее время — четыре часа».",
+    "zh": "“现在是四点整。”",
+    "ja": "「ただいま、四時にございます。」",
+    "romaji": "'Tadaima, yoji ni gozaimasu.'"
+  },
+  "sl5.c2_mistake": {
+    "en": "“It's yonji now.”",
+    "ru": "«Сейчас ёндзи».",
+    "zh": "“现在是よんじ。”（读音不对）",
+    "ja": "「いま、よんじです。」",
+    "romaji": "'Ima, yonji desu.'"
+  },
+  "sl5.c2_own": {
+    "en": "“It's four o'clock now. The festival starts at five.”",
+    "ru": "«Сейчас четыре часа. Праздник начинается в пять».",
+    "zh": "“现在四点。庙会五点开始。”",
+    "ja": "「いま、四時です。お祭りは、五時に、はじまります。」",
+    "romaji": "'Ima, yoji desu. Omatsuri wa, goji ni, hajimarimasu.'"
+  },
+  "sl5.c2_min": {
+    "en": "“Four... o'clock...”",
+    "ru": "«Четыре… часа…»",
+    "zh": "“四……点……”",
+    "ja": "「四…時…」",
+    "romaji": "'Yon... ji...'"
+  },
+  "sl5.p2_nat_tanaka": {
+    "en": "That's right. There is one more hour until the festival.",
+    "ru": "Верно. До праздника остался ещё час.",
+    "zh": "没错。离庙会还有一个小时。",
+    "ja": "そのとおりです。お祭りまで、あと一時間です。",
+    "romaji": "Sono toori desu. Omatsuri made, ato ichijikan desu."
+  },
+  "sl5.p2_form_yuki": {
+    "en": "Ha, that sounds like a station announcement. “Ima, yoji desu” is fine.",
+    "ru": "Ха-ха, как объявление на вокзале. Достаточно «има, ёдзи дэс».",
+    "zh": "呵呵，像车站广播一样。说「いま、四時です」就好。",
+    "ja": "ふふ、駅のアナウンスみたいです。「いま、四時です」で、いいですよ。",
+    "romaji": "Fufu, eki no anaunsu mitai desu. 'Ima, yoji desu' de, ii desu yo."
+  },
+  "sl5.p2_mis_ken": {
+    "en": "Close. For time, it's “yoji.” You don't say “yonji.”",
+    "ru": "Почти. Для времени — «ёдзи». «Ёндзи» не говорят.",
+    "zh": "很接近。读时间时是「よじ」。不说「よんじ」。",
+    "ja": "惜しいです。時間のときは、「よじ」です。「よんじ」とは、言いませんよ。",
+    "romaji": "Oshii desu. Jikan no toki wa, 'yoji' desu. 'Yonji' to wa, iimasen yo."
+  },
+  "sl5.p2_mis_retry": {
+    "en": "Oh, it's four o'clock now.",
+    "ru": "Ой, сейчас четыре часа.",
+    "zh": "啊，现在四点。",
+    "ja": "あっ、いま、四時です。",
+    "romaji": "A, ima, yoji desu."
+  },
+  "sl5.p2_mis_relief": {
+    "en": "Yes, that's it! “Yoji.”",
+    "ru": "Да, именно так! «Ёдзи».",
+    "zh": "对，就是这个！是「よじ」。",
+    "ja": "はい、それです！「よじ」ですね。",
+    "romaji": "Hai, sore desu! 'Yoji' desu ne."
+  },
+  "sl5.p2_own_mei": {
+    "en": "Right. Then let's get ready until five.",
+    "ru": "Верно. Тогда давайте готовиться до пяти.",
+    "zh": "是啊。那我们准备到五点吧。",
+    "ja": "そうですね。じゃあ、五時まで、準備をしましょう。",
+    "romaji": "Sou desu ne. Jaa, goji made, junbi o shimashou."
+  },
+  "sl5.p2_min_yuki": {
+    "en": "You said the number just fine. Try a full sentence: “ima, yoji desu.”",
+    "ru": "Число вы назвали верно. Попробуйте сказать целое предложение: «има, ёдзи дэс».",
+    "zh": "数字说得没问题。试着说完整的句子：「いま、四時です」。",
+    "ja": "数字は、ちゃんと言えています。「いま、四時です」と、文で言ってみましょう。",
+    "romaji": "Suuji wa, chanto ieteimasu. 'Ima, yoji desu' to, bun de itte mimashou."
+  },
+  "sl5.sign": {
+    "en": "The festival has started. A long line of people is already standing in front of Ken's stall. The sign reads, “Takoyaki: 300 yen.”",
+    "ru": "Праздник начался. Перед лотком Кена уже выстроилась очередь. На вывеске написано: «Такояки — 300 иен».",
+    "zh": "庙会开始了。健的摊位前已经排起了长队。招牌上写着「たこ焼き　三百円」。",
+    "ja": "お祭りが、はじまった。ケンの屋台の前には、もう、たくさんの人が並んでいる。看板には、「たこ焼き　三百円」と書いてある。",
+    "romaji": "Omatsuri ga, hajimatta. Ken no yatai no mae ni wa, mou, takusan no hito ga narande iru. Kanban ni wa, 'takoyaki sanbyaku en' to kaite aru."
+  },
+  "sl5.s3_intro": {
+    "en": "The unit of money is “en,” yen. To ask a price, you use “ikura desu ka.” The answer is “~ en desu.”",
+    "ru": "Денежная единица — «эн», иена. Чтобы спросить цену, используют «икура дэс ка». Ответ: «~ эн дэс».",
+    "zh": "货币单位是「円」。询问价格时，用「いくらですか」。回答是「〜円です」。",
+    "ja": "お金の単位は、「円」です。値段を聞くときは、「いくらですか」を使います。答えは、「〜円です」です。",
+    "romaji": "Okane no tan'i wa, 'en' desu. Nedan o kiku toki wa, 'ikura desu ka' o tsukaimasu. Kotae wa, '~ en desu' desu."
+  },
+  "sl5.s3_q1": {
+    "en": "Are “ikura” and “nan en” the same?",
+    "ru": "«Икура» и «нан эн» — это одно и то же?",
+    "zh": "「いくら」和「何円」一样吗？",
+    "ja": "「いくら」と「何円」は、同じですか？",
+    "romaji": "'Ikura' to 'nan en' wa, onaji desu ka?"
+  },
+  "sl5.s3_a1": {
+    "en": "The meaning is close, but normally you say “ikura desu ka.” “Nan en desu ka” is not said very often.",
+    "ru": "Значение близкое, но обычно говорят «икура дэс ка». «Нан эн дэс ка» говорят редко.",
+    "zh": "意思相近，但通常说「いくらですか」。「何円ですか」不太常说。",
+    "ja": "意味は近いですが、ふつうは「いくらですか」と言います。「何円ですか」は、あまり言いません。",
+    "romaji": "Imi wa chikai desu ga, futsuu wa 'ikura desu ka' to iimasu. 'Nan en desu ka' wa, amari iimasen."
+  },
+  "sl5.s3_q2": {
+    "en": "Is it okay not to say “en”?",
+    "ru": "Можно ли не говорить «эн»?",
+    "zh": "可以不说「円」吗？",
+    "ja": "「円」は、言わなくてもいいですか？",
+    "romaji": "'En' wa, iwanakute mo ii desu ka?"
+  },
+  "sl5.s3_a2": {
+    "en": "At shops, people sometimes say just “sanbyaku desu.” But to begin with, adding “en” makes it clearer.",
+    "ru": "В магазинах иногда говорят просто «санбяку дэс». Но для начала лучше добавлять «эн» — так яснее.",
+    "zh": "在店里，有时也会只说「三百です」。不过刚开始，加上「円」会更清楚。",
+    "ja": "お店では、「三百です」と言うこともあります。でも、はじめは、「円」をつけたほうが、はっきりします。",
+    "romaji": "Omise de wa, 'sanbyaku desu' to iu koto mo arimasu. Demo, hajime wa, 'en' o tsuketa hou ga, hakkiri shimasu."
+  },
+  "sl5.p3_prompt": {
+    "en": "You want to know the price of takoyaki. Please ask at Ken's stall. What do you say?",
+    "ru": "Вы хотите узнать цену такояки. Спросите у лотка Кена. Что вы скажете?",
+    "zh": "你想知道章鱼烧的价格。请在健的摊位前询问。你会怎么说？",
+    "ja": "あなたは、たこ焼きの値段を知りたいです。ケンさんの屋台で、聞いてください。何と言いますか？",
+    "romaji": "Anata wa, takoyaki no nedan o shiritai desu. Ken-san no yatai de, kiite kudasai. Nan to iimasu ka?"
+  },
+  "sl5.c3_natural": {
+    "en": "“Excuse me, how much is the takoyaki?”",
+    "ru": "«Извините, сколько стоят такояки?»",
+    "zh": "“不好意思，章鱼烧多少钱？”",
+    "ja": "「すみません、たこ焼きは、いくらですか？」",
+    "romaji": "'Sumimasen, takoyaki wa, ikura desu ka?'"
+  },
+  "sl5.c3_formal": {
+    "en": "“Pardon me, but please tell me the price of the takoyaki.”",
+    "ru": "«Прошу прощения, сообщите, пожалуйста, цену такояки».",
+    "zh": "“打扰了，请告诉我章鱼烧的价格。”",
+    "ja": "「恐れ入りますが、たこ焼きの、お値段を、お教えください。」",
+    "romaji": "'Osoreirimasu ga, takoyaki no, onedan o, oshie kudasai.'"
+  },
+  "sl5.c3_mistake": {
+    "en": "“Excuse me, how many is the takoyaki?”",
+    "ru": "«Извините, сколько штук такояки?»",
+    "zh": "“不好意思，章鱼烧几个？”（想问价格却问成了个数）",
+    "ja": "「すみません、たこ焼きは、いくつですか？」",
+    "romaji": "'Sumimasen, takoyaki wa, ikutsu desu ka?'"
+  },
+  "sl5.c3_own": {
+    "en": "“Excuse me, how much is the takoyaki? How much is it for two?”",
+    "ru": "«Извините, сколько стоят такояки? А сколько за две порции?»",
+    "zh": "“不好意思，章鱼烧多少钱？两份的话多少钱？”",
+    "ja": "「すみません、たこ焼きは、いくらですか？二つだと、いくらですか？」",
+    "romaji": "'Sumimasen, takoyaki wa, ikura desu ka? Futatsu da to, ikura desu ka?'"
+  },
+  "sl5.c3_min": {
+    "en": "“Takoyaki... how much...”",
+    "ru": "«Такояки… сколько…»",
+    "zh": "“章鱼烧……多少钱……”",
+    "ja": "「たこ焼き…いくら…」",
+    "romaji": "'Takoyaki... ikura...'"
+  },
+  "sl5.p3_nat_ken": {
+    "en": "Takoyaki is 300 yen per serving.",
+    "ru": "Такояки — 300 иен за порцию.",
+    "zh": "章鱼烧一份三百日元。",
+    "ja": "たこ焼きは、一つ、三百円です。",
+    "romaji": "Takoyaki wa, hitotsu, sanbyaku en desu."
+  },
+  "sl5.p3_form_ken": {
+    "en": "Haha, you're making me flustered. “Ikura desu ka?” is fine.",
+    "ru": "Ха-ха, вы меня смутили. Достаточно «икура дэс ка?».",
+    "zh": "哈哈，你说得我都不好意思了。说「いくらですか？」就行。",
+    "ja": "あはは、こまってしまいます。「いくらですか？」で、大丈夫ですよ。",
+    "romaji": "Ahaha, komatte shimaimasu. 'Ikura desu ka?' de, daijoubu desu yo."
+  },
+  "sl5.p3_mis_mei": {
+    "en": "Huh, “ikutsu” is for asking about a count. To ask a price, it's “ikura.”",
+    "ru": "Ой, «икуцу» — слово для вопроса о количестве. Чтобы спросить цену, нужно «икура».",
+    "zh": "咦，「いくつ」是问数量的。问价格要用「いくら」。",
+    "ja": "あれ、「いくつ」は、数を聞く言葉です。値段を聞くときは、「いくら」ですよ。",
+    "romaji": "Are, 'ikutsu' wa, kazu o kiku kotoba desu. Nedan o kiku toki wa, 'ikura' desu yo."
+  },
+  "sl5.p3_mis_retry": {
+    "en": "Oh, how much is the takoyaki?",
+    "ru": "Ой, сколько стоят такояки?",
+    "zh": "啊，章鱼烧多少钱？",
+    "ja": "あっ、たこ焼きは、いくらですか？",
+    "romaji": "A, takoyaki wa, ikura desu ka?"
+  },
+  "sl5.p3_mis_relief": {
+    "en": "Yes, that's it! It's 300 yen per serving.",
+    "ru": "Да, именно так! 300 иен за порцию.",
+    "zh": "对，就是这个！一份三百日元。",
+    "ja": "はい、それです！一つ、三百円です。",
+    "romaji": "Hai, sore desu! Hitotsu, sanbyaku en desu."
+  },
+  "sl5.p3_own_ken": {
+    "en": "It's 300 yen for one. For two, it's 600 yen.",
+    "ru": "Одна порция — 300 иен. Две — 600 иен.",
+    "zh": "一份三百日元。两份的话，是六百日元。",
+    "ja": "一つ、三百円です。二つだと、六百円です。",
+    "romaji": "Hitotsu, sanbyaku en desu. Futatsu da to, roppyaku en desu."
+  },
+  "sl5.p3_min_yuki": {
+    "en": "I understand what you want to ask. Try asking in a full sentence: “takoyaki wa, ikura desu ka?”",
+    "ru": "Понимаю, что вы хотите спросить. Спросите целым предложением: «такояки ва, икура дэс ка?».",
+    "zh": "我明白你想问什么。试着用完整的句子问：「たこ焼きは、いくらですか？」",
+    "ja": "聞きたいことは、分かります。「たこ焼きは、いくらですか？」と、文で聞いてみましょう。",
+    "romaji": "Kikitai koto wa, wakarimasu. 'Takoyaki wa, ikura desu ka?' to, bun de kiite mimashou."
+  },
+  "sl5.s4_intro": {
+    "en": "The last one is ordering. When you count things, you say “hitotsu, futatsu, mittsu.” The pattern is “~ o, futatsu kudasai.”",
+    "ru": "Последнее — заказ. Когда считают предметы, говорят «хитоцу, футацу, миццу». Форма: «~ о, футацу кудасай».",
+    "zh": "最后是点单。数东西时，说「一つ、二つ、三つ」。句型是「〜を、二つください」。",
+    "ja": "最後は、注文です。ものを数えるときは、「一つ、二つ、三つ」と言います。「〜を、二つください」の形です。",
+    "romaji": "Saigo wa, chuumon desu. Mono o kazoeru toki wa, 'hitotsu, futatsu, mittsu' to iimasu. '~ o, futatsu kudasai' no katachi desu."
+  },
+  "sl5.s4_list": {
+    "en": "Hitotsu, futatsu, mittsu, yottsu, itsutsu, muttsu, nanatsu, yattsu, kokonotsu, tou. You count by adding “tsu.”",
+    "ru": "Хитоцу, футацу, миццу, ёццу, ицуцу, муццу, нанацу, яццу, коконоцу, то. Считают, добавляя «цу».",
+    "zh": "一つ、二つ、三つ、四つ、五つ、六つ、七つ、八つ、九つ、十。数的时候要加上「つ」。",
+    "ja": "一つ、二つ、三つ、四つ、五つ、六つ、七つ、八つ、九つ、十。「つ」を、つけて数えます。",
+    "romaji": "Hitotsu, futatsu, mittsu, yottsu, itsutsu, muttsu, nanatsu, yattsu, kokonotsu, tou. 'Tsu' o, tsukete kazoemasu."
+  },
+  "sl5.s4_q": {
+    "en": "Are “ni” and “futatsu” different?",
+    "ru": "«Ни» и «футацу» отличаются?",
+    "zh": "「二」和「二つ」有区别吗？",
+    "ja": "「二」と「二つ」は、ちがいますか？",
+    "romaji": "'Ni' to 'futatsu' wa, chigaimasu ka?"
+  },
+  "sl5.s4_a": {
+    "en": "“Ni” is the number. “Futatsu” is how you count things. When ordering, you use “futatsu.” “O” is a word that marks the thing being ordered. We'll study it in detail later.",
+    "ru": "«Ни» — это число. «Футацу» — способ считать предметы. При заказе используют «футацу». «О» — слово, обозначающее объект. Позже мы изучим его подробнее.",
+    "zh": "「二」是数字。「二つ」是数东西时的说法。点单时要用「二つ」。「を」是表示对象的词。以后会详细学习。",
+    "ja": "「二」は、数字です。「二つ」は、ものを数えるときの言い方です。注文のときは、「二つ」を使います。「を」は、ものを表す言葉です。あとで、くわしく勉強します。",
+    "romaji": "'Ni' wa, suuji desu. 'Futatsu' wa, mono o kazoeru toki no iikata desu. Chuumon no toki wa, 'futatsu' o tsukaimasu. 'O' wa, mono o arawasu kotoba desu. Ato de, kuwashiku benkyou shimasu."
+  },
+  "sl5.s4_total": {
+    "en": "For two, it's 600 yen.",
+    "ru": "За две порции — 600 иен.",
+    "zh": "两份的话，是六百日元。",
+    "ja": "二つだと、六百円です。",
+    "romaji": "Futatsu da to, roppyaku en desu."
+  },
+  "sl5.p4_prompt": {
+    "en": "Now for the last practice. Please order two takoyaki. What do you say?",
+    "ru": "Теперь последняя практика. Закажите две порции такояки. Что вы скажете?",
+    "zh": "最后一个练习。请点两份章鱼烧。你会怎么说？",
+    "ja": "では、最後の練習です。たこ焼きを、二つ、注文してください。何と言いますか？",
+    "romaji": "Dewa, saigo no renshuu desu. Takoyaki o, futatsu, chuumon shite kudasai. Nan to iimasu ka?"
+  },
+  "sl5.c4_natural": {
+    "en": "“Excuse me, two takoyaki, please.”",
+    "ru": "«Извините, две порции такояки, пожалуйста».",
+    "zh": "“不好意思，请给我两份章鱼烧。”",
+    "ja": "「すみません、たこ焼きを、二つください。」",
+    "romaji": "'Sumimasen, takoyaki o, futatsu kudasai.'"
+  },
+  "sl5.c4_formal": {
+    "en": "“Pardon me, but might I be granted two servings of takoyaki?”",
+    "ru": "«Прошу прощения, не могли бы вы предоставить мне две порции такояки?»",
+    "zh": "“打扰了，能否请给我两份章鱼烧呢？”",
+    "ja": "「恐れ入りますが、たこ焼きを、二つ、頂戴できますでしょうか。」",
+    "romaji": "'Osoreirimasu ga, takoyaki o, futatsu, choudai dekimasu deshou ka.'"
+  },
+  "sl5.c4_mistake": {
+    "en": "“Excuse me, takoyaki, two (number only), please.”",
+    "ru": "«Извините, такояки, «два» (только число), пожалуйста».",
+    "zh": "“不好意思，章鱼烧，请给我二。”（漏掉了つ）",
+    "ja": "「すみません、たこ焼きを、二ください。」",
+    "romaji": "'Sumimasen, takoyaki o, ni kudasai.'"
+  },
+  "sl5.c4_own": {
+    "en": "“Excuse me, two takoyaki, please. How much is that?”",
+    "ru": "«Извините, две порции такояки, пожалуйста. Сколько с меня?»",
+    "zh": "“不好意思，请给我两份章鱼烧。一共多少钱？”",
+    "ja": "「すみません、たこ焼きを、二つください。いくらですか？」",
+    "romaji": "'Sumimasen, takoyaki o, futatsu kudasai. Ikura desu ka?'"
+  },
+  "sl5.c4_min": {
+    "en": "“Takoyaki... two...”",
+    "ru": "«Такояки… две…»",
+    "zh": "“章鱼烧……两份……”",
+    "ja": "「たこ焼き…二つ…」",
+    "romaji": "'Takoyaki... futatsu...'"
+  },
+  "sl5.p4_nat_ken": {
+    "en": "Yes, two servings. That's 600 yen. Thank you!",
+    "ru": "Да, две порции. Это 600 иен. Спасибо!",
+    "zh": "好的，两份对吧。六百日元。谢谢！",
+    "ja": "はい、二つですね。六百円です。ありがとうございます！",
+    "romaji": "Hai, futatsu desu ne. Roppyaku en desu. Arigatou gozaimasu!"
+  },
+  "sl5.p4_form_mei": {
+    "en": "Ha, at a festival stall you can be more casual. “Futatsu kudasai” is fine.",
+    "ru": "Ха-ха, у праздничного лотка можно проще. Достаточно «футацу кудасай».",
+    "zh": "呵呵，在庙会摊位前，说得随意一些就行。说「二つください」就可以了。",
+    "ja": "ふふ、お祭りの屋台では、もっと気軽で大丈夫ですよ。「二つください」で、いいです。",
+    "romaji": "Fufu, omatsuri no yatai de wa, motto kigaru de daijoubu desu yo. 'Futatsu kudasai' de, ii desu."
+  },
+  "sl5.p4_mis_yuki": {
+    "en": "Close. When counting things, it's “futatsu,” not “ni.” Don't forget the “tsu.”",
+    "ru": "Почти. Когда считаете предметы, нужно «футацу», а не «ни». Не забывайте «цу».",
+    "zh": "很接近。数东西时要说「二つ」，而不是「二」。别忘了「つ」哦。",
+    "ja": "惜しいです。ものを数えるときは、「二」ではなく、「二つ」です。「つ」を忘れないでくださいね。",
+    "romaji": "Oshii desu. Mono o kazoeru toki wa, 'ni' de wa naku, 'futatsu' desu. 'Tsu' o wasurenaide kudasai ne."
+  },
+  "sl5.p4_mis_retry": {
+    "en": "Oh, two takoyaki, please.",
+    "ru": "Ой, две порции такояки, пожалуйста.",
+    "zh": "啊，请给我两份章鱼烧。",
+    "ja": "あっ、たこ焼きを、二つください。",
+    "romaji": "A, takoyaki o, futatsu kudasai."
+  },
+  "sl5.p4_mis_relief": {
+    "en": "Yes, two servings. That's 600 yen.",
+    "ru": "Да, две порции. Это 600 иен.",
+    "zh": "好的，两份对吧。六百日元。",
+    "ja": "はい、二つですね。六百円です。",
+    "romaji": "Hai, futatsu desu ne. Roppyaku en desu."
+  },
+  "sl5.p4_own_ken": {
+    "en": "That's 600 yen for two. Please wait just a moment.",
+    "ru": "Две порции — 600 иен. Подождите немного, пожалуйста.",
+    "zh": "两份一共六百日元。请稍等一下。",
+    "ja": "二つで、六百円です。少し、待ってくださいね。",
+    "romaji": "Futatsu de, roppyaku en desu. Sukoshi, matte kudasai ne."
+  },
+  "sl5.p4_min_tanaka": {
+    "en": "It gets across. Next time, try saying the whole sentence: “takoyaki o, futatsu kudasai.”",
+    "ru": "Поймут. В следующий раз скажите всё целиком: «такояки о, футацу кудасай».",
+    "zh": "能听懂。下次试着把整句话说完整：「たこ焼きを、二つください」。",
+    "ja": "伝わりますよ。次は、「たこ焼きを、二つください」と、全部言ってみましょう。",
+    "romaji": "Tsutawarimasu yo. Tsugi wa, 'takoyaki o, futatsu kudasai' to, zenbu itte mimashou."
+  },
+  "sl5.talk_open": {
+    "en": "Now let's talk. Out of today's four forms, which one is the most useful in a shop?",
+    "ru": "Теперь поговорим. Какая из сегодняшних четырёх форм самая полезная в магазине?",
+    "zh": "现在来聊聊。今天这四个句型里，哪一个在店里最有用？",
+    "ja": "では、話しましょう。今日の四つの形の中で、お店で、いちばん役に立つ形は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no yottsu no katachi no naka de, omise de, ichiban yaku ni tatsu katachi wa, dore desu ka?"
+  },
+  "sl5.talk_mei": {
+    "en": "For me, it's “ikura desu ka.” If I can say this, I can shop with peace of mind.",
+    "ru": "Для меня это «икура дэс ка». Если я могу это сказать, то могу спокойно делать покупки.",
+    "zh": "我觉得是「いくらですか」。会说这句，买东西就放心了。",
+    "ja": "わたしは、「いくらですか」です。これが言えれば、安心して、買いものができます。",
+    "romaji": "Watashi wa, 'ikura desu ka' desu. Kore ga iereba, anshin shite, kaimono ga dekimasu."
+  },
+  "sl5.talk_ken": {
+    "en": "For me, it's telling the time. I might still slip up on “yoji” and “kuji.”",
+    "ru": "Для меня это называние времени. Я, возможно, ещё ошибусь в «ёдзи» и «кудзи».",
+    "zh": "我觉得是时间的说法。「よじ」「くじ」我可能还会说错。",
+    "ja": "ぼくは、時間の言い方です。「よじ」「くじ」は、まだ、まちがえそうです。",
+    "romaji": "Boku wa, jikan no iikata desu. 'Yoji' 'kuji' wa, mada, machigaesou desu."
+  },
+  "sl5.talk_yuki": {
+    "en": "For me, it's “~ o, ~ tsu kudasai.” It's a phrase I hear every day at the shop.",
+    "ru": "Для меня это «~ о, ~ цу кудасай». Я слышу это в магазине каждый день.",
+    "zh": "我觉得是「〜を、〜つください」。因为这是我每天在店里都会听到的话。",
+    "ja": "わたしは、「〜を、〜つください」です。お店で、毎日、聞く言葉ですから。",
+    "romaji": "Watashi wa, '~ o, ~ tsu kudasai' desu. Omise de, mainichi, kiku kotoba desu kara."
+  },
+  "sl5.talk_tanaka": {
+    "en": "Lovely. You use numbers every day. Say them out loud many times and learn them with your whole body.",
+    "ru": "Прекрасно. Числа используются каждый день. Произносите их вслух много раз и запоминайте всем телом.",
+    "zh": "真好。数字每天都会用到。多出声练习几遍，用身体记住它们吧。",
+    "ja": "すてきですね。数字は、毎日使います。何度も声に出して、体で、覚えましょう。",
+    "romaji": "Suteki desu ne. Suuji wa, mainichi tsukaimasu. Nando mo koe ni dashite, karada de, oboemashou."
+  },
+  "sl5.talk_player": {
+    "en": "(One, two, three. Four o'clock, nine o'clock. 300 yen, 600 yen. Numbers are tricky, but I really got to use them at the festival stall. Tomorrow, I'll try asking “ikura desu ka” at other shops too.)",
+    "ru": "(Один, два, три. Четыре часа, девять часов. 300 иен, 600 иен. Числа непростые, но на празднике у лотка я по-настоящему их использовал. Завтра попробую спросить «икура дэс ка» и в других магазинах.)",
+    "zh": "（一、二、三。四点、九点。三百日元、六百日元。数字虽然难，但在庙会的摊位前，我真的用上了。明天，我也要在别的店里试着问「いくらですか」。）",
+    "ja": "（一、二、三。四時、九時。三百円、六百円。数字は、むずかしいけれど、お祭りの屋台で、本当に使えた。あしたは、ほかのお店でも、いくらですか、と聞いてみよう。）",
+    "romaji": "(Ichi, ni, san. Yoji, kuji. Sanbyaku en, roppyaku en. Suuji wa, muzukashii keredo, omatsuri no yatai de, hontou ni tsukaeta. Ashita wa, hoka no omise demo, ikura desu ka, to kiite miyou.)"
+  },
+  "sl5.talk_close": {
+    "en": "Good lesson, everyone. In the next class, we'll study the “masu” form of verbs. We'll use “o,” “ni,” and “de” as well.",
+    "ru": "Хороший урок, все. На следующем уроке изучим форму глаголов на «мас». Мы также будем использовать «о», «ни» и «дэ».",
+    "zh": "各位，这节课很棒。下节课我们来学习动词的「ます」形。还会用到「を」「に」「で」。",
+    "ja": "みなさん、いいレッスンでした。次の授業では、動詞の「ます」の形を勉強しましょう。「を」「に」「で」も、使います。",
+    "romaji": "Minasan, ii ressun deshita. Tsugi no jugyou de wa, doushi no 'masu' no katachi o benkyou shimashou. 'O' 'ni' 'de' mo, tsukaimasu."
+  },
+  "sl5.complete": {
+    "en": "End of Sentence Lesson 5.",
+    "ru": "Конец урока предложений 5.",
+    "zh": "句型课 5 结束。",
+    "ja": "文型レッスン5、おわり。",
+    "romaji": "Bunkei ressun go, owari."
+  }
+}

@@ -1,0 +1,681 @@
+{
+  "sl12.title": {
+    "en": "Permission and Prohibition: ~ te mo ii desu ka, ~ te wa ikemasen",
+    "ru": "Разрешение и запрет: ~ тэ мо ии дэс ка, ~ тэ ва икэмасэн",
+    "zh": "许可与禁止：〜てもいいですか・〜てはいけません",
+    "ja": "許可と禁止：〜てもいいですか・〜てはいけません",
+    "romaji": "Kyoka to kinshi: ~ te mo ii desu ka, ~ te wa ikemasen"
+  },
+  "sl12.subtitle": {
+    "en": "Learning the rules of a Kyoto temple",
+    "ru": "Узнаём правила киотоского храма",
+    "zh": "了解京都寺庙的规矩",
+    "ja": "京都のお寺の、ルールを知る",
+    "romaji": "Kyouto no otera no, ruuru o shiru"
+  },
+  "sl12.description": {
+    "en": "At a Kyoto temple, talk about rules using four patterns: ~te mo ii desu ka, ~te wa ikemasen, ~nakute mo ii desu, and ~nakereba narimasen.",
+    "ru": "В киотоском храме поговорите о правилах, используя четыре формы: «~тэ мо ии дэс ка», «~тэ ва икэмасэн», «~накутэ мо ии дэс» и «~накэрэба наримасэн».",
+    "zh": "在京都的寺庙里，用四个句型谈论规矩：〜てもいいですか、〜てはいけません、〜なくてもいいです、〜なければなりません。",
+    "ja": "京都のお寺で、「〜てもいいですか」「〜てはいけません」「〜なくてもいいです」「〜なければなりません」の四つの形を使って、ルールについて話します。",
+    "romaji": "Kyouto no otera de, '~ te mo ii desu ka' '~ te wa ikemasen' '~ nakute mo ii desu' '~ nakereba narimasen' no yottsu no katachi o tsukatte, ruuru ni tsuite hanashimasu."
+  },
+  "sl12.pattern.1": {
+    "en": "May I ~? (asking permission)",
+    "ru": "Можно мне ~? (просьба о разрешении)",
+    "zh": "我可以〜吗？（请求许可）",
+    "ja": "〜てもいいですか",
+    "romaji": "~ te mo ii desu ka"
+  },
+  "sl12.pattern.2": {
+    "en": "You must not ~ (prohibition)",
+    "ru": "Нельзя ~ (запрет)",
+    "zh": "不可以〜（禁止）",
+    "ja": "〜てはいけません",
+    "romaji": "~ te wa ikemasen"
+  },
+  "sl12.pattern.3": {
+    "en": "You don't have to ~",
+    "ru": "Не обязательно ~",
+    "zh": "不用〜也可以",
+    "ja": "〜なくてもいいです",
+    "romaji": "~ nakute mo ii desu"
+  },
+  "sl12.pattern.4": {
+    "en": "You must ~ (obligation)",
+    "ru": "Нужно ~ (обязанность)",
+    "zh": "必须〜",
+    "ja": "〜なければなりません",
+    "romaji": "~ nakereba narimasen"
+  },
+  "sl12.setup": {
+    "en": "An old temple in Kyoto. In front of the large gate, several signs stand. They read “Photos,” “Quiet, please,” and “Please take off your shoes.”",
+    "ru": "Старый храм в Киото. Перед большими воротами стоят несколько табличек. На них написано: «Фото», «Соблюдайте тишину» и «Пожалуйста, снимите обувь».",
+    "zh": "京都的一座古寺。大门前立着几块牌子，上面写着“照片”“请安静”“请脱鞋”。",
+    "ja": "京都の、古いお寺。大きな門の前に、いくつかの看板が立っている。「写真」「静かに」「靴をぬいでください」と書いてある。",
+    "romaji": "Kyouto no, furui otera. Ookina mon no mae ni, ikutsu ka no kanban ga tatte iru. 'Shashin' 'shizuka ni' 'kutsu o nuide kudasai' to kaite aru."
+  },
+  "sl12.t_intro": {
+    "en": "Today's theme is words for rules. Let's ask and talk in Japanese about what is allowed and what must not be done.",
+    "ru": "Тема сегодня — слова для правил. Давайте спрашивать и говорить по-японски о том, что можно и чего нельзя делать.",
+    "zh": "今天的主题是关于规矩的词。让我们用日语来问和说什么可以做、什么不可以做。",
+    "ja": "今日のテーマは、ルールの言葉です。していいこと、してはいけないことを、日本語で、聞いたり、言ったりしましょう。",
+    "romaji": "Kyou no teema wa, ruuru no kotoba desu. Shite ii koto, shite wa ikenai koto o, nihongo de, kiitari, ittari shimashou."
+  },
+  "sl12.s1_intro": {
+    "en": "To ask for permission, use “~ te mo ii desu ka.” Put the verb into its “te” form and add “mo ii desu ka.”",
+    "ru": "Чтобы спросить разрешение, используют «~ тэ мо ии дэс ка». Глагол ставят в форму «тэ» и добавляют «мо ии дэс ка».",
+    "zh": "请求许可时，用「〜てもいいですか」。把动词变成「て」形，再加上「もいいですか」。",
+    "ja": "許可を聞くときは、「〜てもいいですか」です。動詞を「て」の形にして、「もいいですか」をつけます。",
+    "romaji": "Kyoka o kiku toki wa, '~ te mo ii desu ka' desu. Doushi o 'te' no katachi ni shite, 'mo ii desu ka' o tsukemasu."
+  },
+  "sl12.s1_ex": {
+    "en": "May I take a photo here? May I sit here?",
+    "ru": "Можно ли здесь сфотографировать? Можно ли здесь сесть?",
+    "zh": "可以在这里拍照吗？可以坐在这里吗？",
+    "ja": "ここで、写真を、撮ってもいいですか？ここに、座ってもいいですか？",
+    "romaji": "Koko de, shashin o, totte mo ii desu ka? Koko ni, suwatte mo ii desu ka?"
+  },
+  "sl12.s1_q1": {
+    "en": "Is “shashin o, totte ii desu ka?” a mistake?",
+    "ru": "«Сясин о, тоттэ ии дэс ка?» — ошибка?",
+    "zh": "「写真を、撮っていいですか？」是错的吗？",
+    "ja": "「写真を、撮っていいですか？」は、まちがいですか？",
+    "romaji": "'Shashin o, totte ii desu ka?' wa, machigai desu ka?"
+  },
+  "sl12.s1_a1": {
+    "en": "It's not a mistake. In conversation with friends, people often skip “mo” and say “totte ii?” But to strangers or shop staff, “totte mo ii desu ka” is more polite.",
+    "ru": "Это не ошибка. В разговоре с друзьями часто опускают «мо» и говорят «тоттэ ии?». Но незнакомым людям и сотрудникам магазинов вежливее сказать «тоттэ мо ии дэс ка».",
+    "zh": "不是错误。和朋友聊天时，常常会省略「も」，说「撮っていい？」。不过对陌生人或店员，说「撮ってもいいですか」更礼貌。",
+    "ja": "まちがいではありません。友達との会話では、「撮っていい？」と、「も」を言わないことも、よくあります。でも、知らない人や、お店の人には、「撮ってもいいですか」が、ていねいです。",
+    "romaji": "Machigai de wa arimasen. Tomodachi to no kaiwa de wa, 'totte ii?' to, 'mo' o iwanai koto mo, yoku arimasu. Demo, shiranai hito ya, omise no hito ni wa, 'totte mo ii desu ka' ga, teinei desu."
+  },
+  "sl12.s1_q2": {
+    "en": "How do you answer?",
+    "ru": "Как отвечать?",
+    "zh": "该怎么回答？",
+    "ja": "答えは、どう言いますか？",
+    "romaji": "Kotae wa, dou iimasu ka?"
+  },
+  "sl12.s1_a2": {
+    "en": "When it's fine, you say “hai, ii desu yo” or “douzo.” When it's not, you say “sumimasen, chotto...” or “iie, ikemasen.” “Ikemasen” is a strong phrase.",
+    "ru": "Если можно, говорят «хай, ии дэс ё» или «доудзо». Если нельзя — «сумимасэн, чотто…» или «ииэ, икэмасэн». «Икэмасэн» — резкая фраза.",
+    "zh": "可以的时候，说「はい、いいですよ」「どうぞ」。不行的时候，说「すみません、ちょっと……」或「いいえ、いけません」。「いけません」是很强硬的说法。",
+    "ja": "いいときは、「はい、いいですよ」「どうぞ」です。だめなときは、「すみません、ちょっと…」や、「いいえ、いけません」と言います。「いけません」は、強い言葉です。",
+    "romaji": "Ii toki wa, 'hai, ii desu yo' 'douzo' desu. Dame na toki wa, 'sumimasen, chotto...' ya, 'iie, ikemasen' to iimasu. 'Ikemasen' wa, tsuyoi kotoba desu."
+  },
+  "sl12.gate": {
+    "en": "At the temple entrance, a beautiful garden can be seen. Everyone seems to want to take photos. A receptionist stands there smiling.",
+    "ru": "У входа в храм виден красивый сад. Похоже, все хотят сфотографировать. Сотрудник регистратуры стоит и улыбается.",
+    "zh": "在寺庙入口，可以看到一座漂亮的庭园。大家似乎都想拍照。接待人员面带微笑地站在那里。",
+    "ja": "お寺の入り口に、きれいな庭が見える。みんなは、写真を撮りたいようだ。受付の人が、笑顔で、立っている。",
+    "romaji": "Otera no iriguchi ni, kirei na niwa ga mieru. Minna wa, shashin o toritai you da. Uketsuke no hito ga, egao de, tatte iru."
+  },
+  "sl12.p1_prompt": {
+    "en": "You want to take a photo of the garden. Please ask the receptionist. What do you say?",
+    "ru": "Вы хотите сфотографировать сад. Спросите у сотрудника регистратуры. Что вы скажете?",
+    "zh": "你想给庭园拍照。请询问接待人员。你会怎么说？",
+    "ja": "あなたは、庭の写真を、撮りたいです。受付の人に、聞いてください。何と言いますか？",
+    "romaji": "Anata wa, niwa no shashin o, toritai desu. Uketsuke no hito ni, kiite kudasai. Nan to iimasu ka?"
+  },
+  "sl12.c1_natural": {
+    "en": "“Excuse me, may I take a photo of the garden?”",
+    "ru": "«Извините, можно ли сфотографировать сад?»",
+    "zh": "“不好意思，可以给庭园拍照吗？”",
+    "ja": "「すみません、庭の写真を、撮ってもいいですか？」",
+    "romaji": "'Sumimasen, niwa no shashin o, totte mo ii desu ka?'"
+  },
+  "sl12.c1_formal": {
+    "en": "“Pardon me, but might I be granted permission to photograph the garden?”",
+    "ru": "«Прошу прощения, не будете ли вы так любезны разрешить фотосъёмку сада?»",
+    "zh": "“打扰了，能否请您允许拍摄庭园？”",
+    "ja": "「恐れ入りますが、庭園の撮影を、お許しいただけますでしょうか。」",
+    "romaji": "'Osoreirimasu ga, teien no satsuei o, oyurushi itadakemasu deshou ka.'"
+  },
+  "sl12.c1_mistake": {
+    "en": "“Excuse me, taking-stem also okay?”",
+    "ru": "«Извините, можно ли (основа) тоже?»",
+    "zh": "“不好意思，庭园的照片，撮りもいいですか？”（没有变成て形）",
+    "ja": "「すみません、庭の写真を、撮りもいいですか？」",
+    "romaji": "'Sumimasen, niwa no shashin o, tori mo ii desu ka?'"
+  },
+  "sl12.c1_own": {
+    "en": "“Excuse me, may I take a photo of the garden? I won't photograph people.”",
+    "ru": "«Извините, можно ли сфотографировать сад? Людей я снимать не буду».",
+    "zh": "“不好意思，可以给庭园拍照吗？我不会拍到人。”",
+    "ja": "「すみません、庭の写真を、撮ってもいいですか？人は、うつしません。」",
+    "romaji": "'Sumimasen, niwa no shashin o, totte mo ii desu ka? Hito wa, utsushimasen.'"
+  },
+  "sl12.c1_min": {
+    "en": "“Um... photo... okay...”",
+    "ru": "«Э-э… фото… можно…»",
+    "zh": "“呃……照片……可以吗……”",
+    "ja": "「あの…写真…いいですか…」",
+    "romaji": "'Ano... shashin... ii desu ka...'"
+  },
+  "sl12.p1_nat_yuki": {
+    "en": "The receptionist said, “Yes, the garden is fine. But not inside.”",
+    "ru": "Сотрудник регистратуры сказал: «Да, сад можно. Но внутри нельзя».",
+    "zh": "接待人员说：“可以，庭园可以拍。但是里面不行。”",
+    "ja": "受付の人が、「はい、庭は、いいですよ。でも、中は、だめです」と言いました。",
+    "romaji": "Uketsuke no hito ga, 'hai, niwa wa, ii desu yo. Demo, naka wa, dame desu' to iimashita."
+  },
+  "sl12.p1_form_ken": {
+    "en": "Haha, the receptionist looks a bit troubled. “Totte mo ii desu ka” is fine.",
+    "ru": "Ха-ха, сотрудник регистратуры слегка растерялся. Достаточно «тоттэ мо ии дэс ка».",
+    "zh": "哈哈，接待人员有点不知所措了。说「撮ってもいいですか」就行。",
+    "ja": "あはは、受付の人が、少し、こまっていますよ。「撮ってもいいですか」で、いいです。",
+    "romaji": "Ahaha, uketsuke no hito ga, sukoshi, komatte imasu yo. 'Totte mo ii desu ka' de, ii desu."
+  },
+  "sl12.p1_mis_tanaka": {
+    "en": "Close. Before “mo ii desu ka,” you need the “te” form. Not “tori,” but “totte.” You say “totte mo ii desu ka.”",
+    "ru": "Почти. Перед «мо ии дэс ка» нужна форма «тэ». Не «тори», а «тоттэ». Говорят «тоттэ мо ии дэс ка».",
+    "zh": "很接近。「もいいですか」前面要用「て」形。不是「撮り」，而是「撮って」。说「撮ってもいいですか」。",
+    "ja": "惜しいです。「もいいですか」の前は、「て」の形です。「撮り」ではなく、「撮って」です。「撮ってもいいですか」と言います。",
+    "romaji": "Oshii desu. 'Mo ii desu ka' no mae wa, 'te' no katachi desu. 'Tori' de wa naku, 'totte' desu. 'Totte mo ii desu ka' to iimasu."
+  },
+  "sl12.p1_mis_retry": {
+    "en": "Oh, excuse me, may I take a photo of the garden?",
+    "ru": "Ой, извините, можно ли сфотографировать сад?",
+    "zh": "啊，不好意思，可以给庭园拍照吗？",
+    "ja": "あっ、すみません、庭の写真を、撮ってもいいですか？",
+    "romaji": "A, sumimasen, niwa no shashin o, totte mo ii desu ka?"
+  },
+  "sl12.p1_mis_relief": {
+    "en": "Yes, that's it. With the “te” form, it's perfect.",
+    "ru": "Да, именно так. С формой «тэ» всё отлично.",
+    "zh": "对，就是这个。用「て」形就完美了。",
+    "ja": "はい、それです。「て」の形で、ばっちりです。",
+    "romaji": "Hai, sore desu. 'Te' no katachi de, batchiri desu."
+  },
+  "sl12.p1_own_yuki": {
+    "en": "The receptionist said, “Thank you. The garden is fine.”",
+    "ru": "Сотрудник регистратуры сказал: «Спасибо. Сад можно».",
+    "zh": "接待人员说：“谢谢您。庭园可以拍。”",
+    "ja": "受付の人は、「ありがとうございます。庭は、いいですよ」と、言いました。",
+    "romaji": "Uketsuke no hito wa, 'arigatou gozaimasu. Niwa wa, ii desu yo' to, iimashita."
+  },
+  "sl12.p1_min_mei": {
+    "en": "I understand. Try saying the whole sentence: “shashin o, totte mo ii desu ka?”",
+    "ru": "Понимаю. Скажите целым предложением: «сясин о, тоттэ мо ии дэс ка?».",
+    "zh": "我明白。试着把整句话说完整：「写真を、撮ってもいいですか？」",
+    "ja": "分かりますよ。「写真を、撮ってもいいですか？」と、全部言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Shashin o, totte mo ii desu ka?' to, zenbu itte mimashou."
+  },
+  "sl12.inside": {
+    "en": "They step inside the temple. In a quiet room, Ken is about to take a rice ball out of his bag.",
+    "ru": "Они вошли в храм. В тихой комнате Кен собирается достать из сумки онигири.",
+    "zh": "走进了寺庙里面。在一间安静的房间里，健正要从包里拿出饭团。",
+    "ja": "お寺の中に入った。しずかな部屋で、ケンが、かばんから、おにぎりを、出そうとしている。",
+    "romaji": "Otera no naka ni haitta. Shizuka na heya de, Ken ga, kaban kara, onigiri o, dasou to shite iru."
+  },
+  "sl12.s2_intro": {
+    "en": "To say what must not be done, use “~ te wa ikemasen.” Add “wa ikemasen” to the “te” form.",
+    "ru": "Чтобы сказать, чего делать нельзя, используют «~ тэ ва икэмасэн». К форме «тэ» добавляют «ва икэмасэн».",
+    "zh": "说不可以做的事时，用「〜てはいけません」。在「て」形后面加上「はいけません」。",
+    "ja": "してはいけないことを言うときは、「〜てはいけません」です。「て」の形に、「はいけません」をつけます。",
+    "romaji": "Shite wa ikenai koto o iu toki wa, '~ te wa ikemasen' desu. 'Te' no katachi ni, 'wa ikemasen' o tsukemasu."
+  },
+  "sl12.s2_ex": {
+    "en": "You must not eat inside the temple. You must not take photos. You must not speak in a loud voice.",
+    "ru": "В храме нельзя есть. Нельзя фотографировать. Нельзя говорить громким голосом.",
+    "zh": "在寺庙里不可以吃东西。不可以拍照。不可以大声说话。",
+    "ja": "お寺の中で、食べてはいけません。写真を、撮ってはいけません。大きな声で、話してはいけません。",
+    "romaji": "Otera no naka de, tabete wa ikemasen. Shashin o, totte wa ikemasen. Ookina koe de, hanashite wa ikemasen."
+  },
+  "sl12.s2_q1": {
+    "en": "Is it the same as “tabete wa dame desu”?",
+    "ru": "Это то же самое, что «табэтэ ва дамэ дэс»?",
+    "zh": "和「食べてはだめです」一样吗？",
+    "ja": "「食べてはだめです」と、同じですか？",
+    "romaji": "'Tabete wa dame desu' to, onaji desu ka?"
+  },
+  "sl12.s2_a1": {
+    "en": "The meaning is almost the same. “Dame desu” is a slightly more casual way of saying it. Signs and shop staff often use “ikemasen.”",
+    "ru": "Значение почти одинаковое. «Дамэ дэс» — немного более разговорная форма. На табличках и сотрудники магазинов часто используют «икэмасэн».",
+    "zh": "意思几乎相同。「だめです」是稍微随意一些的说法。牌子和店员常用「いけません」。",
+    "ja": "意味は、ほとんど同じです。「だめです」は、少しくだけた言い方です。看板や、お店の人は、「いけません」を、よく使います。",
+    "romaji": "Imi wa, hotondo onaji desu. 'Dame desu' wa, sukoshi kudaketa iikata desu. Kanban ya, omise no hito wa, 'ikemasen' o, yoku tsukaimasu."
+  },
+  "sl12.s2_q2": {
+    "en": "Is it okay to say “~ te wa ikemasen” to a teacher too?",
+    "ru": "Можно ли сказать «~ тэ ва икэмасэн» и учителю?",
+    "zh": "可以对老师也说「〜てはいけません」吗？",
+    "ja": "先生にも、「〜てはいけません」と言っていいですか？",
+    "romaji": "'Sensei ni mo, '~ te wa ikemasen' to itte ii desu ka?"
+  },
+  "sl12.s2_a2": {
+    "en": "No, you don't use it with people senior to you. It is very strong. With them, you use “~ naide kudasai.” It is a phrase used with friends and children.",
+    "ru": "Нет, старшим по положению его не говорят. Оно очень резкое. С ними используют «~ найдэ кудасай». Это фраза для друзей и детей.",
+    "zh": "不用。对长辈不能用，因为语气很强硬。对长辈要用「〜ないでください」。这是对朋友或孩子使用的说法。",
+    "ja": "いいえ、目上の人には、使いません。とても強いからです。目上の人には、「〜ないでください」を使います。友達や、子どもに、使う言葉です。",
+    "romaji": "Iie, meue no hito ni wa, tsukaimasen. Totemo tsuyoi kara desu. Meue no hito ni wa, '~ naide kudasai' o tsukaimasu. Tomodachi ya, kodomo ni, tsukau kotoba desu."
+  },
+  "sl12.p2_prompt": {
+    "en": "Ken is about to take out a rice ball. You must not eat inside the temple. Please warn Ken as a friend. What do you say?",
+    "ru": "Кен собирается достать онигири. В храме есть нельзя. Предупредите Кена как друг. Что вы скажете?",
+    "zh": "健正要拿出饭团。在寺庙里不可以吃东西。请以朋友的身份提醒健。你会怎么说？",
+    "ja": "ケンさんが、おにぎりを、出そうとしています。お寺の中では、食べてはいけません。ケンさんに、友達として、注意してください。何と言いますか？",
+    "romaji": "Ken-san ga, onigiri o, dasou to shite imasu. Otera no naka de wa, tabete wa ikemasen. Ken-san ni, tomodachi to shite, chuui shite kudasai. Nan to iimasu ka?"
+  },
+  "sl12.c2_natural": {
+    "en": "“Ken, you must not eat here.”",
+    "ru": "«Кен, здесь нельзя есть».",
+    "zh": "“健，这里不可以吃东西哦。”",
+    "ja": "「ケンさん、ここで、食べてはいけませんよ。」",
+    "romaji": "'Ken-san, koko de, tabete wa ikemasen yo.'"
+  },
+  "sl12.c2_formal": {
+    "en": "“Pardon me, but we would humbly request that you refrain from eating or drinking on the premises.”",
+    "ru": "«Прошу прощения, покорнейше просим воздержаться от еды и питья на территории храма».",
+    "zh": "“打扰了，恳请您在本院内不要饮食。”",
+    "ja": "「恐れ入りますが、当院での飲食は、ご遠慮いただきたく存じます。」",
+    "romaji": "'Osoreirimasu ga, touin de no inshoku wa, goenryo itadakitaku zonjimasu.'"
+  },
+  "sl12.c2_mistake": {
+    "en": "“Ken, eating (dictionary form) isn't allowed here.”",
+    "ru": "«Кен, здесь есть (словарная форма) нельзя».",
+    "zh": "“健，这里食べるはいけません。”（没有用て形）",
+    "ja": "「ケンさん、ここで、食べるはいけません。」",
+    "romaji": "'Ken-san, koko de, taberu wa ikemasen.'"
+  },
+  "sl12.c2_own": {
+    "en": "“Ken, you must not eat here. Let's eat outside.”",
+    "ru": "«Кен, здесь нельзя есть. Давайте поедим снаружи».",
+    "zh": "“健，这里不可以吃东西哦。我们去外面吃吧。”",
+    "ja": "「ケンさん、ここで、食べてはいけませんよ。外で、食べましょう。」",
+    "romaji": "'Ken-san, koko de, tabete wa ikemasen yo. Soto de, tabemashou.'"
+  },
+  "sl12.c2_min": {
+    "en": "“Ken... here... eat... no...”",
+    "ru": "«Кен… здесь… есть… нельзя…»",
+    "zh": "“健……这里……吃……不行……”",
+    "ja": "「ケンさん…ここ…食べて…だめ…」",
+    "romaji": "'Ken-san... koko... tabete... dame...'"
+  },
+  "sl12.p2_nat_ken": {
+    "en": "Oh, you're right. Sorry. I'll eat outside.",
+    "ru": "Ах, верно. Простите. Я поем снаружи.",
+    "zh": "啊，对哦。对不起。我去外面吃。",
+    "ja": "あっ、そうですね。すみません。外で、食べます。",
+    "romaji": "A, sou desu ne. Sumimasen. Soto de, tabemasu."
+  },
+  "sl12.p2_form_mei": {
+    "en": "Ha, you sound like temple staff. With a friend, “tabete wa ikemasen yo” is fine.",
+    "ru": "Ха-ха, как сотрудник храма. Другу достаточно «табэтэ ва икэмасэн ё».",
+    "zh": "呵呵，像寺庙里的人一样。对朋友说「食べてはいけませんよ」就行。",
+    "ja": "ふふ、お寺の人みたいです。友達には、「食べてはいけませんよ」で、いいですよ。",
+    "romaji": "Fufu, otera no hito mitai desu. Tomodachi ni wa, 'tabete wa ikemasen yo' de, ii desu yo."
+  },
+  "sl12.p2_mis_tanaka": {
+    "en": "Close. Before “wa ikemasen,” you need the “te” form. Not “taberu,” but “tabete.” You say “tabete wa ikemasen.”",
+    "ru": "Почти. Перед «ва икэмасэн» нужна форма «тэ». Не «табэру», а «табэтэ». Говорят «табэтэ ва икэмасэн».",
+    "zh": "很接近。「はいけません」前面要用「て」形。不是「食べる」，而是「食べて」。说「食べてはいけません」。",
+    "ja": "惜しいです。「はいけません」の前は、「て」の形です。「食べる」ではなく、「食べて」です。「食べてはいけません」と言います。",
+    "romaji": "Oshii desu. 'Wa ikemasen' no mae wa, 'te' no katachi desu. 'Taberu' de wa naku, 'tabete' desu. 'Tabete wa ikemasen' to iimasu."
+  },
+  "sl12.p2_mis_retry": {
+    "en": "Oh, Ken, you must not eat here.",
+    "ru": "Ой, Кен, здесь нельзя есть.",
+    "zh": "啊，健，这里不可以吃东西哦。",
+    "ja": "あっ、ケンさん、ここで、食べてはいけませんよ。",
+    "romaji": "A, Ken-san, koko de, tabete wa ikemasen yo."
+  },
+  "sl12.p2_mis_relief": {
+    "en": "Yes, understood. Thank you.",
+    "ru": "Да, понял. Спасибо.",
+    "zh": "好的，明白了。谢谢。",
+    "ja": "はい、分かりました。ありがとうございます。",
+    "romaji": "Hai, wakarimashita. Arigatou gozaimasu."
+  },
+  "sl12.p2_own_ken": {
+    "en": "Let's do that. There was a bench outside the garden.",
+    "ru": "Давайте так и сделаем. За садом была скамейка.",
+    "zh": "就这么办。庭园外面有长椅呢。",
+    "ja": "そうしましょう。庭の外に、ベンチがありましたね。",
+    "romaji": "Sou shimashou. Niwa no soto ni, benchi ga arimashita ne."
+  },
+  "sl12.p2_min_yuki": {
+    "en": "Your feeling comes across. Try saying it clearly: “tabete wa ikemasen.”",
+    "ru": "Ваше желание понятно. Скажите чётко: «табэтэ ва икэмасэн».",
+    "zh": "你的心意能传达。试着清楚地说：「食べてはいけません」。",
+    "ja": "気持ちは、伝わりますよ。「食べてはいけません」と、はっきり言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu yo. 'Tabete wa ikemasen' to, hakkiri itte mimashou."
+  },
+  "sl12.s3_intro": {
+    "en": "Next is “~ nakute mo ii desu.” It means “it's fine even if you don't,” that is, “there is no need to.”",
+    "ru": "Дальше — «~ накутэ мо ии дэс». Оно означает «можно и не делать», то есть «в этом нет необходимости».",
+    "zh": "接下来是「〜なくてもいいです」。意思是“不做也可以”，也就是“没有必要做”。",
+    "ja": "次は、「〜なくてもいいです」です。「しなくても、いい」、つまり、「する必要はありません」という意味です。",
+    "romaji": "Tsugi wa, '~ nakute mo ii desu' desu. 'Shinakute mo, ii', tsumari, 'suru hitsuyou wa arimasen' to iu imi desu."
+  },
+  "sl12.s3_ex": {
+    "en": "Remove the “i” from the “nai” form and add “kute.” “Kawanai” becomes “kawanakute.” “Nyuujouryou wa, harawanakute mo ii desu,” meaning you don't have to pay the entrance fee.",
+    "ru": "Уберите «и» из формы «най» и добавьте «куте». «Каванай» превращается в «каванакуте». «Ню:дзё:рё: ва, харавананакутэ мо ии дэс» — плату за вход платить не нужно.",
+    "zh": "去掉「ない」形里的「い」，加上「くて」。「買わない」变成「買わなくて」。「入場料は、はらわなくてもいいです」，即不用付门票钱。",
+    "ja": "「ない」の形の「い」を取って、「くて」をつけます。「買わない」は「買わなくて」です。「入場料は、はらわなくてもいいです」。",
+    "romaji": "'Nai' no katachi no 'i' o totte, 'kute' o tsukemasu. 'Kawanai' wa 'kawanakute' desu. 'Nyuujouryou wa, harawanakute mo ii desu'."
+  },
+  "sl12.s3_q1": {
+    "en": "Is “naide mo ii” a mistake?",
+    "ru": "«Найдэ мо ии» — ошибка?",
+    "zh": "「ないでもいい」是错的吗？",
+    "ja": "「ないでもいい」は、まちがいですか？",
+    "romaji": "'Naide mo ii' wa, machigai desu ka?"
+  },
+  "sl12.s3_a1": {
+    "en": "Some people also use “kawanai de mo ii.” But the most standard form is “kawanakute mo ii.” Let's learn this one first.",
+    "ru": "Некоторые используют и «каванай дэ мо ии». Но самая стандартная форма — «каванакутэ мо ии». Давайте сначала запомним её.",
+    "zh": "也有人说「買わないでもいい」。不过最普通的形式是「買わなくてもいい」。我们先记住这个。",
+    "ja": "「買わないでもいい」も、使う人がいます。でも、いちばん、ふつうの形は、「買わなくてもいい」です。まず、こちらを、覚えましょう。",
+    "romaji": "'Kawanai de mo ii' mo, tsukau hito ga imasu. Demo, ichiban, futsuu no katachi wa, 'kawanakute mo ii' desu. Mazu, kochira o, oboemashou."
+  },
+  "sl12.s3_q2": {
+    "en": "Can you also ask with “~ nakute mo ii desu ka”?",
+    "ru": "Можно ли спросить и с помощью «~ накутэ мо ии дэс ка»?",
+    "zh": "也可以用「〜なくてもいいですか」来问吗？",
+    "ja": "「〜なくてもいいですか」で、聞くこともできますか？",
+    "romaji": "'~ nakute mo ii desu ka' de, kiku koto mo dekimasu ka?"
+  },
+  "sl12.s3_a2": {
+    "en": "Yes, you can. You ask, “Chiketto o, kawanakute mo ii desu ka?” The answer is “hai, ii desu yo” or “iie, kawanakereba narimasen.”",
+    "ru": "Да, можно. Спрашивают: «Тикэтто о, каванакутэ мо ии дэс ка?» Ответ: «хай, ии дэс ё» или «ииэ, каванакэрэба наримасэн».",
+    "zh": "可以。问「チケットを、買わなくてもいいですか？」。回答是「はい、いいですよ」或「いいえ、買わなければなりません」。",
+    "ja": "はい、できます。「チケットを、買わなくてもいいですか？」と、聞きます。答えは、「はい、いいですよ」か、「いいえ、買わなければなりません」です。",
+    "romaji": "Hai, dekimasu. 'Chiketto o, kawanakute mo ii desu ka?' to, kikimasu. Kotae wa, 'hai, ii desu yo' ka, 'iie, kawanakereba narimasen' desu."
+  },
+  "sl12.p3_prompt": {
+    "en": "There is a ticket window at the temple entrance. But a sign says, “Free today.” You want to ask whether you don't have to buy a ticket. What do you say?",
+    "ru": "У входа в храм есть билетная касса. Но на табличке написано: «Сегодня бесплатно». Вы хотите спросить, не нужно ли покупать билет. Что вы скажете?",
+    "zh": "寺庙入口有售票处。不过上面写着“今日免费”。你想问问是不是不用买票。你会怎么说？",
+    "ja": "お寺の入り口に、切符売り場があります。でも、「今日は、無料です」と書いてあります。あなたは、切符を買わなくてもいいか、聞きたいです。何と言いますか？",
+    "romaji": "Otera no iriguchi ni, kippu uriba ga arimasu. Demo, 'kyou wa, muryou desu' to kaite arimasu. Anata wa, kippu o kawanakute mo ii ka, kikitai desu. Nan to iimasu ka?"
+  },
+  "sl12.c3_natural": {
+    "en": "“Excuse me, don't I have to buy a ticket?”",
+    "ru": "«Извините, разве не нужно покупать билет?»",
+    "zh": "“不好意思，不用买票也可以吗？”",
+    "ja": "「すみません、切符を、買わなくてもいいですか？」",
+    "romaji": "'Sumimasen, kippu o, kawanakute mo ii desu ka?'"
+  },
+  "sl12.c3_formal": {
+    "en": "“Pardon me, but is it acceptable not to purchase an admission ticket?”",
+    "ru": "«Прошу прощения, допустимо ли не приобретать входной билет?»",
+    "zh": "“打扰了，请问不用购买参观券也可以吗？”",
+    "ja": "「恐れ入りますが、拝観券は、ご購入いただかなくても、よろしいのでしょうか。」",
+    "romaji": "'Osoreirimasu ga, haikenken wa, gokounyuu itadakanakute mo, yoroshii no deshou ka.'"
+  },
+  "sl12.c3_mistake": {
+    "en": "“Excuse me, kau-nakute is fine?”",
+    "ru": "«Извините, ками-накутэ можно?»",
+    "zh": "“不好意思，买うなくてもいいですか？”（没有用ない形）",
+    "ja": "「すみません、切符を、買うなくてもいいですか？」",
+    "romaji": "'Sumimasen, kippu o, kau nakute mo ii desu ka?'"
+  },
+  "sl12.c3_own": {
+    "en": "“Excuse me, is it free today? Don't I have to buy a ticket?”",
+    "ru": "«Извините, сегодня бесплатно? Билет покупать не нужно?»",
+    "zh": "“不好意思，今天免费吗？不用买票也可以吗？”",
+    "ja": "「すみません、今日は、無料ですか？切符を、買わなくてもいいですか？」",
+    "romaji": "'Sumimasen, kyou wa, muryou desu ka? Kippu o, kawanakute mo ii desu ka?'"
+  },
+  "sl12.c3_min": {
+    "en": "“Ticket... not buy... okay?”",
+    "ru": "«Билет… не покупать… можно?»",
+    "zh": "“票……不买……可以？”",
+    "ja": "「切符…買わない…いい？」",
+    "romaji": "'Kippu... kawanai... ii?'"
+  },
+  "sl12.p3_nat_yuki": {
+    "en": "The receptionist said, “Yes, you don't have to buy one today.”",
+    "ru": "Сотрудник регистратуры сказал: «Да, сегодня покупать не нужно».",
+    "zh": "接待人员说：“是的，今天不用买也可以。”",
+    "ja": "受付の人が、「はい、今日は、買わなくてもいいですよ」と、言いました。",
+    "romaji": "Uketsuke no hito ga, 'hai, kyou wa, kawanakute mo ii desu yo' to, iimashita."
+  },
+  "sl12.p3_form_ken": {
+    "en": "Haha, that's far too difficult. “Kawanakute mo ii desu ka” is fine.",
+    "ru": "Ха-ха, это слишком сложно. Достаточно «каванакутэ мо ии дэс ка».",
+    "zh": "哈哈，太难了。说「買わなくてもいいですか」就行。",
+    "ja": "あはは、むずかしすぎます。「買わなくてもいいですか」で、大丈夫ですよ。",
+    "romaji": "Ahaha, muzukashisugimasu. 'Kawanakute mo ii desu ka' de, daijoubu desu yo."
+  },
+  "sl12.p3_mis_tanaka": {
+    "en": "Close. Before “nakute,” you need the “nai” form. Not “kau,” but “kawa.” You say “kawanakute mo ii desu ka.”",
+    "ru": "Почти. Перед «накутэ» нужна форма «най». Не «кау», а «кава». Говорят «каванакутэ мо ии дэс ка».",
+    "zh": "很接近。「なくて」前面要用「ない」形。不是「買う」，而是「買わ」。说「買わなくてもいいですか」。",
+    "ja": "惜しいです。「なくて」の前は、「ない」の形です。「買う」ではなく、「買わ」です。「買わなくてもいいですか」と言います。",
+    "romaji": "Oshii desu. 'Nakute' no mae wa, 'nai' no katachi desu. 'Kau' de wa naku, 'kawa' desu. 'Kawanakute mo ii desu ka' to iimasu."
+  },
+  "sl12.p3_mis_retry": {
+    "en": "Oh, excuse me, don't I have to buy a ticket?",
+    "ru": "Ой, извините, разве не нужно покупать билет?",
+    "zh": "啊，不好意思，不用买票也可以吗？",
+    "ja": "あっ、すみません、切符を、買わなくてもいいですか？",
+    "romaji": "A, sumimasen, kippu o, kawanakute mo ii desu ka?"
+  },
+  "sl12.p3_mis_relief": {
+    "en": "Yes, that's it. You formed the “nai” form correctly.",
+    "ru": "Да, именно так. Вы правильно образовали форму «най».",
+    "zh": "对，就是这个。「ない」形你构成得很正确。",
+    "ja": "はい、それです。「ない」の形が、正しく作れましたね。",
+    "romaji": "Hai, sore desu. 'Nai' no katachi ga, tadashiku tsukuremashita ne."
+  },
+  "sl12.p3_own_yuki": {
+    "en": "The receptionist said with a smile, “Yes, it's free today.”",
+    "ru": "Сотрудник регистратуры с улыбкой сказал: «Да, сегодня бесплатно».",
+    "zh": "接待人员笑着说：“是的，今天免费。”",
+    "ja": "受付の人は、「はい、今日は、無料です」と、笑顔で言いました。",
+    "romaji": "Uketsuke no hito wa, 'hai, kyou wa, muryou desu' to, egao de iimashita."
+  },
+  "sl12.p3_min_mei": {
+    "en": "The meaning gets across. Try asking a full sentence: “kippu o, kawanakute mo ii desu ka?”",
+    "ru": "Смысл понятен. Спросите целым предложением: «киппу о, каванакутэ мо ии дэс ка?».",
+    "zh": "意思能传达。试着用完整的句子问：「切符を、買わなくてもいいですか？」",
+    "ja": "意味は、伝わりますよ。「切符を、買わなくてもいいですか？」と、文で聞いてみましょう。",
+    "romaji": "Imi wa, tsutawarimasu yo. 'Kippu o, kawanakute mo ii desu ka?' to, bun de kiite mimashou."
+  },
+  "sl12.hall": {
+    "en": "The long corridor of the temple. From here on, the floor is wooden. In front of the entrance, there is a place to leave your shoes.",
+    "ru": "Длинный коридор храма. Дальше пол деревянный. Перед входом есть место, куда оставляют обувь.",
+    "zh": "寺庙长长的走廊。从这里往里是木地板。入口前有放鞋的地方。",
+    "ja": "お寺の、長い廊下。ここから先は、木の床だ。入り口の前に、靴を置く場所がある。",
+    "romaji": "Otera no, nagai rouka. Koko kara saki wa, ki no yuka da. Iriguchi no mae ni, kutsu o oku basho ga aru."
+  },
+  "sl12.s4_intro": {
+    "en": "The last is “~ nakereba narimasen.” It means “you absolutely must do it.” Remove the “i” from the “nai” form and add “nakereba narimasen.”",
+    "ru": "Последнее — «~ накэрэба наримасэн». Оно означает «вы обязательно должны это сделать». Уберите «и» из формы «най» и добавьте «накэрэба наримасэн».",
+    "zh": "最后是「〜なければなりません」。意思是“必须做”。去掉「ない」形里的「い」，加上「なければなりません」。",
+    "ja": "最後は、「〜なければなりません」です。「必ず、しなければならない」という意味です。「ない」の形の「い」を取って、「なければなりません」をつけます。",
+    "romaji": "Saigo wa, '~ nakereba narimasen' desu. 'Kanarazu, shinakereba naranai' to iu imi desu. 'Nai' no katachi no 'i' o totte, 'nakereba narimasen' o tsukemasu."
+  },
+  "sl12.s4_ex": {
+    "en": "When you enter the temple, you must take off your shoes. Here, you must walk quietly.",
+    "ru": "Когда входишь в храм, нужно снять обувь. Здесь нужно ходить тихо.",
+    "zh": "进入寺庙时，必须脱鞋。在这里，必须安静地走路。",
+    "ja": "お寺に入るときは、靴を、脱がなければなりません。ここでは、しずかに、歩かなければなりません。",
+    "romaji": "Otera ni hairu toki wa, kutsu o, nuganakereba narimasen. Koko de wa, shizuka ni, arukanakereba narimasen."
+  },
+  "sl12.s4_q1": {
+    "en": "Are “~ te wa ikemasen” and “~ nakereba narimasen” opposites?",
+    "ru": "«~ тэ ва икэмасэн» и «~ накэрэба наримасэн» — противоположности?",
+    "zh": "「〜てはいけません」和「〜なければなりません」是反义的吗？",
+    "ja": "「〜てはいけません」と、「〜なければなりません」は、反対ですか？",
+    "romaji": "'~ te wa ikemasen' to, '~ nakereba narimasen' wa, hantai desu ka?"
+  },
+  "sl12.s4_a1": {
+    "en": "Slightly different. “~ te wa ikemasen” is a prohibition, “don't do it.” “~ nakereba narimasen” is an obligation, “do it.” They feel like the front and back of the same rule.",
+    "ru": "Немного иначе. «~ тэ ва икэмасэн» — запрет «не делай». «~ накэрэба наримасэн» — обязанность «делай». Это как лицевая и оборотная стороны одного правила.",
+    "zh": "有点不同。「〜てはいけません」是“不要做”的禁止。「〜なければなりません」是“要做”的义务。就像同一条规矩的正面和反面。",
+    "ja": "少しちがいます。「〜てはいけません」は、「するな」という禁止です。「〜なければなりません」は、「しろ」という義務です。同じルールの、表と裏、という感じです。",
+    "romaji": "Sukoshi chigaimasu. '~ te wa ikemasen' wa, 'suru na' to iu kinshi desu. '~ nakereba narimasen' wa, 'shiro' to iu gimu desu. Onaji ruuru no, omote to ura, to iu kanji desu."
+  },
+  "sl12.s4_q2": {
+    "en": "Is “~ nakute mo ii desu” the opposite of “~ nakereba narimasen”?",
+    "ru": "«~ накутэ мо ии дэс» — противоположность «~ накэрэба наримасэн»?",
+    "zh": "「〜なくてもいいです」是「〜なければなりません」的反义吗？",
+    "ja": "「〜なくてもいいです」は、「〜なければなりません」の、反対ですか？",
+    "romaji": "'~ nakute mo ii desu' wa, '~ nakereba narimasen' no, hantai desu ka?"
+  },
+  "sl12.s4_a2": {
+    "en": "Exactly. “Kutsu o nuganakereba narimasen” and “kutsu o nuganakute mo ii desu” have opposite meanings. Let's listen carefully to tell the rules apart.",
+    "ru": "Именно. «Кцу о нуганакэрэба наримасэн» и «кцу о нуганакутэ мо ии дэс» имеют противоположный смысл. Давайте внимательно различать правила на слух.",
+    "zh": "没错。「靴を脱がなければなりません」和「靴を脱がなくてもいいです」意思相反。我们要仔细听清规矩。",
+    "ja": "そのとおりです。「靴を脱がなければなりません」と、「靴を脱がなくてもいいです」は、反対の意味です。ルールを、正しく、聞き分けましょう。",
+    "romaji": "Sono toori desu. 'Kutsu o nuganakereba narimasen' to, 'kutsu o nuganakute mo ii desu' wa, hantai no imi desu. Ruuru o, tadashiku, kikiwakemashou."
+  },
+  "sl12.m_ask": {
+    "en": "What must we do with our shoes here?",
+    "ru": "Что нужно сделать с обувью здесь?",
+    "zh": "在这里，鞋子必须怎么处理？",
+    "ja": "ここでは、靴を、どうしなければなりませんか？",
+    "romaji": "Koko de wa, kutsu o, dou shinakereba narimasen ka?"
+  },
+  "sl12.p4_prompt": {
+    "en": "Mei asked. From this corridor onward, you must take off your shoes. Please tell Mei the rule. What do you say?",
+    "ru": "Мэй спросила. Начиная с этого коридора нужно снимать обувь. Расскажите Мэй правило. Что вы скажете?",
+    "zh": "小梅问了。从这条走廊往里，必须脱鞋。请把规矩告诉小梅。你会怎么说？",
+    "ja": "メイさんが、聞きました。この廊下から先は、靴を脱がなければなりません。メイさんに、ルールを教えてください。何と言いますか？",
+    "romaji": "Mei-san ga, kikimashita. Kono rouka kara saki wa, kutsu o nuganakereba narimasen. Mei-san ni, ruuru o oshiete kudasai. Nan to iimasu ka?"
+  },
+  "sl12.c4_natural": {
+    "en": "“Here, we must take off our shoes.”",
+    "ru": "«Здесь нужно снимать обувь».",
+    "zh": "“在这里，必须脱鞋。”",
+    "ja": "「ここでは、靴を、脱がなければなりません。」",
+    "romaji": "'Koko de wa, kutsu o, nuganakereba narimasen.'"
+  },
+  "sl12.c4_formal": {
+    "en": "“Here, it is the rule that footwear be removed.”",
+    "ru": "«Здесь по правилам обувь необходимо снять».",
+    "zh": "“这里的规定是，要请各位脱下鞋子。”",
+    "ja": "「こちらでは、履物を、お脱ぎいただく決まりでございます。」",
+    "romaji": "'Kochira de wa, hakimono o, onugi itadaku kimari de gozaimasu.'"
+  },
+  "sl12.c4_mistake": {
+    "en": "“Here, nugu-nakereba narimasen.”",
+    "ru": "«Здесь нугу-накэрэба наримасэн».",
+    "zh": "“在这里，靴を脱ぐなければなりません。”（没有用ない形）",
+    "ja": "「ここでは、靴を、脱ぐなければなりません。」",
+    "romaji": "'Koko de wa, kutsu o, nugu nakereba narimasen.'"
+  },
+  "sl12.c4_own": {
+    "en": "“Here, we must take off our shoes. And we must walk quietly.”",
+    "ru": "«Здесь нужно снимать обувь. И нужно ходить тихо».",
+    "zh": "“在这里，必须脱鞋。还有，必须安静地走路。”",
+    "ja": "「ここでは、靴を、脱がなければなりません。それから、しずかに、歩かなければなりません。」",
+    "romaji": "'Koko de wa, kutsu o, nuganakereba narimasen. Sorekara, shizuka ni, arukanakereba narimasen.'"
+  },
+  "sl12.c4_min": {
+    "en": "“Shoes... take off... here...”",
+    "ru": "«Обувь… снять… здесь…»",
+    "zh": "“鞋……脱……这里……”",
+    "ja": "「靴…脱ぐ…ここ…」",
+    "romaji": "'Kutsu... nugu... koko...'"
+  },
+  "sl12.p4_nat_mei": {
+    "en": "Thank you. Then let's take them off here.",
+    "ru": "Спасибо. Тогда снимем здесь.",
+    "zh": "谢谢。那我们就在这里脱吧。",
+    "ja": "ありがとうございます。じゃあ、ここで、脱ぎましょう。",
+    "romaji": "Arigatou gozaimasu. Jaa, koko de, nugimashou."
+  },
+  "sl12.p4_form_ken": {
+    "en": "Haha, that's something temple staff would say. With a friend, “nuganakereba narimasen” is fine.",
+    "ru": "Ха-ха, это то, что сказали бы сотрудники храма. Другу достаточно «нуганакэрэба наримасэн».",
+    "zh": "哈哈，这是寺庙工作人员会说的话。对朋友说「脱がなければなりません」就行。",
+    "ja": "あはは、お寺の人が、言いそうな言葉ですね。友達には、「脱がなければなりません」で、いいですよ。",
+    "romaji": "Ahaha, otera no hito ga, iisou na kotoba desu ne. Tomodachi ni wa, 'nuganakereba narimasen' de, ii desu yo."
+  },
+  "sl12.p4_mis_tanaka": {
+    "en": "Close. Before “nakereba narimasen,” you need the “nai” form. Not “nugu,” but “nuga.” You say “nuganakereba narimasen.”",
+    "ru": "Почти. Перед «накэрэба наримасэн» нужна форма «най». Не «нугу», а «нуга». Говорят «нуганакэрэба наримасэн».",
+    "zh": "很接近。「なければなりません」前面要用「ない」形。不是「脱ぐ」，而是「脱が」。说「脱がなければなりません」。",
+    "ja": "惜しいです。「なければなりません」の前は、「ない」の形です。「脱ぐ」ではなく、「脱が」です。「脱がなければなりません」と言います。",
+    "romaji": "Oshii desu. 'Nakereba narimasen' no mae wa, 'nai' no katachi desu. 'Nugu' de wa naku, 'nuga' desu. 'Nuganakereba narimasen' to iimasu."
+  },
+  "sl12.p4_mis_retry": {
+    "en": "Oh, here, we must take off our shoes.",
+    "ru": "Ой, здесь нужно снимать обувь.",
+    "zh": "啊，在这里，必须脱鞋。",
+    "ja": "あっ、ここでは、靴を、脱がなければなりません。",
+    "romaji": "A, koko de wa, kutsu o, nuganakereba narimasen."
+  },
+  "sl12.p4_mis_relief": {
+    "en": "Yes, that's it. You formed the “nai” form properly.",
+    "ru": "Да, именно так. Вы правильно образовали форму «най».",
+    "zh": "对，就是这个。「ない」形你构成得很好。",
+    "ja": "はい、それです。「ない」の形が、ちゃんと作れましたね。",
+    "romaji": "Hai, sore desu. 'Nai' no katachi ga, chanto tsukuremashita ne."
+  },
+  "sl12.p4_own_mei": {
+    "en": "I understand the rules well now. Thank you.",
+    "ru": "Теперь я хорошо поняла правила. Спасибо.",
+    "zh": "我完全明白规矩了。谢谢。",
+    "ja": "ルールが、よく分かりました。ありがとうございます。",
+    "romaji": "Ruuru ga, yoku wakarimashita. Arigatou gozaimasu."
+  },
+  "sl12.p4_min_yuki": {
+    "en": "I understand. Try saying it properly: “kutsu o, nuganakereba narimasen.”",
+    "ru": "Понимаю. Скажите как следует: «кцу о, нуганакэрэба наримасэн».",
+    "zh": "我明白。试着好好说：「靴を、脱がなければなりません」。",
+    "ja": "分かりますよ。「靴を、脱がなければなりません」と、ていねいに、言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Kutsu o, nuganakereba narimasen' to, teinei ni, itte mimashou."
+  },
+  "sl12.talk_open": {
+    "en": "Now let's talk. Out of today's four forms, which one is the most useful when traveling?",
+    "ru": "Теперь поговорим. Какая из сегодняшних четырёх форм самая полезная в путешествии?",
+    "zh": "现在来聊聊。今天这四个句型里，旅行时哪一个最有用？",
+    "ja": "では、話しましょう。今日の四つの形の中で、旅行のときに、いちばん役に立つ形は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no yottsu no katachi no naka de, ryokou no toki ni, ichiban yaku ni tatsu katachi wa, dore desu ka?"
+  },
+  "sl12.talk_mei": {
+    "en": "For me, it's “~ te mo ii desu ka.” In an unfamiliar place, asking first gives me peace of mind.",
+    "ru": "Для меня это «~ тэ мо ии дэс ка». В незнакомом месте, если сначала спросить, становится спокойнее.",
+    "zh": "我觉得是「〜てもいいですか」。在陌生的地方，先问一问就安心了。",
+    "ja": "わたしは、「〜てもいいですか」です。知らない場所で、まず、聞けば、安心です。",
+    "romaji": "Watashi wa, '~ te mo ii desu ka' desu. Shiranai basho de, mazu, kikeba, anshin desu."
+  },
+  "sl12.talk_ken": {
+    "en": "For me, it's “~ te wa ikemasen.” Since it was said properly, I gave up on my rice ball.",
+    "ru": "Для меня это «~ тэ ва икэмасэн». Раз мне так чётко сказали, я отказался от онигири.",
+    "zh": "我觉得是「〜てはいけません」。因为说得很清楚，我放弃了吃饭团。",
+    "ja": "ぼくは、「〜てはいけません」です。ちゃんと言えたので、おにぎりを、あきらめました。",
+    "romaji": "Boku wa, '~ te wa ikemasen' desu. Chanto ieta node, onigiri o, akiramemashita."
+  },
+  "sl12.talk_yuki": {
+    "en": "For me, it's “~ nakute mo ii desu.” It's a phrase that makes you feel a bit more relaxed.",
+    "ru": "Для меня это «~ накутэ мо ии дэс». Это фраза, от которой становится немного легче на душе.",
+    "zh": "我觉得是「〜なくてもいいです」。这句话让人心里轻松一些呢。",
+    "ja": "わたしは、「〜なくてもいいです」です。少し、気が楽になる言葉ですね。",
+    "romaji": "Watashi wa, '~ nakute mo ii desu' desu. Sukoshi, ki ga raku ni naru kotoba desu ne."
+  },
+  "sl12.talk_tanaka": {
+    "en": "Lovely. When you learn the rules, you gradually come to understand the culture of that country too.",
+    "ru": "Прекрасно. Когда узнаёшь правила, понемногу начинаешь понимать и культуру страны.",
+    "zh": "真好。了解了规矩，也就一点一点地理解了那个国家的文化。",
+    "ja": "すてきですね。ルールを知ると、その国の文化も、少しずつ、分かってきます。",
+    "romaji": "Suteki desu ne. Ruuru o shiru to, sono kuni no bunka mo, sukoshi zutsu, wakatte kimasu."
+  },
+  "sl12.talk_player": {
+    "en": "(May I take a photo? You must not eat. You don't have to buy. You must take off your shoes. When I understand the words for rules, the temples of Kyoto feel much closer.)",
+    "ru": "(Можно сфотографировать? Есть нельзя. Покупать не нужно. Нужно снять обувь. Когда понимаешь слова для правил, храмы Киото кажутся гораздо ближе.)",
+    "zh": "（可以拍照吗？不可以吃东西。不用买票。必须脱鞋。明白了关于规矩的词，京都的寺庙感觉更亲近了。）",
+    "ja": "（撮ってもいいですか。食べてはいけません。買わなくてもいいです。脱がなければなりません。ルールの言葉が分かると、京都のお寺が、もっと近く感じられた。）",
+    "romaji": "(Totte mo ii desu ka. Tabete wa ikemasen. Kawanakute mo ii desu. Nuganakereba narimasen. Ruuru no kotoba ga wakaru to, Kyouto no otera ga, motto chikaku kanjirareta.)"
+  },
+  "sl12.talk_close": {
+    "en": "Good lesson, everyone. In the next class, we'll study ways to compare two things.",
+    "ru": "Хороший урок, все. На следующем уроке мы изучим способы сравнивать два предмета.",
+    "zh": "各位，这节课很棒。下节课我们来学习比较两样东西的说法。",
+    "ja": "みなさん、いいレッスンでした。次の授業では、二つのものを、くらべる言い方を、勉強しましょう。",
+    "romaji": "Minasan, ii ressun deshita. Tsugi no jugyou de wa, futatsu no mono o, kuraberu iikata o, benkyou shimashou."
+  },
+  "sl12.complete": {
+    "en": "End of Sentence Lesson 12.",
+    "ru": "Конец урока предложений 12.",
+    "zh": "句型课 12 结束。",
+    "ja": "文型レッスン12、おわり。",
+    "romaji": "Bunkei ressun juuni, owari."
+  }
+}

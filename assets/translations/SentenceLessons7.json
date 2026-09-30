@@ -1,0 +1,688 @@
+{
+  "sl7.title": {
+    "en": "The Past Tense and Adjectives",
+    "ru": "Прошедшее время и прилагательные",
+    "zh": "过去式与形容词",
+    "ja": "過去の形と、形容詞",
+    "romaji": "Kako no katachi to, keiyoushi"
+  },
+  "sl7.subtitle": {
+    "en": "Talking about memories of the festival",
+    "ru": "Рассказываем о воспоминаниях о празднике",
+    "zh": "聊聊庙会的回忆",
+    "ja": "お祭りの思い出を話す",
+    "romaji": "Omatsuri no omoide o hanasu"
+  },
+  "sl7.description": {
+    "en": "In the classroom the day after the festival, talk about memories using ~mashita, ~masen deshita, i-adjectives, na-adjectives, and the past forms of adjectives.",
+    "ru": "В классе на следующий день после праздника расскажите о воспоминаниях, используя «~масита», «~масэн дэсита», i-прилагательные, na-прилагательные и прошедшую форму прилагательных.",
+    "zh": "在庙会第二天的教室里，用「〜ました」「〜ませんでした」、い形容词、な形容词及形容词的过去式来聊回忆。",
+    "ja": "お祭りの次の日の教室で、「〜ました」「〜ませんでした」、い形容詞、な形容詞、形容詞の過去の形を使って、思い出を話します。",
+    "romaji": "Omatsuri no tsugi no hi no kyoushitsu de, '~ mashita' '~ masen deshita', i-keiyoushi, na-keiyoushi, keiyoushi no kako no katachi o tsukatte, omoide o hanashimasu."
+  },
+  "sl7.pattern.1": {
+    "en": "verb past tense (affirmative and negative)",
+    "ru": "прошедшее время глагола (утвердительное и отрицательное)",
+    "zh": "动词过去式（肯定与否定）",
+    "ja": "〜ました・〜ませんでした",
+    "romaji": "~ mashita, ~ masen deshita"
+  },
+  "sl7.pattern.2": {
+    "en": "i-adjectives: is / is not",
+    "ru": "i-прилагательные: есть / нет",
+    "zh": "い形容词：是／不是",
+    "ja": "い形容詞：〜いです・〜くないです",
+    "romaji": "i-keiyoushi: ~ i desu, ~ ku nai desu"
+  },
+  "sl7.pattern.3": {
+    "en": "na-adjectives: is / is not",
+    "ru": "na-прилагательные: есть / нет",
+    "zh": "な形容词：是／不是",
+    "ja": "な形容詞：〜です・〜じゃありません",
+    "romaji": "na-keiyoushi: ~ desu, ~ ja arimasen"
+  },
+  "sl7.pattern.4": {
+    "en": "adjectives in the past tense",
+    "ru": "прилагательные в прошедшем времени",
+    "zh": "形容词的过去式",
+    "ja": "形容詞の過去：〜かったです・〜でした",
+    "romaji": "keiyoushi no kako: ~ katta desu, ~ deshita"
+  },
+  "sl7.setup": {
+    "en": "Monday morning. The festival ended yesterday. In the classroom, everyone is still talking about their memories of it.",
+    "ru": "Утро понедельника. Праздник закончился вчера. В классе все ещё обсуждают воспоминания о нём.",
+    "zh": "星期一的早晨。庙会昨天结束了。教室里，大家还在聊着庙会的回忆。",
+    "ja": "月曜日の朝。お祭りは、きのう、終わった。教室では、みんなが、まだ、お祭りの思い出を話している。",
+    "romaji": "Getsuyoubi no asa. Omatsuri wa, kinou, owatta. Kyoushitsu de wa, minna ga, mada, omatsuri no omoide o hanashite iru."
+  },
+  "sl7.t_intro": {
+    "en": "Good morning. Today's theme is talking about the past. Let's talk about our memories of yesterday's festival in Japanese.",
+    "ru": "Доброе утро. Тема сегодня — рассказ о прошлом. Давайте расскажем по-японски о воспоминаниях о вчерашнем празднике.",
+    "zh": "早上好。今天的主题是谈论过去的事。我们用日语来聊聊昨天庙会的回忆吧。",
+    "ja": "おはようございます。今日のテーマは、過去の話です。きのうのお祭りの思い出を、日本語で話してみましょう。",
+    "romaji": "Ohayou gozaimasu. Kyou no teema wa, kako no hanashi desu. Kinou no omatsuri no omoide o, nihongo de hanashite mimashou."
+  },
+  "sl7.s1_intro": {
+    "en": "For the past tense of verbs, change “masu” to “mashita.” Tabemasu becomes tabemashita. Ikimasu becomes ikimashita.",
+    "ru": "Прошедшее время глагола образуют заменой «мас» на «масита». Табэмас — табэмасита. Икимас — икимасита.",
+    "zh": "动词的过去式，把「ます」变成「ました」。食べます变成食べました。行きます变成行きました。",
+    "ja": "動詞の過去は、「ます」を「ました」に変えます。食べます、食べました。行きます、行きました。",
+    "romaji": "Doushi no kako wa, 'masu' o 'mashita' ni kaemasu. Tabemasu, tabemashita. Ikimasu, ikimashita."
+  },
+  "sl7.s1_ken": {
+    "en": "I went to the festival yesterday. I sold lots of takoyaki.",
+    "ru": "Вчера я ходил на праздник. Я продал много такояки.",
+    "zh": "我昨天去了庙会。卖了很多章鱼烧。",
+    "ja": "ぼくは、きのう、お祭りに行きました。たこ焼きを、たくさん売りました。",
+    "romaji": "Boku wa, kinou, omatsuri ni ikimashita. Takoyaki o, takusan urimashita."
+  },
+  "sl7.s1_mei": {
+    "en": "I didn't go to the festival yesterday. I studied at home.",
+    "ru": "Вчера я не ходила на праздник. Я занималась дома.",
+    "zh": "我昨天没有去庙会。我在家学习了。",
+    "ja": "わたしは、きのう、お祭りに行きませんでした。家で、勉強しました。",
+    "romaji": "Watashi wa, kinou, omatsuri ni ikimasen deshita. Ie de, benkyou shimashita."
+  },
+  "sl7.s1_neg": {
+    "en": "The past of “ikimasen” is “ikimasen deshita.” “Masen deshita” means “didn't do.”",
+    "ru": "Прошедшее время от «икимасэн» — «икимасэн дэсита». «Масэн дэсита» означает «не делал».",
+    "zh": "「行きません」的过去式是「行きませんでした」。「ませんでした」是“没有做”的意思。",
+    "ja": "「行きません」の過去は、「行きませんでした」です。「ませんでした」で、「しなかった」という意味になります。",
+    "romaji": "'Ikimasen' no kako wa, 'ikimasen deshita' desu. 'Masen deshita' de, 'shinakatta' to iu imi ni narimasu."
+  },
+  "sl7.s1_q1": {
+    "en": "Don't you need “ni” after “kinou”?",
+    "ru": "Не нужно ли «ни» после «кину»?",
+    "zh": "「きのう」后面不需要「に」吗？",
+    "ja": "「きのう」の後ろに、「に」は、いりませんか？",
+    "romaji": "'Kinou' no ushiro ni, 'ni' wa, irimasen ka?"
+  },
+  "sl7.s1_a1": {
+    "en": "Right, you don't. You don't add “ni” to “kinou,” “senshuu,” or “kyonen” either. You do add it to clock times, as in “goji ni.”",
+    "ru": "Верно, не нужно. К словам «кину», «сэнсю», «кёнэн» «ни» тоже не добавляют. К времени по часам добавляют, например «годзи ни».",
+    "zh": "对，不需要。「きのう」「先週」「去年」等后面也不加「に」。钟表时间要加，如「五時に」。",
+    "ja": "はい、いりません。「きのう」「先週」「去年」などにも、「に」はつけません。「五時に」のように、時計の時間には、つけます。",
+    "romaji": "Hai, irimasen. 'Kinou' 'senshuu' 'kyonen' nado ni mo, 'ni' wa tsukemasen. 'Goji ni' no you ni, tokei no jikan ni wa, tsukemasu."
+  },
+  "sl7.s1_q2": {
+    "en": "Is there a shorter form of “masen deshita”?",
+    "ru": "Есть ли более короткая форма «масэн дэсита»?",
+    "zh": "「ませんでした」有更短的形式吗？",
+    "ja": "「ませんでした」の、もっと短い形は、ありますか？",
+    "romaji": "'Masen deshita' no, motto mijikai katachi wa, arimasu ka?"
+  },
+  "sl7.s1_a2": {
+    "en": "In conversation with friends, there is a plain form like “ikanakatta.” We'll study that later.",
+    "ru": "В разговоре с друзьями есть простая форма, например «икананакатта». Мы изучим её позже.",
+    "zh": "和朋友聊天时，也有「行かなかった」这样的普通形式。以后再学。",
+    "ja": "友達との会話では、「行かなかった」のような、ふつうの形もあります。それは、あとで勉強しますよ。",
+    "romaji": "Tomodachi to no kaiwa de wa, 'ikanakatta' no you na, futsuu no katachi mo arimasu. Sore wa, ato de benkyou shimasu yo."
+  },
+  "sl7.p1_prompt": {
+    "en": "You also went to the festival yesterday and ate takoyaki at Ken's stall. Tanaka-sensei asks, “Did you go to the festival yesterday?” How do you answer?",
+    "ru": "Вы вчера тоже ходили на праздник и ели такояки у лотка Кена. Танака-сэнсэй спрашивает: «Вы вчера ходили на праздник?» Что вы ответите?",
+    "zh": "你昨天也去了庙会，还在健的摊位吃了章鱼烧。田中老师问：“你昨天去庙会了吗？”你会怎么回答？",
+    "ja": "あなたも、きのう、お祭りに行きました。ケンさんの屋台で、たこ焼きも食べました。田中先生が、聞きました。「きのう、お祭りに行きましたか？」何と答えますか？",
+    "romaji": "Anata mo, kinou, omatsuri ni ikimashita. Ken-san no yatai de, takoyaki mo tabemashita. Tanaka-sensei ga, kikimashita. 'Kinou, omatsuri ni ikimashita ka?' Nan to kotaemasu ka?"
+  },
+  "sl7.c1_natural": {
+    "en": "“Yes, I went. I ate takoyaki.”",
+    "ru": "«Да, ходил. Я ел такояки».",
+    "zh": "“是的，我去了。我吃了章鱼烧。”",
+    "ja": "「はい、行きました。たこ焼きを、食べました。」",
+    "romaji": "'Hai, ikimashita. Takoyaki o, tabemashita.'"
+  },
+  "sl7.c1_formal": {
+    "en": "“Yes, I attended. I partook of takoyaki.”",
+    "ru": "«Да, я присутствовал. Я отведал такояки».",
+    "zh": "“是的，我去了。我品尝了章鱼烧。”",
+    "ja": "「はい、参りました。たこ焼きを、頂戴いたしました。」",
+    "romaji": "'Hai, mairimashita. Takoyaki o, choudai itashimashita.'"
+  },
+  "sl7.c1_mistake": {
+    "en": "“Yes, I go-was.”",
+    "ru": "«Да, я иду-был».",
+    "zh": "“是的，我去でした。”（把ます和でした混在了一起）",
+    "ja": "「はい、行きますでした。」",
+    "romaji": "'Hai, ikimasu deshita.'"
+  },
+  "sl7.c1_own": {
+    "en": "“Yes, I went. I ate takoyaki together with my friends.”",
+    "ru": "«Да, ходил. Я ел такояки вместе с друзьями».",
+    "zh": "“是的，我去了。和朋友一起吃了章鱼烧。”",
+    "ja": "「はい、行きました。友達と、いっしょに、たこ焼きを、食べました。」",
+    "romaji": "'Hai, ikimashita. Tomodachi to, issho ni, takoyaki o, tabemashita.'"
+  },
+  "sl7.c1_min": {
+    "en": "“Yes... went...”",
+    "ru": "«Да… ходил…»",
+    "zh": "“是……去……了……”",
+    "ja": "「はい…行き…ました…」",
+    "romaji": "'Hai... iki... mashita...'"
+  },
+  "sl7.p1_nat_tanaka": {
+    "en": "I see. How was Ken's takoyaki?",
+    "ru": "Понятно. Как вам такояки Кена?",
+    "zh": "这样啊。健的章鱼烧怎么样？",
+    "ja": "そうですか。ケンさんの、たこ焼きは、どうでしたか？",
+    "romaji": "Sou desu ka. Ken-san no, takoyaki wa, dou deshita ka?"
+  },
+  "sl7.p1_form_mei": {
+    "en": "Ha, those are difficult words. “Ikimashita. Tabemashita” is fine.",
+    "ru": "Ха-ха, какие сложные слова. Достаточно «икимасита. Табэмасита».",
+    "zh": "呵呵，这些词太难了。说「行きました。食べました」就好。",
+    "ja": "ふふ、むずかしい言葉ですね。「行きました。食べました」で、いいですよ。",
+    "romaji": "Fufu, muzukashii kotoba desu ne. 'Ikimashita. Tabemashita' de, ii desu yo."
+  },
+  "sl7.p1_mis_ken": {
+    "en": "Close. For the past, you change “masu” to “mashita.” You don't say “ikimasu” + “deshita.”",
+    "ru": "Почти. Для прошедшего времени «мас» меняют на «масита». Не говорят «икимас» + «дэсита».",
+    "zh": "很接近。过去式是把「ます」变成「ました」。不说「行きます」＋「でした」。",
+    "ja": "惜しいです。過去は、「ます」を「ました」に変えます。「行きます」＋「でした」とは、言いません。",
+    "romaji": "Oshii desu. Kako wa, 'masu' o 'mashita' ni kaemasu. 'Ikimasu' + 'deshita' to wa, iimasen."
+  },
+  "sl7.p1_mis_retry": {
+    "en": "Oh, yes, I went.",
+    "ru": "Ой, да, ходил.",
+    "zh": "啊，是的，我去了。",
+    "ja": "あっ、はい、行きました。",
+    "romaji": "A, hai, ikimashita."
+  },
+  "sl7.p1_mis_relief": {
+    "en": "Yes, that's it! “Mashita.”",
+    "ru": "Да, именно так! «Масита».",
+    "zh": "对，就是这个！是「ました」。",
+    "ja": "はい、それです！「ました」ですね。",
+    "romaji": "Hai, sore desu! 'Mashita' desu ne."
+  },
+  "sl7.p1_own_yuki": {
+    "en": "Going with friends, how nice. I wanted to go too.",
+    "ru": "С друзьями — это здорово. Я тоже хотела пойти.",
+    "zh": "和朋友一起，真不错。我也想去来着。",
+    "ja": "友達といっしょに、いいですね。わたしも、行きたかったです。",
+    "romaji": "Tomodachi to issho ni, ii desu ne. Watashi mo, ikitakatta desu."
+  },
+  "sl7.p1_min_tanaka": {
+    "en": "The meaning gets across. Try saying it all together: “hai, ikimashita.”",
+    "ru": "Смысл понятен. Попробуйте сказать слитно: «хай, икимасита».",
+    "zh": "意思能传达。试着连起来说：「はい、行きました」。",
+    "ja": "意味は、伝わりますよ。「はい、行きました」と、続けて、言ってみましょう。",
+    "romaji": "Imi wa, tsutawarimasu yo. 'Hai, ikimashita' to, tsuzukete, itte mimashou."
+  },
+  "sl7.s2_intro": {
+    "en": "Next are adjectives. Japanese has two kinds. First, i-adjectives. They end in “i,” like “oishii,” “takai,” and “tanoshii.”",
+    "ru": "Дальше — прилагательные. В японском их два вида. Сначала i-прилагательные. Они оканчиваются на «и», например «оисий», «такай» и «таносий».",
+    "zh": "接下来是形容词。日语里有两种。首先是「い形容词」。以「い」结尾，如「おいしい」「高い」「楽しい」。",
+    "ja": "次は、形容詞です。日本語には、二つの種類があります。まず、「い形容詞」です。「おいしい」「高い」「楽しい」のように、「い」で終わります。",
+    "romaji": "Tsugi wa, keiyoushi desu. Nihongo ni wa, futatsu no shurui ga arimasu. Mazu, 'i-keiyoushi' desu. 'Oishii' 'takai' 'tanoshii' no you ni, 'i' de owarimasu."
+  },
+  "sl7.s2_ex": {
+    "en": "This takoyaki is delicious. But it is not expensive. It is cheap.",
+    "ru": "Эти такояки вкусные. Но они не дорогие. Они дешёвые.",
+    "zh": "这个章鱼烧很好吃。但是不贵。很便宜。",
+    "ja": "このたこ焼きは、おいしいです。でも、高くないです。安いです。",
+    "romaji": "Kono takoyaki wa, oishii desu. Demo, takakunai desu. Yasui desu."
+  },
+  "sl7.s2_break": {
+    "en": "To negate an i-adjective, change the final “i” to “kunai.” “Takai” becomes “takakunai,” and “oishii” becomes “oishikunai.”",
+    "ru": "Для отрицания i-прилагательного последнее «и» меняют на «кунай». «Такай» превращается в «такакунай», «оисий» — в «оисикунай».",
+    "zh": "い形容词的否定，把最后的「い」变成「くない」。「高い」变成「高くない」，「おいしい」变成「おいしくない」。",
+    "ja": "い形容詞の否定は、最後の「い」を「くない」に変えます。「高い」は「高くない」、「おいしい」は「おいしくない」です。",
+    "romaji": "I-keiyoushi no hitei wa, saigo no 'i' o 'kunai' ni kaemasu. 'Takai' wa 'takakunai', 'oishii' wa 'oishikunai' desu."
+  },
+  "sl7.s2_q1": {
+    "en": "Does “takai” have two meanings?",
+    "ru": "У «такай» два значения?",
+    "zh": "「高い」有两个意思吗？",
+    "ja": "「高い」は、二つの意味がありますか？",
+    "romaji": "'Takai' wa, futatsu no imi ga arimasu ka?"
+  },
+  "sl7.s2_a1": {
+    "en": "Yes. “Takai” is used both when a price is high and when someone is tall. You can tell from the meaning of the sentence.",
+    "ru": "Да. «Такай» используют и когда цена высокая, и когда человек высокий. Это понятно из смысла предложения.",
+    "zh": "有。价格高和个子高都用「高い」。从句子的意思就能分辨。",
+    "ja": "はい。「高い」は、値段が高いときも、背が高いときも使います。文の意味で、分かります。",
+    "romaji": "Hai. 'Takai' wa, nedan ga takai toki mo, se ga takai toki mo tsukaimasu. Bun no imi de, wakarimasu."
+  },
+  "sl7.s2_q2": {
+    "en": "Is the negative of “ii” “ikunai desu”?",
+    "ru": "Отрицание «ии» — «икунай дэс»?",
+    "zh": "「いい」的否定是「いくないです」吗？",
+    "ja": "「いい」の否定は、「いくないです」ですか？",
+    "romaji": "'Ii' no hitei wa, 'ikunai desu' desu ka?"
+  },
+  "sl7.s2_a2": {
+    "en": "No. “Ii” alone is special. You say “yokunai desu.”",
+    "ru": "Нет. Только «ии» — особый случай. Говорят «ёкунай дэс».",
+    "zh": "不是。只有「いい」是特殊的。要说「よくないです」。",
+    "ja": "いいえ。「いい」だけは、特別です。「よくないです」と言います。",
+    "romaji": "Iie. 'Ii' dake wa, tokubetsu desu. 'Yokunai desu' to iimasu."
+  },
+  "sl7.ask_price": {
+    "en": "Is this takoyaki expensive?",
+    "ru": "Эти такояки дорогие?",
+    "zh": "这个章鱼烧贵吗？",
+    "ja": "このたこ焼きは、高いですか？",
+    "romaji": "Kono takoyaki wa, takai desu ka?"
+  },
+  "sl7.p2_prompt": {
+    "en": "Ken asked. You think 300 yen is not expensive. How do you answer?",
+    "ru": "Кен спросил. Вы считаете, что 300 иен — это недорого. Что вы ответите?",
+    "zh": "健问了。你觉得三百日元不算贵。你会怎么回答？",
+    "ja": "ケンさんが、聞きました。あなたは、三百円は、高くないと思います。何と答えますか？",
+    "romaji": "Ken-san ga, kikimashita. Anata wa, sanbyaku en wa, takakunai to omoimasu. Nan to kotaemasu ka?"
+  },
+  "sl7.c2_natural": {
+    "en": "“No, it's not expensive. It's cheap.”",
+    "ru": "«Нет, не дорого. Это дёшево».",
+    "zh": "“不，不贵。很便宜。”",
+    "ja": "「いいえ、高くないです。安いです。」",
+    "romaji": "'Iie, takakunai desu. Yasui desu.'"
+  },
+  "sl7.c2_formal": {
+    "en": "“No, it is by no means expensive.”",
+    "ru": "«Нет, отнюдь не дорого».",
+    "zh": "“不，绝对不算贵。”",
+    "ja": "「いえ、決して、高くはございません。」",
+    "romaji": "'Ie, kesshite, takaku wa gozaimasen.'"
+  },
+  "sl7.c2_mistake": {
+    "en": "“No, expensive isn't.”",
+    "ru": "«Нет, дорогой — не есть».",
+    "zh": "“不，贵じゃありません。”（把名词的否定用在了い形容词上）",
+    "ja": "「いいえ、高いじゃありません。」",
+    "romaji": "'Iie, takai ja arimasen.'"
+  },
+  "sl7.c2_own": {
+    "en": "“No, it's not expensive. The takoyaki is big and delicious.”",
+    "ru": "«Нет, не дорого. Такояки большие и вкусные».",
+    "zh": "“不，不贵。章鱼烧又大又好吃。”",
+    "ja": "「いいえ、高くないです。たこ焼きは、大きくて、おいしいです。」",
+    "romaji": "'Iie, takakunai desu. Takoyaki wa, ookikute, oishii desu.'"
+  },
+  "sl7.c2_min": {
+    "en": "“No... expensive... not...”",
+    "ru": "«Нет… дорого… не…»",
+    "zh": "“不……贵……不……”",
+    "ja": "「いいえ…高い…ない…」",
+    "romaji": "'Iie... takai... nai...'"
+  },
+  "sl7.p2_nat_ken": {
+    "en": "Thank you. Cheap and delicious is the best combination.",
+    "ru": "Спасибо. Дёшево и вкусно — лучшее сочетание.",
+    "zh": "谢谢。又便宜又好吃，就是最好的了。",
+    "ja": "ありがとうございます。安くて、おいしいのが、一番ですね。",
+    "romaji": "Arigatou gozaimasu. Yasukute, oishii no ga, ichiban desu ne."
+  },
+  "sl7.p2_form_yuki": {
+    "en": "Ha, you sound like a hotel staff member. “Takakunai desu” is fine.",
+    "ru": "Ха-ха, как сотрудник отеля. Достаточно «такакунай дэс».",
+    "zh": "呵呵，像酒店的工作人员。说「高くないです」就好。",
+    "ja": "ふふ、ホテルの人みたいです。「高くないです」で、いいですよ。",
+    "romaji": "Fufu, hoteru no hito mitai desu. 'Takakunai desu' de, ii desu yo."
+  },
+  "sl7.p2_mis_mei": {
+    "en": "Huh, “~ ja arimasen” is a form for nouns. For i-adjectives, it's “takakunai desu.”",
+    "ru": "Ой, «~ дзя аримасэн» — форма для существительных. Для i-прилагательных нужно «такакунай дэс».",
+    "zh": "咦，「〜じゃありません」是名词的形式。い形容词要说「高くないです」。",
+    "ja": "あれ、「〜じゃありません」は、名詞の形です。い形容詞は、「高くないです」ですよ。",
+    "romaji": "Are, '~ ja arimasen' wa, meishi no katachi desu. I-keiyoushi wa, 'takakunai desu' desu yo."
+  },
+  "sl7.p2_mis_retry": {
+    "en": "Oh, no, it's not expensive.",
+    "ru": "Ой, нет, не дорого.",
+    "zh": "啊，不，不贵。",
+    "ja": "あっ、いいえ、高くないです。",
+    "romaji": "A, iie, takakunai desu."
+  },
+  "sl7.p2_mis_relief": {
+    "en": "Yes, that's it! With “kunai,” it's perfect.",
+    "ru": "Да, именно так! С «кунай» всё идеально.",
+    "zh": "对，就是这个！用「くない」就完美了。",
+    "ja": "はい、それです！「くない」で、ばっちりです。",
+    "romaji": "Hai, sore desu! 'Kunai' de, batchiri desu."
+  },
+  "sl7.p2_own_ken": {
+    "en": "I'm glad to hear that. Please come again.",
+    "ru": "Мне приятно это слышать. Приходите ещё.",
+    "zh": "听你这么说，我很高兴。请再来哦。",
+    "ja": "そう言ってもらえると、うれしいです。また、来てくださいね。",
+    "romaji": "Sou itte moraeru to, ureshii desu. Mata, kite kudasai ne."
+  },
+  "sl7.p2_min_tanaka": {
+    "en": "I understand what you want to say. Try putting it into one form: “takakunai desu.”",
+    "ru": "Я понимаю, что вы хотите сказать. Попробуйте оформить это одной формой: «такакунай дэс».",
+    "zh": "我明白你想说什么。试着合成一个形式：「高くないです」。",
+    "ja": "言いたいことは、分かります。「高くないです」と、ひとつの形にしてみましょう。",
+    "romaji": "Iitai koto wa, wakarimasu. 'Takakunai desu' to, hitotsu no katachi ni shite mimashou."
+  },
+  "sl7.s3_intro": {
+    "en": "The other kind is na-adjectives, such as “kirei,” “shizuka,” “genki,” and “nigiyaka.” Many do not end in “i.”",
+    "ru": "Другой вид — na-прилагательные, такие как «кирэй», «сидзука», «гэнки» и «нигияка». Многие из них не оканчиваются на «и».",
+    "zh": "另一种是「な形容词」，如「きれい」「しずか」「元気」「にぎやか」等。很多都不是以「い」结尾。",
+    "ja": "もう一つの種類は、「な形容詞」です。「きれい」「しずか」「元気」「にぎやか」などです。「い」で終わらないものが、多いです。",
+    "romaji": "Mou hitotsu no shurui wa, 'na-keiyoushi' desu. 'Kirei' 'shizuka' 'genki' 'nigiyaka' nado desu. 'I' de owaranai mono ga, ooi desu."
+  },
+  "sl7.s3_ex": {
+    "en": "This town is quiet. But on festival days, it is lively. It is not quiet.",
+    "ru": "Этот город тихий. Но в дни праздника он оживлённый. Он не тихий.",
+    "zh": "这个城镇很安静。但是庙会那天很热闹。不安静。",
+    "ja": "この町は、しずかです。でも、お祭りの日は、にぎやかです。しずかじゃありません。",
+    "romaji": "Kono machi wa, shizuka desu. Demo, omatsuri no hi wa, nigiyaka desu. Shizuka ja arimasen."
+  },
+  "sl7.s3_break": {
+    "en": "The negative of na-adjectives is “~ ja arimasen,” the same form as nouns. Before a noun, you add “na,” as in “shizuka na machi.”",
+    "ru": "Отрицание na-прилагательных — «~ дзя аримасэн», та же форма, что и у существительных. Перед существительным добавляют «на», например «сидзука на мати».",
+    "zh": "な形容词的否定是「〜じゃありません」，和名词是同样的形式。在名词前面要加「な」，如「しずかな町」。",
+    "ja": "な形容詞の否定は、「〜じゃありません」です。名詞と、同じ形です。名詞の前では、「な」をつけます。「しずかな町」のようにです。",
+    "romaji": "Na-keiyoushi no hitei wa, '~ ja arimasen' desu. Meishi to, onaji katachi desu. Meishi no mae de wa, 'na' o tsukemasu. 'Shizuka na machi' no you ni desu."
+  },
+  "sl7.s3_q1": {
+    "en": "“Kirei” ends in “i,” but is it an i-adjective?",
+    "ru": "«Кирэй» оканчивается на «и», но это i-прилагательное?",
+    "zh": "「きれい」以「い」结尾，它是い形容词吗？",
+    "ja": "「きれい」は、「い」で終わりますが、い形容詞ですか？",
+    "romaji": "'Kirei' wa, 'i' de owarimasu ga, i-keiyoushi desu ka?"
+  },
+  "sl7.s3_a1": {
+    "en": "No, “kirei” is a na-adjective. “Yuumei” and “kirai” are the same. There are a few na-adjectives that end in “i.”",
+    "ru": "Нет, «кирэй» — na-прилагательное. «Юмэй» и «кираи» — тоже. Есть несколько na-прилагательных, оканчивающихся на «и».",
+    "zh": "不是，「きれい」是な形容词。「有名」「きらい」也一样。有少数な形容词是以「い」结尾的。",
+    "ja": "いいえ、「きれい」は、な形容詞です。「有名」「きらい」も、同じです。「い」で終わる、な形容詞も、少しあります。",
+    "romaji": "Iie, 'kirei' wa, na-keiyoushi desu. 'Yuumei' 'kirai' mo, onaji desu. 'I' de owaru, na-keiyoushi mo, sukoshi arimasu."
+  },
+  "sl7.s3_ask": {
+    "en": "Is this town always quiet?",
+    "ru": "Этот город всегда тихий?",
+    "zh": "这个城镇总是很安静吗？",
+    "ja": "この町は、いつも、しずかですか？",
+    "romaji": "Kono machi wa, itsumo, shizuka desu ka?"
+  },
+  "sl7.p3_prompt": {
+    "en": "Mei asked. Your town has many festivals and is not quiet. How do you answer?",
+    "ru": "Мэй спросила. В вашем городе много праздников, и он не тихий. Что вы ответите?",
+    "zh": "小梅问了。你的城镇庙会很多，并不安静。你会怎么回答？",
+    "ja": "メイさんが、聞きました。あなたの町は、お祭りが多くて、しずかではありません。何と答えますか？",
+    "romaji": "Mei-san ga, kikimashita. Anata no machi wa, omatsuri ga ookute, shizuka de wa arimasen. Nan to kotaemasu ka?"
+  },
+  "sl7.c3_natural": {
+    "en": "“No, it's not quiet. It's lively.”",
+    "ru": "«Нет, он не тихий. Он оживлённый».",
+    "zh": "“不，不安静。很热闹。”",
+    "ja": "「いいえ、しずかじゃありません。にぎやかです。」",
+    "romaji": "'Iie, shizuka ja arimasen. Nigiyaka desu.'"
+  },
+  "sl7.c3_formal": {
+    "en": "“No, it is far from serene. It is bustling.”",
+    "ru": "«Нет, он далёк от тишины. Он полон оживления».",
+    "zh": "“不，离安静相去甚远。非常繁华热闹。”",
+    "ja": "「いいえ、静寂とは、程遠うございます。賑わっております。」",
+    "romaji": "'Iie, seijaku to wa, hodotooku gozaimasu. Nigiwatte orimasu.'"
+  },
+  "sl7.c3_mistake": {
+    "en": "“No, it's not quiet. (with kunai)”",
+    "ru": "«Нет, не тихий (с кунай)».",
+    "zh": "“不，不安静。”（用了い形容词的くない）",
+    "ja": "「いいえ、しずかくないです。」",
+    "romaji": "'Iie, shizukakunai desu.'"
+  },
+  "sl7.c3_own": {
+    "en": "“No, it's not quiet. But I like lively towns too.”",
+    "ru": "«Нет, не тихий. Но оживлённые города мне тоже нравятся».",
+    "zh": "“不，不安静。不过我也喜欢热闹的城镇。”",
+    "ja": "「いいえ、しずかじゃありません。でも、にぎやかな町も、好きです。」",
+    "romaji": "'Iie, shizuka ja arimasen. Demo, nigiyaka na machi mo, suki desu.'"
+  },
+  "sl7.c3_min": {
+    "en": "“No... quiet... not...”",
+    "ru": "«Нет… тихий… не…»",
+    "zh": "“不……安静……不……”",
+    "ja": "「いいえ…しずか…ない…」",
+    "romaji": "'Iie... shizuka... nai...'"
+  },
+  "sl7.p3_nat_mei": {
+    "en": "I see. A lively town sounds fun too.",
+    "ru": "Понятно. Оживлённый город тоже звучит весело.",
+    "zh": "这样啊。热闹的城镇听起来也很有趣。",
+    "ja": "そうですか。にぎやかな町も、楽しそうですね。",
+    "romaji": "Sou desu ka. Nigiyaka na machi mo, tanoshisou desu ne."
+  },
+  "sl7.p3_form_ken": {
+    "en": "Haha, those are difficult words. “Shizuka ja arimasen” is enough.",
+    "ru": "Ха-ха, какие сложные слова. Достаточно «сидзука дзя аримасэн».",
+    "zh": "哈哈，这些词好难。说「しずかじゃありません」就足够了。",
+    "ja": "あはは、むずかしい言葉ですね。「しずかじゃありません」で、じゅうぶんです。",
+    "romaji": "Ahaha, muzukashii kotoba desu ne. 'Shizuka ja arimasen' de, juubun desu."
+  },
+  "sl7.p3_mis_tanaka": {
+    "en": "Close. “Shizuka” is a na-adjective. “Kunai” is the form for i-adjectives. For na-adjectives, you say “shizuka ja arimasen.”",
+    "ru": "Почти. «Сидзука» — na-прилагательное. «Кунай» — форма i-прилагательных. Для na-прилагательных говорят «сидзука дзя аримасэн».",
+    "zh": "很接近。「しずか」是な形容词。「くない」是い形容词的形式。な形容词要说「しずかじゃありません」。",
+    "ja": "惜しいです。「しずか」は、な形容詞です。「くない」は、い形容詞の形です。な形容詞は、「しずかじゃありません」と言います。",
+    "romaji": "Oshii desu. 'Shizuka' wa, na-keiyoushi desu. 'Kunai' wa, i-keiyoushi no katachi desu. Na-keiyoushi wa, 'shizuka ja arimasen' to iimasu."
+  },
+  "sl7.p3_mis_retry": {
+    "en": "Oh, no, it's not quiet.",
+    "ru": "Ой, нет, не тихий.",
+    "zh": "啊，不，不安静。",
+    "ja": "あっ、いいえ、しずかじゃありません。",
+    "romaji": "A, iie, shizuka ja arimasen."
+  },
+  "sl7.p3_mis_relief": {
+    "en": "Yes, that's it. You understand the difference between the two kinds of adjectives.",
+    "ru": "Да, именно так. Вы поняли разницу между двумя видами прилагательных.",
+    "zh": "对，就是这个。你明白这两种形容词的区别了。",
+    "ja": "はい、それです。二つの形容詞の、ちがいが、分かりましたね。",
+    "romaji": "Hai, sore desu. Futatsu no keiyoushi no, chigai ga, wakarimashita ne."
+  },
+  "sl7.p3_own_mei": {
+    "en": "I like lively towns too. Festivals are fun, aren't they.",
+    "ru": "Мне тоже нравятся оживлённые города. Праздники — это весело, правда?",
+    "zh": "我也喜欢热闹的城镇。庙会很有趣，对吧。",
+    "ja": "わたしも、にぎやかな町が、好きです。お祭りは、楽しいですよね。",
+    "romaji": "Watashi mo, nigiyaka na machi ga, suki desu. Omatsuri wa, tanoshii desu yo ne."
+  },
+  "sl7.p3_min_yuki": {
+    "en": "I understand. Try saying it all: “shizuka ja arimasen.”",
+    "ru": "Понимаю. Попробуйте сказать всё целиком: «сидзука дзя аримасэн».",
+    "zh": "我明白。试着把整句话说完整：「しずかじゃありません」。",
+    "ja": "分かりますよ。「しずかじゃありません」と、全部、言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Shizuka ja arimasen' to, zenbu, itte mimashou."
+  },
+  "sl7.s4_intro": {
+    "en": "The last is the past tense of adjectives. For i-adjectives, change “i” to “katta.” “Tanoshii” becomes “tanoshikatta desu.” The negative is “tanoshikunakatta desu.”",
+    "ru": "Последнее — прошедшее время прилагательных. У i-прилагательных «и» меняют на «катта». «Таносий» превращается в «таносикатта дэс». Отрицание — «таносикунакатта дэс».",
+    "zh": "最后是形容词的过去式。い形容词把「い」变成「かった」。「楽しい」变成「楽しかったです」。否定是「楽しくなかったです」。",
+    "ja": "最後は、形容詞の過去です。い形容詞は、「い」を「かった」に変えます。「楽しい」は、「楽しかったです」。否定は、「楽しくなかったです」です。",
+    "romaji": "Saigo wa, keiyoushi no kako desu. I-keiyoushi wa, 'i' o 'katta' ni kaemasu. 'Tanoshii' wa, 'tanoshikatta desu'. Hitei wa, 'tanoshikunakatta desu' desu."
+  },
+  "sl7.s4_na": {
+    "en": "For na-adjectives and nouns, change “desu” to “deshita.” “Shizuka desu” becomes “shizuka deshita.” The negative is “shizuka ja arimasen deshita.”",
+    "ru": "У na-прилагательных и существительных «дэс» меняют на «дэсита». «Сидзука дэс» превращается в «сидзука дэсита». Отрицание — «сидзука дзя аримасэн дэсита».",
+    "zh": "な形容词和名词，把「です」变成「でした」。「しずかです」变成「しずかでした」。否定是「しずかじゃありませんでした」。",
+    "ja": "な形容詞と名詞は、「です」を「でした」に変えます。「しずかです」は、「しずかでした」。否定は、「しずかじゃありませんでした」です。",
+    "romaji": "Na-keiyoushi to meishi wa, 'desu' o 'deshita' ni kaemasu. 'Shizuka desu' wa, 'shizuka deshita'. Hitei wa, 'shizuka ja arimasen deshita' desu."
+  },
+  "sl7.s4_q1": {
+    "en": "Is it “ii deshita”?",
+    "ru": "Это «ии дэсита»?",
+    "zh": "是「いいでした」吗？",
+    "ja": "「いいでした」ですか？",
+    "romaji": "'Ii deshita' desu ka?"
+  },
+  "sl7.s4_a1": {
+    "en": "No. The past of “ii” is “yokatta desu.” “Ii” is special here as well.",
+    "ru": "Нет. Прошедшее время от «ии» — «ёката дэс». «Ии» и здесь особый случай.",
+    "zh": "不是。「いい」的过去式是「よかったです」。「いい」在这里也很特殊。",
+    "ja": "いいえ。「いい」の過去は、「よかったです」です。「いい」は、ここでも、特別です。",
+    "romaji": "Iie. 'Ii' no kako wa, 'yokatta desu' desu. 'Ii' wa, koko demo, tokubetsu desu."
+  },
+  "sl7.s4_q2": {
+    "en": "How do you choose between “katta desu” and “deshita”?",
+    "ru": "Как выбирать между «катта дэс» и «дэсита»?",
+    "zh": "「かったです」和「でした」该怎么选择？",
+    "ja": "「かったです」と「でした」は、どうやって、選びますか？",
+    "romaji": "'Katta desu' to 'deshita' wa, dou yatte, erabimasu ka?"
+  },
+  "sl7.s4_a2": {
+    "en": "For i-adjectives, it's “katta desu.” For na-adjectives and nouns, it's “deshita.” If you firmly remember the two types, you won't get them wrong.",
+    "ru": "Для i-прилагательных — «катта дэс». Для na-прилагательных и существительных — «дэсита». Если вы твёрдо запомните два вида, ошибок не будет.",
+    "zh": "い形容词用「かったです」。な形容词和名词用「でした」。牢牢记住这两种类型，就不会出错。",
+    "ja": "い形容詞なら、「かったです」。な形容詞と名詞なら、「でした」です。二つの種類を、しっかり覚えておくと、まちがえません。",
+    "romaji": "I-keiyoushi nara, 'katta desu'. Na-keiyoushi to meishi nara, 'deshita' desu. Futatsu no shurui o, shikkari oboete oku to, machigaemasen."
+  },
+  "sl7.ask_fest": {
+    "en": "How was the festival?",
+    "ru": "Как прошёл праздник?",
+    "zh": "庙会怎么样？",
+    "ja": "お祭りは、どうでしたか？",
+    "romaji": "Omatsuri wa, dou deshita ka?"
+  },
+  "sl7.p4_prompt": {
+    "en": "Yuki asked. You had a really good time at yesterday's festival. How do you answer?",
+    "ru": "Юки спросила. Вчера на празднике вам было очень весело. Что вы ответите?",
+    "zh": "由纪问了。你觉得昨天的庙会非常有趣。你会怎么回答？",
+    "ja": "由紀さんが、聞きました。あなたは、きのうの、お祭りが、とても楽しかったです。何と答えますか？",
+    "romaji": "Yuki-san ga, kikimashita. Anata wa, kinou no, omatsuri ga, totemo tanoshikatta desu. Nan to kotaemasu ka?"
+  },
+  "sl7.c4_natural": {
+    "en": "“It was a lot of fun.”",
+    "ru": "«Было очень весело».",
+    "zh": "“非常有趣。”",
+    "ja": "「とても、楽しかったです。」",
+    "romaji": "'Totemo, tanoshikatta desu.'"
+  },
+  "sl7.c4_formal": {
+    "en": "“It was a most meaningful time.”",
+    "ru": "«Это было в высшей степени содержательное время».",
+    "zh": "“度过了非常有意义的一段时光。”",
+    "ja": "「大変、有意義な、ひとときでございました。」",
+    "romaji": "'Taihen, yuuigi na, hitotoki de gozaimashita.'"
+  },
+  "sl7.c4_mistake": {
+    "en": "“It was tanoshii-deshita.”",
+    "ru": "«Было таносий-дэсита».",
+    "zh": "“非常楽しいでした。”（い形容词过去式用错）",
+    "ja": "「とても、楽しいでした。」",
+    "romaji": "'Totemo, tanoshii deshita.'"
+  },
+  "sl7.c4_own": {
+    "en": "“It was a lot of fun. The takoyaki was delicious too. It was lively.”",
+    "ru": "«Было очень весело. Такояки тоже были вкусными. Было оживлённо».",
+    "zh": "“非常有趣。章鱼烧也很好吃。很热闹。”",
+    "ja": "「とても、楽しかったです。たこ焼きも、おいしかったです。にぎやかでした。」",
+    "romaji": "'Totemo, tanoshikatta desu. Takoyaki mo, oishikatta desu. Nigiyaka deshita.'"
+  },
+  "sl7.c4_min": {
+    "en": "“Fun... was...”",
+    "ru": "«Весело… было…»",
+    "zh": "“有趣……了……”",
+    "ja": "「楽しい…でした…」",
+    "romaji": "'Tanoshii... deshita...'"
+  },
+  "sl7.p4_nat_yuki": {
+    "en": "I'm glad. I want to go next year too.",
+    "ru": "Я рада. Я тоже хочу пойти в следующем году.",
+    "zh": "那就好。明年我也想去。",
+    "ja": "よかったです。わたしも、来年は、行きたいです。",
+    "romaji": "Yokatta desu. Watashi mo, rainen wa, ikitai desu."
+  },
+  "sl7.p4_form_mei": {
+    "en": "Ha, that sounds like a diary. “Tanoshikatta desu” is fine.",
+    "ru": "Ха-ха, как в дневнике. Достаточно «таносикатта дэс».",
+    "zh": "呵呵，像日记一样。说「楽しかったです」就好。",
+    "ja": "ふふ、日記みたいです。「楽しかったです」で、いいですよ。",
+    "romaji": "Fufu, nikki mitai desu. 'Tanoshikatta desu' de, ii desu yo."
+  },
+  "sl7.p4_mis_ken": {
+    "en": "Close. “Tanoshii” is an i-adjective. Its past is “tanoshikatta desu.” You don't add “deshita.”",
+    "ru": "Почти. «Таносий» — i-прилагательное. Прошедшее время — «таносикатта дэс». «Дэсита» не добавляют.",
+    "zh": "很接近。「楽しい」是い形容词。过去式是「楽しかったです」。不加「でした」。",
+    "ja": "惜しいです。「楽しい」は、い形容詞です。過去は、「楽しかったです」ですよ。「でした」は、つけません。",
+    "romaji": "Oshii desu. 'Tanoshii' wa, i-keiyoushi desu. Kako wa, 'tanoshikatta desu' desu yo. 'Deshita' wa, tsukemasen."
+  },
+  "sl7.p4_mis_retry": {
+    "en": "Oh, it was a lot of fun.",
+    "ru": "Ой, было очень весело.",
+    "zh": "啊，非常有趣。",
+    "ja": "あっ、とても、楽しかったです。",
+    "romaji": "A, totemo, tanoshikatta desu."
+  },
+  "sl7.p4_mis_relief": {
+    "en": "Yes, that's it! “Katta.”",
+    "ru": "Да, именно так! «Катта».",
+    "zh": "对，就是这个！是「かった」。",
+    "ja": "はい、それです！「かった」ですね。",
+    "romaji": "Hai, sore desu! 'Katta' desu ne."
+  },
+  "sl7.p4_own_yuki": {
+    "en": "Nice. You used three adjectives correctly.",
+    "ru": "Здорово. Вы правильно использовали три прилагательных.",
+    "zh": "不错。你把三个形容词都用对了。",
+    "ja": "いいですね。三つの形容詞を、ちゃんと使えましたね。",
+    "romaji": "Ii desu ne. Mittsu no keiyoushi o, chanto tsukaemashita ne."
+  },
+  "sl7.p4_min_tanaka": {
+    "en": "Your feeling comes across. Try saying it in one form: “tanoshikatta desu.”",
+    "ru": "Ваше чувство понятно. Скажите одной формой: «таносикатта дэс».",
+    "zh": "你的心情能传达出来。试着用一个形式说出来：「楽しかったです」。",
+    "ja": "気持ちは、伝わりますよ。「楽しかったです」と、一つの形で、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu yo. 'Tanoshikatta desu' to, hitotsu no katachi de, itte mimashou."
+  },
+  "sl7.talk_open": {
+    "en": "Now let's talk. Out of today's four forms, which one is the most useful for talking about memories?",
+    "ru": "Теперь поговорим. Какая из сегодняшних четырёх форм самая полезная, когда рассказываешь о воспоминаниях?",
+    "zh": "现在来聊聊。今天这四个句型里，聊回忆时哪一个最有用？",
+    "ja": "では、話しましょう。今日の四つの形の中で、思い出を話すときに、いちばん役に立つ形は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no yottsu no katachi no naka de, omoide o hanasu toki ni, ichiban yaku ni tatsu katachi wa, dore desu ka?"
+  },
+  "sl7.talk_mei": {
+    "en": "For me, it's “~ katta desu.” I can say “tanoshikatta” and “oishikatta” right away.",
+    "ru": "Для меня это «~ катта дэс». Я сразу могу сказать «таносикатта» и «оисикатта».",
+    "zh": "我觉得是「〜かったです」。「楽しかった」「おいしかった」马上就能说出来。",
+    "ja": "わたしは、「〜かったです」です。「楽しかった」「おいしかった」と、すぐ言えます。",
+    "romaji": "Watashi wa, '~ katta desu' desu. 'Tanoshikatta' 'oishikatta' to, sugu iemasu."
+  },
+  "sl7.talk_ken": {
+    "en": "For me, it's telling i-adjectives and na-adjectives apart. I still make mistakes sometimes.",
+    "ru": "Для меня это различие между i- и na-прилагательными. Я всё ещё иногда ошибаюсь.",
+    "zh": "我觉得是区分い形容词和な形容词。我有时还是会弄错。",
+    "ja": "ぼくは、「い形容詞」と「な形容詞」の区別です。まだ、時々、まちがえます。",
+    "romaji": "Boku wa, 'i-keiyoushi' to 'na-keiyoushi' no kubetsu desu. Mada, tokidoki, machigaemasu."
+  },
+  "sl7.talk_yuki": {
+    "en": "For me, it's “masen deshita.” I can express regret too, as in “ikemasen deshita,” I couldn't go.",
+    "ru": "Для меня это «масэн дэсита». Так можно выразить и сожаление: «икэмасэн дэсита» — не смогла пойти.",
+    "zh": "我觉得是「ませんでした」。还能表达遗憾，比如「行けませんでした」（没能去）。",
+    "ja": "わたしは、「ませんでした」です。「行けませんでした」と、残念な気持ちも、言えます。",
+    "romaji": "Watashi wa, 'masen deshita' desu. 'Ikemasen deshita' to, zannen na kimochi mo, iemasu."
+  },
+  "sl7.talk_tanaka": {
+    "en": "Lovely. Once you can talk about the past, you can share your experiences with others.",
+    "ru": "Прекрасно. Когда вы можете говорить о прошлом, вы можете делиться своим опытом с другими.",
+    "zh": "真好。学会谈论过去的事，就能把自己的经历告诉别人了。",
+    "ja": "すてきですね。過去の話が、できるようになると、経験を、人に伝えられます。",
+    "romaji": "Suteki desu ne. Kako no hanashi ga, dekiru you ni naru to, keiken o, hito ni tsutaeraremasu."
+  },
+  "sl7.talk_player": {
+    "en": "(I went, I ate. It was delicious, it was fun. When I can use words for the past, memories come back to me in Japanese. Tomorrow, I'll try writing about yesterday in a diary.)",
+    "ru": "(Ходил, ел. Было вкусно, было весело. Когда умеешь использовать слова для прошлого, воспоминания возвращаются на японском. Завтра попробую записать вчерашний день в дневник.)",
+    "zh": "（去了，吃了。好吃，有趣。会用表示过去的词，回忆就会用日语回到身边。明天，我要试着把昨天一天写进日记里。）",
+    "ja": "（行きました、食べました。おいしかった、楽しかった。過去の言葉が使えると、思い出が、日本語で、そばに戻ってくる。あしたは、きのうの一日を、日記に書いてみよう。）",
+    "romaji": "(Ikimashita, tabemashita. Oishikatta, tanoshikatta. Kako no kotoba ga tsukaeru to, omoide ga, nihongo de, soba ni modotte kuru. Ashita wa, kinou no ichinichi o, nikki ni kaite miyou.)"
+  },
+  "sl7.talk_close": {
+    "en": "Good lesson, everyone. In the next class, we'll study ways to make requests: “kudasai” and “~ te kudasai.”",
+    "ru": "Хороший урок, все. На следующем уроке изучим способы просить: «кудасай» и «~ тэ кудасай».",
+    "zh": "各位，这节课很棒。下节课我们来学习请求的说法：「ください」和「〜てください」。",
+    "ja": "みなさん、いいレッスンでした。次の授業では、お願いの言い方、「ください」と、「〜てください」を勉強しましょう。",
+    "romaji": "Minasan, ii ressun deshita. Tsugi no jugyou de wa, onegai no iikata, 'kudasai' to, '~ te kudasai' o benkyou shimashou."
+  },
+  "sl7.complete": {
+    "en": "End of Sentence Lesson 7.",
+    "ru": "Конец урока предложений 7.",
+    "zh": "句型课 7 结束。",
+    "ja": "文型レッスン7、おわり。",
+    "romaji": "Bunkei ressun nana, owari."
+  }
+}

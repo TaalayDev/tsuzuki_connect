@@ -1,0 +1,695 @@
+{
+  "sl10.title": {
+    "en": "Inviting and Replying: ~ masen ka, ~ mashou",
+    "ru": "Приглашаем и отвечаем: ~ масэн ка, ~ масё",
+    "zh": "邀请与回应：〜ませんか・〜ましょう",
+    "ja": "さそう・こたえる：〜ませんか・〜ましょう",
+    "romaji": "Sasou, kotaeru: ~ masen ka, ~ mashou"
+  },
+  "sl10.subtitle": {
+    "en": "Planning a trip to Kyoto together",
+    "ru": "Планируем поездку в Киото вместе",
+    "zh": "大家一起策划去京都",
+    "ja": "みんなで、京都へ行く計画",
+    "romaji": "Minna de, Kyouto e iku keikaku"
+  },
+  "sl10.description": {
+    "en": "While planning a Kyoto trip for Mei's birthday, practice inviting, replying, declining, and arranging a meeting time and place.",
+    "ru": "Планируя поездку в Киото ко дню рождения Мэй, потренируйте приглашения, ответы, отказы и договорённости о времени и месте встречи.",
+    "zh": "一边策划小梅生日的京都之旅，一边练习邀请、回应、拒绝以及商量集合时间地点的说法。",
+    "ja": "メイさんの誕生日の京都旅行を計画しながら、さそう言い方、答え方、ことわり方、待ち合わせの相談を練習します。",
+    "romaji": "Mei-san no tanjoubi no Kyouto ryokou o keikaku shinagara, sasou iikata, kotaekata, kotowarikata, machiawase no soudan o renshuu shimasu."
+  },
+  "sl10.pattern.1": {
+    "en": "Won't you ~? (inviting)",
+    "ru": "Не хотите ли ~? (приглашение)",
+    "zh": "要不要〜？（邀请）",
+    "ja": "〜ませんか",
+    "romaji": "~ masen ka"
+  },
+  "sl10.pattern.2": {
+    "en": "Let's ~",
+    "ru": "Давайте ~",
+    "zh": "我们〜吧",
+    "ja": "〜ましょう",
+    "romaji": "~ mashou"
+  },
+  "sl10.pattern.3": {
+    "en": "accepting and gently declining",
+    "ru": "принять и мягко отказаться",
+    "zh": "接受与委婉拒绝",
+    "ja": "いいですね・すみません、ちょっと…",
+    "romaji": "ii desu ne, sumimasen, chotto..."
+  },
+  "sl10.pattern.4": {
+    "en": "Shall we ~? / Shall I ~?",
+    "ru": "Может, ~? / Мне ~?",
+    "zh": "我们〜好吗？／我来〜好吗？",
+    "ja": "〜ましょうか",
+    "romaji": "~ mashou ka"
+  },
+  "sl10.setup": {
+    "en": "The classroom after school. Mei's birthday is next Saturday. Everyone has decided to go to Kyoto with Mei. Today they make the plan.",
+    "ru": "Класс после уроков. День рождения Мэй в следующую субботу. Все решили поехать с Мэй в Киото. Сегодня они составляют план.",
+    "zh": "放学后的教室。小梅的生日是下周六。大家决定和小梅一起去京都。今天来制定计划。",
+    "ja": "放課後の教室。メイの誕生日は、来週の土曜日だ。みんなは、メイといっしょに、京都に行くことに決めた。今日は、その計画を立てる。",
+    "romaji": "Houkago no kyoushitsu. Mei no tanjoubi wa, raishuu no doyoubi da. Minna wa, Mei to issho ni, Kyouto ni iku koto ni kimeta. Kyou wa, sono keikaku o tateru."
+  },
+  "sl10.t_intro": {
+    "en": "Today's theme is words for inviting. While planning the Kyoto trip, let's use “~ masen ka” and “~ mashou.”",
+    "ru": "Тема сегодня — слова для приглашения. Планируя поездку в Киото, давайте используем «~ масэн ка» и «~ масё».",
+    "zh": "今天的主题是邀请的用语。我们在策划京都之旅的同时，练习使用「〜ませんか」「〜ましょう」。",
+    "ja": "今日のテーマは、さそう言葉です。京都旅行の計画を立てながら、「〜ませんか」「〜ましょう」を使ってみましょう。",
+    "romaji": "Kyou no teema wa, sasou kotoba desu. Kyouto ryokou no keikaku o tatenagara, '~ masen ka' '~ mashou' o tsukatte mimashou."
+  },
+  "sl10.s1_intro": {
+    "en": "When you invite someone, use “~ masen ka.” “Issho ni, ikimasen ka” is a gentle way of inviting, meaning “let's go together.”",
+    "ru": "Когда приглашают человека, используют «~ масэн ка». «Иссё ни, икимасэн ка» — это мягкая форма приглашения: «давайте пойдём вместе».",
+    "zh": "邀请别人时，用「〜ませんか」。「いっしょに、行きませんか」是一种温和的邀请方式，意思是“我们一起去吧”。",
+    "ja": "人をさそうときは、「〜ませんか」です。「いっしょに、行きませんか」は、「いっしょに行きましょう」と、やさしくさそう形です。",
+    "romaji": "Hito o sasou toki wa, '~ masen ka' desu. 'Issho ni, ikimasen ka' wa, 'issho ni ikimashou' to, yasashiku sasou katachi desu."
+  },
+  "sl10.s1_ken": {
+    "en": "Mei, won't you come to Kyoto with us on Saturday?",
+    "ru": "Мэй, не хотите ли поехать с нами в Киото в субботу?",
+    "zh": "小梅，星期六要不要一起去京都？",
+    "ja": "メイさん、土曜日に、いっしょに、京都に行きませんか？",
+    "romaji": "Mei-san, doyoubi ni, issho ni, Kyouto ni ikimasen ka?"
+  },
+  "sl10.s1_q1": {
+    "en": "Is “ikimasen ka” a negative question?",
+    "ru": "«Икимасэн ка» — это отрицательный вопрос?",
+    "zh": "「行きませんか」是否定疑问句吗？",
+    "ja": "「行きませんか」は、否定の質問ですか？",
+    "romaji": "'Ikimasen ka' wa, hitei no shitsumon desu ka?"
+  },
+  "sl10.s1_a1": {
+    "en": "The form is “ikimasen” with “ka” added, so it is a negative form. But the meaning is an invitation: “ikimasen ka” = “how about going together?”",
+    "ru": "По форме это «икимасэн» с добавленным «ка», то есть отрицательная форма. Но по смыслу это приглашение: «икимасэн ка» = «как насчёт того, чтобы пойти вместе?».",
+    "zh": "形式上是在「行きません」后面加了「か」，是否定形。但意思是邀请：「行きませんか」＝“一起去怎么样？”",
+    "ja": "形は、「行きません」に「か」がついた、否定の形です。でも、意味は、「行きませんか」＝「いっしょに、どうですか」という、さそいです。",
+    "romaji": "Katachi wa, 'ikimasen' ni 'ka' ga tsuita, hitei no katachi desu. Demo, imi wa, 'ikimasen ka' = 'issho ni, dou desu ka' to iu, sasoi desu."
+  },
+  "sl10.s1_q2": {
+    "en": "Is it different from “ikitai desu ka”?",
+    "ru": "Отличается ли это от «икитай дэс ка»?",
+    "zh": "它和「行きたいですか」有区别吗？",
+    "ja": "「行きたいですか」と、ちがいますか？",
+    "romaji": "'Ikitai desu ka' to, chigaimasu ka?"
+  },
+  "sl10.s1_a2": {
+    "en": "Yes. “Ikitai desu ka” asks about the other person's feelings. “Ikimasen ka” is an invitation, and it makes it easier for the other person to answer.",
+    "ru": "Да. «Икитай дэс ка» спрашивает о чувствах собеседника. «Икимасэн ка» — приглашение, на которое собеседнику легче ответить.",
+    "zh": "有区别。「行きたいですか」是询问对方心情的说法。「行きませんか」是邀请，让对方更容易回答。",
+    "ja": "はい。「行きたいですか」は、相手の気持ちを、聞く言葉です。「行きませんか」は、さそう言葉で、相手が、答えやすくなります。",
+    "romaji": "Hai. 'Ikitai desu ka' wa, aite no kimochi o, kiku kotoba desu. 'Ikimasen ka' wa, sasou kotoba de, aite ga, kotaeyasuku narimasu."
+  },
+  "sl10.p1_prompt": {
+    "en": "Now let's practice. You want to go to Kyoto for Mei's birthday too. Please invite Mei. What do you say?",
+    "ru": "Теперь практика. Вы тоже хотите поехать в Киото на день рождения Мэй. Пригласите Мэй. Что вы скажете?",
+    "zh": "现在来练习。你也想在小梅生日时去京都。请邀请小梅。你会怎么说？",
+    "ja": "では、練習です。あなたも、メイさんの誕生日に、京都に行きたいです。メイさんを、さそってください。何と言いますか？",
+    "romaji": "Dewa, renshuu desu. Anata mo, Mei-san no tanjoubi ni, Kyouto ni ikitai desu. Mei-san o, sasotte kudasai. Nan to iimasu ka?"
+  },
+  "sl10.c1_natural": {
+    "en": "“Mei, won't you come to Kyoto with us on Saturday?”",
+    "ru": "«Мэй, не хотите ли поехать с нами в Киото в субботу?»",
+    "zh": "“小梅，星期六要不要一起去京都？”",
+    "ja": "「メイさん、土曜日に、いっしょに、京都に行きませんか？」",
+    "romaji": "'Mei-san, doyoubi ni, issho ni, Kyouto ni ikimasen ka?'"
+  },
+  "sl10.c1_formal": {
+    "en": "“If it is agreeable, would you not like to accompany us to Kyoto on Saturday?”",
+    "ru": "«Если вам угодно, не соблаговолите ли вы сопроводить нас в Киото в субботу?»",
+    "zh": "“若您方便的话，星期六是否愿意与我们同赴京都？”",
+    "ja": "「もしよろしければ、土曜日に、ご一緒に、京都へ参りませんでしょうか。」",
+    "romaji": "'Moshi yoroshikereba, doyoubi ni, goissho ni, Kyouto e mairimasen deshou ka.'"
+  },
+  "sl10.c1_mistake": {
+    "en": "“Mei, on Saturday, I want to go to Kyoto.”",
+    "ru": "«Мэй, в субботу я хочу поехать в Киото».",
+    "zh": "“小梅，星期六我想去京都。”（只说了自己想去，没有邀请）",
+    "ja": "「メイさん、土曜日に、京都に行きたいです。」",
+    "romaji": "'Mei-san, doyoubi ni, Kyouto ni ikitai desu.'"
+  },
+  "sl10.c1_own": {
+    "en": "“Mei, won't you come to Kyoto with us on your birthday? Let's see temples too.”",
+    "ru": "«Мэй, не хотите ли поехать с нами в Киото в день вашего рождения? Давайте посмотрим и храмы».",
+    "zh": "“小梅，生日那天要不要一起去京都？我们也去看看寺庙吧。”",
+    "ja": "「メイさん、誕生日に、いっしょに、京都に行きませんか？お寺も、見ましょう。」",
+    "romaji": "'Mei-san, tanjoubi ni, issho ni, Kyouto ni ikimasen ka? Otera mo, mimashou.'"
+  },
+  "sl10.c1_min": {
+    "en": "“Kyoto... together...”",
+    "ru": "«Киото… вместе…»",
+    "zh": "“京都……一起……”",
+    "ja": "「京都…いっしょに…」",
+    "romaji": "'Kyouto... issho ni...'"
+  },
+  "sl10.p1_nat_mei": {
+    "en": "Thank you. I'd love to go.",
+    "ru": "Спасибо. Я бы с радостью поехала.",
+    "zh": "谢谢。我很想去。",
+    "ja": "ありがとうございます。ぜひ、行きたいです。",
+    "romaji": "Arigatou gozaimasu. Zehi, ikitai desu."
+  },
+  "sl10.p1_form_ken": {
+    "en": "Haha, Mei looks startled. “Ikimasen ka” is enough.",
+    "ru": "Ха-ха, Мэй удивилась. Достаточно «икимасэн ка».",
+    "zh": "哈哈，小梅都吓了一跳。说「行きませんか」就足够了。",
+    "ja": "あはは、メイさんが、びっくりしていますよ。「行きませんか」で、じゅうぶんです。",
+    "romaji": "Ahaha, Mei-san ga, bikkuri shite imasu yo. 'Ikimasen ka' de, juubun desu."
+  },
+  "sl10.p1_mis_tanaka": {
+    "en": "Close. “Ikitai desu” is a phrase that states your own feelings. When inviting, ask “ikimasen ka.”",
+    "ru": "Почти. «Икитай дэс» — это выражение собственных чувств. Когда приглашают, спрашивают «икимасэн ка».",
+    "zh": "很接近。「行きたいです」是说自己心情的话。邀请别人时，要问「行きませんか」。",
+    "ja": "惜しいです。「行きたいです」は、自分の気持ちを言う言葉です。さそうときは、「行きませんか」と、聞きましょう。",
+    "romaji": "Oshii desu. 'Ikitai desu' wa, jibun no kimochi o iu kotoba desu. Sasou toki wa, 'ikimasen ka' to, kikimashou."
+  },
+  "sl10.p1_mis_retry": {
+    "en": "Oh, Mei, won't you come to Kyoto with us on Saturday?",
+    "ru": "Ой, Мэй, не хотите ли поехать с нами в Киото в субботу?",
+    "zh": "啊，小梅，星期六要不要一起去京都？",
+    "ja": "あっ、メイさん、土曜日に、いっしょに、京都に行きませんか？",
+    "romaji": "A, Mei-san, doyoubi ni, issho ni, Kyouto ni ikimasen ka?"
+  },
+  "sl10.p1_mis_relief": {
+    "en": "Yes, thank you. I'd love to go!",
+    "ru": "Да, спасибо. Я с радостью поеду!",
+    "zh": "好的，谢谢。我很想去！",
+    "ja": "はい、ありがとうございます。ぜひ、行きたいです！",
+    "romaji": "Hai, arigatou gozaimasu. Zehi, ikitai desu!"
+  },
+  "sl10.p1_own_mei": {
+    "en": "I'm happy. I want to see temples too. With all of you, it sounds like fun.",
+    "ru": "Я рада. Я тоже хочу посмотреть храмы. Со всеми вами будет весело.",
+    "zh": "我好高兴。我也想看寺庙。和大家一起，一定很有趣。",
+    "ja": "うれしいです。お寺も、見たいです。みなさんと、いっしょなら、楽しそうです。",
+    "romaji": "Ureshii desu. Otera mo, mitai desu. Minasan to, issho nara, tanoshisou desu."
+  },
+  "sl10.p1_min_yuki": {
+    "en": "I understand. Try asking in a full sentence: “Kyouto ni, issho ni, ikimasen ka?”",
+    "ru": "Понимаю. Спросите целым предложением: «Кё:то ни, иссё ни, икимасэн ка?».",
+    "zh": "我明白。试着用完整的句子问：「京都に、いっしょに、行きませんか？」",
+    "ja": "分かりますよ。「京都に、いっしょに、行きませんか？」と、文で聞いてみましょう。",
+    "romaji": "Wakarimasu yo. 'Kyouto ni, issho ni, ikimasen ka?' to, bun de kiite mimashou."
+  },
+  "sl10.s2_intro": {
+    "en": "Next is “~ mashou.” It means “let's do ~ together.” It is used like “Kyouto ni, ikimashou” and “otera o, mimashou.”",
+    "ru": "Дальше — «~ масё». Оно означает «давайте вместе сделаем ~». Используется так: «Кё:то ни, икимасё», «отэра о, мимасё».",
+    "zh": "接下来是「〜ましょう」。意思是“我们一起〜吧”。用法如「京都に、行きましょう」「お寺を、見ましょう」。",
+    "ja": "次は、「〜ましょう」です。「いっしょに、〜しよう」という意味です。「京都に、行きましょう」「お寺を、見ましょう」のように使います。",
+    "romaji": "Tsugi wa, '~ mashou' desu. 'Issho ni, ~ shiyou' to iu imi desu. 'Kyouto ni, ikimashou' 'otera o, mimashou' no you ni tsukaimasu."
+  },
+  "sl10.s2_ken": {
+    "en": "Won't you have lunch with us?",
+    "ru": "Не хотите ли пообедать вместе с нами?",
+    "zh": "要不要一起吃午饭？",
+    "ja": "いっしょに、お昼ごはんを、食べませんか？",
+    "romaji": "Issho ni, ohirugohan o, tabemasen ka?"
+  },
+  "sl10.s2_a": {
+    "en": "When you are invited with “~ masen ka,” you reply “hai, ~ mashou.” “Masen ka” and “mashou” go together as a set.",
+    "ru": "Если вас пригласили с помощью «~ масэн ка», отвечают «хай, ~ масё». «Масэн ка» и «масё» идут в паре.",
+    "zh": "被「〜ませんか」邀请时，回答「はい、〜ましょう」。「ませんか」和「ましょう」是一套的。",
+    "ja": "「〜ませんか」と、さそわれたら、「はい、〜ましょう」と、答えます。「ませんか」と「ましょう」は、セットです。",
+    "romaji": "'~ masen ka' to, sasowaretara, 'hai, ~ mashou' to, kotaemasu. 'Masen ka' to 'mashou' wa, setto desu."
+  },
+  "sl10.s2_q1": {
+    "en": "Is “hai, tabemasen” a mistake?",
+    "ru": "«Хай, табэмасэн» — ошибка?",
+    "zh": "「はい、食べません」是错的吗？",
+    "ja": "「はい、食べません」は、まちがいですか？",
+    "romaji": "'Hai, tabemasen' wa, machigai desu ka?"
+  },
+  "sl10.s2_a1": {
+    "en": "Yes. “Tabemasen” means “I won't eat.” If you say it when accepting an invitation, it ends up meaning “no.”",
+    "ru": "Да. «Табэмасэн» означает «не буду есть». Если сказать это, принимая приглашение, получится «нет».",
+    "zh": "是的。「食べません」是“不吃”的意思。接受邀请时说这个，就变成“不”的意思了。",
+    "ja": "はい。「食べません」は、「食べない」という意味です。さそいを受けるときに言うと、「いいえ」の意味になって、しまいます。",
+    "romaji": "Hai. 'Tabemasen' wa, 'tabenai' to iu imi desu. Sasoi o ukeru toki ni iu to, 'iie' no imi ni natte, shimaimasu."
+  },
+  "sl10.s2_q2": {
+    "en": "Is it okay to say “ikimashou” to a teacher as well?",
+    "ru": "Можно ли говорить «икимасё» и учителю?",
+    "zh": "可以对老师也说「行きましょう」吗？",
+    "ja": "先生にも、「行きましょう」と言っていいですか？",
+    "romaji": "'Sensei ni mo, 'ikimashou' to itte ii desu ka?"
+  },
+  "sl10.s2_a2": {
+    "en": "Yes, it's fine. “Mashou” is a polite form. But to someone senior, “masen ka” is softer as an invitation.",
+    "ru": "Да, можно. «Масё» — вежливая форма. Но старшим по положению «масэн ка» как приглашение звучит мягче.",
+    "zh": "可以。「ましょう」是礼貌的形式。不过对长辈来说，作为邀请，「ませんか」更温和。",
+    "ja": "はい、大丈夫です。「ましょう」は、ていねいな形です。でも、目上の人には、「ませんか」のほうが、さそいとして、やわらかいです。",
+    "romaji": "Hai, daijoubu desu. 'Mashou' wa, teinei na katachi desu. Demo, meue no hito ni wa, 'masen ka' no hou ga, sasoi to shite, yawarakai desu."
+  },
+  "sl10.p2_ken": {
+    "en": "Won't you have lunch together?",
+    "ru": "Не хотите ли пообедать вместе?",
+    "zh": "要不要一起吃午饭？",
+    "ja": "いっしょに、お昼ごはんを、食べませんか？",
+    "romaji": "Issho ni, ohirugohan o, tabemasen ka?"
+  },
+  "sl10.p2_prompt": {
+    "en": "Ken has invited you. You want to have lunch too. How do you answer?",
+    "ru": "Кен пригласил вас. Вы тоже хотите пообедать. Что вы ответите?",
+    "zh": "健邀请了你。你也想吃午饭。你会怎么回答？",
+    "ja": "ケンさんが、あなたを、さそいました。あなたも、お昼ごはんを、食べたいです。何と答えますか？",
+    "romaji": "Ken-san ga, anata o, sasoimashita. Anata mo, ohirugohan o, tabetai desu. Nan to kotaemasu ka?"
+  },
+  "sl10.c2_natural": {
+    "en": "“Yes, that sounds good. Let's eat.”",
+    "ru": "«Да, отличная идея. Давайте поедим».",
+    "zh": "“好的，不错。我们吃吧。”",
+    "ja": "「はい、いいですね。食べましょう。」",
+    "romaji": "'Hai, ii desu ne. Tabemashou.'"
+  },
+  "sl10.c2_formal": {
+    "en": "“I would very much like to be permitted to join you.”",
+    "ru": "«Я бы очень хотел, с вашего позволения, присоединиться к вам».",
+    "zh": "“我非常乐意，请允许我与您同往。”",
+    "ja": "「ぜひ、ご一緒させていただきたく存じます。」",
+    "romaji": "'Zehi, goissho sasete itadakitaku zonjimasu.'"
+  },
+  "sl10.c2_mistake": {
+    "en": "“Yes, I won't eat.”",
+    "ru": "«Да, не буду есть».",
+    "zh": "“是的，我不吃。”",
+    "ja": "「はい、食べません。」",
+    "romaji": "'Hai, tabemasen.'"
+  },
+  "sl10.c2_own": {
+    "en": "“That sounds good. Let's eat. What shall we eat?”",
+    "ru": "«Отличная идея. Давайте поедим. Что будем есть?»",
+    "zh": "“不错。我们吃吧。我们吃什么好呢？”",
+    "ja": "「いいですね。食べましょう。何を、食べましょうか？」",
+    "romaji": "'Ii desu ne. Tabemashou. Nani o, tabemashou ka?'"
+  },
+  "sl10.c2_min": {
+    "en": "“Yes... I'll eat...”",
+    "ru": "«Да… ем…»",
+    "zh": "“是……吃……”",
+    "ja": "「はい…食べます…」",
+    "romaji": "'Hai... tabemasu...'"
+  },
+  "sl10.p2_nat_ken": {
+    "en": "Great! The café has a new lunch set.",
+    "ru": "Отлично! В кафе появился новый ланч.",
+    "zh": "太好了！咖啡店有新的午餐套餐哦。",
+    "ja": "よかった！カフェに、新しい、ランチがありますよ。",
+    "romaji": "Yokatta! Kafe ni, atarashii, ranchi ga arimasu yo."
+  },
+  "sl10.p2_form_mei": {
+    "en": "Ha, it's just lunch. “Hai, tabemashou” is fine.",
+    "ru": "Ха-ха, это всего лишь обед. Достаточно «хай, табэмасё».",
+    "zh": "呵呵，只是午饭而已。说「はい、食べましょう」就行。",
+    "ja": "ふふ、お昼ごはんですよ。「はい、食べましょう」で、いいです。",
+    "romaji": "Fufu, ohirugohan desu yo. 'Hai, tabemashou' de, ii desu."
+  },
+  "sl10.p2_mis_ken": {
+    "en": "Huh, you're not going to eat? “Tabemasen” means “I won't eat.” Let's say “tabemashou.”",
+    "ru": "Что, вы не будете есть? «Табэмасэн» означает «не буду есть». Скажем «табэмасё».",
+    "zh": "咦，你不吃吗？「食べません」是“不吃”的意思。要说「食べましょう」。",
+    "ja": "えっ、食べないんですか？「食べません」は、「食べない」という意味ですよ。「食べましょう」と、言いましょう。",
+    "romaji": "E, tabenai n desu ka? 'Tabemasen' wa, 'tabenai' to iu imi desu yo. 'Tabemashou' to, iimashou."
+  },
+  "sl10.p2_mis_retry": {
+    "en": "Oh, yes, let's eat!",
+    "ru": "Ой, да, давайте поедим!",
+    "zh": "啊，好的，我们吃吧！",
+    "ja": "あっ、はい、食べましょう！",
+    "romaji": "A, hai, tabemashou!"
+  },
+  "sl10.p2_mis_relief": {
+    "en": "Yes, that's it! Let's eat together.",
+    "ru": "Да, именно так! Давайте поедим вместе.",
+    "zh": "对，就是这个！我们一起吃吧。",
+    "ja": "はい、それです！いっしょに、食べましょう。",
+    "romaji": "Hai, sore desu! Issho ni, tabemashou."
+  },
+  "sl10.p2_own_ken": {
+    "en": "How about the café's new lunch? The sandwich is delicious.",
+    "ru": "Как насчёт нового ланча в кафе? Сэндвич очень вкусный.",
+    "zh": "咖啡店的新午餐怎么样？三明治很好吃哦。",
+    "ja": "カフェの、新しいランチは、どうですか？サンドイッチが、おいしいですよ。",
+    "romaji": "Kafe no, atarashii ranchi wa, dou desu ka? Sandoitchi ga, oishii desu yo."
+  },
+  "sl10.p2_min_tanaka": {
+    "en": "The meaning gets across. But when you are invited, replying “hai, tabemashou” is more natural.",
+    "ru": "Смысл понятен. Но когда вас приглашают, естественнее ответить «хай, табэмасё».",
+    "zh": "意思能传达。不过被邀请时，回答「はい、食べましょう」更自然。",
+    "ja": "意味は、伝わります。でも、さそわれたときは、「はい、食べましょう」と、答えるのが、自然です。",
+    "romaji": "Imi wa, tsutawarimasu. Demo, sasowareta toki wa, 'hai, tabemashou' to, kotaeru no ga, shizen desu."
+  },
+  "sl10.s3_intro": {
+    "en": "You can answer an invitation with “ii desu ne” or “zehi.” When declining, say it gently with “sumimasen, chotto...”",
+    "ru": "На приглашение можно ответить «ии дэс нэ» или «дзэхи». Отказываясь, говорят мягко: «сумимасэн, чотто…».",
+    "zh": "对邀请，可以用「いいですね」「ぜひ」来回答。拒绝时，要温和地说「すみません、ちょっと……」。",
+    "ja": "さそいには、「いいですね」「ぜひ」で、答えられます。ことわるときは、「すみません、ちょっと…」と、やわらかく言います。",
+    "romaji": "Sasoi ni wa, 'ii desu ne' 'zehi' de, kotaeraremasu. Kotowaru toki wa, 'sumimasen, chotto...' to, yawarakaku iimasu."
+  },
+  "sl10.s3_ex": {
+    "en": "“Won't you go to karaoke on Sunday?” “Sorry, Sunday is a bit... I have homework.”",
+    "ru": "«Не хотите ли пойти в караоке в воскресенье?» — «Простите, воскресенье — это как-то… У меня домашнее задание».",
+    "zh": "“星期日要不要去卡拉OK？”“对不起，星期日有点……因为我有作业。”",
+    "ja": "「日曜日に、カラオケに、行きませんか？」「すみません、日曜日は、ちょっと…。宿題がありますから」。",
+    "romaji": "'Nichiyoubi ni, karaoke ni, ikimasen ka?' 'Sumimasen, nichiyoubi wa, chotto.... Shukudai ga arimasu kara.'"
+  },
+  "sl10.s3_q1": {
+    "en": "Is it okay to decline without giving a reason?",
+    "ru": "Можно ли отказаться, не называя причину?",
+    "zh": "可以不说理由就拒绝吗？",
+    "ja": "理由を言わないで、ことわってもいいですか？",
+    "romaji": "'Riyuu o iwanaide, kotowatte mo ii desu ka?"
+  },
+  "sl10.s3_a1": {
+    "en": "Just “sumimasen, chotto...” gets the message across. But adding a reason with “~ kara” softens the other person's feelings even more.",
+    "ru": "Даже одно «сумимасэн, чотто…» передаёт смысл. Но если добавить причину с «~ кара», чувства собеседника смягчатся ещё больше.",
+    "zh": "只说「すみません、ちょっと……」也能传达。不过加上「〜から」说明理由，对方的心情会更舒缓。",
+    "ja": "「すみません、ちょっと…」だけでも、伝わります。でも、「〜から」と、理由を足すと、相手の気持ちが、もっとやわらぎます。",
+    "romaji": "'Sumimasen, chotto...' dake demo, tsutawarimasu. Demo, '~ kara' to, riyuu o tasu to, aite no kimochi ga, motto yawaragimasu."
+  },
+  "sl10.s3_q2": {
+    "en": "What is “mata kondo”?",
+    "ru": "Что означает «мата кондо»?",
+    "zh": "「また今度」是什么意思？",
+    "ja": "「また今度」は、何ですか？",
+    "romaji": "'Mata kondo' wa, nan desu ka?"
+  },
+  "sl10.s3_a2": {
+    "en": "“Mata kondo” means “next time.” After declining, saying “mata kondo, onegaishimasu” leaves a good impression.",
+    "ru": "«Мата кондо» означает «в следующий раз». Если после отказа сказать «мата кондо, онэгайсимас», это оставляет хорошее впечатление.",
+    "zh": "「また今度」是“下次有机会再说”的意思。拒绝之后，说一句「また今度、お願いします」，会给人留下好印象。",
+    "ja": "「また今度」は、「次の機会に」という意味です。ことわったあとに、「また今度、お願いします」と言うと、感じがいいです。",
+    "romaji": "'Mata kondo' wa, 'tsugi no kikai ni' to iu imi desu. Kotowatta ato ni, 'mata kondo, onegaishimasu' to iu to, kanji ga ii desu."
+  },
+  "sl10.y_invite": {
+    "en": "Won't you go to karaoke with me on Sunday?",
+    "ru": "Не хотите ли сходить со мной в караоке в воскресенье?",
+    "zh": "星期日要不要一起去卡拉OK？",
+    "ja": "日曜日に、いっしょに、カラオケに行きませんか？",
+    "romaji": "Nichiyoubi ni, issho ni, karaoke ni ikimasen ka?"
+  },
+  "sl10.p3_prompt": {
+    "en": "Yuki has invited you. But you have homework on Sunday and can't go. How do you answer?",
+    "ru": "Юки пригласила вас. Но в воскресенье у вас домашнее задание, и вы не можете пойти. Что вы ответите?",
+    "zh": "由纪邀请了你。但是星期日你有作业，去不了。你会怎么回答？",
+    "ja": "由紀さんが、あなたを、さそいました。でも、日曜日は、宿題があって、行けません。何と答えますか？",
+    "romaji": "Yuki-san ga, anata o, sasoimashita. Demo, nichiyoubi wa, shukudai ga atte, ikemasen. Nan to kotaemasu ka?"
+  },
+  "sl10.c3_natural": {
+    "en": "“Sorry, Sunday is a bit... I have homework.”",
+    "ru": "«Простите, воскресенье — это как-то… У меня домашнее задание».",
+    "zh": "“对不起，星期日有点……因为我有作业。”",
+    "ja": "「すみません、日曜日は、ちょっと…。宿題がありますから。」",
+    "romaji": "'Sumimasen, nichiyoubi wa, chotto.... Shukudai ga arimasu kara.'"
+  },
+  "sl10.c3_formal": {
+    "en": "“Unfortunately, I have a prior engagement on Sunday, and cannot attend.”",
+    "ru": "«К сожалению, в воскресенье у меня заранее назначено другое дело, и я не смогу присоединиться».",
+    "zh": "“很遗憾，星期日我已有约在先，无法前往。”",
+    "ja": "「あいにく、日曜日は、先約がございまして、うかがえません。」",
+    "romaji": "'Ainiku, nichiyoubi wa, senyaku ga gozaimashite, ukagaemasen.'"
+  },
+  "sl10.c3_mistake": {
+    "en": "“I don't want to. I won't go.”",
+    "ru": "«Не хочу. Не пойду».",
+    "zh": "“不要。我不去。”",
+    "ja": "「いやです。行きません。」",
+    "romaji": "'Iya desu. Ikimasen.'"
+  },
+  "sl10.c3_own": {
+    "en": "“Sorry, Sunday is a bit... I have homework. I'd like to go next time.”",
+    "ru": "«Простите, воскресенье — это как-то… У меня домашнее задание. В следующий раз я бы с радостью пошёл».",
+    "zh": "“对不起，星期日有点……因为我有作业。下次我想去。”",
+    "ja": "「すみません、日曜日は、ちょっと…。宿題がありますから。また今度、行きたいです。」",
+    "romaji": "'Sumimasen, nichiyoubi wa, chotto.... Shukudai ga arimasu kara. Mata kondo, ikitai desu.'"
+  },
+  "sl10.c3_min": {
+    "en": "“Ah... a bit...”",
+    "ru": "«А… как-то…»",
+    "zh": "“啊……有点……”",
+    "ja": "「あ…ちょっと…」",
+    "romaji": "'A... chotto...'"
+  },
+  "sl10.p3_nat_yuki": {
+    "en": "Understood. Then let's go next time.",
+    "ru": "Поняла. Тогда пойдём в следующий раз.",
+    "zh": "明白了。那我们下次再去吧。",
+    "ja": "分かりました。じゃあ、また今度、行きましょう。",
+    "romaji": "Wakarimashita. Jaa, mata kondo, ikimashou."
+  },
+  "sl10.p3_form_ken": {
+    "en": "Haha, Yuki looks troubled. “Sumimasen, chotto...” is fine.",
+    "ru": "Ха-ха, Юки растерялась. Достаточно «сумимасэн, чотто…».",
+    "zh": "哈哈，由纪都不知所措了。说「すみません、ちょっと……」就行。",
+    "ja": "あはは、由紀さんが、こまっていますよ。「すみません、ちょっと…」で、大丈夫です。",
+    "romaji": "Ahaha, Yuki-san ga, komatte imasu yo. 'Sumimasen, chotto...' de, daijoubu desu."
+  },
+  "sl10.p3_mis_mei": {
+    "en": "Oh, “iya desu” is a very strong phrase. When you decline, let's say it gently with “sumimasen, chotto...”",
+    "ru": "Ой, «ия дэс» — очень резкая фраза. Отказываясь, скажем мягко: «сумимасэн, чотто…».",
+    "zh": "咦，「いやです」是非常强烈的说法。拒绝时，要温和地说「すみません、ちょっと……」。",
+    "ja": "えっ、「いやです」は、とても強い言葉ですよ。ことわるときは、「すみません、ちょっと…」と、やわらかく言いましょう。",
+    "romaji": "E, 'iya desu' wa, totemo tsuyoi kotoba desu yo. Kotowaru toki wa, 'sumimasen, chotto...' to, yawarakaku iimashou."
+  },
+  "sl10.p3_mis_retry": {
+    "en": "Oh, sorry, Sunday is a bit... I have homework.",
+    "ru": "Ой, простите, воскресенье — это как-то… У меня домашнее задание.",
+    "zh": "啊，对不起，星期日有点……因为我有作业。",
+    "ja": "あっ、すみません、日曜日は、ちょっと…。宿題がありますから。",
+    "romaji": "A, sumimasen, nichiyoubi wa, chotto.... Shukudai ga arimasu kara."
+  },
+  "sl10.p3_mis_relief": {
+    "en": "Yes, understood. Good luck with your homework.",
+    "ru": "Да, поняла. Удачи с домашним заданием.",
+    "zh": "好的，明白了。作业加油哦。",
+    "ja": "はい、分かりました。宿題、頑張ってくださいね。",
+    "romaji": "Hai, wakarimashita. Shukudai, ganbatte kudasai ne."
+  },
+  "sl10.p3_own_yuki": {
+    "en": "Thank you. Then let's go next Sunday.",
+    "ru": "Спасибо. Тогда пойдём в воскресенье на следующей неделе.",
+    "zh": "谢谢。那我们下周日去吧。",
+    "ja": "ありがとうございます。じゃあ、来週の日曜日に、行きましょう。",
+    "romaji": "Arigatou gozaimasu. Jaa, raishuu no nichiyoubi ni, ikimashou."
+  },
+  "sl10.p3_min_tanaka": {
+    "en": "That is a very Japanese way of saying it. Let's also include the day: “sumimasen, nichiyoubi wa, chotto...”",
+    "ru": "Это очень по-японски. Давайте добавим и день: «сумимасэн, нитиёби ва, чотто…».",
+    "zh": "这个说法很有日语的风格。把日期也加进去吧：「すみません、日曜日は、ちょっと……」。",
+    "ja": "その言い方は、日本語らしいですね。「すみません、日曜日は、ちょっと…」と、日にちも、入れましょう。",
+    "romaji": "Sono iikata wa, nihongo rashii desu ne. 'Sumimasen, nichiyoubi wa, chotto...' to, hinichi mo, iremashou."
+  },
+  "sl10.station": {
+    "en": "Saturday morning. It's the day of the Kyoto trip. Everyone gathers in front of the station and checks the plan one last time.",
+    "ru": "Утро субботы. День поездки в Киото. Все собрались перед вокзалом и в последний раз проверяют план.",
+    "zh": "星期六早晨。是去京都的日子。大家聚集在车站前，做最后的行程确认。",
+    "ja": "土曜日の朝。京都へ行く日だ。みんなは、駅の前に集まって、計画の、さいごの確認をしている。",
+    "romaji": "Doyoubi no asa. Kyouto e iku hi da. Minna wa, eki no mae ni atsumatte, keikaku no, saigo no kakunin o shite iru."
+  },
+  "sl10.s4_intro": {
+    "en": "The last is “~ mashou ka.” “~ shimashou ka” has a feeling of consulting together, more than “~ shimasen ka.” It's used like “nanji ni, aimashou ka.”",
+    "ru": "Последнее — «~ масё ка». «~ симасё ка» звучит скорее как совместное обсуждение, чем «~ симасэн ка». Используется так: «нандзи ни, аимасё ка».",
+    "zh": "最后是「〜ましょうか」。「〜しましょうか」比「〜しませんか」更有商量的感觉。用法如「何時に、会いましょうか」。",
+    "ja": "最後は、「〜ましょうか」です。「〜しましょうか」は、「〜しませんか」よりも、相談する感じです。「何時に、会いましょうか」のように使います。",
+    "romaji": "Saigo wa, '~ mashou ka' desu. '~ shimashou ka' wa, '~ shimasen ka' yori mo, soudan suru kanji desu. 'Nanji ni, aimashou ka' no you ni tsukaimasu."
+  },
+  "sl10.s4_ex": {
+    "en": "“Mashou ka” is also used when you offer to do something for someone. “Nimotsu o, mochimashou ka?” means “shall I carry your luggage?”",
+    "ru": "«Масё ка» используют и когда предлагают сделать что-то для другого. «Нимоцу о, мотимасё ка?» означает «мне понести ваш багаж?».",
+    "zh": "「ましょうか」也用于表示自己主动帮别人做什么。「荷物を、持ちましょうか？」的意思是“我来帮您拿行李好吗？”",
+    "ja": "「ましょうか」は、自分が何かをしてあげるときにも、使います。「荷物を、持ちましょうか？」は、「持ってあげますか」という意味です。",
+    "romaji": "'Mashou ka' wa, jibun ga nani ka o shite ageru toki ni mo, tsukaimasu. 'Nimotsu o, mochimashou ka?' wa, 'motte agemasu ka' to iu imi desu."
+  },
+  "sl10.s4_q1": {
+    "en": "How are “mashou” and “mashou ka” different?",
+    "ru": "Чем «масё» отличается от «масё ка»?",
+    "zh": "「ましょう」和「ましょうか」有什么不同？",
+    "ja": "「ましょう」と「ましょうか」は、どうちがいますか？",
+    "romaji": "'Mashou' to 'mashou ka' wa, dou chigaimasu ka?"
+  },
+  "sl10.s4_a1": {
+    "en": "“Mashou” has the feeling of firmly deciding, “let's do it.” “Mashou ka” has the feeling of asking for the other person's opinion, “shall we?”",
+    "ru": "«Масё» звучит как твёрдое решение: «давайте сделаем». «Масё ка» — как вопрос о мнении другого: «может, сделаем?».",
+    "zh": "「ましょう」有明确决定的感觉：“我们做吧”。「ましょうか」有征询对方想法的感觉：“我们做好吗？”",
+    "ja": "「ましょう」は、「〜しよう」と、はっきり決める感じです。「ましょうか」は、「〜しようか」と、相手の考えを、聞く感じです。",
+    "romaji": "'Mashou' wa, '~ shiyou' to, hakkiri kimeru kanji desu. 'Mashou ka' wa, '~ shiyou ka' to, aite no kangae o, kiku kanji desu."
+  },
+  "sl10.s4_q2": {
+    "en": "Why are “ni” and “de” used like that in “kuji ni, eki de aimashou”?",
+    "ru": "Почему «ни» и «дэ» стоят именно так в «кудзи ни, эки дэ аимасё»?",
+    "zh": "「九時に、駅で会いましょう」里的「に」和「で」，为什么是这样用的？",
+    "ja": "「九時に、駅で会いましょう」の、「に」と「で」は、どうして、その形ですか？",
+    "romaji": "'Kuji ni, eki de aimashou' no, 'ni' to 'de' wa, doushite, sono katachi desu ka?"
+  },
+  "sl10.s4_a2": {
+    "en": "For clock times, it's “ni”: “kuji ni.” For the place where you do the action of meeting, it's “de”: “eki de.” We studied this in Sentence Lesson 6.",
+    "ru": "Для времени по часам — «ни»: «кудзи ни». Для места, где выполняется действие встречи, — «дэ»: «эки дэ». Мы изучали это на уроке предложений 6.",
+    "zh": "钟表时间用「に」：「九時に」。做“见面”这个动作的地点用「で」：「駅で」。我们在句型课6里学过。",
+    "ja": "時計の時間には、「に」です。「九時に」。会うという動きを、する場所には、「で」です。「駅で」。文型レッスン6で勉強しましたね。",
+    "romaji": "Tokei no jikan ni wa, 'ni' desu. 'Kuji ni'. Au to iu ugoki o, suru basho ni wa, 'de' desu. 'Eki de'. Bunkei ressun roku de benkyou shimashita ne."
+  },
+  "sl10.m_ask": {
+    "en": "Once we're in Kyoto, what time and where shall we meet?",
+    "ru": "Когда мы будем в Киото, во сколько и где встретимся?",
+    "zh": "到了京都，我们几点在哪里碰头好呢？",
+    "ja": "京都では、何時に、どこで、会いましょうか？",
+    "romaji": "Kyouto de wa, nanji ni, doko de, aimashou ka?"
+  },
+  "sl10.p4_prompt": {
+    "en": "Mei asked. You would like to meet at Kyoto Station at nine o'clock. How do you answer?",
+    "ru": "Мэй спросила. Вы хотите встретиться на вокзале Киото в девять часов. Что вы ответите?",
+    "zh": "小梅问了。你想在京都车站九点碰头。你会怎么回答？",
+    "ja": "メイさんが、聞きました。あなたは、京都駅で、九時に、会いたいです。何と答えますか？",
+    "romaji": "Mei-san ga, kikimashita. Anata wa, Kyouto-eki de, kuji ni, aitai desu. Nan to kotaemasu ka?"
+  },
+  "sl10.c4_natural": {
+    "en": "“Let's meet at Kyoto Station at nine.”",
+    "ru": "«Давайте встретимся на вокзале Киото в девять».",
+    "zh": "“九点在京都车站碰头吧。”",
+    "ja": "「九時に、京都駅で、会いましょう。」",
+    "romaji": "'Kuji ni, Kyouto-eki de, aimashou.'"
+  },
+  "sl10.c4_formal": {
+    "en": "“It would be fortunate if we could arrange to meet at Kyoto Station at nine.”",
+    "ru": "«Было бы прекрасно, если бы мы могли встретиться на вокзале Киото в девять».",
+    "zh": "“若能九点在京都车站碰头，将不胜荣幸。”",
+    "ja": "「九時に、京都駅にて、お待ち合わせ願えれば、幸いです。」",
+    "romaji": "'Kuji ni, Kyouto-eki nite, omachiawase negaereba, saiwai desu.'"
+  },
+  "sl10.c4_mistake": {
+    "en": "“By nine, to Kyoto Station, let's meet.”",
+    "ru": "«К девяти (дэ), на вокзал Киото (ни), давайте встретимся».",
+    "zh": "“用九点，到京都车站，见面吧。”（に和で用反了）",
+    "ja": "「九時で、京都駅に、会いましょう。」",
+    "romaji": "'Kuji de, Kyouto-eki ni, aimashou.'"
+  },
+  "sl10.c4_own": {
+    "en": "“Let's meet at Kyoto Station at nine. Then let's go to the temple.”",
+    "ru": "«Давайте встретимся на вокзале Киото в девять. Потом пойдём в храм».",
+    "zh": "“九点在京都车站碰头吧。然后我们去寺庙。”",
+    "ja": "「九時に、京都駅で、会いましょう。それから、お寺に、行きましょう。」",
+    "romaji": "'Kuji ni, Kyouto-eki de, aimashou. Sorekara, otera ni, ikimashou.'"
+  },
+  "sl10.c4_min": {
+    "en": "“Nine... Kyoto Station...”",
+    "ru": "«Девять… вокзал Киото…»",
+    "zh": "“九点……京都车站……”",
+    "ja": "「九時…京都駅…」",
+    "romaji": "'Kuji... Kyouto-eki...'"
+  },
+  "sl10.p4_nat_mei": {
+    "en": "Yes, understood. At nine, at Kyoto Station. I'm looking forward to it!",
+    "ru": "Да, поняла. В девять на вокзале Киото. С нетерпением жду!",
+    "zh": "好的，明白了。九点在京都车站对吧。好期待！",
+    "ja": "はい、分かりました。九時に、京都駅で、ですね。楽しみです！",
+    "romaji": "Hai, wakarimashita. Kuji ni, Kyouto-eki de, desu ne. Tanoshimi desu!"
+  },
+  "sl10.p4_form_ken": {
+    "en": "Haha, it's just a meetup with friends. “Kuji ni, Kyouto-eki de, aimashou” is fine.",
+    "ru": "Ха-ха, это же встреча с друзьями. Достаточно «кудзи ни, Кё:то-эки дэ, аимасё».",
+    "zh": "哈哈，只是和朋友碰头而已。说「九時に、京都駅で、会いましょう」就行。",
+    "ja": "あはは、友達との、待ち合わせですよ。「九時に、京都駅で、会いましょう」で、いいです。",
+    "romaji": "Ahaha, tomodachi to no, machiawase desu yo. 'Kuji ni, Kyouto-eki de, aimashou' de, ii desu."
+  },
+  "sl10.p4_mis_tanaka": {
+    "en": "Close. Time takes “ni,” and the place where you meet takes “de.” It's “kuji ni, Kyouto-eki de, aimashou.”",
+    "ru": "Почти. Время — «ни», место встречи — «дэ». Получается «кудзи ни, Кё:то-эки дэ, аимасё».",
+    "zh": "很接近。时间用「に」，见面的地点用「で」。说「九時に、京都駅で、会いましょう」。",
+    "ja": "惜しいです。時間には「に」、会う場所には「で」です。「九時に、京都駅で、会いましょう」です。",
+    "romaji": "Oshii desu. Jikan ni wa 'ni', au basho ni wa 'de' desu. 'Kuji ni, Kyouto-eki de, aimashou' desu."
+  },
+  "sl10.p4_mis_retry": {
+    "en": "Oh, let's meet at Kyoto Station at nine.",
+    "ru": "Ой, давайте встретимся на вокзале Киото в девять.",
+    "zh": "啊，九点在京都车站碰头吧。",
+    "ja": "あっ、九時に、京都駅で、会いましょう。",
+    "romaji": "A, kuji ni, Kyouto-eki de, aimashou."
+  },
+  "sl10.p4_mis_relief": {
+    "en": "Yes, that's it. You used “ni” and “de” properly.",
+    "ru": "Да, именно так. Вы правильно использовали «ни» и «дэ».",
+    "zh": "对，就是这个。「に」和「で」你都用对了。",
+    "ja": "はい、それです。「に」と「で」が、ちゃんと使えましたね。",
+    "romaji": "Hai, sore desu. 'Ni' to 'de' ga, chanto tsukaemashita ne."
+  },
+  "sl10.p4_own_mei": {
+    "en": "Sounds good. Let's meet at nine, and then go to the temple.",
+    "ru": "Отлично. Встретимся в девять, а потом пойдём в храм.",
+    "zh": "不错。九点碰头，然后去寺庙吧。",
+    "ja": "いいですね。九時に会って、それから、お寺に行きましょう。",
+    "romaji": "Ii desu ne. Kuji ni atte, sorekara, otera ni ikimashou."
+  },
+  "sl10.p4_min_yuki": {
+    "en": "I understand. Try connecting it: “kuji ni, Kyouto-eki de, aimashou.”",
+    "ru": "Понимаю. Скажите слитно: «кудзи ни, Кё:то-эки дэ, аимасё».",
+    "zh": "我明白。试着连起来说：「九時に、京都駅で、会いましょう」。",
+    "ja": "分かりますよ。「九時に、京都駅で、会いましょう」と、つなげて、言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Kuji ni, Kyouto-eki de, aimashou' to, tsunagete, itte mimashou."
+  },
+  "sl10.talk_open": {
+    "en": "Now let's talk. Out of the ten lessons, which form do you like best?",
+    "ru": "Теперь поговорим. Какая форма из десяти уроков вам нравится больше всего?",
+    "zh": "现在来聊聊。这十节课里，你最喜欢哪一个句型？",
+    "ja": "では、話しましょう。十回のレッスンで、いちばん、好きな形は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Jukkai no ressun de, ichiban, suki na katachi wa, dore desu ka?"
+  },
+  "sl10.talk_mei": {
+    "en": "For me, it's “~ mashou.” It makes me happy when we say it while doing something together.",
+    "ru": "Для меня это «~ масё». Когда мы говорим это, занимаясь чем-то вместе, мне становится радостно.",
+    "zh": "我最喜欢「〜ましょう」。大家一起做事情时说出来，会让人心情变好。",
+    "ja": "わたしは、「〜ましょう」です。みんなで、何かをするときに、言うと、うれしくなります。",
+    "romaji": "Watashi wa, '~ mashou' desu. Minna de, nani ka o suru toki ni, iu to, ureshiku narimasu."
+  },
+  "sl10.talk_ken": {
+    "en": "For me, it's “~ wa ~ desu.” I learned it first, and I've used it the most.",
+    "ru": "Для меня это «~ ва ~ дэс». Я выучил её первой и использовал чаще всего.",
+    "zh": "我最喜欢「〜は〜です」。是最先学的，也是用得最多的。",
+    "ja": "ぼくは、「〜は〜です」です。いちばん、はじめに習って、いちばん、たくさん使いました。",
+    "romaji": "Boku wa, '~ wa ~ desu' desu. Ichiban, hajime ni naratte, ichiban, takusan tsukaimashita."
+  },
+  "sl10.talk_yuki": {
+    "en": "For me, it's “sumimasen, chotto...” I think it's a gentle way of speaking that feels very Japanese.",
+    "ru": "Для меня это «сумимасэн, чотто…». Мне кажется, это мягкая манера говорить, очень по-японски.",
+    "zh": "我最喜欢「すみません、ちょっと……」。我觉得这是一种很有日语风格的温柔说法。",
+    "ja": "わたしは、「すみません、ちょっと…」です。日本語らしくて、やさしい言い方だと、思います。",
+    "romaji": "Watashi wa, 'sumimasen, chotto...' desu. Nihongo rashikute, yasashii iikata da to, omoimasu."
+  },
+  "sl10.talk_tanaka": {
+    "en": "Everyone, the ten sentence lessons are now finished. From “~ wa ~ desu” to “~ mashou,” you have learned to use many patterns.",
+    "ru": "Все, десять уроков предложений закончены. От «~ ва ~ дэс» до «~ масё» вы научились использовать много форм.",
+    "zh": "各位，十节句型课到此结束。从「〜は〜です」到「〜ましょう」，你们已经学会使用很多句型了。",
+    "ja": "みなさん、十回の文型レッスンが、これで終わりました。「〜は〜です」から、「〜ましょう」まで、たくさんの形を、使えるようになりましたね。",
+    "romaji": "Minasan, jukkai no bunkei ressun ga, kore de owarimashita. '~ wa ~ desu' kara, '~ mashou' made, takusan no katachi o, tsukaeru you ni narimashita ne."
+  },
+  "sl10.talk_recap": {
+    "en": "Self-introductions, things and places, questions, numbers, verbs, the past, requests, feelings, and now invitations. You now have the forms you need for life in Japanese.",
+    "ru": "Самопредставление, вещи и места, вопросы, числа, глаголы, прошедшее время, просьбы, чувства и, наконец, приглашения. Теперь у вас есть формы, необходимые для жизни на японском.",
+    "zh": "自我介绍、事物与地点、提问、数字、动词、过去式、请求、心情，以及邀请。你们已经掌握了日语生活所需的句型。",
+    "ja": "自己紹介、ものと場所、質問、数字、動詞、過去、お願い、気持ち、そして、さそい。日本語の生活で、必要な形が、そろいました。",
+    "romaji": "Jikoshoukai, mono to basho, shitsumon, suuji, doushi, kako, onegai, kimochi, soshite, sasoi. Nihongo no seikatsu de, hitsuyou na katachi ga, soroimashita."
+  },
+  "sl10.talk_player": {
+    "en": "(Through ten lessons, Japanese sentences have gradually become my own words. I've even made friends I can invite with “ikimasen ka.” Next, I'll try taking on longer conversations.)",
+    "ru": "(За десять уроков японские предложения понемногу стали моими собственными словами. У меня появились и друзья, которых я могу пригласить словами «икимасэн ка». Дальше я попробую взяться и за более длинные беседы.)",
+    "zh": "（通过十节课，日语的句子一点一点变成了我自己的话。也有了可以用「行きませんか」来邀请的朋友。接下来，我要试着挑战更长的对话。）",
+    "ja": "（十回のレッスンで、日本語の文が、少しずつ、自分の言葉になった。「行きませんか」と、さそえる友達も、できた。次は、もっと長い、話にも、挑戦してみよう。）",
+    "romaji": "(Jukkai no ressun de, nihongo no bun ga, sukoshi zutsu, jibun no kotoba ni natta. 'Ikimasen ka' to, sasoeru tomodachi mo, dekita. Tsugi wa, motto nagai, hanashi ni mo, chousen shite miyou.)"
+  },
+  "sl10.talk_close": {
+    "en": "Everyone, you did very well. Now, let's go to Kyoto!",
+    "ru": "Все, вы отлично поработали. А теперь — поехали в Киото!",
+    "zh": "各位，你们做得很好。好，我们去京都吧！",
+    "ja": "みなさん、よくがんばりました。さあ、京都へ、行きましょう！",
+    "romaji": "Minasan, yoku ganbarimashita. Saa, Kyouto e, ikimashou!"
+  },
+  "sl10.complete": {
+    "en": "End of Sentence Lesson 10.",
+    "ru": "Конец урока предложений 10.",
+    "zh": "句型课 10 结束。",
+    "ja": "文型レッスン10、おわり。",
+    "romaji": "Bunkei ressun juu, owari."
+  }
+}

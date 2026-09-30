@@ -1,0 +1,695 @@
+{
+  "sl16.title": {
+    "en": "Sharing Your Thoughts: ~ to omoimasu",
+    "ru": "Делимся мыслями: ~ то омоимас",
+    "zh": "说说想法：〜と思います",
+    "ja": "考えを話す：〜と思います",
+    "romaji": "Kangae o hanasu: ~ to omoimasu"
+  },
+  "sl16.subtitle": {
+    "en": "Giving opinions, reporting, and predicting",
+    "ru": "Высказываем мнения, передаём слова и делаем прогнозы",
+    "zh": "发表意见、转述、推测",
+    "ja": "意見を言う・伝える・予想する",
+    "romaji": "Iken o iu, tsutaeru, yosou suru"
+  },
+  "sl16.description": {
+    "en": "In a classroom discussion, share your thoughts using four patterns: “~ to omoimasu,” “~ to omoimasen,” “~ to iimashita,” and “~ deshou / ~ kamoshiremasen.”",
+    "ru": "В классной дискуссии выскажите свои мысли, используя четыре формы: «~ то омоимас», «~ то омоимасэн», «~ то иимасита» и «~ дэсё / ~ камосиремасэн».",
+    "zh": "在课堂讨论中，用四种句型说出自己的想法：「〜と思います」「〜と思いません」「〜と言いました」「〜でしょう・〜かもしれません」。",
+    "ja": "教室のディスカッションで、「〜と思います」「〜と思いません」「〜と言いました」「〜でしょう・〜かもしれません」の四つの形を使って、自分の考えを話します。",
+    "romaji": "Kyoushitsu no disukasshon de, '~ to omoimasu' '~ to omoimasen' '~ to iimashita' '~ deshou' '~ kamoshiremasen' no yottsu no katachi o tsukatte, jibun no kangae o hanashimasu."
+  },
+  "sl16.pattern.1": {
+    "en": "I think that ~",
+    "ru": "Я думаю, что ~",
+    "zh": "我认为〜",
+    "ja": "〜と思います",
+    "romaji": "~ to omoimasu"
+  },
+  "sl16.pattern.2": {
+    "en": "Do you think ~? / I don't think ~",
+    "ru": "Как вы думаете, ~? / Я не думаю, что ~",
+    "zh": "你认为〜吗？／我不认为〜",
+    "ja": "〜と思いますか・〜と思いません",
+    "romaji": "~ to omoimasu ka, ~ to omoimasen"
+  },
+  "sl16.pattern.3": {
+    "en": "said that ~ (reporting)",
+    "ru": "сказал, что ~ (передача слов)",
+    "zh": "说了〜（转述）",
+    "ja": "〜と言いました・言っていました",
+    "romaji": "~ to iimashita, itte imashita"
+  },
+  "sl16.pattern.4": {
+    "en": "probably ~ / maybe ~",
+    "ru": "наверное ~ / возможно ~",
+    "zh": "大概〜／也许〜",
+    "ja": "〜でしょう・〜かもしれません",
+    "romaji": "~ deshou, ~ kamoshiremasen"
+  },
+  "sl16.setup": {
+    "en": "The classroom in the afternoon. Today is not a regular lesson but a discussion. The day's theme is written on the blackboard: “What is the most important thing in studying Japanese?”",
+    "ru": "Класс днём. Сегодня не обычный урок, а дискуссия. На доске написана тема дня: «Что самое важное при изучении японского?»",
+    "zh": "午后的教室。今天不是普通的课，而是讨论时间。黑板上写着今天的主题：“学习日语时，最重要的是什么？”",
+    "ja": "午後の教室。今日は、いつもの授業ではなく、ディスカッションの時間だ。黒板には、今日のテーマが、書いてある。「日本語の勉強で、いちばん大切なことは？」",
+    "romaji": "Gogo no kyoushitsu. Kyou wa, itsumo no jugyou de wa naku, disukasshon no jikan da. Kokuban ni wa, kyou no teema ga, kaite aru. 'Nihongo no benkyou de, ichiban taisetsu na koto wa?'"
+  },
+  "sl16.t_intro": {
+    "en": "Today's theme is words for sharing your own thoughts. Centering on “~ to omoimasu,” let's give and listen to opinions.",
+    "ru": "Тема сегодня — слова для выражения собственных мыслей. Давайте, опираясь на «~ то омоимас», высказывать мнения и слушать других.",
+    "zh": "今天的主题是表达自己想法的用语。让我们以「〜と思います」为中心，发表意见并倾听别人的意见。",
+    "ja": "今日のテーマは、自分の考えを、話す言葉です。「〜と思います」を中心に、意見を言ったり、聞いたりしましょう。",
+    "romaji": "Kyou no teema wa, jibun no kangae o, hanasu kotoba desu. '~ to omoimasu' o chuushin ni, iken o ittari, kiitari shimashou."
+  },
+  "sl16.s1_intro": {
+    "en": "To give an opinion, use “~ to omoimasu.” Before “to,” use the plain form: “taisetsu da to omoimasu,” “muzukashii to omoimasu,” “iku to omoimasu.”",
+    "ru": "Чтобы высказать мнение, используют «~ то омоимас». Перед «то» ставят простую форму: «тайсэцу да то омоимас», «музукасий то омоимас», «ику то омоимас».",
+    "zh": "发表意见时，用「〜と思います」。「と」前面用普通形：「大切だと思います」「むずかしいと思います」「行くと思います」。",
+    "ja": "意見を言うときは、「〜と思います」です。「と」の前は、ふつうの形です。「大切だと思います」「むずかしいと思います」「行くと思います」。",
+    "romaji": "Iken o iu toki wa, '~ to omoimasu' desu. 'To' no mae wa, futsuu no katachi desu. 'Taisetsu da to omoimasu' 'muzukashii to omoimasu' 'iku to omoimasu'."
+  },
+  "sl16.s1_ex": {
+    "en": "I think that speaking a little every day is important.",
+    "ru": "Я думаю, что важно говорить хотя бы понемногу каждый день.",
+    "zh": "我认为每天哪怕说一点点，也是很重要的。",
+    "ja": "私は、毎日、少しでも、話すことが、大切だと思います。",
+    "romaji": "Watashi wa, mainichi, sukoshi demo, hanasu koto ga, taisetsu da to omoimasu."
+  },
+  "sl16.s1_q1": {
+    "en": "Are “omoimasu” and “kangaemasu” different?",
+    "ru": "«Омоимас» и «кангаэмас» отличаются?",
+    "zh": "「思います」和「考えます」有区别吗？",
+    "ja": "「思います」と「考えます」は、ちがいますか？",
+    "romaji": "'Omoimasu' to 'kangaemasu' wa, chigaimasu ka?"
+  },
+  "sl16.s1_a1": {
+    "en": "Yes. “Omoimasu” is a thought that comes to mind naturally. “Kangaemasu” is when you use your head and think something over carefully. In conversation, “omoimasu” is used more often.",
+    "ru": "Да. «Омоимас» — мысль, которая приходит сама собой. «Кангаэмас» — когда вы используете голову и обдумываете что-то тщательно. В разговоре чаще используют «омоимас».",
+    "zh": "有区别。「思います」是自然浮现在心里的想法。「考えます」是动脑筋仔细思考的时候。会话中更常用「思います」。",
+    "ja": "はい。「思います」は、自然に心に浮かぶ考えです。「考えます」は、頭を使って、じっくり考えるときです。会話では、「思います」が、よく使われます。",
+    "romaji": "Hai. 'Omoimasu' wa, shizen ni kokoro ni ukabu kangae desu. 'Kangaemasu' wa, atama o tsukatte, jikkuri kangaeru toki desu. Kaiwa de wa, 'omoimasu' ga, yoku tsukawaremasu."
+  },
+  "sl16.s1_q2": {
+    "en": "Do you also use “~ to omoimasu” when giving opinions to a teacher?",
+    "ru": "Используют ли «~ то омоимас» и при высказывании мнения учителю?",
+    "zh": "对老师发表意见时，也用「〜と思います」吗？",
+    "ja": "先生にも、意見を言うとき、「〜と思います」を使いますか？",
+    "romaji": "'Sensei ni mo, iken o iu toki, '~ to omoimasu' o tsukaimasu ka?"
+  },
+  "sl16.s1_a2": {
+    "en": "Yes, it's used often. Using “~ to omoimasu” makes an opinion sound softer. It feels more polite than flatly asserting “~ desu.”",
+    "ru": "Да, его часто используют. С «~ то омоимас» мнение звучит мягче. Это вежливее, чем категорично утверждать «~ дэс».",
+    "zh": "是的，经常使用。用了「〜と思います」，意见听起来更柔和。比直接断言「〜です」更显得礼貌。",
+    "ja": "はい、よく使います。「〜と思います」を使うと、意見が、やわらかく聞こえます。「〜です」と言い切るより、ていねいな感じがします。",
+    "romaji": "Hai, yoku tsukaimasu. '~ to omoimasu' o tsukau to, iken ga, yawarakaku kikoemasu. '~ desu' to iikiru yori, teinei na kanji ga shimasu."
+  },
+  "sl16.p1_prompt": {
+    "en": "Tanaka-sensei asked, “What do you think is the most important thing in studying Japanese?” You believe that speaking every day is important. How do you answer?",
+    "ru": "Танака-сэнсэй спросил: «Как вы думаете, что самое важное при изучении японского?» Вы считаете, что важно говорить каждый день. Что вы ответите?",
+    "zh": "田中老师问：“你认为学习日语时最重要的是什么？”你认为每天说话很重要。你会怎么回答？",
+    "ja": "田中先生が、聞きました。「日本語の勉強で、いちばん大切なことは、何だと思いますか？」あなたは、毎日話すことが、大切だと考えています。何と答えますか？",
+    "romaji": "Tanaka-sensei ga, kikimashita. 'Nihongo no benkyou de, ichiban taisetsu na koto wa, nan da to omoimasu ka?' Anata wa, mainichi hanasu koto ga, taisetsu da to kangaete imasu. Nan to kotaemasu ka?"
+  },
+  "sl16.c1_natural": {
+    "en": "“I think speaking every day is important.”",
+    "ru": "«Я думаю, что важно говорить каждый день».",
+    "zh": "“我认为每天说话很重要。”",
+    "ja": "「毎日、話すことが、大切だと思います。」",
+    "romaji": "'Mainichi, hanasu koto ga, taisetsu da to omoimasu.'"
+  },
+  "sl16.c1_formal": {
+    "en": "“I believe that accumulating conversations day by day is essential.”",
+    "ru": "«Полагаю, что ежедневные разговоры имеют первостепенное значение».",
+    "zh": "“我认为每天积累对话是最关键的。”",
+    "ja": "「日々、会話を重ねることが、肝要かと存じます。」",
+    "romaji": "'Hibi, kaiwa o kasaneru koto ga, kanyou ka to zonjimasu.'"
+  },
+  "sl16.c1_mistake": {
+    "en": "“I think that (polite) speaking every day is important.”",
+    "ru": "«Я думаю, что (вежл.) важно говорить каждый день».",
+    "zh": "“我认为每天说话大切ですと思います。”（と前面用了です）",
+    "ja": "「毎日、話すことが、大切ですと思います。」",
+    "romaji": "'Mainichi, hanasu koto ga, taisetsu desu to omoimasu.'"
+  },
+  "sl16.c1_own": {
+    "en": "“I think speaking every day is important. I think it's better to speak even if you make mistakes.”",
+    "ru": "«Я думаю, что важно говорить каждый день. Думаю, лучше говорить, даже если делаешь ошибки».",
+    "zh": "“我认为每天说话很重要。我觉得即使说错了，也还是说出来比较好。”",
+    "ja": "「毎日、話すことが、大切だと思います。間違えても、話したほうが、いいと思います。」",
+    "romaji": "'Mainichi, hanasu koto ga, taisetsu da to omoimasu. Machigaete mo, hanashita hou ga, ii to omoimasu.'"
+  },
+  "sl16.c1_min": {
+    "en": "“Every day... speak... important... think...”",
+    "ru": "«Каждый день… говорить… важно… думаю…»",
+    "zh": "“每天……说……重要……认为……”",
+    "ja": "「毎日…話す…大切…思います…」",
+    "romaji": "'Mainichi... hanasu... taisetsu... omoimasu...'"
+  },
+  "sl16.p1_nat_tanaka": {
+    "en": "A good opinion. I think so too.",
+    "ru": "Хорошее мнение. Я тоже так думаю.",
+    "zh": "很好的意见。我也这么认为。",
+    "ja": "いい意見ですね。私も、そう思います。",
+    "romaji": "Ii iken desu ne. Watashi mo, sou omoimasu."
+  },
+  "sl16.p1_form_ken": {
+    "en": "Haha, that sounds like a greeting at a meeting. “Taisetsu da to omoimasu” is fine.",
+    "ru": "Ха-ха, как вступление на собрании. Достаточно «тайсэцу да то омоимас».",
+    "zh": "哈哈，像会议上的开场白一样。说「大切だと思います」就行。",
+    "ja": "あはは、会議の、あいさつみたいです。「大切だと思います」で、いいですよ。",
+    "romaji": "Ahaha, kaigi no, aisatsu mitai desu. 'Taisetsu da to omoimasu' de, ii desu yo."
+  },
+  "sl16.p1_mis_tanaka": {
+    "en": "Close. Before “to,” you use the plain form. Not “taisetsu desu,” but “taisetsu da.” You say “taisetsu da to omoimasu.”",
+    "ru": "Почти. Перед «то» используют простую форму. Не «тайсэцу дэс», а «тайсэцу да». Говорят «тайсэцу да то омоимас».",
+    "zh": "很接近。「と」前面要用普通形。不是「大切です」，而是「大切だ」。说「大切だと思います」。",
+    "ja": "惜しいです。「と」の前は、ふつうの形です。「大切です」ではなく、「大切だ」です。「大切だと思います」と言います。",
+    "romaji": "Oshii desu. 'To' no mae wa, futsuu no katachi desu. 'Taisetsu desu' de wa naku, 'taisetsu da' desu. 'Taisetsu da to omoimasu' to iimasu."
+  },
+  "sl16.p1_mis_retry": {
+    "en": "Oh, I think speaking every day is important.",
+    "ru": "Ой, я думаю, что важно говорить каждый день.",
+    "zh": "啊，我认为每天说话很重要。",
+    "ja": "あっ、毎日、話すことが、大切だと思います。",
+    "romaji": "A, mainichi, hanasu koto ga, taisetsu da to omoimasu."
+  },
+  "sl16.p1_mis_relief": {
+    "en": "Yes, that's it. What comes before “to” is now in the plain form.",
+    "ru": "Да, именно так. То, что перед «то», теперь в простой форме.",
+    "zh": "对，就是这个。「と」前面变成了普通形。",
+    "ja": "はい、それです。「と」の前が、ふつうの形になりました。",
+    "romaji": "Hai, sore desu. 'To' no mae ga, futsuu no katachi ni narimashita."
+  },
+  "sl16.p1_own_tanaka": {
+    "en": "A wonderful opinion. Mistakes are the beginning of improvement.",
+    "ru": "Замечательное мнение. Ошибки — начало совершенствования.",
+    "zh": "很精彩的意见。错误是进步的开始。",
+    "ja": "すばらしい意見です。間違いは、上達の、はじまりですよ。",
+    "romaji": "Subarashii iken desu. Machigai wa, joutatsu no, hajimari desu yo."
+  },
+  "sl16.p1_min_yuki": {
+    "en": "Your thought comes across. Try turning it into one sentence: “mainichi, hanasu koto ga, taisetsu da to omoimasu.”",
+    "ru": "Ваша мысль понятна. Попробуйте оформить её в одно предложение: «майнити, ханасу кото га, тайсэцу да то омоимас».",
+    "zh": "你的想法能传达。试着组成一个句子：「毎日、話すことが、大切だと思います」。",
+    "ja": "考えは、伝わりますよ。「毎日、話すことが、大切だと思います」と、ひとつの文にしてみましょう。",
+    "romaji": "Kangae wa, tsutawarimasu yo. 'Mainichi, hanasu koto ga, taisetsu da to omoimasu' to, hitotsu no bun ni shite mimashou."
+  },
+  "sl16.s2_intro": {
+    "en": "To ask for someone else's opinion, use “~ to omoimasu ka.” “Dou omoimasu ka” is also often used.",
+    "ru": "Чтобы узнать мнение собеседника, используют «~ то омоимас ка». «Доу омоимас ка» тоже часто используют.",
+    "zh": "询问对方的意见时，用「〜と思いますか」。「どう思いますか」也很常用。",
+    "ja": "相手の意見を聞くときは、「〜と思いますか」です。「どう思いますか」も、よく使います。",
+    "romaji": "Aite no iken o kiku toki wa, '~ to omoimasu ka' desu. 'Dou omoimasu ka' mo, yoku tsukaimasu."
+  },
+  "sl16.s2_ans": {
+    "en": "The answer is “hai, sou omoimasu” or “iie, sou omoimasen.” “Sou” means “that idea.”",
+    "ru": "Ответ: «хай, со: омоимас» или «ииэ, со: омоимасэн». «Со:» означает «эта мысль».",
+    "zh": "回答是「はい、そう思います」或「いいえ、そう思いません」。「そう」是“那个想法”的意思。",
+    "ja": "答えは、「はい、そう思います」か、「いいえ、そう思いません」です。「そう」は、「その考え」という意味です。",
+    "romaji": "Kotae wa, 'hai, sou omoimasu' ka, 'iie, sou omoimasen' desu. 'Sou' wa, 'sono kangae' to iu imi desu."
+  },
+  "sl16.s2_neg": {
+    "en": "When your opinion is the opposite, it is natural to negate the content of the sentence, as in “~ kunai to omoimasu.” “~ to omoimasen” is also a correct form.",
+    "ru": "Когда ваше мнение противоположно, естественно отрицать содержание предложения, например «~ кунай то омоимас». «~ то омоимасэн» — тоже правильная форма.",
+    "zh": "当自己的意见相反时，把句子内容变为否定更自然，如「〜くないと思います」。「〜と思いません」也是正确的形式。",
+    "ja": "自分の意見が、反対のときは、「〜くないと思います」のように、文の中を、否定にするのが、自然です。「〜と思いません」も、正しい形です。",
+    "romaji": "Jibun no iken ga, hantai no toki wa, '~ kunai to omoimasu' no you ni, bun no naka o, hitei ni suru no ga, shizen desu. '~ to omoimasen' mo, tadashii katachi desu."
+  },
+  "sl16.s2_q1": {
+    "en": "Is it okay to say “muzukashikunai da to omoimasu”?",
+    "ru": "Можно ли сказать «музукасикунай да то омоимас»?",
+    "zh": "可以说「むずかしくないだと思います」吗？",
+    "ja": "「むずかしくないだと思います」と、言ってもいいですか？",
+    "romaji": "'Muzukashikunai da to omoimasu' to, itte mo ii desu ka?"
+  },
+  "sl16.s2_a1": {
+    "en": "No, you don't insert “da” after “nai.” It's “muzukashikunai to omoimasu.” “Da” only comes after na-adjectives and nouns.",
+    "ru": "Нет, после «най» «да» не вставляют. Говорят «музукасикунай то омоимас». «Да» ставится только после na-прилагательных и существительных.",
+    "zh": "不能。「ない」后面不加「だ」。说「むずかしくないと思います」。「だ」只出现在な形容词和名词的后面。",
+    "ja": "いいえ、「ない」の後ろに、「だ」は入れません。「むずかしくないと思います」です。「だ」は、な形容詞や、名詞の後ろだけです。",
+    "romaji": "Iie, 'nai' no ushiro ni, 'da' wa iremasen. 'Muzukashikunai to omoimasu' desu. 'Da' wa, na-keiyoushi ya, meishi no ushiro dake desu."
+  },
+  "sl16.s2_q2": {
+    "en": "What does the answer to “dou omoimasu ka” look like?",
+    "ru": "Как выглядит ответ на «доу омоимас ка»?",
+    "zh": "「どう思いますか」的回答是什么样的？",
+    "ja": "「どう思いますか」の答えは、どうなりますか？",
+    "romaji": "'Dou omoimasu ka' no kotae wa, dou narimasu ka?"
+  },
+  "sl16.s2_a2": {
+    "en": "You answer with “~ to omoimasu.” For “Nihongo wa, dou omoimasu ka?” you say your own thought, like “omoshiroi to omoimasu.”",
+    "ru": "Отвечают с помощью «~ то омоимас». На «нихонго ва, доу омоимас ка?» высказывают своё мнение, например «омосирой то омоимас».",
+    "zh": "用「〜と思います」回答。对「日本語は、どう思いますか？」，说出自己的想法，如「おもしろいと思います」。",
+    "ja": "「〜と思います」で答えます。「日本語は、どう思いますか？」「おもしろいと思います」のように、自分の考えを、言います。",
+    "romaji": "'~ to omoimasu' de kotaemasu. 'Nihongo wa, dou omoimasu ka?' 'Omoshiroi to omoimasu' no you ni, jibun no kangae o, iimasu."
+  },
+  "sl16.k_ask": {
+    "en": "Do you think Japanese is difficult?",
+    "ru": "Как вы думаете, японский язык сложный?",
+    "zh": "你认为日语难吗？",
+    "ja": "日本語は、むずかしいと思いますか？",
+    "romaji": "Nihongo wa, muzukashii to omoimasu ka?"
+  },
+  "sl16.p2_prompt": {
+    "en": "Ken asked. You think Japanese isn't very difficult. How do you answer?",
+    "ru": "Кен спросил. Вы считаете, что японский не очень сложный. Что вы ответите?",
+    "zh": "健问了。你觉得日语不太难。你会怎么回答？",
+    "ja": "ケンさんが、聞きました。あなたは、日本語は、あまり、むずかしくないと思っています。何と答えますか？",
+    "romaji": "Ken-san ga, kikimashita. Anata wa, nihongo wa, amari, muzukashikunai to omotte imasu. Nan to kotaemasu ka?"
+  },
+  "sl16.c2_natural": {
+    "en": "“No, I don't think it's very difficult.”",
+    "ru": "«Нет, я не думаю, что он очень сложный».",
+    "zh": "“不，我认为不太难。”",
+    "ja": "「いいえ、あまり、むずかしくないと思います。」",
+    "romaji": "'Iie, amari, muzukashikunai to omoimasu.'"
+  },
+  "sl16.c2_formal": {
+    "en": "“No, I consider that it is not all that arduous.”",
+    "ru": "«Нет, я полагаю, что он не столь уж труден».",
+    "zh": "“不，我认为并没有那么艰难。”",
+    "ja": "「いえ、それほど難儀ではないものと、考えております。」",
+    "romaji": "'Ie, sore hodo nangi de wa nai mono to, kangaete orimasu.'"
+  },
+  "sl16.c2_mistake": {
+    "en": "“No, I think it's not very difficult-da.”",
+    "ru": "«Нет, я думаю, что он не очень сложный-да».",
+    "zh": "“不，我认为不太难だ。”（在ない后面加了だ）",
+    "ja": "「いいえ、あまり、むずかしくないだと思います。」",
+    "romaji": "'Iie, amari, muzukashikunai da to omoimasu.'"
+  },
+  "sl16.c2_own": {
+    "en": "“No, I don't think it's very difficult. But I think kanji is difficult.”",
+    "ru": "«Нет, я не думаю, что он очень сложный. Но иероглифы, мне кажется, сложные».",
+    "zh": "“不，我认为不太难。不过我觉得汉字很难。”",
+    "ja": "「いいえ、あまり、むずかしくないと思います。でも、漢字は、むずかしいと思います。」",
+    "romaji": "'Iie, amari, muzukashikunai to omoimasu. Demo, kanji wa, muzukashii to omoimasu.'"
+  },
+  "sl16.c2_min": {
+    "en": "“No... not difficult... think...”",
+    "ru": "«Нет… не сложный… думаю…»",
+    "zh": "“不……不难……认为……”",
+    "ja": "「いいえ…むずかしくない…思います…」",
+    "romaji": "'Iie... muzukashikunai... omoimasu...'"
+  },
+  "sl16.p2_nat_ken": {
+    "en": "Oh, is that so. I think it's a little difficult.",
+    "ru": "О, вот как. Мне кажется, он немного сложный.",
+    "zh": "咦，是这样吗。我觉得有点难。",
+    "ja": "へえ、そうですか。ぼくは、少し、むずかしいと思います。",
+    "romaji": "Hee, sou desu ka. Boku wa, sukoshi, muzukashii to omoimasu."
+  },
+  "sl16.p2_form_mei": {
+    "en": "Ha, that sounds like a thesis. “Muzukashikunai to omoimasu” is fine.",
+    "ru": "Ха-ха, как диссертация. Достаточно «музукасикунай то омоимас».",
+    "zh": "呵呵，像论文一样。说「むずかしくないと思います」就行。",
+    "ja": "ふふ、論文みたいです。「むずかしくないと思います」で、いいですよ。",
+    "romaji": "Fufu, ronbun mitai desu. 'Muzukashikunai to omoimasu' de, ii desu yo."
+  },
+  "sl16.p2_mis_tanaka": {
+    "en": "Close. You don't insert “da” after “nai.” You say “muzukashikunai to omoimasu.” “Da” comes after nouns and na-adjectives.",
+    "ru": "Почти. После «най» «да» не вставляют. Говорят «музукасикунай то омоимас». «Да» стоит после существительных и na-прилагательных.",
+    "zh": "很接近。「ない」后面不加「だ」。说「むずかしくないと思います」。「だ」用于名词和な形容词的后面。",
+    "ja": "惜しいです。「ない」の後ろに、「だ」は入れません。「むずかしくないと思います」と言います。「だ」は、名詞と、な形容詞の後ろです。",
+    "romaji": "Oshii desu. 'Nai' no ushiro ni, 'da' wa iremasen. 'Muzukashikunai to omoimasu' to iimasu. 'Da' wa, meishi to, na-keiyoushi no ushiro desu."
+  },
+  "sl16.p2_mis_retry": {
+    "en": "Oh, no, I don't think it's very difficult.",
+    "ru": "Ой, нет, я не думаю, что он очень сложный.",
+    "zh": "啊，不，我认为不太难。",
+    "ja": "あっ、いいえ、あまり、むずかしくないと思います。",
+    "romaji": "A, iie, amari, muzukashikunai to omoimasu."
+  },
+  "sl16.p2_mis_relief": {
+    "en": "Yes, that's it. Forms ending in “nai” connect directly to “to.”",
+    "ru": "Да, именно так. Формы, оканчивающиеся на «най», присоединяются к «то» напрямую.",
+    "zh": "对，就是这个。以「ない」结尾的形式，直接接「と」。",
+    "ja": "はい、それです。「ない」で終わる形は、そのまま、「と」につなげます。",
+    "romaji": "Hai, sore desu. 'Nai' de owaru katachi wa, sono mama, 'to' ni tsunagemasu."
+  },
+  "sl16.p2_own_ken": {
+    "en": "I think kanji is difficult too. Let's do our best together.",
+    "ru": "Иероглифы, мне тоже кажется, сложные. Давайте вместе постараемся.",
+    "zh": "汉字我也觉得难。我们一起加油吧。",
+    "ja": "漢字は、ぼくも、むずかしいと思います。いっしょに、頑張りましょう。",
+    "romaji": "Kanji wa, boku mo, muzukashii to omoimasu. Issho ni, ganbarimashou."
+  },
+  "sl16.p2_min_yuki": {
+    "en": "Your thought comes across. Try saying it through: “muzukashikunai to omoimasu.”",
+    "ru": "Ваша мысль понятна. Скажите слитно: «музукасикунай то омоимас».",
+    "zh": "你的想法能传达。试着连起来说：「むずかしくないと思います」。",
+    "ja": "考えは、伝わりますよ。「むずかしくないと思います」と、続けて、言ってみましょう。",
+    "romaji": "Kangae wa, tsutawarimasu yo. 'Muzukashikunai to omoimasu' to, tsuzukete, itte mimashou."
+  },
+  "sl16.s3_intro": {
+    "en": "To pass on what someone else said, use “~ to iimashita.” Put the content of what was said in the plain form before “to.”",
+    "ru": "Чтобы передать то, что сказал другой человек, используют «~ то иимасита». Содержание сказанного ставят в простой форме перед «то».",
+    "zh": "转述别人说的话时，用「〜と言いました」。在「と」前面用普通形放入所说的内容。",
+    "ja": "ほかの人が言ったことを、伝えるときは、「〜と言いました」です。「と」の前に、ふつうの形で、言った内容を入れます。",
+    "romaji": "Hoka no hito ga itta koto o, tsutaeru toki wa, '~ to iimashita' desu. 'To' no mae ni, futsuu no katachi de, itta naiyou o iremasu."
+  },
+  "sl16.s3_ex": {
+    "en": "Mei said, “I want to go to Kyoto again.” Or you can report it as “she said that she wants to go to Kyoto again.”",
+    "ru": "Мэй сказала: «Я хочу снова поехать в Киото». Или можно передать так: «она сказала, что хочет снова поехать в Киото».",
+    "zh": "小梅说：“我想再去京都。”或者也可以转述成“她说想再去京都”。",
+    "ja": "メイさんは、「また、京都に行きたいです」と言いました。または、「また、京都に行きたいと言いました」と、伝えます。",
+    "romaji": "Mei-san wa, 'mata, Kyouto ni ikitai desu' to iimashita. Mata wa, 'mata, Kyouto ni ikitai to iimashita' to, tsutaemasu."
+  },
+  "sl16.s3_te": {
+    "en": "For something said a little while ago, use “to itte imashita.” “Mei-san wa, Kyouto ni ikitai to itte imashita” has the feeling of “she was saying so.”",
+    "ru": "Для того, что было сказано незадолго до этого, используют «то иттэ имасита». «Мэй-сан ва, Кё:то ни икитай то иттэ имасита» звучит как «она так говорила».",
+    "zh": "对不久之前说过的话，用「と言っていました」。「メイさんは、京都に行きたいと言っていました」有“她之前这样说过”的感觉。",
+    "ja": "少し前に言ったことは、「と言っていました」を使います。「メイさんは、京都に行きたいと言っていました」は、「そう言っていた」という感じです。",
+    "romaji": "Sukoshi mae ni itta koto wa, 'to itte imashita' o tsukaimasu. 'Mei-san wa, Kyouto ni ikitai to itte imashita' wa, 'sou itte ita' to iu kanji desu."
+  },
+  "sl16.s3_q1": {
+    "en": "Why is “to” necessary?",
+    "ru": "Почему нужно «то»?",
+    "zh": "为什么需要「と」？",
+    "ja": "「と」は、どうして、必要ですか？",
+    "romaji": "'To' wa, doushite, hitsuyou desu ka?"
+  },
+  "sl16.s3_a1": {
+    "en": "“To” is a quotation marker. It is placed before words that convey what was said or thought. You don't say “~ o iimashita.”",
+    "ru": "«То» — маркер цитаты. Его ставят перед словами, передающими то, что было сказано или подумано. Не говорят «~ о иимасита».",
+    "zh": "「と」是引用的标志。放在传达“说过的话”或“想过的事”的词前面。不说「〜を言いました」。",
+    "ja": "「と」は、引用のしるしです。「言ったこと」や「思ったこと」を、伝える言葉の前に、置きます。「〜を言いました」とは、言いません。",
+    "romaji": "'To' wa, in'you no shirushi desu. 'Itta koto' ya 'omotta koto' o, tsutaeru kotoba no mae ni, okimasu. '~ o iimashita' to wa, iimasen."
+  },
+  "sl16.s3_q2": {
+    "en": "Is it different from “~ sou desu”?",
+    "ru": "Отличается ли это от «~ со: дэс»?",
+    "zh": "它和「〜そうです」有区别吗？",
+    "ja": "「〜そうです」と、ちがいますか？",
+    "romaji": "'~ sou desu' to, chigaimasu ka?"
+  },
+  "sl16.s3_a2": {
+    "en": "Yes. “~ to itte imashita” makes clear who said it. “~ sou desu” passes on what you heard as it is. We'll study “sou desu” in detail later.",
+    "ru": "Да. «~ то иттэ имасита» ясно указывает, кто это сказал. «~ со: дэс» передаёт услышанное как есть. «Со: дэс» мы изучим подробнее позже.",
+    "zh": "有区别。「〜と言っていました」明确指出是谁说的。「〜そうです」是把听到的内容原样转达的形式。「そうです」以后再详细学习。",
+    "ja": "はい。「〜と言っていました」は、だれが言ったかを、はっきりさせます。「〜そうです」は、聞いたことを、そのまま伝える形です。「そうです」は、あとで、くわしく勉強しましょう。",
+    "romaji": "Hai. '~ to itte imashita' wa, dare ga itta ka o, hakkiri sasemasu. '~ sou desu' wa, kiita koto o, sono mama tsutaeru katachi desu. 'Sou desu' wa, ato de, kuwashiku benkyou shimashou."
+  },
+  "sl16.y_say": {
+    "en": "Actually, Mei was saying that she wants to go to Kyoto again.",
+    "ru": "Вообще-то Мэй говорила, что хочет снова поехать в Киото.",
+    "zh": "其实，小梅说过她还想再去京都哦。",
+    "ja": "実は、メイさんは、また、京都に行きたいと言っていましたよ。",
+    "romaji": "Jitsu wa, Mei-san wa, mata, Kyouto ni ikitai to itte imashita yo."
+  },
+  "sl16.p3_prompt": {
+    "en": "Yuki has told you that Mei was saying she wants to go to Kyoto again. You want to pass that on to Ken. What do you say?",
+    "ru": "Юки сообщила вам, что Мэй говорила, что хочет снова поехать в Киото. Вы хотите передать это Кену. Что вы скажете?",
+    "zh": "由纪告诉了你，小梅说过她还想再去京都。你想把这件事转告健。你会怎么说？",
+    "ja": "由紀さんが、あなたに、教えてくれました。メイさんは、また、京都に行きたいと、言っていました。あなたは、それを、ケンさんに、伝えたいです。何と言いますか？",
+    "romaji": "Yuki-san ga, anata ni, oshiete kuremashita. Mei-san wa, mata, Kyouto ni ikitai to, itte imashita. Anata wa, sore o, Ken-san ni, tsutaetai desu. Nan to iimasu ka?"
+  },
+  "sl16.c3_natural": {
+    "en": "“Mei was saying that she wants to go to Kyoto again.”",
+    "ru": "«Мэй говорила, что хочет снова поехать в Киото».",
+    "zh": "“小梅说过她还想再去京都。”",
+    "ja": "「メイさんは、また、京都に行きたいと言っていました。」",
+    "romaji": "'Mei-san wa, mata, Kyouto ni ikitai to itte imashita.'"
+  },
+  "sl16.c3_formal": {
+    "en": "“Mei-sama has been saying that she wishes to visit Kyoto once more.”",
+    "ru": "«Мэй-сама изволила говорить, что желает вновь посетить Киото».",
+    "zh": "“小梅小姐曾说过，希望再次造访京都。”",
+    "ja": "「メイ様が、再び京都を訪れたいと、仰っておられました。」",
+    "romaji": "'Mei-sama ga, futatabi Kyouto o otozuretai to, osshatte oraremashita.'"
+  },
+  "sl16.c3_mistake": {
+    "en": "“Mei was saying (o) she wants to go to Kyoto again.”",
+    "ru": "«Мэй говорила (о) хочу снова поехать в Киото».",
+    "zh": "“小梅说过又想去京都を。”（把と说成了を）",
+    "ja": "「メイさんは、また、京都に行きたいを言っていました。」",
+    "romaji": "'Mei-san wa, mata, Kyouto ni ikitai o itte imashita.'"
+  },
+  "sl16.c3_own": {
+    "en": "“Mei was saying that she wants to go to Kyoto again. I hear she'd like to go in autumn next time.”",
+    "ru": "«Мэй говорила, что хочет снова поехать в Киото. Говорят, что в следующий раз она хотела бы поехать осенью».",
+    "zh": "“小梅说过她还想再去京都。听说下次想秋天去。”",
+    "ja": "「メイさんは、また、京都に行きたいと言っていました。今度は、秋に行きたいそうです。」",
+    "romaji": "'Mei-san wa, mata, Kyouto ni ikitai to itte imashita. Kondo wa, aki ni ikitai sou desu.'"
+  },
+  "sl16.c3_min": {
+    "en": "“Mei... Kyoto... want to go... said...”",
+    "ru": "«Мэй… Киото… хочет поехать… говорила…»",
+    "zh": "“小梅……京都……想去……说……”",
+    "ja": "「メイさん…京都…行きたい…言って…」",
+    "romaji": "'Mei-san... Kyouto... ikitai... itte...'"
+  },
+  "sl16.p3_nat_ken": {
+    "en": "I see. Then let's all go again next year.",
+    "ru": "Понятно. Тогда в следующем году поедем все вместе снова.",
+    "zh": "这样啊。那明年我们大家再一起去吧。",
+    "ja": "そうですか。じゃあ、来年、また、みんなで行きましょう。",
+    "romaji": "Sou desu ka. Jaa, rainen, mata, minna de ikimashou."
+  },
+  "sl16.p3_form_mei": {
+    "en": "Ha, I'm not that important. “Itte imashita” is fine.",
+    "ru": "Ха-ха, я не настолько важная особа. Достаточно «иттэ имасита».",
+    "zh": "呵呵，我可没那么了不起。说「言っていました」就行。",
+    "ja": "ふふ、わたしは、そんなに、えらくありませんよ。「言っていました」で、いいです。",
+    "romaji": "Fufu, watashi wa, sonna ni, eraku arimasen yo. 'Itte imashita' de, ii desu."
+  },
+  "sl16.p3_mis_tanaka": {
+    "en": "Close. After the content of what was said, use “to,” not “o.” It's “ikitai to itte imashita.”",
+    "ru": "Почти. После содержания сказанного используют «то», а не «о». Получается «икитай то иттэ имасита».",
+    "zh": "很接近。在所说内容的后面，要用「と」，而不是「を」。说「行きたいと言っていました」。",
+    "ja": "惜しいです。言った内容の後ろには、「を」ではなく、「と」を使います。「行きたいと言っていました」です。",
+    "romaji": "Oshii desu. Itta naiyou no ushiro ni wa, 'o' de wa naku, 'to' o tsukaimasu. 'Ikitai to itte imashita' desu."
+  },
+  "sl16.p3_mis_retry": {
+    "en": "Oh, Mei was saying that she wants to go to Kyoto again.",
+    "ru": "Ой, Мэй говорила, что хочет снова поехать в Киото.",
+    "zh": "啊，小梅说过她还想再去京都。",
+    "ja": "あっ、メイさんは、また、京都に行きたいと言っていました。",
+    "romaji": "A, Mei-san wa, mata, Kyouto ni ikitai to itte imashita."
+  },
+  "sl16.p3_mis_relief": {
+    "en": "Yes, that's it. “To” fits in perfectly.",
+    "ru": "Да, именно так. «То» встало на место.",
+    "zh": "对，就是这个。「と」用得正好。",
+    "ja": "はい、それです。「と」が、ぴったり入りました。",
+    "romaji": "Hai, sore desu. 'To' ga, pittari hairimashita."
+  },
+  "sl16.p3_own_ken": {
+    "en": "Kyoto in autumn is wonderful too. Let's make a plan.",
+    "ru": "Осенний Киото тоже прекрасен. Давайте составим план.",
+    "zh": "秋天的京都也很美哦。我们来做个计划吧。",
+    "ja": "秋の京都も、すてきですよ。計画を、立てましょう。",
+    "romaji": "Aki no Kyouto mo, suteki desu yo. Keikaku o, tatemashou."
+  },
+  "sl16.p3_min_mei": {
+    "en": "I understand. Try saying it through: “Mei-san wa, Kyouto ni ikitai to itte imashita.”",
+    "ru": "Понимаю. Скажите слитно: «Мэй-сан ва, Кё:то ни икитай то иттэ имасита».",
+    "zh": "我明白。试着连起来说：「メイさんは、京都に行きたいと言っていました」。",
+    "ja": "分かりますよ。「メイさんは、京都に行きたいと言っていました」と、続けて言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Mei-san wa, Kyouto ni ikitai to itte imashita' to, tsuzukete itte mimashou."
+  },
+  "sl16.s4_intro": {
+    "en": "The last is the form for making predictions. “~ deshou” means “probably ~.” “~ kamoshiremasen” is a weaker prediction meaning “it might be ~.”",
+    "ru": "Последнее — форма для прогнозов. «~ дэсё» означает «наверное ~». «~ камосиремасэн» — более слабый прогноз, означающий «возможно ~».",
+    "zh": "最后是表示推测的句型。「〜でしょう」是“大概〜”的意思。「〜かもしれません」是更弱一些的推测，意思是“也许〜”。",
+    "ja": "最後は、予想を言う形です。「〜でしょう」は、「たぶん〜です」という意味です。「〜かもしれません」は、「〜かもしれない」という、もっと弱い予想です。",
+    "romaji": "Saigo wa, yosou o iu katachi desu. '~ deshou' wa, 'tabun ~ desu' to iu imi desu. '~ kamoshiremasen' wa, '~ kamoshirenai' to iu, motto yowai yosou desu."
+  },
+  "sl16.s4_ex": {
+    "en": "It will probably rain tomorrow. It might snow in the afternoon.",
+    "ru": "Завтра, наверное, пойдёт дождь. Днём, возможно, пойдёт снег.",
+    "zh": "明天大概会下雨。下午也许会下雪。",
+    "ja": "あしたは、雨が、ふるでしょう。午後は、雪が、ふるかもしれません。",
+    "romaji": "Ashita wa, ame ga, furu deshou. Gogo wa, yuki ga, furu kamoshiremasen."
+  },
+  "sl16.s4_form": {
+    "en": "Before them, use the plain form. For nouns and na-adjectives, drop “da”: “ame deshou,” “ame kamoshiremasen.” You don't say “ame da kamoshiremasen.”",
+    "ru": "Перед ними используют простую форму. У существительных и na-прилагательных «да» опускают: «амэ дэсё», «амэ камосиремасэн». Не говорят «амэ да камосиремасэн».",
+    "zh": "前面用普通形。名词和な形容词要去掉「だ」：「雨でしょう」「雨かもしれません」。不说「雨だかもしれません」。",
+    "ja": "前は、ふつうの形です。名詞と、な形容詞は、「だ」を取ります。「雨でしょう」「雨かもしれません」。「雨だかもしれません」とは、言いません。",
+    "romaji": "Mae wa, futsuu no katachi desu. Meishi to, na-keiyoushi wa, 'da' o torimasu. 'Ame deshou' 'ame kamoshiremasen'. 'Ame da kamoshiremasen' to wa, iimasen."
+  },
+  "sl16.s4_q1": {
+    "en": "What does “deshou?” mean when you ask with it?",
+    "ru": "Что означает «дэсё?», когда вы задаёте вопрос с ним?",
+    "zh": "用「でしょう？」来问的时候是什么意思？",
+    "ja": "「でしょう？」と、聞くときは、どんな意味ですか？",
+    "romaji": "'Deshou?' to, kiku toki wa, donna imi desu ka?"
+  },
+  "sl16.s4_a1": {
+    "en": "When you raise your voice with “deshou?,” it means asking for the other person's agreement, like “isn't that so?” It's used like “ii tenki deshou?”",
+    "ru": "Если повысить голос на «дэсё?», это значит, что вы просите согласия собеседника, как «не правда ли?». Используется так: «ии тэнки дэсё?».",
+    "zh": "用上扬的语调说「でしょう？」，意思是征求对方的同意，类似“是吧？”。用法如「いい天気でしょう？」。",
+    "ja": "「でしょう？」と、声を上げると、「そうですよね？」と、相手に同意を求める意味になります。「いい天気でしょう？」のように使います。",
+    "romaji": "'Deshou?' to, koe o ageru to, 'sou desu yo ne?' to, aite ni doui o motomeru imi ni narimasu. 'Ii tenki deshou?' no you ni tsukaimasu."
+  },
+  "sl16.s4_q2": {
+    "en": "In conversation with friends, is it “kamoshirenai”?",
+    "ru": "В разговоре с друзьями это «камосиренай»?",
+    "zh": "和朋友聊天时，是「かもしれない」吗？",
+    "ja": "友達との会話では、「かもしれない」ですか？",
+    "romaji": "'Tomodachi to no kaiwa de wa, 'kamoshirenai' desu ka?"
+  },
+  "sl16.s4_a2": {
+    "en": "Yes, “kamoshirenai” and even just “kamo” are used. “Ame kamo” is the short form of “ame kamoshirenai.”",
+    "ru": "Да, используют и «камосиренай», и даже просто «камо». «Амэ камо» — краткая форма от «амэ камосиренай».",
+    "zh": "是的，会用「かもしれない」，也会只用「かも」。「雨かも」是「雨かもしれない」的简短形式。",
+    "ja": "はい、「かもしれない」や、「かも」だけでも、使います。「雨かも」は、「雨かもしれない」の、短い形です。",
+    "romaji": "Hai, 'kamoshirenai' ya, 'kamo' dake demo, tsukaimasu. 'Ame kamo' wa, 'ame kamoshirenai' no, mijikai katachi desu."
+  },
+  "sl16.k_weather": {
+    "en": "Will it rain tomorrow?",
+    "ru": "Завтра пойдёт дождь?",
+    "zh": "明天会下雨吗？",
+    "ja": "あしたは、雨が、ふるでしょうか？",
+    "romaji": "Ashita wa, ame ga, furu deshou ka?"
+  },
+  "sl16.p4_prompt": {
+    "en": "Ken asked. The sky is cloudy, so it might rain tomorrow. How do you answer?",
+    "ru": "Кен спросил. Небо затянуто облаками, так что завтра, возможно, пойдёт дождь. Что вы ответите?",
+    "zh": "健问了。天空阴着，所以明天也许会下雨。你会怎么回答？",
+    "ja": "ケンさんが、聞きました。空が、くもっているので、あしたは、雨がふるかもしれません。何と答えますか？",
+    "romaji": "Ken-san ga, kikimashita. Sora ga, kumotte iru node, ashita wa, ame ga furu kamoshiremasen. Nan to kotaemasu ka?"
+  },
+  "sl16.c4_natural": {
+    "en": "“It might rain. Let's take umbrellas.”",
+    "ru": "«Возможно, пойдёт дождь. Давайте возьмём зонты».",
+    "zh": "“也许会下雨。我们带伞去吧。”",
+    "ja": "「ふるかもしれません。傘を、持っていきましょう。」",
+    "romaji": "'Furu kamoshiremasen. Kasa o, motte ikimashou.'"
+  },
+  "sl16.c4_formal": {
+    "en": "“I believe the possibility of rainfall cannot be ruled out.”",
+    "ru": "«Полагаю, что возможность дождя нельзя исключить».",
+    "zh": "“我认为不能排除降雨的可能。”",
+    "ja": "「降雨の可能性が、否定できないかと存じます。」",
+    "romaji": "'Kouu no kanousei ga, hitei dekinai ka to zonjimasu.'"
+  },
+  "sl16.c4_mistake": {
+    "en": "“It might be ame-da. Let's take umbrellas.”",
+    "ru": "«Возможно, это «амэ-да». Давайте возьмём зонты».",
+    "zh": "“也许是雨だ。我们带伞去吧。”（名词后面多了だ）",
+    "ja": "「雨だかもしれません。傘を、持っていきましょう。」",
+    "romaji": "'Ame da kamoshiremasen. Kasa o, motte ikimashou.'"
+  },
+  "sl16.c4_own": {
+    "en": "“It will probably rain. But it might clear up in the afternoon.”",
+    "ru": "«Наверное, пойдёт дождь. Но днём, возможно, прояснится».",
+    "zh": "“大概会下雨。不过下午也许会放晴。”",
+    "ja": "「ふるでしょう。でも、午後は、はれるかもしれません。」",
+    "romaji": "'Furu deshou. Demo, gogo wa, hareru kamoshiremasen.'"
+  },
+  "sl16.c4_min": {
+    "en": "“Rain... maybe...”",
+    "ru": "«Дождь… может быть…»",
+    "zh": "“雨……也许……”",
+    "ja": "「雨…かも…」",
+    "romaji": "'Ame... kamo...'"
+  },
+  "sl16.p4_nat_ken": {
+    "en": "Right. Then I'll make sure not to forget my umbrella tomorrow.",
+    "ru": "Верно. Тогда завтра я постараюсь не забыть зонт.",
+    "zh": "是啊。那明天我会注意别忘了带伞。",
+    "ja": "そうですね。じゃあ、あした、傘を、忘れないようにします。",
+    "romaji": "Sou desu ne. Jaa, ashita, kasa o, wasurenai you ni shimasu."
+  },
+  "sl16.p4_form_yuki": {
+    "en": "Ha, you sound like a weather forecaster. “Furu kamoshiremasen” is fine.",
+    "ru": "Ха-ха, как синоптик. Достаточно «фуру камосиремасэн».",
+    "zh": "呵呵，像天气预报员一样。说「ふるかもしれません」就行。",
+    "ja": "ふふ、天気予報士みたいです。「ふるかもしれません」で、いいですよ。",
+    "romaji": "Fufu, tenki yohoushi mitai desu. 'Furu kamoshiremasen' de, ii desu yo."
+  },
+  "sl16.p4_mis_tanaka": {
+    "en": "Close. Drop the “da” after a noun. It's “ame kamoshiremasen.” You don't say “ame da kamoshiremasen.”",
+    "ru": "Почти. «Да» после существительного опускают. Говорят «амэ камосиремасэн». Не говорят «амэ да камосиремасэн».",
+    "zh": "很接近。名词后面的「だ」要去掉。说「雨かもしれません」。不说「雨だかもしれません」。",
+    "ja": "惜しいです。名詞の後ろの、「だ」は取ります。「雨かもしれません」です。「雨だかもしれません」とは、言いません。",
+    "romaji": "Oshii desu. Meishi no ushiro no, 'da' wa torimasu. 'Ame kamoshiremasen' desu. 'Ame da kamoshiremasen' to wa, iimasen."
+  },
+  "sl16.p4_mis_retry": {
+    "en": "Oh, it might rain. Let's take umbrellas.",
+    "ru": "Ой, возможно, пойдёт дождь. Давайте возьмём зонты.",
+    "zh": "啊，也许会下雨。我们带伞去吧。",
+    "ja": "あっ、雨かもしれません。傘を、持っていきましょう。",
+    "romaji": "A, ame kamoshiremasen. Kasa o, motte ikimashou."
+  },
+  "sl16.p4_mis_relief": {
+    "en": "Yes, that's it. With “da” dropped, it's perfect.",
+    "ru": "Да, именно так. Без «да» всё идеально.",
+    "zh": "对，就是这个。去掉「だ」就正合适了。",
+    "ja": "はい、それです。「だ」を取って、ぴったりです。",
+    "romaji": "Hai, sore desu. 'Da' o totte, pittari desu."
+  },
+  "sl16.p4_own_ken": {
+    "en": "A good forecast. If it clears up in the afternoon, let's go cherry-blossom viewing.",
+    "ru": "Хороший прогноз. Если днём прояснится, пойдём любоваться цветением вишни.",
+    "zh": "预测得不错。如果下午放晴，我们就去赏花吧。",
+    "ja": "いい予想ですね。午後に、はれたら、お花見に、行きましょう。",
+    "romaji": "Ii yosou desu ne. Gogo ni, haretara, ohanami ni, ikimashou."
+  },
+  "sl16.p4_min_mei": {
+    "en": "I understand. Try saying it politely: “ame kamoshiremasen.”",
+    "ru": "Понимаю. Скажите вежливо: «амэ камосиремасэн».",
+    "zh": "我明白。试着礼貌地说：「雨かもしれません」。",
+    "ja": "分かりますよ。「雨かもしれません」と、ていねいに、言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Ame kamoshiremasen' to, teinei ni, itte mimashou."
+  },
+  "sl16.talk_open": {
+    "en": "Now let's talk. About today's theme, “the most important thing in studying Japanese,” what do you all think?",
+    "ru": "Теперь поговорим. Как вы все относитесь к сегодняшней теме — «самое важное при изучении японского»?",
+    "zh": "那么，我们来聊聊。对于今天的主题“学习日语时最重要的事”，大家怎么看？",
+    "ja": "では、話しましょう。今日のテーマ、「日本語の勉強で、いちばん大切なこと」を、みなさんは、どう思いますか？",
+    "romaji": "Dewa, hanashimashou. Kyou no teema, 'nihongo no benkyou de, ichiban taisetsu na koto' o, minasan wa, dou omoimasu ka?"
+  },
+  "sl16.talk_mei": {
+    "en": "I think studying together with friends is important. Because it's fun.",
+    "ru": "Я думаю, что важно заниматься вместе с друзьями. Потому что это весело.",
+    "zh": "我认为和朋友一起学习很重要。因为很开心。",
+    "ja": "わたしは、友達といっしょに、勉強することが、大切だと思います。楽しいですから。",
+    "romaji": "Watashi wa, tomodachi to issho ni, benkyou suru koto ga, taisetsu da to omoimasu. Tanoshii desu kara."
+  },
+  "sl16.talk_ken": {
+    "en": "I think not being afraid of mistakes is important. Thanks to all of you, I've come to think so.",
+    "ru": "Я думаю, что важно не бояться ошибок. Благодаря вам всем я пришёл к такому мнению.",
+    "zh": "我认为不怕犯错很重要。多亏了大家，我才这样想。",
+    "ja": "ぼくは、まちがいを、こわがらないことが、大切だと思います。みなさんのおかげで、そう思うようになりました。",
+    "romaji": "Boku wa, machigai o, kowagaranai koto ga, taisetsu da to omoimasu. Minasan no okage de, sou omou you ni narimashita."
+  },
+  "sl16.talk_yuki": {
+    "en": "I think having places to use Japanese is important. This place is one of them, isn't it.",
+    "ru": "Я думаю, что важно иметь места, где можно использовать японский. И это место — одно из них.",
+    "zh": "我认为有使用日语的地方很重要。这里也是其中之一呢。",
+    "ja": "わたしは、日本語を、使う場所が、あることが、大切だと思います。ここも、その一つですね。",
+    "romaji": "Watashi wa, nihongo o, tsukau basho ga, aru koto ga, taisetsu da to omoimasu. Koko mo, sono hitotsu desu ne."
+  },
+  "sl16.talk_tanaka": {
+    "en": "Wonderful opinions. Everyone's thoughts are different, but I think they are all right.",
+    "ru": "Замечательные мнения. Ваши мысли все разные, но я считаю, что все они верны.",
+    "zh": "真是精彩的意见。大家的想法各不相同，但我认为都是对的。",
+    "ja": "すてきな意見ですね。みなさんの考えは、みんな、ちがいますが、みんな、正しいと思います。",
+    "romaji": "Suteki na iken desu ne. Minasan no kangae wa, minna, chigaimasu ga, minna, tadashii to omoimasu."
+  },
+  "sl16.talk_player": {
+    "en": "(I think, I don't think, said, might. I've become able to say my own thoughts in Japanese. Not being afraid of mistakes. I think that's the most important thing.)",
+    "ru": "(Думаю, не думаю, сказал, возможно. Я научился высказывать свои мысли по-японски. Не бояться ошибок. Думаю, это самое важное.)",
+    "zh": "（我认为、我不认为、说了、也许。我已经能用日语说出自己的想法了。不怕犯错。我认为这才是最重要的。）",
+    "ja": "（思います、思いません、言いました、かもしれません。自分の考えを、日本語で言えるようになった。まちがいを、こわがらない。それが、いちばん大切だと思う。）",
+    "romaji": "(Omoimasu, omoimasen, iimashita, kamoshiremasen. Jibun no kangae o, nihongo de ieru you ni natta. Machigai o, kowagaranai. Sore ga, ichiban taisetsu da to omou.)"
+  },
+  "sl16.talk_close": {
+    "en": "Good lesson, everyone. In the next class, let's practice conveying what we've seen and heard with “~ sou desu” and “~ you desu.”",
+    "ru": "Хороший урок, все. На следующем уроке потренируем передачу увиденного и услышанного с помощью «~ со: дэс» и «~ ё: дэс».",
+    "zh": "各位，这节课很棒。下节课我们用「〜そうです」和「〜ようです」来练习转述所见所闻。",
+    "ja": "みなさん、いいレッスンでした。次の授業では、「〜そうです」と、「〜ようです」で、見たことや、聞いたことを、伝える練習をしましょう。",
+    "romaji": "Minasan, ii ressun deshita. Tsugi no jugyou de wa, '~ sou desu' to, '~ you desu' de, mita koto ya, kiita koto o, tsutaeru renshuu o shimashou."
+  },
+  "sl16.complete": {
+    "en": "End of Sentence Lesson 16.",
+    "ru": "Конец урока предложений 16.",
+    "zh": "句型课 16 结束。",
+    "ja": "文型レッスン16、おわり。",
+    "romaji": "Bunkei ressun juuroku, owari."
+  }
+}

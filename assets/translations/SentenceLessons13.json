@@ -1,0 +1,702 @@
+{
+  "sl13.title": {
+    "en": "Comparing: Yori, No Hou Ga, Ichiban",
+    "ru": "Сравниваем: ёри, но хо: га, итибан",
+    "zh": "比较：より・のほうが・一番",
+    "ja": "くらべる：より・のほうが・一番",
+    "romaji": "Kuraberu: yori, no hou ga, ichiban"
+  },
+  "sl13.subtitle": {
+    "en": "Comparing all sorts of things in Kyoto",
+    "ru": "Сравниваем разные вещи в Киото",
+    "zh": "在京都街头比较各种东西",
+    "ja": "京都の町で、いろいろなものをくらべる",
+    "romaji": "Kyouto no machi de, iroiro na mono o kuraberu"
+  },
+  "sl13.description": {
+    "en": "In the streets of Kyoto and at a tea house, practice four ways to compare: “A wa B yori ~ desu,” “dochira ga ~ desu ka,” “~ ga ichiban ~ desu,” and “~ hodo ~ masen.”",
+    "ru": "На улицах Киото и в чайном домике потренируйте четыре способа сравнения: «A ва B ёри ~ дэс», «дотира га ~ дэс ка», «~ га итибан ~ дэс» и «~ ходо ~ масэн».",
+    "zh": "在京都街头和茶屋里，练习四种比较方式：「AはBより〜です」「どちらが〜ですか」「〜が一番〜です」「〜ほど〜ません」。",
+    "ja": "京都の街と、お茶屋さんで、「AはBより〜です」「どちらが〜ですか」「〜が一番〜です」「〜ほど〜ません」の四つの比べ方を練習します。",
+    "romaji": "Kyouto no machi to, ochayasan de, 'A wa B yori ~ desu' 'dochira ga ~ desu ka' '~ ga ichiban ~ desu' '~ hodo ~ masen' no yottsu no kurabekata o renshuu shimasu."
+  },
+  "sl13.pattern.1": {
+    "en": "A is more ~ than B",
+    "ru": "A более ~, чем B",
+    "zh": "A比B更〜",
+    "ja": "AはBより〜です",
+    "romaji": "A wa B yori ~ desu"
+  },
+  "sl13.pattern.2": {
+    "en": "Which is more ~, A or B?",
+    "ru": "Что более ~, A или B?",
+    "zh": "A和B，哪一个更〜？",
+    "ja": "AとBと、どちらが〜ですか",
+    "romaji": "A to B to, dochira ga ~ desu ka"
+  },
+  "sl13.pattern.3": {
+    "en": "the most ~ among ~",
+    "ru": "самый ~ из ~",
+    "zh": "在〜之中，〜最〜",
+    "ja": "〜の中で、〜が一番〜です",
+    "romaji": "~ no naka de, ~ ga ichiban ~ desu"
+  },
+  "sl13.pattern.4": {
+    "en": "not as ~ as / about the same",
+    "ru": "не так ~, как / примерно одинаково",
+    "zh": "A不如B那么〜／差不多",
+    "ja": "AはBほど〜ません・同じくらい",
+    "romaji": "A wa B hodo ~ masen, onaji kurai"
+  },
+  "sl13.setup": {
+    "en": "A lively street in Kyoto. Old shops line the way. Everyone is discussing whether to take the train or the bus back to the station.",
+    "ru": "Оживлённая улица в Киото. Вдоль неё выстроились старые лавки. Все обсуждают, ехать ли обратно к вокзалу на поезде или на автобусе.",
+    "zh": "京都热闹的街道。两旁排列着老店铺。大家正在商量回车站是坐电车还是坐公交。",
+    "ja": "京都の、にぎやかな通り。古いお店が並んでいる。みんなは、駅までの帰り道を、電車とバスの、どちらにするか、話している。",
+    "romaji": "Kyouto no, nigiyaka na toori. Furui omise ga narande iru. Minna wa, eki made no kaerimichi o, densha to basu no, dochira ni suru ka, hanashite iru."
+  },
+  "sl13.t_intro": {
+    "en": "Today's theme is ways of comparing. Let's compare all sorts of things in the streets of Kyoto.",
+    "ru": "Тема сегодня — способы сравнения. Давайте сравним разные вещи на улицах Киото.",
+    "zh": "今天的主题是比较的说法。让我们在京都的街头比较各种东西。",
+    "ja": "今日のテーマは、くらべる言い方です。京都の町で、いろいろなものを、くらべてみましょう。",
+    "romaji": "Kyou no teema wa, kuraberu iikata desu. Kyouto no machi de, iroiro na mono o, kurabete mimashou."
+  },
+  "sl13.s1_intro": {
+    "en": "To compare two things, use “A wa B yori ~ desu.” Put the thing you are comparing against before “yori.”",
+    "ru": "Чтобы сравнить два предмета, используют «A ва B ёри ~ дэс». Перед «ёри» ставят то, с чем сравнивают.",
+    "zh": "比较两样东西时，用「AはBより〜です」。在「より」前面放被比较的对象。",
+    "ja": "二つのものを、くらべるときは、「AはBより〜です」です。「より」の前に、くらべる相手を、置きます。",
+    "romaji": "Futatsu no mono o, kuraberu toki wa, 'A wa B yori ~ desu' desu. 'Yori' no mae ni, kuraberu aite o, okimasu."
+  },
+  "sl13.s1_ex": {
+    "en": "The train is faster than the bus. Kyoto is smaller than Tokyo. The bus is cheaper than the train.",
+    "ru": "Поезд быстрее автобуса. Киото меньше Токио. Автобус дешевле поезда.",
+    "zh": "电车比公交快。京都比东京小。公交比电车便宜。",
+    "ja": "電車は、バスより、速いです。京都は、東京より、小さいです。バスは、電車より、安いです。",
+    "romaji": "Densha wa, basu yori, hayai desu. Kyouto wa, Toukyou yori, chiisai desu. Basu wa, densha yori, yasui desu."
+  },
+  "sl13.s1_q1": {
+    "en": "Are “motto” and “yori” different?",
+    "ru": "«Мотто» и «ёри» отличаются?",
+    "zh": "「もっと」和「より」有区别吗？",
+    "ja": "「もっと」と、「より」は、ちがいますか？",
+    "romaji": "'Motto' to, 'yori' wa, chigaimasu ka?"
+  },
+  "sl13.s1_a1": {
+    "en": "Yes. “Yori” states clearly what you are comparing with. “Motto” means “even more,” following the flow of the conversation. It's used like “motto hayai densha ga, hoshii desu.”",
+    "ru": "Да. «Ёри» чётко называет то, с чем сравнивают. «Мотто» означает «ещё больше», исходя из хода разговора. Используется так: «мотто хаяй дэнся га, хоси дэс».",
+    "zh": "有区别。「より」明确说出比较的对象。「もっと」是根据谈话的流程，表示“更加”。用法如「もっと速い電車が、ほしいです」。",
+    "ja": "はい。「より」は、くらべる相手を、はっきり言います。「もっと」は、話の流れで、「さらに」という意味です。「もっと速い電車が、ほしいです」のように使います。",
+    "romaji": "Hai. 'Yori' wa, kuraberu aite o, hakkiri iimasu. 'Motto' wa, hanashi no nagare de, 'sara ni' to iu imi desu. 'Motto hayai densha ga, hoshii desu' no you ni tsukaimasu."
+  },
+  "sl13.s1_q2": {
+    "en": "Can you also use “zutto” and “sukoshi”?",
+    "ru": "Можно ли использовать и «дзутто», «сукоси»?",
+    "zh": "也可以用「ずっと」和「少し」吗？",
+    "ja": "「ずっと」や「少し」も、使えますか？",
+    "romaji": "'Zutto' ya 'sukoshi' mo, tsukaemasu ka?"
+  },
+  "sl13.s1_a2": {
+    "en": "Yes. “Zutto” is for a big difference. “Sukoshi” is for a small difference. “Densha wa, basu yori, zutto hayai desu.” “Basu wa, densha yori, sukoshi yasui desu.”",
+    "ru": "Да. «Дзутто» — когда разница большая. «Сукоси» — когда разница небольшая. «Дэнся ва, басу ёри, дзутто хаяй дэс». «Басу ва, дэнся ёри, сукоси ясуй дэс».",
+    "zh": "可以。「ずっと」用于差距大的时候。「少し」用于差距小的时候。「電車は、バスより、ずっと速いです」。「バスは、電車より、少し安いです」。",
+    "ja": "はい。「ずっと」は、差が大きいときです。「少し」は、差が小さいときです。「電車は、バスより、ずっと速いです」。「バスは、電車より、少し安いです」。",
+    "romaji": "Hai. 'Zutto' wa, sa ga ookii toki desu. 'Sukoshi' wa, sa ga chiisai toki desu. 'Densha wa, basu yori, zutto hayai desu'. 'Basu wa, densha yori, sukoshi yasui desu'."
+  },
+  "sl13.k_ask": {
+    "en": "The train takes twenty minutes. The bus takes forty. What do you think?",
+    "ru": "Поезд идёт двадцать минут. Автобус — сорок. Что думаете?",
+    "zh": "电车要二十分钟。公交要四十分钟。你怎么看？",
+    "ja": "電車は、二十分です。バスは、四十分です。どう思いますか？",
+    "romaji": "Densha wa, nijuppun desu. Basu wa, yonjuppun desu. Dou omoimasu ka?"
+  },
+  "sl13.p1_prompt": {
+    "en": "Ken asked. The train takes twenty minutes, and the bus takes forty. The train is faster. Please tell Ken. What do you say?",
+    "ru": "Кен спросил. Поезд идёт двадцать минут, автобус — сорок. Поезд быстрее. Скажите об этом Кену. Что вы скажете?",
+    "zh": "健问了。电车要二十分钟，公交要四十分钟。电车更快。请把这件事告诉健。你会怎么说？",
+    "ja": "ケンさんが、聞きました。電車は、二十分で、バスは、四十分です。電車のほうが、速いです。ケンさんに、そのことを伝えてください。何と言いますか？",
+    "romaji": "Ken-san ga, kikimashita. Densha wa, nijuppun de, basu wa, yonjuppun desu. Densha no hou ga, hayai desu. Ken-san ni, sono koto o tsutaete kudasai. Nan to iimasu ka?"
+  },
+  "sl13.c1_natural": {
+    "en": "“The train is faster than the bus.”",
+    "ru": "«Поезд быстрее автобуса».",
+    "zh": "“电车比公交快。”",
+    "ja": "「電車は、バスより、速いです。」",
+    "romaji": "'Densha wa, basu yori, hayai desu.'"
+  },
+  "sl13.c1_formal": {
+    "en": "“Compared to the bus, the train is far more swift.”",
+    "ru": "«По сравнению с автобусом поезд значительно быстрее».",
+    "zh": "“与公交相比，电车要迅捷得多。”",
+    "ja": "「電車は、バスに比べて、はるかに、迅速でございます。」",
+    "romaji": "'Densha wa, basu ni kurabete, haruka ni, jinsoku de gozaimasu.'"
+  },
+  "sl13.c1_mistake": {
+    "en": "“The train is fast from the bus.”",
+    "ru": "«Поезд быстрый от автобуса».",
+    "zh": "“电车从公交快。”（把より说成了から）",
+    "ja": "「電車は、バスから、速いです。」",
+    "romaji": "'Densha wa, basu kara, hayai desu.'"
+  },
+  "sl13.c1_own": {
+    "en": "“The train is much faster than the bus. But the bus is a little cheaper.”",
+    "ru": "«Поезд намного быстрее автобуса. Но автобус немного дешевле».",
+    "zh": "“电车比公交快得多。不过公交稍微便宜一点。”",
+    "ja": "「電車は、バスより、ずっと速いです。でも、バスは、少し安いです。」",
+    "romaji": "'Densha wa, basu yori, zutto hayai desu. Demo, basu wa, sukoshi yasui desu.'"
+  },
+  "sl13.c1_min": {
+    "en": "“Train... bus... fast...”",
+    "ru": "«Поезд… автобус… быстро…»",
+    "zh": "“电车……公交……快……”",
+    "ja": "「電車…バス…速い…」",
+    "romaji": "'Densha... basu... hayai...'"
+  },
+  "sl13.p1_nat_ken": {
+    "en": "Right. Then let's go back by train.",
+    "ru": "Верно. Тогда вернёмся на поезде.",
+    "zh": "是啊。那我们坐电车回去吧。",
+    "ja": "そうですね。じゃあ、電車で、帰りましょう。",
+    "romaji": "Sou desu ne. Jaa, densha de, kaerimashou."
+  },
+  "sl13.p1_form_mei": {
+    "en": "Ha, that sounds like the news. “Densha wa, basu yori, hayai desu” is fine.",
+    "ru": "Ха-ха, как в новостях. Достаточно «дэнся ва, басу ёри, хаяй дэс».",
+    "zh": "呵呵，像新闻一样。说「電車は、バスより、速いです」就行。",
+    "ja": "ふふ、ニュースみたいです。「電車は、バスより、速いです」で、いいですよ。",
+    "romaji": "Fufu, nyuusu mitai desu. 'Densha wa, basu yori, hayai desu' de, ii desu yo."
+  },
+  "sl13.p1_mis_tanaka": {
+    "en": "Close. After the thing being compared against, use “yori,” not “kara.” It's “basu yori.”",
+    "ru": "Почти. После того, с чем сравнивают, используют «ёри», а не «кара». Говорят «басу ёри».",
+    "zh": "很接近。在被比较的对象后面要用「より」，而不是「から」。说「バスより」。",
+    "ja": "惜しいです。くらべる相手の後ろには、「から」ではなく、「より」を使います。「バスより」です。",
+    "romaji": "Oshii desu. Kuraberu aite no ushiro ni wa, 'kara' de wa naku, 'yori' o tsukaimasu. 'Basu yori' desu."
+  },
+  "sl13.p1_mis_retry": {
+    "en": "Oh, the train is faster than the bus.",
+    "ru": "Ой, поезд быстрее автобуса.",
+    "zh": "啊，电车比公交快。",
+    "ja": "あっ、電車は、バスより、速いです。",
+    "romaji": "A, densha wa, basu yori, hayai desu."
+  },
+  "sl13.p1_mis_relief": {
+    "en": "Yes, that's it. With “yori,” what you're comparing against is clear.",
+    "ru": "Да, именно так. С «ёри» то, с чем сравнивают, становится ясным.",
+    "zh": "对，就是这个。用了「より」，被比较的对象就清楚了。",
+    "ja": "はい、それです。「より」で、くらべる相手が、はっきりしました。",
+    "romaji": "Hai, sore desu. 'Yori' de, kuraberu aite ga, hakkiri shimashita."
+  },
+  "sl13.p1_own_ken": {
+    "en": "You compared them well. Let's take the train today.",
+    "ru": "Вы хорошо сравнили. Сегодня поедем на поезде.",
+    "zh": "比较得很好。今天我们坐电车回去吧。",
+    "ja": "よく、くらべましたね。今日は、電車で、帰りましょう。",
+    "romaji": "Yoku, kurabemashita ne. Kyou wa, densha de, kaerimashou."
+  },
+  "sl13.p1_min_yuki": {
+    "en": "I understand. Try a full sentence: “densha wa, basu yori, hayai desu.”",
+    "ru": "Понимаю. Скажите целым предложением: «дэнся ва, басу ёри, хаяй дэс».",
+    "zh": "我明白。试着说完整的句子：「電車は、バスより、速いです」。",
+    "ja": "分かりますよ。「電車は、バスより、速いです」と、文で言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Densha wa, basu yori, hayai desu' to, bun de itte mimashou."
+  },
+  "sl13.cafe": {
+    "en": "There is still a little time before the train. Everyone goes into a tea house near the station. The menu has tea and coffee.",
+    "ru": "До поезда ещё немного времени. Все зашли в чайный домик возле вокзала. В меню были чай и кофе.",
+    "zh": "离电车发车还有一点时间。大家走进了车站附近的茶屋。菜单上有茶和咖啡。",
+    "ja": "電車の時間まで、まだ少しある。みんなは、駅の近くの、お茶屋さんに入った。メニューには、お茶と、コーヒーが、あった。",
+    "romaji": "Densha no jikan made, mada sukoshi aru. Minna wa, eki no chikaku no, ochayasan ni haitta. Menyuu ni wa, ocha to, koohii ga, atta."
+  },
+  "sl13.s2_intro": {
+    "en": "When choosing between two things, you ask “A to B to, dochira ga ~ desu ka.” The answer is “A no hou ga ~ desu.”",
+    "ru": "Когда выбирают из двух, спрашивают «A то B то, дотира га ~ дэс ка». Ответ: «A но хо: га ~ дэс».",
+    "zh": "在两者之中选择时，问「AとBと、どちらが〜ですか」。回答是「Aのほうが〜です」。",
+    "ja": "二つの中から、選ぶときは、「AとBと、どちらが〜ですか」と聞きます。答えは、「Aのほうが〜です」です。",
+    "romaji": "Futatsu no naka kara, erabu toki wa, 'A to B to, dochira ga ~ desu ka' to kikimasu. Kotae wa, 'A no hou ga ~ desu' desu."
+  },
+  "sl13.s2_ex": {
+    "en": "Which do you like better, tea or coffee? I like tea better.",
+    "ru": "Что вам больше нравится, чай или кофе? Мне больше нравится чай.",
+    "zh": "茶和咖啡，你更喜欢哪一个？我更喜欢茶。",
+    "ja": "お茶と、コーヒーと、どちらが好きですか？お茶のほうが、好きです。",
+    "romaji": "Ocha to, koohii to, dochira ga suki desu ka? Ocha no hou ga, suki desu."
+  },
+  "sl13.s2_q1": {
+    "en": "Are “dochira” and “dore” different?",
+    "ru": "«Дотира» и «доре» отличаются?",
+    "zh": "「どちら」和「どれ」有区别吗？",
+    "ja": "「どちら」と「どれ」は、ちがいますか？",
+    "romaji": "'Dochira' to 'dore' wa, chigaimasu ka?"
+  },
+  "sl13.s2_a1": {
+    "en": "Yes. If it's between two, it's “dochira.” If it's three or more, it's “dore.” We studied “dore” in Sentence Lesson 2. In conversation with friends, “docchi” is also commonly used.",
+    "ru": "Да. Если выбор из двух, то «дотира». Если из трёх и более, то «доре». Мы изучали «доре» на уроке предложений 2. В разговоре с друзьями часто используют и «доттти».",
+    "zh": "有。在两者之中用「どちら」。三个以上用「どれ」。我们在句型课2里学过「どれ」。和朋友聊天时，也常说「どっち」。",
+    "ja": "はい。二つの中なら、「どちら」です。三つ以上なら、「どれ」です。文型レッスン2で、「どれ」を勉強しましたね。友達との会話では、「どっち」も、よく使います。",
+    "romaji": "Hai. Futatsu no naka nara, 'dochira' desu. Mittsu ijou nara, 'dore' desu. Bunkei ressun ni de, 'dore' o benkyou shimashita ne. Tomodachi to no kaiwa de wa, 'docchi' mo, yoku tsukaimasu."
+  },
+  "sl13.s2_q2": {
+    "en": "What if you like both?",
+    "ru": "А если нравятся оба?",
+    "zh": "如果两个都喜欢呢？",
+    "ja": "どちらも、好きなときは？",
+    "romaji": "Dochira mo, suki na toki wa?"
+  },
+  "sl13.s2_a2": {
+    "en": "You say “dochira mo suki desu.” “Dochira mo suki ja arimasen” means you like neither of them.",
+    "ru": "Говорят «дотира мо суки дэс». «Дотира мо суки дзя аримасэн» означает, что не нравится ни то, ни другое.",
+    "zh": "说「どちらも好きです」。「どちらも好きじゃありません」是两个都不喜欢的意思。",
+    "ja": "「どちらも好きです」と言います。「どちらも好きじゃありません」は、二つとも、好きではないという意味です。",
+    "romaji": "'Dochira mo suki desu' to iimasu. 'Dochira mo suki ja arimasen' wa, futatsu tomo, suki de wa nai to iu imi desu."
+  },
+  "sl13.y_ask": {
+    "en": "Which do you like better, tea or coffee?",
+    "ru": "Что вам больше нравится, чай или кофе?",
+    "zh": "茶和咖啡，你更喜欢哪一个？",
+    "ja": "お茶と、コーヒーと、どちらが好きですか？",
+    "romaji": "Ocha to, koohii to, dochira ga suki desu ka?"
+  },
+  "sl13.p2_prompt": {
+    "en": "Yuki asked you. You like tea better. How do you answer?",
+    "ru": "Юки спросила вас. Вам больше нравится чай. Что вы ответите?",
+    "zh": "由纪问你。你更喜欢茶。你会怎么回答？",
+    "ja": "由紀さんが、あなたに聞きました。あなたは、お茶のほうが、好きです。何と答えますか？",
+    "romaji": "Yuki-san ga, anata ni kikimashita. Anata wa, ocha no hou ga, suki desu. Nan to kotaemasu ka?"
+  },
+  "sl13.c2_natural": {
+    "en": "“I like tea better.”",
+    "ru": "«Мне больше нравится чай».",
+    "zh": "“我更喜欢茶。”",
+    "ja": "「お茶のほうが、好きです。」",
+    "romaji": "'Ocha no hou ga, suki desu.'"
+  },
+  "sl13.c2_formal": {
+    "en": "“If I had to say, I have a preference for tea.”",
+    "ru": "«Если уж выбирать, то я отдаю предпочтение чаю».",
+    "zh": "“若要说的话，我更偏爱茶。”",
+    "ja": "「どちらかと申しますと、お茶のほうを、好んでおります。」",
+    "romaji": "'Dochira ka to moushimasu to, ocha no hou o, kononde orimasu.'"
+  },
+  "sl13.c2_mistake": {
+    "en": "“Tea-hou ga, I like.”",
+    "ru": "«Чай-хо: га, нравится».",
+    "zh": "“茶ほうが、喜欢。”（漏掉了の）",
+    "ja": "「お茶ほうが、好きです。」",
+    "romaji": "'Ocha hou ga, suki desu.'"
+  },
+  "sl13.c2_own": {
+    "en": "“I like tea better. Coffee is a little bitter.”",
+    "ru": "«Мне больше нравится чай. Кофе немного горький».",
+    "zh": "“我更喜欢茶。因为咖啡有点苦。”",
+    "ja": "「お茶のほうが、好きです。コーヒーは、少し苦いですから。」",
+    "romaji": "'Ocha no hou ga, suki desu. Koohii wa, sukoshi nigai desu kara.'"
+  },
+  "sl13.c2_min": {
+    "en": "“Tea... side... like...”",
+    "ru": "«Чай… сторона… нравится…»",
+    "zh": "“茶……那边……喜欢……”",
+    "ja": "「お茶…ほう…好き…」",
+    "romaji": "'Ocha... hou... suki...'"
+  },
+  "sl13.p2_nat_yuki": {
+    "en": "I like tea better too. The tea here is delicious.",
+    "ru": "Мне тоже больше нравится чай. Здешний чай очень вкусный.",
+    "zh": "我也更喜欢茶。这里的茶很好喝哦。",
+    "ja": "わたしも、お茶のほうが、好きです。ここの、お茶は、おいしいですよ。",
+    "romaji": "Watashi mo, ocha no hou ga, suki desu. Koko no, ocha wa, oishii desu yo."
+  },
+  "sl13.p2_form_ken": {
+    "en": "Haha, those are difficult words. “Ocha no hou ga, suki desu” is enough.",
+    "ru": "Ха-ха, какие сложные слова. Достаточно «оття но хо: га, суки дэс».",
+    "zh": "哈哈，这些词好难。说「お茶のほうが、好きです」就足够了。",
+    "ja": "あはは、むずかしい言葉ですね。「お茶のほうが、好きです」で、じゅうぶんです。",
+    "romaji": "Ahaha, muzukashii kotoba desu ne. 'Ocha no hou ga, suki desu' de, juubun desu."
+  },
+  "sl13.p2_mis_tanaka": {
+    "en": "Close. You need “no” before “hou.” You say “ocha no hou.”",
+    "ru": "Почти. Перед «хо:» нужно «но». Говорят «оття но хо:».",
+    "zh": "很接近。「ほう」前面需要「の」。说「お茶のほう」。",
+    "ja": "惜しいです。「ほう」の前に、「の」が必要です。「お茶のほう」と言います。",
+    "romaji": "Oshii desu. 'Hou' no mae ni, 'no' ga hitsuyou desu. 'Ocha no hou' to iimasu."
+  },
+  "sl13.p2_mis_retry": {
+    "en": "Oh, I like tea better.",
+    "ru": "Ой, мне больше нравится чай.",
+    "zh": "啊，我更喜欢茶。",
+    "ja": "あっ、お茶のほうが、好きです。",
+    "romaji": "A, ocha no hou ga, suki desu."
+  },
+  "sl13.p2_mis_relief": {
+    "en": "Yes, that's it. With “no” added, it's perfect.",
+    "ru": "Да, именно так. С «но» всё идеально.",
+    "zh": "对，就是这个。加上「の」就正合适了。",
+    "ja": "はい、それです。「の」が入って、ぴったりです。",
+    "romaji": "Hai, sore desu. 'No' ga haitte, pittari desu."
+  },
+  "sl13.p2_own_yuki": {
+    "en": "That's right. Tea has a sweet, gentle flavor.",
+    "ru": "Верно. У чая сладковатый, мягкий вкус.",
+    "zh": "是啊。茶有甜甜的、温和的味道。",
+    "ja": "そうですね。お茶は、あまくて、やさしい味ですよ。",
+    "romaji": "Sou desu ne. Ocha wa, amakute, yasashii aji desu yo."
+  },
+  "sl13.p2_min_mei": {
+    "en": "I understand. Try connecting it: “ocha no hou ga, suki desu.”",
+    "ru": "Понимаю. Скажите слитно: «оття но хо: га, суки дэс».",
+    "zh": "我明白。试着连起来说：「お茶のほうが、好きです」。",
+    "ja": "分かりますよ。「お茶のほうが、好きです」と、つなげて、言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Ocha no hou ga, suki desu' to, tsunagete, itte mimashou."
+  },
+  "sl13.evening": {
+    "en": "Evening. Everyone is recalling the temples they saw today. Kyoto has many famous temples.",
+    "ru": "Вечер. Все вспоминают храмы, которые посетили сегодня. В Киото много знаменитых храмов.",
+    "zh": "傍晚。大家在回想今天看过的寺庙。京都有很多有名的寺庙。",
+    "ja": "夕方。みんなは、今日のお寺を、思い出している。京都には、有名なお寺が、たくさんある。",
+    "romaji": "Yuugata. Minna wa, kyou no otera o, omoidashite iru. Kyouto ni wa, yuumei na otera ga, takusan aru."
+  },
+  "sl13.s3_intro": {
+    "en": "When you name “the most” among three or more, use “~ no naka de, ~ ga ichiban ~ desu.” “Ichiban” means “the most.”",
+    "ru": "Чтобы назвать «самый» среди трёх и более, используют «~ но нака дэ, ~ га итибан ~ дэс». «Итибан» означает «самый».",
+    "zh": "在三个以上之中说“最……”时，用「〜の中で、〜が一番〜です」。「一番」是“最”的意思。",
+    "ja": "三つ以上の中で、「いちばん」を言うときは、「〜の中で、〜が一番〜です」です。「一番」は、「もっとも」という意味です。",
+    "romaji": "Mittsu ijou no naka de, 'ichiban' o iu toki wa, '~ no naka de, ~ ga ichiban ~ desu' desu. 'Ichiban' wa, 'mottomo' to iu imi desu."
+  },
+  "sl13.s3_ex": {
+    "en": "Among the temples in Kyoto, Kinkakuji is the most famous. Kiyomizudera is second.",
+    "ru": "Среди храмов Киото самый известный — Кинкакудзи. Киёмидзудэра — на втором месте.",
+    "zh": "在京都的寺庙中，金阁寺最有名。清水寺排第二。",
+    "ja": "京都のお寺の中で、金閣寺が、一番有名です。清水寺は、二番目です。",
+    "romaji": "Kyouto no otera no naka de, Kinkakuji ga, ichiban yuumei desu. Kiyomizudera wa, nibanme desu."
+  },
+  "sl13.s3_q1": {
+    "en": "Is the “no” in “no naka de” necessary?",
+    "ru": "Обязательно ли «но» в «но нака дэ»?",
+    "zh": "「の中で」里的「の」需要吗？",
+    "ja": "「の中で」の、「の」は、いりますか？",
+    "romaji": "'No naka de' no, 'no' wa, irimasu ka?"
+  },
+  "sl13.s3_a1": {
+    "en": "Yes, it is necessary. It takes the form “range + no naka de,” like “kurasu no naka de” and “Kyouto no otera no naka de.” When there is no range, just “de” is fine.",
+    "ru": "Да, нужно. Форма такая: «сфера + но нака дэ», например «курасу но нака дэ», «Кё:то но отэра но нака дэ». Когда сферы нет, достаточно одного «дэ».",
+    "zh": "需要。形式是「范围＋の中で」，如「クラスの中で」「京都のお寺の中で」。没有范围时，只用「で」也可以。",
+    "ja": "はい、必要です。「クラスの中で」「京都のお寺の中で」のように、「範囲＋の中で」の形です。範囲がなければ、「で」だけで、大丈夫です。",
+    "romaji": "Hai, hitsuyou desu. 'Kurasu no naka de' 'Kyouto no otera no naka de' no you ni, 'han'i + no naka de' no katachi desu. Han'i ga nakereba, 'de' dake de, daijoubu desu."
+  },
+  "sl13.s3_q2": {
+    "en": "Are “ichiban” and “motto” different?",
+    "ru": "«Итибан» и «мотто» отличаются?",
+    "zh": "「一番」和「もっと」有区别吗？",
+    "ja": "「一番」と「もっと」は、ちがいますか？",
+    "romaji": "'Ichiban' to 'motto' wa, chigaimasu ka?"
+  },
+  "sl13.s3_a2": {
+    "en": "Yes. “Ichiban” is the top, the number one. “Motto” means “even more than now.” “Kinkakuji ga, motto suki desu” would be a bit of a mistake.",
+    "ru": "Да. «Итибан» — самый верх, первое место. «Мотто» означает «ещё больше, чем сейчас». «Кинкакудзи га, мотто суки дэс» — это небольшая ошибка.",
+    "zh": "有区别。「一番」是最上面，也就是第一名。「もっと」是“比现在更加”的意思。说「金閣寺が、もっと好きです」就有点不对了。",
+    "ja": "はい。「一番」は、いちばん上、つまり、いちばんです。「もっと」は、今より、さらに、という意味です。「金閣寺が、もっと好きです」は、少し、まちがいですよ。",
+    "romaji": "Hai. 'Ichiban' wa, ichiban ue, tsumari, ichiban desu. 'Motto' wa, ima yori, sara ni, to iu imi desu. 'Kinkakuji ga, motto suki desu' wa, sukoshi, machigai desu yo."
+  },
+  "sl13.m_ask": {
+    "en": "Among the temples in Kyoto, which one do you like the most?",
+    "ru": "Какой из храмов Киото вам нравится больше всего?",
+    "zh": "在京都的寺庙中，你最喜欢哪一座？",
+    "ja": "京都のお寺の中で、どこが、一番好きですか？",
+    "romaji": "Kyouto no otera no naka de, doko ga, ichiban suki desu ka?"
+  },
+  "sl13.p3_prompt": {
+    "en": "Mei asked. You like Kinkakuji the most. How do you answer?",
+    "ru": "Мэй спросила. Вам больше всего нравится Кинкакудзи. Что вы ответите?",
+    "zh": "小梅问了。你最喜欢金阁寺。你会怎么回答？",
+    "ja": "メイさんが、聞きました。あなたは、金閣寺が、いちばん好きです。何と答えますか？",
+    "romaji": "Mei-san ga, kikimashita. Anata wa, Kinkakuji ga, ichiban suki desu. Nan to kotaemasu ka?"
+  },
+  "sl13.c3_natural": {
+    "en": "“Among Kyoto's temples, I like Kinkakuji the most.”",
+    "ru": "«Из храмов Киото мне больше всего нравится Кинкакудзи».",
+    "zh": "“在京都的寺庙中，我最喜欢金阁寺。”",
+    "ja": "「京都のお寺の中で、金閣寺が、一番好きです。」",
+    "romaji": "'Kyouto no otera no naka de, Kinkakuji ga, ichiban suki desu.'"
+  },
+  "sl13.c3_formal": {
+    "en": "“Among all of Kyoto's temples, I find Kinkakuji most agreeable.”",
+    "ru": "«Из всех храмов Киото я нахожу Кинкакудзи наиболее приятным».",
+    "zh": "“在京都的诸多寺院之中，我最中意金阁寺。”",
+    "ja": "「京都の諸寺院の中でも、金閣寺を、最も、好ましく存じます。」",
+    "romaji": "'Kyouto no shojiin no naka demo, Kinkakuji o, mottomo, konomashiku zonjimasu.'"
+  },
+  "sl13.c3_mistake": {
+    "en": "“I like Kinkakuji more (than before).”",
+    "ru": "«Мне Кинкакудзи нравится ещё больше (чем раньше)».",
+    "zh": "“我更喜欢金阁寺。”（说成了“比以前更”，而不是“最”）",
+    "ja": "「金閣寺が、もっと好きです。」",
+    "romaji": "'Kinkakuji ga, motto suki desu.'"
+  },
+  "sl13.c3_own": {
+    "en": "“I like Kinkakuji the most. It was golden and very beautiful.”",
+    "ru": "«Больше всего мне нравится Кинкакудзи. Он золотой и очень красивый».",
+    "zh": "“我最喜欢金阁寺。因为它是金色的，非常漂亮。”",
+    "ja": "「金閣寺が、一番好きです。金色で、とても、きれいでしたから。」",
+    "romaji": "'Kinkakuji ga, ichiban suki desu. Kiniro de, totemo, kirei deshita kara.'"
+  },
+  "sl13.c3_min": {
+    "en": "“Kinkakuji... number one...”",
+    "ru": "«Кинкакудзи… самый…»",
+    "zh": "“金阁寺……最……”",
+    "ja": "「金閣寺…一番…」",
+    "romaji": "'Kinkakuji... ichiban...'"
+  },
+  "sl13.p3_nat_mei": {
+    "en": "I like Kinkakuji too. But the view at Kiyomizudera was wonderful as well.",
+    "ru": "Мне тоже нравится Кинкакудзи. Но вид в Киёмидзудэра тоже был чудесным.",
+    "zh": "我也喜欢金阁寺。不过清水寺的景色也很棒呢。",
+    "ja": "わたしも、金閣寺が、好きです。でも、清水寺の景色も、すてきでしたね。",
+    "romaji": "Watashi mo, Kinkakuji ga, suki desu. Demo, Kiyomizudera no keshiki mo, suteki deshita ne."
+  },
+  "sl13.p3_form_ken": {
+    "en": "Haha, you sound like a tour guide. “Kinkakuji ga, ichiban suki desu” is fine.",
+    "ru": "Ха-ха, как гид. Достаточно «Кинкакудзи га, итибан суки дэс».",
+    "zh": "哈哈，像导游一样。说「金閣寺が、一番好きです」就行。",
+    "ja": "あはは、ガイドさんみたいです。「金閣寺が、一番好きです」で、大丈夫ですよ。",
+    "romaji": "Ahaha, gaido-san mitai desu. 'Kinkakuji ga, ichiban suki desu' de, daijoubu desu yo."
+  },
+  "sl13.p3_mis_tanaka": {
+    "en": "Close. “Motto” means “even more than now.” When you want to say “the most,” use “ichiban.”",
+    "ru": "Почти. «Мотто» означает «ещё больше, чем сейчас». Когда хотите сказать «больше всего», используют «итибан».",
+    "zh": "很接近。「もっと」是“比现在更加”的意思。想说“最”时，要用「一番」。",
+    "ja": "惜しいです。「もっと」は、「今より、さらに」という意味です。「いちばん」と、言いたいときは、「一番」を使います。",
+    "romaji": "Oshii desu. 'Motto' wa, 'ima yori, sara ni' to iu imi desu. 'Ichiban' to, iitai toki wa, 'ichiban' o tsukaimasu."
+  },
+  "sl13.p3_mis_retry": {
+    "en": "Oh, I like Kinkakuji the most.",
+    "ru": "Ой, мне больше всего нравится Кинкакудзи.",
+    "zh": "啊，我最喜欢金阁寺。",
+    "ja": "あっ、金閣寺が、一番好きです。",
+    "romaji": "A, Kinkakuji ga, ichiban suki desu."
+  },
+  "sl13.p3_mis_relief": {
+    "en": "Yes, that's it. With “ichiban,” your feeling came across clearly.",
+    "ru": "Да, именно так. С «итибан» ваше чувство передано чётко.",
+    "zh": "对，就是这个。用了「一番」，心意就清楚地传达出来了。",
+    "ja": "はい、それです。「一番」で、気持ちが、はっきり伝わりました。",
+    "romaji": "Hai, sore desu. 'Ichiban' de, kimochi ga, hakkiri tsutawarimashita."
+  },
+  "sl13.p3_own_mei": {
+    "en": "It really was beautiful. I took lots of photos too.",
+    "ru": "Он действительно был красивым. Я тоже сделала много фотографий.",
+    "zh": "真的很漂亮呢。我也拍了很多照片。",
+    "ja": "本当に、きれいでしたね。写真も、たくさん撮りました。",
+    "romaji": "Hontou ni, kirei deshita ne. Shashin mo, takusan torimashita."
+  },
+  "sl13.p3_min_yuki": {
+    "en": "I understand. Try a full sentence: “Kinkakuji ga, ichiban suki desu.”",
+    "ru": "Понимаю. Скажите целым предложением: «Кинкакудзи га, итибан суки дэс».",
+    "zh": "我明白。试着说完整的句子：「金閣寺が、一番好きです」。",
+    "ja": "分かりますよ。「金閣寺が、一番好きです」と、文で言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Kinkakuji ga, ichiban suki desu' to, bun de itte mimashou."
+  },
+  "sl13.s4_intro": {
+    "en": "The last is “~ hodo ~ masen.” “A wa B hodo ~ masen” means “A is not as ~ as B.”",
+    "ru": "Последнее — «~ ходо ~ масэн». «A ва B ходо ~ масэн» означает «A не так ~, как B».",
+    "zh": "最后是「〜ほど〜ません」。「AはBほど〜ません」的意思是“A不如B那么〜”。",
+    "ja": "最後は、「〜ほど〜ません」です。「AはBほど〜ません」は、「AはBより、〜ではない」という意味です。",
+    "romaji": "Saigo wa, '~ hodo ~ masen' desu. 'A wa B hodo ~ masen' wa, 'A wa B yori, ~ de wa nai' to iu imi desu."
+  },
+  "sl13.s4_ex": {
+    "en": "Kyoto is not as big as Tokyo. The bus is not as fast as the train.",
+    "ru": "Киото не такой большой, как Токио. Автобус не такой быстрый, как поезд.",
+    "zh": "京都不如东京那么大。公交不如电车那么快。",
+    "ja": "京都は、東京ほど、大きくありません。バスは、電車ほど、速くありません。",
+    "romaji": "Kyouto wa, Toukyou hodo, ookiku arimasen. Basu wa, densha hodo, hayaku arimasen."
+  },
+  "sl13.s4_same": {
+    "en": "When they are about the same, you say “A to B wa, onaji kurai desu.” “A wa B to, onaji kurai ~ desu” is also fine.",
+    "ru": "Когда они примерно одинаковы, говорят «A то B ва, онадзи курай дэс». Подойдёт и «A ва B то, онадзи курай ~ дэс».",
+    "zh": "差不多一样时，说「AとBは、同じくらいです」。说「AはBと、同じくらい〜です」也可以。",
+    "ja": "同じくらいの時は、「AとBは、同じくらいです」と言います。「AはBと、同じくらい〜です」でも、大丈夫です。",
+    "romaji": "Onaji kurai no toki wa, 'A to B wa, onaji kurai desu' to iimasu. 'A wa B to, onaji kurai ~ desu' demo, daijoubu desu."
+  },
+  "sl13.s4_q1": {
+    "en": "Is what comes after “hodo” always negative?",
+    "ru": "После «ходо» всегда идёт отрицание?",
+    "zh": "「ほど」后面总是否定吗？",
+    "ja": "「ほど」の後ろは、いつも、否定ですか？",
+    "romaji": "'Hodo' no ushiro wa, itsumo, hitei desu ka?"
+  },
+  "sl13.s4_a1": {
+    "en": "In the form “A wa B hodo ~ masen,” yes. “Hodo” means “to the same degree,” so it is used in the negative to mean “not to the same degree.”",
+    "ru": "В форме «A ва B ходо ~ масэн» — да. «Ходо» означает «в той же степени», поэтому его используют в отрицании: «не в той же степени».",
+    "zh": "在「AはBほど〜ません」这个形式里，是的。「ほど」是“同等程度”的意思，所以用否定来表示“不是同等程度”。",
+    "ja": "「AはBほど〜ません」の形では、そうです。「ほど」は、「同じ程度」という意味なので、「同じ程度ではない」と、否定で使います。",
+    "romaji": "'A wa B hodo ~ masen' no katachi de wa, sou desu. 'Hodo' wa, 'onaji teido' to iu imi na node, 'onaji teido de wa nai' to, hitei de tsukaimasu."
+  },
+  "sl13.s4_q2": {
+    "en": "How do you choose between “yori” and “hodo”?",
+    "ru": "Как выбирать между «ёри» и «ходо»?",
+    "zh": "「より」和「ほど」该怎么区分使用？",
+    "ja": "「より」と「ほど」は、どう使い分けますか？",
+    "romaji": "'Yori' to 'hodo' wa, dou tsukaiwakemasu ka?"
+  },
+  "sl13.s4_a2": {
+    "en": "“A wa B yori ookii desu” and “B wa A hodo ookiku arimasen” have the same meaning. You choose based on which one you want to be the subject.",
+    "ru": "«A ва B ёри о:кии дэс» и «B ва A ходо о:кику аримасэн» имеют одинаковый смысл. Выбирают в зависимости от того, кого хотят сделать главным.",
+    "zh": "「AはBより大きいです」和「BはAほど大きくありません」意思相同。看你想把哪一个作为主角来选择。",
+    "ja": "「AはBより大きいです」と、「BはAほど大きくありません」は、同じ意味です。どちらを主役にしたいかで、選びます。",
+    "romaji": "'A wa B yori ookii desu' to, 'B wa A hodo ookiku arimasen' wa, onaji imi desu. Dochira o shuyaku ni shitai ka de, erabimasu."
+  },
+  "sl13.k_kyoto": {
+    "en": "Is Kyoto bigger than Tokyo?",
+    "ru": "Киото больше Токио?",
+    "zh": "京都比东京大吗？",
+    "ja": "京都は、東京より、大きいですか？",
+    "romaji": "Kyouto wa, Toukyou yori, ookii desu ka?"
+  },
+  "sl13.p4_prompt": {
+    "en": "Ken asked. Kyoto is not as big as Tokyo. How do you answer?",
+    "ru": "Кен спросил. Киото не такой большой, как Токио. Что вы ответите?",
+    "zh": "健问了。京都不如东京那么大。你会怎么回答？",
+    "ja": "ケンさんが、聞きました。京都は、東京ほど、大きくありません。何と答えますか？",
+    "romaji": "Ken-san ga, kikimashita. Kyouto wa, Toukyou hodo, ookiku arimasen. Nan to kotaemasu ka?"
+  },
+  "sl13.c4_natural": {
+    "en": "“No, Kyoto is not as big as Tokyo.”",
+    "ru": "«Нет, Киото не такой большой, как Токио».",
+    "zh": "“不，京都不如东京那么大。”",
+    "ja": "「いいえ、京都は、東京ほど、大きくありません。」",
+    "romaji": "'Iie, Kyouto wa, Toukyou hodo, ookiku arimasen.'"
+  },
+  "sl13.c4_formal": {
+    "en": "“No, Kyoto falls far short of Tokyo's scale.”",
+    "ru": "«Нет, Киото далеко уступает Токио по масштабу».",
+    "zh": "“不，京都的规模远不及东京。”",
+    "ja": "「いえ、京都は、東京の規模には、遠く及びません。」",
+    "romaji": "'Ie, Kyouto wa, Toukyou no kibo ni wa, tooku oyobimasen.'"
+  },
+  "sl13.c4_mistake": {
+    "en": "“No, Kyoto is as big as Tokyo. (with a positive)”",
+    "ru": "«Нет, Киото такой же большой, как Токио (в утвердительной форме)».",
+    "zh": "“不，京都和东京一样大。”（「ほど」后面用了肯定）",
+    "ja": "「いいえ、京都は、東京ほど、大きいです。」",
+    "romaji": "'Iie, Kyouto wa, Toukyou hodo, ookii desu.'"
+  },
+  "sl13.c4_own": {
+    "en": "“No, Kyoto is not as big as Tokyo. But there are many old temples.”",
+    "ru": "«Нет, Киото не такой большой, как Токио. Но в нём много старых храмов».",
+    "zh": "“不，京都不如东京那么大。不过有很多古老的寺庙。”",
+    "ja": "「いいえ、京都は、東京ほど、大きくありません。でも、古いお寺が、たくさんあります。」",
+    "romaji": "'Iie, Kyouto wa, Toukyou hodo, ookiku arimasen. Demo, furui otera ga, takusan arimasu.'"
+  },
+  "sl13.c4_min": {
+    "en": "“No... Kyoto... small...”",
+    "ru": "«Нет… Киото… маленький…»",
+    "zh": "“不……京都……小……”",
+    "ja": "「いいえ…京都…小さい…」",
+    "romaji": "'Iie... Kyouto... chiisai...'"
+  },
+  "sl13.p4_nat_ken": {
+    "en": "Right. But Kyoto is quieter than Tokyo, which is nice.",
+    "ru": "Верно. Но Киото тише Токио, и это здорово.",
+    "zh": "是啊。不过京都比东京安静，很不错。",
+    "ja": "そうですね。でも、京都は、東京より、しずかで、いいですね。",
+    "romaji": "Sou desu ne. Demo, Kyouto wa, Toukyou yori, shizuka de, ii desu ne."
+  },
+  "sl13.p4_form_mei": {
+    "en": "Ha, you sound like a geography teacher. “Toukyou hodo, ookiku arimasen” is fine.",
+    "ru": "Ха-ха, как учитель географии. Достаточно «Токё: ходо, о:кику аримасэн».",
+    "zh": "呵呵，像地理老师一样。说「東京ほど、大きくありません」就行。",
+    "ja": "ふふ、地理の先生みたいです。「東京ほど、大きくありません」で、いいですよ。",
+    "romaji": "Fufu, chiri no sensei mitai desu. 'Toukyou hodo, ookiku arimasen' de, ii desu yo."
+  },
+  "sl13.p4_mis_tanaka": {
+    "en": "Close. After “A wa B hodo,” you need a negative form. You say “ookiku arimasen.” If you want to say “about as big,” use “onaji kurai.”",
+    "ru": "Почти. После «A ва B ходо» нужна отрицательная форма. Говорят «о:кику аримасэн». Если хотите сказать «примерно такой же большой», используйте «онадзи курай».",
+    "zh": "很接近。「AはBほど」后面要接否定形式。说「大きくありません」。如果想说“差不多一样大”，要用「同じくらい」。",
+    "ja": "惜しいです。「AはBほど」の後ろは、否定の形です。「大きくありません」と言います。「同じくらい大きいです」と言いたいときは、「同じくらい」を使います。",
+    "romaji": "Oshii desu. 'A wa B hodo' no ushiro wa, hitei no katachi desu. 'Ookiku arimasen' to iimasu. 'Onaji kurai ookii desu' to iitai toki wa, 'onaji kurai' o tsukaimasu."
+  },
+  "sl13.p4_mis_retry": {
+    "en": "Oh, no, Kyoto is not as big as Tokyo.",
+    "ru": "Ой, нет, Киото не такой большой, как Токио.",
+    "zh": "啊，不，京都不如东京那么大。",
+    "ja": "あっ、いいえ、京都は、東京ほど、大きくありません。",
+    "romaji": "A, iie, Kyouto wa, Toukyou hodo, ookiku arimasen."
+  },
+  "sl13.p4_mis_relief": {
+    "en": "Yes, that's it. “Hodo” and the negative are connected properly.",
+    "ru": "Да, именно так. «Ходо» и отрицание соединены верно.",
+    "zh": "对，就是这个。「ほど」和否定连起来了。",
+    "ja": "はい、それです。「ほど」と否定が、つながりました。",
+    "romaji": "Hai, sore desu. 'Hodo' to hitei ga, tsunagarimashita."
+  },
+  "sl13.p4_own_ken": {
+    "en": "Exactly. Kyoto is small, but its history is very long.",
+    "ru": "Именно. Киото небольшой, но его история очень длинная.",
+    "zh": "没错。京都虽小，但历史非常悠久。",
+    "ja": "そのとおりです。京都は、小さいですが、歴史が、とても長いです。",
+    "romaji": "Sono toori desu. Kyouto wa, chiisai desu ga, rekishi ga, totemo nagai desu."
+  },
+  "sl13.p4_min_yuki": {
+    "en": "The meaning gets across. Try saying “Toukyou hodo, ookiku arimasen.”",
+    "ru": "Смысл понятен. Попробуйте сказать «Токё: ходо, о:кику аримасэн».",
+    "zh": "意思能传达。试着说「東京ほど、大きくありません」。",
+    "ja": "意味は、伝わりますよ。「東京ほど、大きくありません」と、言ってみましょう。",
+    "romaji": "Imi wa, tsutawarimasu yo. 'Toukyou hodo, ookiku arimasen' to, itte mimashou."
+  },
+  "sl13.talk_open": {
+    "en": "Now let's talk. Out of today's four forms, which one is the easiest to use?",
+    "ru": "Теперь поговорим. Какая из сегодняшних четырёх форм кажется вам самой удобной?",
+    "zh": "现在来聊聊。今天这四个句型里，你觉得哪一个最好用？",
+    "ja": "では、話しましょう。今日の四つの形の中で、いちばん使いやすい形は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no yottsu no katachi no naka de, ichiban tsukaiyasui katachi wa, dore desu ka?"
+  },
+  "sl13.talk_mei": {
+    "en": "For me, it's “ichiban.” I'm happy that I can tell people what I like the most right away.",
+    "ru": "Для меня это «итибан». Мне радостно, что я могу сразу сказать, что мне нравится больше всего.",
+    "zh": "我觉得是「一番」。能马上说出自己最喜欢的东西，我很开心。",
+    "ja": "わたしは、「一番」です。好きなものを、すぐ、伝えられるので、うれしいです。",
+    "romaji": "Watashi wa, 'ichiban' desu. Suki na mono o, sugu, tsutaerareru node, ureshii desu."
+  },
+  "sl13.talk_ken": {
+    "en": "For me, it's “~ no hou ga.” I can use it right away when choosing between two things.",
+    "ru": "Для меня это «~ но хо: га». Я могу сразу использовать её, когда выбираю из двух.",
+    "zh": "我觉得是「〜のほうが」。在两者中选择时，马上就能用上。",
+    "ja": "ぼくは、「〜のほうが」です。二つの中から、選ぶときに、すぐ使えます。",
+    "romaji": "Boku wa, '~ no hou ga' desu. Futatsu no naka kara, erabu toki ni, sugu tsukaemasu."
+  },
+  "sl13.talk_yuki": {
+    "en": "For me, it's “~ hodo ~ masen.” It feels gentler than “~ yori.”",
+    "ru": "Для меня это «~ ходо ~ масэн». Звучит мягче, чем «~ ёри».",
+    "zh": "我觉得是「〜ほど〜ません」。比「〜より」听起来更温和。",
+    "ja": "わたしは、「〜ほど〜ません」です。「〜より」より、やさしい感じがします。",
+    "romaji": "Watashi wa, '~ hodo ~ masen' desu. '~ yori' yori, yasashii kanji ga shimasu."
+  },
+  "sl13.talk_tanaka": {
+    "en": "Lovely. When you can use words for comparing, you can convey your feelings and thoughts more clearly.",
+    "ru": "Прекрасно. Когда вы умеете использовать слова для сравнения, вы можете точнее передавать свои чувства и мысли.",
+    "zh": "真好。会用比较的词，就能更清楚地传达自己的心情和想法。",
+    "ja": "すてきですね。くらべる言葉が使えると、自分の気持ちや、考えを、もっと、はっきり伝えられます。",
+    "romaji": "Suteki desu ne. Kuraberu kotoba ga tsukaeru to, jibun no kimochi ya, kangae o, motto, hakkiri tsutaeraremasu."
+  },
+  "sl13.talk_player": {
+    "en": "(Faster than the train, I prefer tea, Kinkakuji is my favorite, not as big as Tokyo. With words for comparison, I can remember the day in Kyoto more clearly. Next, I'll practice giving reasons.)",
+    "ru": "(Быстрее поезда, чай мне нравится больше, Кинкакудзи — лучший, не такой большой, как Токио. Со словами для сравнения я могу яснее вспомнить день в Киото. Дальше потренируюсь называть причины.)",
+    "zh": "（比电车快、更喜欢茶、最喜欢金阁寺、不如东京大。有了比较的词，京都的这一天回想起来更清楚了。接下来，我要练习说明理由。）",
+    "ja": "（電車より速い、お茶のほうが好き、金閣寺が一番、東京ほど大きくない。くらべる言葉で、京都の一日が、もっと、はっきり思い出せる。次は、理由を言う練習をしてみよう。）",
+    "romaji": "(Densha yori hayai, ocha no hou ga suki, Kinkakuji ga ichiban, Toukyou hodo ookiku nai. Kuraberu kotoba de, Kyouto no ichinichi ga, motto, hakkiri omoidaseru. Tsugi wa, riyuu o iu renshuu o shite miyou.)"
+  },
+  "sl13.talk_close": {
+    "en": "Good lesson, everyone. In the next class, let's practice giving reasons with “kara” and “node.”",
+    "ru": "Хороший урок, все. На следующем уроке потренируем называть причины с помощью «кара» и «нодэ».",
+    "zh": "各位，这节课很棒。下节课我们用「から」和「ので」来练习说明理由。",
+    "ja": "みなさん、いいレッスンでした。次の授業では、「から」と「ので」で、理由を言う練習をしましょう。",
+    "romaji": "Minasan, ii ressun deshita. Tsugi no jugyou de wa, 'kara' to 'node' de, riyuu o iu renshuu o shimashou."
+  },
+  "sl13.complete": {
+    "en": "End of Sentence Lesson 13.",
+    "ru": "Конец урока предложений 13.",
+    "zh": "句型课 13 结束。",
+    "ja": "文型レッスン13、おわり。",
+    "romaji": "Bunkei ressun juusan, owari."
+  }
+}

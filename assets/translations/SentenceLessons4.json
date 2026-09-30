@@ -1,0 +1,653 @@
+{
+  "sl4.title": {
+    "en": "Dare, Itsu, Nani: Question Words",
+    "ru": "Дарэ, ицу, нани: вопросительные слова",
+    "zh": "だれ・いつ・何：疑问词",
+    "ja": "だれ・いつ・何：質問の言葉",
+    "romaji": "Dare, itsu, nani: shitsumon no kotoba"
+  },
+  "sl4.subtitle": {
+    "en": "Asking questions while preparing for the festival",
+    "ru": "Задаём вопросы при подготовке к празднику",
+    "zh": "筹备庙会时，问各种问题",
+    "ja": "お祭りの準備で、いろいろ質問する",
+    "romaji": "Omatsuri no junbi de, iroiro shitsumon suru"
+  },
+  "sl4.description": {
+    "en": "While preparing for the school festival, practice asking “dare / dare no,” “itsu,” and “nan no” questions, and asking several questions in a row.",
+    "ru": "Готовясь к школьному празднику, потренируйте вопросы «дарэ / дарэ но», «ицу» и «нан но», а также умение задавать несколько вопросов подряд.",
+    "zh": "在筹备学校庙会的同时，练习「だれ／だれの」「いつ」「何の」等提问，以及连续提出几个问题的说法。",
+    "ja": "学校のお祭りの準備をしながら、「だれ・だれの」「いつ」「何の」の質問と、いくつかの質問を続けて聞く形を練習します。",
+    "romaji": "Gakkou no omatsuri no junbi o shinagara, 'dare, dare no' 'itsu' 'nan no' no shitsumon to, ikutsu ka no shitsumon o tsuzukete kiku katachi o renshuu shimasu."
+  },
+  "sl4.pattern.1": {
+    "en": "who / whose",
+    "ru": "кто / чей",
+    "zh": "谁／谁的",
+    "ja": "だれ・だれの",
+    "romaji": "dare, dare no"
+  },
+  "sl4.pattern.2": {
+    "en": "When is X?",
+    "ru": "Когда X?",
+    "zh": "X是什么时候？",
+    "ja": "〜は、いつですか",
+    "romaji": "~ wa, itsu desu ka"
+  },
+  "sl4.pattern.3": {
+    "en": "what kind of ~ / what day of the week",
+    "ru": "какой (что за) ~ / какой день недели",
+    "zh": "什么样的〜／星期几",
+    "ja": "何の〜・何曜日",
+    "romaji": "nan no ~, nan youbi"
+  },
+  "sl4.pattern.4": {
+    "en": "asking several questions in a row",
+    "ru": "несколько вопросов подряд",
+    "zh": "连续提出几个问题",
+    "ja": "いくつかの質問を続ける",
+    "romaji": "ikutsu ka no shitsumon o tsuzukeru"
+  },
+  "sl4.setup": {
+    "en": "The classroom after school. A big sheet of paper is stuck on the blackboard. It reads “School Festival.” Everyone gathers around it.",
+    "ru": "Класс после уроков. На доске приклеен большой лист бумаги. На нём написано «Школьный праздник». Все собрались вокруг него.",
+    "zh": "放学后的教室。黑板上贴着一张大纸，上面写着「学校のお祭り」。大家围在那张纸旁边。",
+    "ja": "放課後の教室。黒板には、大きな紙がはってある。「学校のお祭り」と書いてある。みんなは、その紙のまわりに集まった。",
+    "romaji": "Houkago no kyoushitsu. Kokuban ni wa, ookina kami ga hatte aru. 'Gakkou no omatsuri' to kaite aru. Minna wa, sono kami no mawari ni atsumatta."
+  },
+  "sl4.t_intro": {
+    "en": "Today's theme is question words. While preparing for the festival, let's ask all kinds of questions using “dare,” “itsu,” and “nani.”",
+    "ru": "Тема сегодня — вопросительные слова. Готовясь к празднику, давайте зададим разные вопросы с «дарэ», «ицу» и «нани».",
+    "zh": "今天的主题是疑问词。在筹备庙会的同时，用「だれ」「いつ」「何」来问各种问题吧。",
+    "ja": "今日のテーマは、質問の言葉です。お祭りの準備をしながら、「だれ」「いつ」「何」を使って、いろいろな質問をしてみましょう。",
+    "romaji": "Kyou no teema wa, shitsumon no kotoba desu. Omatsuri no junbi o shinagara, 'dare' 'itsu' 'nani' o tsukatte, iroiro na shitsumon o shite mimashou."
+  },
+  "sl4.s1_photo": {
+    "en": "Who is the person in this photo?",
+    "ru": "Кто этот человек на фотографии?",
+    "zh": "这张照片里的人是谁？",
+    "ja": "この写真の人は、だれですか？",
+    "romaji": "Kono shashin no hito wa, dare desu ka?"
+  },
+  "sl4.s1_ans": {
+    "en": "That person was last year's festival teacher. He is my friend.",
+    "ru": "Этот человек — учитель с прошлогоднего праздника. Он мой друг.",
+    "zh": "那个人是去年庙会时的老师。是我的朋友。",
+    "ja": "その人は、去年の、お祭りの先生です。私の友達です。",
+    "romaji": "Sono hito wa, kyonen no, omatsuri no sensei desu. Watashi no tomodachi desu."
+  },
+  "sl4.s1_dare": {
+    "en": "This is “dare,” who. You use it when you want to know a person's name or who that person is. The pattern is “~ wa, dare desu ka.”",
+    "ru": "Это «дарэ» — кто. Его используют, когда хотят узнать имя человека или кто он. Форма: «~ ва, дарэ дэс ка».",
+    "zh": "这就是「だれ」。想知道一个人的名字或身份时使用。句型是「〜は、だれですか」。",
+    "ja": "これが「だれ」です。人の名前や、その人が何者かを、知りたいときに使います。「〜は、だれですか」の形です。",
+    "romaji": "Kore ga 'dare' desu. Hito no namae ya, sono hito ga nanimono ka o, shiritai toki ni tsukaimasu. '~ wa, dare desu ka' no katachi desu."
+  },
+  "sl4.s1_q1": {
+    "en": "Are “donata” and “dare” different?",
+    "ru": "«Доната» и «дарэ» отличаются?",
+    "zh": "「どなた」和「だれ」有区别吗？",
+    "ja": "「どなた」と「だれ」は、ちがいますか？",
+    "romaji": "'Donata' to 'dare' wa, chigaimasu ka?"
+  },
+  "sl4.s1_a1": {
+    "en": "The meaning is the same. “Donata” is the polite form. For teachers or customers, you say “donata desu ka.”",
+    "ru": "Значение одно и то же. «Доната» — вежливая форма. Учителям и гостям говорят «доната дэс ка».",
+    "zh": "意思相同。「どなた」是礼貌的说法。对老师或客人，说「どなたですか」。",
+    "ja": "意味は同じです。「どなた」は、ていねいな言い方です。先生や、お客さんには、「どなたですか」と言います。",
+    "romaji": "Imi wa onaji desu. 'Donata' wa, teinei na iikata desu. Sensei ya, okyakusan ni wa, 'donata desu ka' to iimasu."
+  },
+  "sl4.s1_dare_no": {
+    "en": "“Dare no” means “whose.” It is used like “Kore wa, dare no kaban desu ka?” “Ken-san no desu.”",
+    "ru": "«Дарэ но» означает «чей». Используется так: «Коре ва, дарэ но кабан дэс ка?» — «Кэн-сан но дэс».",
+    "zh": "「だれの」是“谁的”的意思。用法如「これは、だれのかばんですか？」「ケンさんのです」。",
+    "ja": "「だれの」は、「だれのもの」という意味です。「これは、だれのかばんですか？」「ケンさんのです」のように使います。",
+    "romaji": "'Dare no' wa, 'dare no mono' to iu imi desu. 'Kore wa, dare no kaban desu ka?' 'Ken-san no desu' no you ni tsukaimasu."
+  },
+  "sl4.s1_q2": {
+    "en": "When you say “Ken-san no desu,” don't you need “kaban”?",
+    "ru": "Когда говорят «Кэн-сан но дэс», не нужно ли добавлять «кабан»?",
+    "zh": "说「ケンさんのです」的时候，不需要说「かばん」吗？",
+    "ja": "「ケンさんのです」と言うとき、「かばん」は、いりませんか？",
+    "romaji": "'Ken-san no desu' to iu toki, 'kaban' wa, irimasen ka?"
+  },
+  "sl4.s1_a2": {
+    "en": "Yes, when it's clear, you don't have to say the noun. “No” by itself means “belonging to ~.”",
+    "ru": "Да, если и так понятно, существительное можно не говорить. «Но» само по себе означает «принадлежащее ~».",
+    "zh": "是的，意思明确时，可以不说名词。光用「の」就表示“……的东西”。",
+    "ja": "はい、分かっているときは、名詞を言わなくても大丈夫です。「の」だけで、「〜のもの」という意味になります。",
+    "romaji": "Hai, wakatte iru toki wa, meishi o iwanakute mo daijoubu desu. 'No' dake de, '~ no mono' to iu imi ni narimasu."
+  },
+  "sl4.bag": {
+    "en": "On the desk at the back of the classroom, there's a blue bag. Nobody knows whose it is.",
+    "ru": "На столе в задней части класса стоит синяя сумка. Непонятно, чья она.",
+    "zh": "教室后面的桌子上，放着一个蓝色的包。不知道是谁的。",
+    "ja": "教室の後ろの机の上に、青いかばんが、一つ置いてある。だれのか、分からない。",
+    "romaji": "Kyoushitsu no ushiro no tsukue no ue ni, aoi kaban ga, hitotsu oite aru. Dare no ka, wakaranai."
+  },
+  "sl4.p1_prompt": {
+    "en": "Now let's practice. We don't know whose bag it is. Please ask everyone. What do you say?",
+    "ru": "Теперь практика. Мы не знаем, чья это сумка. Спросите у всех. Что вы скажете?",
+    "zh": "现在来练习。我们不知道这个包是谁的。请问问大家。你会怎么说？",
+    "ja": "では、練習です。だれのかばんか、分かりません。みんなに、聞いてください。何と言いますか？",
+    "romaji": "Dewa, renshuu desu. Dare no kaban ka, wakarimasen. Minna ni, kiite kudasai. Nan to iimasu ka?"
+  },
+  "sl4.c1_natural": {
+    "en": "“Whose bag is this?”",
+    "ru": "«Чья это сумка?»",
+    "zh": "“这是谁的包？”",
+    "ja": "「これは、だれのかばんですか？」",
+    "romaji": "'Kore wa, dare no kaban desu ka?'"
+  },
+  "sl4.c1_formal": {
+    "en": "“To whom might this honorable bag belong?”",
+    "ru": "«Кому изволит принадлежать эта уважаемая сумка?»",
+    "zh": "“请问这个包是哪位的？”",
+    "ja": "「こちらのお鞄は、どなた様のものでいらっしゃいますか。」",
+    "romaji": "'Kochira no okaban wa, donata-sama no mono de irasshaimasu ka.'"
+  },
+  "sl4.c1_mistake": {
+    "en": "“Is this a who-bag?”",
+    "ru": "«Это кто-сумка?»",
+    "zh": "“这是谁包吗？”（漏掉了の）",
+    "ja": "「これは、だれかばんですか？」",
+    "romaji": "'Kore wa, dare kaban desu ka?'"
+  },
+  "sl4.c1_own": {
+    "en": "“Excuse me, whose bag is this? Is it Ken's?”",
+    "ru": "«Извините, чья это сумка? Она Кена?»",
+    "zh": "“不好意思，这是谁的包？是健的吗？”",
+    "ja": "「すみません、これは、だれのかばんですか？ケンさんのですか？」",
+    "romaji": "'Sumimasen, kore wa, dare no kaban desu ka? Ken-san no desu ka?'"
+  },
+  "sl4.c1_min": {
+    "en": "“Bag... who...?”",
+    "ru": "«Сумка… кто…?»",
+    "zh": "“包……谁……？”",
+    "ja": "「かばん…だれ…？」",
+    "romaji": "'Kaban... dare...?'"
+  },
+  "sl4.p1_nat_ken": {
+    "en": "Oh, that's mine. Thank you.",
+    "ru": "Ах, это моя. Спасибо.",
+    "zh": "啊，那是我的。谢谢。",
+    "ja": "あ、それは、ぼくのです。ありがとうございます。",
+    "romaji": "A, sore wa, boku no desu. Arigatou gozaimasu."
+  },
+  "sl4.p1_form_mei": {
+    "en": "Ha, that sounds like a lost-and-found announcement. “Kore wa, dare no kaban desu ka?” is fine.",
+    "ru": "Ха-ха, как объявление о потерянных вещах. Достаточно «коре ва, дарэ но кабан дэс ка?».",
+    "zh": "呵呵，像失物招领广播一样。说「これは、だれのかばんですか？」就好。",
+    "ja": "ふふ、落とし物の放送みたいです。「これは、だれのかばんですか？」で、いいですよ。",
+    "romaji": "Fufu, otoshimono no housou mitai desu. 'Kore wa, dare no kaban desu ka?' de, ii desu yo."
+  },
+  "sl4.p1_mis_tanaka": {
+    "en": "Close. You need “no” between “dare” and “kaban.” You say “dare no kaban.” It's the “no” we studied in Sentence Lesson 1.",
+    "ru": "Почти. Между «дарэ» и «кабан» нужно «но». Говорят «дарэ но кабан». Это то самое «но», которое мы изучали на уроке предложений 1.",
+    "zh": "很接近。「だれ」和「かばん」之间需要「の」。说「だれのかばん」。这就是句型课1里学过的「の」。",
+    "ja": "惜しいです。「だれ」と「かばん」の間に、「の」が必要です。「だれのかばん」と言います。文型レッスン1で勉強した「の」ですね。",
+    "romaji": "Oshii desu. 'Dare' to 'kaban' no aida ni, 'no' ga hitsuyou desu. 'Dare no kaban' to iimasu. Bunkei ressun ichi de benkyou shita 'no' desu ne."
+  },
+  "sl4.p1_mis_retry": {
+    "en": "Oh, whose bag is this?",
+    "ru": "Ой, чья это сумка?",
+    "zh": "啊，这是谁的包？",
+    "ja": "あっ、これは、だれのかばんですか？",
+    "romaji": "A, kore wa, dare no kaban desu ka?"
+  },
+  "sl4.p1_mis_relief": {
+    "en": "Yes, that's it. With “no” added, the meaning is clear.",
+    "ru": "Да, именно так. С добавлением «но» смысл стал ясным.",
+    "zh": "对，就是这个。加上「の」，意思就清楚了。",
+    "ja": "はい、それです。「の」が入って、意味がはっきりしました。",
+    "romaji": "Hai, sore desu. 'No' ga haitte, imi ga hakkiri shimashita."
+  },
+  "sl4.p1_own_ken": {
+    "en": "Yes, it's mine. I was looking for it. Thank you!",
+    "ru": "Да, она моя. Я её искал. Спасибо!",
+    "zh": "是的，是我的。我正在找呢。谢谢！",
+    "ja": "はい、ぼくのです。さがしていました。ありがとうございます！",
+    "romaji": "Hai, boku no desu. Sagashite imashita. Arigatou gozaimasu!"
+  },
+  "sl4.p1_min_yuki": {
+    "en": "It gets across. But asking a full sentence, “kore wa, dare no kaban desu ka?” is more polite.",
+    "ru": "Поймут. Но целое предложение «коре ва, дарэ но кабан дэс ка?» звучит вежливее.",
+    "zh": "能听懂。不过用完整的句子问「これは、だれのかばんですか？」会更礼貌。",
+    "ja": "伝わりますよ。でも、「これは、だれのかばんですか？」と、文で聞くと、もっとていねいです。",
+    "romaji": "Tsutawarimasu yo. Demo, 'kore wa, dare no kaban desu ka?' to, bun de kiku to, motto teinei desu."
+  },
+  "sl4.s2_intro": {
+    "en": "Next is “itsu,” when. You use it to ask about time or dates. The pattern is “~ wa, itsu desu ka.”",
+    "ru": "Дальше — «ицу», когда. Его используют, чтобы спросить о времени или дате. Форма: «~ ва, ицу дэс ка».",
+    "zh": "接下来是「いつ」。用来询问时间或日期。句型是「〜は、いつですか」。",
+    "ja": "次は、「いつ」です。時や日にちを聞くときに使います。「〜は、いつですか」の形です。",
+    "romaji": "Tsugi wa, 'itsu' desu. Toki ya hinichi o kiku toki ni tsukaimasu. '~ wa, itsu desu ka' no katachi desu."
+  },
+  "sl4.s2_week": {
+    "en": "Let's say the days of the week together: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.",
+    "ru": "Давайте вместе назовём дни недели: понедельник, вторник, среда, четверг, пятница, суббота, воскресенье.",
+    "zh": "我们一起来说星期几吧：星期一、星期二、星期三、星期四、星期五、星期六、星期日。",
+    "ja": "曜日を、いっしょに言いましょう。月曜日、火曜日、水曜日、木曜日、金曜日、土曜日、日曜日。",
+    "romaji": "Youbi o, issho ni iimashou. Getsuyoubi, kayoubi, suiyoubi, mokuyoubi, kin'youbi, doyoubi, nichiyoubi."
+  },
+  "sl4.s2_ex": {
+    "en": "Today is Monday. The festival is on Friday.",
+    "ru": "Сегодня понедельник. Праздник в пятницу.",
+    "zh": "今天是星期一。庙会是星期五。",
+    "ja": "今日は、月曜日です。お祭りは、金曜日です。",
+    "romaji": "Kyou wa, getsuyoubi desu. Omatsuri wa, kin'youbi desu."
+  },
+  "sl4.s2_q": {
+    "en": "Is the answer to “itsu” only a day of the week?",
+    "ru": "Ответ на «ицу» — только день недели?",
+    "zh": "「いつ」的回答只有星期几吗？",
+    "ja": "「いつ」の答えは、曜日だけですか？",
+    "romaji": "'Itsu' no kotae wa, youbi dake desu ka?"
+  },
+  "sl4.s2_a": {
+    "en": "No. Any word that expresses time works as an answer, such as “kyou,” “ashita,” “raishuu,” or “shigatsu.”",
+    "ru": "Нет. Ответом может быть любое слово, выражающее время: «кё», «асита», «райсю», «сигацу» и так далее.",
+    "zh": "不是。只要是表示时间的词，都可以作为回答，比如「今日」「明日」「来週」「四月」等。",
+    "ja": "いいえ。「今日」「明日」「来週」「四月」など、時を表す言葉なら、なんでも答えになります。",
+    "romaji": "Iie. 'Kyou' 'ashita' 'raishuu' 'shigatsu' nado, toki o arawasu kotoba nara, nan demo kotae ni narimasu."
+  },
+  "sl4.p2_prompt": {
+    "en": "You want to know when the festival is. Please ask Tanaka-sensei. What do you say?",
+    "ru": "Вы хотите знать, когда праздник. Спросите у Танаки-сэнсэя. Что вы скажете?",
+    "zh": "你想知道庙会是什么时候。请问问田中老师。你会怎么说？",
+    "ja": "あなたは、お祭りが、いつなのか知りたいです。田中先生に、聞いてください。何と言いますか？",
+    "romaji": "Anata wa, omatsuri ga, itsu na no ka shiritai desu. Tanaka-sensei ni, kiite kudasai. Nan to iimasu ka?"
+  },
+  "sl4.c2_natural": {
+    "en": "“Sensei, when is the festival?”",
+    "ru": "«Сэнсэй, когда праздник?»",
+    "zh": "“老师，庙会是什么时候？”",
+    "ja": "「先生、お祭りは、いつですか？」",
+    "romaji": "'Sensei, omatsuri wa, itsu desu ka?'"
+  },
+  "sl4.c2_formal": {
+    "en": "“Sensei, when might the festival's date of holding be?”",
+    "ru": "«Сэнсэй, когда изволит быть день проведения праздника?»",
+    "zh": "“老师，请问庙会的举办日期是什么时候？”",
+    "ja": "「先生、お祭りの開催日は、いつでございますか。」",
+    "romaji": "'Sensei, omatsuri no kaisaibi wa, itsu de gozaimasu ka.'"
+  },
+  "sl4.c2_mistake": {
+    "en": "“Sensei, what is the festival?”",
+    "ru": "«Сэнсэй, что такое праздник?»",
+    "zh": "“老师，庙会是什么？”",
+    "ja": "「先生、お祭りは、何ですか？」",
+    "romaji": "'Sensei, omatsuri wa, nan desu ka?'"
+  },
+  "sl4.c2_own": {
+    "en": "“Sensei, when is the festival? This week? Next week?”",
+    "ru": "«Сэнсэй, когда праздник? На этой неделе? На следующей?»",
+    "zh": "“老师，庙会是什么时候？这周吗？下周吗？”",
+    "ja": "「先生、お祭りは、いつですか？今週ですか？来週ですか？」",
+    "romaji": "'Sensei, omatsuri wa, itsu desu ka? Konshuu desu ka? Raishuu desu ka?'"
+  },
+  "sl4.c2_min": {
+    "en": "“Festival... when...”",
+    "ru": "«Праздник… когда…»",
+    "zh": "“庙会……什么时候……”",
+    "ja": "「お祭り…いつ…」",
+    "romaji": "'Omatsuri... itsu...'"
+  },
+  "sl4.p2_nat_tanaka": {
+    "en": "The festival is on Friday. There are still four days.",
+    "ru": "Праздник в пятницу. Ещё есть четыре дня.",
+    "zh": "庙会是星期五。还有四天。",
+    "ja": "お祭りは、金曜日です。まだ、四日あります。",
+    "romaji": "Omatsuri wa, kin'youbi desu. Mada, yokka arimasu."
+  },
+  "sl4.p2_form_yuki": {
+    "en": "Ha, that's a splendid question. “Omatsuri wa, itsu desu ka?” is plenty.",
+    "ru": "Ха-ха, великолепный вопрос. Достаточно «омацури ва, ицу дэс ка?».",
+    "zh": "呵呵，真是个隆重的问题。说「お祭りは、いつですか？」就足够了。",
+    "ja": "ふふ、りっぱな質問です。「お祭りは、いつですか？」で、じゅうぶんですよ。",
+    "romaji": "Fufu, rippa na shitsumon desu. 'Omatsuri wa, itsu desu ka?' de, juubun desu yo."
+  },
+  "sl4.p2_mis_ken": {
+    "en": "Huh, “nan desu ka” is a phrase for asking what something is. To ask about a date, use “itsu.”",
+    "ru": "Ой, «нан дэс ка» — это вопрос «что это». Чтобы спросить о дате, нужно «ицу».",
+    "zh": "咦，「何ですか」是问“那是什么”的说法。问日期要用「いつ」。",
+    "ja": "あれ、「何ですか」は、「それは何か」を聞く言葉です。日にちを聞くときは、「いつ」ですよ。",
+    "romaji": "Are, 'nan desu ka' wa, 'sore wa nani ka' o kiku kotoba desu. Hinichi o kiku toki wa, 'itsu' desu yo."
+  },
+  "sl4.p2_mis_retry": {
+    "en": "Oh, when is the festival?",
+    "ru": "Ой, когда праздник?",
+    "zh": "啊，庙会是什么时候？",
+    "ja": "あっ、お祭りは、いつですか？",
+    "romaji": "A, omatsuri wa, itsu desu ka?"
+  },
+  "sl4.p2_mis_relief": {
+    "en": "Yes, that's it! It's on Friday.",
+    "ru": "Да, именно так! В пятницу.",
+    "zh": "对，就是这个！是星期五哦。",
+    "ja": "はい、それです！金曜日ですよ。",
+    "romaji": "Hai, sore desu! Kin'youbi desu yo."
+  },
+  "sl4.p2_own_tanaka": {
+    "en": "A good question. It's this week, on this week's Friday.",
+    "ru": "Хороший вопрос. На этой неделе, в пятницу этой недели.",
+    "zh": "问得好。是这周。这周的星期五。",
+    "ja": "いい質問です。今週です。今週の、金曜日です。",
+    "romaji": "Ii shitsumon desu. Konshuu desu. Konshuu no, kin'youbi desu."
+  },
+  "sl4.p2_min_mei": {
+    "en": "The meaning gets across. Next time, try a full sentence: “omatsuri wa, itsu desu ka?”",
+    "ru": "Смысл понятен. В следующий раз спросите целым предложением: «омацури ва, ицу дэс ка?».",
+    "zh": "意思能传达。下次试着用完整的句子问：「お祭りは、いつですか？」",
+    "ja": "意味は、伝わりますよ。次は、「お祭りは、いつですか？」と、文で聞いてみましょう。",
+    "romaji": "Imi wa, tsutawarimasu yo. Tsugi wa, 'omatsuri wa, itsu desu ka?' to, bun de kiite mimashou."
+  },
+  "sl4.s3_ken": {
+    "en": "I'm going to open a stall at the festival.",
+    "ru": "Я открою на празднике лоток.",
+    "zh": "我要在庙会上开一个摊位。",
+    "ja": "ぼくは、お祭りで、お店を出します。",
+    "romaji": "Boku wa, omatsuri de, omise o dashimasu."
+  },
+  "sl4.s3_intro": {
+    "en": "When you ask about the kind of shop, you use “nan no.” “Nan no mise desu ka” means “what kind of shop is it?”",
+    "ru": "Когда спрашивают о виде магазина, используют «нан но». «Нан но мисэ дэс ка» означает «что это за магазин?».",
+    "zh": "询问店的种类时，用「何の」。「何の店ですか」的意思是“是什么样的店？”",
+    "ja": "店の種類を聞くときは、「何の」を使います。「何の店ですか」は、「どんな種類の店ですか」という意味です。",
+    "romaji": "Mise no shurui o kiku toki wa, 'nan no' o tsukaimasu. 'Nan no mise desu ka' wa, 'donna shurui no mise desu ka' to iu imi desu."
+  },
+  "sl4.s3_q": {
+    "en": "Are “nan desu ka” and “nan no ~ desu ka” different?",
+    "ru": "«Нан дэс ка» и «нан но ~ дэс ка» отличаются?",
+    "zh": "「何ですか」和「何の〜ですか」有区别吗？",
+    "ja": "「何ですか」と、「何の〜ですか」は、ちがいますか？",
+    "romaji": "'Nan desu ka' to, 'nan no ~ desu ka' wa, chigaimasu ka?"
+  },
+  "sl4.s3_a": {
+    "en": "Yes. “Nan desu ka” asks for the name of the thing. “Nan no ~ desu ka” asks for the type or purpose of ~.",
+    "ru": "Да. «Нан дэс ка» спрашивает название предмета. «Нан но ~ дэс ка» спрашивает о виде или назначении ~.",
+    "zh": "有区别。「何ですか」问的是那个东西的名称。「何の〜ですか」问的是〜的种类或用途。",
+    "ja": "はい。「何ですか」は、そのものの名前を聞きます。「何の〜ですか」は、〜の種類や、目的を聞きます。",
+    "romaji": "Hai. 'Nan desu ka' wa, sono mono no namae o kikimasu. 'Nan no ~ desu ka' wa, ~ no shurui ya, mokuteki o kikimasu."
+  },
+  "sl4.s3_youbi": {
+    "en": "Is “nan youbi” in the same form?",
+    "ru": "«Нан ёби» — та же форма?",
+    "zh": "「何曜日」也是同样的形式吗？",
+    "ja": "「何曜日」も、同じ形ですか？",
+    "romaji": "'Nan youbi' mo, onaji katachi desu ka?"
+  },
+  "sl4.s3_youbi_a": {
+    "en": "It is a form where a word follows “nani.” “Nan youbi desu ka” asks whether it's Monday, Tuesday, and so on. “Nani” can be used together with many words.",
+    "ru": "Это форма, в которой после «нани» идёт слово. «Нан ёби дэс ка» спрашивает: понедельник, вторник и так далее. «Нани» можно использовать со многими словами.",
+    "zh": "是「何」后面接词的形式。「何曜日ですか」问的是星期一还是星期二等等。「何」可以和很多词搭配使用。",
+    "ja": "「何」のあとに、ことばがつく形です。「何曜日ですか」は、「月曜日か、火曜日か」を聞きます。「何」は、いろいろな言葉と、いっしょに使えます。",
+    "romaji": "'Nani' no ato ni, kotoba ga tsuku katachi desu. 'Nan youbi desu ka' wa, 'getsuyoubi ka, kayoubi ka' o kikimasu. 'Nani' wa, iroiro na kotoba to, issho ni tsukaemasu."
+  },
+  "sl4.p3_prompt": {
+    "en": "Ken said, “I'm opening a stall.” You want to know what kind of stall it is. What do you say?",
+    "ru": "Кен сказал: «Я открою лоток». Вы хотите узнать, какой это лоток. Что вы скажете?",
+    "zh": "健说：“我要开个摊位。”你想知道那是什么样的摊位。你会怎么说？",
+    "ja": "ケンさんが、「お店を出します」と言いました。あなたは、それが、何の店なのか知りたいです。何と言いますか？",
+    "romaji": "Ken-san ga, 'omise o dashimasu' to iimashita. Anata wa, sore ga, nan no mise na no ka shiritai desu. Nan to iimasu ka?"
+  },
+  "sl4.c3_natural": {
+    "en": "“What kind of stall is it?”",
+    "ru": "«Что это за лоток?»",
+    "zh": "“是什么样的摊位？”",
+    "ja": "「何の店ですか？」",
+    "romaji": "'Nan no mise desu ka?'"
+  },
+  "sl4.c3_formal": {
+    "en": "“What sort of stall will you be opening?”",
+    "ru": "«Какой именно лоток вы изволите открыть?»",
+    "zh": "“请问您要开什么样的摊位呢？”",
+    "ja": "「どのようなお店を、お出しになるのでしょうか。」",
+    "romaji": "'Dono you na omise o, odashi ni naru no deshou ka.'"
+  },
+  "sl4.c3_mistake": {
+    "en": "“What-stall is it?”",
+    "ru": "«Что-лоток это?»",
+    "zh": "“什么摊位吗？”（漏掉了の）",
+    "ja": "「何店ですか？」",
+    "romaji": "'Nan mise desu ka?'"
+  },
+  "sl4.c3_own": {
+    "en": "“What kind of stall is it? Is it a food stall?”",
+    "ru": "«Что это за лоток? Это лоток с едой?»",
+    "zh": "“是什么样的摊位？是卖吃的摊位吗？”",
+    "ja": "「何の店ですか？食べものの店ですか？」",
+    "romaji": "'Nan no mise desu ka? Tabemono no mise desu ka?'"
+  },
+  "sl4.c3_min": {
+    "en": "“Stall... what...”",
+    "ru": "«Лоток… что…»",
+    "zh": "“摊位……什么……”",
+    "ja": "「店…何…」",
+    "romaji": "'Mise... nani...'"
+  },
+  "sl4.p3_nat_ken": {
+    "en": "It's a takoyaki stall. It's hot and delicious.",
+    "ru": "Это лоток с такояки. Они горячие и вкусные.",
+    "zh": "是章鱼烧摊。热乎乎的，很好吃哦。",
+    "ja": "たこ焼きの店です。あつくて、おいしいですよ。",
+    "romaji": "Takoyaki no mise desu. Atsukute, oishii desu yo."
+  },
+  "sl4.p3_form_ken": {
+    "en": "Haha, I'm not that important. “Nan no mise desu ka?” is fine.",
+    "ru": "Ха-ха, я не такой важный. Достаточно «нан но мисэ дэс ка?».",
+    "zh": "哈哈，我可没那么了不起。说「何の店ですか？」就可以了。",
+    "ja": "あはは、ぼくは、そんなにえらくありません。「何の店ですか？」で、大丈夫ですよ。",
+    "romaji": "Ahaha, boku wa, sonna ni eraku arimasen. 'Nan no mise desu ka?' de, daijoubu desu yo."
+  },
+  "sl4.p3_mis_yuki": {
+    "en": "Close. You need “no” between “nani” and “mise.” You say “nan no mise.”",
+    "ru": "Почти. Между «нани» и «мисэ» нужно «но». Говорят «нан но мисэ».",
+    "zh": "很接近。「何」和「店」之间需要「の」。说「何の店」。",
+    "ja": "惜しいです。「何」と「店」の間に、「の」が必要です。「何の店」と言います。",
+    "romaji": "Oshii desu. 'Nani' to 'mise' no aida ni, 'no' ga hitsuyou desu. 'Nan no mise' to iimasu."
+  },
+  "sl4.p3_mis_retry": {
+    "en": "Oh, what kind of stall is it?",
+    "ru": "Ой, что это за лоток?",
+    "zh": "啊，是什么样的摊位？",
+    "ja": "あっ、何の店ですか？",
+    "romaji": "A, nan no mise desu ka?"
+  },
+  "sl4.p3_mis_relief": {
+    "en": "Yes, that's it! Ken is opening a takoyaki stall.",
+    "ru": "Да, именно так! Кен открывает лоток с такояки.",
+    "zh": "对，就是这个！健要开一家章鱼烧摊。",
+    "ja": "はい、それです！ケンさんは、たこ焼きの店を出します。",
+    "romaji": "Hai, sore desu! Ken-san wa, takoyaki no mise o dashimasu."
+  },
+  "sl4.p3_own_ken": {
+    "en": "Yes, that's right. It's a takoyaki stall. If you like, please help me.",
+    "ru": "Да, верно. Это лоток с такояки. Если хотите, помогите мне.",
+    "zh": "是的。是章鱼烧摊。如果方便的话，请来帮忙。",
+    "ja": "はい、そうです。たこ焼きの店です。よかったら、手伝ってください。",
+    "romaji": "Hai, sou desu. Takoyaki no mise desu. Yokattara, tetsudatte kudasai."
+  },
+  "sl4.p3_min_mei": {
+    "en": "I understand. Let's try asking “nan no mise desu ka?”",
+    "ru": "Понимаю. Попробуйте спросить «нан но мисэ дэс ка?».",
+    "zh": "我明白。试着问「何の店ですか？」吧。",
+    "ja": "分かりますよ。「何の店ですか？」と、聞いてみましょう。",
+    "romaji": "Wakarimasu yo. 'Nan no mise desu ka?' to, kiite mimashou."
+  },
+  "sl4.s4_intro": {
+    "en": "The last one is practice in asking several questions in a row. You ask them one at a time, like “itsu desu ka? Doko desu ka?”",
+    "ru": "Последнее — практика в постановке нескольких вопросов подряд. Их задают по одному: «ицу дэс ка? Доко дэс ка?».",
+    "zh": "最后是练习连续提几个问题。像「いつですか？どこですか？」这样，一个一个地问。",
+    "ja": "最後は、いくつかの質問を、続けて聞く練習です。「いつですか？どこですか？」のように、一つずつ聞きます。",
+    "romaji": "Saigo wa, ikutsu ka no shitsumon o, tsuzukete kiku renshuu desu. 'Itsu desu ka? Doko desu ka?' no you ni, hitotsu zutsu kikimasu."
+  },
+  "sl4.s4_ex": {
+    "en": "When is the festival? Friday. Where? The school garden. Who is coming? Everyone's families will come too.",
+    "ru": "Когда праздник? В пятницу. Где? В школьном саду. Кто придёт? Придут и семьи всех участников.",
+    "zh": "庙会什么时候？星期五。在哪里？在学校的院子里。谁会来？大家的家人也会来。",
+    "ja": "お祭りは、いつですか？金曜日です。どこですか？学校の庭です。だれが来ますか？みんなの家族も、来ます。",
+    "romaji": "Omatsuri wa, itsu desu ka? Kin'youbi desu. Doko desu ka? Gakkou no niwa desu. Dare ga kimasu ka? Minna no kazoku mo, kimasu."
+  },
+  "sl4.s4_q": {
+    "en": "Can you make it one question, like “itsu to, doko desu ka?”",
+    "ru": "Можно ли задать это одним вопросом: «ицу то, доко дэс ка?»",
+    "zh": "可以合成一个问题，说成「いつと、どこですか？」吗？",
+    "ja": "「いつと、どこですか？」と、一つの質問にできますか？",
+    "romaji": "'Itsu to, doko desu ka?' to, hitotsu no shitsumon ni dekimasu ka?"
+  },
+  "sl4.s4_a": {
+    "en": "You can't. You don't join question words with “to.” Each question ends with “ka,” one at a time.",
+    "ru": "Нельзя. Вопросительные слова не соединяют с помощью «то». Каждый вопрос заканчивается на «ка» и задаётся отдельно.",
+    "zh": "不行。疑问词不能用「と」连接。每个问题都要单独以「か」结尾。",
+    "ja": "できません。疑問詞は、「と」で、つなぎません。質問は、一つずつ、「か」で終わります。",
+    "romaji": "Dekimasen. Gimonshi wa, 'to' de, tsunagimasen. Shitsumon wa, hitotsu zutsu, 'ka' de owarimasu."
+  },
+  "sl4.p4_prompt": {
+    "en": "You want to go to the festival. Please ask Tanaka-sensei about the date and the place. What do you say?",
+    "ru": "Вы хотите пойти на праздник. Спросите у Танаки-сэнсэя дату и место. Что вы скажете?",
+    "zh": "你想去庙会。请向田中老师询问日期和地点。你会怎么说？",
+    "ja": "あなたは、お祭りに行きたいです。田中先生に、日にちと場所を聞いてください。何と言いますか？",
+    "romaji": "Anata wa, omatsuri ni ikitai desu. Tanaka-sensei ni, hinichi to basho o kiite kudasai. Nan to iimasu ka?"
+  },
+  "sl4.c4_natural": {
+    "en": "“Sensei, when is the festival? Where is it?”",
+    "ru": "«Сэнсэй, когда праздник? Где он?»",
+    "zh": "“老师，庙会是什么时候？在哪里？”",
+    "ja": "「先生、お祭りは、いつですか？どこですか？」",
+    "romaji": "'Sensei, omatsuri wa, itsu desu ka? Doko desu ka?'"
+  },
+  "sl4.c4_formal": {
+    "en": "“Sensei, pardon me, but might you kindly tell me the date, time, and venue of the festival?”",
+    "ru": "«Сэнсэй, прошу прощения, не могли бы вы любезно сообщить дату, время и место проведения праздника?»",
+    "zh": "“老师，打扰了，能否请您告诉我庙会的日期时间和会场？”",
+    "ja": "「先生、恐れ入りますが、お祭りの日時と会場を、お教えいただけますでしょうか。」",
+    "romaji": "'Sensei, osoreirimasu ga, omatsuri no nichiji to kaijou o, oshie itadakemasu deshou ka.'"
+  },
+  "sl4.c4_mistake": {
+    "en": "“Sensei, the festival is when-and-where?”",
+    "ru": "«Сэнсэй, праздник — когда-и-где?»",
+    "zh": "“老师，庙会是什么时候和哪里？”（用「と」连接了疑问词）",
+    "ja": "「先生、お祭りは、いつと、どこですか？」",
+    "romaji": "'Sensei, omatsuri wa, itsu to, doko desu ka?'"
+  },
+  "sl4.c4_own": {
+    "en": "“Sensei, when is the festival? Where is it? Who is coming?”",
+    "ru": "«Сэнсэй, когда праздник? Где он? Кто придёт?»",
+    "zh": "“老师，庙会是什么时候？在哪里？谁会来？”",
+    "ja": "「先生、お祭りは、いつですか？どこですか？だれが来ますか？」",
+    "romaji": "'Sensei, omatsuri wa, itsu desu ka? Doko desu ka? Dare ga kimasu ka?'"
+  },
+  "sl4.c4_min": {
+    "en": "“Festival... when... where...”",
+    "ru": "«Праздник… когда… где…»",
+    "zh": "“庙会……什么时候……哪里……”",
+    "ja": "「お祭り…いつ…どこ…」",
+    "romaji": "'Omatsuri... itsu... doko...'"
+  },
+  "sl4.p4_nat_tanaka": {
+    "en": "The festival is on Friday. The place is the school garden. I'm looking forward to it.",
+    "ru": "Праздник в пятницу. Место — школьный сад. Жду с нетерпением.",
+    "zh": "庙会是星期五。地点是学校的院子。真期待呢。",
+    "ja": "お祭りは、金曜日です。場所は、学校の庭です。楽しみですね。",
+    "romaji": "Omatsuri wa, kin'youbi desu. Basho wa, gakkou no niwa desu. Tanoshimi desu ne."
+  },
+  "sl4.p4_form_mei": {
+    "en": "Ha, that sounds like a company email. “Omatsuri wa, itsu desu ka? Doko desu ka?” is fine.",
+    "ru": "Ха-ха, как письмо из компании. Достаточно «омацури ва, ицу дэс ка? Доко дэс ка?».",
+    "zh": "呵呵，像公司邮件一样。说「お祭りは、いつですか？どこですか？」就好。",
+    "ja": "ふふ、会社のメールみたいです。「お祭りは、いつですか？どこですか？」で、いいですよ。",
+    "romaji": "Fufu, kaisha no meeru mitai desu. 'Omatsuri wa, itsu desu ka? Doko desu ka?' de, ii desu yo."
+  },
+  "sl4.p4_mis_ken": {
+    "en": "Close. You don't join “itsu” and “doko” with “to.” You ask them separately: “itsu desu ka? Doko desu ka?”",
+    "ru": "Почти. «Ицу» и «доко» не соединяют через «то». Их задают отдельно: «ицу дэс ка? Доко дэс ка?».",
+    "zh": "很接近。「いつ」和「どこ」不能用「と」连接。要分成两个问题来问：「いつですか？どこですか？」",
+    "ja": "惜しいです。「いつ」と「どこ」は、「と」でつなぎません。「いつですか？どこですか？」と、二つに分けて聞きます。",
+    "romaji": "Oshii desu. 'Itsu' to 'doko' wa, 'to' de tsunagimasen. 'Itsu desu ka? Doko desu ka?' to, futatsu ni wakete kikimasu."
+  },
+  "sl4.p4_mis_retry": {
+    "en": "Oh, when is the festival? Where is it?",
+    "ru": "Ой, когда праздник? Где он?",
+    "zh": "啊，庙会是什么时候？在哪里？",
+    "ja": "あっ、お祭りは、いつですか？どこですか？",
+    "romaji": "A, omatsuri wa, itsu desu ka? Doko desu ka?"
+  },
+  "sl4.p4_mis_relief": {
+    "en": "Yes, that's it. It's on Friday, and the place is the school garden.",
+    "ru": "Да, именно так. В пятницу, а место — школьный сад.",
+    "zh": "对，就是这个。是星期五，地点是学校的院子。",
+    "ja": "はい、それです。金曜日で、場所は、学校の庭です。",
+    "romaji": "Hai, sore desu. Kin'youbi de, basho wa, gakkou no niwa desu."
+  },
+  "sl4.p4_own_tanaka": {
+    "en": "You asked very well. It's Friday, in the school garden. Students and their families will come.",
+    "ru": "Вы очень хорошо спросили. В пятницу, в школьном саду. Придут ученики и их семьи.",
+    "zh": "问得很好。星期五，在学校的院子里。学生和他们的家人都会来。",
+    "ja": "よく聞けましたね。金曜日、学校の庭です。学生とその家族が、来ます。",
+    "romaji": "Yoku kikemashita ne. Kin'youbi, gakkou no niwa desu. Gakusei to sono kazoku ga, kimasu."
+  },
+  "sl4.p4_min_yuki": {
+    "en": "I understand what you want to ask. Try asking in full sentences: “omatsuri wa, itsu desu ka? Doko desu ka?”",
+    "ru": "Понимаю, что вы хотите спросить. Попробуйте задать вопросы целыми предложениями: «омацури ва, ицу дэс ка? Доко дэс ка?».",
+    "zh": "我明白你想问什么。试着用完整的句子问：「お祭りは、いつですか？どこですか？」",
+    "ja": "聞きたいことは、分かります。「お祭りは、いつですか？どこですか？」と、文で聞いてみましょう。",
+    "romaji": "Kikitai koto wa, wakarimasu. 'Omatsuri wa, itsu desu ka? Doko desu ka?' to, bun de kiite mimashou."
+  },
+  "sl4.talk_open": {
+    "en": "Now let's talk. Out of today's four forms, which one do you most want to use at the festival?",
+    "ru": "Теперь поговорим. Какую из сегодняшних четырёх форм вы больше всего хотите использовать на празднике?",
+    "zh": "现在来聊聊。今天这四个句型里，你最想在庙会上用哪一个？",
+    "ja": "では、話しましょう。今日の四つの形の中で、お祭りで、いちばん使いたい形は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no yottsu no katachi no naka de, omatsuri de, ichiban tsukaitai katachi wa, dore desu ka?"
+  },
+  "sl4.talk_mei": {
+    "en": "For me, it's “nan no ~ desu ka.” I can use it right away when I visit a stall.",
+    "ru": "Для меня это «нан но ~ дэс ка». Я могу сразу использовать её, когда прихожу в лавки.",
+    "zh": "我觉得是「何の〜ですか」。去店里的时候，马上就能用上。",
+    "ja": "わたしは、「何の〜ですか」です。お店に、行ったとき、すぐ使えます。",
+    "romaji": "Watashi wa, 'nan no ~ desu ka' desu. Omise ni, itta toki, sugu tsukaemasu."
+  },
+  "sl4.talk_ken": {
+    "en": "For me, it's “dare no.” Lost items happen a lot at festivals.",
+    "ru": "Для меня это «дарэ но». На праздниках часто теряют вещи.",
+    "zh": "我觉得是「だれの」。庙会上经常会有人丢东西。",
+    "ja": "ぼくは、「だれの」です。落とし物は、お祭りで、よくありますから。",
+    "romaji": "Boku wa, 'dare no' desu. Otoshimono wa, omatsuri de, yoku arimasu kara."
+  },
+  "sl4.talk_yuki": {
+    "en": "For me, it's “itsu desu ka? Doko desu ka?” It's the basic pair when making plans.",
+    "ru": "Для меня это «ицу дэс ка? Доко дэс ка?». Это основа, когда составляешь планы.",
+    "zh": "我觉得是「いつですか？どこですか？」。是做计划时的基本问法。",
+    "ja": "わたしは、「いつですか？どこですか？」です。予定を立てるときの、基本ですね。",
+    "romaji": "Watashi wa, 'itsu desu ka? Doko desu ka?' desu. Yotei o tateru toki no, kihon desu ne."
+  },
+  "sl4.talk_tanaka": {
+    "en": "Lovely. When you can ask questions, conversations open up. When you don't understand, don't hold back. Just ask.",
+    "ru": "Прекрасно. Когда умеешь задавать вопросы, разговор расширяется. Если чего-то не понимаете, не стесняйтесь, спрашивайте.",
+    "zh": "真好。会提问，对话就能展开。不明白的时候，不要客气，问就是了。",
+    "ja": "すてきですね。質問ができると、会話が広がります。分からないときは、遠慮しないで、聞きましょう。",
+    "romaji": "Suteki desu ne. Shitsumon ga dekiru to, kaiwa ga hirogarimasu. Wakaranai toki wa, enryo shinaide, kikimashou."
+  },
+  "sl4.talk_player": {
+    "en": "(Dare, itsu, nani. When you know the words for questions, a door opens to an unknown world. At Friday's festival, I'll try asking all kinds of people questions in Japanese.)",
+    "ru": "(Дарэ, ицу, нани. Когда знаешь вопросительные слова, открывается дверь в неизвестный мир. На празднике в пятницу я попробую задавать разным людям вопросы по-японски.)",
+    "zh": "（だれ、いつ、何。知道了疑问词，通往未知世界的门就打开了。星期五的庙会上，我要试着用日语向各种各样的人提问。）",
+    "ja": "（だれ、いつ、何。質問の言葉が分かると、知らない世界の、ドアが開く。金曜日のお祭りで、いろいろな人に、日本語で質問してみよう。）",
+    "romaji": "(Dare, itsu, nani. Shitsumon no kotoba ga wakaru to, shiranai sekai no, doa ga hiraku. Kin'youbi no omatsuri de, iroiro na hito ni, nihongo de shitsumon shite miyou.)"
+  },
+  "sl4.talk_close": {
+    "en": "Good lesson, everyone. In the next class, we'll study numbers, time, and how to say prices.",
+    "ru": "Хороший урок, все. На следующем уроке мы изучим числа, время и то, как называть цены.",
+    "zh": "各位，这节课很棒。下节课我们来学习数字、时间和价格的说法。",
+    "ja": "みなさん、いいレッスンでした。次の授業では、数字と時間、そして、値段の言い方を勉強しましょう。",
+    "romaji": "Minasan, ii ressun deshita. Tsugi no jugyou de wa, suuji to jikan, soshite, nedan no iikata o benkyou shimashou."
+  },
+  "sl4.complete": {
+    "en": "End of Sentence Lesson 4.",
+    "ru": "Конец урока предложений 4.",
+    "zh": "句型课 4 结束。",
+    "ja": "文型レッスン4、おわり。",
+    "romaji": "Bunkei ressun yon, owari."
+  }
+}

@@ -1,0 +1,821 @@
+{
+  "vl13.title": {
+    "en": "Let's Grow Something in the Flower Bed",
+    "ru": "Давайте вырастим что-нибудь на клумбе",
+    "zh": "在教室的花坛里种点什么吧",
+    "ja": "教室の花壇で、育ててみよう",
+    "romaji": "Kyoushitsu no kadan de, sodatete miyou"
+  },
+  "vl13.subtitle": {
+    "en": "From seed to seedling to harvest",
+    "ru": "От семечка до рассады и урожая",
+    "zh": "从种子到幼苗，再到收获",
+    "ja": "種から、苗、そして、収穫まで",
+    "romaji": "Tane kara, nae, soshite, shuukaku made"
+  },
+  "vl13.description": {
+    "en": "Practise ten words while growing the seeds and seedlings that Tanaka-sensei's grandmother gave everyone.",
+    "ru": "Тренируйте десять слов, выращивая вместе семена и рассаду, которые дала бабушка Танаки-сэнсэя.",
+    "zh": "一边种植田中老师奶奶送的种子和幼苗，一边练习十个词。",
+    "ja": "田中先生の、おばあさんがくれた種と苗を、みんなで育てながら、十の言葉を練習します。",
+    "romaji": "Tanaka-sensei no, obaasan ga kureta tane to nae o, minna de sodatenagara, juu no kotoba o renshuu shimasu."
+  },
+  "vl13.setup": {
+    "en": "Tanaka-sensei has returned from the countryside. He brings a small bag and green seedlings from his grandmother to the little flower bed beside the classroom.",
+    "ru": "Танака-сэнсэй вернулся из деревни. К небольшой клумбе рядом с классом он принёс маленький пакетик и зелёную рассаду от своей бабушки.",
+    "zh": "田中老师从乡下回来了。他把奶奶给的小袋子和绿色的幼苗带到了教室旁边的小花坛。",
+    "ja": "田中先生が、田舎から、帰ってきた。教室の横の、小さな花壇に、おばあさんからもらった、小さな袋と、緑の苗を、持ってきた。",
+    "romaji": "Tanaka-sensei ga, inaka kara, kaette kita. Kyoushitsu no yoko no, chiisana kadan ni, obaasan kara moratta, chiisana fukuro to, midori no nae o, motte kita."
+  },
+  "vl13.t_intro": {
+    "en": "Today let's study Japanese together while growing plants.",
+    "ru": "Сегодня давайте будем изучать японский, выращивая растения.",
+    "zh": "今天我们一边种植物，一边学日语吧。",
+    "ja": "今日は、みんなで、植物を育てながら、日本語を勉強しましょう。",
+    "romaji": "Kyou wa, minna de, shokubutsu o sodatenagara, nihongo o benkyou shimashou."
+  },
+  "vl13.w1": {
+    "en": "First, “tane,” a seed. It's the small grain before a plant sprouts. They're inside this bag.",
+    "ru": "Сначала «танэ» — семя. Это маленькая крупинка, из которой до прорастания появляется растение. Они лежат в этом пакетике.",
+    "zh": "首先是「種」。是植物发芽之前的小颗粒。它们就在这个袋子里。",
+    "ja": "まず、「種」です。植物が、芽を出す前の、小さな粒です。この袋の中に、入っています。",
+    "romaji": "Mazu, 'tane' desu. Shokubutsu ga, me o dasu mae no, chiisana tsubu desu. Kono fukuro no naka ni, haitte imasu."
+  },
+  "vl13.w1_q": {
+    "en": "Are “tane” and “mi” different?",
+    "ru": "«Танэ» и «ми» отличаются?",
+    "zh": "「種」和「実」有区别吗？",
+    "ja": "「種」と「実」は、ちがいますか？",
+    "romaji": "'Tane' to 'mi' wa, chigaimasu ka?"
+  },
+  "vl13.w1_a": {
+    "en": "Yes. “Mi” is the edible part that grows on trees or plants. “Tane” is the origin of the next plant inside it. Inside a tomato's fruit, there are seeds.",
+    "ru": "Да. «Ми» — это съедобная часть, растущая на деревьях или травах. «Танэ» — это источник следующего растения внутри плода. Внутри плода помидора есть семена.",
+    "zh": "有区别。「実」是树或草上长出的可食用部分。「種」是其中孕育下一株植物的根源。番茄的果实里有种子。",
+    "ja": "はい。「実」は、木や草にできる、食べられる部分です。「種」は、その中にある、次の植物の、もとです。トマトの実の中に、種があります。",
+    "romaji": "Hai. 'Mi' wa, ki ya kusa ni dekiru, taberareru bubun desu. 'Tane' wa, sono naka ni aru, tsugi no shokubutsu no, moto desu. Tomato no mi no naka ni, tane ga arimasu."
+  },
+  "vl13.w2": {
+    "en": "This is “nae,” a seedling. It is a small plant that has grown a little from a seed. It's the state before being planted in a field or flower bed.",
+    "ru": "Это «нае» — рассада. Это небольшое растение, немного выросшее из семени. Это состояние перед высадкой в поле или на клумбу.",
+    "zh": "这是「苗」。是从种子稍微长大一点的小植物。是移植到田里或花坛之前的状态。",
+    "ja": "こちらは、「苗」です。種から、少し育った、小さな植物です。畑や、花壇に、植えかえる前の、状態です。",
+    "romaji": "Kochira wa, 'nae' desu. Tane kara, sukoshi sodatta, chiisana shokubutsu desu. Hatake ya, kadan ni, ueru mae no, joutai desu."
+  },
+  "vl13.w2_q": {
+    "en": "Which is easier to grow, seeds or seedlings?",
+    "ru": "Что проще выращивать — семена или рассаду?",
+    "zh": "种子和幼苗，哪个更容易种？",
+    "ja": "種と苗は、どちらが、育てやすいですか？",
+    "romaji": "Tane to nae wa, dochira ga, sodateyasui desu ka?"
+  },
+  "vl13.w2_a": {
+    "en": "Seedlings are easier to grow. Since they've already sprouted, there are fewer failures. Seeds take time, but you can watch them grow from the very beginning.",
+    "ru": "Рассаду выращивать проще. Поскольку она уже проросла, неудач меньше. Семенам нужно время, но вы можете наблюдать за их ростом с самого начала.",
+    "zh": "幼苗更容易种。因为已经发芽，失败较少。种子需要时间，但可以从一开始就看着它成长。",
+    "ja": "苗のほうが、育てやすいです。もう、芽が出ているので、失敗が、少ないです。種は、時間が、かかりますが、育つのを、最初から見られます。",
+    "romaji": "Nae no hou ga, sodateyasui desu. Mou, me ga dete iru node, shippai ga, sukunai desu. Tane wa, jikan ga, kakarimasu ga, sodatsu no o, saisho kara miraremasu."
+  },
+  "vl13.p1_prompt": {
+    "en": "Grandma hands you a small bag. Inside are many tiny grains. You want to ask what they are. What do you say?",
+    "ru": "Бабушка передала вам небольшой пакетик. Внутри много крошечных зёрнышек. Вы хотите спросить, что это. Что вы скажете?",
+    "zh": "奶奶递给你一个小袋子。里面装着许多小颗粒。你想问那是什么。你会怎么说？",
+    "ja": "おばあさんが、小さな袋を、一つ、渡してくれました。中には、小さな粒が、たくさん入っています。あなたは、それが何か、聞きたいです。何と言いますか？",
+    "romaji": "Obaasan ga, chiisana fukuro o, hitotsu, watashite kuremashita. Naka ni wa, chiisana tsubu ga, takusan haitte imasu. Anata wa, sore ga nani ka, kikitai desu. Nan to iimasu ka?"
+  },
+  "vl13.c1_natural": {
+    "en": "“What kind of seeds are these?”",
+    "ru": "«Что это за семена?»",
+    "zh": "“这是什么种子？”",
+    "ja": "「これは、何の種ですか？」",
+    "romaji": "'Kore wa, nan no tane desu ka?'"
+  },
+  "vl13.c1_formal": {
+    "en": "“Excuse me, but what manner of seed might this be?”",
+    "ru": "«Прошу прощения, но что это за семя?»",
+    "zh": "“冒昧请问，这是何种种子？”",
+    "ja": "「恐れ入りますが、こちらは、いかなる種子でございましょうか。」",
+    "romaji": "'Osoreirimasu ga, kochira wa, ikanaru shushi de gozaimashou ka.'"
+  },
+  "vl13.c1_mistake": {
+    "en": "“What kind of seedling is this?”",
+    "ru": "«Что это за рассада?»",
+    "zh": "“这是什么苗？”（袋子里的颗粒应该是「種」）",
+    "ja": "「これは、何の苗ですか？」",
+    "romaji": "'Kore wa, nan no nae desu ka?'"
+  },
+  "vl13.c1_own": {
+    "en": "“What kind of seeds are these? When is it good to sow them?”",
+    "ru": "«Что это за семена? Когда их лучше сеять?»",
+    "zh": "“这是什么种子？什么时候播种比较好？”",
+    "ja": "「これは、何の種ですか？いつ、まくといいですか？」",
+    "romaji": "'Kore wa, nan no tane desu ka? Itsu, maku to ii desu ka?'"
+  },
+  "vl13.c1_min": {
+    "en": "“This... seed... what...”",
+    "ru": "«Это… семя… что…»",
+    "zh": "“这个……种子……什么……”",
+    "ja": "「これ…種…何…」",
+    "romaji": "'Kore... tane... nani...'"
+  },
+  "vl13.p1_natural_r": {
+    "en": "Yes, natural. Asking “nan no tane” will tell you the name of the plant.",
+    "ru": "Да, естественно. Если спросить «нан но танэ», узнаете название растения.",
+    "zh": "对，很自然。问「何の種」，就能知道植物的名字。",
+    "ja": "はい、自然です。「何の種」と、聞けば、植物の名前が、分かります。",
+    "romaji": "Hai, shizen desu. 'Nan no tane' to, kikeba, shokubutsu no namae ga, wakarimasu."
+  },
+  "vl13.p1_formal_r": {
+    "en": "Ha, you sound like someone at a botanical garden. “Nan no tane desu ka” is fine.",
+    "ru": "Ха-ха, вы как сотрудник ботанического сада. Достаточно «нан но танэ дэс ка».",
+    "zh": "呵呵，像植物园的人一样。说「何の種ですか」就行。",
+    "ja": "ふふ、植物園の人みたいです。「何の種ですか」で、いいですよ。",
+    "romaji": "Fufu, shokubutsuen no hito mitai desu. 'Nan no tane desu ka' de, ii desu yo."
+  },
+  "vl13.p1_mistake_r": {
+    "en": "Close. The grains in the bag are “tane.” “Nae” is a plant that has already sprouted and grown a little.",
+    "ru": "Почти. Зёрнышки в пакетике — «танэ». «Нае» — растение, которое уже проросло и немного выросло.",
+    "zh": "很接近。袋子里的颗粒是「種」。「苗」是已经发芽、稍微长大了一点的植物。",
+    "ja": "惜しいです。袋の中の粒は、「種」です。「苗」は、もう、芽が出て、少し育った植物です。",
+    "romaji": "Oshii desu. Fukuro no naka no tsubu wa, 'tane' desu. 'Nae' wa, mou, me ga dete, sukoshi sodatta shokubutsu desu."
+  },
+  "vl13.p1_mis_retry": {
+    "en": "What kind of seeds are these?",
+    "ru": "Что это за семена?",
+    "zh": "这是什么种子？",
+    "ja": "これは、何の種ですか？",
+    "romaji": "Kore wa, nan no tane desu ka?"
+  },
+  "vl13.p1_mis_relief": {
+    "en": "Yes, that's it. You've distinguished seeds and seedlings properly.",
+    "ru": "Да, именно так. Вы правильно различили семена и рассаду.",
+    "zh": "对，就是这个。你把种子和幼苗区分清楚了。",
+    "ja": "はい、それです。種と苗を、ちゃんと、区別できましたね。",
+    "romaji": "Hai, sore desu. Tane to nae o, chanto, kubetsu dekimashita ne."
+  },
+  "vl13.p1_own_r": {
+    "en": "A good question. Timing is very important.",
+    "ru": "Хороший вопрос. Время очень важно.",
+    "zh": "好问题。时机非常重要。",
+    "ja": "いい質問です。時期は、とても、大切です。",
+    "romaji": "Ii shitsumon desu. Jiki wa, totemo, taisetsu desu."
+  },
+  "vl13.p1_min_r": {
+    "en": "Your meaning comes across. Try asking in a sentence: “nan no tane desu ka.”",
+    "ru": "Ваш вопрос понятен. Задайте его предложением: «нан но танэ дэс ка».",
+    "zh": "你的意思能传达。试着用完整的句子问：「何の種ですか」。",
+    "ja": "気持ちは、伝わります。「何の種ですか」と、文で、聞いてみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Nan no tane desu ka' to, bun de, kiite mimashou."
+  },
+  "vl13.w3": {
+    "en": "Making seeds and seedlings grow larger is called “sodateru.” You look after them by watering them and giving them sunlight.",
+    "ru": "Делать семена и рассаду больше — это «содатэру». Вы ухаживаете за ними: поливаете и обеспечиваете им солнечный свет.",
+    "zh": "把种子和幼苗养大，叫「育てる」。要浇水、晒太阳来照料它们。",
+    "ja": "種や、苗を、大きくすることを、「育てる」と言います。水をやったり、日に当てたりして、世話をします。",
+    "romaji": "Tane ya, nae o, ookiku suru koto o, 'sodateru' to iimasu. Mizu o yattari, hi ni atetari shite, sewa o shimasu."
+  },
+  "vl13.w3_q": {
+    "en": "Are “sodateru” and “sodatsu” different?",
+    "ru": "«Содатэру» и «содацу» отличаются?",
+    "zh": "「育てる」和「育つ」有区别吗？",
+    "ja": "「育てる」と「育つ」は、ちがいますか？",
+    "romaji": "'Sodateru' to 'sodatsu' wa, chigaimasu ka?"
+  },
+  "vl13.w3_a": {
+    "en": "Yes. “Sodateru” means a person makes it grow. “Tomato o, sodateru.” “Sodatsu” is when a plant or child grows naturally. You say “tomato ga, sodatsu.”",
+    "ru": "Да. «Содатэру» — когда человек выращивает. «Томато о, содатэру». «Содацу» — когда растение или ребёнок растёт естественным образом. Говорят «томато га, содацу».",
+    "zh": "有区别。「育てる」是人把它养大。「トマトを、育てる」。「育つ」是植物或孩子自然长大。说「トマトが、育つ」。",
+    "ja": "はい。「育てる」は、人が、大きくすることです。「トマトを、育てる」。「育つ」は、植物や、子どもが、自然に、大きくなることです。「トマトが、育つ」と言います。",
+    "romaji": "Hai. 'Sodateru' wa, hito ga, ookiku suru koto desu. 'Tomato o, sodateru'. 'Sodatsu' wa, shokubutsu ya, kodomo ga, shizen ni, ookiku naru koto desu. 'Tomato ga, sodatsu' to iimasu."
+  },
+  "vl13.p2_prompt": {
+    "en": "Mei asked, “Do you grow any plants at home?” You grow tomatoes at home. How do you answer?",
+    "ru": "Мэй спросила: «Вы выращиваете дома какие-нибудь растения?» Вы выращиваете дома помидоры. Что вы ответите?",
+    "zh": "梅问：“大家在家里种什么植物吗？”你在家里种番茄。你会怎么回答？",
+    "ja": "メイさんが、聞きました。「みなさんは、家で、何か、植物を育てていますか？」あなたは、家で、トマトを、育てています。何と答えますか？",
+    "romaji": "Mei-san ga, kikimashita. 'Minasan wa, ie de, nani ka, shokubutsu o sodatete imasu ka?' Anata wa, ie de, tomato o, sodatete imasu. Nan to kotaemasu ka?"
+  },
+  "vl13.c2_natural": {
+    "en": "“Yes, I'm growing tomatoes at home.”",
+    "ru": "«Да, я выращиваю дома помидоры».",
+    "zh": "“是的，我在家里种番茄。”",
+    "ja": "「はい、うちで、トマトを、育てています。」",
+    "romaji": "'Hai, uchi de, tomato o, sodatete imasu.'"
+  },
+  "vl13.c2_formal": {
+    "en": "“If I may humbly say, I cultivate tomatoes at my humble home.”",
+    "ru": "«Осмелюсь сказать, я возделываю помидоры в своём скромном доме».",
+    "zh": "“恕我冒昧，我在寒舍栽培番茄。”",
+    "ja": "「恐縮ながら、拙宅にて、トマトを、栽培しております。」",
+    "romaji": "'Kyoushuku nagara, settaku nite, tomato o, saibai shite orimasu.'"
+  },
+  "vl13.c2_mistake": {
+    "en": "“Yes, at home, tomatoes (ga) are growing... I am growing.”",
+    "ru": "«Да, дома помидоры (га) выращиваю».",
+    "zh": "“是的，在家里，番茄が，正在种。”（他动词用「を」）",
+    "ja": "「はい、うちで、トマトが、育てています。」",
+    "romaji": "'Hai, uchi de, tomato ga, sodatete imasu.'"
+  },
+  "vl13.c2_own": {
+    "en": "“Yes, I'm growing tomatoes on the balcony. I water them every morning.”",
+    "ru": "«Да, я выращиваю помидоры на балконе. Каждое утро поливаю».",
+    "zh": "“是的，我在阳台上种番茄。每天早上浇水。”",
+    "ja": "「はい、ベランダで、トマトを、育てています。毎朝、水をあげています。」",
+    "romaji": "'Hai, beranda de, tomato o, sodatete imasu. Maiasa, mizu o agete imasu.'"
+  },
+  "vl13.c2_min": {
+    "en": "“Tomato... grow...”",
+    "ru": "«Помидоры… выращивать…»",
+    "zh": "“番茄……种……”",
+    "ja": "「トマト…育てる…」",
+    "romaji": "'Tomato... sodateru...'"
+  },
+  "vl13.p2_natural_r": {
+    "en": "Nice. I'm growing herbs too.",
+    "ru": "Хорошо. Я тоже выращиваю травы.",
+    "zh": "不错。我也在种香草。",
+    "ja": "いいですね。わたしも、ハーブを、育てています。",
+    "romaji": "Ii desu ne. Watashi mo, haabu o, sodatete imasu."
+  },
+  "vl13.p2_formal_r": {
+    "en": "Haha, you sound like a farmer. “Uchi de, sodatete imasu” is fine.",
+    "ru": "Ха-ха, как фермер. Достаточно «учи дэ, содатэтэ имас».",
+    "zh": "哈哈，像农夫一样。说「うちで、育てています」就行。",
+    "ja": "あはは、農家の人みたいです。「うちで、育てています」で、いいですよ。",
+    "romaji": "Ahaha, nouka no hito mitai desu. 'Uchi de, sodatete imasu' de, ii desu yo."
+  },
+  "vl13.p2_mistake_r": {
+    "en": "Close. “Sodateru” is done by a person, so it's “o.” It's “tomato o, sodatete imasu.” “Tomato ga, sodatte imasu” would mean they are growing naturally.",
+    "ru": "Почти. «Содатэру» делает человек, поэтому «о». Получается «томато о, содатэтэ имас». «Томато га, содаттэ имас» означало бы, что они растут естественно.",
+    "zh": "很接近。「育てる」是人做的事，所以用「を」。说「トマトを、育てています」。「トマトが、育っています」的话，是指自然长大。",
+    "ja": "惜しいです。「育てる」は、人が、するので、「を」です。「トマトを、育てています」です。「トマトが、育っています」なら、自然に、大きくなることです。",
+    "romaji": "Oshii desu. 'Sodateru' wa, hito ga, suru node, 'o' desu. 'Tomato o, sodatete imasu' desu. 'Tomato ga, sodatte imasu' nara, shizen ni, ookiku naru koto desu."
+  },
+  "vl13.p2_mis_retry": {
+    "en": "Yes, I'm growing tomatoes at home.",
+    "ru": "Да, я выращиваю дома помидоры.",
+    "zh": "是的，我在家里种番茄。",
+    "ja": "はい、うちで、トマトを、育てています。",
+    "romaji": "Hai, uchi de, tomato o, sodatete imasu."
+  },
+  "vl13.p2_mis_relief": {
+    "en": "Yes, that's it. When a person does it, it's “o.”",
+    "ru": "Да, именно так. Когда это делает человек — «о».",
+    "zh": "对，就是这个。人做的时候用「を」。",
+    "ja": "はい、それです。人がするときは、「を」ですね。",
+    "romaji": "Hai, sore desu. Hito ga suru toki wa, 'o' desu ne."
+  },
+  "vl13.p2_own_r": {
+    "en": "Lovely. Daily care is important.",
+    "ru": "Прекрасно. Ежедневный уход важен.",
+    "zh": "真好。每天的照料很重要。",
+    "ja": "すてきです。毎日の、世話が、大切ですね。",
+    "romaji": "Suteki desu. Mainichi no, sewa ga, taisetsu desu ne."
+  },
+  "vl13.p2_min_r": {
+    "en": "Your meaning comes across. Try saying “tomato o, sodatete imasu.”",
+    "ru": "Ваша мысль понятна. Скажите «томато о, содатэтэ имас».",
+    "zh": "你的意思能传达。试着说「トマトを、育てています」。",
+    "ja": "気持ちは、伝わります。「トマトを、育てています」と、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Tomato o, sodatete imasu' to, itte mimashou."
+  },
+  "vl13.w4": {
+    "en": "Growing plants is my “shumi,” my hobby. A “shumi” is something you do for enjoyment, not as work.",
+    "ru": "Выращивание растений — моё «сюми», хобби. «Сюми» — это то, чем занимаются не по работе, а ради удовольствия.",
+    "zh": "种植物是我的「趣味」。「趣味」是不为工作、而为乐趣去做的事。",
+    "ja": "植物を育てるのは、私の「趣味」です。「趣味」は、仕事ではなく、楽しみで、することです。",
+    "romaji": "Shokubutsu o sodateru no wa, watashi no 'shumi' desu. 'Shumi' wa, shigoto de wa naku, tanoshimi de, suru koto desu."
+  },
+  "vl13.w4_q": {
+    "en": "Are “shumi” and “suki na koto” different?",
+    "ru": "«Сюми» и «сукина кото» отличаются?",
+    "zh": "「趣味」和「好きなこと」有区别吗？",
+    "ja": "「趣味」と「好きなこと」は、ちがいますか？",
+    "romaji": "'Shumi' to 'suki na koto' wa, chigaimasu ka?"
+  },
+  "vl13.w4_a": {
+    "en": "A little different. “Suki na koto” is broad and includes anything. A “shumi” is an enjoyment you continue over time. Saying “shumi wa, ~ desu” works as self-introduction.",
+    "ru": "Немного по-разному. «Сукина кото» шире, сюда входит что угодно. «Сюми» — увлечение, которым занимаются долго. Фраза «сюми ва, ~ дэс» подходит для самопредставления.",
+    "zh": "有点不同。「好きなこと」范围广，什么都包括。「趣味」是花时间持续进行的乐趣。说「趣味は、〜です」就成了自我介绍。",
+    "ja": "少しちがいます。「好きなこと」は、広い意味で、何でも、入ります。「趣味」は、時間をかけて、続けている、楽しみです。「趣味は、〜です」と言うと、自己紹介になります。",
+    "romaji": "Sukoshi chigaimasu. 'Suki na koto' wa, hiroi imi de, nan demo, hairimasu. 'Shumi' wa, jikan o kakete, tsuzukete iru, tanoshimi desu. 'Shumi wa, ~ desu' to iu to, jikoshoukai ni narimasu."
+  },
+  "vl13.p3_prompt": {
+    "en": "Ken asked, “Sensei's hobby is gardening. What is your hobby?” Your hobby is taking photos. How do you answer?",
+    "ru": "Кен спросил: «Хобби сэнсэя — садоводство. А какое у вас хобби?» Ваше хобби — фотографировать. Что вы ответите?",
+    "zh": "健问：“老师的爱好是园艺。你的爱好是什么？”你的爱好是拍照。你会怎么回答？",
+    "ja": "ケンさんが、聞きました。「先生の趣味は、園芸ですね。あなたの趣味は、何ですか？」あなたの趣味は、写真を撮ることです。何と答えますか？",
+    "romaji": "Ken-san ga, kikimashita. 'Sensei no shumi wa, engei desu ne. Anata no shumi wa, nan desu ka?' Anata no shumi wa, shashin o toru koto desu. Nan to kotaemasu ka?"
+  },
+  "vl13.c3_natural": {
+    "en": "“My hobby is taking photos.”",
+    "ru": "«Моё хобби — фотографировать».",
+    "zh": "“我的爱好是拍照。”",
+    "ja": "「わたしの趣味は、写真を撮ることです。」",
+    "romaji": "'Watashi no shumi wa, shashin o toru koto desu.'"
+  },
+  "vl13.c3_formal": {
+    "en": "“As for my humble pastime, it lies in photography.”",
+    "ru": "«Что до моего скромного увлечения, оно заключается в фотосъёмке».",
+    "zh": "“说起在下的爱好，乃是摄影。”",
+    "ja": "「私めの趣味と申しますと、写真撮影に、ございます。」",
+    "romaji": "'Watakushi-me no shumi to moushimasu to, shashin satsuei ni, gozaimasu.'"
+  },
+  "vl13.c3_mistake": {
+    "en": "“My hobby likes taking photos.”",
+    "ru": "«Моё хобби любит фотографировать».",
+    "zh": "“我的爱好，喜欢拍照。”（句型不对）",
+    "ja": "「わたしの趣味は、写真を撮るのが、好きです。」",
+    "romaji": "'Watashi no shumi wa, shashin o toru no ga, suki desu.'"
+  },
+  "vl13.c3_own": {
+    "en": "“My hobby is taking photos. On days off, I photograph flowers in the park.”",
+    "ru": "«Моё хобби — фотографировать. В выходные я снимаю цветы в парке».",
+    "zh": "“我的爱好是拍照。休息日在公园拍花。”",
+    "ja": "「わたしの趣味は、写真を撮ることです。休みの日は、公園で、花を撮ります。」",
+    "romaji": "'Watashi no shumi wa, shashin o toru koto desu. Yasumi no hi wa, kouen de, hana o torimasu.'"
+  },
+  "vl13.c3_min": {
+    "en": "“Hobby... photos...”",
+    "ru": "«Хобби… фотографии…»",
+    "zh": "“爱好……照片……”",
+    "ja": "「趣味…写真…」",
+    "romaji": "'Shumi... shashin...'"
+  },
+  "vl13.p3_natural_r": {
+    "en": "Nice. A natural self-introduction.",
+    "ru": "Хорошо. Естественное самопредставление.",
+    "zh": "不错。很自然的自我介绍。",
+    "ja": "いいですね。自然な、自己紹介です。",
+    "romaji": "Ii desu ne. Shizen na, jikoshoukai desu."
+  },
+  "vl13.p3_formal_r": {
+    "en": "Ha, that's over the top. “Shumi wa, shashin desu” is fine.",
+    "ru": "Ха-ха, слишком пафосно. Достаточно «сюми ва, сясин дэс».",
+    "zh": "呵呵，太夸张了。说「趣味は、写真です」就行。",
+    "ja": "ふふ、大げさです。「趣味は、写真です」で、いいですよ。",
+    "romaji": "Fufu, oogesa desu. 'Shumi wa, shashin desu' de, ii desu yo."
+  },
+  "vl13.p3_mistake_r": {
+    "en": "Close. The answer to “shumi wa” is “~ koto desu” or “~ desu.” “Shumi wa, shashin o toru koto desu.” “Suki desu” is used when a person is the subject.",
+    "ru": "Почти. Ответ на «сюми ва» — «~ кото дэс» или «~ дэс». «Сюми ва, сясин о тору кото дэс». «Суки дэс» используется, когда подлежащее — человек.",
+    "zh": "很接近。回答「趣味は」时，用「〜ことです」或「〜です」。说「趣味は、写真を撮ることです」。「好きです」在以人为主语时才用。",
+    "ja": "惜しいです。「趣味は」の答えは、「〜ことです」か、「〜です」です。「趣味は、写真を撮ることです」。「好きです」は、人が、主語のときに使います。",
+    "romaji": "Oshii desu. 'Shumi wa' no kotae wa, '~ koto desu' ka, '~ desu' desu. 'Shumi wa, shashin o toru koto desu'. 'Suki desu' wa, hito ga, shugo no toki ni tsukaimasu."
+  },
+  "vl13.p3_mis_retry": {
+    "en": "My hobby is taking photos.",
+    "ru": "Моё хобби — фотографировать.",
+    "zh": "我的爱好是拍照。",
+    "ja": "わたしの趣味は、写真を撮ることです。",
+    "romaji": "Watashi no shumi wa, shashin o toru koto desu."
+  },
+  "vl13.p3_mis_relief": {
+    "en": "Yes, that's it. The sentence is clean now.",
+    "ru": "Да, именно так. Предложение стало чётким.",
+    "zh": "对，就是这个。句子变得清爽了。",
+    "ja": "はい、それです。文が、すっきりしました。",
+    "romaji": "Hai, sore desu. Bun ga, sukkiri shimashita."
+  },
+  "vl13.p3_own_r": {
+    "en": "Lovely. Please photograph this flower bed too.",
+    "ru": "Прекрасно. Сфотографируйте и эту клумбу.",
+    "zh": "真好。请也拍拍这个花坛吧。",
+    "ja": "すてきですね。この花壇も、撮ってください。",
+    "romaji": "Suteki desu ne. Kono kadan mo, totte kudasai."
+  },
+  "vl13.p3_min_r": {
+    "en": "I understand. Try saying it as a sentence: “shumi wa, shashin desu.”",
+    "ru": "Понимаю. Скажите предложением: «сюми ва, сясин дэс».",
+    "zh": "我明白。试着用句子说：「趣味は、写真です」。",
+    "ja": "分かりますよ。「趣味は、写真です」と、文で、言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Shumi wa, shashin desu' to, bun de, itte mimashou."
+  },
+  "vl13.w5": {
+    "en": "For a hobby, it's important to “tsuzukeru.” “Tsuzukeru” means to keep doing the same thing without stopping. It's used as in “mainichi, tsuzukete imasu.”",
+    "ru": "В хобби важно «цудзукэру». «Цудзукэру» означает продолжать делать одно и то же, не останавливаясь. Используется, например, так: «майнити, цудзукэтэ имас».",
+    "zh": "兴趣重在「続ける」。「続ける」是不停止，继续做同一件事。用法如「毎日、続けています」。",
+    "ja": "趣味は、「続ける」ことが、大切です。「続ける」は、やめないで、同じことを、し続けることです。「毎日、続けています」のように使います。",
+    "romaji": "Shumi wa, 'tsuzukeru' koto ga, taisetsu desu. 'Tsuzukeru' wa, yamenaide, onaji koto o, shitsuzukeru koto desu. 'Mainichi, tsuzukete imasu' no you ni tsukaimasu."
+  },
+  "vl13.w5_q": {
+    "en": "Are “tsuzukeru” and “tsuzuku” different?",
+    "ru": "«Цудзукэру» и «цудзуку» отличаются?",
+    "zh": "「続ける」和「続く」有区别吗？",
+    "ja": "「続ける」と「続く」は、ちがいますか？",
+    "romaji": "'Tsuzukeru' to 'tsuzuku' wa, chigaimasu ka?"
+  },
+  "vl13.w5_a": {
+    "en": "Yes. “Tsuzukeru” is the one a person does. “Mizuyari o, tsuzukeru.” “Tsuzuku” is where things continue on their own. You say “ame ga, tsuzuku.”",
+    "ru": "Да. «Цудзукэру» — то, что делает человек. «Мидзуяри о, цудзукэру». «Цудзуку» — когда события продолжаются сами по себе. Говорят «амэ га, цудзуку».",
+    "zh": "有区别。「続ける」是人做的那一方。「水やりを、続ける」。「続く」是事物自然延续的那一方。说「雨が、続く」。",
+    "ja": "はい。「続ける」は、人が、するほうです。「水やりを、続ける」。「続く」は、ものごとが、つながっていくほうです。「雨が、続く」と言います。",
+    "romaji": "Hai. 'Tsuzukeru' wa, hito ga, suru hou desu. 'Mizuyari o, tsuzukeru'. 'Tsuzuku' wa, monogoto ga, tsunagatte iku hou desu. 'Ame ga, tsuzuku' to iimasu."
+  },
+  "vl13.p4_prompt": {
+    "en": "Sensei asked, “Can you keep watering this flower bed every day?” You want to keep at it every day. How do you answer?",
+    "ru": "Сэнсэй спросил: «Вы сможете поливать эту клумбу каждый день?» Вы хотите продолжать каждый день. Что вы ответите?",
+    "zh": "老师问：“你能每天坚持给这个花坛浇水吗？”你想每天坚持。你会怎么回答？",
+    "ja": "先生が、聞きました。「この花壇の、水やりを、毎日、続けられますか？」あなたは、毎日、続けたいです。何と答えますか？",
+    "romaji": "Sensei ga, kikimashita. 'Kono kadan no, mizuyari o, mainichi, tsuzukeraremasu ka?' Anata wa, mainichi, tsuzuketai desu. Nan to kotaemasu ka?"
+  },
+  "vl13.c4_natural": {
+    "en": "“Yes, I'll keep watering every day.”",
+    "ru": "«Да, я буду поливать каждый день».",
+    "zh": "“是的，我会每天坚持浇水。”",
+    "ja": "「はい、毎日、水やりを、続けます。」",
+    "romaji": "'Hai, mainichi, mizuyari o, tsuzukemasu.'"
+  },
+  "vl13.c4_formal": {
+    "en": "“I humbly intend to continue the watering.”",
+    "ru": "«Я с почтением намерен продолжать полив».",
+    "zh": "“我谨此打算继续浇水。”",
+    "ja": "「謹んで、水やりを、継続する所存でございます。」",
+    "romaji": "'Tsutsushinde, mizuyari o, keizoku suru shozon de gozaimasu.'"
+  },
+  "vl13.c4_mistake": {
+    "en": "“Yes, every day, the watering continues (by itself).”",
+    "ru": "«Да, каждый день полив продолжается (сам)».",
+    "zh": "“是的，每天，水やりを，持续（自动延续）。”",
+    "ja": "「はい、毎日、水やりを、続きます。」",
+    "romaji": "'Hai, mainichi, mizuyari o, tsuzukimasu.'"
+  },
+  "vl13.c4_own": {
+    "en": "“Yes, I'll keep watering every day. I'll come to look in the morning and the evening.”",
+    "ru": "«Да, я буду поливать каждый день. Буду приходить смотреть утром и вечером».",
+    "zh": "“是的，我会每天坚持浇水。早晚都会来看看。”",
+    "ja": "「はい、毎日、水やりを、続けます。朝と、夕方に、見に来ます。」",
+    "romaji": "'Hai, mainichi, mizuyari o, tsuzukemasu. Asa to, yuugata ni, mi ni kimasu.'"
+  },
+  "vl13.c4_min": {
+    "en": "“Yes... every day... continue...”",
+    "ru": "«Да… каждый день… продолжать…»",
+    "zh": "“是……每天……坚持……”",
+    "ja": "「はい…毎日…続ける…」",
+    "romaji": "'Hai... mainichi... tsuzukeru...'"
+  },
+  "vl13.p4_natural_r": {
+    "en": "Good. Continuing is the most important thing.",
+    "ru": "Хорошо. Продолжать — самое важное.",
+    "zh": "不错。坚持是最重要的。",
+    "ja": "いいですね。続けることが、いちばん、大切です。",
+    "romaji": "Ii desu ne. Tsuzukeru koto ga, ichiban, taisetsu desu."
+  },
+  "vl13.p4_formal_r": {
+    "en": "Haha, that sounds like a company meeting. “Tsuzukemasu” is fine.",
+    "ru": "Ха-ха, как на корпоративном собрании. Достаточно «цудзукэмас».",
+    "zh": "哈哈，像公司会议一样。说「続けます」就行。",
+    "ja": "あはは、会社の、会議みたいです。「続けます」で、大丈夫です。",
+    "romaji": "Ahaha, kaisha no, kaigi mitai desu. 'Tsuzukemasu' de, daijoubu desu."
+  },
+  "vl13.p4_mistake_r": {
+    "en": "Close. In a sentence with “o,” use “tsuzukeru.” “Tsuzuku” does not take “o.” It's “mizuyari o, tsuzukemasu.”",
+    "ru": "Почти. В предложении с «о» используют «цудзукэру». «Цудзуку» не сочетается с «о». Получается «мидзуяри о, цудзукэмас».",
+    "zh": "很接近。带「を」的句子要用「続ける」。「続く」不与「を」连用。说「水やりを、続けます」。",
+    "ja": "惜しいです。「を」がある文では、「続ける」です。「続く」は、「を」を使いません。「水やりを、続けます」です。",
+    "romaji": "Oshii desu. 'O' ga aru bun de wa, 'tsuzukeru' desu. 'Tsuzuku' wa, 'o' o tsukaimasen. 'Mizuyari o, tsuzukemasu' desu."
+  },
+  "vl13.p4_mis_retry": {
+    "en": "Yes, I'll keep watering every day.",
+    "ru": "Да, я буду поливать каждый день.",
+    "zh": "是的，我会每天坚持浇水。",
+    "ja": "はい、毎日、水やりを、続けます。",
+    "romaji": "Hai, mainichi, mizuyari o, tsuzukemasu."
+  },
+  "vl13.p4_mis_relief": {
+    "en": "Yes, that's it. When a person does it, it's “tsuzukeru.”",
+    "ru": "Да, именно так. Когда это делает человек — «цудзукэру».",
+    "zh": "对，就是这个。人做的时候用「続ける」。",
+    "ja": "はい、それです。人がするときは、「続ける」ですね。",
+    "romaji": "Hai, sore desu. Hito ga suru toki wa, 'tsuzukeru' desu ne."
+  },
+  "vl13.p4_own_r": {
+    "en": "Reassuring. I'm looking forward to it.",
+    "ru": "Обнадёживает. Жду с нетерпением.",
+    "zh": "真可靠。我很期待。",
+    "ja": "頼もしいですね。楽しみにしています。",
+    "romaji": "Tanomoshii desu ne. Tanoshimi ni shite imasu."
+  },
+  "vl13.p4_min_r": {
+    "en": "Your meaning comes across. Say it in the polite form: “tsuzukemasu.”",
+    "ru": "Ваша мысль понятна. Скажите в вежливой форме: «цудзукэмас».",
+    "zh": "你的意思能传达。要用礼貌形来说：「続けます」。",
+    "ja": "気持ちは、伝わります。「続けます」と、ていねいな形で、言いましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Tsuzukemasu' to, teinei na katachi de, iimashou."
+  },
+  "vl13.time_pass": {
+    "en": "One month later. The seedlings in the flower bed have grown a little. Tiny sprouts have appeared from the seeds.",
+    "ru": "Через месяц. Рассада на клумбе немного подросла. Из семян появились маленькие ростки.",
+    "zh": "一个月后。花坛里的幼苗长大了一点。种子也冒出了小小的嫩芽。",
+    "ja": "一か月後。花壇の苗は、少し、大きくなっていた。種からは、小さな芽が、出ていた。",
+    "romaji": "Ikkagetsu go. Kadan no nae wa, sukoshi, ookiku natte ita. Tane kara wa, chiisana me ga, dete ita."
+  },
+  "vl13.w6": {
+    "en": "Look. The seedlings have really “kawari,” changed. “Kawaru” means becoming a different state than before. You say “kisetsu ga, kawaru.”",
+    "ru": "Посмотрите. Рассада сильно «кавари» — изменилась. «Кавару» — стать другим, чем раньше. Говорят «кисэцу га, кавару».",
+    "zh": "请看。幼苗变了好多。「変わる」是变成和以前不同的状态。说「季節が、変わる」。",
+    "ja": "見てください。苗が、ずいぶん、「変わり」ましたね。「変わる」は、前と、ちがう状態に、なることです。「季節が、変わる」と言います。",
+    "romaji": "Mite kudasai. Nae ga, zuibun, 'kawari' mashita ne. 'Kawaru' wa, mae to, chigau joutai ni, naru koto desu. 'Kisetsu ga, kawaru' to iimasu."
+  },
+  "vl13.w7": {
+    "en": "On the other hand, “kaeru” is when a person deliberately makes something a different state. You say “mizu no ryou o, kaeru” or “basho o, kaeru.”",
+    "ru": "С другой стороны, «каэру» — когда человек сознательно делает что-то другим. Говорят «мидзу но рё: о, каэру», «басё о, каэру».",
+    "zh": "另一方面，「変える」是人有意识地使之变成不同的状态。说「水の量を、変える」「場所を、変える」。",
+    "ja": "一方、「変える」は、人が、意識して、ちがう状態に、することです。「水の量を、変える」「場所を、変える」と、言います。",
+    "romaji": "Ippou, 'kaeru' wa, hito ga, ishiki shite, chigau joutai ni, suru koto desu. 'Mizu no ryou o, kaeru' 'basho o, kaeru' to, iimasu."
+  },
+  "vl13.w7_q": {
+    "en": "Does “kawaru” happen by itself?",
+    "ru": "«Кавару» происходит само по себе?",
+    "zh": "「変わる」是自己就发生变化吗？",
+    "ja": "「変わる」は、勝手に、なるのですか？",
+    "romaji": "'Kawaru' wa, katte ni, naru no desu ka?"
+  },
+  "vl13.w7_a": {
+    "en": "Yes, exactly. “Kawaru” is when things become so naturally. “Kaeru” is done by a person. Distinguish them with “ga” and “o.”",
+    "ru": "Да, именно так. «Кавару» — когда всё происходит естественно. «Каэру» делает человек. Различайте их по «га» и «о».",
+    "zh": "对，没错。「変わる」是事物自然变成那样。「変える」是人做的。用「が」和「を」来区分。",
+    "ja": "はい、その通りです。「変わる」は、ものが、自然に、なるほうです。「変える」は、人が、するほうです。「が」と「を」で、区別しましょう。",
+    "romaji": "Hai, sono toori desu. 'Kawaru' wa, mono ga, shizen ni, naru hou desu. 'Kaeru' wa, hito ga, suru hou desu. 'Ga' to 'o' de, kubetsu shimashou."
+  },
+  "vl13.p5_prompt": {
+    "en": "Sensei points at the seedlings. “They've grown big in a month, haven't they.” You want to say “the seedlings have changed.” What do you say?",
+    "ru": "Сэнсэй показывает на рассаду. «За месяц она сильно выросла, правда?» Вы хотите сказать, что «рассада изменилась». Что вы скажете?",
+    "zh": "老师指着幼苗。“一个月就长这么大了呢。”你想说“幼苗变了”。你会怎么说？",
+    "ja": "先生が、苗を、指さしました。「一か月で、大きく、なりましたね。」あなたは、「苗が、変わった」と、言いたいです。何と言いますか？",
+    "romaji": "Sensei ga, nae o, yubisashimashita. 'Ikkagetsu de, ookiku, narimashita ne.' Anata wa, 'nae ga, kawatta' to, iitai desu. Nan to iimasu ka?"
+  },
+  "vl13.c5_natural": {
+    "en": "“Yes, the seedlings have really changed.”",
+    "ru": "«Да, рассада сильно изменилась».",
+    "zh": "“是的，幼苗变了好多呢。”",
+    "ja": "「はい、苗が、ずいぶん、変わりましたね。」",
+    "romaji": "'Hai, nae ga, zuibun, kawarimashita ne.'"
+  },
+  "vl13.c5_formal": {
+    "en": "“The condition of the seedlings has altered remarkably.”",
+    "ru": "«Состояние рассады заметно изменилось».",
+    "zh": "“幼苗的样子发生了显著的变化呢。”",
+    "ja": "「苗の様子が、著しく、変化いたしましたね。」",
+    "romaji": "'Nae no yousu ga, ichijirushiku, henka itashimashita ne.'"
+  },
+  "vl13.c5_mistake": {
+    "en": "“Yes, (I) changed the seedlings.”",
+    "ru": "«Да, я изменил рассаду».",
+    "zh": "“是的，苗を，变了呢。”（「変わる」不能用「を」）",
+    "ja": "「はい、苗を、変わりましたね。」",
+    "romaji": "'Hai, nae o, kawarimashita ne.'"
+  },
+  "vl13.c5_own": {
+    "en": "“Yes, the seedlings have really changed. Next I'd like to try changing the amount of water.”",
+    "ru": "«Да, рассада сильно изменилась. В следующий раз хочу попробовать изменить количество воды».",
+    "zh": "“是的，幼苗变了好多呢。接下来我想试试改变浇水量。”",
+    "ja": "「はい、苗が、ずいぶん、変わりましたね。次は、水の量を、変えてみたいです。」",
+    "romaji": "'Hai, nae ga, zuibun, kawarimashita ne. Tsugi wa, mizu no ryou o, kaete mitai desu.'"
+  },
+  "vl13.c5_min": {
+    "en": "“Seedling... change...”",
+    "ru": "«Рассада… изменилась…»",
+    "zh": "“苗……变……”",
+    "ja": "「苗…変わる…」",
+    "romaji": "'Nae... kawaru...'"
+  },
+  "vl13.p5_natural_r": {
+    "en": "Nice. It changes naturally, so it's “ga.”",
+    "ru": "Хорошо. Оно меняется естественно, поэтому «га».",
+    "zh": "不错。是自然变化，所以用「が」。",
+    "ja": "いいですね。自然に、変わるので、「が」です。",
+    "romaji": "Ii desu ne. Shizen ni, kawaru node, 'ga' desu."
+  },
+  "vl13.p5_formal_r": {
+    "en": "Ha, that sounds like the news. “Kawarimashita ne” is fine.",
+    "ru": "Ха-ха, как в новостях. Достаточно «каваримасита нэ».",
+    "zh": "呵呵，像新闻一样。说「変わりましたね」就行。",
+    "ja": "ふふ、ニュースみたいです。「変わりましたね」で、いいですよ。",
+    "romaji": "Fufu, nyuusu mitai desu. 'Kawarimashita ne' de, ii desu yo."
+  },
+  "vl13.p5_mistake_r": {
+    "en": "Close. “Kawaru” is the one that happens on its own, so “o” isn't used. It's “nae ga, kawarimashita.” When a person does it, use “kaeru.”",
+    "ru": "Почти. «Кавару» происходит само, поэтому «о» не используется. Получается «нае га, каваримасита». Когда это делает человек, используют «каэру».",
+    "zh": "很接近。「変わる」是自己变化的一方，所以不用「を」。说「苗が、変わりました」。人做的时候，用「変える」。",
+    "ja": "惜しいです。「変わる」は、自分で、なるほうなので、「を」は、使いません。「苗が、変わりました」です。人が、するときは、「変える」を、使います。",
+    "romaji": "Oshii desu. 'Kawaru' wa, jibun de, naru hou na node, 'o' wa, tsukaimasen. 'Nae ga, kawarimashita' desu. Hito ga, suru toki wa, 'kaeru' o, tsukaimasu."
+  },
+  "vl13.p5_mis_retry": {
+    "en": "Yes, the seedlings have changed.",
+    "ru": "Да, рассада изменилась.",
+    "zh": "是的，幼苗变了呢。",
+    "ja": "はい、苗が、変わりましたね。",
+    "romaji": "Hai, nae ga, kawarimashita ne."
+  },
+  "vl13.p5_mis_relief": {
+    "en": "Yes, that's it. With “ga,” it comes across that it changed naturally.",
+    "ru": "Да, именно так. С «га» понятно, что изменение произошло естественно.",
+    "zh": "对，就是这个。用「が」，就传达出它是自然变化的。",
+    "ja": "はい、それです。「が」で、自然に変わったことが、伝わります。",
+    "romaji": "Hai, sore desu. 'Ga' de, shizen ni kawatta koto ga, tsutawarimasu."
+  },
+  "vl13.p5_own_r": {
+    "en": "You used both “kawaru” and “kaeru.” Wonderful.",
+    "ru": "Вы использовали и «кавару», и «каэру». Замечательно.",
+    "zh": "「変わる」和「変える」你都用上了。太棒了。",
+    "ja": "「変わる」と「変える」が、両方、使えましたね。すばらしいです。",
+    "romaji": "'Kawaru' to 'kaeru' ga, ryouhou, tsukaemashita ne. Subarashii desu."
+  },
+  "vl13.p5_min_r": {
+    "en": "I understand. Try saying “nae ga, kawarimashita.”",
+    "ru": "Понимаю. Скажите «нае га, каваримасита».",
+    "zh": "我明白。试着说「苗が、変わりました」。",
+    "ja": "分かりますよ。「苗が、変わりました」と、言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Nae ga, kawarimashita' to, itte mimashou."
+  },
+  "vl13.harvest": {
+    "en": "Two months later still. The tomatoes in the flower bed have turned red. It's everyone's first harvest.",
+    "ru": "Ещё через два месяца. Помидоры на клумбе покраснели. Это первый урожай для всех.",
+    "zh": "又过了两个月。花坛里的番茄变红了。这是大家第一次收获。",
+    "ja": "さらに、二か月後。花壇のトマトが、赤くなった。みんなで、はじめての、収穫だ。",
+    "romaji": "Sarani, nikagetsu go. Kadan no tomato ga, akaku natta. Minna de, hajimete no, shuukaku da."
+  },
+  "vl13.w8": {
+    "en": "“Jibun” refers to oneself. It's used, as in “jibun de, sodateru,” to mean doing something by your own strength.",
+    "ru": "«Дзибун» — это сам человек. Используется в выражениях вроде «дзибун дэ, содатэру» и означает делать что-то своими силами.",
+    "zh": "「自分」指自己本身。用法如「自分で、育てる」，表示靠自己的力量去做。",
+    "ja": "「自分」は、私自身のことです。「自分で、育てる」のように、自分の力で、することを、言います。",
+    "romaji": "'Jibun' wa, watashi jishin no koto desu. 'Jibun de, sodateru' no you ni, jibun no chikara de, suru koto o, iimasu."
+  },
+  "vl13.w9": {
+    "en": "Feeling something with your body or heart is “kanjiru.” You say “kaze o, kanjiru” or “ureshisa o, kanjiru.”",
+    "ru": "Ощущать что-то телом или сердцем — «кандзиру». Говорят «кадзэ о, кандзиру», «урэсиса о, кандзиру».",
+    "zh": "用身体或心去感受，叫「感じる」。说「風を、感じる」「うれしさを、感じる」。",
+    "ja": "その気持ちを、体で、感じることを、「感じる」と言います。「風を、感じる」「うれしさを、感じる」と、言います。",
+    "romaji": "Sono kimochi o, karada de, kanjiru koto o, 'kanjiru' to iimasu. 'Kaze o, kanjiru' 'ureshisa o, kanjiru' to, iimasu."
+  },
+  "vl13.w10": {
+    "en": "And “tokubetsu.” It means something especially important and different from ordinary. It's used as in “tokubetsu na hi” or “tokubetsu na aji.”",
+    "ru": "И «токубэцу». Это нечто особенно важное и отличающееся от обычного. Используется, например, в «токубэцу на хи» или «токубэцу на адзи».",
+    "zh": "然后是「特別」。与普通不同，特别重要的事。用法如「特別な日」「特別な味」。",
+    "ja": "そして、「特別」。ふつうとは、ちがって、とくに大切な、ことです。「特別な日」「特別な味」のように、使います。",
+    "romaji": "Soshite, 'tokubetsu'. Futsuu to wa, chigatte, tokuni taisetsu na, koto desu. 'Tokubetsu na hi' 'tokubetsu na aji' no you ni, tsukaimasu."
+  },
+  "vl13.w10_q": {
+    "en": "Are “tokubetsu” and “tokuni” the same?",
+    "ru": "«Токубэцу» и «токуни» — одно и то же?",
+    "zh": "「特別」和「特に」一样吗？",
+    "ja": "「特別」と「特に」は、同じですか？",
+    "romaji": "'Tokubetsu' to 'tokuni' wa, onaji desu ka?"
+  },
+  "vl13.w10_a": {
+    "en": "They are different. “Tokubetsu” is used as a noun or in the “tokubetsu na” form. “Tokuni” is an adverb that emphasizes, as in “tokuni, oishii desu.”",
+    "ru": "Они разные. «Токубэцу» используется как существительное или в форме «токубэцу на». «Токуни» — наречие, усиливающее, как в «токуни, оисий дэс».",
+    "zh": "不同。「特別」用作名词或「特別な」的形式。「特に」是副词，是强调的词，如「特に、おいしいです」。",
+    "ja": "ちがいます。「特別」は、名詞や、「特別な」の形で使います。「特に」は、副詞で、「特に、おいしいです」のように、強調する言葉です。",
+    "romaji": "Chigaimasu. 'Tokubetsu' wa, meishi ya, 'tokubetsu na' no katachi de tsukaimasu. 'Tokuni' wa, fukushi de, 'tokuni, oishii desu' no you ni, kyouchou suru kotoba desu."
+  },
+  "vl13.p6_prompt": {
+    "en": "Everyone eats the tomatoes they harvested. You take a bite of a tomato you grew yourself. You feel it has a special taste. What do you say?",
+    "ru": "Все едят собранные помидоры. Вы откусываете помидор, который вырастили сами. Вы чувствуете, что у него особенный вкус. Что вы скажете?",
+    "zh": "大家一起吃收获的番茄。你咬了一口自己种的番茄。你觉得味道很特别。你会怎么说？",
+    "ja": "みんなで、収穫した、トマトを、食べます。あなたは、自分で育てた、トマトを、一口、食べました。特別な味だと、感じました。何と言いますか？",
+    "romaji": "Minna de, shuukaku shita, tomato o, tabemasu. Anata wa, jibun de sodateta, tomato o, hitokuchi, tabemashita. Tokubetsu na aji da to, kanjimashita. Nan to iimasu ka?"
+  },
+  "vl13.c6_natural": {
+    "en": "“Tomatoes I grew myself have a special taste.”",
+    "ru": "«У помидоров, которые я вырастил сам, особенный вкус».",
+    "zh": "“自己种的番茄有一种特别的味道。”",
+    "ja": "「自分で育てたトマトは、特別な味が、します。」",
+    "romaji": "'Jibun de sodateta tomato wa, tokubetsu na aji ga, shimasu.'"
+  },
+  "vl13.c6_formal": {
+    "en": "“The tomatoes I nurtured with my own hands, I find of exceptional flavor.”",
+    "ru": "«Помидоры, которые я взрастил своими руками, обладают, как мне кажется, исключительным вкусом».",
+    "zh": "“亲手培育的番茄，在下觉得风味格外不同。”",
+    "ja": "「手ずから育みましたトマトは、格別の風味と、存じます。」",
+    "romaji": "'Tezukara hagukumimashita tomato wa, kakubetsu no fuumi to, zonjimasu.'"
+  },
+  "vl13.c6_mistake": {
+    "en": "“Tomatoes I grew myself, they're special, I feel.”",
+    "ru": "«Помидоры, которые я вырастил сам, особенные, чувствую».",
+    "zh": "“自己种的番茄，特別だ，感じます。”（应该用「特別に感じます」）",
+    "ja": "「自分で育てたトマトは、特別だ、感じます。」",
+    "romaji": "'Jibun de sodateta tomato wa, tokubetsu da, kanjimasu.'"
+  },
+  "vl13.c6_own": {
+    "en": "“Tomatoes I grew myself have a special taste. I'm glad I grew them.”",
+    "ru": "«У помидоров, которые я вырастил сам, особенный вкус. Я рад, что вырастил их».",
+    "zh": "“自己种的番茄有一种特别的味道。种了真好。”",
+    "ja": "「自分で育てたトマトは、特別な味が、します。育てて、よかったです。」",
+    "romaji": "'Jibun de sodateta tomato wa, tokubetsu na aji ga, shimasu. Sodatete, yokatta desu.'"
+  },
+  "vl13.c6_min": {
+    "en": "“Tomato... special...”",
+    "ru": "«Помидор… особенный…»",
+    "zh": "“番茄……特别……”",
+    "ja": "「トマト…特別…」",
+    "romaji": "'Tomato... tokubetsu...'"
+  },
+  "vl13.p6_natural_r": {
+    "en": "Lovely. Because you grew it yourself, it feels special.",
+    "ru": "Прекрасно. Поскольку вы вырастили его сами, он кажется особенным.",
+    "zh": "真好。因为是自己种的，所以感觉特别。",
+    "ja": "すてきです。自分で育てたから、特別に、感じますね。",
+    "romaji": "Suteki desu. Jibun de sodateta kara, tokubetsu ni, kanjimasu ne."
+  },
+  "vl13.p6_formal_r": {
+    "en": "Haha, what a splendid way to say it. Usually “tokubetsu na aji desu” is fine.",
+    "ru": "Ха-ха, какой великолепный оборот. Обычно достаточно «токубэцу на адзи дэс».",
+    "zh": "哈哈，说得很气派。平时说「特別な味です」就行。",
+    "ja": "あはは、りっぱな言い方です。ふだんは、「特別な味です」で、いいですよ。",
+    "romaji": "Ahaha, rippa na iikata desu. Fudan wa, 'tokubetsu na aji desu' de, ii desu yo."
+  },
+  "vl13.p6_mistake_r": {
+    "en": "Close. Use “ni” before “kanjiru.” It's “tokubetsu ni, kanjimasu.” You can also say “~ to, kanjiru.”",
+    "ru": "Почти. Перед «кандзиру» используют «ни». Получается «токубэцу ни, кандзимас». Можно сказать и «~ то, кандзиру».",
+    "zh": "很接近。「感じる」前面用「に」。说「特別に、感じます」。也可以说「〜と、感じる」。",
+    "ja": "惜しいです。「感じる」の前には、「に」を使います。「特別に、感じます」です。「〜と、感じる」とも言えます。",
+    "romaji": "Oshii desu. 'Kanjiru' no mae ni wa, 'ni' o tsukaimasu. 'Tokubetsu ni, kanjimasu' desu. '~ to, kanjiru' tomo iemasu."
+  },
+  "vl13.p6_mis_retry": {
+    "en": "Tomatoes I grew myself feel special.",
+    "ru": "Помидоры, которые я вырастил сам, кажутся особенными.",
+    "zh": "自己种的番茄，感觉很特别。",
+    "ja": "自分で育てたトマトは、特別に、感じます。",
+    "romaji": "Jibun de sodateta tomato wa, tokubetsu ni, kanjimasu."
+  },
+  "vl13.p6_mis_relief": {
+    "en": "Yes, that's it. With “ni,” how you feel comes across.",
+    "ru": "Да, именно так. С «ни» передаётся ваше ощущение.",
+    "zh": "对，就是这个。用「に」，就传达出了感受。",
+    "ja": "はい、それです。「に」で、感じ方が、伝わります。",
+    "romaji": "Hai, sore desu. 'Ni' de, kanjikata ga, tsutawarimasu."
+  },
+  "vl13.p6_own_r": {
+    "en": "Same for me. Let's continue next year too.",
+    "ru": "У меня то же самое. Продолжим и в следующем году.",
+    "zh": "我也一样。明年也继续吧。",
+    "ja": "わたしも、同じです。来年も、続けましょう。",
+    "romaji": "Watashi mo, onaji desu. Rainen mo, tsuzukemashou."
+  },
+  "vl13.p6_min_r": {
+    "en": "Your meaning comes across. Try saying “tokubetsu na aji ga, shimasu.”",
+    "ru": "Ваша мысль понятна. Скажите «токубэцу на адзи га, симас».",
+    "zh": "你的意思能传达。试着说「特別な味が、します」。",
+    "ja": "気持ちは、伝わります。「特別な味が、します」と、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Tokubetsu na aji ga, shimasu' to, itte mimashou."
+  },
+  "vl13.talk_open": {
+    "en": "Now let's talk. Out of today's ten words, which one stayed with you most?",
+    "ru": "Итак, поговорим. Какое из сегодняшних десяти слов больше всего запало вам в душу?",
+    "zh": "现在来聊聊。今天这十个词里，哪个最让你印象深刻？",
+    "ja": "では、話しましょう。今日の、十の言葉の中で、いちばん、心に残った言葉は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no, juu no kotoba no naka de, ichiban, kokoro ni nokotta kotoba wa, dore desu ka?"
+  },
+  "vl13.talk_ken": {
+    "en": "For me, “tsuzukeru.” Watering every day has become a little fun.",
+    "ru": "Для меня это «цудзукэру». Ежедневный полив стал немного интересным.",
+    "zh": "我想说「続ける」。每天浇水变得有点开心了。",
+    "ja": "ぼくは、「続ける」です。毎日、水をやることが、少し、楽しくなりました。",
+    "romaji": "Boku wa, 'tsuzukeru' desu. Mainichi, mizu o yaru koto ga, sukoshi, tanoshiku narimashita."
+  },
+  "vl13.talk_mei": {
+    "en": "For me, “kawaru.” It was fascinating to watch the little seedlings change every day.",
+    "ru": "Для меня это «кавару». Было интересно наблюдать, как маленькая рассада меняется каждый день.",
+    "zh": "我想说「変わる」。看着小小的幼苗每天在变化，很有意思。",
+    "ja": "わたしは、「変わる」です。小さな苗が、毎日、変わっていくのが、おもしろかったです。",
+    "romaji": "Watashi wa, 'kawaru' desu. Chiisana nae ga, mainichi, kawatte iku no ga, omoshirokatta desu."
+  },
+  "vl13.talk_yuki": {
+    "en": "For me, “tokubetsu.” When you grow it yourself, even ordinary vegetables become special.",
+    "ru": "Для меня это «токубэцу». Когда выращиваешь сам, даже обычные овощи становятся особенными.",
+    "zh": "我想说「特別」。自己种的话，普通的蔬菜也变得特别了呢。",
+    "ja": "わたしは、「特別」です。自分で育てると、ふつうの野菜も、特別になりますね。",
+    "romaji": "Watashi wa, 'tokubetsu' desu. Jibun de sodateru to, futsuu no yasai mo, tokubetsu ni narimasu ne."
+  },
+  "vl13.talk_tanaka": {
+    "en": "Lovely. What you grow puts down roots in your heart as well.",
+    "ru": "Прекрасно. То, что вы вырастили, пускает корни и в вашем сердце.",
+    "zh": "真好。培育过的东西，也会在心里扎根。",
+    "ja": "すてきですね。育てたものは、心にも、根を張ります。",
+    "romaji": "Suteki desu ne. Sodateta mono wa, kokoro ni mo, ne o harimasu."
+  },
+  "vl13.talk_player": {
+    "en": "(Seed, seedling, grow, hobby, continue, change, change, oneself, feel, special. What I grew slowly and kept at became my own words. Next year, I'll try growing a different vegetable.)",
+    "ru": "(Семя, рассада, выращивать, хобби, продолжать, меняться, менять, сам, чувствовать, особенный. То, что я медленно выращивал и продолжал делать, стало моими собственными словами. В следующем году попробую вырастить другой овощ.)",
+    "zh": "（种子、幼苗、培育、爱好、坚持、变化、改变、自己、感受、特别。慢慢培育、不断坚持的东西，变成了我自己的话语。明年，试着种别的蔬菜吧。）",
+    "ja": "（種、苗、育てる、趣味、続ける、変わる、変える、自分、感じる、特別。ゆっくり、育てて、続けたことが、自分の言葉になった。来年は、別の野菜を、育ててみよう。）",
+    "romaji": "(Tane, nae, sodateru, shumi, tsuzukeru, kawaru, kaeru, jibun, kanjiru, tokubetsu. What I grew slowly and kept at became my own words. Next year, I'll try growing a different vegetable.)"
+  },
+  "vl13.talk_close": {
+    "en": "Well done, everyone. Let's send Grandma a photo of the tomatoes. Then, let's meet again in the classroom.",
+    "ru": "Отлично, все. Отправим бабушке фотографию помидоров. А теперь — до встречи в классе.",
+    "zh": "各位，做得很好。我们把番茄的照片寄给奶奶吧。那么，我们教室里再见吧。",
+    "ja": "みなさん、よくできました。おばあさんに、トマトの写真を、送りましょう。では、また、教室で、会いましょう。",
+    "romaji": "Minasan, yoku dekimashita. Obaasan ni, tomato no shashin o, okurimashou. Dewa, mata, kyoushitsu de, aimashou."
+  },
+  "vl13.complete": {
+    "en": "End of Vocabulary Lesson 13.",
+    "ru": "Конец урока лексики 13.",
+    "zh": "词汇课 13 结束。",
+    "ja": "語彙レッスン13、おわり。",
+    "romaji": "Goi ressun juusan, owari."
+  }
+}

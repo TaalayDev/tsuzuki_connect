@@ -79,10 +79,14 @@ void main() {
     }
   });
 
-  test('the first ten sentence lessons stay in the free tier', () {
+  test('the first ten sentence lessons are free and later ones are paid', () {
     final order = [for (final lesson in sentenceLessons) lesson.id];
-    for (final id in order) {
-      expect(AccessPolicy.isLessonPaidTier(id, order), isFalse);
+    for (final lesson in sentenceLessons) {
+      expect(
+        AccessPolicy.isLessonPaidTier(lesson.id, order),
+        lesson.number > 10,
+        reason: lesson.id,
+      );
     }
   });
 }

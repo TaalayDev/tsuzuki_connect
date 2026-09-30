@@ -1,0 +1,695 @@
+{
+  "sl14.title": {
+    "en": "Giving Reasons: Kara, Node, Te",
+    "ru": "Называем причины: кара, нодэ, тэ",
+    "zh": "说明理由：から・ので・て",
+    "ja": "理由を言う：から・ので・て",
+    "romaji": "Riyuu o iu: kara, node, te"
+  },
+  "sl14.subtitle": {
+    "en": "Answering “Why?”",
+    "ru": "Отвечаем на вопрос «Почему?»",
+    "zh": "回答“为什么？”",
+    "ja": "「どうして？」に、答える",
+    "romaji": "'Doushite?' ni, kotaeru"
+  },
+  "sl14.description": {
+    "en": "On the Monday after the Kyoto trip, in a conversation about being late, practice four ways of giving reasons: “~ kara,” “~ node,” “doushite ~,” and “~ te, sumimasen.”",
+    "ru": "В понедельник после поездки в Киото, в разговоре об опоздании, потренируйте четыре способа называть причины: «~ кара», «~ нодэ», «доситэ ~» и «~ тэ, сумимасэн».",
+    "zh": "京都旅行后的星期一，围绕迟到的对话中，练习四种说明理由的方式：「〜から」「〜ので」「どうして〜」「〜て、すみません」。",
+    "ja": "京都旅行のあとの月曜日、遅刻をめぐる会話で、「〜から」「〜ので」「どうして〜」「〜て、すみません」の四つの理由の言い方を練習します。",
+    "romaji": "Kyouto ryokou no ato no getsuyoubi, chikoku o meguru kaiwa de, '~ kara' '~ node' 'doushite ~' '~ te, sumimasen' no yottsu no riyuu no iikata o renshuu shimasu."
+  },
+  "sl14.pattern.1": {
+    "en": "because ~ (kara)",
+    "ru": "потому что ~ (кара)",
+    "zh": "因为〜（から）",
+    "ja": "〜から（理由）",
+    "romaji": "~ kara (reason)"
+  },
+  "sl14.pattern.2": {
+    "en": "because ~ (node, softer)",
+    "ru": "потому что ~ (нодэ, мягче)",
+    "zh": "因为〜（ので，更委婉）",
+    "ja": "〜ので（やわらかい理由）",
+    "romaji": "~ node (softer reason)"
+  },
+  "sl14.pattern.3": {
+    "en": "asking why and answering",
+    "ru": "вопрос «почему» и ответ",
+    "zh": "询问原因与回答",
+    "ja": "どうして〜ですか・〜からです",
+    "romaji": "doushite ~ desu ka, ~ kara desu"
+  },
+  "sl14.pattern.4": {
+    "en": "apologizing and thanking with the te-form",
+    "ru": "извинение и благодарность с формой тэ",
+    "zh": "用て形来道歉和道谢",
+    "ja": "〜て、すみません・ありがとう",
+    "romaji": "~ te, sumimasen, arigatou"
+  },
+  "sl14.setup": {
+    "en": "The Monday after the Kyoto trip. Everyone has gathered in the morning classroom. But only your seat is still empty. The door opens quietly.",
+    "ru": "В понедельник после поездки в Киото. Все собрались в утреннем классе. Но только ваше место ещё свободно. Дверь тихо открывается.",
+    "zh": "京都旅行后的星期一。大家都聚集在早晨的教室里。只有你的座位还空着。门轻轻地开了。",
+    "ja": "京都旅行の、次の月曜日。朝の教室に、みんなが集まっている。でも、あなたの席だけ、まだ、あいている。ドアが、そっと開いた。",
+    "romaji": "Kyouto ryokou no, tsugi no getsuyoubi. Asa no kyoushitsu ni, minna ga atsumatte iru. Demo, anata no seki dake, mada, aite iru. Doa ga, sotto aita."
+  },
+  "sl14.t_intro": {
+    "en": "Good morning. Today's theme is how to give reasons. Let's practice how to answer when asked “Why?”",
+    "ru": "Доброе утро. Тема сегодня — как называть причины. Давайте потренируем, как отвечать на вопрос «Почему?».",
+    "zh": "早上好。今天的主题是说明理由的方式。我们来练习被问到“为什么？”时怎么回答。",
+    "ja": "おはようございます。今日のテーマは、理由の言い方です。「どうして？」と聞かれたときの、答え方を練習しましょう。",
+    "romaji": "Ohayou gozaimasu. Kyou no teema wa, riyuu no iikata desu. 'Doushite?' to kikareta toki no, kotaekata o renshuu shimashou."
+  },
+  "sl14.s1_intro": {
+    "en": "To give a reason, use “~ kara.” Say the reason first, add “kara” at the end, and then state the result.",
+    "ru": "Чтобы назвать причину, используют «~ кара». Сначала говорят причину, в конце добавляют «кара», а затем называют следствие.",
+    "zh": "说明理由时，用「〜から」。先说理由，在末尾加上「から」，然后再说结果。",
+    "ja": "理由を言うときは、「〜から」です。理由を先に言って、最後に「から」をつけます。そのあとに、結果を言います。",
+    "romaji": "Riyuu o iu toki wa, '~ kara' desu. Riyuu o saki ni itte, saigo ni 'kara' o tsukemasu. Sono ato ni, kekka o iimasu."
+  },
+  "sl14.s1_ex": {
+    "en": "Because it's raining, I'll take an umbrella. Because it's hot, I'll drink water.",
+    "ru": "Идёт дождь, поэтому я возьму зонт. Жарко, поэтому я буду пить воду.",
+    "zh": "因为在下雨，所以带伞去。因为很热，所以喝水。",
+    "ja": "雨が、ふっていますから、傘を、持っていきます。あついですから、水を、飲みます。",
+    "romaji": "Ame ga, futte imasu kara, kasa o, motte ikimasu. Atsui desu kara, mizu o, nomimasu."
+  },
+  "sl14.s1_q1": {
+    "en": "Can “kara” also be placed at the beginning of a sentence?",
+    "ru": "Можно ли ставить «кара» и в начало предложения?",
+    "zh": "「から」也可以放在句子开头吗？",
+    "ja": "「から」は、文の、はじめにも、置けますか？",
+    "romaji": "'Kara' wa, bun no, hajime ni mo, okemasu ka?"
+  },
+  "sl14.s1_a1": {
+    "en": "No, “kara” goes after the reason. Not “kara, okuremashita,” but “densha ga okuremashita kara, osoku narimashita.”",
+    "ru": "Нет, «кара» ставят после причины. Не «кара, окурэмасита», а «дэнся га окурэмасита кара, осоку наримасита».",
+    "zh": "不能。「から」要放在理由的后面。不是「から、遅れました」，而是「電車が遅れましたから、遅くなりました」。",
+    "ja": "いいえ、「から」は、理由の、あとに置きます。「から、遅れました」ではなく、「電車が遅れましたから、遅くなりました」です。",
+    "romaji": "Iie, 'kara' wa, riyuu no, ato ni okimasu. 'Kara, okuremashita' de wa naku, 'densha ga okuremashita kara, osoku narimashita' desu."
+  },
+  "sl14.s1_q2": {
+    "en": "Is it okay to use the “masu” form before “kara”?",
+    "ru": "Можно ли перед «кара» использовать форму «мас»?",
+    "zh": "「から」前面用「ます」形可以吗？",
+    "ja": "「から」の前は、「ます」の形でも、いいですか？",
+    "romaji": "'Kara' no mae wa, 'masu' no katachi demo, ii desu ka?"
+  },
+  "sl14.s1_a2": {
+    "en": "Yes, when speaking politely, you can use “masu kara” and “desu kara.” In conversation with friends, plain forms like “~ ru kara” and “~ da kara” are also often used.",
+    "ru": "Да, в вежливой речи можно использовать «мас кара» и «дэс кара». В разговоре с друзьями часто используют и простые формы, например «~ ру кара» и «~ да кара».",
+    "zh": "可以。礼貌地说话时，能用「ますから」「ですから」。和朋友聊天时，也常用「〜るから」「〜だから」这样的普通形。",
+    "ja": "はい、ていねいに話すときは、「ますから」「ですから」の形が、使えます。友達との会話では、「〜るから」「〜だから」という、ふつうの形も、よく使います。",
+    "romaji": "Hai, teinei ni hanasu toki wa, 'masu kara' 'desu kara' no katachi ga, tsukaemasu. Tomodachi to no kaiwa de wa, '~ ru kara' '~ da kara' to iu, futsuu no katachi mo, yoku tsukaimasu."
+  },
+  "sl14.tanaka_ask": {
+    "en": "You're late. Why were you late?",
+    "ru": "Вы опоздали. Почему вы опоздали?",
+    "zh": "你迟到了。为什么迟到了？",
+    "ja": "あなたは、遅れましたね。どうして、遅れましたか？",
+    "romaji": "Anata wa, okuremashita ne. Doushite, okuremashita ka?"
+  },
+  "sl14.p1_prompt": {
+    "en": "Tanaka-sensei asked. The train was delayed. Please give the reason using “kara.” What do you say?",
+    "ru": "Танака-сэнсэй спросил. Поезд задерживался. Назовите причину, используя «кара». Что вы скажете?",
+    "zh": "田中老师问了。电车晚点了。请用「から」说明理由。你会怎么说？",
+    "ja": "田中先生が、聞きました。電車が、遅れていました。「から」を使って、理由を、言ってください。何と言いますか？",
+    "romaji": "Tanaka-sensei ga, kikimashita. Densha ga, okurete imashita. 'Kara' o tsukatte, riyuu o, itte kudasai. Nan to iimasu ka?"
+  },
+  "sl14.c1_natural": {
+    "en": "“The train was delayed, so I was late.”",
+    "ru": "«Поезд опоздал, поэтому я задержался».",
+    "zh": "“因为电车晚点了，所以我迟到了。”",
+    "ja": "「電車が、遅れましたから、遅くなりました。」",
+    "romaji": "'Densha ga, okuremashita kara, osoku narimashita.'"
+  },
+  "sl14.c1_formal": {
+    "en": "“Owing to the train delay, I arrived late.”",
+    "ru": "«Вследствие задержки поезда я прибыл с опозданием».",
+    "zh": "“由于电车延误，我来迟了。”",
+    "ja": "「電車の遅延により、遅参いたしました。」",
+    "romaji": "'Densha no chien ni yori, chisan itashimashita.'"
+  },
+  "sl14.c1_mistake": {
+    "en": "“Because, the train was delayed. I was late.”",
+    "ru": "«Потому что, поезд опоздал. Я задержался».",
+    "zh": "“因为，电车晚点了。迟到了。”（把から放在了句首）",
+    "ja": "「から、電車が遅れました。遅くなりました。」",
+    "romaji": "'Kara, densha ga okuremashita. Osoku narimashita.'"
+  },
+  "sl14.c1_own": {
+    "en": "“The train was delayed, so I was late. Next time, I'll leave early.”",
+    "ru": "«Поезд опоздал, поэтому я задержался. В следующий раз выйду пораньше».",
+    "zh": "“因为电车晚点了，所以迟到了。下次我会早点出门。”",
+    "ja": "「電車が、遅れましたから、遅くなりました。次は、早く出ます。」",
+    "romaji": "'Densha ga, okuremashita kara, osoku narimashita. Tsugi wa, hayaku demasu.'"
+  },
+  "sl14.c1_min": {
+    "en": "“Train... delayed... because...”",
+    "ru": "«Поезд… опоздал… потому что…»",
+    "zh": "“电车……晚点……因为……”",
+    "ja": "「電車…遅れ…から…」",
+    "romaji": "'Densha... okure... kara...'"
+  },
+  "sl14.p1_nat_tanaka": {
+    "en": "I see. Understood. Please take your seat.",
+    "ru": "Понятно. Хорошо. Садитесь на своё место.",
+    "zh": "这样啊。明白了。请坐到座位上。",
+    "ja": "そうですか。分かりました。席に座ってください。",
+    "romaji": "Sou desu ka. Wakarimashita. Seki ni suwatte kudasai."
+  },
+  "sl14.p1_form_ken": {
+    "en": "Haha, that sounds like an announcement. “Okuremashita kara” is fine.",
+    "ru": "Ха-ха, как объявление. Достаточно «окурэмасита кара».",
+    "zh": "哈哈，像通知广播一样。说「遅れましたから」就行。",
+    "ja": "あはは、お知らせの、アナウンスみたいです。「遅れましたから」で、大丈夫ですよ。",
+    "romaji": "Ahaha, oshirase no, anaunsu mitai desu. 'Okuremashita kara' de, daijoubu desu yo."
+  },
+  "sl14.p1_mis_tanaka": {
+    "en": "Close. “Kara” comes after the reason. You say “densha ga okuremashita kara,” and then state the result.",
+    "ru": "Почти. «Кара» стоит после причины. Сначала говорят «дэнся га окурэмасита кара», а затем называют следствие.",
+    "zh": "很接近。「から」要放在理由的后面。先说「電車が遅れましたから」，再说结果。",
+    "ja": "惜しいです。「から」は、理由の、あとに来ます。「電車が遅れましたから」と言ってから、結果を言います。",
+    "romaji": "Oshii desu. 'Kara' wa, riyuu no, ato ni kimasu. 'Densha ga okuremashita kara' to itte kara, kekka o iimasu."
+  },
+  "sl14.p1_mis_retry": {
+    "en": "Oh, the train was delayed, so I was late.",
+    "ru": "Ой, поезд опоздал, поэтому я задержался.",
+    "zh": "啊，因为电车晚点了，所以迟到了。",
+    "ja": "あっ、電車が、遅れましたから、遅くなりました。",
+    "romaji": "A, densha ga, okuremashita kara, osoku narimashita."
+  },
+  "sl14.p1_mis_relief": {
+    "en": "Yes, that's it. “Kara” came right after the reason.",
+    "ru": "Да, именно так. «Кара» встало после причины.",
+    "zh": "对，就是这个。「から」放在了理由的后面。",
+    "ja": "はい、それです。理由のあとに、「から」が来ましたね。",
+    "romaji": "Hai, sore desu. Riyuu no ato ni, 'kara' ga kimashita ne."
+  },
+  "sl14.p1_own_tanaka": {
+    "en": "That's a good attitude. If you leave early, you'll make it in time.",
+    "ru": "Хороший настрой. Если выйти пораньше, вы успеете.",
+    "zh": "这份心态很好。早点出门就赶得上了。",
+    "ja": "いい心がけですね。早く出れば、間に合いますよ。",
+    "romaji": "Ii kokorogake desu ne. Hayaku dereba, maniaimasu yo."
+  },
+  "sl14.p1_min_yuki": {
+    "en": "I understand. Try saying it through: “densha ga okuremashita kara, osoku narimashita.”",
+    "ru": "Понимаю. Скажите слитно: «дэнся га окурэмасита кара, осоку наримасита».",
+    "zh": "我明白。试着连起来说：「電車が遅れましたから、遅くなりました」。",
+    "ja": "分かりますよ。「電車が遅れましたから、遅くなりました」と、続けて、言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Densha ga okuremashita kara, osoku narimashita' to, tsuzukete, itte mimashou."
+  },
+  "sl14.s2_intro": {
+    "en": "There is another one, “node.” It gives a reason in a softer and more polite way than “kara.” It is often used with teachers and people senior to you.",
+    "ru": "Есть ещё «нодэ». Оно называет причину мягче и вежливее, чем «кара». Его часто используют с учителями и старшими по положению.",
+    "zh": "还有一个「ので」。比「から」更柔和、更礼貌的理由表达。常用于对老师或长辈说话。",
+    "ja": "もう一つ、「ので」があります。「から」より、やわらかくて、ていねいな理由です。先生や、目上の人に、よく使います。",
+    "romaji": "Mou hitotsu, 'node' ga arimasu. 'Kara' yori, yawarakakute, teinei na riyuu desu. Sensei ya, meue no hito ni, yoku tsukaimasu."
+  },
+  "sl14.s2_form": {
+    "en": "Before “node,” you use the plain form. Verbs and i-adjectives stay as they are: “densha ga okureta node,” “takai node.” For na-adjectives and nouns, “na” is added: “shizuka na node,” “ame na node.”",
+    "ru": "Перед «нодэ» используют простую форму. Глаголы и i-прилагательные остаются как есть: «дэнся га окурэта нодэ», «такай нодэ». К na-прилагательным и существительным добавляют «на»: «сидзука на нодэ», «амэ на нодэ».",
+    "zh": "「ので」前面用普通形。动词和い形容词保持原样：「電車が遅れたので」「高いので」。な形容词和名词要加「な」：「しずかなので」「雨なので」。",
+    "ja": "「ので」の前は、ふつうの形です。動詞と、い形容詞は、そのままです。「電車が遅れたので」「高いので」。な形容詞と名詞は、「な」がつきます。「しずかなので」「雨なので」。",
+    "romaji": "'Node' no mae wa, futsuu no katachi desu. Doushi to, i-keiyoushi wa, sono mama desu. 'Densha ga okureta node' 'takai node'. Na-keiyoushi to meishi wa, 'na' ga tsukimasu. 'Shizuka na node' 'ame na node'."
+  },
+  "sl14.s2_q1": {
+    "en": "Do “node” and “kara” differ in meaning?",
+    "ru": "Отличаются ли «нодэ» и «кара» по значению?",
+    "zh": "「ので」和「から」意思不同吗？",
+    "ja": "「ので」と「から」は、意味が、ちがいますか？",
+    "romaji": "'Node' to 'kara' wa, imi ga, chigaimasu ka?"
+  },
+  "sl14.s2_a1": {
+    "en": "The meaning is almost the same. “Kara” feels like stating your own thinking clearly. “Node” feels like conveying the reason gently, as a natural cause.",
+    "ru": "Значение почти одинаковое. «Кара» звучит так, будто вы чётко высказываете собственное мнение. «Нодэ» звучит так, будто вы мягко сообщаете причину как естественное следствие.",
+    "zh": "意思几乎相同。「から」给人明确表达自己想法的感觉。「ので」则是把理由作为自然的原因，温和地传达出来。",
+    "ja": "意味は、ほとんど同じです。「から」は、自分の考えを、はっきり言う感じです。「ので」は、自然な理由として、やさしく伝える感じです。",
+    "romaji": "Imi wa, hotondo onaji desu. 'Kara' wa, jibun no kangae o, hakkiri iu kanji desu. 'Node' wa, shizen na riyuu to shite, yasashiku tsutaeru kanji desu."
+  },
+  "sl14.s2_q2": {
+    "en": "Do you put “da” before it and say “ame da node” for nouns?",
+    "ru": "Говорят ли «амэ да нодэ» с «да» перед ним для существительных?",
+    "zh": "名词要加「だ」，说成「雨だので」吗？",
+    "ja": "名詞の前に、「だ」を入れて、「雨だので」と言いますか？",
+    "romaji": "'Meishi' no mae ni, 'da' o irete, 'ame da node' to iimasu ka?"
+  },
+  "sl14.s2_a2": {
+    "en": "No, you don't say “ame da node.” It's “ame na node.” You use “na,” not “da.” This is where it differs from the ordinary “~ da kara.”",
+    "ru": "Нет, «амэ да нодэ» не говорят. Говорят «амэ на нодэ». Используют «на», а не «да». Здесь отличие от обычного «~ да кара».",
+    "zh": "不，不说「雨だので」。说「雨なので」。要用「な」，而不是「だ」。这是和普通的「〜だから」不同的地方。",
+    "ja": "いいえ、「雨だので」とは、言いません。「雨なので」です。「だ」ではなく、「な」を使います。ここが、ふつうの「〜だから」と、ちがう所です。",
+    "romaji": "Iie, 'ame da node' to wa, iimasen. 'Ame na node' desu. 'Da' de wa naku, 'na' o tsukaimasu. Koko ga, futsuu no '~ da kara' to, chigau tokoro desu."
+  },
+  "sl14.p2_prompt": {
+    "en": "This is about a different day. It was pouring rain from morning, and you were late because of the rain. Please tell Tanaka-sensei the reason politely using “node.” What do you say?",
+    "ru": "Это другой день. С утра шёл сильный дождь, и вы опоздали из-за дождя. Вежливо назовите причину Танаке-сэнсэю с помощью «нодэ». Что вы скажете?",
+    "zh": "这是另一天的事。从早上起就下大雨，你因为下雨迟到了。请用「ので」礼貌地向田中老师说明理由。你会怎么说？",
+    "ja": "別の日の話です。今日は、朝から、大雨でした。あなたは、雨のせいで、遅れました。田中先生に、「ので」を使って、ていねいに、理由を言ってください。何と言いますか？",
+    "romaji": "Betsu no hi no hanashi desu. Kyou wa, asa kara, ooame deshita. Anata wa, ame no sei de, okuremashita. Tanaka-sensei ni, 'node' o tsukatte, teinei ni, riyuu o itte kudasai. Nan to iimasu ka?"
+  },
+  "sl14.c2_natural": {
+    "en": "“Since it's pouring today, the train was delayed. I'm sorry.”",
+    "ru": "«Сегодня сильный дождь, поэтому поезд задержался. Простите».",
+    "zh": "“今天下大雨，所以电车晚点了。对不起。”",
+    "ja": "「今日は、大雨なので、電車が、遅れました。すみません。」",
+    "romaji": "'Kyou wa, ooame na node, densha ga, okuremashita. Sumimasen.'"
+  },
+  "sl14.c2_formal": {
+    "en": "“Owing to the torrential rain we were visited by today, the trains were delayed.”",
+    "ru": "«Ввиду постигшего нас сегодня ливня поезда задерживались».",
+    "zh": "“今日遭遇暴雨，电车因此延误。”",
+    "ja": "「本日は、豪雨に見舞われましたゆえ、電車が、遅延いたしました。」",
+    "romaji": "'Honjitsu wa, gouu ni mimawaremashita yue, densha ga, chien itashimashita.'"
+  },
+  "sl14.c2_mistake": {
+    "en": "“Since it's ooame-da, the train was delayed.”",
+    "ru": "«Так как «ооамэ-да», поезд задержался».",
+    "zh": "“今天大雨だので，电车晚点了。”（应该用な而不是だ）",
+    "ja": "「今日は、大雨だので、電車が、遅れました。」",
+    "romaji": "'Kyou wa, ooame da node, densha ga, okuremashita.'"
+  },
+  "sl14.c2_own": {
+    "en": "“Since it's pouring today, the train was delayed. I'm sorry. I also didn't have an umbrella.”",
+    "ru": "«Сегодня сильный дождь, поэтому поезд задержался. Простите. У меня ещё и зонта не было».",
+    "zh": "“今天下大雨，所以电车晚点了。对不起。我也没带伞。”",
+    "ja": "「今日は、大雨なので、電車が、遅れました。すみません。傘も、持っていませんでした。」",
+    "romaji": "'Kyou wa, ooame na node, densha ga, okuremashita. Sumimasen. Kasa mo, motte imasen deshita.'"
+  },
+  "sl14.c2_min": {
+    "en": "“Heavy rain... so... late...”",
+    "ru": "«Сильный дождь… поэтому… опоздал…»",
+    "zh": "“大雨……所以……迟到……”",
+    "ja": "「大雨…ので…遅れ…」",
+    "romaji": "'Ooame... node... okure...'"
+  },
+  "sl14.p2_nat_tanaka": {
+    "en": "That must have been rough. Please be careful not to catch a cold.",
+    "ru": "Наверное, было непросто. Берегитесь, чтобы не простудиться.",
+    "zh": "真不容易啊。请注意别感冒了。",
+    "ja": "大変でしたね。かぜを、ひかないように、気をつけてください。",
+    "romaji": "Taihen deshita ne. Kaze o, hikanai you ni, ki o tsukete kudasai."
+  },
+  "sl14.p2_form_mei": {
+    "en": "Ha, those are very stiff words. “Ame na node, okuremashita” is enough.",
+    "ru": "Ха-ха, очень строгие слова. Достаточно «амэ на нодэ, окурэмасита».",
+    "zh": "呵呵，这些话太生硬了。说「雨なので、遅れました」就足够了。",
+    "ja": "ふふ、とても、かたい言葉ですね。「雨なので、遅れました」で、じゅうぶんですよ。",
+    "romaji": "Fufu, totemo, katai kotoba desu ne. 'Ame na node, okuremashita' de, juubun desu yo."
+  },
+  "sl14.p2_mis_ken": {
+    "en": "Close. After nouns and na-adjectives, it's “na node.” You say “ooame na node,” not “ooame da node.”",
+    "ru": "Почти. После существительных и na-прилагательных нужно «на нодэ». Говорят «ооамэ на нодэ», а не «ооамэ да нодэ».",
+    "zh": "很接近。名词和な形容词后面要用「なので」。不说「大雨だので」，而说「大雨なので」。",
+    "ja": "惜しいです。名詞と、な形容詞の後ろは、「なので」です。「大雨だので」ではなく、「大雨なので」と言います。",
+    "romaji": "Oshii desu. Meishi to, na-keiyoushi no ushiro wa, 'na node' desu. 'Ooame da node' de wa naku, 'ooame na node' to iimasu."
+  },
+  "sl14.p2_mis_retry": {
+    "en": "Oh, since it's pouring today, the train was delayed.",
+    "ru": "Ой, сегодня сильный дождь, поэтому поезд задержался.",
+    "zh": "啊，今天下大雨，所以电车晚点了。",
+    "ja": "あっ、今日は、大雨なので、電車が、遅れました。",
+    "romaji": "A, kyou wa, ooame na node, densha ga, okuremashita."
+  },
+  "sl14.p2_mis_relief": {
+    "en": "Yes, that's it! “Na node.”",
+    "ru": "Да, именно так! «На нодэ».",
+    "zh": "对，就是这个！是「なので」。",
+    "ja": "はい、それです！「なので」ですね。",
+    "romaji": "Hai, sore desu! 'Na node' desu ne."
+  },
+  "sl14.p2_own_tanaka": {
+    "en": "Please come carefully. I hear the weather will be good tomorrow.",
+    "ru": "Пожалуйста, приходите осторожно. Говорят, завтра будет хорошая погода.",
+    "zh": "请小心地来。听说明天天气会很好。",
+    "ja": "気をつけて、来てくださいね。あしたは、天気が、いいそうですよ。",
+    "romaji": "Ki o tsukete, kite kudasai ne. Ashita wa, tenki ga, ii sou desu yo."
+  },
+  "sl14.p2_min_yuki": {
+    "en": "I understand. Try saying it politely: “ooame na node, okuremashita.”",
+    "ru": "Понимаю. Скажите вежливо: «ооамэ на нодэ, окурэмасита».",
+    "zh": "我明白。试着礼貌地说：「大雨なので、遅れました」。",
+    "ja": "分かりますよ。「大雨なので、遅れました」と、ていねいに、言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Ooame na node, okuremashita' to, teinei ni, itte mimashou."
+  },
+  "sl14.s3_intro": {
+    "en": "To ask for a reason, you use “doushite.” When asked “doushite, ~ desu ka?” you answer “~ kara desu.”",
+    "ru": "Чтобы спросить о причине, используют «доситэ». Когда спрашивают «доситэ, ~ дэс ка?», отвечают «~ кара дэс».",
+    "zh": "询问原因时，用「どうして」。被问「どうして、〜ですか？」时，回答「〜からです」。",
+    "ja": "理由を聞くときは、「どうして」を使います。「どうして、〜ですか？」と聞かれたら、「〜からです」と答えます。",
+    "romaji": "Riyuu o kiku toki wa, 'doushite' o tsukaimasu. 'Doushite, ~ desu ka?' to kikaretara, '~ kara desu' to kotaemasu."
+  },
+  "sl14.s3_ex": {
+    "en": "Why aren't you going to the party? Because I have a test tomorrow.",
+    "ru": "Почему вы не идёте на вечеринку? Потому что завтра у меня тест.",
+    "zh": "为什么不去参加派对？因为明天有考试。",
+    "ja": "どうして、パーティーに、行きませんか？あしたは、テストがあるからです。",
+    "romaji": "Doushite, paatii ni, ikimasen ka? Ashita wa, tesuto ga aru kara desu."
+  },
+  "sl14.s3_form": {
+    "en": "Before “kara desu,” you use the plain form: “aru kara desu,” “takai kara desu.” Not “arimasu,” but “aru.” This is true even for polite answers.",
+    "ru": "Перед «кара дэс» используют простую форму: «ару кара дэс», «такай кара дэс». Не «аримас», а «ару». Это так даже для вежливых ответов.",
+    "zh": "「からです」前面用普通形：「あるからです」「高いからです」。不是「あります」，而是「ある」。即使是礼貌的回答，也这样用。",
+    "ja": "「からです」の前は、ふつうの形です。「あるからです」「高いからです」。「あります」ではなく、「ある」です。ていねいな答えでも、そうします。",
+    "romaji": "'Kara desu' no mae wa, futsuu no katachi desu. 'Aru kara desu' 'takai kara desu'. 'Arimasu' de wa naku, 'aru' desu. Teinei na kotae demo, sou shimasu."
+  },
+  "sl14.s3_q1": {
+    "en": "Are “doushite,” “naze,” and “nande” the same?",
+    "ru": "«Доситэ», «нзэ» и «нандэ» — это одно и то же?",
+    "zh": "「どうして」「なぜ」「なんで」是一样的吗？",
+    "ja": "「どうして」と「なぜ」と「なんで」は、同じですか？",
+    "romaji": "'Doushite' to 'naze' to 'nande' wa, onaji desu ka?"
+  },
+  "sl14.s3_a1": {
+    "en": "The meaning is the same. “Naze” is a little stiff and often used in writing. “Nande” is used in casual conversation with friends. “Doushite” can be used anywhere.",
+    "ru": "Значение одинаковое. «Нзэ» немного строгое и часто используется в письменной речи. «Нандэ» используют в непринуждённом разговоре с друзьями. «Доситэ» подходит везде.",
+    "zh": "意思相同。「なぜ」稍微生硬，常用于书面。「なんで」用于和朋友的随意对话。「どうして」在哪里都可以用。",
+    "ja": "意味は同じです。「なぜ」は、少しかたくて、文章に、よく使います。「なんで」は、友達との、くだけた会話で使います。「どうして」は、どこでも、使えます。",
+    "romaji": "Imi wa onaji desu. 'Naze' wa, sukoshi katakute, bunshou ni, yoku tsukaimasu. 'Nande' wa, tomodachi to no, kudaketa kaiwa de tsukaimasu. 'Doushite' wa, doko demo, tsukaemasu."
+  },
+  "sl14.s3_q2": {
+    "en": "Can you ask with just “doushite desu ka?”",
+    "ru": "Можно ли спросить просто «доситэ дэс ка?»?",
+    "zh": "可以只问「どうしてですか？」吗？",
+    "ja": "「どうしてですか？」だけでも、聞けますか？",
+    "romaji": "'Doushite desu ka?' dake demo, kikemasu ka?"
+  },
+  "sl14.s3_a2": {
+    "en": "Yes, you can. After the other person has declined or said something unexpected, asking “doushite desu ka?” sounds natural.",
+    "ru": "Да, можно. После того как собеседник отказался или сказал что-то неожиданное, естественно спросить «доситэ дэс ка?».",
+    "zh": "可以。对方拒绝了或说了出人意料的话之后，问一句「どうしてですか？」很自然。",
+    "ja": "はい、聞けます。相手が、ことわったり、意外なことを言ったりしたあとに、「どうしてですか？」と聞くと、自然です。",
+    "romaji": "Hai, kikemasu. Aite ga, kotowattari, igai na koto o ittari shita ato ni, 'doushite desu ka?' to kiku to, shizen desu."
+  },
+  "sl14.k_invite": {
+    "en": "We're having a party on Friday. Won't you come with us?",
+    "ru": "В пятницу мы устраиваем вечеринку. Не хотите пойти вместе?",
+    "zh": "星期五我们要开派对。要不要一起去？",
+    "ja": "金曜日に、みんなで、パーティーをします。いっしょに、行きませんか？",
+    "romaji": "Kin'youbi ni, minna de, paatii o shimasu. Issho ni, ikimasen ka?"
+  },
+  "sl14.p3_prompt": {
+    "en": "Ken invited you. But you have an important test on Saturday. After you declined, Ken asked, “Why?” How do you answer?",
+    "ru": "Кен пригласил вас. Но в субботу у вас важный тест. После вашего отказа Кен спросил: «Почему?» Что вы ответите?",
+    "zh": "健邀请了你。但是你星期六有重要的考试。你拒绝之后，健问：“为什么？”你会怎么回答？",
+    "ja": "ケンさんが、さそいました。でも、あなたは、土曜日に、大切なテストがあります。ことわったあと、ケンさんが、「どうしてですか？」と聞きました。何と答えますか？",
+    "romaji": "Ken-san ga, sasoimashita. Demo, anata wa, doyoubi ni, taisetsu na tesuto ga arimasu. Kotowatta ato, Ken-san ga, 'doushite desu ka?' to kikimashita. Nan to kotaemasu ka?"
+  },
+  "sl14.c3_natural": {
+    "en": "“Because I have a test on Saturday.”",
+    "ru": "«Потому что в субботу у меня тест».",
+    "zh": "“因为星期六有考试。”",
+    "ja": "「土曜日に、テストがあるからです。」",
+    "romaji": "'Doyoubi ni, tesuto ga aru kara desu.'"
+  },
+  "sl14.c3_formal": {
+    "en": "“It is on account of an examination awaiting me on Saturday.”",
+    "ru": "«Это по причине предстоящего в субботу экзамена».",
+    "zh": "“因为星期六有一场考试在等着我。”",
+    "ja": "「土曜日に、試験が控えておりますゆえでございます。」",
+    "romaji": "'Doyoubi ni, shiken ga hikaete orimasu yue de gozaimasu.'"
+  },
+  "sl14.c3_mistake": {
+    "en": "“Because there is (polite) a test on Saturday.”",
+    "ru": "«Потому что в субботу есть (вежл.) тест».",
+    "zh": "“因为星期六有(礼貌形)考试からです。”（からです前用了ます形）",
+    "ja": "「土曜日に、テストがありますからです。」",
+    "romaji": "'Doyoubi ni, tesuto ga arimasu kara desu.'"
+  },
+  "sl14.c3_own": {
+    "en": "“Because I have an important test on Saturday. I'm sorry. Please invite me next time.”",
+    "ru": "«Потому что в субботу у меня важный тест. Простите. Пригласите меня в следующий раз».",
+    "zh": "“因为星期六有重要的考试。对不起。下次请再邀请我。”",
+    "ja": "「土曜日に、大切なテストがあるからです。ごめんなさい。また今度、さそってください。」",
+    "romaji": "'Doyoubi ni, taisetsu na tesuto ga aru kara desu. Gomennasai. Mata kondo, sasotte kudasai.'"
+  },
+  "sl14.c3_min": {
+    "en": "“Test... because there is...”",
+    "ru": "«Тест… потому что есть…»",
+    "zh": "“考试……因为有……”",
+    "ja": "「テスト…あるから…」",
+    "romaji": "'Tesuto... aru kara...'"
+  },
+  "sl14.p3_nat_ken": {
+    "en": "I see. Good luck on your test.",
+    "ru": "Понятно. Удачи на тесте.",
+    "zh": "这样啊。考试加油哦。",
+    "ja": "そうですか。テスト、頑張ってくださいね。",
+    "romaji": "Sou desu ka. Tesuto, ganbatte kudasai ne."
+  },
+  "sl14.p3_form_yuki": {
+    "en": "Ha, you sound like an exam proctor. “Tesuto ga aru kara desu” is fine.",
+    "ru": "Ха-ха, как экзаменатор. Достаточно «тэсуто га ару кара дэс».",
+    "zh": "呵呵，像监考老师一样。说「テストがあるからです」就行。",
+    "ja": "ふふ、試験の先生みたいです。「テストがあるからです」で、いいですよ。",
+    "romaji": "Fufu, shiken no sensei mitai desu. 'Tesuto ga aru kara desu' de, ii desu yo."
+  },
+  "sl14.p3_mis_tanaka": {
+    "en": "Close. Before “kara desu,” use the plain form. Not “arimasu,” but “aru.” You say “aru kara desu.”",
+    "ru": "Почти. Перед «кара дэс» используют простую форму. Не «аримас», а «ару». Говорят «ару кара дэс».",
+    "zh": "很接近。「からです」前面要用普通形。不是「あります」，而是「ある」。说「あるからです」。",
+    "ja": "惜しいです。「からです」の前は、ふつうの形です。「あります」ではなく、「ある」です。「あるからです」と言います。",
+    "romaji": "Oshii desu. 'Kara desu' no mae wa, futsuu no katachi desu. 'Arimasu' de wa naku, 'aru' desu. 'Aru kara desu' to iimasu."
+  },
+  "sl14.p3_mis_retry": {
+    "en": "Oh, because I have a test on Saturday.",
+    "ru": "Ой, потому что в субботу у меня тест.",
+    "zh": "啊，因为星期六有考试。",
+    "ja": "あっ、土曜日に、テストがあるからです。",
+    "romaji": "A, doyoubi ni, tesuto ga aru kara desu."
+  },
+  "sl14.p3_mis_relief": {
+    "en": "Yes, that's it. The “aru” form fits perfectly.",
+    "ru": "Да, именно так. Форма «ару» подходит идеально.",
+    "zh": "对，就是这个。「ある」这个形式用得正好。",
+    "ja": "はい、それです。「ある」の形が、ぴったりです。",
+    "romaji": "Hai, sore desu. 'Aru' no katachi ga, pittari desu."
+  },
+  "sl14.p3_own_ken": {
+    "en": "Understood. Then let's go to the next party together.",
+    "ru": "Понял. Тогда на следующую вечеринку пойдём вместе.",
+    "zh": "明白了。那下次的派对，我们一起去吧。",
+    "ja": "分かりました。じゃあ、次のパーティーは、いっしょに、行きましょう。",
+    "romaji": "Wakarimashita. Jaa, tsugi no paatii wa, issho ni, ikimashou."
+  },
+  "sl14.p3_min_mei": {
+    "en": "Your feeling comes across. Try saying it politely: “tesuto ga aru kara desu.”",
+    "ru": "Ваше желание понятно. Скажите вежливо: «тэсуто га ару кара дэс».",
+    "zh": "你的心意能传达。试着礼貌地说：「テストがあるからです」。",
+    "ja": "気持ちは、伝わりますよ。「テストがあるからです」と、ていねいに言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu yo. 'Tesuto ga aru kara desu' to, teinei ni itte mimashou."
+  },
+  "sl14.hall": {
+    "en": "The hallway after school. While you were off handing in your homework, Mei waited for you the whole time.",
+    "ru": "Коридор после уроков. Пока вы ходили сдавать домашнее задание, Мэй всё это время вас ждала.",
+    "zh": "放学后的走廊。你去交作业的这段时间，小梅一直在等你。",
+    "ja": "放課後の廊下。あなたが、宿題を出しに行っている間、メイが、ずっと、待っていてくれた。",
+    "romaji": "Houkago no rouka. Anata ga, shukudai o dashi ni itte iru aida, Mei ga, zutto, matte ite kureta."
+  },
+  "sl14.s4_intro": {
+    "en": "The last is the form for giving a reason with “~ te.” You express the reason for feelings like being happy or sorry with “~ te, ~ desu.”",
+    "ru": "Последнее — форма для указания причины с помощью «~ тэ». Причину таких чувств, как радость или сожаление, выражают с помощью «~ тэ, ~ дэс».",
+    "zh": "最后是用「〜て」说明理由的句型。表示高兴、抱歉这样的心情的原因时，用「〜て、〜です」。",
+    "ja": "最後は、「〜て」で、理由を言う形です。うれしい、すまない、といった気持ちの理由を、「〜て、〜です」で言います。",
+    "romaji": "Saigo wa, '~ te' de, riyuu o iu katachi desu. Ureshii, sumanai, to itta kimochi no riyuu o, '~ te, ~ desu' de iimasu."
+  },
+  "sl14.s4_ex": {
+    "en": "I'm sorry for being late. Thank you for helping me. I'm happy to see you.",
+    "ru": "Простите, что опоздал. Спасибо, что помогли мне. Рад вас видеть.",
+    "zh": "抱歉我迟到了。谢谢你帮忙。见到你很高兴。",
+    "ja": "遅れて、すみません。手伝ってくれて、ありがとうございます。会えて、うれしいです。",
+    "romaji": "Okurete, sumimasen. Tetsudatte kurete, arigatou gozaimasu. Aete, ureshii desu."
+  },
+  "sl14.s4_kureru": {
+    "en": "“~ te kurete, arigatou gozaimasu” is a form that means “I'm grateful that you did something for me.” It's used like “matte kurete, arigatou gozaimasu.”",
+    "ru": "«~ тэ курэтэ, аригато годзаимас» означает «я благодарен, что вы для меня это сделали». Используется так: «маттэ курэтэ, аригато годзаимас».",
+    "zh": "「〜てくれて、ありがとうございます」是“感谢你为我做了……”的句型。用法如「待ってくれて、ありがとうございます」。",
+    "ja": "「〜てくれて、ありがとうございます」は、「してくれたことに、感謝します」という形です。「待ってくれて、ありがとうございます」のように使います。",
+    "romaji": "'~ te kurete, arigatou gozaimasu' wa, 'shite kureta koto ni, kansha shimasu' to iu katachi desu. 'Matte kurete, arigatou gozaimasu' no you ni tsukaimasu."
+  },
+  "sl14.s4_q1": {
+    "en": "Is it okay to use “node” or “kara” and say “okuremashita kara, sumimasen”?",
+    "ru": "Можно ли с «нодэ» или «кара» сказать «окурэмасита кара, сумимасэн»?",
+    "zh": "可以用「ので」或「から」说「遅れましたから、すみません」吗？",
+    "ja": "「ので」や「から」を使って、「遅れましたから、すみません」と言ってもいいですか？",
+    "romaji": "'Node' ya 'kara' o tsukatte, 'okuremashita kara, sumimasen' to itte mo ii desu ka?"
+  },
+  "sl14.s4_a1": {
+    "en": "You rarely say it. “~ kara, sumimasen” feels a little odd. It's more natural to state the reason for an apology with “te,” as in “okurete, sumimasen.”",
+    "ru": "Так говорят редко. «~ кара, сумимасэн» звучит немного странно. Естественнее указывать причину извинения с помощью «тэ»: «окурэтэ, сумимасэн».",
+    "zh": "不太这样说。「〜から、すみません」听起来有点奇怪。表示道歉的理由，用「て」说成「遅れて、すみません」更自然。",
+    "ja": "あまり言いません。「〜から、すみません」は、少し、変な感じです。謝る理由は、「遅れて、すみません」と、「て」で言うのが、自然です。",
+    "romaji": "Amari iimasen. '~ kara, sumimasen' wa, sukoshi, hen na kanji desu. Ayamaru riyuu wa, 'okurete, sumimasen' to, 'te' de iu no ga, shizen desu."
+  },
+  "sl14.s4_q2": {
+    "en": "Is the “te” form always made the same way?",
+    "ru": "Форма «тэ» всегда образуется одинаково?",
+    "zh": "「て」形总是用同样的方式构成吗？",
+    "ja": "「て」の形は、いつも、同じ作り方ですか？",
+    "romaji": "'Te' no katachi wa, itsumo, onaji tsukurikata desu ka?"
+  },
+  "sl14.s4_a2": {
+    "en": "It's just as we studied in Sentence Lesson 8. “Matsu” becomes “matte,” “kiku” becomes “kiite,” and “yomu” becomes “yonde.” The “te” used for reasons is the same form.",
+    "ru": "Так же, как мы изучали на уроке предложений 8. «Мацу» — «маттэ», «кику» — «киитэ», «ёму» — «ёндэ». «Тэ» для причины — та же самая форма.",
+    "zh": "和我们在句型课8里学的一样。「待つ」变成「待って」，「聞く」变成「聞いて」，「読む」变成「読んで」。表示理由的「て」也是同样的形式。",
+    "ja": "文型レッスン8で勉強したとおりです。「待つ」は「待って」、「聞く」は「聞いて」、「読む」は「読んで」です。理由の「て」も、同じ形です。",
+    "romaji": "Bunkei ressun hachi de benkyou shita toori desu. 'Matsu' wa 'matte', 'kiku' wa 'kiite', 'yomu' wa 'yonde' desu. Riyuu no 'te' mo, onaji katachi desu."
+  },
+  "sl14.m_wait": {
+    "en": "You finally came. I was waiting the whole time.",
+    "ru": "Наконец-то вы пришли. Я всё это время ждала.",
+    "zh": "你终于来了。我一直在等你哦。",
+    "ja": "やっと、来ましたね。ずっと、待っていましたよ。",
+    "romaji": "Yatto, kimashita ne. Zutto, matte imashita yo."
+  },
+  "sl14.p4_prompt": {
+    "en": "Mei waited for you the whole time. Please thank her. What do you say?",
+    "ru": "Мэй всё это время вас ждала. Поблагодарите её. Что вы скажете?",
+    "zh": "小梅一直在等你。请向她道谢。你会怎么说？",
+    "ja": "メイさんが、ずっと、待っていてくれました。メイさんに、お礼を言ってください。何と言いますか？",
+    "romaji": "Mei-san ga, zutto, matte ite kuremashita. Mei-san ni, orei o itte kudasai. Nan to iimasu ka?"
+  },
+  "sl14.c4_natural": {
+    "en": "“Thank you for waiting. I'm sorry for taking so long.”",
+    "ru": "«Спасибо, что подождали. Простите, что заставил ждать».",
+    "zh": "“谢谢你等我。抱歉让你久等了。”",
+    "ja": "「待ってくれて、ありがとうございます。遅くなって、すみません。」",
+    "romaji": "'Matte kurete, arigatou gozaimasu. Osoku natte, sumimasen.'"
+  },
+  "sl14.c4_formal": {
+    "en": "“I am truly grateful for your waiting. I sincerely apologize for keeping you.”",
+    "ru": "«Искренне благодарю вас за ожидание. Приношу глубочайшие извинения за то, что заставил ждать».",
+    "zh": "“承蒙您久候，不胜感激。让您久等，实在抱歉。”",
+    "ja": "「お待ちいただきまして、まことにありがとうございます。お待たせして、申し訳ございません。」",
+    "romaji": "'Omachi itadakimashite, makoto ni arigatou gozaimasu. Omatase shite, moushiwake gozaimasen.'"
+  },
+  "sl14.c4_mistake": {
+    "en": "“Thank you because matta-te.”",
+    "ru": "«Спасибо за маттатэ».",
+    "zh": "“谢谢待ったて。”（て形的构成出错了）",
+    "ja": "「待ったて、ありがとうございます。」",
+    "romaji": "'Matta te, arigatou gozaimasu.'"
+  },
+  "sl14.c4_own": {
+    "en": "“Thank you for waiting. I'm happy to see you.”",
+    "ru": "«Спасибо, что подождали. Я рад вас видеть».",
+    "zh": "“谢谢你等我。见到你很高兴。”",
+    "ja": "「待ってくれて、ありがとうございます。会えて、うれしいです。」",
+    "romaji": "'Matte kurete, arigatou gozaimasu. Aete, ureshii desu.'"
+  },
+  "sl14.c4_min": {
+    "en": "“Waiting... thanks...”",
+    "ru": "«Подождали… спасибо…»",
+    "zh": "“等……谢谢……”",
+    "ja": "「待って…ありがとう…」",
+    "romaji": "'Matte... arigatou...'"
+  },
+  "sl14.p4_nat_mei": {
+    "en": "Not at all. Did you manage to hand in your homework? Then let's go home together.",
+    "ru": "Не стоит благодарности. Вы успели сдать домашнее задание? Тогда пойдём домой вместе.",
+    "zh": "不客气。作业交上去了吗？那我们一起回家吧。",
+    "ja": "いえいえ。宿題は、出せましたか？じゃあ、いっしょに、帰りましょう。",
+    "romaji": "Ie ie. Shukudai wa, dasemashita ka? Jaa, issho ni, kaerimashou."
+  },
+  "sl14.p4_form_ken": {
+    "en": "Haha, that sounds just like a shop greeting. “Matte kurete, arigatou” is fine.",
+    "ru": "Ха-ха, прямо как приветствие в магазине. Достаточно «маттэ курэтэ, аригато».",
+    "zh": "哈哈，简直像店里的问候语。说「待ってくれて、ありがとう」就行。",
+    "ja": "あはは、まるで、お店のあいさつみたいです。「待ってくれて、ありがとう」で、いいですよ。",
+    "romaji": "Ahaha, marude, omise no aisatsu mitai desu. 'Matte kurete, arigatou' de, ii desu yo."
+  },
+  "sl14.p4_mis_tanaka": {
+    "en": "Close. The “te” form of “matsu” is “matte.” You don't add “te” to “matta.” You say “matte kurete, arigatou gozaimasu.”",
+    "ru": "Почти. Форма «тэ» от «мацу» — «маттэ». К «матта» «тэ» не добавляют. Говорят «маттэ курэтэ, аригато годзаимас».",
+    "zh": "很接近。「待つ」的「て」形是「待って」。不能在「待った」后面加「て」。说「待ってくれて、ありがとうございます」。",
+    "ja": "惜しいです。「待つ」の「て」の形は、「待って」です。「待った」に「て」をつけません。「待ってくれて、ありがとうございます」と言います。",
+    "romaji": "Oshii desu. 'Matsu' no 'te' no katachi wa, 'matte' desu. 'Matta' ni 'te' o tsukemasen. 'Matte kurete, arigatou gozaimasu' to iimasu."
+  },
+  "sl14.p4_mis_retry": {
+    "en": "Oh, thank you for waiting.",
+    "ru": "Ой, спасибо, что подождали.",
+    "zh": "啊，谢谢你等我。",
+    "ja": "あっ、待ってくれて、ありがとうございます。",
+    "romaji": "A, matte kurete, arigatou gozaimasu."
+  },
+  "sl14.p4_mis_relief": {
+    "en": "You're welcome. Let's go home together.",
+    "ru": "Пожалуйста. Пойдёмте домой вместе.",
+    "zh": "不客气。我们一起回家吧。",
+    "ja": "はい、どういたしまして。いっしょに、帰りましょう。",
+    "romaji": "Hai, douitashimashite. Issho ni, kaerimashou."
+  },
+  "sl14.p4_own_mei": {
+    "en": "I'm happy to see you too. Let's go home together today.",
+    "ru": "Я тоже рада вас видеть. Сегодня пойдём домой вместе.",
+    "zh": "我也很高兴见到你。今天我们一起回家吧。",
+    "ja": "わたしも、会えて、うれしいです。今日は、いっしょに、帰りましょう。",
+    "romaji": "Watashi mo, aete, ureshii desu. Kyou wa, issho ni, kaerimashou."
+  },
+  "sl14.p4_min_yuki": {
+    "en": "Your feeling comes across. Try saying it in full: “matte kurete, arigatou gozaimasu.”",
+    "ru": "Ваше чувство понятно. Скажите целиком: «маттэ курэтэ, аригато годзаимас».",
+    "zh": "你的心意能传达。试着连起来说：「待ってくれて、ありがとうございます」。",
+    "ja": "気持ちは、伝わりますよ。「待ってくれて、ありがとうございます」と、続けて、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu yo. 'Matte kurete, arigatou gozaimasu' to, tsuzukete, itte mimashou."
+  },
+  "sl14.talk_open": {
+    "en": "Now let's talk. Out of today's four forms, which one is the easiest to use?",
+    "ru": "Теперь поговорим. Какая из сегодняшних четырёх форм кажется вам самой удобной?",
+    "zh": "现在来聊聊。今天这四个句型里，你觉得哪一个最好用？",
+    "ja": "では、話しましょう。今日の四つの形の中で、いちばん使いやすい形は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no yottsu no katachi no naka de, ichiban tsukaiyasui katachi wa, dore desu ka?"
+  },
+  "sl14.talk_mei": {
+    "en": "For me, it's “~ te, arigatou gozaimasu.” The feeling of gratitude comes across right away.",
+    "ru": "Для меня это «~ тэ, аригато годзаимас». Чувство благодарности передаётся сразу.",
+    "zh": "我觉得是「〜て、ありがとうございます」。感谢的心情马上就能传达出去。",
+    "ja": "わたしは、「〜て、ありがとうございます」です。ありがとうの気持ちが、すぐ、伝わります。",
+    "romaji": "Watashi wa, '~ te, arigatou gozaimasu' desu. Arigatou no kimochi ga, sugu, tsutawarimasu."
+  },
+  "sl14.talk_ken": {
+    "en": "For me, it's “node.” The form where “na” is added is still a little difficult.",
+    "ru": "Для меня это «нодэ». Форма с добавлением «на» пока немного сложна.",
+    "zh": "我觉得是「ので」。加「な」的形式还有点难。",
+    "ja": "ぼくは、「ので」です。「な」がつく形が、まだ少し、むずかしいです。",
+    "romaji": "Boku wa, 'node' desu. 'Na' ga tsuku katachi ga, mada sukoshi, muzukashii desu."
+  },
+  "sl14.talk_yuki": {
+    "en": "For me, it's “doushite desu ka?” Just by asking that one phrase, you understand the other person better.",
+    "ru": "Для меня это «доситэ дэс ка?». Просто задав эту фразу, лучше понимаешь собеседника.",
+    "zh": "我觉得是「どうしてですか？」。只要问这一句，就能更了解对方。",
+    "ja": "わたしは、「どうしてですか？」です。ひとこと、聞くだけで、相手のことが、もっと分かります。",
+    "romaji": "Watashi wa, 'doushite desu ka?' desu. Hitokoto, kiku dake de, aite no koto ga, motto wakarimasu."
+  },
+  "sl14.talk_tanaka": {
+    "en": "Lovely. When you can give reasons, your feelings reach the other person much more closely.",
+    "ru": "Прекрасно. Когда вы можете называть причины, ваши чувства доходят до собеседника гораздо ближе.",
+    "zh": "真好。会说明理由之后，自己的心情就能更贴近地传达给对方。",
+    "ja": "すてきですね。理由を、言えるようになると、自分の気持ちが、相手に、ぐっと近く伝わります。",
+    "romaji": "Suteki desu ne. Riyuu o, ieru you ni naru to, jibun no kimochi ga, aite ni, gutto chikaku tsutawarimasu."
+  },
+  "sl14.talk_player": {
+    "en": "(Because I was late, since it's raining, because I have one, thanks for waiting. When I can use words for reasons, both my apologies and my thanks carry more heart. Next, I'll study forms for talking about experiences.)",
+    "ru": "(Потому что опоздал, так как идёт дождь, потому что есть, спасибо, что подождали. Когда умеешь использовать слова для причин, и извинения, и благодарность звучат искреннее. Дальше изучу формы для рассказа об опыте.)",
+    "zh": "（因为迟到了、因为下雨、因为有、谢谢你等我。会用说明理由的词，道歉和道谢都更有诚意了。接下来，我要学习谈论经历的句型。）",
+    "ja": "（遅れましたから、雨なので、あるからです、待ってくれて。理由の言葉が使えると、謝る言葉も、感謝の言葉も、心がこもる。次は、経験を話す形を、勉強してみよう。）",
+    "romaji": "(Okuremashita kara, ame na node, aru kara desu, matte kurete. Riyuu no kotoba ga tsukaeru to, ayamaru kotoba mo, kansha no kotoba mo, kokoro ga komoru. Tsugi wa, keiken o hanasu katachi o, benkyou shite miyou.)"
+  },
+  "sl14.talk_close": {
+    "en": "Good lesson, everyone. In the next class, let's practice talking about experiences with “~ ta koto ga arimasu.”",
+    "ru": "Хороший урок, все. На следующем уроке потренируем рассказ об опыте с помощью «~ та кото га аримас».",
+    "zh": "各位，这节课很棒。下节课我们用「〜たことがあります」来练习谈论经历。",
+    "ja": "みなさん、いいレッスンでした。次の授業では、「〜たことがあります」で、経験を話す練習をしましょう。",
+    "romaji": "Minasan, ii ressun deshita. Tsugi no jugyou de wa, '~ ta koto ga arimasu' de, keiken o hanasu renshuu o shimashou."
+  },
+  "sl14.complete": {
+    "en": "End of Sentence Lesson 14.",
+    "ru": "Конец урока предложений 14.",
+    "zh": "句型课 14 结束。",
+    "ja": "文型レッスン14、おわり。",
+    "romaji": "Bunkei ressun juuyon, owari."
+  }
+}

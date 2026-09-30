@@ -1,0 +1,688 @@
+{
+  "sl17.title": {
+    "en": "Passing On What You See and Hear: ~ sou desu, ~ you desu",
+    "ru": "Передаём увиденное и услышанное: ~ со: дэс, ~ ё: дэс",
+    "zh": "转述所见所闻：〜そうです・〜ようです",
+    "ja": "見た・聞いたことを伝える：〜そうです・〜ようです",
+    "romaji": "Mita, kiita koto o tsutaeru: ~ sou desu, ~ you desu"
+  },
+  "sl17.subtitle": {
+    "en": "The Buzz About a New Bakery",
+    "ru": "Слухи о новой пекарне",
+    "zh": "关于新面包店的传闻",
+    "ja": "新しいパン屋さんのうわさ",
+    "romaji": "Atarashii panyasan no uwasa"
+  },
+  "sl17.description": {
+    "en": "In front of a new bakery, talk about what you see and hear using four patterns: “oishisou desu,” “ninki da sou desu,” “yasumi no you desu,” and “nyuusu ni yoru to.”",
+    "ru": "Перед новой пекарней расскажите об увиденном и услышанном, используя четыре формы: «оисисо: дэс», «нинки да со: дэс», «ясуми но ё: дэс» и «ню:су ни ёру то».",
+    "zh": "在新面包店前，用四种句型谈论所见所闻：「おいしそうです」「人気だそうです」「休みのようです」「ニュースによると」。",
+    "ja": "新しいパン屋さんの前で、「おいしそうです」「人気だそうです」「休みのようです」「ニュースによると」の四つの形を使って、見たことや聞いたことを話します。",
+    "romaji": "Atarashii panyasan no mae de, 'oishisou desu' 'ninki da sou desu' 'yasumi no you desu' 'nyuusu ni yoru to' no yottsu no katachi o tsukatte, mita koto ya kiita koto o hanashimasu."
+  },
+  "sl17.pattern.1": {
+    "en": "looks ~ (based on appearance)",
+    "ru": "выглядит ~ (по внешнему виду)",
+    "zh": "看起来〜（根据外观）",
+    "ja": "〜そうです（見た様子）",
+    "romaji": "~ sou desu (how it looks)"
+  },
+  "sl17.pattern.2": {
+    "en": "I hear that ~",
+    "ru": "говорят, что ~",
+    "zh": "听说〜",
+    "ja": "〜そうです（聞いた話）",
+    "romaji": "~ sou desu (hearsay)"
+  },
+  "sl17.pattern.3": {
+    "en": "it seems that ~ (based on evidence)",
+    "ru": "похоже, что ~ (на основании признаков)",
+    "zh": "似乎〜（根据迹象判断）",
+    "ja": "〜ようです・〜みたいです",
+    "romaji": "~ you desu, ~ mitai desu"
+  },
+  "sl17.pattern.4": {
+    "en": "according to ~",
+    "ru": "согласно ~",
+    "zh": "据〜",
+    "ja": "〜によると",
+    "romaji": "~ ni yoru to"
+  },
+  "sl17.setup": {
+    "en": "A new bakery has opened near the school. Beautiful bread is lined up in the window. A few people have gathered in front of the shop.",
+    "ru": "Возле школы открылась новая пекарня. В витрине выстроились красивые булочки. Перед магазином собралось несколько человек.",
+    "zh": "学校附近开了一家新的面包店。橱窗里摆着漂亮的面包。店门前聚集了一些人。",
+    "ja": "学校の近くに、新しいパン屋さんが、できた。窓の中には、きれいなパンが、ならんでいる。店の前には、人が、少し集まっている。",
+    "romaji": "Gakkou no chikaku ni, atarashii panyasan ga, dekita. Mado no naka ni wa, kirei na pan ga, narande iru. Mise no mae ni wa, hito ga, sukoshi atsumatte iru."
+  },
+  "sl17.t_intro": {
+    "en": "Today's theme is words for conveying what you've seen and heard. Let's practice in front of the new bakery.",
+    "ru": "Тема сегодня — слова для передачи увиденного и услышанного. Давайте потренируемся перед новой пекарней.",
+    "zh": "今天的主题是转述所见所闻的用语。我们在新面包店前练习一下吧。",
+    "ja": "今日のテーマは、見たことや、聞いたことを、伝える言葉です。新しいパン屋さんの前で、練習してみましょう。",
+    "romaji": "Kyou no teema wa, mita koto ya, kiita koto o, tsutaeru kotoba desu. Atarashii panyasan no mae de, renshuu shite mimashou."
+  },
+  "sl17.s1_intro": {
+    "en": "To describe how something looks, use “~ sou desu.” Remove “masu” from verbs and “i” from i-adjectives, then add “sou.” For example, “oishisou desu” and “ame ga furisou desu.”",
+    "ru": "Чтобы описать, как что-то выглядит, используют «~ со: дэс». У глаголов убирают «мас», у i-прилагательных убирают «и» и добавляют «со:». Например, «оисисо: дэс» и «амэ га фурисо: дэс».",
+    "zh": "描述看起来的样子时，用「〜そうです」。动词去掉「ます」，い形容词去掉「い」，再加上「そう」。如「おいしそうです」「雨がふりそうです」。",
+    "ja": "見た様子を言うときは、「〜そうです」です。動詞は「ます」を取り、い形容詞は「い」を取って、「そう」をつけます。「おいしそうです」「雨がふりそうです」。",
+    "romaji": "Mita yousu o iu toki wa, '~ sou desu' desu. Doushi wa 'masu' o tori, i-keiyoushi wa 'i' o totte, 'sou' o tsukemasu. 'Oishisou desu' 'ame ga furisou desu'."
+  },
+  "sl17.s1_ex": {
+    "en": "This bread looks delicious. That cake looks expensive. That person looks well.",
+    "ru": "Этот хлеб выглядит вкусным. Тот торт выглядит дорогим. Тот человек выглядит бодрым.",
+    "zh": "这个面包看起来很好吃。那个蛋糕看起来很贵。那个人看起来很有精神。",
+    "ja": "このパンは、おいしそうです。あのケーキは、高そうです。あの人は、元気そうです。",
+    "romaji": "Kono pan wa, oishisou desu. Ano keeki wa, takasou desu. Ano hito wa, genki sou desu."
+  },
+  "sl17.s1_q1": {
+    "en": "Isn't it “oishii sou desu”?",
+    "ru": "Разве не «оисий со: дэс»?",
+    "zh": "不是「おいしいそうです」吗？",
+    "ja": "「おいしいそうです」ではありませんか？",
+    "romaji": "'Oishii sou desu' de wa arimasen ka?"
+  },
+  "sl17.s1_a1": {
+    "en": "No, i-adjectives drop the “i.” It's “oishisou.” “Oishii sou desu” changes the meaning. We'll study that later.",
+    "ru": "Нет, у i-прилагательных «и» убирают. Получается «оисисо:». «Оисий со: дэс» меняет смысл. Мы изучим это позже.",
+    "zh": "不是。い形容词要去掉「い」。说「おいしそう」。「おいしいそうです」的意思会变。以后再学。",
+    "ja": "いいえ、い形容詞は、「い」を取ります。「おいしそう」です。「おいしいそうです」は、意味が、変わってしまいます。あとで、勉強しますよ。",
+    "romaji": "Iie, i-keiyoushi wa, 'i' o torimasu. 'Oishisou' desu. 'Oishii sou desu' wa, imi ga, kawatte shimaimasu. Ato de, benkyou shimasu yo."
+  },
+  "sl17.s1_q2": {
+    "en": "What happens with “ii”?",
+    "ru": "Что происходит с «ии»?",
+    "zh": "「いい」会变成什么？",
+    "ja": "「いい」は、どうなりますか？",
+    "romaji": "'Ii' wa, dou narimasu ka?"
+  },
+  "sl17.s1_a2": {
+    "en": "“Ii” is special. You say “yosasou.” For the negative, use “nasasou,” as in “oishikunasasou.”",
+    "ru": "«Ии» — особый случай. Говорят «ёсасо:». Для отрицания используют «насасо:», например «оисикунасасо:».",
+    "zh": "「いい」是特殊的。说「よさそう」。否定用「なさそう」，如「おいしくなさそう」。",
+    "ja": "「いい」は、特別です。「よさそう」と言います。否定は、「おいしくなさそう」のように、「なさそう」を使います。",
+    "romaji": "'Ii' wa, tokubetsu desu. 'Yosasou' to iimasu. Hitei wa, 'oishikunasasou' no you ni, 'nasasou' o tsukaimasu."
+  },
+  "sl17.p1_prompt": {
+    "en": "There is a beautiful cream bun in the window. Looking at it, you think it looks delicious. What do you say to Ken?",
+    "ru": "В витрине лежит красивая булочка с кремом. Глядя на неё, вы подумали, что она выглядит вкусной. Что вы скажете Кену?",
+    "zh": "橱窗里有一个漂亮的奶油面包。你看着它，觉得看起来很好吃。你会对健说什么？",
+    "ja": "窓の中に、きれいなクリームパンが、あります。あなたは、それを見て、おいしそうだと、思いました。ケンさんに、何と言いますか？",
+    "romaji": "Mado no naka ni, kirei na kuriimu pan ga, arimasu. Anata wa, sore o mite, oishisou da to, omoimashita. Ken-san ni, nan to iimasu ka?"
+  },
+  "sl17.c1_natural": {
+    "en": "“This bread looks delicious!”",
+    "ru": "«Эта булочка выглядит вкусной!»",
+    "zh": "“这个面包看起来好好吃啊！”",
+    "ja": "「このパン、おいしそうですね！」",
+    "romaji": "'Kono pan, oishisou desu ne!'"
+  },
+  "sl17.c1_formal": {
+    "en": "“What a truly delicious-looking item it is.”",
+    "ru": "«Какое поистине аппетитное на вид изделие».",
+    "zh": "“真是一件看起来非常美味的东西呢。”",
+    "ja": "「実に、美味しそうな、お品でございますね。」",
+    "romaji": "'Jitsu ni, oishisou na, oshina de gozaimasu ne.'"
+  },
+  "sl17.c1_mistake": {
+    "en": "“I hear this bread is delicious!”",
+    "ru": "«Говорят, эта булочка вкусная!»",
+    "zh": "“这个面包，听说很好吃呢！”（想说“看起来”，却变成了“听说”）",
+    "ja": "「このパン、おいしいそうですね！」",
+    "romaji": "'Kono pan, oishii sou desu ne!'"
+  },
+  "sl17.c1_own": {
+    "en": "“This bread looks delicious! I'd like to try it.”",
+    "ru": "«Эта булочка выглядит вкусной! Хочу попробовать».",
+    "zh": "“这个面包看起来好好吃啊！我想尝尝。”",
+    "ja": "「このパン、おいしそうですね！食べてみたいです。」",
+    "romaji": "'Kono pan, oishisou desu ne! Tabete mitai desu.'"
+  },
+  "sl17.c1_min": {
+    "en": "“Bread... delicious... looks...”",
+    "ru": "«Булочка… вкусная… выглядит…»",
+    "zh": "“面包……好吃……看起来……”",
+    "ja": "「パン…おいしい…そう…」",
+    "romaji": "'Pan... oishii... sou...'"
+  },
+  "sl17.p1_nat_ken": {
+    "en": "You're right. I'm getting hungry too.",
+    "ru": "Правда. Я тоже проголодался.",
+    "zh": "真的呢。我也饿了。",
+    "ja": "本当ですね。ぼくも、おなかが、すいてきました。",
+    "romaji": "Hontou desu ne. Boku mo, onaka ga, suite kimashita."
+  },
+  "sl17.p1_form_mei": {
+    "en": "Ha, you sound like bakery staff. “Oishisou desu ne” is fine.",
+    "ru": "Ха-ха, как сотрудник пекарни. Достаточно «оисисо: дэс нэ».",
+    "zh": "呵呵，像面包店的人一样。说「おいしそうですね」就行。",
+    "ja": "ふふ、パン屋さんの人みたいです。「おいしそうですね」で、いいですよ。",
+    "romaji": "Fufu, panyasan no hito mitai desu. 'Oishisou desu ne' de, ii desu yo."
+  },
+  "sl17.p1_mis_tanaka": {
+    "en": "Close. “Oishii sou desu” means “I heard it's delicious.” To describe how it looks, drop the “i” and say “oishisou desu.”",
+    "ru": "Почти. «Оисий со: дэс» означает «я слышал, что вкусно». Чтобы описать внешний вид, уберите «и» и скажите «оисисо: дэс».",
+    "zh": "很接近。「おいしいそうです」是“听说很好吃”的意思。描述看起来的样子时，要去掉「い」，说「おいしそうです」。",
+    "ja": "惜しいです。「おいしいそうです」は、「おいしいと聞きました」という意味です。見た様子を言うときは、「い」を取って、「おいしそうです」と言います。",
+    "romaji": "Oshii desu. 'Oishii sou desu' wa, 'oishii to kikimashita' to iu imi desu. Mita yousu o iu toki wa, 'i' o totte, 'oishisou desu' to iimasu."
+  },
+  "sl17.p1_mis_retry": {
+    "en": "Oh, this bread looks delicious!",
+    "ru": "Ой, эта булочка выглядит вкусной!",
+    "zh": "啊，这个面包看起来好好吃啊！",
+    "ja": "あっ、このパン、おいしそうですね！",
+    "romaji": "A, kono pan, oishisou desu ne!"
+  },
+  "sl17.p1_mis_relief": {
+    "en": "Yes, that's it. With the “i” dropped, it describes how it looks.",
+    "ru": "Да, именно так. Без «и» это стало описанием внешнего вида.",
+    "zh": "对，就是这个。去掉「い」，就变成了“看起来的样子”。",
+    "ja": "はい、それです。「い」を取って、見た様子になりました。",
+    "romaji": "Hai, sore desu. 'I' o totte, mita yousu ni narimashita."
+  },
+  "sl17.p1_own_ken": {
+    "en": "Then let's buy some together. Shall we get three?",
+    "ru": "Тогда купим вместе. Возьмём три?",
+    "zh": "那我们一起买吧。买三个怎么样？",
+    "ja": "じゃあ、いっしょに、買いましょう。三つ、買いますか？",
+    "romaji": "Jaa, issho ni, kaimashou. Mittsu, kaimasu ka?"
+  },
+  "sl17.p1_min_yuki": {
+    "en": "Your feeling comes across. Try putting it together: “oishisou desu ne.”",
+    "ru": "Ваше чувство понятно. Скажите слитно: «оисисо: дэс нэ».",
+    "zh": "你的心意能传达。试着连起来说：「おいしそうですね」。",
+    "ja": "気持ちは、伝わりますよ。「おいしそうですね」と、ひとつにして、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu yo. 'Oishisou desu ne' to, hitotsu ni shite, itte mimashou."
+  },
+  "sl17.y_ninki": {
+    "en": "I hear this bakery is very popular.",
+    "ru": "Говорят, эта пекарня очень популярна.",
+    "zh": "听说这家面包店非常受欢迎。",
+    "ja": "このパン屋さんは、とても、人気だそうですよ。",
+    "romaji": "Kono panyasan wa, totemo, ninki da sou desu yo."
+  },
+  "sl17.s2_intro": {
+    "en": "Yuki said “ninki da sou desu.” To pass on what you've heard, add “sou desu” to the plain form.",
+    "ru": "Юки сказала «нинки да со: дэс». Чтобы передать услышанное, к простой форме добавляют «со: дэс».",
+    "zh": "由纪说了「人気だそうです」。转述听来的事时，在「普通形」后面加上「そうです」。",
+    "ja": "由紀さんは、「人気だそうです」と言いました。聞いたことを、伝えるときは、「ふつうの形」に、「そうです」をつけます。",
+    "romaji": "Yuki-san wa, 'ninki da sou desu' to iimashita. Kiita koto o, tsutaeru toki wa, 'futsuu no katachi' ni, 'sou desu' o tsukemasu."
+  },
+  "sl17.s2_ex": {
+    "en": "I hear it's delicious. I hear he's coming. I hear it's rain. I hear it's quiet.",
+    "ru": "Говорят, вкусно. Говорят, придёт. Говорят, дождь. Говорят, тихо.",
+    "zh": "听说很好吃。听说他会来。听说是雨天。听说很安静。",
+    "ja": "おいしいそうです。来るそうです。雨だそうです。しずかだそうです。",
+    "romaji": "Oishii sou desu. Kuru sou desu. Ame da sou desu. Shizuka da sou desu."
+  },
+  "sl17.s2_q1": {
+    "en": "How are “oishisou desu” and “oishii sou desu” different?",
+    "ru": "Чем «оисисо: дэс» отличается от «оисий со: дэс»?",
+    "zh": "「おいしそうです」和「おいしいそうです」有什么不同？",
+    "ja": "「おいしそうです」と「おいしいそうです」は、どうちがいますか？",
+    "romaji": "'Oishisou desu' to 'oishii sou desu' wa, dou chigaimasu ka?"
+  },
+  "sl17.s2_a1": {
+    "en": "“Oishisou desu” is how it looks. “Oishii sou desu” is what you heard from someone. Just a small change in form makes the meaning completely different.",
+    "ru": "«Оисисо: дэс» — это внешний вид. «Оисий со: дэс» — это услышанное от кого-то. Небольшое изменение формы полностью меняет смысл.",
+    "zh": "「おいしそうです」是看起来的样子。「おいしいそうです」是从别人那里听来的话。形式只是稍微不同，意思却完全不一样。",
+    "ja": "「おいしそうです」は、見た様子です。「おいしいそうです」は、人から聞いた話です。形が、少し変わるだけで、意味が、ぜんぜんちがいます。",
+    "romaji": "'Oishisou desu' wa, mita yousu desu. 'Oishii sou desu' wa, hito kara kiita hanashi desu. Katachi ga, sukoshi kawaru dake de, imi ga, zenzen chigaimasu."
+  },
+  "sl17.s2_q2": {
+    "en": "What do you do with na-adjectives and nouns?",
+    "ru": "Что делать с na-прилагательными и существительными?",
+    "zh": "な形容词和名词该怎么办？",
+    "ja": "な形容詞と、名詞は、どうしますか？",
+    "romaji": "'Na-keiyoushi' to, meishi wa, dou shimasu ka?"
+  },
+  "sl17.s2_a2": {
+    "en": "You insert “da”: “ninki da sou desu,” “ame da sou desu.” You don't say “ninki na sou desu.” In conversation with friends, “~ tte” is also often used, as in “ninki datte.”",
+    "ru": "Вставляют «да»: «нинки да со: дэс», «амэ да со: дэс». Не говорят «нинки на со: дэс». В разговоре с друзьями часто используют и «~ ттэ»: «нинки датте».",
+    "zh": "要加上「だ」：「人気だそうです」「雨だそうです」。不说「人気なそうです」。和朋友聊天时，也常用「〜って」，如「人気だって」。",
+    "ja": "「だ」を入れます。「人気だそうです」「雨だそうです」。「人気なそうです」とは、言いません。友達との会話では、「〜って」も、よく使います。「人気だって」。",
+    "romaji": "'Da' o iremasu. 'Ninki da sou desu' 'ame da sou desu'. 'Ninki na sou desu' to wa, iimasen. Tomodachi to no kaiwa de wa, '~ tte' mo, yoku tsukaimasu. 'Ninki datte'."
+  },
+  "sl17.p2_prompt": {
+    "en": "Yuki said “ninki da sou desu yo.” You want to pass that on to Ken. What do you say?",
+    "ru": "Юки сказала: «нинки да со: дэс ё». Вы хотите передать это Кену. Что вы скажете?",
+    "zh": "由纪说了「人気だそうですよ」。你想把这件事转告健。你会怎么说？",
+    "ja": "由紀さんが、「人気だそうですよ」と言いました。あなたは、それを、ケンさんに伝えたいです。何と言いますか？",
+    "romaji": "Yuki-san ga, 'ninki da sou desu yo' to iimashita. Anata wa, sore o, Ken-san ni tsutaetai desu. Nan to iimasu ka?"
+  },
+  "sl17.c2_natural": {
+    "en": "“I hear this bakery is popular.”",
+    "ru": "«Говорят, эта пекарня популярна».",
+    "zh": "“听说这家面包店很受欢迎。”",
+    "ja": "「このパン屋さんは、人気だそうです。」",
+    "romaji": "'Kono panyasan wa, ninki da sou desu.'"
+  },
+  "sl17.c2_formal": {
+    "en": "“I have heard that this bakery enjoys tremendous popularity.”",
+    "ru": "«Я слышал, что эта пекарня пользуется огромной популярностью».",
+    "zh": "“据说这家面包店颇受欢迎，我有所耳闻。”",
+    "ja": "「こちらのパン屋は、大変な人気を、博していると、うかがっております。」",
+    "romaji": "'Kochira no panya wa, taihen na ninki o, hakushite iru to, ukagatte orimasu.'"
+  },
+  "sl17.c2_mistake": {
+    "en": "“I hear this bakery is popular (na).”",
+    "ru": "«Говорят, эта пекарня популярна (на)».",
+    "zh": "“听说这家面包店人気な。”（不该用な）",
+    "ja": "「このパン屋さんは、人気なそうです。」",
+    "romaji": "'Kono panyasan wa, ninki na sou desu.'"
+  },
+  "sl17.c2_own": {
+    "en": "“I hear this bakery is popular. People are lining up, aren't they.”",
+    "ru": "«Говорят, эта пекарня популярна. Люди ведь выстраиваются в очередь».",
+    "zh": "“听说这家面包店很受欢迎。人们都在排队呢。”",
+    "ja": "「このパン屋さんは、人気だそうです。人が、並んでいますね。」",
+    "romaji": "'Kono panyasan wa, ninki da sou desu. Hito ga, narande imasu ne.'"
+  },
+  "sl17.c2_min": {
+    "en": "“Popular... I hear...”",
+    "ru": "«Популярна… говорят…»",
+    "zh": "“受欢迎……听说……”",
+    "ja": "「人気…そう…です…」",
+    "romaji": "'Ninki... sou... desu...'"
+  },
+  "sl17.p2_nat_ken": {
+    "en": "Is that so. Then let's get in line quickly.",
+    "ru": "Вот как. Тогда быстрее встанем в очередь.",
+    "zh": "是这样吗。那我们快去排队吧。",
+    "ja": "そうなんですか。じゃあ、早く、並びましょう。",
+    "romaji": "Sou nan desu ka. Jaa, hayaku, narabimashou."
+  },
+  "sl17.p2_form_yuki": {
+    "en": "Ha, that's far too difficult. “Ninki da sou desu” is plenty.",
+    "ru": "Ха-ха, слишком сложно. Достаточно «нинки да со: дэс».",
+    "zh": "呵呵，太难了。说「人気だそうです」就足够了。",
+    "ja": "ふふ、むずかしすぎます。「人気だそうです」で、じゅうぶんですよ。",
+    "romaji": "Fufu, muzukashisugimasu. 'Ninki da sou desu' de, juubun desu yo."
+  },
+  "sl17.p2_mis_tanaka": {
+    "en": "Close. When passing on what you've heard, insert “da” after nouns and na-adjectives. It's “ninki da sou desu.” You don't say “ninki na sou desu.”",
+    "ru": "Почти. Когда передают услышанное, после существительных и na-прилагательных вставляют «да». Получается «нинки да со: дэс». Не говорят «нинки на со: дэс».",
+    "zh": "很接近。转述听来的话时，名词和な形容词后面要加「だ」。说「人気だそうです」。不说「人気なそうです」。",
+    "ja": "惜しいです。聞いた話を伝えるときは、名詞と、な形容詞に、「だ」を入れます。「人気だそうです」です。「人気なそうです」とは、言いません。",
+    "romaji": "Oshii desu. Kiita hanashi o tsutaeru toki wa, meishi to, na-keiyoushi ni, 'da' o iremasu. 'Ninki da sou desu' desu. 'Ninki na sou desu' to wa, iimasen."
+  },
+  "sl17.p2_mis_retry": {
+    "en": "Oh, I hear this bakery is popular.",
+    "ru": "Ой, говорят, эта пекарня популярна.",
+    "zh": "啊，听说这家面包店很受欢迎。",
+    "ja": "あっ、このパン屋さんは、人気だそうです。",
+    "romaji": "A, kono panyasan wa, ninki da sou desu."
+  },
+  "sl17.p2_mis_relief": {
+    "en": "Yes, that's it. With “da” added, it becomes hearsay.",
+    "ru": "Да, именно так. С добавлением «да» это стало услышанным.",
+    "zh": "对，就是这个。加上「だ」，就变成了听来的话。",
+    "ja": "はい、それです。「だ」が入って、聞いた話になりました。",
+    "romaji": "Hai, sore desu. 'Da' ga haitte, kiita hanashi ni narimashita."
+  },
+  "sl17.p2_own_ken": {
+    "en": "You're right. Look, everyone is waiting happily.",
+    "ru": "Правда. Смотрите, все с радостью ждут.",
+    "zh": "真的呢。你看，大家都很开心地等着。",
+    "ja": "本当ですね。ほら、みんな、楽しそうに、待っていますよ。",
+    "romaji": "Hontou desu ne. Hora, minna, tanoshisou ni, matte imasu yo."
+  },
+  "sl17.p2_min_mei": {
+    "en": "I understand. Try saying it through: “ninki da sou desu.”",
+    "ru": "Понимаю. Скажите слитно: «нинки да со: дэс».",
+    "zh": "我明白。试着连起来说：「人気だそうです」。",
+    "ja": "分かりますよ。「人気だそうです」と、続けて、言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Ninki da sou desu' to, tsuzukete, itte mimashou."
+  },
+  "sl17.shutter": {
+    "en": "Everyone arrives in front of the shop. But they stop at the door. The shutter is closed. Nothing is written on the door.",
+    "ru": "Все подошли к магазину. Но остановились перед дверью. Роллет закрыт. На двери ничего не написано.",
+    "zh": "大家来到了店门前。可是在门前停住了。卷帘门是关着的。门上什么也没写。",
+    "ja": "みんなは、お店の前に着いた。でも、ドアの前で、立ち止まった。シャッターが、閉まっている。ドアには、何も書いてない。",
+    "romaji": "Minna wa, omise no mae ni tsuita. Demo, doa no mae de, tachidomatta. Shattaa ga, shimatte iru. Doa ni wa, nani mo kaite nai."
+  },
+  "sl17.s3_intro": {
+    "en": "When you make a judgment using what you've seen as a clue, use “~ you desu.” “Shattaa ga, shimatte imasu kara, kyou wa, yasumi no you desu.”",
+    "ru": "Когда делают вывод, опираясь на увиденное, используют «~ ё: дэс». «Сяттаа га, симатте имас кара, кё: ва, ясуми но ё: дэс».",
+    "zh": "以所见之事为线索作判断时，用「〜ようです」。「シャッターが、閉まっていますから、今日は、休みのようです」。",
+    "ja": "見たことを、手がかりにして、判断するときは、「〜ようです」です。「シャッターが、閉まっていますから、今日は、休みのようです」。",
+    "romaji": "Mita koto o, tegakari ni shite, handan suru toki wa, '~ you desu' desu. 'Shattaa ga, shimatte imasu kara, kyou wa, yasumi no you desu'."
+  },
+  "sl17.s3_form": {
+    "en": "Before it, use the plain form. For nouns, insert “no”: “yasumi no you desu.” For na-adjectives, use “na”: “shizuka na you desu.” In conversation with friends, “~ mitai desu” is used.",
+    "ru": "Перед ним используют простую форму. У существительных вставляют «но»: «ясуми но ё: дэс». У na-прилагательных — «на»: «сидзука на ё: дэс». В разговоре с друзьями используют «~ митай дэс».",
+    "zh": "前面用普通形。名词要加「の」：「休みのようです」。な形容词要加「な」：「しずかなようです」。和朋友聊天时，用「〜みたいです」。",
+    "ja": "前は、ふつうの形です。名詞は、「の」を入れます。「休みのようです」。な形容詞は、「な」です。「しずかなようです」。友達との会話では、「〜みたいです」を使います。",
+    "romaji": "Mae wa, futsuu no katachi desu. Meishi wa, 'no' o iremasu. 'Yasumi no you desu'. Na-keiyoushi wa, 'na' desu. 'Shizuka na you desu'. Tomodachi to no kaiwa de wa, '~ mitai desu' o tsukaimasu."
+  },
+  "sl17.s3_q1": {
+    "en": "How are “you desu” and “sou desu” different?",
+    "ru": "Чем «ё: дэс» отличается от «со: дэс»?",
+    "zh": "「ようです」和「そうです」有什么不同？",
+    "ja": "「ようです」と「そうです」は、どうちがいますか？",
+    "romaji": "'You desu' to 'sou desu' wa, dou chigaimasu ka?"
+  },
+  "sl17.s3_a1": {
+    "en": "“Sou desu” is a first impression based on appearance. “You desu” is a judgment reasoned from several clues. “You desu” has a clearer basis.",
+    "ru": "«Со: дэс» — первое впечатление по внешнему виду. «Ё: дэс» — вывод, сделанный на основании нескольких признаков. У «ё: дэс» основание яснее.",
+    "zh": "「そうです」是根据外表的第一印象。「ようです」是根据若干线索思考得出的判断。「ようです」的依据更明确。",
+    "ja": "「そうです」は、見た目の、第一印象です。「ようです」は、いくつかの手がかりから、考えた判断です。「ようです」のほうが、根拠が、はっきりしています。",
+    "romaji": "'Sou desu' wa, mitame no, daiichi inshou desu. 'You desu' wa, ikutsu ka no tegakari kara, kangaeta handan desu. 'You desu' no hou ga, konkyo ga, hakkiri shite imasu."
+  },
+  "sl17.s3_q2": {
+    "en": "When do you use “mitai desu”?",
+    "ru": "Когда используют «митай дэс»?",
+    "zh": "「みたいです」什么时候用？",
+    "ja": "「みたいです」は、いつ使いますか？",
+    "romaji": "'Mitai desu' wa, itsu tsukaimasu ka?"
+  },
+  "sl17.s3_a2": {
+    "en": "It is often used in casual conversation with friends. With nouns, you attach it directly without inserting “no,” as in “yasumi mitai desu.”",
+    "ru": "Его часто используют в непринуждённом разговоре с друзьями. К существительным его присоединяют напрямую, без «но», например «ясуми митай дэс».",
+    "zh": "常用于和朋友的随意聊天。用于名词时，不加「の」，直接接上，如「休みみたいです」。",
+    "ja": "友達との、くだけた会話で、よく使います。「休みみたいです」のように、名詞には、「の」を入れずに、そのまま、つけます。",
+    "romaji": "Tomodachi to no, kudaketa kaiwa de, yoku tsukaimasu. 'Yasumi mitai desu' no you ni, meishi ni wa, 'no' o irezu ni, sono mama, tsukemasu."
+  },
+  "sl17.k_ask": {
+    "en": "Why is the shop closed?",
+    "ru": "Почему магазин закрыт?",
+    "zh": "为什么店关着？",
+    "ja": "どうして、お店は、閉まっているんですか？",
+    "romaji": "Doushite, omise wa, shimatte iru n desu ka?"
+  },
+  "sl17.p3_prompt": {
+    "en": "Ken asked. The shutter is closed. Nothing is written on the door. You think it is closed today. How do you answer?",
+    "ru": "Кен спросил. Роллет закрыт. На двери ничего не написано. Вы думаете, что сегодня выходной. Что вы ответите?",
+    "zh": "健问了。卷帘门关着。门上也什么都没写。你认为今天休息。你会怎么回答？",
+    "ja": "ケンさんが、聞きました。シャッターが、閉まっています。ドアにも、何も書いてありません。今日は、お休みだと思います。何と答えますか？",
+    "romaji": "Ken-san ga, kikimashita. Shattaa ga, shimatte imasu. Doa ni mo, nani mo kaite arimasen. Kyou wa, oyasumi da to omoimasu. Nan to kotaemasu ka?"
+  },
+  "sl17.c3_natural": {
+    "en": "“The shutter is closed, so it seems to be closed today.”",
+    "ru": "«Роллет закрыт, поэтому, похоже, сегодня выходной».",
+    "zh": "“卷帘门关着，所以今天似乎休息。”",
+    "ja": "「シャッターが、閉まっていますから、今日は、休みのようです。」",
+    "romaji": "'Shattaa ga, shimatte imasu kara, kyou wa, yasumi no you desu.'"
+  },
+  "sl17.c3_formal": {
+    "en": "“As the shutter is lowered, I humbly surmise that they are closed today.”",
+    "ru": "«Поскольку роллет опущен, смею предположить, что сегодня закрыто».",
+    "zh": "“由于卷帘门已放下，我推测今日休业。”",
+    "ja": "「シャッターが降りておりますゆえ、本日は、休業かと拝察いたします。」",
+    "romaji": "'Shattaa ga orite orimasu yue, honjitsu wa, kyuugyou ka to haisatsu itashimasu.'"
+  },
+  "sl17.c3_mistake": {
+    "en": "“The shutter is closed, so today seems yasumi-you.”",
+    "ru": "«Роллет закрыт, поэтому сегодня, похоже, ясуми-ё:».",
+    "zh": "“卷帘门关着，所以今天休みようです。”（名词后漏掉了の）",
+    "ja": "「シャッターが、閉まっていますから、今日は、休みようです。」",
+    "romaji": "'Shattaa ga, shimatte imasu kara, kyou wa, yasumi you desu.'"
+  },
+  "sl17.c3_own": {
+    "en": "“The shutter is closed, so it seems to be closed today. What a shame.”",
+    "ru": "«Роллет закрыт, поэтому, похоже, сегодня выходной. Как жаль».",
+    "zh": "“卷帘门关着，所以今天似乎休息。真遗憾啊。”",
+    "ja": "「シャッターが、閉まっていますから、今日は、休みのようです。残念ですね。」",
+    "romaji": "'Shattaa ga, shimatte imasu kara, kyou wa, yasumi no you desu. Zannen desu ne.'"
+  },
+  "sl17.c3_min": {
+    "en": "“Shutter... closed... holiday... seems”",
+    "ru": "«Роллет… закрыт… выходной… похоже»",
+    "zh": "“卷帘门……关着……休息……似乎”",
+    "ja": "「シャッター…閉まって…休み…ようです」",
+    "romaji": "'Shattaa... shimatte... yasumi... you desu'"
+  },
+  "sl17.p3_nat_ken": {
+    "en": "Oh, you're right. Then let's come again tomorrow.",
+    "ru": "Ах, верно. Тогда придём снова завтра.",
+    "zh": "啊，真的呢。那我们明天再来吧。",
+    "ja": "あ、本当だ。じゃあ、明日、また、来ましょう。",
+    "romaji": "A, hontou da. Jaa, ashita, mata, kimashou."
+  },
+  "sl17.p3_form_mei": {
+    "en": "Ha, you sound like a detective. “Yasumi no you desu” is plenty.",
+    "ru": "Ха-ха, как детектив. Достаточно «ясуми но ё: дэс».",
+    "zh": "呵呵，像侦探一样。说「休みのようです」就足够了。",
+    "ja": "ふふ、探偵みたいです。「休みのようです」で、じゅうぶんですよ。",
+    "romaji": "Fufu, tantei mitai desu. 'Yasumi no you desu' de, juubun desu yo."
+  },
+  "sl17.p3_mis_tanaka": {
+    "en": "Close. After a noun, you need “no.” You say “yasumi no you desu.” You don't say “yasumi you desu.”",
+    "ru": "Почти. После существительного нужно «но». Говорят «ясуми но ё: дэс». Не говорят «ясуми ё: дэс».",
+    "zh": "很接近。名词后面需要「の」。说「休みのようです」。不说「休みようです」。",
+    "ja": "惜しいです。名詞の後ろには、「の」が必要です。「休みのようです」と言います。「休みようです」とは、言いません。",
+    "romaji": "Oshii desu. Meishi no ushiro ni wa, 'no' ga hitsuyou desu. 'Yasumi no you desu' to iimasu. 'Yasumi you desu' to wa, iimasen."
+  },
+  "sl17.p3_mis_retry": {
+    "en": "Oh, it seems to be closed today.",
+    "ru": "Ой, похоже, сегодня выходной.",
+    "zh": "啊，今天似乎休息。",
+    "ja": "あっ、今日は、休みのようです。",
+    "romaji": "A, kyou wa, yasumi no you desu."
+  },
+  "sl17.p3_mis_relief": {
+    "en": "Yes, that's it. With “no” added, it's the correct form.",
+    "ru": "Да, именно так. С добавлением «но» получилась правильная форма.",
+    "zh": "对，就是这个。加上「の」，就是正确的形式了。",
+    "ja": "はい、それです。「の」が入って、正しい形になりました。",
+    "romaji": "Hai, sore desu. 'No' ga haitte, tadashii katachi ni narimashita."
+  },
+  "sl17.p3_own_ken": {
+    "en": "It really is a shame. But let's go to the tea house next door.",
+    "ru": "Действительно жаль. Но давайте зайдём в чайный домик по соседству.",
+    "zh": "真的很遗憾。不过我们去隔壁的茶屋吧。",
+    "ja": "本当に、残念です。でも、となりの、お茶屋さんに、行きましょう。",
+    "romaji": "Hontou ni, zannen desu. Demo, tonari no, ochayasan ni, ikimashou."
+  },
+  "sl17.p3_min_yuki": {
+    "en": "Your thought comes across. Try a full sentence: “kyou wa, yasumi no you desu.”",
+    "ru": "Ваша мысль понятна. Скажите целым предложением: «кё: ва, ясуми но ё: дэс».",
+    "zh": "你的想法能传达。试着说完整的句子：「今日は、休みのようです」。",
+    "ja": "考えは、伝わりますよ。「今日は、休みのようです」と、文で言ってみましょう。",
+    "romaji": "Kangae wa, tsutawarimasu yo. 'Kyou wa, yasumi no you desu' to, bun de itte mimashou."
+  },
+  "sl17.s4_intro": {
+    "en": "The last is a way of stating the source of information. “~ ni yoru to” means “according to what ~ says.” It is based on things like the news, books, or rumors.",
+    "ru": "Последнее — способ указать источник информации. «~ ни ёру то» означает «согласно тому, что говорит ~». Основывается на новостях, книгах, слухах и подобном.",
+    "zh": "最后是说明信息来源的说法。「〜によると」是“据〜所说”的意思。以新闻、书籍、传闻等为依据。",
+    "ja": "最後は、情報のもとを、伝える言い方です。「〜によると」は、「〜が言っていることでは」という意味です。ニュースや、本、うわさなどを、もとにします。",
+    "romaji": "Saigo wa, jouhou no moto o, tsutaeru iikata desu. '~ ni yoru to' wa, '~ ga itte iru koto de wa' to iu imi desu. Nyuusu ya, hon, uwasa nado o, moto ni shimasu."
+  },
+  "sl17.s4_ex": {
+    "en": "According to the news, it is going to rain tomorrow. According to Yuki, this shop is closed on Fridays.",
+    "ru": "Согласно новостям, завтра будет дождь. Согласно словам Юки, этот магазин закрыт по пятницам.",
+    "zh": "据新闻说，明天会下雨。据由纪说，这家店星期五休息。",
+    "ja": "ニュースによると、あしたは、雨だそうです。由紀さんの話によると、この店は、金曜日が、休みだそうです。",
+    "romaji": "Nyuusu ni yoru to, ashita wa, ame da sou desu. Yuki-san no hanashi ni yoru to, kono mise wa, kin'youbi ga, yasumi da sou desu."
+  },
+  "sl17.s4_form": {
+    "en": "After “~ ni yoru to,” the sentence usually ends with “~ sou desu,” because it's something you heard. Let's remember them as a set: “~ ni yoru to, ~ sou desu.”",
+    "ru": "После «~ ни ёру то» предложение обычно заканчивается на «~ со: дэс», потому что это услышанное. Запомним их как пару: «~ ни ёру то, ~ со: дэс».",
+    "zh": "「〜によると」后面通常以「〜そうです」结尾，因为这是听来的话。我们把它们作为一套来记：「〜によると、〜そうです」。",
+    "ja": "「〜によると」のあとは、ふつう、「〜そうです」で、終わります。聞いた話だからです。「〜によると、〜そうです」の、セットで、覚えましょう。",
+    "romaji": "'~ ni yoru to' no ato wa, futsuu, '~ sou desu' de, owarimasu. Kiita hanashi da kara desu. '~ ni yoru to, ~ sou desu' no, setto de, oboemashou."
+  },
+  "sl17.s4_q1": {
+    "en": "How are “~ ni yoru to” and “~ to iimashita” different?",
+    "ru": "Чем «~ ни ёру то» отличается от «~ то иимасита»?",
+    "zh": "「〜によると」和「〜と言いました」有什么不同？",
+    "ja": "「〜によると」と、「〜と言いました」は、どうちがいますか？",
+    "romaji": "'~ ni yoru to' to, '~ to iimashita' wa, dou chigaimasu ka?"
+  },
+  "sl17.s4_a1": {
+    "en": "“~ to iimashita” conveys the speaker's words as they are. “~ ni yoru to” indicates the source of the information. It can also be used for the news and books.",
+    "ru": "«~ то иимасита» передаёт слова говорившего как есть. «~ ни ёру то» указывает источник информации. Его можно использовать и для новостей, и для книг.",
+    "zh": "「〜と言いました」是把说话人的话原样转达。「〜によると」是指出信息的来源。也可以用于新闻和书籍。",
+    "ja": "「〜と言いました」は、話した人の言葉を、そのまま伝えます。「〜によると」は、情報の出どころを、示します。ニュースや、本にも使えます。",
+    "romaji": "'~ to iimashita' wa, hanashita hito no kotoba o, sono mama tsutaemasu. '~ ni yoru to' wa, jouhou no dedokoro o, shimeshimasu. Nyuusu ya, hon ni mo tsukaemasu."
+  },
+  "sl17.s4_q2": {
+    "en": "It's easy to confuse with “ni yotte.”",
+    "ru": "Легко перепутать с «ни ёттэ».",
+    "zh": "很容易和「によって」弄混。",
+    "ja": "「によって」と、まちがえやすいです。",
+    "romaji": "'Ni yotte' to, machigaeyasui desu."
+  },
+  "sl17.s4_a2": {
+    "en": "Exactly. “Ni yotte” expresses a cause or a means. When stating the source of information, it's “ni yoru to.” “Ni yoreba” can also be used with the same meaning.",
+    "ru": "Именно. «Ни ёттэ» выражает причину или средство. Когда указывают источник информации, используют «ни ёру то». «Ни ёрэба» тоже можно использовать в том же значении.",
+    "zh": "没错。「によって」表示原因或手段。说明信息来源时，用「によると」。「によれば」也可以表示同样的意思。",
+    "ja": "そのとおりです。「によって」は、「原因」や「手段」を表します。情報のもとを言うときは、「によると」です。「によれば」も、同じ意味で使えます。",
+    "romaji": "Sono toori desu. 'Ni yotte' wa, 'gen'in' ya 'shudan' o arawashimasu. Jouhou no moto o iu toki wa, 'ni yoru to' desu. 'Ni yoreba' mo, onaji imi de tsukaemasu."
+  },
+  "sl17.y_news": {
+    "en": "Did you see the news? How's tomorrow's weather?",
+    "ru": "Вы смотрели новости? Какая завтра погода?",
+    "zh": "你看新闻了吗？明天天气怎么样？",
+    "ja": "ニュースを、見ましたか？あしたの天気は、どうですか？",
+    "romaji": "Nyuusu o, mimashita ka? Ashita no tenki wa, dou desu ka?"
+  },
+  "sl17.p4_prompt": {
+    "en": "Yuki asked. A moment ago, you heard on the news, “Tomorrow will be rainy.” Please answer using “ni yoru to.” What do you say?",
+    "ru": "Юки спросила. Только что в новостях вы слышали: «Завтра будет дождь». Ответьте, используя «ни ёру то». Что вы скажете?",
+    "zh": "由纪问了。你刚才在新闻里听到“明天是雨天”。请用「によると」回答。你会怎么说？",
+    "ja": "由紀さんが、聞きました。あなたは、さっき、ニュースで、「あしたは、雨です」と聞きました。「によると」を使って、答えてください。何と言いますか？",
+    "romaji": "Yuki-san ga, kikimashita. Anata wa, sakki, nyuusu de, 'ashita wa, ame desu' to kikimashita. 'Ni yoru to' o tsukatte, kotaete kudasai. Nan to iimasu ka?"
+  },
+  "sl17.c4_natural": {
+    "en": "“According to the news, it's going to rain tomorrow.”",
+    "ru": "«Согласно новостям, завтра будет дождь».",
+    "zh": "“据新闻说，明天会下雨。”",
+    "ja": "「ニュースによると、あしたは、雨だそうです。」",
+    "romaji": "'Nyuusu ni yoru to, ashita wa, ame da sou desu.'"
+  },
+  "sl17.c4_formal": {
+    "en": "“According to the reports, the forecast for tomorrow is rainy weather.”",
+    "ru": "«Согласно сообщениям, прогноз на завтра — дождливая погода».",
+    "zh": "“据报道，明日的预报为雨天。”",
+    "ja": "「報道によりますと、明日は、雨天との予報でございます。」",
+    "romaji": "'Houdou ni yorimasu to, ashita wa, uten to no yohou de gozaimasu.'"
+  },
+  "sl17.c4_mistake": {
+    "en": "“By means of the news, tomorrow is rain, I hear.”",
+    "ru": "«Посредством новостей, завтра дождь, говорят».",
+    "zh": "“通过新闻，明天听说是雨天。”（把によると说成了によって）",
+    "ja": "「ニュースによって、あしたは、雨だそうです。」",
+    "romaji": "'Nyuusu ni yotte, ashita wa, ame da sou desu.'"
+  },
+  "sl17.c4_own": {
+    "en": "“According to the news, it's going to rain tomorrow. Let's take umbrellas.”",
+    "ru": "«Согласно новостям, завтра будет дождь. Давайте возьмём зонты».",
+    "zh": "“据新闻说，明天会下雨。我们带伞去吧。”",
+    "ja": "「ニュースによると、あしたは、雨だそうです。傘を、持っていきましょう。」",
+    "romaji": "'Nyuusu ni yoru to, ashita wa, ame da sou desu. Kasa o, motte ikimashou.'"
+  },
+  "sl17.c4_min": {
+    "en": "“News... tomorrow... rain...”",
+    "ru": "«Новости… завтра… дождь…»",
+    "zh": "“新闻……明天……雨……”",
+    "ja": "「ニュース…あした…雨…」",
+    "romaji": "'Nyuusu... ashita... ame...'"
+  },
+  "sl17.p4_nat_yuki": {
+    "en": "I thought so. Then tomorrow, let's eat bread inside the shop.",
+    "ru": "Так я и думала. Тогда завтра поедим хлеб в магазине.",
+    "zh": "果然是这样啊。那明天我们在店里吃面包吧。",
+    "ja": "やっぱり、そうですか。じゃあ、あしたは、お店の中で、パンを食べましょう。",
+    "romaji": "Yappari, sou desu ka. Jaa, ashita wa, omise no naka de, pan o tabemashou."
+  },
+  "sl17.p4_form_ken": {
+    "en": "Haha, you sound like a TV announcer. “Nyuusu ni yoru to, ame da sou desu” is fine.",
+    "ru": "Ха-ха, как диктор по телевизору. Достаточно «ню:су ни ёру то, амэ да со: дэс».",
+    "zh": "哈哈，像电视播音员一样。说「ニュースによると、雨だそうです」就行。",
+    "ja": "あはは、テレビの、アナウンサーみたいです。「ニュースによると、雨だそうです」で、いいですよ。",
+    "romaji": "Ahaha, terebi no, anaunsaa mitai desu. 'Nyuusu ni yoru to, ame da sou desu' de, ii desu yo."
+  },
+  "sl17.p4_mis_tanaka": {
+    "en": "Close. To state the source of information, use “ni yoru to,” not “ni yotte.” Let's say them as a set: “nyuusu ni yoru to, ~ sou desu.”",
+    "ru": "Почти. Чтобы указать источник информации, используйте «ни ёру то», а не «ни ёттэ». Скажем их парой: «ню:су ни ёру то, ~ со: дэс».",
+    "zh": "很接近。说明信息来源时，要用「によると」，而不是「によって」。说成一套：「ニュースによると、〜そうです」。",
+    "ja": "惜しいです。情報のもとを言うときは、「によって」ではなく、「によると」です。「ニュースによると、〜そうです」と、セットで言いましょう。",
+    "romaji": "Oshii desu. Jouhou no moto o iu toki wa, 'ni yotte' de wa naku, 'ni yoru to' desu. 'Nyuusu ni yoru to, ~ sou desu' to, setto de iimashou."
+  },
+  "sl17.p4_mis_retry": {
+    "en": "Oh, according to the news, it's going to rain tomorrow.",
+    "ru": "Ой, согласно новостям, завтра будет дождь.",
+    "zh": "啊，据新闻说，明天会下雨。",
+    "ja": "あっ、ニュースによると、あしたは、雨だそうです。",
+    "romaji": "A, nyuusu ni yoru to, ashita wa, ame da sou desu."
+  },
+  "sl17.p4_mis_relief": {
+    "en": "Yes, that's it. “Ni yoru to” and “sou desu” are now paired up.",
+    "ru": "Да, именно так. «Ни ёру то» и «со: дэс» встали в пару.",
+    "zh": "对，就是这个。「によると」和「そうです」成套了。",
+    "ja": "はい、それです。「によると」と「そうです」が、そろいました。",
+    "romaji": "Hai, sore desu. 'Ni yoru to' to 'sou desu' ga, soroimashita."
+  },
+  "sl17.p4_own_yuki": {
+    "en": "Good preparation. Tomorrow, let's bring umbrellas and come to the bakery again.",
+    "ru": "Хорошая подготовка. Завтра возьмём зонты и снова придём в пекарню.",
+    "zh": "准备得不错。明天带着伞，再来面包店吧。",
+    "ja": "いい準備ですね。あしたは、傘を持って、パン屋さんに、また来ましょう。",
+    "romaji": "Ii junbi desu ne. Ashita wa, kasa o motte, panyasan ni, mata kimashou."
+  },
+  "sl17.p4_min_mei": {
+    "en": "I understand. Try saying it properly: “nyuusu ni yoru to, ashita wa, ame da sou desu.”",
+    "ru": "Понимаю. Скажите как следует: «ню:су ни ёру то, асита ва, амэ да со: дэс».",
+    "zh": "我明白。试着好好说：「ニュースによると、あしたは、雨だそうです」。",
+    "ja": "分かりますよ。「ニュースによると、あしたは、雨だそうです」と、ていねいに言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Nyuusu ni yoru to, ashita wa, ame da sou desu' to, teinei ni itte mimashou."
+  },
+  "sl17.talk_open": {
+    "en": "Now let's talk. Out of today's four forms, which one do you most want to use?",
+    "ru": "Теперь поговорим. Какую из сегодняшних четырёх форм вы больше всего хотите использовать?",
+    "zh": "现在来聊聊。今天这四个句型里，你最想用哪一个？",
+    "ja": "では、話しましょう。今日の四つの形の中で、いちばん使いたい形は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no yottsu no katachi no naka de, ichiban tsukaitai katachi wa, dore desu ka?"
+  },
+  "sl17.talk_mei": {
+    "en": "For me, it's the appearance-based “~ sou desu.” Because I can say what I feel right away.",
+    "ru": "Для меня это «~ со: дэс» о внешнем виде. Потому что я могу сразу сказать, что чувствую.",
+    "zh": "我觉得是「〜そうです」表示外观的那种。因为能马上说出自己的感受。",
+    "ja": "わたしは、「〜そうです」の、見た目のほうです。すぐ、感じたことを、言えますから。",
+    "romaji": "Watashi wa, '~ sou desu' no, mitame no hou desu. Sugu, kanjita koto o, iemasu kara."
+  },
+  "sl17.talk_ken": {
+    "en": "For me, it's “~ you desu.” The feeling of reasoning from clues is interesting.",
+    "ru": "Для меня это «~ ё: дэс». Ощущение того, что делаешь вывод по признакам, интересно.",
+    "zh": "我觉得是「〜ようです」。根据线索推理的感觉很有意思。",
+    "ja": "ぼくは、「〜ようです」です。手がかりから、考える感じが、おもしろいです。",
+    "romaji": "Boku wa, '~ you desu' desu. Tegakari kara, kangaeru kanji ga, omoshiroi desu."
+  },
+  "sl17.talk_yuki": {
+    "en": "For me, it's “~ ni yoru to.” Being able to state the source of information makes what you say more credible.",
+    "ru": "Для меня это «~ ни ёру то». Когда можешь назвать источник информации, речь звучит убедительнее.",
+    "zh": "我觉得是「〜によると」。能说明信息的来源，话就更有可信度。",
+    "ja": "わたしは、「〜によると」です。情報の出どころを、言えると、話に信用が出ますね。",
+    "romaji": "Watashi wa, '~ ni yoru to' desu. Jouhou no dedokoro o, ieru to, hanashi ni shin'you ga demasu ne."
+  },
+  "sl17.talk_tanaka": {
+    "en": "Lovely. When you can distinguish between what you saw and what you heard, your Japanese becomes much more natural.",
+    "ru": "Прекрасно. Когда вы можете различать «увиденное» и «услышанное», ваш японский становится гораздо естественнее.",
+    "zh": "真好。能区分“看到的”和“听到的”来说话，你的日语就会变得非常自然。",
+    "ja": "すてきですね。「見たこと」と「聞いたこと」を、区別して話せると、日本語が、とても自然になります。",
+    "romaji": "Suteki desu ne. 'Mita koto' to 'kiita koto' o, kubetsu shite hanaseru to, nihongo ga, totemo shizen ni narimasu."
+  },
+  "sl17.talk_player": {
+    "en": "(Looks delicious, I hear it's popular, it seems to be closed, according to the news. When I talk about what I saw and what I heard separately, my message comes across much more accurately. Tomorrow, even if it rains, I'll come to that bakery again.)",
+    "ru": "(Выглядит вкусно, говорят, популярна, похоже, выходной, согласно новостям. Когда я раздельно говорю об увиденном и услышанном, мои слова передаются гораздо точнее. Завтра, даже если пойдёт дождь, я снова приду в эту пекарню.)",
+    "zh": "（看起来好吃、听说很受欢迎、似乎休息、据新闻说。把看到的和听到的分开说，话就能更准确地传达出去。明天，就算下雨，我也要再来那家面包店。）",
+    "ja": "（おいしそう、人気だそうです、休みのようです、ニュースによると。見たことと、聞いたことを、分けて話すと、話がぐっと、正しく伝わる。あしたは、雨でも、また、あのパン屋さんに来よう。）",
+    "romaji": "(Oishisou, ninki da sou desu, yasumi no you desu, nyuusu ni yoru to. Mita koto to, kiita koto o, wakete hanasu to, hanashi ga gutto, tadashiku tsutawaru. Ashita wa, ame demo, mata, ano panyasan ni koyou.)"
+  },
+  "sl17.talk_close": {
+    "en": "Good lesson, everyone. In the next class, let's practice talking about change with “~ you ni naru.”",
+    "ru": "Хороший урок, все. На следующем уроке потренируем рассказ об изменениях с помощью «~ ё: ни нару».",
+    "zh": "各位，这节课很棒。下节课我们用「〜ようになる」来练习谈论变化。",
+    "ja": "みなさん、いいレッスンでした。次の授業では、「〜ようになる」で、変化を話す練習をしましょう。",
+    "romaji": "Minasan, ii ressun deshita. Tsugi no jugyou de wa, '~ you ni naru' de, henka o hanasu renshuu o shimashou."
+  },
+  "sl17.complete": {
+    "en": "End of Sentence Lesson 17.",
+    "ru": "Конец урока предложений 17.",
+    "zh": "句型课 17 结束。",
+    "ja": "文型レッスン17、おわり。",
+    "romaji": "Bunkei ressun juunana, owari."
+  }
+}

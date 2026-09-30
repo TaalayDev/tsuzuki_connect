@@ -1,0 +1,849 @@
+{
+  "vl12.title": {
+    "en": "Ordering in Japanese at the Café",
+    "ru": "Заказ на японском в кафе",
+    "zh": "在咖啡馆用日语点餐",
+    "ja": "カフェで、日本語で注文",
+    "romaji": "Kafe de, nihongo de chuumon"
+  },
+  "vl12.subtitle": {
+    "en": "Practising ordering and refills at the counter",
+    "ru": "Учимся заказывать и просить добавки у стойки",
+    "zh": "在柜台练习点餐和续杯",
+    "ja": "カウンターで、注文と、おかわりの練習",
+    "romaji": "Kauntaa de, chuumon to, okawari no renshuu"
+  },
+  "vl12.description": {
+    "en": "Practise together ten words you use when ordering at a café.",
+    "ru": "Вместе потренируйте десять слов, которые используются при заказе в кафе.",
+    "zh": "一起练习在咖啡馆点餐时会用到的十个词。",
+    "ja": "カフェで、注文するときに使う十の言葉を、みんなで、練習します。",
+    "romaji": "Kafe de, chuumon suru toki ni tsukau juu no kotoba o, minna de, renshuu shimasu."
+  },
+  "vl12.setup": {
+    "en": "Saturday afternoon. Tanaka-sensei has brought everyone to their usual café. Today is the day they order for themselves, in Japanese.",
+    "ru": "Субботний день. Танака-сэнсэй привёл всех в их любимое кафе. Сегодня они сами будут делать заказ на японском.",
+    "zh": "星期六下午。田中老师带大家来到了常去的咖啡馆。今天要自己用日语点餐。",
+    "ja": "土曜日の午後。田中先生は、みんなを、いつものカフェに、連れてきた。今日は、自分たちで、日本語で、注文する日だ。",
+    "romaji": "Doyoubi no gogo. Tanaka-sensei wa, minna o, itsumo no kafe ni, tsurete kita. Kyou wa, jibuntachi de, nihongo de, chuumon suru hi da."
+  },
+  "vl12.t_intro": {
+    "en": "Today let's practise café language. You'll actually place your orders with the staff.",
+    "ru": "Сегодня потренируем слова для кафе. Вы будете по-настоящему делать заказ у сотрудника.",
+    "zh": "今天来练习咖啡馆用语。大家要真的向店员点餐哦。",
+    "ja": "今日は、カフェの言葉を、練習しましょう。実際に、店員さんに、注文しますよ。",
+    "romaji": "Kyou wa, kafe no kotoba o, renshuu shimashou. Jissai ni, tenin-san ni, chuumon shimasu yo."
+  },
+  "vl12.w1": {
+    "en": "First, “kauntaa,” the counter. It's the long, narrow platform in a shop where you order and pay.",
+    "ru": "Сначала «каунта:» — стойка. Это длинный узкий стол в магазине, где заказывают и платят.",
+    "zh": "首先是「カウンター」。是店里用来点餐和付款的细长台子。",
+    "ja": "まず、「カウンター」です。お店で、注文したり、お金を払ったりする、細長い台のことです。",
+    "romaji": "Mazu, 'kauntaa' desu. Omise de, chuumon shitari, okane o haratta ri suru, hosonagai dai no koto desu."
+  },
+  "vl12.w1_q": {
+    "en": "Is it different from “teeburu,” a table?",
+    "ru": "Чем она отличается от «тэ:бару» — стола?",
+    "zh": "和「テーブル」有区别吗？",
+    "ja": "「テーブル」とは、ちがいますか？",
+    "romaji": "'Teeburu' to wa, chigaimasu ka?"
+  },
+  "vl12.w1_a": {
+    "en": "Yes. A table is a desk where you sit to eat. A counter is a platform where you face the staff. With “kauntaa-seki,” a counter seat, you can also sit and eat there.",
+    "ru": "Да. Стол — это то, за чем сидят и едят. Стойка — то, что находится напротив сотрудника. «Каунта:-сэки» — место у стойки, где тоже можно сидеть и есть.",
+    "zh": "有区别。桌子是坐着吃饭的桌子。柜台是与店员面对面的台子。「カウンター席」的话，也可以坐在那里吃。",
+    "ja": "はい。テーブルは、座って食べる、机です。カウンターは、店員さんと、向かい合う台です。「カウンター席」なら、そこに座って食べることもできます。",
+    "romaji": "Hai. Teeburu wa, suwatte taberu, tsukue desu. Kauntaa wa, tenin-san to, mukaiau dai desu. 'Kauntaa-seki' nara, soko ni suwatte taberu koto mo dekimasu."
+  },
+  "vl12.k_nervous": {
+    "en": "Just standing in front of the counter makes me dokidoki.",
+    "ru": "Я просто стою перед стойкой и уже «докидоки».",
+    "zh": "我光是站在柜台前，就心跳加速。",
+    "ja": "ぼく、カウンターの前に立つだけで、ドキドキします。",
+    "romaji": "Boku, kauntaa no mae ni tatsu dake de, dokidoki shimasu."
+  },
+  "vl12.w2": {
+    "en": "“Dokidoki” is the feeling of your heart beating fast from nervousness or anticipation. You say “dokidoki suru.” It isn't only negative. You can use it when you're happy too.",
+    "ru": "«Докидоки» — ощущение быстро бьющегося сердца от волнения или предвкушения. Говорят «докидоки суру». Это не только плохое чувство. Его можно использовать и когда вы рады.",
+    "zh": "「ドキドキ」是因紧张或期待而心跳加快的感觉。说「ドキドキする」。不只是负面的意思。高兴时也可以用。",
+    "ja": "「ドキドキ」は、緊張や、期待で、心臓が、速く動く感じです。「ドキドキする」と言います。悪い意味だけではありません。うれしいときも、使えます。",
+    "romaji": "'Dokidoki' wa, kinchou ya, kitai de, shinzou ga, hayaku ugoku kanji desu. 'Dokidoki suru' to iimasu. Warui imi dake de wa arimasen. Ureshii toki mo, tsukaemasu."
+  },
+  "vl12.w2_q": {
+    "en": "I feel dokidoki too. But it's a little fun.",
+    "ru": "Я тоже «докидоки». Но это немного весело.",
+    "zh": "我也心跳加快。不过有点开心。",
+    "ja": "わたしも、ドキドキします。でも、ちょっと、楽しいです。",
+    "romaji": "Watashi mo, dokidoki shimasu. Demo, chotto, tanoshii desu."
+  },
+  "vl12.w3": {
+    "en": "Now, ordering words. “Chuumon” means to request food or drink at a shop. You say “chuumon suru.” “Chuumon o onegai shimasu” is also often used.",
+    "ru": "Теперь слова для заказа. «Тю:мон» — просить еду или напитки в заведении. Говорят «тю:мон суру». Часто используют и «тю:мон о онэгай симас».",
+    "zh": "接下来是点餐用语。「注文」是在店里点食物或饮料。说「注文する」。「注文をお願いします」也很常用。",
+    "ja": "では、注文の言葉です。「注文」は、お店で、食べ物や、飲み物を、頼むことです。「注文する」と言います。「注文をお願いします」も、よく使います。",
+    "romaji": "Dewa, chuumon no kotoba desu. 'Chuumon' wa, omise de, tabemono ya, nomimono o, tanomu koto desu. 'Chuumon suru' to iimasu. 'Chuumon o onegai shimasu' mo, yoku tsukaimasu."
+  },
+  "vl12.w3_q": {
+    "en": "Are “chuumon” and “yoyaku” different?",
+    "ru": "«Тю:мон» и «ёяку» — это разные вещи?",
+    "zh": "「注文」和「予約」有区别吗？",
+    "ja": "「注文」と「予約」は、ちがいますか？",
+    "romaji": "'Chuumon' to 'yoyaku' wa, chigaimasu ka?"
+  },
+  "vl12.w3_a": {
+    "en": "Yes. “Yoyaku” is reserving a seat or time for later. “Chuumon” is asking for what you want to eat now.",
+    "ru": "Да. «Ёяку» — это бронирование места или времени на будущее. «Тю:мон» — заказ того, что вы хотите съесть сейчас.",
+    "zh": "有区别。「予約」是为了以后使用而预留座位或时间。「注文」是点现在想吃的东西。",
+    "ja": "はい。「予約」は、あとで使うために、席や、時間を、とっておくことです。「注文」は、今、食べたいものを、頼むことです。",
+    "romaji": "Hai. 'Yoyaku' wa, ato de tsukau tame ni, seki ya, jikan o, totte oku koto desu. 'Chuumon' wa, ima, tabetai mono o, tanomu koto desu."
+  },
+  "vl12.w4": {
+    "en": "Today's drink is “matcha rate,” a matcha latte. It's a warm drink made by adding milk to matcha. It's popular in Japanese cafés.",
+    "ru": "Сегодняшний напиток — «матча рату», матча-латте. Это тёплый напиток из матчи с молоком. Он популярен в японских кафе.",
+    "zh": "今天的饮料是「抹茶ラテ」。是在抹茶里加了牛奶的热饮。在日本的咖啡馆很受欢迎。",
+    "ja": "今日の飲み物は、「抹茶ラテ」です。抹茶に、ミルクを入れた、あたたかい飲み物です。日本の、カフェで、人気です。",
+    "romaji": "Kyou no nomimono wa, 'matcha rate' desu. Matcha ni, miruku o ireta, atatakai nomimono desu. Nihon no, kafe de, ninki desu."
+  },
+  "vl12.p1_intro": {
+    "en": "Now, Ken. Let's go to the counter.",
+    "ru": "Итак, Кен. Пойдёмте к стойке.",
+    "zh": "那么，健。我们去柜台吧。",
+    "ja": "では、ケンさん。カウンターに、行きましょう。",
+    "romaji": "Dewa, Ken-san. Kauntaa ni, ikimashou."
+  },
+  "vl12.p1_prompt": {
+    "en": "The staff member is waiting with a smile. You want to order one matcha latte. What do you say?",
+    "ru": "Сотрудник ждёт с улыбкой. Вы хотите заказать один матча-латте. Что вы скажете?",
+    "zh": "店员笑着等待。你想点一杯抹茶拿铁。你会怎么说？",
+    "ja": "店員さんが、笑顔で、待っています。あなたは、抹茶ラテを、ひとつ、注文したいです。何と言いますか？",
+    "romaji": "Tenin-san ga, egao de, matte imasu. Anata wa, matcha rate o, hitotsu, chuumon shitai desu. Nan to iimasu ka?"
+  },
+  "vl12.c1_natural": {
+    "en": "“One matcha latte, please.”",
+    "ru": "«Один матча-латте, пожалуйста».",
+    "zh": "“请给我一杯抹茶拿铁。”",
+    "ja": "「抹茶ラテを、ひとつ、お願いします。」",
+    "romaji": "'Matcha rate o, hitotsu, onegai shimasu.'"
+  },
+  "vl12.c1_formal": {
+    "en": "“Excuse me, but I would like to request a matcha latte.”",
+    "ru": "«Прошу прощения, я хотел бы заказать матча-латте».",
+    "zh": "“不好意思，我想要一杯抹茶拿铁。”",
+    "ja": "「恐れ入りますが、抹茶ラテを、ご所望いたします。」",
+    "romaji": "'Osoreirimasu ga, matcha rate o, goshomou itashimasu.'"
+  },
+  "vl12.c1_mistake": {
+    "en": "“Matcha latte ga, please.”",
+    "ru": "«Матча-латте га, пожалуйста».",
+    "zh": "“抹茶ラテが、ください。”（助词应该用を）",
+    "ja": "「抹茶ラテが、ください。」",
+    "romaji": "'Matcha rate ga, kudasai.'"
+  },
+  "vl12.c1_own": {
+    "en": "“One matcha latte, please. A warm one would be good.”",
+    "ru": "«Один матча-латте, пожалуйста. Тёплый, если можно».",
+    "zh": "“请给我一杯抹茶拿铁。要热的。”",
+    "ja": "「抹茶ラテを、ひとつ、お願いします。あたたかいのが、いいです。」",
+    "romaji": "'Matcha rate o, hitotsu, onegai shimasu. Atatakai no ga, ii desu.'"
+  },
+  "vl12.c1_min": {
+    "en": "“Matcha latte...”",
+    "ru": "«Матча-латте…»",
+    "zh": "“抹茶拿铁……”",
+    "ja": "「抹茶ラテ…」",
+    "romaji": "'Matcha rate...'"
+  },
+  "vl12.p1_natural_r": {
+    "en": "Yes, good. That's a natural order.",
+    "ru": "Да, хорошо. Естественный заказ.",
+    "zh": "对，很好。是很自然的点餐。",
+    "ja": "はい、いいですね。自然な、注文です。",
+    "romaji": "Hai, ii desu ne. Shizen na, chuumon desu."
+  },
+  "vl12.p1_formal_r": {
+    "en": "Ha, the staff would be startled. “Onegai shimasu” is fine.",
+    "ru": "Ха-ха, сотрудник удивится. Достаточно «онэгай симас».",
+    "zh": "呵呵，店员会吓一跳的。说「お願いします」就行。",
+    "ja": "ふふ、店員さんが、びっくりしますよ。「お願いします」で、いいです。",
+    "romaji": "Fufu, tenin-san ga, bikkuri shimasu yo. 'Onegai shimasu' de, ii desu."
+  },
+  "vl12.p1_mistake_r": {
+    "en": "Close. “Kudasai” goes with “o.” It's “matcha rate o, kudasai.”",
+    "ru": "Почти. «Кудасай» используется с «о». Получается «матча рату о, кудасай».",
+    "zh": "很接近。「ください」要和「を」一起用。说「抹茶ラテを、ください」。",
+    "ja": "惜しいです。「ください」は、「を」と使います。「抹茶ラテを、ください」です。",
+    "romaji": "Oshii desu. 'Kudasai' wa, 'o' to tsukaimasu. 'Matcha rate o, kudasai' desu."
+  },
+  "vl12.p1_mis_retry": {
+    "en": "Matcha latte o, please.",
+    "ru": "Матча-латте о, пожалуйста.",
+    "zh": "抹茶ラテを、ください。",
+    "ja": "抹茶ラテを、ください。",
+    "romaji": "Matcha rate o, kudasai."
+  },
+  "vl12.p1_mis_relief": {
+    "en": "Yes, that's it. “O” fits perfectly.",
+    "ru": "Да, именно так. «О» подходит идеально.",
+    "zh": "对，就是这个。用「を」就正合适了。",
+    "ja": "はい、それです。「を」で、ぴったりです。",
+    "romaji": "Hai, sore desu. 'O' de, pittari desu."
+  },
+  "vl12.p1_own_r": {
+    "en": "A good phrase. It's easy for the staff to understand too.",
+    "ru": "Хорошая фраза. Сотруднику тоже понятно.",
+    "zh": "很好的一句话。店员也容易理解。",
+    "ja": "いい一言です。店員さんも、分かりやすいです。",
+    "romaji": "Ii hitokoto desu. Tenin-san mo, wakariyasui desu."
+  },
+  "vl12.p1_min_r": {
+    "en": "Your meaning comes across. Try adding “onegai shimasu” too.",
+    "ru": "Понятно, что вы хотите. Попробуйте добавить «онэгай симас».",
+    "zh": "你的意思能传达。也试着加上「お願いします」。",
+    "ja": "気持ちは、伝わりますよ。「お願いします」も、つけてみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu yo. 'Onegai shimasu' mo, tsukete mimashou."
+  },
+  "vl12.w5": {
+    "en": "Thank you, Ken. Here's a lesson on counting. “Josuushi” are counter words used when counting things. There are “~tsu,” “~ko,” “~hai,” “~nin,” and so on.",
+    "ru": "Спасибо, Кен. Здесь урок счёта. «Дзёсу:си» — счётные слова, которые используют, когда считают предметы. Есть «~цу», «~ко», «~хай», «~нин» и другие.",
+    "zh": "谢谢你，健。在这里学习数法。「助数詞」是数东西时用的词。有「〜つ」「〜個」「〜杯」「〜人」等。",
+    "ja": "ケンさん、ありがとう。ここで、数え方の、勉強です。「助数詞」は、ものを数えるときに、使う言葉です。「〜つ」「〜個」「〜杯」「〜人」などが、あります。",
+    "romaji": "Ken-san, arigatou. Koko de, kazoekata no, benkyou desu. 'Josuushi' wa, mono o kazoeru toki ni, tsukau kotoba desu. '~tsu' '~ko' '~hai' '~nin' nado ga, arimasu."
+  },
+  "vl12.w5_q": {
+    "en": "What about coffee?",
+    "ru": "А как считать кофе?",
+    "zh": "咖啡怎么数呢？",
+    "ja": "コーヒーは、いくつですか？",
+    "romaji": "Koohii wa, ikutsu desu ka?"
+  },
+  "vl12.w5_a": {
+    "en": "Coffee is “hai.” “Koohii o, nihai.” “Futatsu” also works. People are “nin.” Cake is “ko.”",
+    "ru": "Кофе — «хай». «Ко:хи: о, нихай». «Футацу» тоже подойдёт. Люди — «нин». Пирожные — «ко».",
+    "zh": "咖啡用「杯」。「コーヒーを、二杯」。用「ふたつ」也可以。人用「人」。蛋糕用「個」。",
+    "ja": "コーヒーは、「杯」です。「コーヒーを、二杯」。「ふたつ」も、使えます。人は、「人」。ケーキは、「個」です。",
+    "romaji": "Koohii wa, 'hai' desu. 'Koohii o, nihai'. 'Futatsu' mo, tsukaemasu. Hito wa, 'nin'. Keeki wa, 'ko' desu."
+  },
+  "vl12.p2_prompt": {
+    "en": "It's for you and Mei, two portions. You want to order two matcha lattes. What do you say?",
+    "ru": "Это на двоих, вас и Мэй. Вы хотите заказать два матча-латте. Что вы скажете?",
+    "zh": "这是你和梅两个人的份。你想点两杯抹茶拿铁。你会怎么说？",
+    "ja": "あなたと、メイさんの、二人分です。抹茶ラテを、ふたつ、注文したいです。何と言いますか？",
+    "romaji": "Anata to, Mei-san no, futari-bun desu. Matcha rate o, futatsu, chuumon shitai desu. Nan to iimasu ka?"
+  },
+  "vl12.c2_natural": {
+    "en": "“Two matcha lattes, please.”",
+    "ru": "«Два матча-латте, пожалуйста».",
+    "zh": "“请给我两杯抹茶拿铁。”",
+    "ja": "「抹茶ラテを、ふたつ、お願いします。」",
+    "romaji": "'Matcha rate o, futatsu, onegai shimasu.'"
+  },
+  "vl12.c2_formal": {
+    "en": "“May I be permitted to receive two cups of matcha latte?”",
+    "ru": "«Могу ли я получить две чашки матча-латте?»",
+    "zh": "“请问能给我两杯抹茶拿铁吗？”",
+    "ja": "「抹茶ラテを、二杯、頂戴できますでしょうか。」",
+    "romaji": "'Matcha rate o, nihai, choudai dekimasu deshou ka.'"
+  },
+  "vl12.c2_mistake": {
+    "en": "“Two people of matcha latte, please.”",
+    "ru": "«Два человека матча-латте, пожалуйста».",
+    "zh": "“抹茶ラテを、二人、お願いします。”（饮料不能用「人」数）",
+    "ja": "「抹茶ラテを、二人、お願いします。」",
+    "romaji": "'Matcha rate o, futari, onegai shimasu.'"
+  },
+  "vl12.c2_own": {
+    "en": "“Two matcha lattes, please. One with extra milk.”",
+    "ru": "«Два матча-латте, пожалуйста. Один с добавкой молока».",
+    "zh": "“请给我两杯抹茶拿铁。其中一杯多加牛奶。”",
+    "ja": "「抹茶ラテを、ふたつ、お願いします。ひとつは、ミルク多めで。」",
+    "romaji": "'Matcha rate o, futatsu, onegai shimasu. Hitotsu wa, miruku oome de.'"
+  },
+  "vl12.c2_min": {
+    "en": "“Latte... two...”",
+    "ru": "«Латте… два…»",
+    "zh": "“拿铁……两个……”",
+    "ja": "「ラテ…ふたつ…」",
+    "romaji": "'Rate... futatsu...'"
+  },
+  "vl12.p2_natural_r": {
+    "en": "Yes, natural. “Nihai” works too.",
+    "ru": "Да, естественно. «Нихай» тоже подойдёт.",
+    "zh": "对，很自然。用「二杯」也可以。",
+    "ja": "はい、自然です。「二杯」でも、いいですね。",
+    "romaji": "Hai, shizen desu. 'Nihai' demo, ii desu ne."
+  },
+  "vl12.p2_formal_r": {
+    "en": "Haha, it's polite, but a bit stiff for a café. “Onegai shimasu” is fine.",
+    "ru": "Ха-ха, вежливо, но для кафе немного чопорно. Достаточно «онэгай симас».",
+    "zh": "哈哈，很礼貌，但在咖啡馆里有点生硬。说「お願いします」就行。",
+    "ja": "あはは、ていねいですが、カフェでは、少し、堅いです。「お願いします」で、大丈夫です。",
+    "romaji": "Ahaha, teinei desu ga, kafe de wa, sukoshi, katai desu. 'Onegai shimasu' de, daijoubu desu."
+  },
+  "vl12.p2_mistake_r": {
+    "en": "Close. “Nin” is for counting people. Drinks are “futatsu” or “nihai.”",
+    "ru": "Почти. «Нин» используют для счёта людей. Напитки считают «футацу» или «нихай».",
+    "zh": "很接近。「人」是数人的词。饮料要用「ふたつ」或「二杯」。",
+    "ja": "惜しいです。「人」は、人を数える言葉です。飲み物は、「ふたつ」か、「二杯」です。",
+    "romaji": "Oshii desu. 'Nin' wa, hito o kazoeru kotoba desu. Nomimono wa, 'futatsu' ka, 'nihai' desu."
+  },
+  "vl12.p2_mis_retry": {
+    "en": "Two matcha lattes, please.",
+    "ru": "Два матча-латте, пожалуйста.",
+    "zh": "请给我两杯抹茶拿铁。",
+    "ja": "抹茶ラテを、ふたつ、お願いします。",
+    "romaji": "Matcha rate o, futatsu, onegai shimasu."
+  },
+  "vl12.p2_mis_relief": {
+    "en": "Yes, that's it. Choose the counter that matches the thing you're counting.",
+    "ru": "Да, именно так. Выбирайте счётное слово в зависимости от предмета.",
+    "zh": "对，就是这个。要根据所数的东西来选择助数词。",
+    "ja": "はい、それです。数えるものに合わせて、助数詞を選びましょう。",
+    "romaji": "Hai, sore desu. Kazoeru mono ni awasete, josuushi o erabimashou."
+  },
+  "vl12.p2_own_r": {
+    "en": "Nice. I like extra milk.",
+    "ru": "Хорошо. Я люблю с добавкой молока.",
+    "zh": "不错。我喜欢多加牛奶。",
+    "ja": "いいですね。わたしは、ミルク多めが、好きです。",
+    "romaji": "Ii desu ne. Watashi wa, miruku oome ga, suki desu."
+  },
+  "vl12.p2_min_r": {
+    "en": "I understand. Try saying it through: “matcha rate o, futatsu, onegai shimasu.”",
+    "ru": "Понимаю. Скажите полностью: «матча рату о, футацу, онэгай симас».",
+    "zh": "我明白。试着连起来说：「抹茶ラテを、ふたつ、お願いします」。",
+    "ja": "分かりますよ。「抹茶ラテを、ふたつ、お願いします」と、続けて、言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Matcha rate o, futatsu, onegai shimasu' to, tsuzukete, itte mimashou."
+  },
+  "vl12.w6": {
+    "en": "When ordering, what matters is to speak “teinei,” politely. “Teinei” means treating the other person with care and speaking or acting so as not to be rude.",
+    "ru": "При заказе важно говорить «тэйнэй» — вежливо. «Тэйнэй» — это относиться к собеседнику с уважением и говорить или действовать так, чтобы не быть невежливым.",
+    "zh": "点餐时，重要的是说得「丁寧」。「丁寧」是重视对方，说话和行动都不失礼。",
+    "ja": "注文のとき、大切なのは、「丁寧」に言うことです。「丁寧」は、相手を大切にして、失礼のないように、話したり、行動したりすることです。",
+    "romaji": "Chuumon no toki, taisetsu na no wa, 'teinei' ni iu koto desu. 'Teinei' wa, aite o taisetsu ni shite, shitsurei no nai you ni, hanashitari, koudou shitari suru koto desu."
+  },
+  "vl12.w6_q": {
+    "en": "Are “teinei” and “keigo” the same?",
+    "ru": "«Тэйнэй» и «кэйго» — это одно и то же?",
+    "zh": "「丁寧」和「敬語」一样吗？",
+    "ja": "「丁寧」と「敬語」は、同じですか？",
+    "romaji": "'Teinei' to 'keigo' wa, onaji desu ka?"
+  },
+  "vl12.w6_a": {
+    "en": "A little different. “Keigo” is a special form of language. “Teinei” is broader and includes volume of voice and attitude. “Teinei ni, hanasu” can also mean speaking gently and slowly.",
+    "ru": "Немного по-разному. «Кэйго» — особая форма языка. «Тэйнэй» шире и включает громкость голоса и отношение. «Тэйнэй ни, ханасу» может означать и говорить мягко и медленно.",
+    "zh": "有点不同。「敬語」是特别的语言形式。「丁寧」更宽泛，还包括声音大小和态度。「丁寧に、話す」也可以指温和、缓慢地说话。",
+    "ja": "少しちがいます。「敬語」は、特別な、言葉の形です。「丁寧」は、もっと広くて、声の大きさや、態度も入ります。「丁寧に、話す」は、やさしく、ゆっくり、話すことでも、あります。",
+    "romaji": "Sukoshi chigaimasu. 'Keigo' wa, tokubetsu na, kotoba no katachi desu. 'Teinei' wa, motto hirokute, koe no ookisa ya, taido mo hairimasu. 'Teinei ni, hanasu' wa, yasashiku, yukkuri, hanasu koto demo, arimasu."
+  },
+  "vl12.p3_prompt": {
+    "en": "After you sit down, the staff bring water. You want to see the menu. Please ask politely. What do you say?",
+    "ru": "Когда вы сели, сотрудник принёс воду. Вы хотите посмотреть меню. Попросите вежливо. Что вы скажете?",
+    "zh": "坐下后，店员端来了水。你想看菜单。请礼貌地请求。你会怎么说？",
+    "ja": "席に座ったら、店員さんが、水を持ってきました。メニューを、見たいです。丁寧に、頼んでください。何と言いますか？",
+    "romaji": "Seki ni suwattara, tenin-san ga, mizu o motte kimashita. Menyuu o, mitai desu. Teinei ni, tanonde kudasai. Nan to iimasu ka?"
+  },
+  "vl12.c3_natural": {
+    "en": "“Excuse me, could you show me the menu, please?”",
+    "ru": "«Извините, покажите, пожалуйста, меню».",
+    "zh": "“不好意思，请给我看一下菜单。”",
+    "ja": "「すみません、メニューを、見せてください。」",
+    "romaji": "'Sumimasen, menyuu o, misete kudasai.'"
+  },
+  "vl12.c3_formal": {
+    "en": "“I beg your pardon, but might I be permitted to view your bill of fare?”",
+    "ru": "«Прошу прощения, позвольте мне ознакомиться с вашим перечнем блюд».",
+    "zh": "“冒昧打扰，可否允许我拜览您的菜单？”",
+    "ja": "「恐縮でございますが、お品書きを、拝見させていただけませんでしょうか。」",
+    "romaji": "'Kyoushuku de gozaimasu ga, oshinagaki o, haiken sasete itadakemasen deshou ka.'"
+  },
+  "vl12.c3_mistake": {
+    "en": "“Menu, show it.”",
+    "ru": "«Меню, покажи».",
+    "zh": "“菜单，拿来看。”（命令形，非常不礼貌）",
+    "ja": "「メニュー、見せろ。」",
+    "romaji": "'Menyuu, misero.'"
+  },
+  "vl12.c3_own": {
+    "en": "“Excuse me, could you show me the menu? Do you have any recommendations?”",
+    "ru": "«Извините, покажите, пожалуйста, меню. Что вы порекомендуете?»",
+    "zh": "“不好意思，请给我看一下菜单。有什么推荐的吗？”",
+    "ja": "「すみません、メニューを、見せてください。おすすめは、ありますか？」",
+    "romaji": "'Sumimasen, menyuu o, misete kudasai. Osusume wa, arimasu ka?'"
+  },
+  "vl12.c3_min": {
+    "en": "“Menu... want see...”",
+    "ru": "«Меню… хочу посмотреть…»",
+    "zh": "“菜单……想看……”",
+    "ja": "「メニュー…見たい…」",
+    "romaji": "'Menyuu... mitai...'"
+  },
+  "vl12.p3_natural_r": {
+    "en": "Yes, polite and natural. The “sumimasen” is nice.",
+    "ru": "Да, вежливо и естественно. «Суимасэн» очень кстати.",
+    "zh": "对，礼貌又自然。「すみません」用得好。",
+    "ja": "はい、丁寧で、自然です。「すみません」が、いいですね。",
+    "romaji": "Hai, teinei de, shizen desu. 'Sumimasen' ga, ii desu ne."
+  },
+  "vl12.p3_formal_r": {
+    "en": "Ha, that sounds like an old inn. “Menyuu o, misete kudasai” is polite enough.",
+    "ru": "Ха-ха, как в старой гостинице. «Мэню: о, мисэтэ кудасай» уже достаточно вежливо.",
+    "zh": "呵呵，像老式旅馆。说「メニューを、見せてください」就已经很礼貌了。",
+    "ja": "ふふ、昔の、旅館みたいです。「メニューを、見せてください」で、丁寧です。",
+    "romaji": "Fufu, mukashi no, ryokan mitai desu. 'Menyuu o, misete kudasai' de, teinei desu."
+  },
+  "vl12.p3_mistake_r": {
+    "en": "That's the command form. It is very rude. Let's say it politely: “sumimasen, menyuu o, misete kudasai.”",
+    "ru": "Это повелительная форма. Это очень грубо. Скажем вежливо: «суимасэн, мэню: о, мисэтэ кудасай».",
+    "zh": "那是命令形，非常失礼。要礼貌地说：「すみません、メニューを、見せてください」。",
+    "ja": "それは、命令の形です。とても失礼です。「すみません、メニューを、見せてください」と、丁寧に言いましょう。",
+    "romaji": "Sore wa, meirei no katachi desu. Totemo shitsurei desu. 'Sumimasen, menyuu o, misete kudasai' to, teinei ni iimashou."
+  },
+  "vl12.p3_mis_retry": {
+    "en": "Excuse me, could you show me the menu, please?",
+    "ru": "Извините, покажите, пожалуйста, меню.",
+    "zh": "不好意思，请给我看一下菜单。",
+    "ja": "すみません、メニューを、見せてください。",
+    "romaji": "Sumimasen, menyuu o, misete kudasai."
+  },
+  "vl12.p3_mis_relief": {
+    "en": "Yes, that's it. Very polite, and it sounds good.",
+    "ru": "Да, именно так. Очень вежливо, звучит хорошо.",
+    "zh": "对，就是这个。非常礼貌，听起来很好。",
+    "ja": "はい、それです。とても丁寧で、いい感じです。",
+    "romaji": "Hai, sore desu. Totemo teinei de, ii kanji desu."
+  },
+  "vl12.p3_own_r": {
+    "en": "A good question. You asked politely.",
+    "ru": "Хороший вопрос. Вы спросили вежливо.",
+    "zh": "好问题。你问得很有礼貌。",
+    "ja": "いい質問です。丁寧に、聞けましたね。",
+    "romaji": "Ii shitsumon desu. Teinei ni, kikemashita ne."
+  },
+  "vl12.p3_min_r": {
+    "en": "Your meaning comes across. Try saying it all the way to “misete kudasai.”",
+    "ru": "Ваше желание понятно. Договорите до «мисэтэ кудасай».",
+    "zh": "你的意思能传达。试着说到「見せてください」为止。",
+    "ja": "気持ちは、伝わります。「見せてください」まで、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu. 'Misete kudasai' made, itte mimashou."
+  },
+  "vl12.w7": {
+    "en": "Ken also bought some cookies. Light foods like this are called “sunakku,” snacks. Potato chips and cookies are examples.",
+    "ru": "Кен купил ещё и печенье. Такая лёгкая еда называется «сунакку» — снэки. К ним относятся чипсы, печенье и тому подобное.",
+    "zh": "健还买了饼干。像这样的轻食叫「スナック」。薯片和饼干等都是。",
+    "ja": "ケンさんが、クッキーも、買いました。こういう、軽い食べ物は、「スナック」と言います。ポテトチップスや、クッキーなどが、そうです。",
+    "romaji": "Ken-san ga, kukkii mo, kaimashita. Kou iu, karui tabemono wa, 'sunakku' to iimasu. Poteto chippusu ya, kukkii nado ga, sou desu."
+  },
+  "vl12.w7_q": {
+    "en": "Is a “sunakku” a sweet?",
+    "ru": "«Сунакку» — это сладость?",
+    "zh": "「スナック」是点心吗？",
+    "ja": "「スナック」は、お菓子ですか？",
+    "romaji": "'Sunakku' wa, okashi desu ka?"
+  },
+  "vl12.w7_a": {
+    "en": "Yes, more or less. But many are salty. You can also say “sunakku gashi.” In Japanese, “sunakku” can also mean a small bar where people drink.",
+    "ru": "Да, в основном. Но многие из них солёные. Можно сказать и «сунакку гаси». В японском «сунакку» также может означать небольшой бар, где пьют.",
+    "zh": "对，大致如此。但很多是咸的。也可以说「スナック菓子」。在日语里，「スナック」也有小酒馆的意思。",
+    "ja": "はい、だいたい、そうです。でも、しょっぱい物も、多いです。「スナック菓子」と、言うこともあります。日本語の「スナック」には、お酒を飲む、小さな店の意味も、あります。",
+    "romaji": "Hai, daitai, sou desu. Demo, shoppai mono mo, ooi desu. 'Sunakku gashi' to, iu koto mo arimasu. Nihongo no 'sunakku' ni wa, osake o nomu, chiisana mise no imi mo, arimasu."
+  },
+  "vl12.w8": {
+    "en": "When taking something out, you get a “fukuro,” a bag. A “fukuro” is something made of plastic or paper that you put things in. You say “fukuro ni ireru.”",
+    "ru": "Когда берёте с собой, вам дают «фукуро» — пакет. «Фукуро» — это пластиковый или бумажный предмет, куда кладут вещи. Говорят «фукуро ни ирэру».",
+    "zh": "外带时会拿到「袋」。「袋」是用来装东西的塑料或纸制品。说「袋に入れる」。",
+    "ja": "持ち帰りのときは、「袋」を、もらいます。「袋」は、ものを入れる、ビニールや、紙のものです。「袋に入れる」と言います。",
+    "romaji": "Mochikaeri no toki wa, 'fukuro' o, moraimasu. 'Fukuro' wa, mono o ireru, biniiru ya, kami no mono desu. 'Fukuro ni ireru' to iimasu."
+  },
+  "vl12.p4_prompt": {
+    "en": "You bought one cookie. You want to take it with you. Using “fukuro ni ireru,” ask the staff. What do you say?",
+    "ru": "Вы купили одно печенье. Хотите взять его с собой. Используя «фукуро ни ирэру», попросите сотрудника. Что вы скажете?",
+    "zh": "你买了一块饼干。想带走。请用「袋に入れる」拜托店员。你会怎么说？",
+    "ja": "クッキーを、ひとつ、買いました。持ち帰りたいです。「袋に入れる」を使って、店員さんに、頼んでください。何と言いますか？",
+    "romaji": "Kukkii o, hitotsu, kaimashita. Mochikaeritai desu. 'Fukuro ni ireru' o tsukatte, tenin-san ni, tanonde kudasai. Nan to iimasu ka?"
+  },
+  "vl12.c4_natural": {
+    "en": "“Excuse me, could you put this in a bag, please?”",
+    "ru": "«Извините, положите, пожалуйста, это в пакет».",
+    "zh": "“不好意思，请把这个装进袋子里。”",
+    "ja": "「すみません、これを、袋に入れてください。」",
+    "romaji": "'Sumimasen, kore o, fukuro ni irete kudasai.'"
+  },
+  "vl12.c4_formal": {
+    "en": "“I beg your pardon, but I would be most grateful if you could place this in a bag.”",
+    "ru": "«Прошу прощения, я был бы очень признателен, если бы вы положили это в пакет».",
+    "zh": "“冒昧打扰，若能将此物装入袋中，不胜荣幸。”",
+    "ja": "「恐れ入りますが、こちらを、袋にお入れいただけますと、幸いに存じます。」",
+    "romaji": "'Osoreirimasu ga, kochira o, fukuro ni oire itadakemasu to, saiwai ni zonjimasu.'"
+  },
+  "vl12.c4_mistake": {
+    "en": "“Excuse me, put this, bag (o), please.”",
+    "ru": "«Извините, это, пакет (о), положите».",
+    "zh": "“不好意思，这个，袋を，请装。”（应该用「に」）",
+    "ja": "「すみません、これを、袋を、入れてください。」",
+    "romaji": "'Sumimasen, kore o, fukuro o, irete kudasai.'"
+  },
+  "vl12.c4_own": {
+    "en": "“Excuse me, please put this in a bag. And I'd like one snack, too.”",
+    "ru": "«Извините, положите это в пакет. И ещё один снэк, пожалуйста».",
+    "zh": "“不好意思，请把这个装进袋子里。另外，再要一份零食。”",
+    "ja": "「すみません、これを、袋に入れてください。あと、スナックも、ひとつ、お願いします。」",
+    "romaji": "'Sumimasen, kore o, fukuro ni irete kudasai. Ato, sunakku mo, hitotsu, onegai shimasu.'"
+  },
+  "vl12.c4_min": {
+    "en": "“Bag... please...”",
+    "ru": "«Пакет… пожалуйста…»",
+    "zh": "“袋子……拜托……”",
+    "ja": "「袋…お願い…」",
+    "romaji": "'Fukuro... onegai...'"
+  },
+  "vl12.p4_natural_r": {
+    "en": "Yes, natural. It's the basic way to ask for takeout.",
+    "ru": "Да, естественно. Это основной способ попросить с собой.",
+    "zh": "对，很自然。这是外带的基本说法。",
+    "ja": "はい、自然です。持ち帰りの、基本の言い方です。",
+    "romaji": "Hai, shizen desu. Mochikaeri no, kihon no iikata desu."
+  },
+  "vl12.p4_formal_r": {
+    "en": "Ha, that's too polite. “Fukuro ni irete kudasai” is fine.",
+    "ru": "Ха-ха, слишком вежливо. Достаточно «фукуро ни ирэтэ кудасай».",
+    "zh": "呵呵，太礼貌了。说「袋に入れてください」就可以了。",
+    "ja": "ふふ、ていねいすぎます。「袋に入れてください」で、大丈夫です。",
+    "romaji": "Fufu, teinei sugimasu. 'Fukuro ni irete kudasai' de, daijoubu desu."
+  },
+  "vl12.p4_mistake_r": {
+    "en": "Close. Use “ni” for the place you put things in. It's “fukuro ni, irete kudasai.”",
+    "ru": "Почти. Для места, куда кладут, используют «ни». Получается «фукуро ни, ирэтэ кудасай».",
+    "zh": "很接近。放入的地点要用「に」。说「袋に、入れてください」。",
+    "ja": "惜しいです。入れる場所には、「に」を使います。「袋に、入れてください」です。",
+    "romaji": "Oshii desu. Ireru basho ni wa, 'ni' o tsukaimasu. 'Fukuro ni, irete kudasai' desu."
+  },
+  "vl12.p4_mis_retry": {
+    "en": "Excuse me, could you put this in a bag, please?",
+    "ru": "Извините, положите, пожалуйста, это в пакет.",
+    "zh": "不好意思，请把这个装进袋子里。",
+    "ja": "すみません、これを、袋に、入れてください。",
+    "romaji": "Sumimasen, kore o, fukuro ni, irete kudasai."
+  },
+  "vl12.p4_mis_relief": {
+    "en": "Yes, that's it. “Ni” made the place clear.",
+    "ru": "Да, именно так. «Ни» ясно указывает место.",
+    "zh": "对，就是这个。「に」让地点明确了。",
+    "ja": "はい、それです。「に」で、場所が、はっきりしました。",
+    "romaji": "Hai, sore desu. 'Ni' de, basho ga, hakkiri shimashita."
+  },
+  "vl12.p4_own_r": {
+    "en": "Nice. You clearly said what you wanted.",
+    "ru": "Хорошо. Вы чётко сказали, чего хотите.",
+    "zh": "不错。你把想要的东西说清楚了。",
+    "ja": "いいですね。ほしいものを、ちゃんと言えました。",
+    "romaji": "Ii desu ne. Hoshii mono o, chanto iemashita."
+  },
+  "vl12.p4_min_r": {
+    "en": "Your meaning comes across. Try saying “fukuro ni irete kudasai.”",
+    "ru": "Ваше желание понятно. Скажите «фукуро ни ирэтэ кудасай».",
+    "zh": "你的意思能传达。试着说「袋に入れてください」。",
+    "ja": "気持ちは、伝わりますよ。「袋に入れてください」と、言ってみましょう。",
+    "romaji": "Kimochi wa, tsutawarimasu yo. 'Fukuro ni irete kudasai' to, itte mimashou."
+  },
+  "vl12.t_time": {
+    "en": "While chatting, the matcha lattes have run out. I want another cup.",
+    "ru": "Пока болтали, матча-латте закончился. Хочу ещё одну чашку.",
+    "zh": "聊着聊着，抹茶拿铁喝完了呢。我想再来一杯。",
+    "ja": "おしゃべりを、していたら、抹茶ラテが、なくなりましたね。もう一杯、飲みたいです。",
+    "romaji": "Oshaberi o, shite itara, matcha rate ga, nakunarimashita ne. Mou ippai, nomitai desu."
+  },
+  "vl12.w9": {
+    "en": "Asking for another serving of the same thing is called “okawari,” a refill. You say “okawari, onegai shimasu.”",
+    "ru": "Заказать ещё одну порцию того же самого называется «окавари» — добавка. Говорят «окавари, онэгай симас».",
+    "zh": "再点一份同样的东西叫「おかわり」。说「おかわり、お願いします」。",
+    "ja": "同じものを、もう一杯、頼むことを、「おかわり」と言います。「おかわり、お願いします」と言います。",
+    "romaji": "Onaji mono o, mou ippai, tanomu koto o, 'okawari' to iimasu. 'Okawari, onegai shimasu' to iimasu."
+  },
+  "vl12.w9_q": {
+    "en": "Does an “okawari” cost money?",
+    "ru": "Придётся ли платить за «окавари»?",
+    "zh": "「おかわり」要花钱吗？",
+    "ja": "「おかわり」は、お金が、かかりますか？",
+    "romaji": "'Okawari' wa, okane ga, kakarimasu ka?"
+  },
+  "vl12.w9_a": {
+    "en": "It depends on the shop. Rice and tea can be free. At a café, you usually pay for another cup. It's reassuring to ask before ordering.",
+    "ru": "Зависит от заведения. Рис и чай иногда бесплатны. В кафе за ещё одну чашку обычно нужно платить. Спросить перед заказом — надёжнее.",
+    "zh": "视店而定。米饭和茶有时是免费的。在咖啡馆通常要另付一杯的钱。点之前问一下会比较放心。",
+    "ja": "お店によります。ご飯や、お茶は、無料のことも、あります。カフェでは、ふつう、もう一杯分の、お金が、かかります。頼む前に、聞くと、安心です。",
+    "romaji": "Omise ni yorimasu. Gohan ya, ocha wa, muryou no koto mo, arimasu. Kafe de wa, futsuu, mou ippai-bun no, okane ga, kakarimasu. Tanomu mae ni, kiku to, anshin desu."
+  },
+  "vl12.p5_prompt": {
+    "en": "A staff member walks by. You and Mei both want another cup. What do you say?",
+    "ru": "Мимо проходит сотрудник. Вы и Мэй хотите ещё по одной чашке. Что вы скажете?",
+    "zh": "店员路过。你和梅都想再喝一杯。你会怎么说？",
+    "ja": "店員さんが、通りかかりました。あなたも、メイさんも、もう一杯、飲みたいです。何と言いますか？",
+    "romaji": "Tenin-san ga, toorikakarimashita. Anata mo, Mei-san mo, mou ippai, nomitai desu. Nan to iimasu ka?"
+  },
+  "vl12.c5_natural": {
+    "en": "“Excuse me, refills please. Two, please.”",
+    "ru": "«Извините, добавку, пожалуйста. Две, пожалуйста».",
+    "zh": "“不好意思，请续杯。要两杯。”",
+    "ja": "「すみません、おかわりを、お願いします。ふたつ、お願いします。」",
+    "romaji": "'Sumimasen, okawari o, onegai shimasu. Futatsu, onegai shimasu.'"
+  },
+  "vl12.c5_formal": {
+    "en": "“Excuse me, might we each receive one more cup?”",
+    "ru": "«Прошу прощения, не могли бы нам принести ещё по чашке?»",
+    "zh": "“不好意思，请问能各再来一杯吗？”",
+    "ja": "「恐れ入りますが、もう一杯ずつ、頂戴できませんでしょうか。」",
+    "romaji": "'Osoreirimasu ga, mou ippai zutsu, choudai dekimasen deshou ka.'"
+  },
+  "vl12.c5_mistake": {
+    "en": "“I'll do okawari.”",
+    "ru": "«Я сделаю окавари».",
+    "zh": "“おかわりを、します。”（应该说「お願いします」）",
+    "ja": "「おかわりを、します。」",
+    "romaji": "'Okawari o, shimasu.'"
+  },
+  "vl12.c5_own": {
+    "en": "“Excuse me, refills please. This time, two regular lattes, please.”",
+    "ru": "«Извините, добавку, пожалуйста. На этот раз — два обычных латте».",
+    "zh": "“不好意思，请续杯。这次要两杯普通拿铁。”",
+    "ja": "「すみません、おかわりを、お願いします。今度は、ふつうの、ラテを、ふたつ、お願いします。」",
+    "romaji": "'Sumimasen, okawari o, onegai shimasu. Kondo wa, futsuu no, rate o, futatsu, onegai shimasu.'"
+  },
+  "vl12.c5_min": {
+    "en": "“Refill...”",
+    "ru": "«Добавку…»",
+    "zh": "“续杯……”",
+    "ja": "「おかわり…」",
+    "romaji": "'Okawari...'"
+  },
+  "vl12.p5_natural_r": {
+    "en": "Yes, natural. You stated the number properly too.",
+    "ru": "Да, естественно. Количество вы тоже назвали.",
+    "zh": "对，很自然。数量也说清楚了。",
+    "ja": "はい、自然です。数も、ちゃんと、言えました。",
+    "romaji": "Hai, shizen desu. Kazu mo, chanto, iemashita."
+  },
+  "vl12.p5_formal_r": {
+    "en": "Ha, it's polite and fine, but “okawari, onegai shimasu” is enough.",
+    "ru": "Ха-ха, вежливо и неплохо, но достаточно «окавари, онэгай симас».",
+    "zh": "呵呵，很礼貌也不错，不过说「おかわり、お願いします」就足够了。",
+    "ja": "ふふ、ていねいで、いいですが、「おかわり、お願いします」で、じゅうぶんです。",
+    "romaji": "Fufu, teinei de, ii desu ga, 'okawari, onegai shimasu' de, juubun desu."
+  },
+  "vl12.p5_mistake_r": {
+    "en": "Close. “Okawari” is something you ask for. It's “okawari, onegai shimasu” or “okawari, kudasai.”",
+    "ru": "Почти. «Окавари» — то, о чём просят. Говорят «окавари, онэгай симас» или «окавари, кудасай».",
+    "zh": "很接近。「おかわり」是要请求的东西。说「おかわり、お願いします」或「おかわり、ください」。",
+    "ja": "惜しいです。「おかわり」は、頼むものです。「おかわり、お願いします」か、「おかわり、ください」です。",
+    "romaji": "Oshii desu. 'Okawari' wa, tanomu mono desu. 'Okawari, onegai shimasu' ka, 'okawari, kudasai' desu."
+  },
+  "vl12.p5_mis_retry": {
+    "en": "Excuse me, refills please.",
+    "ru": "Извините, добавку, пожалуйста.",
+    "zh": "不好意思，请续杯。",
+    "ja": "すみません、おかわり、お願いします。",
+    "romaji": "Sumimasen, okawari, onegai shimasu."
+  },
+  "vl12.p5_mis_relief": {
+    "en": "Yes, that's it. When you ask, it's “onegai shimasu.”",
+    "ru": "Да, именно так. Когда просите, говорят «онэгай симас».",
+    "zh": "对，就是这个。请求时说「お願いします」。",
+    "ja": "はい、それです。頼むときは、「お願いします」です。",
+    "romaji": "Hai, sore desu. Tanomu toki wa, 'onegai shimasu' desu."
+  },
+  "vl12.p5_own_r": {
+    "en": "A good order. You also stated your preference.",
+    "ru": "Хороший заказ. Вы ещё и вкус указали.",
+    "zh": "很好的点餐。你还说明了自己的口味。",
+    "ja": "いい注文です。好みも、ちゃんと言えました。",
+    "romaji": "Ii chuumon desu. Konomi mo, chanto iemashita."
+  },
+  "vl12.p5_min_r": {
+    "en": "I understand. Adding “onegai shimasu” makes it more polite.",
+    "ru": "Понимаю. Если добавить «онэгай симас», станет вежливее.",
+    "zh": "我明白。加上「お願いします」会更礼貌。",
+    "ja": "分かりますよ。「お願いします」も、つけると、もっと、丁寧です。",
+    "romaji": "Wakarimasu yo. 'Onegai shimasu' mo, tsukeru to, motto, teinei desu."
+  },
+  "vl12.arrive": {
+    "en": "After a while, the staff member walks over carrying a tray.",
+    "ru": "Через некоторое время сотрудник подходит с подносом.",
+    "zh": "过了一会儿，店员端着托盘走了过来。",
+    "ja": "しばらくして、店員さんが、トレーを持って、歩いてきた。",
+    "romaji": "Shibaraku shite, tenin-san ga, torei o motte, aruite kita."
+  },
+  "vl12.w10": {
+    "en": "The staff member puts the drinks on the table and says “omatase shimashita.” This is a greeting about having kept the customer waiting.",
+    "ru": "Сотрудник ставит напитки на стол и говорит «оматасэ симасита». Это приветствие по поводу того, что клиента заставили ждать.",
+    "zh": "店员把饮料放在桌上，说「お待たせしました」。这是对让客人等候所致歉意的问候语。",
+    "ja": "店員さんは、飲み物を、テーブルに置いて、「お待たせしました」と言います。これは、お客さんを、待たせたことへの、あいさつです。",
+    "romaji": "Tenin-san wa, nomimono o, teeburu ni oite, 'omatase shimashita' to iimasu. Kore wa, okyaku-san o, matasetakoto e no, aisatsu desu."
+  },
+  "vl12.w10_q": {
+    "en": "What does the customer answer?",
+    "ru": "Что отвечает клиент?",
+    "zh": "客人该怎么回答呢？",
+    "ja": "お客さんは、何と答えますか？",
+    "romaji": "Okyaku-san wa, nani to kotaemasu ka?"
+  },
+  "vl12.w10_a": {
+    "en": "Saying “arigatou gozaimasu” is enough. “Itadakimasu” is good too. Even just giving a small nod isn't rude.",
+    "ru": "Достаточно сказать «аригато: годзаимас». «Итадакимас» тоже хорошо. Даже небольшой кивок не будет невежливым.",
+    "zh": "说「ありがとうございます」就足够了。「いただきます」也不错。只是轻轻点点头也不算失礼。",
+    "ja": "「ありがとうございます」と言えば、十分です。「いただきます」も、いいですね。少し、うなずくだけでも、失礼では、ありません。",
+    "romaji": "'Arigatou gozaimasu' to ieba, juubun desu. 'Itadakimasu' mo, ii desu ne. Sukoshi, unazuku dake demo, shitsurei de wa, arimasen."
+  },
+  "vl12.p6_prompt": {
+    "en": "The staff member says “omatase shimashita” and puts the matcha lattes on the table. How do you answer?",
+    "ru": "Сотрудник говорит «оматасэ симасита» и ставит матча-латте на стол. Что вы ответите?",
+    "zh": "店员说了「お待たせしました」，把抹茶拿铁放在桌上。你会怎么回答？",
+    "ja": "店員さんが、「お待たせしました」と言って、抹茶ラテを、テーブルに置きました。あなたは、何と答えますか？",
+    "romaji": "Tenin-san ga, 'omatase shimashita' to itte, matcha rate o, teeburu ni okimashita. Anata wa, nan to kotaemasu ka?"
+  },
+  "vl12.c6_natural": {
+    "en": "“Thank you very much. Itadakimasu.”",
+    "ru": "«Большое спасибо. Итадакимас».",
+    "zh": "“谢谢。我开动了。”",
+    "ja": "「ありがとうございます。いただきます。」",
+    "romaji": "'Arigatou gozaimasu. Itadakimasu.'"
+  },
+  "vl12.c6_formal": {
+    "en": "“Thank you for your courtesy. I gratefully receive it.”",
+    "ru": "«Благодарю за вашу любезность. Принимаю с признательностью».",
+    "zh": "“承蒙您如此周到，不胜感激。我谨此收下。”",
+    "ja": "「ご丁寧に、恐れ入ります。ありがたく、頂戴いたします。」",
+    "romaji": "'Go-teinei ni, osoreirimasu. Arigataku, choudai itashimasu.'"
+  },
+  "vl12.c6_mistake": {
+    "en": "“It's late. I've been waiting the whole time.”",
+    "ru": "«Поздно. Я всё время ждал».",
+    "zh": "“太慢了。我一直在等。”",
+    "ja": "「遅いです。ずっと、待っていました。」",
+    "romaji": "'Osoi desu. Zutto, matte imashita.'"
+  },
+  "vl12.c6_own": {
+    "en": "“Thank you. It smells lovely. Itadakimasu.”",
+    "ru": "«Спасибо. Как приятно пахнет. Итадакимас».",
+    "zh": "“谢谢。真香啊。我开动了。”",
+    "ja": "「ありがとうございます。とても、いい香りですね。いただきます。」",
+    "romaji": "'Arigatou gozaimasu. Totemo, ii kaori desu ne. Itadakimasu.'"
+  },
+  "vl12.c6_min": {
+    "en": "“...Thanks.”",
+    "ru": "«…Спасибо».",
+    "zh": "“……谢谢。”",
+    "ja": "「…どうも。」",
+    "romaji": "'...Doumo.'"
+  },
+  "vl12.p6_natural_r": {
+    "en": "Yes, natural. The staff will be happy too.",
+    "ru": "Да, естественно. Сотрудник тоже будет рад.",
+    "zh": "对，很自然。店员也会高兴。",
+    "ja": "はい、自然です。店員さんも、うれしいです。",
+    "romaji": "Hai, shizen desu. Tenin-san mo, ureshii desu."
+  },
+  "vl12.p6_formal_r": {
+    "en": "Haha, it's splendid, but at a café, “arigatou gozaimasu” is fine.",
+    "ru": "Ха-ха, великолепно, но в кафе достаточно «аригато: годзаимас».",
+    "zh": "哈哈，很了不起，不过在咖啡馆里，说「ありがとうございます」就行。",
+    "ja": "あはは、りっぱですが、カフェでは、「ありがとうございます」で、いいです。",
+    "romaji": "Ahaha, rippa desu ga, kafe de wa, 'arigatou gozaimasu' de, ii desu."
+  },
+  "vl12.p6_mistake_r": {
+    "en": "That sounds rude. As a customer, answer with “arigatou gozaimasu.”",
+    "ru": "Это звучит грубо. Как клиент, ответьте «аригато: годзаимас».",
+    "zh": "那听起来很失礼。作为客人，应该回答「ありがとうございます」。",
+    "ja": "それは、失礼に聞こえます。お客さんとして、「ありがとうございます」と、答えましょう。",
+    "romaji": "Sore wa, shitsurei ni kikoemasu. Okyaku-san toshite, 'arigatou gozaimasu' to, kotaemashou."
+  },
+  "vl12.p6_mis_retry": {
+    "en": "Thank you very much.",
+    "ru": "Большое спасибо.",
+    "zh": "谢谢。",
+    "ja": "ありがとうございます。",
+    "romaji": "Arigatou gozaimasu."
+  },
+  "vl12.p6_mis_relief": {
+    "en": "Yes, that's it. That sounds much nicer.",
+    "ru": "Да, именно так. Стало гораздо приятнее.",
+    "zh": "对，就是这个。感觉好多了。",
+    "ja": "はい、それです。感じが、よくなりました。",
+    "romaji": "Hai, sore desu. Kanji ga, yoku narimashita."
+  },
+  "vl12.p6_own_r": {
+    "en": "Lovely. If you add a few words, the staff will smile too.",
+    "ru": "Прекрасно. Если добавить пару слов, сотрудник тоже улыбнётся.",
+    "zh": "真好。多加一句话，店员也会露出笑容。",
+    "ja": "すてきです。一言、そえると、店員さんも、笑顔になりますよ。",
+    "romaji": "Suteki desu. Hitokoto, soeru to, tenin-san mo, egao ni narimasu yo."
+  },
+  "vl12.p6_min_r": {
+    "en": "“Doumo” gets it across too. Saying “arigatou gozaimasu” is more polite.",
+    "ru": "«Домо» тоже понятно. «Аригато: годзаимас» звучит вежливее.",
+    "zh": "说「どうも」也能传达。说「ありがとうございます」会更礼貌。",
+    "ja": "「どうも」でも、伝わります。「ありがとうございます」と言うと、もっと丁寧です。",
+    "romaji": "'Doumo' demo, tsutawarimasu. 'Arigatou gozaimasu' to iu to, motto teinei desu."
+  },
+  "vl12.talk_open": {
+    "en": "Now let's talk. Out of today's ten words, which one do you most want to try using yourself?",
+    "ru": "Итак, поговорим. Какое из сегодняшних десяти слов вы больше всего хотите попробовать использовать сами?",
+    "zh": "现在来聊聊。今天这十个词里，你最想自己试着用哪个？",
+    "ja": "では、話しましょう。今日の、十の言葉の中で、いちばん、自分で使ってみたい言葉は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no, juu no kotoba no naka de, ichiban, jibun de tsukatte mitai kotoba wa, dore desu ka?"
+  },
+  "vl12.talk_ken": {
+    "en": "For me, “chuumon.” I felt dokidoki today, but I did it properly.",
+    "ru": "Для меня это «тю:мон». Сегодня я «докидоки», но всё сделал как надо.",
+    "zh": "我想用「注文」。今天心跳加快，但我做得很好。",
+    "ja": "ぼくは、「注文」です。今日は、ドキドキしましたが、ちゃんと、できました。",
+    "romaji": "Boku wa, 'chuumon' desu. Kyou wa, dokidoki shimashita ga, chanto, dekimashita."
+  },
+  "vl12.talk_mei": {
+    "en": "For me, “okawari.” I want another matcha latte.",
+    "ru": "Для меня это «окавари». Хочу ещё один матча-латте.",
+    "zh": "我想用「おかわり」。我想再喝一杯抹茶拿铁。",
+    "ja": "わたしは、「おかわり」です。抹茶ラテを、もう一杯、飲みたいです。",
+    "romaji": "Watashi wa, 'okawari' desu. Matcha rate o, mou ippai, nomitai desu."
+  },
+  "vl12.talk_yuki": {
+    "en": "For me, “teinei.” When you speak politely, the staff smile too.",
+    "ru": "Для меня это «тэйнэй». Когда вы говорите вежливо, сотрудники тоже улыбаются.",
+    "zh": "我想用「丁寧」。说得礼貌，店员也会露出笑容。",
+    "ja": "わたしは、「丁寧」です。丁寧に言うと、店員さんも、笑顔になります。",
+    "romaji": "Watashi wa, 'teinei' desu. Teinei ni iu to, tenin-san mo, egao ni narimasu."
+  },
+  "vl12.talk_tanaka": {
+    "en": "Lovely. The more you use words, the more confidence they give you.",
+    "ru": "Прекрасно. Чем больше используете слова, тем больше уверенности.",
+    "zh": "真好。语言用得越多，就越有自信。",
+    "ja": "すてきですね。言葉は、使うほど、自信になります。",
+    "romaji": "Suteki desu ne. Kotoba wa, tsukau hodo, jishin ni narimasu."
+  },
+  "vl12.pl_setup": {
+    "en": "A box of donuts on the counter catches your eye.",
+    "ru": "На стойке вам бросается в глаза коробка с пончиками.",
+    "zh": "柜台上的甜甜圈盒子映入眼帘。",
+    "ja": "カウンターの上の、ドーナツの箱が、目に入った。",
+    "romaji": "Kauntaa no ue no, doonatsu no hako ga, me ni haitta."
+  },
+  "vl12.talk_player": {
+    "en": "(Counter, order, matcha latte, counters, polite, snack, bag, refill, sorry to keep you waiting, dokidoki. I managed to order in Japanese at a café. Next time, I'll try coming by myself.)",
+    "ru": "(Стойка, заказ, матча-латте, счётные слова, вежливость, снэк, пакет, добавка, извините, что заставил ждать, докидоки. Я смог сделать заказ на японском в кафе. В следующий раз попробую прийти один.)",
+    "zh": "（柜台、点餐、抹茶拿铁、助数词、礼貌、零食、袋子、续杯、让您久等了、心跳加速。我在咖啡馆用日语点餐成功了。下次，试着自己一个人来。）",
+    "ja": "（カウンター、注文、抹茶ラテ、助数詞、丁寧、スナック、袋、おかわり、お待たせしました、ドキドキ。カフェで、日本語で注文できた。次は、ひとりでも、来てみよう。）",
+    "romaji": "(Kauntaa, chuumon, matcha rate, josuushi, teinei, sunakku, fukuro, okawari, omatase shimashita, dokidoki. I was able to order in Japanese at a café. Next time, I'll try coming alone.)"
+  },
+  "vl12.talk_close": {
+    "en": "Well done, everyone. You used Japanese at a café. Then, let's meet again in the classroom.",
+    "ru": "Отлично, все. Вы использовали японский в кафе. А теперь — до встречи в классе.",
+    "zh": "各位，做得很好。你们在咖啡馆用上了日语。那么，我们教室里再见吧。",
+    "ja": "みなさん、よくできました。カフェで、日本語が、使えましたね。では、また、教室で、会いましょう。",
+    "romaji": "Minasan, yoku dekimashita. Kafe de, nihongo ga, tsukaemashita ne. Dewa, mata, kyoushitsu de, aimashou."
+  },
+  "vl12.complete": {
+    "en": "End of Vocabulary Lesson 12.",
+    "ru": "Конец урока лексики 12.",
+    "zh": "词汇课 12 结束。",
+    "ja": "語彙レッスン12、おわり。",
+    "romaji": "Goi ressun juuni, owari."
+  }
+}

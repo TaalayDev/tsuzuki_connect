@@ -16,9 +16,7 @@ VideoViewType backgroundVideoViewType(TargetPlatform platform) {
   // devices (notably the iPhone X on iOS 16). Render AVPlayer's native view
   // directly on iOS; keep textures elsewhere so desktop blur/compositing is
   // unchanged.
-  return platform == TargetPlatform.iOS
-      ? VideoViewType.platformView
-      : VideoViewType.textureView;
+  return platform == TargetPlatform.iOS ? VideoViewType.platformView : VideoViewType.textureView;
 }
 
 class BackgroundVideoLoop extends StatefulWidget {
@@ -30,8 +28,7 @@ class BackgroundVideoLoop extends StatefulWidget {
   State<BackgroundVideoLoop> createState() => _BackgroundVideoLoopState();
 }
 
-class _BackgroundVideoLoopState extends State<BackgroundVideoLoop>
-    with SingleTickerProviderStateMixin {
+class _BackgroundVideoLoopState extends State<BackgroundVideoLoop> with SingleTickerProviderStateMixin {
   static const _epsilon = Duration(milliseconds: 1000 ~/ 30);
 
   VideoPlayerController? _controller;
@@ -79,13 +76,16 @@ class _BackgroundVideoLoopState extends State<BackgroundVideoLoop>
       // audio-focus fight entirely.
       videoPlayerOptions: VideoPlayerOptions(mixWithOthers: true),
     );
+    controller.setVolume(0);
+    if (entry.speed != 1.0) {
+      await controller.setPlaybackSpeed(entry.speed);
+    }
+
     _controller = controller;
     _loadError = null;
     _hasPlaybackError = false;
     _direction = 1;
-    controller.addListener(
-      () => _handleControllerValue(controller, generation),
-    );
+    controller.addListener(() => _handleControllerValue(controller, generation));
 
     try {
       await controller.initialize();
@@ -121,13 +121,8 @@ class _BackgroundVideoLoopState extends State<BackgroundVideoLoop>
     }
   }
 
-  void _handleControllerValue(
-    VideoPlayerController controller,
-    int generation,
-  ) {
-    if (!mounted ||
-        generation != _loadGeneration ||
-        !identical(_controller, controller)) {
+  void _handleControllerValue(VideoPlayerController controller, int generation) {
+    if (!mounted || generation != _loadGeneration || !identical(_controller, controller)) {
       return;
     }
 
@@ -166,8 +161,7 @@ class _BackgroundVideoLoopState extends State<BackgroundVideoLoop>
       return;
     }
 
-    if ((controller.value.position - target).abs() >= _epsilon &&
-        target != _lastSeekTarget) {
+    if ((controller.value.position - target).abs() >= _epsilon && target != _lastSeekTarget) {
       _lastSeekTarget = target;
       controller.seekTo(target);
     }
@@ -198,14 +192,10 @@ class _BackgroundVideoLoopState extends State<BackgroundVideoLoop>
     if (entry == null) return const SizedBox.shrink();
 
     final poster = _buildPoster(entry);
-    if (controller == null ||
-        !controller.value.isInitialized ||
-        _hasPlaybackError) {
+    if (controller == null || !controller.value.isInitialized || _hasPlaybackError) {
       assert(() {
         if (_loadError != null) {
-          debugPrint(
-            'Background video is showing its fallback after: $_loadError',
-          );
+          debugPrint('Background video is showing its fallback after: $_loadError');
         }
         return true;
       }());
@@ -217,10 +207,7 @@ class _BackgroundVideoLoopState extends State<BackgroundVideoLoop>
     // the poster prevents a flash of the plain scene background during that
     // hand-off. The controller listener restores it on runtime errors.
     return ClipRect(
-      child: Stack(
-        fit: StackFit.expand,
-        children: [poster, _buildVideo(controller, entry)],
-      ),
+      child: Stack(fit: StackFit.expand, children: [poster, _buildVideo(controller, entry)]),
     );
   }
 
@@ -242,10 +229,7 @@ class _BackgroundVideoLoopState extends State<BackgroundVideoLoop>
     return ClipRect(child: poster);
   }
 
-  Widget _buildVideo(
-    VideoPlayerController controller,
-    BackgroundVideoEntry entry,
-  ) {
+  Widget _buildVideo(VideoPlayerController controller, BackgroundVideoEntry entry) {
     Widget video = FittedBox(
       fit: BoxFit.cover,
       child: SizedBox(

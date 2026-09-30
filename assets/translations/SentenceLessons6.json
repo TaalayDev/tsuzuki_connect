@@ -1,0 +1,667 @@
+{
+  "sl6.title": {
+    "en": "The Verb ます Form: を, に, で",
+    "ru": "Глагол в форме мас: о, ни, дэ",
+    "zh": "动词ます形：を・に・で",
+    "ja": "動詞のます形：を・に・で",
+    "romaji": "Doushi no masu-kei: o, ni, de"
+  },
+  "sl6.subtitle": {
+    "en": "What do you do on the weekend?",
+    "ru": "Что вы делаете на выходных?",
+    "zh": "周末做什么？",
+    "ja": "週末に、何をする？",
+    "romaji": "Shuumatsu ni, nani o suru?"
+  },
+  "sl6.description": {
+    "en": "In a chat at the park, practice the verb ます form, how to use を, に and で, and the ません and ますか forms.",
+    "ru": "В беседе в парке потренируйте форму глаголов на «мас», использование «о», «ни» и «дэ», а также формы «масэн» и «мас ка».",
+    "zh": "在公园里闲聊，练习动词ます形、「を」「に」「で」的用法，以及「ません」「ますか」的形式。",
+    "ja": "公園でのおしゃべりで、動詞のます形と、「を」「に」「で」の使い方、「ません」「ますか」の形を練習します。",
+    "romaji": "Kouen de no oshaberi de, doushi no masu-kei to, 'o' 'ni' 'de' no tsukaikata, 'masen' 'masu ka' no katachi o renshuu shimasu."
+  },
+  "sl6.pattern.1": {
+    "en": "verb with an object (を)",
+    "ru": "глагол с объектом (を)",
+    "zh": "带宾语的动词（を）",
+    "ja": "〜を〜ます",
+    "romaji": "~ o ~ masu"
+  },
+  "sl6.pattern.2": {
+    "en": "go / come / return to a place or time (に)",
+    "ru": "идти / приходить / возвращаться в место или время (に)",
+    "zh": "去／来／回到某地或某时（に）",
+    "ja": "〜に行きます・来ます・帰ります",
+    "romaji": "~ ni ikimasu, kimasu, kaerimasu"
+  },
+  "sl6.pattern.3": {
+    "en": "doing something at a place or by a means (で)",
+    "ru": "действие в месте или с помощью средства (で)",
+    "zh": "在某地做某事／用某种方式（で）",
+    "ja": "〜で〜ます",
+    "romaji": "~ de ~ masu"
+  },
+  "sl6.pattern.4": {
+    "en": "affirmative, negative, and question forms of verbs",
+    "ru": "утвердительная, отрицательная и вопросительная формы глаголов",
+    "zh": "动词的肯定、否定和疑问形式",
+    "ja": "〜ます・〜ません・〜ますか",
+    "romaji": "~ masu, ~ masen, ~ masu ka"
+  },
+  "sl6.setup": {
+    "en": "A warm spring afternoon. Everyone is sitting on a park bench, talking about the weekend. Nearby, children are playing.",
+    "ru": "Тёплый весенний день. Все сидят на скамейке в парке и говорят о выходных. Неподалёку играют дети.",
+    "zh": "春天暖和的午后。大家坐在公园的长椅上，聊着周末的事。附近有孩子们在玩耍。",
+    "ja": "春の、あたたかい午後。みんなは、公園のベンチに座って、週末の話をしている。近くで、子どもたちが、あそんでいる。",
+    "romaji": "Haru no, atatakai gogo. Minna wa, kouen no benchi ni suwatte, shuumatsu no hanashi o shite iru. Chikaku de, kodomotachi ga, asonde iru."
+  },
+  "sl6.t_intro": {
+    "en": "Today's theme is verbs. Let's use action words like “tabemasu” and “ikimasu” in their polite form.",
+    "ru": "Тема сегодня — глаголы. Давайте используем слова действия, такие как «табэмас» и «икимас», в вежливой форме.",
+    "zh": "今天的主题是动词。我们用礼貌的形式来使用「食べます」「行きます」这样表示动作的词。",
+    "ja": "今日のテーマは、動詞です。「食べます」「行きます」のような、動きの言葉を、ていねいな形で、使ってみましょう。",
+    "romaji": "Kyou no teema wa, doushi desu. 'Tabemasu' 'ikimasu' no you na, ugoki no kotoba o, teinei na katachi de, tsukatte mimashou."
+  },
+  "sl6.s1_intro": {
+    "en": "In Japanese, the verb comes at the very end of the sentence. The “masu” form is the polite form: tabemasu, nomimasu, yomimasu, mimasu, kaimasu.",
+    "ru": "В японском глагол стоит в самом конце предложения. Форма на «мас» — вежливая форма: табэмас, номимас, ёмимас, мимас, каймас.",
+    "zh": "在日语里，动词放在句子的最后。「ます」形是礼貌的形式：食べます、飲みます、読みます、見ます、買います。",
+    "ja": "日本語では、動詞は、文の、いちばん最後に来ます。「ます」の形は、ていねいな形です。食べます、飲みます、読みます、見ます、買います。",
+    "romaji": "Nihongo de wa, doushi wa, bun no, ichiban saigo ni kimasu. 'Masu' no katachi wa, teinei na katachi desu. Tabemasu, nomimasu, yomimasu, mimasu, kaimasu."
+  },
+  "sl6.s1_ken": {
+    "en": "I eat bread.",
+    "ru": "Я ем хлеб.",
+    "zh": "我吃面包。",
+    "ja": "ぼくは、パンを食べます。",
+    "romaji": "Boku wa, pan o tabemasu."
+  },
+  "sl6.s1_mei": {
+    "en": "I read books.",
+    "ru": "Я читаю книги.",
+    "zh": "我读书。",
+    "ja": "わたしは、本を読みます。",
+    "romaji": "Watashi wa, hon o yomimasu."
+  },
+  "sl6.s1_yuki": {
+    "en": "I watch movies.",
+    "ru": "Я смотрю фильмы.",
+    "zh": "我看电影。",
+    "ja": "わたしは、映画を見ます。",
+    "romaji": "Watashi wa, eiga o mimasu."
+  },
+  "sl6.s1_break": {
+    "en": "“O” marks the object of the action. In “pan o tabemasu,” “pan” is the thing being eaten.",
+    "ru": "«О» обозначает объект действия. В «пан о табэмас» «пан» — это то, что едят.",
+    "zh": "「を」表示动作的对象。在「パンを食べます」中，「パン」就是被吃的东西。",
+    "ja": "「を」は、動きの対象を表します。「パンを食べます」の、「パン」が、食べるものです。",
+    "romaji": "'O' wa, ugoki no taishou o arawashimasu. 'Pan o tabemasu' no, 'pan' ga, taberu mono desu."
+  },
+  "sl6.s1_q1": {
+    "en": "Is “を” the same sound as “お”?",
+    "ru": "«を» звучит так же, как «お»?",
+    "zh": "「を」和「お」是同一个音吗？",
+    "ja": "「を」は、「お」と、同じ音ですか？",
+    "romaji": "'O' wa, 'o' to, onaji oto desu ka?"
+  },
+  "sl6.s1_a1": {
+    "en": "Yes, it is the same “o” sound. But “を” is used only as a particle. For ordinary words, you use “お.”",
+    "ru": "Да, это тот же звук «о». Но «を» используют только как частицу. В обычных словах пишут «お».",
+    "zh": "是的，发音是同一个「お」。但是「を」只作为助词使用。在普通的词里要用「お」。",
+    "ja": "はい、同じ「お」の音です。でも、「を」は、助詞としてだけ使います。ふつうの言葉には、「お」を使います。",
+    "romaji": "Hai, onaji 'o' no oto desu. Demo, 'o' wa, joshi to shite dake tsukaimasu. Futsuu no kotoba ni wa, 'o' o tsukaimasu."
+  },
+  "sl6.p1_prompt": {
+    "en": "Yuki asked, “What will you drink?” You want to drink coffee. How do you answer?",
+    "ru": "Юки спросила: «Что вы будете пить?» Вы хотите кофе. Что вы ответите?",
+    "zh": "由纪问：“你要喝什么？”你想喝咖啡。你会怎么回答？",
+    "ja": "由紀さんが、聞きました。「何を、飲みますか？」あなたは、コーヒーが飲みたいです。何と答えますか？",
+    "romaji": "Yuki-san ga, kikimashita. 'Nani o, nomimasu ka?' Anata wa, koohii ga nomitai desu. Nan to kotaemasu ka?"
+  },
+  "sl6.c1_natural": {
+    "en": "“I'll drink coffee.”",
+    "ru": "«Я буду пить кофе».",
+    "zh": "“我喝咖啡。”",
+    "ja": "「コーヒーを、飲みます。」",
+    "romaji": "'Koohii o, nomimasu.'"
+  },
+  "sl6.c1_formal": {
+    "en": "“I shall have coffee.”",
+    "ru": "«Я отведаю кофе».",
+    "zh": "“我来享用咖啡。”",
+    "ja": "「コーヒーを、いただきます。」",
+    "romaji": "'Koohii o, itadakimasu.'"
+  },
+  "sl6.c1_mistake": {
+    "en": "“Coffee (ga) drinks.”",
+    "ru": "«Кофе (га) пьёт».",
+    "zh": "“咖啡（が）喝。”（误用了が）",
+    "ja": "「コーヒーが、飲みます。」",
+    "romaji": "'Koohii ga, nomimasu.'"
+  },
+  "sl6.c1_own": {
+    "en": "“I'll drink coffee. I'll eat cake.”",
+    "ru": "«Я буду пить кофе. Я буду есть торт».",
+    "zh": "“我喝咖啡。我吃蛋糕。”",
+    "ja": "「コーヒーを、飲みます。ケーキを、食べます。」",
+    "romaji": "'Koohii o, nomimasu. Keeki o, tabemasu.'"
+  },
+  "sl6.c1_min": {
+    "en": "“Coffee... drink...”",
+    "ru": "«Кофе… пью…»",
+    "zh": "“咖啡……喝……”",
+    "ja": "「コーヒー…飲みます…」",
+    "romaji": "'Koohii... nomimasu...'"
+  },
+  "sl6.p1_nat_yuki": {
+    "en": "Yes, coffee. I'll have the same.",
+    "ru": "Да, кофе. Я тоже выпью то же самое.",
+    "zh": "好的，咖啡对吧。我也喝一样的。",
+    "ja": "はい、コーヒーですね。わたしも、同じものを飲みます。",
+    "romaji": "Hai, koohii desu ne. Watashi mo, onaji mono o nomimasu."
+  },
+  "sl6.p1_form_ken": {
+    "en": "Haha, “itadakimasu” is the greeting before eating. Here “nomimasu” is fine.",
+    "ru": "Ха-ха, «итадакимас» — это приветствие перед едой. Здесь достаточно «номимас».",
+    "zh": "哈哈，「いただきます」是吃饭前的问候语。这里说「飲みます」就好。",
+    "ja": "あはは、「いただきます」は、食べる前の、あいさつですよ。ここは、「飲みます」で、いいです。",
+    "romaji": "Ahaha, 'itadakimasu' wa, taberu mae no, aisatsu desu yo. Koko wa, 'nomimasu' de, ii desu."
+  },
+  "sl6.p1_mis_tanaka": {
+    "en": "Close. To mark the thing being drunk, you use “o,” not “ga.” It's “koohii o nomimasu.”",
+    "ru": "Почти. Чтобы обозначить то, что пьют, используют «о», а не «га». Говорят «кохи о номимас».",
+    "zh": "很接近。表示所喝的东西时，用「を」，而不是「が」。说「コーヒーを飲みます」。",
+    "ja": "惜しいです。飲むものを表すときは、「が」ではなく、「を」を使います。「コーヒーを飲みます」です。",
+    "romaji": "Oshii desu. Nomu mono o arawasu toki wa, 'ga' de wa naku, 'o' o tsukaimasu. 'Koohii o nomimasu' desu."
+  },
+  "sl6.p1_mis_retry": {
+    "en": "Oh, I'll drink coffee.",
+    "ru": "Ой, я буду пить кофе.",
+    "zh": "啊，我喝咖啡。",
+    "ja": "あっ、コーヒーを、飲みます。",
+    "romaji": "A, koohii o, nomimasu."
+  },
+  "sl6.p1_mis_relief": {
+    "en": "Yes, that's it. With “o,” the meaning is clear.",
+    "ru": "Да, именно так. С «о» смысл ясен.",
+    "zh": "对，就是这个。用了「を」，意思就清楚了。",
+    "ja": "はい、それです。「を」で、意味がはっきりしました。",
+    "romaji": "Hai, sore desu. 'O' de, imi ga hakkiri shimashita."
+  },
+  "sl6.p1_own_yuki": {
+    "en": "Nice. Coffee and cake. A perfect combination.",
+    "ru": "Отлично. Кофе и торт. Идеальное сочетание.",
+    "zh": "不错。咖啡和蛋糕。绝配。",
+    "ja": "いいですね。コーヒーと、ケーキ。ぴったりの組み合わせです。",
+    "romaji": "Ii desu ne. Koohii to, keeki. Pittari no kumiawase desu."
+  },
+  "sl6.p1_min_mei": {
+    "en": "The meaning gets across. Try adding “o” too: “koohii o, nomimasu.”",
+    "ru": "Смысл понятен. Попробуйте добавить и «о»: «кохи о, номимас».",
+    "zh": "意思能传达。试着把「を」也加上：「コーヒーを、飲みます」。",
+    "ja": "意味は、伝わりますよ。「コーヒーを、飲みます」と、「を」もつけてみましょう。",
+    "romaji": "Imi wa, tsutawarimasu yo. 'Koohii o, nomimasu' to, 'o' mo tsukete mimashou."
+  },
+  "sl6.s2_intro": {
+    "en": "Next is “ni.” When you state a destination, you use it like “gakkou ni ikimasu.” The same goes for “kimasu” and “kaerimasu.”",
+    "ru": "Дальше — «ни». Когда называют пункт назначения, используют «гакко ни икимас». То же относится к «кимас» и «каэримас».",
+    "zh": "接下来是「に」。说目的地时，用法如「学校に行きます」。「来ます」「帰ります」也一样。",
+    "ja": "次は、「に」です。行き先を言うとき、「学校に行きます」のように使います。「来ます」「帰ります」も、同じです。",
+    "romaji": "Tsugi wa, 'ni' desu. Ikisaki o iu toki, 'gakkou ni ikimasu' no you ni tsukaimasu. 'Kimasu' 'kaerimasu' mo, onaji desu."
+  },
+  "sl6.s2_ex": {
+    "en": "I come to school every day. I go home at five o'clock.",
+    "ru": "Я прихожу в школу каждый день. В пять часов я иду домой.",
+    "zh": "我每天来学校。五点回家。",
+    "ja": "私は、毎日、学校に来ます。五時に、うちに帰ります。",
+    "romaji": "Watashi wa, mainichi, gakkou ni kimasu. Goji ni, uchi ni kaerimasu."
+  },
+  "sl6.s2_time": {
+    "en": "The “ni” in “goji ni” marks a time. You add “ni” after clock times and days of the week.",
+    "ru": "«Ни» в «годзи ни» обозначает время. «Ни» добавляют после времени по часам и дней недели.",
+    "zh": "「五時に」里的「に」表示时间。在钟表时间和星期几后面加上「に」。",
+    "ja": "「五時に」の「に」は、時間を表します。時計の時間や、曜日の後ろに、「に」をつけます。",
+    "romaji": "'Goji ni' no 'ni' wa, jikan o arawashimasu. Tokei no jikan ya, youbi no ushiro ni, 'ni' o tsukemasu."
+  },
+  "sl6.s2_q1": {
+    "en": "Are “gakkou e ikimasu” and “gakkou ni ikimasu” different?",
+    "ru": "«Гакко э икимас» и «гакко ни икимас» отличаются?",
+    "zh": "「学校へ行きます」和「学校に行きます」有区别吗？",
+    "ja": "「学校へ行きます」と、「学校に行きます」は、ちがいますか？",
+    "romaji": "'Gakkou e ikimasu' to, 'gakkou ni ikimasu' wa, chigaimasu ka?"
+  },
+  "sl6.s2_a1": {
+    "en": "The meaning is almost the same. “へ” is read “e.” It expresses direction a little more strongly.",
+    "ru": "Значение почти одинаковое. «へ» читается «э». Оно чуть сильнее выражает направление.",
+    "zh": "意思几乎相同。「へ」读作「え」。更强调方向。",
+    "ja": "意味は、ほとんど同じです。「へ」は、「え」と読みます。方向を、少し強く表します。",
+    "romaji": "Imi wa, hotondo onaji desu. 'E' wa, 'e' to yomimasu. Houkou o, sukoshi tsuyoku arawashimasu."
+  },
+  "sl6.s2_q2": {
+    "en": "In “ashita ikimasu,” don't you need “ni” after “ashita”?",
+    "ru": "В «асита икимас» не нужно ли «ни» после «асита»?",
+    "zh": "「あした行きます」里的「あした」后面，不需要「に」吗？",
+    "ja": "「あした行きます」の、「あした」に、「に」は、いりませんか？",
+    "romaji": "'Ashita ikimasu' no, 'ashita' ni, 'ni' wa, irimasen ka?"
+  },
+  "sl6.s2_a2": {
+    "en": "You don't add “ni” to words like “kyou,” “ashita,” and “mainichi.” You do add it to clock times, days of the week, and dates.",
+    "ru": "К словам «кё», «асита», «майнити» «ни» не добавляют. К времени по часам, дням недели и датам — добавляют.",
+    "zh": "「今日」「明日」「毎日」等词后面不加「に」。钟表时间、星期几和日期后面要加。",
+    "ja": "「今日」「明日」「毎日」などには、「に」をつけません。時計の時間や、曜日、日にちには、つけます。",
+    "romaji": "'Kyou' 'ashita' 'mainichi' nado ni wa, 'ni' o tsukemasen. Tokei no jikan ya, youbi, hinichi ni wa, tsukemasu."
+  },
+  "sl6.s2_ask": {
+    "en": "Where will you go tomorrow?",
+    "ru": "Куда вы пойдёте завтра?",
+    "zh": "明天你去哪里？",
+    "ja": "あしたは、どこに行きますか？",
+    "romaji": "Ashita wa, doko ni ikimasu ka?"
+  },
+  "sl6.p2_prompt": {
+    "en": "Mei asked. Tomorrow you will go to school. How do you answer?",
+    "ru": "Мэй спросила. Завтра вы пойдёте в школу. Что вы ответите?",
+    "zh": "小梅问了。你明天要去学校。你会怎么回答？",
+    "ja": "メイさんが、聞きました。あなたは、あした、学校に行きます。何と答えますか？",
+    "romaji": "Mei-san ga, kikimashita. Anata wa, ashita, gakkou ni ikimasu. Nan to kotaemasu ka?"
+  },
+  "sl6.c2_natural": {
+    "en": "“Tomorrow, I'll go to school.”",
+    "ru": "«Завтра я пойду в школу».",
+    "zh": "“明天我去学校。”",
+    "ja": "「あした、学校に行きます。」",
+    "romaji": "'Ashita, gakkou ni ikimasu.'"
+  },
+  "sl6.c2_formal": {
+    "en": "“Tomorrow, I shall go to school.”",
+    "ru": "«Завтра я направлюсь в школу».",
+    "zh": "“明天我要前往学校。”",
+    "ja": "「明日は、学校へ参ります。」",
+    "romaji": "'Ashita wa, gakkou e mairimasu.'"
+  },
+  "sl6.c2_mistake": {
+    "en": "“Tomorrow, I'll go by the school (de).”",
+    "ru": "«Завтра я пойду посредством школы (дэ)».",
+    "zh": "“明天，我用学校去。”（误用了で）",
+    "ja": "「あした、学校で行きます。」",
+    "romaji": "'Ashita, gakkou de ikimasu.'"
+  },
+  "sl6.c2_own": {
+    "en": "“Tomorrow, at five, I'll go to school.”",
+    "ru": "«Завтра в пять часов я пойду в школу».",
+    "zh": "“明天五点，我去学校。”",
+    "ja": "「あした、五時に、学校に行きます。」",
+    "romaji": "'Ashita, goji ni, gakkou ni ikimasu.'"
+  },
+  "sl6.c2_min": {
+    "en": "“Tomorrow... school... go...”",
+    "ru": "«Завтра… школа… иду…»",
+    "zh": "“明天……学校……去……”",
+    "ja": "「あした…学校…行きます…」",
+    "romaji": "'Ashita... gakkou... ikimasu...'"
+  },
+  "sl6.p2_nat_mei": {
+    "en": "I'll go to school tomorrow too. Let's go together.",
+    "ru": "Я тоже завтра пойду в школу. Пойдёмте вместе.",
+    "zh": "我明天也去学校。我们一起去吧。",
+    "ja": "わたしも、あした、学校に行きます。いっしょに、行きましょう。",
+    "romaji": "Watashi mo, ashita, gakkou ni ikimasu. Issho ni, ikimashou."
+  },
+  "sl6.p2_form_ken": {
+    "en": "Haha, how polite. With friends, “gakkou ni ikimasu” is fine.",
+    "ru": "Ха-ха, как вежливо. Друзьям достаточно «гакко ни икимас».",
+    "zh": "哈哈，真礼貌。对朋友说「学校に行きます」就可以了。",
+    "ja": "あはは、ていねいですね。友達には、「学校に行きます」で、大丈夫ですよ。",
+    "romaji": "Ahaha, teinei desu ne. Tomodachi ni wa, 'gakkou ni ikimasu' de, daijoubu desu yo."
+  },
+  "sl6.p2_mis_yuki": {
+    "en": "Close. For a destination, you use “ni,” not “de.” “De” is the place where you do something.",
+    "ru": "Почти. Для пункта назначения используют «ни», а не «дэ». «Дэ» — это место, где что-то делают.",
+    "zh": "很接近。目的地要用「に」，而不是「で」。「で」是在那里做某事的地点。",
+    "ja": "惜しいです。行き先には、「で」ではなく、「に」を使います。「で」は、そこで何かをする場所です。",
+    "romaji": "Oshii desu. Ikisaki ni wa, 'de' de wa naku, 'ni' o tsukaimasu. 'De' wa, soko de nani ka o suru basho desu."
+  },
+  "sl6.p2_mis_retry": {
+    "en": "Oh, tomorrow, I'll go to school.",
+    "ru": "Ой, завтра я пойду в школу.",
+    "zh": "啊，明天我去学校。",
+    "ja": "あっ、あした、学校に行きます。",
+    "romaji": "A, ashita, gakkou ni ikimasu."
+  },
+  "sl6.p2_mis_relief": {
+    "en": "Yes, that's it! With “ni,” the destination is clear.",
+    "ru": "Да, именно так! С «ни» пункт назначения ясен.",
+    "zh": "对，就是这个！用了「に」，目的地就清楚了。",
+    "ja": "はい、それです！「に」で、行き先が、はっきりしました。",
+    "romaji": "Hai, sore desu! 'Ni' de, ikisaki ga, hakkiri shimashita."
+  },
+  "sl6.p2_own_mei": {
+    "en": "Five o'clock. I'll go at five too. We can meet.",
+    "ru": "В пять часов, значит. Я тоже пойду в пять. Мы встретимся.",
+    "zh": "五点对吧。我也五点去。可以碰面了。",
+    "ja": "五時ですね。わたしも、五時に行きます。会えますね。",
+    "romaji": "Goji desu ne. Watashi mo, goji ni ikimasu. Aemasu ne."
+  },
+  "sl6.p2_min_tanaka": {
+    "en": "I understand. Next time, try saying it through to the verb: “ashita, gakkou ni ikimasu.”",
+    "ru": "Понимаю. В следующий раз доведите фразу до глагола: «асита, гакко ни икимас».",
+    "zh": "我明白。下次试着说到动词为止：「あした、学校に行きます」。",
+    "ja": "分かりますよ。次は、「あした、学校に行きます」と、動詞まで、言ってみましょう。",
+    "romaji": "Wakarimasu yo. Tsugi wa, 'ashita, gakkou ni ikimasu' to, doushi made, itte mimashou."
+  },
+  "sl6.cafe": {
+    "en": "Everyone goes into a café near the park. Ken opens his laptop and begins his homework.",
+    "ru": "Все зашли в кафе возле парка. Кен открыл ноутбук и начал делать домашнее задание.",
+    "zh": "大家走进公园附近的咖啡店。健打开电脑，开始做作业。",
+    "ja": "みんなは、公園の近くのカフェに入った。ケンは、パソコンを開いて、宿題をはじめた。",
+    "romaji": "Minna wa, kouen no chikaku no kafe ni haitta. Ken wa, pasokon o hiraite, shukudai o hajimeta."
+  },
+  "sl6.s3_intro": {
+    "en": "Next is “de.” It marks the place where you do something. It is used like “kafe de benkyou shimasu.”",
+    "ru": "Дальше — «дэ». Оно обозначает место, где что-то делают. Используется так: «кафэ дэ бэнкё симас».",
+    "zh": "接下来是「で」。表示做某事的地点。用法如「カフェで勉強します」。",
+    "ja": "次は、「で」です。何かを「する場所」を表します。「カフェで勉強します」のように使います。",
+    "romaji": "Tsugi wa, 'de' desu. Nani ka o 'suru basho' o arawashimasu. 'Kafe de benkyou shimasu' no you ni tsukaimasu."
+  },
+  "sl6.s3_ex": {
+    "en": "I read books in the library. Ken studies at the café.",
+    "ru": "Я читаю книги в библиотеке. Кен занимается в кафе.",
+    "zh": "我在图书室读书。健在咖啡店学习。",
+    "ja": "わたしは、図書室で、本を読みます。ケンさんは、カフェで、勉強します。",
+    "romaji": "Watashi wa, toshoshitsu de, hon o yomimasu. Ken-san wa, kafe de, benkyou shimasu."
+  },
+  "sl6.s3_means": {
+    "en": "“De” also marks a means or method. “Densha de, ikimasu” means “I go using the train.”",
+    "ru": "«Дэ» обозначает также способ. «Дэнся дэ, икимас» означает «еду на поезде».",
+    "zh": "「で」还表示方式。「電車で、行きます」的意思是“乘电车去”。",
+    "ja": "「で」は、方法も表します。「電車で、行きます」は、「電車を使って、行きます」という意味です。",
+    "romaji": "'De' wa, houhou mo arawashimasu. 'Densha de, ikimasu' wa, 'densha o tsukatte, ikimasu' to iu imi desu."
+  },
+  "sl6.s3_q": {
+    "en": "How are “ni” and “de” different?",
+    "ru": "Чем «ни» отличается от «дэ»?",
+    "zh": "「に」和「で」有什么不同？",
+    "ja": "「に」と「で」は、どう、ちがいますか？",
+    "romaji": "'Ni' to 'de' wa, dou, chigaimasu ka?"
+  },
+  "sl6.s3_a": {
+    "en": "“Ni” is a destination or the place where something “exists.” “De” is the place where you “do” something. Compare “tsukue no ue ni, hon ga arimasu” with “tsukue no ue de, benkyou shimasu.”",
+    "ru": "«Ни» — пункт назначения или место, где что-то «находится». «Дэ» — место, где что-то «делают». Сравните «цукуэ но уэ ни, хон га аримас» и «цукуэ но уэ дэ, бэнкё симас».",
+    "zh": "「に」是目的地，或东西「存在」的地点。「で」是在那里「做」某事的地点。请比较「机の上に、本があります」和「机の上で、勉強します」。",
+    "ja": "「に」は、行き先や、ものが「ある」場所です。「で」は、そこで何かを「する」場所です。「机の上に、本があります」と、「机の上で、勉強します」を、比べてみましょう。",
+    "romaji": "'Ni' wa, ikisaki ya, mono ga 'aru' basho desu. 'De' wa, soko de nani ka o 'suru' basho desu. 'Tsukue no ue ni, hon ga arimasu' to, 'tsukue no ue de, benkyou shimasu' o, kurabete mimashou."
+  },
+  "sl6.ask_where": {
+    "en": "I always study at cafés. Where do you study?",
+    "ru": "Я всегда занимаюсь в кафе. А вы где занимаетесь?",
+    "zh": "我总是在咖啡店学习。你在哪里学习？",
+    "ja": "ぼくは、いつも、カフェで勉強します。あなたは、どこで勉強しますか？",
+    "romaji": "Boku wa, itsumo, kafe de benkyou shimasu. Anata wa, doko de benkyou shimasu ka?"
+  },
+  "sl6.p3_prompt": {
+    "en": "Ken asked. You always study in the library. How do you answer?",
+    "ru": "Кен спросил. Вы всегда занимаетесь в библиотеке. Что вы ответите?",
+    "zh": "健问了。你总是在图书室学习。你会怎么回答？",
+    "ja": "ケンさんが、聞きました。あなたは、いつも、図書室で勉強します。何と答えますか？",
+    "romaji": "Ken-san ga, kikimashita. Anata wa, itsumo, toshoshitsu de benkyou shimasu. Nan to kotaemasu ka?"
+  },
+  "sl6.c3_natural": {
+    "en": "“I study in the library.”",
+    "ru": "«Я занимаюсь в библиотеке».",
+    "zh": "“我在图书室学习。”",
+    "ja": "「図書室で、勉強します。」",
+    "romaji": "'Toshoshitsu de, benkyou shimasu.'"
+  },
+  "sl6.c3_formal": {
+    "en": "“I devote myself to my studies at the library.”",
+    "ru": "«Я усердствую в учёбе в библиотеке».",
+    "zh": "“我在图书室专心致志地学习。”",
+    "ja": "「図書室にて、勉学に励んでおります。」",
+    "romaji": "'Toshoshitsu nite, bengaku ni hagende orimasu.'"
+  },
+  "sl6.c3_mistake": {
+    "en": "“I study to the library (ni).”",
+    "ru": "«Я занимаюсь в библиотеку (ни)».",
+    "zh": "“我向图书室学习。”（误用了に）",
+    "ja": "「図書室に、勉強します。」",
+    "romaji": "'Toshoshitsu ni, benkyou shimasu.'"
+  },
+  "sl6.c3_own": {
+    "en": "“I study in the library. It's quiet, so I understand well.”",
+    "ru": "«Я занимаюсь в библиотеке. Там тихо, поэтому я хорошо понимаю».",
+    "zh": "“我在图书室学习。因为很安静，所以学得明白。”",
+    "ja": "「図書室で、勉強します。しずかですから、よく分かります。」",
+    "romaji": "'Toshoshitsu de, benkyou shimasu. Shizuka desu kara, yoku wakarimasu.'"
+  },
+  "sl6.c3_min": {
+    "en": "“Library... study...”",
+    "ru": "«Библиотека… учёба…»",
+    "zh": "“图书室……学习……”",
+    "ja": "「図書室…勉強…」",
+    "romaji": "'Toshoshitsu... benkyou...'"
+  },
+  "sl6.p3_nat_ken": {
+    "en": "The library is quiet and nice. I'll try going there next time.",
+    "ru": "Библиотека тихая, это здорово. В следующий раз я тоже схожу.",
+    "zh": "图书室很安静，真不错。下次我也去看看。",
+    "ja": "図書室は、しずかで、いいですね。ぼくも、今度、行ってみます。",
+    "romaji": "Toshoshitsu wa, shizuka de, ii desu ne. Boku mo, kondo, itte mimasu."
+  },
+  "sl6.p3_form_mei": {
+    "en": "Ha, that's a difficult phrase. “Toshoshitsu de, benkyou shimasu” is fine.",
+    "ru": "Ха-ха, какая сложная фраза. Достаточно «тосёсицу дэ, бэнкё симас».",
+    "zh": "呵呵，这个说法好难。说「図書室で、勉強します」就行。",
+    "ja": "ふふ、むずかしい言葉ですね。「図書室で、勉強します」で、大丈夫ですよ。",
+    "romaji": "Fufu, muzukashii kotoba desu ne. 'Toshoshitsu de, benkyou shimasu' de, daijoubu desu yo."
+  },
+  "sl6.p3_mis_tanaka": {
+    "en": "Close. For a place where you study, you use “de,” not “ni.” “De” is the place where you do something.",
+    "ru": "Почти. Для места, где вы занимаетесь, используют «дэ», а не «ни». «Дэ» — место, где что-то делают.",
+    "zh": "很接近。学习的地点要用「で」，而不是「に」。「で」是在那里做某事的地点。",
+    "ja": "惜しいです。勉強する場所には、「に」ではなく、「で」を使います。「で」は、そこで何かをする場所です。",
+    "romaji": "Oshii desu. Benkyou suru basho ni wa, 'ni' de wa naku, 'de' o tsukaimasu. 'De' wa, soko de nani ka o suru basho desu."
+  },
+  "sl6.p3_mis_retry": {
+    "en": "Oh, I study in the library.",
+    "ru": "Ой, я занимаюсь в библиотеке.",
+    "zh": "啊，我在图书室学习。",
+    "ja": "あっ、図書室で、勉強します。",
+    "romaji": "A, toshoshitsu de, benkyou shimasu."
+  },
+  "sl6.p3_mis_relief": {
+    "en": "Yes, that's it. “De” fits perfectly.",
+    "ru": "Да, именно так. «Дэ» подходит идеально.",
+    "zh": "对，就是这个。「で」用得正好。",
+    "ja": "はい、それです。「で」が、ぴったりです。",
+    "romaji": "Hai, sore desu. 'De' ga, pittari desu."
+  },
+  "sl6.p3_own_ken": {
+    "en": "Right. When it's quiet, you can concentrate. I'll try going too.",
+    "ru": "Верно. Когда тихо, можно сосредоточиться. Я тоже схожу.",
+    "zh": "是啊。安静的话，能集中精神。我也去试试。",
+    "ja": "そうですね。しずかだと、集中できます。ぼくも、行ってみます。",
+    "romaji": "Sou desu ne. Shizuka da to, shuuchuu dekimasu. Boku mo, itte mimasu."
+  },
+  "sl6.p3_min_yuki": {
+    "en": "You said the place and the verb correctly. Try adding “de”: “toshoshitsu de, benkyou shimasu.”",
+    "ru": "Место и глагол вы назвали верно. Попробуйте добавить «дэ»: «тосёсицу дэ, бэнкё симас».",
+    "zh": "地点和动词你都说对了。试着把「で」加进去：「図書室で、勉強します」。",
+    "ja": "場所と動詞は、ちゃんと言えています。「図書室で、勉強します」と、「で」を入れてみましょう。",
+    "romaji": "Basho to doushi wa, chanto ieteimasu. 'Toshoshitsu de, benkyou shimasu' to, 'de' o irete mimashou."
+  },
+  "sl6.s4_intro": {
+    "en": "The last are “masen” and “masu ka.” If you change “tabemasu” to “tabemasen,” it means “don't eat.”",
+    "ru": "Последние — «масэн» и «мас ка». Если изменить «табэмас» на «табэмасэн», получится «не ем».",
+    "zh": "最后是「ません」和「ますか」。把「食べます」变成「食べません」，就是“不吃”的意思。",
+    "ja": "最後は、「ません」と、「ますか」です。「食べます」を、「食べません」にすると、「食べない」という意味になります。",
+    "romaji": "Saigo wa, 'masen' to, 'masu ka' desu. 'Tabemasu' o, 'tabemasen' ni suru to, 'tabenai' to iu imi ni narimasu."
+  },
+  "sl6.s4_ex": {
+    "en": "“Do you drink coffee?” “Yes, I do.” “No, I don't.”",
+    "ru": "«Вы пьёте кофе?» — «Да, пью». — «Нет, не пью».",
+    "zh": "“你喝咖啡吗？”“是的，我喝。”“不，我不喝。”",
+    "ja": "「コーヒーを飲みますか？」「はい、飲みます」。「いいえ、飲みません」。",
+    "romaji": "'Koohii o nomimasu ka?' 'Hai, nomimasu.' 'Iie, nomimasen.'"
+  },
+  "sl6.s4_q": {
+    "en": "Can you use “~ ja arimasen” with verbs too?",
+    "ru": "Можно ли использовать «~ дзя аримасэн» и с глаголами?",
+    "zh": "「〜じゃありません」也可以用于动词吗？",
+    "ja": "「〜じゃありません」は、動詞にも、使いますか？",
+    "romaji": "'~ ja arimasen' wa, doushi ni mo, tsukaimasu ka?"
+  },
+  "sl6.s4_a": {
+    "en": "No. “~ ja arimasen” is for nouns. For verbs, you change “masu” to “masen.” Sentence Lesson 1 and today's study use different forms.",
+    "ru": "Нет. «~ дзя аримасэн» используют для существительных. У глаголов «мас» меняют на «масэн». Урок предложений 1 и сегодняшний урок используют разные формы.",
+    "zh": "不能。「〜じゃありません」用于名词。动词要把「ます」变成「ません」。句型课1和今天学的是不同的形式。",
+    "ja": "いいえ。「〜じゃありません」は、名詞のときです。動詞は、「ます」を「ません」に変えます。文型レッスン1と、今日の勉強は、ちがう形ですよ。",
+    "romaji": "Iie. '~ ja arimasen' wa, meishi no toki desu. Doushi wa, 'masu' o 'masen' ni kaemasu. Bunkei ressun ichi to, kyou no benkyou wa, chigau katachi desu yo."
+  },
+  "sl6.p4_prompt": {
+    "en": "Tanaka-sensei asks, “Do you drink coffee?” You don't really like coffee. You drink tea. How do you answer?",
+    "ru": "Танака-сэнсэй спрашивает: «Вы пьёте кофе?» Вы не очень любите кофе. Вы пьёте чай. Что вы ответите?",
+    "zh": "田中老师问：“你喝咖啡吗？”你不太喜欢咖啡。你喝茶。你会怎么回答？",
+    "ja": "田中先生が、聞きました。「コーヒーを、飲みますか？」あなたは、コーヒーが、あまり好きではありません。お茶を飲みます。何と答えますか？",
+    "romaji": "Tanaka-sensei ga, kikimashita. 'Koohii o, nomimasu ka?' Anata wa, koohii ga, amari suki de wa arimasen. Ocha o nomimasu. Nan to kotaemasu ka?"
+  },
+  "sl6.c4_natural": {
+    "en": "“No, I don't. I drink tea.”",
+    "ru": "«Нет, не пью. Я пью чай».",
+    "zh": "“不，我不喝。我喝茶。”",
+    "ja": "「いいえ、飲みません。お茶を、飲みます。」",
+    "romaji": "'Iie, nomimasen. Ocha o, nomimasu.'"
+  },
+  "sl6.c4_formal": {
+    "en": "“No, unfortunately I do not partake. I take tea.”",
+    "ru": "«Нет, к сожалению, не употребляю. Я пью чай».",
+    "zh": "“不，很遗憾我不喝。我习惯喝茶。”",
+    "ja": "「いえ、あいにく、いただきません。お茶を、頂戴しております。」",
+    "romaji": "'Ie, ainiku, itadakimasen. Ocha o, choudai shite orimasu.'"
+  },
+  "sl6.c4_mistake": {
+    "en": "“No, drinking isn't.”",
+    "ru": "«Нет, питьё не есть».",
+    "zh": "“不，喝不是。”（把じゃありません用在了动词上）",
+    "ja": "「いいえ、飲みじゃありません。」",
+    "romaji": "'Iie, nomi ja arimasen.'"
+  },
+  "sl6.c4_own": {
+    "en": "“No, I don't. But Ken always drinks coffee, doesn't he.”",
+    "ru": "«Нет, не пью. Но Кен всегда пьёт кофе, не так ли?»",
+    "zh": "“不，我不喝。不过健总是喝咖啡呢。”",
+    "ja": "「いいえ、飲みません。でも、ケンさんは、いつも、コーヒーを飲みますね。」",
+    "romaji": "'Iie, nomimasen. Demo, Ken-san wa, itsumo, koohii o nomimasu ne.'"
+  },
+  "sl6.c4_min": {
+    "en": "“No... tea...”",
+    "ru": "«Нет… чай…»",
+    "zh": "“不……茶……”",
+    "ja": "「いいえ…お茶…」",
+    "romaji": "'Iie... ocha...'"
+  },
+  "sl6.p4_nat_tanaka": {
+    "en": "I see. Then let me make some tea.",
+    "ru": "Понятно. Тогда я приготовлю чай.",
+    "zh": "这样啊。那我来泡茶吧。",
+    "ja": "そうですか。では、お茶を、いれましょう。",
+    "romaji": "Sou desu ka. Dewa, ocha o, iremashou."
+  },
+  "sl6.p4_form_yuki": {
+    "en": "Ha, you sound like a tea master. “Iie, nomimasen” is fine.",
+    "ru": "Ха-ха, как учитель чайной церемонии. Достаточно «ииэ, номимасэн».",
+    "zh": "呵呵，像茶道老师一样。说「いいえ、飲みません」就好。",
+    "ja": "ふふ、お茶の先生みたいです。「いいえ、飲みません」で、いいですよ。",
+    "romaji": "Fufu, ocha no sensei mitai desu. 'Iie, nomimasen' de, ii desu yo."
+  },
+  "sl6.p4_mis_ken": {
+    "en": "Close. “Ja arimasen” is the form for nouns. For verbs, it is “nomimasen.”",
+    "ru": "Почти. «Дзя аримасэн» — форма для существительных. Для глаголов нужно «номимасэн».",
+    "zh": "很接近。「じゃありません」是名词用的形式。动词要说「飲みません」。",
+    "ja": "惜しいです。「じゃありません」は、名詞のときの形です。動詞は、「飲みません」です。",
+    "romaji": "Oshii desu. 'Ja arimasen' wa, meishi no toki no katachi desu. Doushi wa, 'nomimasen' desu."
+  },
+  "sl6.p4_mis_retry": {
+    "en": "Oh, no, I don't.",
+    "ru": "Ой, нет, не пью.",
+    "zh": "啊，不，我不喝。",
+    "ja": "あっ、いいえ、飲みません。",
+    "romaji": "A, iie, nomimasen."
+  },
+  "sl6.p4_mis_relief": {
+    "en": "Yes, that's it! “Masen.”",
+    "ru": "Да, именно так! «Масэн».",
+    "zh": "对，就是这个！是「ません」。",
+    "ja": "はい、それです！「ません」ですね。",
+    "romaji": "Hai, sore desu! 'Masen' desu ne."
+  },
+  "sl6.p4_own_ken": {
+    "en": "Haha, that's true. I drink coffee every day.",
+    "ru": "Ха-ха, это правда. Я пью кофе каждый день.",
+    "zh": "哈哈，没错。我每天都喝咖啡。",
+    "ja": "あはは、そのとおりです。ぼくは、毎日、コーヒーを飲みます。",
+    "romaji": "Ahaha, sono toori desu. Boku wa, mainichi, koohii o nomimasu."
+  },
+  "sl6.p4_min_mei": {
+    "en": "I understand. Try saying it through to the verb: “iie, nomimasen.”",
+    "ru": "Понимаю. Доведите фразу до глагола: «ииэ, номимасэн».",
+    "zh": "我明白。试着说到动词为止：「いいえ、飲みません」。",
+    "ja": "分かりますよ。「いいえ、飲みません」と、動詞まで、言ってみましょう。",
+    "romaji": "Wakarimasu yo. 'Iie, nomimasen' to, doushi made, itte mimashou."
+  },
+  "sl6.talk_open": {
+    "en": "Now let's talk. Out of today's four forms, which one is the easiest to use?",
+    "ru": "Теперь поговорим. Какая из сегодняшних четырёх форм кажется вам самой удобной?",
+    "zh": "现在来聊聊。今天这四个句型里，你觉得哪一个最好用？",
+    "ja": "では、話しましょう。今日の四つの形の中で、いちばん使いやすい形は、どれですか？",
+    "romaji": "Dewa, hanashimashou. Kyou no yottsu no katachi no naka de, ichiban tsukaiyasui katachi wa, dore desu ka?"
+  },
+  "sl6.talk_mei": {
+    "en": "For me, it's “~ o ~ masu.” I can say right away what I'm doing, so it's handy.",
+    "ru": "Для меня это «~ о ~ мас». Я сразу могу сказать, что делаю, так что это удобно.",
+    "zh": "我觉得是「〜を〜ます」。能马上说出自己在做什么，很方便。",
+    "ja": "わたしは、「〜を〜ます」です。何をしているのか、すぐ言えるので、便利です。",
+    "romaji": "Watashi wa, '~ o ~ masu' desu. Nani o shite iru no ka, sugu ieru node, benri desu."
+  },
+  "sl6.talk_ken": {
+    "en": "For me, it's choosing between “ni” and “de.” I want to get used to it little by little.",
+    "ru": "Для меня это выбор между «ни» и «дэ». Хочу привыкать понемногу.",
+    "zh": "我觉得是「に」和「で」的区分。我想一点一点地习惯。",
+    "ja": "ぼくは、「に」と「で」の使い分けです。少しずつ、慣れたいです。",
+    "romaji": "Boku wa, 'ni' to 'de' no tsukaiwake desu. Sukoshi zutsu, naretai desu."
+  },
+  "sl6.talk_yuki": {
+    "en": "For me, it's “masen.” It's necessary when you say “iie.”",
+    "ru": "Для меня это «масэн». Оно нужно, когда говоришь «ииэ».",
+    "zh": "我觉得是「ません」。因为说「いいえ」的时候需要用到。",
+    "ja": "わたしは、「ません」です。「いいえ」と言うときに、必要ですから。",
+    "romaji": "Watashi wa, 'masen' desu. 'Iie' to iu toki ni, hitsuyou desu kara."
+  },
+  "sl6.talk_tanaka": {
+    "en": "Lovely. Once you can use the ます form of verbs, you'll be able to talk about your daily life in Japanese.",
+    "ru": "Прекрасно. Когда вы освоите форму глаголов на «мас», вы сможете рассказывать о повседневной жизни по-японски.",
+    "zh": "真好。学会动词的ます形，就能用日语谈论日常生活了。",
+    "ja": "すてきですね。動詞のます形が使えると、日本語で、毎日のことを、話せるようになります。",
+    "romaji": "Suteki desu ne. Doushi no masu-kei ga tsukaeru to, nihongo de, mainichi no koto o, hanaseru you ni narimasu."
+  },
+  "sl6.talk_player": {
+    "en": "(Tabemasu, nomimasu, ikimasu, benkyou shimasu. When you can use verbs, your daily life becomes Japanese. Tomorrow, from morning to night, I'll try saying everything in Japanese.)",
+    "ru": "(Табэмас, номимас, икимас, бэнкё симас. Когда умеешь использовать глаголы, повседневная жизнь становится японской. Завтра, с утра до вечера, я попробую всё говорить по-японски.)",
+    "zh": "（食べます、飲みます、行きます、勉強します。会用动词之后，每天的生活就变成了日语。明天，从早到晚，我要试着把一切都用日语说出来。）",
+    "ja": "（食べます、飲みます、行きます、勉強します。動詞が使えると、毎日の生活が、日本語になる。あしたは、朝から夜まで、今日の言葉を、ぜんぶ、日本語で言ってみよう。）",
+    "romaji": "(Tabemasu, nomimasu, ikimasu, benkyou shimasu. Doushi ga tsukaeru to, mainichi no seikatsu ga, nihongo ni naru. Ashita wa, asa kara yoru made, kyou no kotoba o, zenbu, nihongo de itte miyou.)"
+  },
+  "sl6.talk_close": {
+    "en": "Good lesson, everyone. In the next class, we'll study the past tense and adjectives.",
+    "ru": "Хороший урок, все. На следующем уроке изучим прошедшее время и прилагательные.",
+    "zh": "各位，这节课很棒。下节课我们来学习过去式和形容词。",
+    "ja": "みなさん、いいレッスンでした。次の授業では、過去の形と、形容詞を勉強しましょう。",
+    "romaji": "Minasan, ii ressun deshita. Tsugi no jugyou de wa, kako no katachi to, keiyoushi o benkyou shimashou."
+  },
+  "sl6.complete": {
+    "en": "End of Sentence Lesson 6.",
+    "ru": "Конец урока предложений 6.",
+    "zh": "句型课 6 结束。",
+    "ja": "文型レッスン6、おわり。",
+    "romaji": "Bunkei ressun roku, owari."
+  }
+}
