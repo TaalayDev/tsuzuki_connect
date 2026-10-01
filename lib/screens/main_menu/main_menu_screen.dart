@@ -143,7 +143,7 @@ class _MainMenuScreenState extends ConsumerState<MainMenuScreen> {
 
   bool get isWide {
     final width = MediaQuery.of(context).size.width;
-    return width >= _kMenuWideBreakpoint;
+    return width >= 600;
   }
 
   @override
@@ -175,8 +175,11 @@ class _MainMenuScreenState extends ConsumerState<MainMenuScreen> {
                 final isWide = constraints.maxWidth >= _kMenuWideBreakpoint;
                 final buttons = _buildButtons(context, i18n, progress.isPremium, isWide);
 
-                if (isMobile && !isLandscape) {
-                  return _NarrowMenuLayout(buttons: buttons);
+                if (isMobile && isLandscape) {
+                  return _NarrowLandscapeMenuLayout(
+                    i18n: i18n,
+                    entries: _buildEntries(context, i18n, progress.isPremium),
+                  );
                 }
 
                 if (isWide) {
@@ -215,6 +218,48 @@ class _MainMenuScreenState extends ConsumerState<MainMenuScreen> {
         ],
       ),
     );
+  }
+
+  /// The same destinations as [_buildButtons], as plain data so the compact
+  /// phone-landscape layout can draw them as small buttons.
+  List<_MenuEntry> _buildEntries(BuildContext context, I18nService i18n, bool isPremium) {
+    return [
+      _MenuEntry(
+        label: i18n.t('menu.story'),
+        icon: Icons.menu_book_outlined,
+        variant: _MenuButtonVariant.primary,
+        fullWidth: true,
+        onTap: () => _onStoryTap(context, ref),
+      ),
+      _MenuEntry(label: i18n.t('menu.vocab_select'), icon: Icons.spellcheck, onTap: () => _onVocabTap(context, ref)),
+      _MenuEntry(
+        label: i18n.t('menu.lesson_select'),
+        icon: Icons.chat_bubble_outline,
+        onTap: () => _onSentencesTap(context, ref),
+      ),
+      _MenuEntry(
+        label: i18n.t('menu.vocab_log'),
+        icon: Icons.book_outlined,
+        onTap: () => showAdaptiveModal(context: context, builder: (_) => const VocabLogScreen()),
+      ),
+      _MenuEntry(
+        label: i18n.t('menu.settings'),
+        icon: Icons.settings_outlined,
+        onTap: () => showAdaptiveModal(context: context, builder: (_) => const SettingsScreen()),
+      ),
+      _MenuEntry(
+        label: i18n.t('menu.credits'),
+        icon: Icons.info_outline,
+        onTap: () => showAdaptiveModal(context: context, builder: (_) => const CreditsScreen()),
+      ),
+      if (!isPremium)
+        _MenuEntry(
+          label: i18n.t('menu.premium'),
+          icon: Icons.workspace_premium,
+          variant: _MenuButtonVariant.premium,
+          onTap: () => showAdaptiveModal(context: context, builder: (_) => const PaywallScreen()),
+        ),
+    ];
   }
 
   List<Widget> _buildButtons(BuildContext context, I18nService i18n, bool isPremium, bool isWide) {
@@ -417,13 +462,163 @@ class _NarrowMenuLayout extends StatelessWidget {
   }
 }
 
-/// `.menu-title-block` — game title, subtitle with the gradient divider
-/// bar, and tagline.
+class _MenuEntry {
+  const _MenuEntry({
+    required this.label,
+    required this.icon,
+    required this.onTap,
+    this.variant = _MenuButtonVariant.glass,
+    this.fullWidth = false,
+  });
+
+  final String label;
+  final IconData icon;
+  final VoidCallback onTap;
+  final _MenuButtonVariant variant;
+  final bool fullWidth;
+}
+
+/// Phone held sideways: the screen is wide but very short, so the title sits
+/// on the left and the destinations on the right as a compact two-column grid
+/// of small buttons (the regular [_MenuButton]s are too tall to fit).
+class _NarrowLandscapeMenuLayout extends StatelessWidget {
+  const _NarrowLandscapeMenuLayout({required this.i18n, required this.entries});
+
+  final I18nService i18n;
+  final List<_MenuEntry> entries;
+
+  static const _gap = 8.0;
+
+  @override
+  Widget build(BuildContext context) {
+    return Padding(
+      padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 8),
+      child: Row(
+        children: [
+          Expanded(
+            flex: 9,
+            child: Center(
+              // Leaves room for the sound toggle pinned to the top-right.
+              child: Padding(
+                padding: const EdgeInsets.only(top: 40),
+                child: ConstrainedBox(
+                  constraints: const BoxConstraints(maxWidth: 360),
+                  child: SingleChildScrollView(child: _buildGrid()),
+                ),
+              ),
+            ),
+          ),
+          const SizedBox(width: 24),
+          Expanded(
+            flex: 11,
+            child: Center(
+              child: SingleChildScrollView(
+                child: Column(
+                  mainAxisSize: MainAxisSize.min,
+                  mainAxisAlignment: MainAxisAlignment.end,
+                  children: [
+                    Consumer(
+                      builder: (context, ref, _) => _TitleBlock(i18n: ref.watch(i18nProvider), alignCenter: true),
+                    ),
+                    const SizedBox(height: 12),
+                    Consumer(builder: (context, ref, _) => _VersionText(i18n: ref.watch(i18nProvider))),
+                  ],
+                ),
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildGrid() {
+    return LayoutBuilder(
+      builder: (context, constraints) {
+        final half = (constraints.maxWidth - _gap) / 2;
+        return Wrap(
+          spacing: _gap,
+          runSpacing: _gap,
+          children: [
+            for (final entry in entries)
+              SizedBox(
+                width: entry.fullWidth ? constraints.maxWidth : half,
+                child: _CompactMenuButton(entry: entry),
+              ),
+          ],
+        );
+      },
+    );
+  }
+}
+
+/// Small pill button used by [_NarrowLandscapeMenuLayout].
+class _CompactMenuButton extends StatelessWidget {
+  const _CompactMenuButton({required this.entry});
+
+  final _MenuEntry entry;
+
+  @override
+  Widget build(BuildContext context) {
+    final variant = entry.variant;
+    final color = switch (variant) {
+      _MenuButtonVariant.glass => AppColors.cream,
+      _MenuButtonVariant.primary => AppColors.primaryButtonText,
+      _MenuButtonVariant.premium => AppColors.premiumButtonText,
+    };
+    final labelStyle = AppTheme.englishFont(
+      fontSize: 14,
+      fontWeight: variant == _MenuButtonVariant.glass ? FontWeight.w600 : FontWeight.w700,
+      color: color,
+    );
+
+    final content = Row(
+      mainAxisSize: MainAxisSize.min,
+      children: [
+        Icon(entry.icon, size: 16, color: color),
+        const SizedBox(width: 8),
+        Flexible(
+          child: FittedBox(
+            fit: BoxFit.scaleDown,
+            child: Text(entry.label, style: labelStyle, maxLines: 1),
+          ),
+        ),
+      ],
+    );
+    const padding = EdgeInsets.symmetric(vertical: 9, horizontal: 12);
+
+    return switch (variant) {
+      _MenuButtonVariant.glass => GlassButton(
+        onTap: entry.onTap,
+        padding: padding,
+        color: AppColors.menuGlassBg,
+        shadows: const [],
+        child: Center(child: content),
+      ),
+      _MenuButtonVariant.primary => GradientButton(
+        onTap: entry.onTap,
+        gradient: AppColors.primaryButtonGradient,
+        shadows: AppShadows.primaryButton,
+        padding: padding,
+        child: Center(child: content),
+      ),
+      _MenuButtonVariant.premium => GradientButton(
+        onTap: entry.onTap,
+        gradient: AppColors.premiumButtonGradient,
+        shadows: AppShadows.premiumButton,
+        padding: padding,
+        child: Center(child: content),
+      ),
+    };
+  }
+}
+
 class _TitleBlock extends StatelessWidget {
-  const _TitleBlock({required this.i18n, required this.alignCenter});
+  const _TitleBlock({required this.i18n, required this.alignCenter, this.compact = false});
 
   final I18nService i18n;
   final bool alignCenter;
+  final bool compact;
 
   @override
   Widget build(BuildContext context) {
@@ -485,11 +680,6 @@ class _TitleBlock extends StatelessWidget {
   }
 }
 
-/// `.menu-showcase` — Alex/Natasha/Ji-woo/Li Wei lined up, bottom-aligned,
-/// overlapping slightly (CSS: `flex: 5/5/4/4` slot widths with a `-4%`
-/// negative margin between them). Ported with the same relative widths and
-/// overlap, computed against the available width via `LayoutBuilder` since
-/// Flutter has no percentage-margin equivalent to lean on directly.
 class _CharacterShowcase extends StatelessWidget {
   const _CharacterShowcase();
 
