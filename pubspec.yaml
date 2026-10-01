@@ -4,8 +4,8 @@ publish_to: 'none' # Prevents accidental publishing to pub.dev
 
 # Version follows semantic versioning (major.minor.patch+build)
 version: 2.0.0+8
-ios_version: 3.0.0+9
-macos_version: 3.0.0+13
+ios_version: 4.0.0+10
+macos_version: 4.0.0+14
 
 environment:
   sdk: ^3.11.0
