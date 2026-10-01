@@ -1,0 +1,1482 @@
+[
+  {
+    "id": "vocab_n3_72b6_6cc1",
+    "word": "状況",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Situation / Circumstances",
+    "translation": "(joukyou)",
+    "example": "状況",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Ситуация / обстоятельства",
+      "zh": "状况",
+      "ko": "상황"
+    }
+  },
+  {
+    "id": "vocab_n3_614b_5ea6",
+    "word": "態度",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Attitude / Manner",
+    "translation": "(taido)",
+    "example": "態度",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Отношение / манера держаться",
+      "zh": "态度",
+      "ko": "태도"
+    }
+  },
+  {
+    "id": "vocab_n3_5370_8c61",
+    "word": "印象",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Impression",
+    "translation": "(inshou)",
+    "example": "印象",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Впечатление",
+      "zh": "印象",
+      "ko": "인상"
+    }
+  },
+  {
+    "id": "vocab_n3_95a2_4fc2",
+    "word": "関係",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Relationship / Connection",
+    "translation": "(kankei)",
+    "example": "関係",
+    "category": "social",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Отношения / связь",
+      "zh": "关系",
+      "ko": "관계"
+    }
+  },
+  {
+    "id": "vocab_n3_5f71_97ff",
+    "word": "影響",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Influence / Effect",
+    "translation": "(eikyou)",
+    "example": "影響",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Влияние",
+      "zh": "影响",
+      "ko": "영향"
+    }
+  },
+  {
+    "id": "vocab_n3_8cac_4efb",
+    "word": "責任",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Responsibility",
+    "translation": "(sekinin)",
+    "example": "責任",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Ответственность",
+      "zh": "责任",
+      "ko": "책임"
+    }
+  },
+  {
+    "id": "vocab_n3_7fa9_52d9",
+    "word": "義務",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Duty / Obligation",
+    "translation": "(gimu)",
+    "example": "義務",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Долг / обязанность",
+      "zh": "义务",
+      "ko": "의무"
+    }
+  },
+  {
+    "id": "vocab_n3_6a29_5229",
+    "word": "権利",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Right (entitlement)",
+    "translation": "(kenri)",
+    "example": "権利",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Право",
+      "zh": "权利",
+      "ko": "권리"
+    }
+  },
+  {
+    "id": "vocab_n3_76ee_6a19",
+    "word": "目標",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Goal / Target",
+    "translation": "(mokuhyou)",
+    "example": "目標",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Цель / ориентир",
+      "zh": "目标",
+      "ko": "목표"
+    }
+  },
+  {
+    "id": "vocab_n3_52aa_529b",
+    "word": "努力",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Effort",
+    "translation": "(doryoku)",
+    "example": "努力",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Усилие",
+      "zh": "努力",
+      "ko": "노력"
+    }
+  },
+  {
+    "id": "vocab_n3_6210_529f",
+    "word": "成功",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Success",
+    "translation": "(seikou)",
+    "example": "成功",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Успех",
+      "zh": "成功",
+      "ko": "성공"
+    }
+  },
+  {
+    "id": "vocab_n3_5931_6557",
+    "word": "失敗",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Failure / Mistake",
+    "translation": "(shippai)",
+    "example": "失敗",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Неудача / ошибка",
+      "zh": "失败",
+      "ko": "실패"
+    }
+  },
+  {
+    "id": "vocab_n3_80fd_529b",
+    "word": "能力",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Ability",
+    "translation": "(nouryoku)",
+    "example": "能力",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Способность",
+      "zh": "能力",
+      "ko": "능력"
+    }
+  },
+  {
+    "id": "vocab_n3_624d_80fd",
+    "word": "才能",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Talent",
+    "translation": "(sainou)",
+    "example": "才能",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Талант",
+      "zh": "才能",
+      "ko": "재능"
+    }
+  },
+  {
+    "id": "vocab_n3_6027_683c",
+    "word": "性格",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Personality",
+    "translation": "(seikaku)",
+    "example": "性格",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Характер",
+      "zh": "性格",
+      "ko": "성격"
+    }
+  },
+  {
+    "id": "vocab_n3_500b_6027",
+    "word": "個性",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Individuality",
+    "translation": "(kosei)",
+    "example": "個性",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Индивидуальность",
+      "zh": "个性",
+      "ko": "개성"
+    }
+  },
+  {
+    "id": "vocab_n3_5e38_8b58",
+    "word": "常識",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Common sense",
+    "translation": "(joushiki)",
+    "example": "常識",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Здравый смысл / общепринятое",
+      "zh": "常识",
+      "ko": "상식"
+    }
+  },
+  {
+    "id": "vocab_n3_4f1d_7d71",
+    "word": "伝統",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Tradition",
+    "translation": "(dentou)",
+    "example": "伝統",
+    "category": "society",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Традиция",
+      "zh": "传统",
+      "ko": "전통"
+    }
+  },
+  {
+    "id": "vocab_n3_4fa1_5024",
+    "word": "価値",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Value / Worth",
+    "translation": "(kachi)",
+    "example": "価値",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Ценность",
+      "zh": "价值",
+      "ko": "가치"
+    }
+  },
+  {
+    "id": "vocab_n3_7406_60f3",
+    "word": "理想",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Ideal",
+    "translation": "(risou)",
+    "example": "理想",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Идеал",
+      "zh": "理想",
+      "ko": "이상"
+    }
+  },
+  {
+    "id": "vocab_n3_73fe_5b9f",
+    "word": "現実",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Reality",
+    "translation": "(genjitsu)",
+    "example": "現実",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Реальность",
+      "zh": "现实",
+      "ko": "현실"
+    }
+  },
+  {
+    "id": "vocab_n3_904e_53bb",
+    "word": "過去",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Past",
+    "translation": "(kako)",
+    "example": "過去",
+    "category": "time",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Прошлое",
+      "zh": "过去",
+      "ko": "과거"
+    }
+  },
+  {
+    "id": "vocab_n3_672a_6765",
+    "word": "未来",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Future",
+    "translation": "(mirai)",
+    "example": "未来",
+    "category": "time",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Будущее",
+      "zh": "未来",
+      "ko": "미래"
+    }
+  },
+  {
+    "id": "vocab_n3_73fe_5728",
+    "word": "現在",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Present / Currently",
+    "translation": "(genzai)",
+    "example": "現在",
+    "category": "time",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Настоящее",
+      "zh": "现在",
+      "ko": "현재"
+    }
+  },
+  {
+    "id": "vocab_n3_8a18_61b6",
+    "word": "記憶",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Memory (recollection)",
+    "translation": "(kioku)",
+    "example": "記憶",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Память / воспоминание",
+      "zh": "记忆",
+      "ko": "기억"
+    }
+  },
+  {
+    "id": "vocab_n3_60f3_50cf",
+    "word": "想像",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Imagination",
+    "translation": "(souzou)",
+    "example": "想像",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Воображение",
+      "zh": "想象",
+      "ko": "상상"
+    }
+  },
+  {
+    "id": "vocab_n3_5b9f_611f",
+    "word": "実感",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Real sense / Realization",
+    "translation": "(jikkan)",
+    "example": "実感",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Реальное ощущение",
+      "zh": "切实感受",
+      "ko": "실감"
+    }
+  },
+  {
+    "id": "vocab_n3_611f_52d5",
+    "word": "感動",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Deep emotion / Being moved",
+    "translation": "(kandou)",
+    "example": "感動",
+    "category": "emotions",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Волнение / трогательное чувство",
+      "zh": "感动",
+      "ko": "감동"
+    }
+  },
+  {
+    "id": "vocab_n3_611f_8b1d",
+    "word": "感謝",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Gratitude",
+    "translation": "(kansha)",
+    "example": "感謝",
+    "category": "emotions",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Благодарность",
+      "zh": "感谢",
+      "ko": "감사"
+    }
+  },
+  {
+    "id": "vocab_n3_5c0a_656c",
+    "word": "尊敬",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Respect",
+    "translation": "(sonkei)",
+    "example": "尊敬",
+    "category": "emotions",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Уважение",
+      "zh": "尊敬",
+      "ko": "존경"
+    }
+  },
+  {
+    "id": "vocab_n3_4fe1_983c",
+    "word": "信頼",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Trust",
+    "translation": "(shinrai)",
+    "example": "信頼",
+    "category": "social",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Доверие",
+      "zh": "信赖",
+      "ko": "신뢰"
+    }
+  },
+  {
+    "id": "vocab_n3_8aa4_89e3",
+    "word": "誤解",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Misunderstanding",
+    "translation": "(gokai)",
+    "example": "誤解",
+    "category": "social",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Недоразумение",
+      "zh": "误解",
+      "ko": "오해"
+    }
+  },
+  {
+    "id": "vocab_n3_53cd_5bfe",
+    "word": "反対",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Opposition / Opposite",
+    "translation": "(hantai)",
+    "example": "反対",
+    "category": "social",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Противоположность / возражение",
+      "zh": "反对",
+      "ko": "반대"
+    }
+  },
+  {
+    "id": "vocab_n3_8cdb_6210",
+    "word": "賛成",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Agreement / Approval",
+    "translation": "(sansei)",
+    "example": "賛成",
+    "category": "social",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Согласие / одобрение",
+      "zh": "赞成",
+      "ko": "찬성"
+    }
+  },
+  {
+    "id": "vocab_n3_5224_65ad",
+    "word": "判断",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Judgment",
+    "translation": "(handan)",
+    "example": "判断",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Суждение / решение",
+      "zh": "判断",
+      "ko": "판단"
+    }
+  },
+  {
+    "id": "vocab_n3_9078_629e",
+    "word": "選択",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Choice / Selection",
+    "translation": "(sentaku)",
+    "example": "選択",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Выбор",
+      "zh": "选择",
+      "ko": "선택"
+    }
+  },
+  {
+    "id": "vocab_n3_6c7a_5fc3",
+    "word": "決心",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Determination",
+    "translation": "(kesshin)",
+    "example": "決心",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Решимость",
+      "zh": "决心",
+      "ko": "결심"
+    }
+  },
+  {
+    "id": "vocab_n3_899a_609f",
+    "word": "覚悟",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Resolve / Readiness",
+    "translation": "(kakugo)",
+    "example": "覚悟",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Готовность / решимость",
+      "zh": "思想准备",
+      "ko": "각오"
+    }
+  },
+  {
+    "id": "vocab_n3_6211_6162",
+    "word": "我慢",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Patience / Endurance",
+    "translation": "(gaman)",
+    "example": "我慢",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Терпение / выдержка",
+      "zh": "忍耐",
+      "ko": "참음"
+    }
+  },
+  {
+    "id": "vocab_n3_60a9_3080",
+    "word": "悩む",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To be troubled / To worry",
+    "translation": "(nayamu)",
+    "example": "悩む",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Мучиться / переживать",
+      "zh": "烦恼",
+      "ko": "고민하다"
+    }
+  },
+  {
+    "id": "vocab_n3_8ff7_3046",
+    "word": "迷う",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To hesitate / To be unsure",
+    "translation": "(mayou)",
+    "example": "迷う",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Колебаться / сомневаться",
+      "zh": "犹豫",
+      "ko": "망설이다"
+    }
+  },
+  {
+    "id": "vocab_n3_7591_3046",
+    "word": "疑う",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To doubt / To suspect",
+    "translation": "(utagau)",
+    "example": "疑う",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Сомневаться / подозревать",
+      "zh": "怀疑",
+      "ko": "의심하다"
+    }
+  },
+  {
+    "id": "vocab_n3_4fe1_3058_308b",
+    "word": "信じる",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To believe / To trust",
+    "translation": "(shinjiru)",
+    "example": "信じる",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Верить / доверять",
+      "zh": "相信",
+      "ko": "믿다"
+    }
+  },
+  {
+    "id": "vocab_n3_52b1_307e_3059",
+    "word": "励ます",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To encourage",
+    "translation": "(hagemasu)",
+    "example": "励ます",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Подбадривать",
+      "zh": "鼓励",
+      "ko": "격려하다"
+    }
+  },
+  {
+    "id": "vocab_n3_6170_3081_308b",
+    "word": "慰める",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To comfort",
+    "translation": "(nagusameru)",
+    "example": "慰める",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Утешать",
+      "zh": "安慰",
+      "ko": "위로하다"
+    }
+  },
+  {
+    "id": "vocab_n3_652f_3048_308b",
+    "word": "支える",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To support",
+    "translation": "(sasaeru)",
+    "example": "支える",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Поддерживать",
+      "zh": "支撑",
+      "ko": "지탱하다"
+    }
+  },
+  {
+    "id": "vocab_n3_52a9_3051_308b",
+    "word": "助ける",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To help / To rescue",
+    "translation": "(tasukeru)",
+    "example": "助ける",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Помогать / спасать",
+      "zh": "帮助 / 救助",
+      "ko": "돕다"
+    }
+  },
+  {
+    "id": "vocab_n3_5b88_308b",
+    "word": "守る",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To protect / To keep (a promise)",
+    "translation": "(mamoru)",
+    "example": "守る",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Защищать / соблюдать",
+      "zh": "守护 / 遵守",
+      "ko": "지키다"
+    }
+  },
+  {
+    "id": "vocab_n3_8b72_308b",
+    "word": "譲る",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To yield / To hand over",
+    "translation": "(yuzuru)",
+    "example": "譲る",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Уступать / передавать",
+      "zh": "让给",
+      "ko": "양보하다"
+    }
+  },
+  {
+    "id": "vocab_n3_8a8d_3081_308b",
+    "word": "認める",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To acknowledge / To admit",
+    "translation": "(mitomeru)",
+    "example": "認める",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Признавать",
+      "zh": "承认",
+      "ko": "인정하다"
+    }
+  },
+  {
+    "id": "vocab_n3_65ad_308b",
+    "word": "断る",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To refuse / To decline",
+    "translation": "(kotowaru)",
+    "example": "断る",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Отказывать",
+      "zh": "拒绝",
+      "ko": "거절하다"
+    }
+  },
+  {
+    "id": "vocab_n3_8b1d_308b",
+    "word": "謝る",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To apologize",
+    "translation": "(ayamaru)",
+    "example": "謝る",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Извиняться",
+      "zh": "道歉",
+      "ko": "사과하다"
+    }
+  },
+  {
+    "id": "vocab_n3_8a98_3046",
+    "word": "誘う",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To invite",
+    "translation": "(sasou)",
+    "example": "誘う",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Приглашать (позвать с собой)",
+      "zh": "邀请",
+      "ko": "권유하다"
+    }
+  },
+  {
+    "id": "vocab_n3_62db_304f",
+    "word": "招く",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To invite / To beckon",
+    "translation": "(maneku)",
+    "example": "招く",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Приглашать (в гости)",
+      "zh": "招待",
+      "ko": "초대하다"
+    }
+  },
+  {
+    "id": "vocab_n3_983c_3080",
+    "word": "頼む",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To ask / To request",
+    "translation": "(tanomu)",
+    "example": "頼む",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Просить / заказывать",
+      "zh": "拜托",
+      "ko": "부탁하다"
+    }
+  },
+  {
+    "id": "vocab_n3_983c_308b",
+    "word": "頼る",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To rely on",
+    "translation": "(tayoru)",
+    "example": "頼る",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Полагаться",
+      "zh": "依靠",
+      "ko": "의지하다"
+    }
+  },
+  {
+    "id": "vocab_n3_4efb_305b_308b",
+    "word": "任せる",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To entrust",
+    "translation": "(makaseru)",
+    "example": "任せる",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Поручать / доверять",
+      "zh": "托付",
+      "ko": "맡기다"
+    }
+  },
+  {
+    "id": "vocab_n3_5f15_304d_53d7_3051_308b",
+    "word": "引き受ける",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To take on (responsibility)",
+    "translation": "(hikiukeru)",
+    "example": "引き受ける",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Брать на себя",
+      "zh": "承担",
+      "ko": "떠맡다"
+    }
+  },
+  {
+    "id": "vocab_n3_53d6_308a_7d44_3080",
+    "word": "取り組む",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To tackle / To work on",
+    "translation": "(torikumu)",
+    "example": "取り組む",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Заниматься / браться за",
+      "zh": "致力于",
+      "ko": "몰두하다"
+    }
+  },
+  {
+    "id": "vocab_n3_4e57_308a_8d8a_3048_308b",
+    "word": "乗り越える",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To overcome",
+    "translation": "(norikoeru)",
+    "example": "乗り越える",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Преодолевать",
+      "zh": "克服",
+      "ko": "극복하다"
+    }
+  },
+  {
+    "id": "vocab_n3_8eab_306b_3064_3051_308b",
+    "word": "身につける",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To acquire (a skill)",
+    "translation": "(mi ni tsukeru)",
+    "example": "身につける",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Овладевать (навыком)",
+      "zh": "掌握",
+      "ko": "익히다"
+    }
+  },
+  {
+    "id": "vocab_n3_898b_76f4_3059",
+    "word": "見直す",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To review / To reconsider",
+    "translation": "(minaosu)",
+    "example": "見直す",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Пересматривать",
+      "zh": "重新审视",
+      "ko": "다시 보다"
+    }
+  },
+  {
+    "id": "vocab_n3_601d_3044_8fbc_3080",
+    "word": "思い込む",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To be convinced / To assume",
+    "translation": "(omoikomu)",
+    "example": "思い込む",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Быть убеждённым / вбить себе в голову",
+      "zh": "深信",
+      "ko": "굳게 믿다"
+    }
+  },
+  {
+    "id": "vocab_n3_6253_3061_660e_3051_308b",
+    "word": "打ち明ける",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To confide",
+    "translation": "(uchiakeru)",
+    "example": "打ち明ける",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Открываться / признаваться",
+      "zh": "坦白",
+      "ko": "털어놓다"
+    }
+  },
+  {
+    "id": "vocab_n3_53d7_3051_5165_308c_308b",
+    "word": "受け入れる",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To accept",
+    "translation": "(ukeireru)",
+    "example": "受け入れる",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Принимать",
+      "zh": "接受",
+      "ko": "받아들이다"
+    }
+  },
+  {
+    "id": "vocab_n3_7a4d_6975_7684",
+    "word": "積極的",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "adjective",
+    "definition": "Positive / Proactive",
+    "translation": "(sekkyokuteki)",
+    "example": "積極的",
+    "category": "adjectives",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Активный / инициативный",
+      "zh": "积极的",
+      "ko": "적극적"
+    }
+  },
+  {
+    "id": "vocab_n3_6d88_6975_7684",
+    "word": "消極的",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "adjective",
+    "definition": "Negative / Passive",
+    "translation": "(shoukyokuteki)",
+    "example": "消極的",
+    "category": "adjectives",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Пассивный / нерешительный",
+      "zh": "消极的",
+      "ko": "소극적"
+    }
+  },
+  {
+    "id": "vocab_n3_5177_4f53_7684",
+    "word": "具体的",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "adjective",
+    "definition": "Concrete / Specific",
+    "translation": "(gutaiteki)",
+    "example": "具体的",
+    "category": "adjectives",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Конкретный",
+      "zh": "具体的",
+      "ko": "구체적"
+    }
+  },
+  {
+    "id": "vocab_n3_57fa_672c_7684",
+    "word": "基本的",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "adjective",
+    "definition": "Basic / Fundamental",
+    "translation": "(kihonteki)",
+    "example": "基本的",
+    "category": "adjectives",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Основной / базовый",
+      "zh": "基本的",
+      "ko": "기본적"
+    }
+  },
+  {
+    "id": "vocab_n3_4e00_822c_7684",
+    "word": "一般的",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "adjective",
+    "definition": "General / Common",
+    "translation": "(ippanteki)",
+    "example": "一般的",
+    "category": "adjectives",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Общий / распространённый",
+      "zh": "一般的",
+      "ko": "일반적"
+    }
+  },
+  {
+    "id": "vocab_n3_5168_4f53",
+    "word": "全体",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Whole / Entirety",
+    "translation": "(zentai)",
+    "example": "全体",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Целое / всё",
+      "zh": "整体",
+      "ko": "전체"
+    }
+  },
+  {
+    "id": "vocab_n3_90e8_5206",
+    "word": "部分",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Part / Portion",
+    "translation": "(bubun)",
+    "example": "部分",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Часть",
+      "zh": "部分",
+      "ko": "부분"
+    }
+  },
+  {
+    "id": "vocab_n3_76f8_624b",
+    "word": "相手",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Partner / The other party",
+    "translation": "(aite)",
+    "example": "相手",
+    "category": "social",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Партнёр / собеседник",
+      "zh": "对方",
+      "ko": "상대"
+    }
+  },
+  {
+    "id": "vocab_n3_5468_308a",
+    "word": "周り",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Surroundings / People around",
+    "translation": "(mawari)",
+    "example": "周り",
+    "category": "social",
+    "tags": [
+      "N3",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Окружение / окрестности",
+      "zh": "周围",
+      "ko": "주위"
+    }
+  }
+]

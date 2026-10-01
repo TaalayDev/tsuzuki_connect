@@ -32,7 +32,7 @@ void main() {
     ]);
     expect(
       stories.fold<int>(0, (sum, story) => sum + story.scenes.length),
-      187,
+      200,
     );
   });
 

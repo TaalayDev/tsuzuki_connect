@@ -8,8 +8,14 @@ import 'dart:ui' show Locale;
 class DeviceLanguage {
   DeviceLanguage._();
 
-  static const selectableLanguages = ['en', 'ru', 'zh', 'ko', 'ja'];
-  static const _selectableLanguageSet = {'en', 'ru', 'zh', 'ko', 'ja'};
+  static const selectableLanguages = ['en', 'ru', 'zh', 'ja'];
+  static const _selectableLanguageSet = {'en', 'ru', 'zh', 'ja'};
+
+  /// A saved language that is no longer offered (Korean was dropped) falls
+  /// back to the device language instead of leaving Settings with a value
+  /// that is not in its list.
+  static String normalize(String code, List<Locale> preferredLocales) =>
+      _selectableLanguageSet.contains(code) ? code : detect(preferredLocales);
 
   static String detect(List<Locale> preferredLocales) {
     for (final locale in preferredLocales) {

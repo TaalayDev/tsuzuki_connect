@@ -141,6 +141,11 @@ class _MainMenuScreenState extends ConsumerState<MainMenuScreen> {
     return orientation == Orientation.landscape;
   }
 
+  bool get isWide {
+    final width = MediaQuery.of(context).size.width;
+    return width >= _kMenuWideBreakpoint;
+  }
+
   @override
   Widget build(BuildContext context) {
     final progress = ref.watch(progressProvider);
@@ -152,7 +157,17 @@ class _MainMenuScreenState extends ConsumerState<MainMenuScreen> {
       child: Stack(
         fit: StackFit.expand,
         children: [
-          const BackgroundVideoLoop(backgroundId: 'menu_background'),
+          if (isWide)
+            const BackgroundVideoLoop(backgroundId: 'menu_background')
+          else
+            Container(
+              decoration: const BoxDecoration(
+                image: DecorationImage(
+                  image: AssetImage('assets/backgrounds/Street_Spring_Evening.webp'),
+                  fit: BoxFit.cover,
+                ),
+              ),
+            ),
           const DecoratedBox(decoration: BoxDecoration(gradient: AppColors.menuOverlayGradient)),
           SafeArea(
             child: LayoutBuilder(
@@ -419,7 +434,7 @@ class _TitleBlock extends StatelessWidget {
       crossAxisAlignment: crossAxis,
       children: [
         Text(
-          'CONNECT ENGLISH',
+          'TSUZUKI CONNECT',
           textAlign: textAlign,
           style: AppTheme.englishFont(
             fontSize: alignCenter ? 32 : 52,

@@ -117,7 +117,7 @@ class SettingsScreen extends ConsumerWidget {
                 max: 1.5,
                 onChanged: (v) =>
                     notifier.update((s) => s.copyWith(ttsRate: v)),
-                onChangeEnd: (_) => ttsService.speak('This is how I sound.'),
+                onChangeEnd: (_) => ttsService.speak(TtsService.sampleText),
               ),
               _SliderRow(
                 label: i18n.t('settings.tts.pitch'),
@@ -126,7 +126,7 @@ class SettingsScreen extends ConsumerWidget {
                 max: 1.5,
                 onChanged: (v) =>
                     notifier.update((s) => s.copyWith(ttsPitch: v)),
-                onChangeEnd: (_) => ttsService.speak('This is how I sound.'),
+                onChangeEnd: (_) => ttsService.speak(TtsService.sampleText),
               ),
             ],
           ),
@@ -304,7 +304,7 @@ class _VoicePickerState extends State<_VoicePicker> {
   @override
   void initState() {
     super.initState();
-    _voicesFuture = widget.ttsService.getEnglishVoices();
+    _voicesFuture = widget.ttsService.getJapaneseVoices();
   }
 
   @override
@@ -338,7 +338,7 @@ class _VoicePickerState extends State<_VoicePicker> {
                 widget.ttsService.setPreferredVoice(
                   value.isEmpty ? null : value,
                 );
-                widget.ttsService.speak('This is how I sound.');
+                widget.ttsService.speak(TtsService.sampleText);
               }
             },
           ),

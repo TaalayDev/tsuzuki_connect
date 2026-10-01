@@ -100,6 +100,149 @@ class BackgroundImageConfig {
       'City_Afternoon.webp',
       'City_Night.webp',
     ],
+    'sitting_room': [
+      'Sitting_Room.webp',
+      'Sitting_Room.webp',
+      'Sitting_Room_Dark.webp',
+    ],
+    'futon_room': [
+      'Futon_Room.webp',
+      'Futon_Room.webp',
+      'Futon_Room_Night.webp',
+    ],
+    'laundromat': ['Laundromat.webp', 'Laundromat.webp', 'Laundromat.webp'],
+    'city': ['City_Afternoon.webp', 'City_Afternoon.webp', 'City_Night.webp'],
+    'apartment_hallway': [
+      'Outdoor_Stairs.webp',
+      'Outdoor_Stairs.webp',
+      'Outdoor_Stairs.webp',
+    ],
+    'narrow_street': [
+      'Backstreet_Spring_Day.webp',
+      'Backstreet_Spring_Afternoon.webp',
+      'Backstreet_Spring_Night.webp',
+    ],
+    'suburban_street': [
+      'Backstreet_Spring_Day.webp',
+      'Backstreet_Spring_Afternoon.webp',
+      'Backstreet_Spring_Night.webp',
+    ],
+    'residential_gate': [
+      'Backstreet_Spring_Day.webp',
+      'Backstreet_Spring_Afternoon.webp',
+      'Backstreet_Spring_Night.webp',
+    ],
+    'shimokitazawa_street': [
+      'Backstreet_Spring_Day.webp',
+      'Backstreet_Spring_Afternoon.webp',
+      'Backstreet_Spring_Night.webp',
+    ],
+    'shimokitazawa_alley': [
+      'Backstreet_Spring_Day.webp',
+      'Backstreet_Spring_Afternoon.webp',
+      'Backstreet_Spring_Night.webp',
+    ],
+    'shimokitazawa_morning': [
+      'Backstreet_Spring_Day.webp',
+      'Backstreet_Spring_Day.webp',
+      'Backstreet_Spring_Night.webp',
+    ],
+    'shimokitazawa_night': [
+      'Backstreet_Spring_Night.webp',
+      'Backstreet_Spring_Night.webp',
+      'Backstreet_Spring_Night.webp',
+    ],
+    'shimokitazawa_bar': [
+      'Restaurant_B.webp',
+      'Restaurant_B.webp',
+      'Restaurant_B.webp',
+    ],
+    'harajuku_street': [
+      'Street_Spring_Day.webp',
+      'Street_Spring_Evening.webp',
+      'Street_Spring_Night.webp',
+    ],
+    'david_apartment': [
+      'Livingroom_Day.webp',
+      'Livingroom_Day.webp',
+      'Livingroom_Night.webp',
+    ],
+    'margaret_apartment': [
+      'Livingroom_Day.webp',
+      'Livingroom_Day.webp',
+      'Livingroom_Night.webp',
+    ],
+    'yamamoto_kitchen': [
+      'Kitchen_Day.webp',
+      'Kitchen_Day.webp',
+      'Kitchen_Night.webp',
+    ],
+    'bookshop': [
+      'Sitting_Room.webp',
+      'Sitting_Room.webp',
+      'Sitting_Room_Dark.webp',
+    ],
+    'bookshop_event_space': [
+      'Sitting_Room.webp',
+      'Sitting_Room.webp',
+      'Sitting_Room_Dark.webp',
+    ],
+    'library_stacks': [
+      'Sitting_Room.webp',
+      'Sitting_Room.webp',
+      'Sitting_Room_Dark.webp',
+    ],
+    'coffee_shop': [
+      'Restaurant_A.webp',
+      'Restaurant_B.webp',
+      'Restaurant_B.webp',
+    ],
+    'clinic_waiting_room': [
+      'School_Hallway_Day.webp',
+      'School_Hallway_Day.webp',
+      'School_Hallway_Day.webp',
+    ],
+    'clinic_exam_room': [
+      'Classroom_Day.webp',
+      'Classroom_Day.webp',
+      'Classroom_Day.webp',
+    ],
+    'pharmacy': [
+      'School_Hallway_Day.webp',
+      'School_Hallway_Day.webp',
+      'School_Hallway_Day.webp',
+    ],
+    'community_center_hallway': [
+      'School_Hallway_Day.webp',
+      'School_Hallway_Day.webp',
+      'School_Hallway_Day.webp',
+    ],
+    'community_center_room': [
+      'Sitting_Room.webp',
+      'Sitting_Room.webp',
+      'Sitting_Room_Dark.webp',
+    ],
+    'narita_arrivals': [
+      'Cafeteria_Day.webp',
+      'Cafeteria_Day.webp',
+      'Cafeteria_Day.webp',
+    ],
+    'narita_departures': [
+      'Cafeteria_Day.webp',
+      'Cafeteria_Day.webp',
+      'Cafeteria_Day.webp',
+    ],
+    'tokyo_train_window': [
+      'Train_Day.webp',
+      'Train_Evening.webp',
+      'Train_Night.webp',
+    ],
+    'yoyogi_park': ['Park_Summer.webp', 'Park_Autumn.webp', 'Park_Autumn.webp'],
+    'phone_screen': [
+      'Bedroom_Night_Dark.webp',
+      'Bedroom_Night_Dark.webp',
+      'Bedroom_Night_Dark.webp',
+    ],
     'airport': ['City_Morning.webp', 'City_Afternoon.webp', 'City_Night.webp'],
   };
 

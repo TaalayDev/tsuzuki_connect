@@ -1745,7 +1745,8 @@ class _DialogueBoxState extends State<_DialogueBox> {
             resolvedTranslation.trim() != primaryText.trim()
         ? resolvedTranslation
         : null;
-    final ttsText = translatedText ?? primaryText;
+    // The voice reads the Japanese line, never the UI-language translation.
+    final ttsText = primaryText;
 
     final hasSpeaker = speaker != null && speaker != 'player';
     final size = MediaQuery.sizeOf(context);

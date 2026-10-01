@@ -7,10 +7,10 @@ void main() {
   test('loads and parses all level vocabulary assets', () async {
     final words = await ContentService().loadVocabulary();
 
-    expect(words, hasLength(218));
+    expect(words, hasLength(701));
     expect(words.map((word) => word.id).toSet(), hasLength(words.length));
-    expect(words.where((word) => word.level == 'beginner'), hasLength(91));
-    expect(words.where((word) => word.level == 'intermediate'), hasLength(45));
-    expect(words.where((word) => word.level == 'advanced'), hasLength(82));
+    expect(words.where((word) => word.level == 'beginner'), hasLength(271));
+    expect(words.where((word) => word.level == 'intermediate'), hasLength(204));
+    expect(words.where((word) => word.level == 'advanced'), hasLength(226));
   });
 }

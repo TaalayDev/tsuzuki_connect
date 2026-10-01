@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "vocab_n4_5bb6_4e8b",
+    "word": "家事",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Housework",
+    "translation": "(kaji)",
+    "example": "家事",
+    "category": "home",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Домашние дела",
+      "zh": "家务",
+      "ko": "집안일"
+    }
+  },
+  {
+    "id": "vocab_n4_6d17_3046",
+    "word": "洗う",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To wash",
+    "translation": "(arau)",
+    "example": "洗う",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Мыть",
+      "zh": "洗",
+      "ko": "씻다"
+    }
+  },
+  {
+    "id": "vocab_n4_5e72_3059",
+    "word": "干す",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To dry (hang out)",
+    "translation": "(hosu)",
+    "example": "干す",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Сушить (развешивать)",
+      "zh": "晾晒",
+      "ko": "말리다"
+    }
+  },
+  {
+    "id": "vocab_n4_7573_3080",
+    "word": "畳む",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To fold",
+    "translation": "(tatamu)",
+    "example": "畳む",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Складывать",
+      "zh": "叠",
+      "ko": "개다"
+    }
+  },
+  {
+    "id": "vocab_n4_708a_304f",
+    "word": "炊く",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To cook (rice)",
+    "translation": "(taku)",
+    "example": "炊く",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Варить (рис)",
+      "zh": "煮(饭)",
+      "ko": "짓다"
+    }
+  },
+  {
+    "id": "vocab_n4_713c_304f",
+    "word": "焼く",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To grill / To bake",
+    "translation": "(yaku)",
+    "example": "焼く",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Жарить / печь",
+      "zh": "烤",
+      "ko": "굽다"
+    }
+  },
+  {
+    "id": "vocab_n4_5207_308b",
+    "word": "切る",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To cut",
+    "translation": "(kiru)",
+    "example": "切る",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Резать",
+      "zh": "切",
+      "ko": "자르다"
+    }
+  },
+  {
+    "id": "vocab_n4_716e_308b",
+    "word": "煮る",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To simmer / To boil",
+    "translation": "(niru)",
+    "example": "煮る",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Тушить / варить",
+      "zh": "煮",
+      "ko": "삶다"
+    }
+  },
+  {
+    "id": "vocab_n4_5473",
+    "word": "味",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Taste",
+    "translation": "(aji)",
+    "example": "味",
+    "category": "food",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Вкус",
+      "zh": "味道",
+      "ko": "맛"
+    }
+  },
+  {
+    "id": "vocab_n4_7518_3044",
+    "word": "甘い",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adjective",
+    "definition": "Sweet",
+    "translation": "(amai)",
+    "example": "甘い",
+    "category": "food",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Сладкий",
+      "zh": "甜的",
+      "ko": "달다"
+    }
+  },
+  {
+    "id": "vocab_n4_8f9b_3044",
+    "word": "辛い",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adjective",
+    "definition": "Spicy / Salty",
+    "translation": "(karai)",
+    "example": "辛い",
+    "category": "food",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Острый / солёный",
+      "zh": "辣的",
+      "ko": "맵다"
+    }
+  },
+  {
+    "id": "vocab_n4_82e6_3044",
+    "word": "苦い",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adjective",
+    "definition": "Bitter",
+    "translation": "(nigai)",
+    "example": "苦い",
+    "category": "food",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Горький",
+      "zh": "苦的",
+      "ko": "쓰다"
+    }
+  },
+  {
+    "id": "vocab_n4_5869",
+    "word": "塩",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Salt",
+    "translation": "(shio)",
+    "example": "塩",
+    "category": "food",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Соль",
+      "zh": "盐",
+      "ko": "소금"
+    }
+  },
+  {
+    "id": "vocab_n4_7802_7cd6",
+    "word": "砂糖",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Sugar",
+    "translation": "(satou)",
+    "example": "砂糖",
+    "category": "food",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Сахар",
+      "zh": "糖",
+      "ko": "설탕"
+    }
+  },
+  {
+    "id": "vocab_n4_91a4_6cb9",
+    "word": "醤油",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Soy sauce",
+    "translation": "(shouyu)",
+    "example": "醤油",
+    "category": "food",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Соевый соус",
+      "zh": "酱油",
+      "ko": "간장"
+    }
+  },
+  {
+    "id": "vocab_n4_5473_564c",
+    "word": "味噌",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Miso",
+    "translation": "(miso)",
+    "example": "味噌",
+    "category": "food",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Мисо",
+      "zh": "味噌",
+      "ko": "된장"
+    }
+  },
+  {
+    "id": "vocab_n4_5f01_5f53",
+    "word": "弁当",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Boxed lunch",
+    "translation": "(bentou)",
+    "example": "弁当",
+    "category": "food",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Бэнто (ланч-бокс)",
+      "zh": "便当",
+      "ko": "도시락"
+    }
+  },
+  {
+    "id": "vocab_n4_98df_5802",
+    "word": "食堂",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Cafeteria / Diner",
+    "translation": "(shokudou)",
+    "example": "食堂",
+    "category": "places",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Столовая",
+      "zh": "食堂",
+      "ko": "식당"
+    }
+  },
+  {
+    "id": "vocab_n4_5bff_53f8",
+    "word": "寿司",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Sushi",
+    "translation": "(sushi)",
+    "example": "寿司",
+    "category": "food",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Суши",
+      "zh": "寿司",
+      "ko": "초밥"
+    }
+  },
+  {
+    "id": "vocab_n4_5929_3077_3089",
+    "word": "天ぷら",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Tempura",
+    "translation": "(tenpura)",
+    "example": "天ぷら",
+    "category": "food",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Тэмпура",
+      "zh": "天妇罗",
+      "ko": "튀김"
+    }
+  },
+  {
+    "id": "vocab_n4_6e29_5ea6",
+    "word": "温度",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Temperature",
+    "translation": "(ondo)",
+    "example": "温度",
+    "category": "weather",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Температура",
+      "zh": "温度",
+      "ko": "온도"
+    }
+  },
+  {
+    "id": "vocab_n4_6696_304b_3044",
+    "word": "暖かい",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adjective",
+    "definition": "Warm",
+    "translation": "(atatakai)",
+    "example": "暖かい",
+    "category": "weather",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Тёплый",
+      "zh": "温暖的",
+      "ko": "따뜻하다"
+    }
+  },
+  {
+    "id": "vocab_n4_6dbc_3057_3044",
+    "word": "涼しい",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adjective",
+    "definition": "Cool",
+    "translation": "(suzushii)",
+    "example": "涼しい",
+    "category": "weather",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Прохладный",
+      "zh": "凉爽的",
+      "ko": "시원하다"
+    }
+  },
+  {
+    "id": "vocab_n4_53f0_98a8",
+    "word": "台風",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Typhoon",
+    "translation": "(taifuu)",
+    "example": "台風",
+    "category": "weather",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Тайфун",
+      "zh": "台风",
+      "ko": "태풍"
+    }
+  },
+  {
+    "id": "vocab_n4_5730_9707",
+    "word": "地震",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Earthquake",
+    "translation": "(jishin)",
+    "example": "地震",
+    "category": "weather",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Землетрясение",
+      "zh": "地震",
+      "ko": "지진"
+    }
+  },
+  {
+    "id": "vocab_n4_4e8b_6545",
+    "word": "事故",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Accident",
+    "translation": "(jiko)",
+    "example": "事故",
+    "category": "society",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Авария / несчастный случай",
+      "zh": "事故",
+      "ko": "사고"
+    }
+  },
+  {
+    "id": "vocab_n4_8b66_5bdf",
+    "word": "警察",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Police",
+    "translation": "(keisatsu)",
+    "example": "警察",
+    "category": "society",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Полиция",
+      "zh": "警察",
+      "ko": "경찰"
+    }
+  },
+  {
+    "id": "vocab_n4_6551_6025_8eca",
+    "word": "救急車",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Ambulance",
+    "translation": "(kyuukyuusha)",
+    "example": "救急車",
+    "category": "medical",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Скорая помощь",
+      "zh": "救护车",
+      "ko": "구급차"
+    }
+  },
+  {
+    "id": "vocab_n4_85ac",
+    "word": "薬",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Medicine",
+    "translation": "(kusuri)",
+    "example": "薬",
+    "category": "medical",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Лекарство",
+      "zh": "药",
+      "ko": "약"
+    }
+  },
+  {
+    "id": "vocab_n4_71b1",
+    "word": "熱",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Fever / Heat",
+    "translation": "(netsu)",
+    "example": "熱",
+    "category": "medical",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Температура / жар",
+      "zh": "发烧 / 热",
+      "ko": "열"
+    }
+  },
+  {
+    "id": "vocab_n4_98a8_90aa",
+    "word": "風邪",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Cold (illness)",
+    "translation": "(kaze)",
+    "example": "風邪",
+    "category": "medical",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Простуда",
+      "zh": "感冒",
+      "ko": "감기"
+    }
+  },
+  {
+    "id": "vocab_n4_54b3",
+    "word": "咳",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Cough",
+    "translation": "(seki)",
+    "example": "咳",
+    "category": "medical",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Кашель",
+      "zh": "咳嗽",
+      "ko": "기침"
+    }
+  },
+  {
+    "id": "vocab_n4_5589",
+    "word": "喉",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Throat",
+    "translation": "(nodo)",
+    "example": "喉",
+    "category": "medical",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Горло",
+      "zh": "喉咙",
+      "ko": "목"
+    }
+  },
+  {
+    "id": "vocab_n4_602a_6211",
+    "word": "怪我",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Injury",
+    "translation": "(kega)",
+    "example": "怪我",
+    "category": "medical",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Травма",
+      "zh": "受伤",
+      "ko": "부상"
+    }
+  },
+  {
+    "id": "vocab_n4_5165_9662",
+    "word": "入院",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Hospitalization",
+    "translation": "(nyuuin)",
+    "example": "入院",
+    "category": "medical",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Госпитализация",
+      "zh": "住院",
+      "ko": "입원"
+    }
+  },
+  {
+    "id": "vocab_n4_5065_5eb7",
+    "word": "健康",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Health",
+    "translation": "(kenkou)",
+    "example": "健康",
+    "category": "medical",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Здоровье",
+      "zh": "健康",
+      "ko": "건강"
+    }
+  },
+  {
+    "id": "vocab_n4_904b_52d5",
+    "word": "運動",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Exercise",
+    "translation": "(undou)",
+    "example": "運動",
+    "category": "daily-life",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Физические упражнения",
+      "zh": "运动",
+      "ko": "운동"
+    }
+  },
+  {
+    "id": "vocab_n4_904b_8ee2",
+    "word": "運転",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Driving",
+    "translation": "(unten)",
+    "example": "運転",
+    "category": "transport",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Вождение",
+      "zh": "驾驶",
+      "ko": "운전"
+    }
+  },
+  {
+    "id": "vocab_n4_99d0_8eca_5834",
+    "word": "駐車場",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Parking lot",
+    "translation": "(chuushajou)",
+    "example": "駐車場",
+    "category": "places",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Парковка",
+      "zh": "停车场",
+      "ko": "주차장"
+    }
+  },
+  {
+    "id": "vocab_n4_4fe1_53f7",
+    "word": "信号",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Traffic light",
+    "translation": "(shingou)",
+    "example": "信号",
+    "category": "transport",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Светофор",
+      "zh": "红绿灯",
+      "ko": "신호등"
+    }
+  },
+  {
+    "id": "vocab_n4_4ea4_5dee_70b9",
+    "word": "交差点",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Intersection",
+    "translation": "(kousaten)",
+    "example": "交差点",
+    "category": "transport",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Перекрёсток",
+      "zh": "十字路口",
+      "ko": "교차로"
+    }
+  },
+  {
+    "id": "vocab_n4_6a4b",
+    "word": "橋",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Bridge",
+    "translation": "(hashi)",
+    "example": "橋",
+    "category": "places",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Мост",
+      "zh": "桥",
+      "ko": "다리"
+    }
+  },
+  {
+    "id": "vocab_n4_6e2f",
+    "word": "港",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Port / Harbor",
+    "translation": "(minato)",
+    "example": "港",
+    "category": "places",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Порт",
+      "zh": "港口",
+      "ko": "항구"
+    }
+  },
+  {
+    "id": "vocab_n4_5de5_5834",
+    "word": "工場",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Factory",
+    "translation": "(koujou)",
+    "example": "工場",
+    "category": "places",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Завод",
+      "zh": "工厂",
+      "ko": "공장"
+    }
+  },
+  {
+    "id": "vocab_n4_5e97_54e1",
+    "word": "店員",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Shop clerk",
+    "translation": "(tenin)",
+    "example": "店員",
+    "category": "service",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Продавец",
+      "zh": "店员",
+      "ko": "점원"
+    }
+  },
+  {
+    "id": "vocab_n4_5ba2",
+    "word": "客",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Customer / Guest",
+    "translation": "(kyaku)",
+    "example": "客",
+    "category": "service",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Клиент / гость",
+      "zh": "客人",
+      "ko": "손님"
+    }
+  },
+  {
+    "id": "vocab_n4_5024_6bb5",
+    "word": "値段",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Price",
+    "translation": "(nedan)",
+    "example": "値段",
+    "category": "shopping",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Цена",
+      "zh": "价格",
+      "ko": "가격"
+    }
+  },
+  {
+    "id": "vocab_n4_5272_5f15",
+    "word": "割引",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Discount",
+    "translation": "(waribiki)",
+    "example": "割引",
+    "category": "shopping",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Скидка",
+      "zh": "折扣",
+      "ko": "할인"
+    }
+  },
+  {
+    "id": "vocab_n4_73fe_91d1",
+    "word": "現金",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Cash",
+    "translation": "(genkin)",
+    "example": "現金",
+    "category": "shopping",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Наличные",
+      "zh": "现金",
+      "ko": "현금"
+    }
+  },
+  {
+    "id": "vocab_n4_8ca1_5e03",
+    "word": "財布",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Wallet",
+    "translation": "(saifu)",
+    "example": "財布",
+    "category": "shopping",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Кошелёк",
+      "zh": "钱包",
+      "ko": "지갑"
+    }
+  },
+  {
+    "id": "vocab_n4_9818_53ce_66f8",
+    "word": "領収書",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Receipt",
+    "translation": "(ryoushuusho)",
+    "example": "領収書",
+    "category": "shopping",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Квитанция / чек",
+      "zh": "收据",
+      "ko": "영수증"
+    }
+  },
+  {
+    "id": "vocab_n4_5b85_914d_4fbf",
+    "word": "宅配便",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Home delivery service",
+    "translation": "(takuhaibin)",
+    "example": "宅配便",
+    "category": "service",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Курьерская доставка",
+      "zh": "快递",
+      "ko": "택배"
+    }
+  },
+  {
+    "id": "vocab_n4_90f5_4fbf",
+    "word": "郵便",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Mail",
+    "translation": "(yuubin)",
+    "example": "郵便",
+    "category": "service",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Почта",
+      "zh": "邮件",
+      "ko": "우편"
+    }
+  },
+  {
+    "id": "vocab_n4_5c01_7b52",
+    "word": "封筒",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Envelope",
+    "translation": "(fuutou)",
+    "example": "封筒",
+    "category": "objects",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Конверт",
+      "zh": "信封",
+      "ko": "봉투"
+    }
+  },
+  {
+    "id": "vocab_n4_5207_624b",
+    "word": "切手",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Postage stamp",
+    "translation": "(kitte)",
+    "example": "切手",
+    "category": "objects",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Почтовая марка",
+      "zh": "邮票",
+      "ko": "우표"
+    }
+  },
+  {
+    "id": "vocab_n4_30a4_30f3_30bf_30fc_30cd_30c3_30c8",
+    "word": "インターネット",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Internet",
+    "translation": "(intaanetto)",
+    "example": "インターネット",
+    "category": "technology",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Интернет",
+      "zh": "互联网",
+      "ko": "인터넷"
+    }
+  },
+  {
+    "id": "vocab_n4_30d1_30bd_30b3_30f3",
+    "word": "パソコン",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Personal computer",
+    "translation": "(pasokon)",
+    "example": "パソコン",
+    "category": "technology",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Персональный компьютер",
+      "zh": "电脑",
+      "ko": "컴퓨터"
+    }
+  },
+  {
+    "id": "vocab_n4_30b9_30de_30db",
+    "word": "スマホ",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Smartphone",
+    "translation": "(sumaho)",
+    "example": "スマホ",
+    "category": "technology",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Смартфон",
+      "zh": "智能手机",
+      "ko": "스마트폰"
+    }
+  },
+  {
+    "id": "vocab_n4_753b_9762",
+    "word": "画面",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Screen",
+    "translation": "(gamen)",
+    "example": "画面",
+    "category": "technology",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Экран",
+      "zh": "屏幕",
+      "ko": "화면"
+    }
+  },
+  {
+    "id": "vocab_n4_96fb_6e90",
+    "word": "電源",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Power (switch)",
+    "translation": "(dengen)",
+    "example": "電源",
+    "category": "technology",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Питание / включение",
+      "zh": "电源",
+      "ko": "전원"
+    }
+  },
+  {
+    "id": "vocab_n4_5145_96fb",
+    "word": "充電",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Charging",
+    "translation": "(juuden)",
+    "example": "充電",
+    "category": "technology",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Зарядка",
+      "zh": "充电",
+      "ko": "충전"
+    }
+  },
+  {
+    "id": "vocab_n4_691c_7d22",
+    "word": "検索",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Search",
+    "translation": "(kensaku)",
+    "example": "検索",
+    "category": "technology",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Поиск",
+      "zh": "搜索",
+      "ko": "검색"
+    }
+  },
+  {
+    "id": "vocab_n4_767b_9332",
+    "word": "登録",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Registration",
+    "translation": "(touroku)",
+    "example": "登録",
+    "category": "technology",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Регистрация",
+      "zh": "登记",
+      "ko": "등록"
+    }
+  },
+  {
+    "id": "vocab_n4_52d5_753b",
+    "word": "動画",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Video",
+    "translation": "(douga)",
+    "example": "動画",
+    "category": "technology",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Видео",
+      "zh": "视频",
+      "ko": "동영상"
+    }
+  },
+  {
+    "id": "vocab_n4_756a_7d44",
+    "word": "番組",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "TV program",
+    "translation": "(bangumi)",
+    "example": "番組",
+    "category": "media",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Телепередача",
+      "zh": "节目",
+      "ko": "프로그램"
+    }
+  },
+  {
+    "id": "vocab_n4_65b0_805e",
+    "word": "新聞",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Newspaper",
+    "translation": "(shinbun)",
+    "example": "新聞",
+    "category": "media",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Газета",
+      "zh": "报纸",
+      "ko": "신문"
+    }
+  },
+  {
+    "id": "vocab_n4_96d1_8a8c",
+    "word": "雑誌",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Magazine",
+    "translation": "(zasshi)",
+    "example": "雑誌",
+    "category": "media",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Журнал",
+      "zh": "杂志",
+      "ko": "잡지"
+    }
+  },
+  {
+    "id": "vocab_n4_5c0f_8aac",
+    "word": "小説",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Novel",
+    "translation": "(shousetsu)",
+    "example": "小説",
+    "category": "media",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Роман",
+      "zh": "小说",
+      "ko": "소설"
+    }
+  },
+  {
+    "id": "vocab_n4_4f5c_6587",
+    "word": "作文",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Composition / Essay",
+    "translation": "(sakubun)",
+    "example": "作文",
+    "category": "school",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Сочинение",
+      "zh": "作文",
+      "ko": "작문"
+    }
+  },
+  {
+    "id": "vocab_n4_5bbf_984c",
+    "word": "宿題",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Homework",
+    "translation": "(shukudai)",
+    "example": "宿題",
+    "category": "school",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Домашнее задание",
+      "zh": "作业",
+      "ko": "숙제"
+    }
+  },
+  {
+    "id": "vocab_n4_6388_696d",
+    "word": "授業",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Class / Lesson",
+    "translation": "(jugyou)",
+    "example": "授業",
+    "category": "school",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Урок / занятие",
+      "zh": "课程",
+      "ko": "수업"
+    }
+  },
+  {
+    "id": "vocab_n4_9ed2_677f",
+    "word": "黒板",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Blackboard",
+    "translation": "(kokuban)",
+    "example": "黒板",
+    "category": "school",
+    "tags": [
+      "N4",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Классная доска",
+      "zh": "黑板",
+      "ko": "칠판"
+    }
+  }
+]

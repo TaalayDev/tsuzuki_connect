@@ -1,32 +1,44 @@
 import 'package:flutter_tts/flutter_tts.dart';
 
-/// Reads English lesson/vocab text aloud.
+/// Reads Japanese lesson/vocab text aloud.
 ///
 /// Mirrors `js/systems/TTS.js`: on iOS/macOS `flutter_tts` is backed by the
 /// same native `AVSpeechSynthesizer` the old WKWebView `speechSynthesis`
-/// call used, so behavior (voice list, rate/pitch range) carries over
-/// directly. Always speaks English (the language being taught), regardless
-/// of the app's UI language.
+/// call used, so voice lists carry over directly. Always speaks Japanese
+/// (the language being taught), regardless of the app's UI language.
 class TtsService {
   TtsService();
 
-  static const _defaultLang = 'en-US';
+  static const _defaultLang = 'ja-JP';
+
+  /// Short sentence for the settings screen to preview the selected voice.
+  static const sampleText = 'こんにちは。これが私の声です。';
+
+  /// The settings slider runs from 0.5 to 1.5 (1.0 = normal). `flutter_tts`
+  /// wants 0.0-1.0 with 0.5 as the natural speed on both iOS and Android, and
+  /// a slightly calmer pace suits learners, so the slider is scaled down.
+  static const _rateScale = 0.45;
 
   final FlutterTts _tts = FlutterTts();
 
   String? _preferredVoiceName;
-  double _rate = 0.0; // matches TTS.js default
+  double _rate = 1.0;
   double _pitch = 1.0;
   double _volume = 0.8;
   Future<void>? _voiceSetup;
 
-  Future<List<Map<String, String>>> getEnglishVoices() async {
+  Future<List<Map<String, String>>> getJapaneseVoices() async {
     final voices = await _tts.getVoices as List<dynamic>? ?? const [];
     return voices
         .cast<Map<dynamic, dynamic>>()
         .map((v) => v.map((k, val) => MapEntry(k.toString(), val.toString())))
-        .where((v) => (v['locale'] ?? '').toLowerCase().startsWith('en'))
+        .where(_isJapanese)
         .toList();
+  }
+
+  bool _isJapanese(Map<String, String> voice) {
+    final locale = (voice['locale'] ?? '').toLowerCase().replaceAll('_', '-');
+    return locale == 'ja' || locale.startsWith('ja-');
   }
 
   Future<void> speak(String text) async {
@@ -34,16 +46,18 @@ class TtsService {
     if (clean.isEmpty) return;
 
     await _tts.stop();
-    await (_voiceSetup ??= _configureEnglishVoice());
-    await _tts.setSpeechRate(_rate);
+    await (_voiceSetup ??= _configureJapaneseVoice());
+    await _tts.setSpeechRate((_rate * _rateScale).clamp(0.1, 1.0));
     await _tts.setPitch(_pitch);
     await _tts.setVolume(_volume);
     await _tts.speak(clean);
   }
 
-  Future<void> _configureEnglishVoice() async {
+  Future<void> _configureJapaneseVoice() async {
+    // Always select the language first: even when no voice list is available
+    // (web, some Android engines) the engine then still speaks Japanese.
     await _tts.setLanguage(_defaultLang);
-    final voices = await getEnglishVoices();
+    final voices = await getJapaneseVoices();
     if (voices.isEmpty) return;
 
     Map<String, String>? selected;
@@ -56,7 +70,9 @@ class TtsService {
         }
       }
     }
-    selected ??= _bestEnglishVoice(voices);
+    // A saved voice from before the app taught Japanese (an English voice) is
+    // not in this list, so it falls through to the best Japanese voice.
+    selected ??= _bestJapaneseVoice(voices);
 
     final name = selected['name'];
     final locale = selected['locale'];
@@ -65,12 +81,13 @@ class TtsService {
     await _tts.setVoice({'name': name, 'locale': locale});
   }
 
-  Map<String, String> _bestEnglishVoice(List<Map<String, String>> voices) {
+  Map<String, String> _bestJapaneseVoice(List<Map<String, String>> voices) {
+    // Higher-quality downloadable voices sound far more natural for Japanese.
     int rank(Map<String, String> voice) {
-      final locale = (voice['locale'] ?? '').toLowerCase().replaceAll('_', '-');
-      if (locale == 'en-us') return 0;
-      if (locale == 'en-gb') return 1;
-      if (locale.startsWith('en-')) return 2;
+      final name = (voice['name'] ?? '').toLowerCase();
+      if (name.contains('premium')) return 0;
+      if (name.contains('enhanced')) return 1;
+      if (name.contains('kyoko') || name.contains('o-ren')) return 2;
       return 3;
     }
 
@@ -105,10 +122,14 @@ class TtsService {
 
   double get volume => _volume;
 
+  /// Drops marks the synthesizer would read out or stumble on: quote
+  /// brackets, the "~" used in grammar patterns and the middle dot.
   String _cleanForSpeech(String text) {
     return text
-        .replaceAll(RegExp('[""]'), '')
-        .replaceAll(RegExp("['']"), "'")
+        .replaceAll(RegExp('[「」『』“”"]'), '')
+        .replaceAll(RegExp('[〜～~]'), '')
+        .replaceAll('・', ' ')
+        .replaceAll(RegExp(r'\s+'), ' ')
         .trim();
   }
 }

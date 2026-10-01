@@ -13,7 +13,7 @@ void main() {
     expect(i18n.t('s0.title'), 'Первый день занятий');
     expect(
       i18n.supportedLanguages,
-      containsAll(<String>['en', 'ru', 'zh', 'ko', 'ja', 'romaji']),
+      containsAll(<String>['en', 'ru', 'zh', 'ja', 'romaji']),
     );
   });
 }

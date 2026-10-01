@@ -1,0 +1,1742 @@
+[
+  {
+    "id": "vocab_n4_7d4c_9a13",
+    "word": "経験",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Experience",
+    "translation": "(keiken)",
+    "example": "経験",
+    "category": "abstract",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Опыт",
+      "zh": "经验",
+      "ko": "경험"
+    }
+  },
+  {
+    "id": "vocab_n4_6e96_5099",
+    "word": "準備",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Preparation",
+    "translation": "(junbi)",
+    "example": "準備",
+    "category": "daily-life",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Подготовка",
+      "zh": "准备",
+      "ko": "준비"
+    }
+  },
+  {
+    "id": "vocab_n4_7d04_675f",
+    "word": "約束",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Promise / Appointment",
+    "translation": "(yakusoku)",
+    "example": "約束",
+    "category": "social",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Обещание / договорённость",
+      "zh": "约定",
+      "ko": "약속"
+    }
+  },
+  {
+    "id": "vocab_n4_4e88_5b9a",
+    "word": "予定",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Plan / Schedule",
+    "translation": "(yotei)",
+    "example": "予定",
+    "category": "daily-life",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "План / расписание",
+      "zh": "预定",
+      "ko": "예정"
+    }
+  },
+  {
+    "id": "vocab_n4_5834_5408",
+    "word": "場合",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Case / Situation",
+    "translation": "(baai)",
+    "example": "場合",
+    "category": "abstract",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Случай / ситуация",
+      "zh": "场合",
+      "ko": "경우"
+    }
+  },
+  {
+    "id": "vocab_n4_7406_7531",
+    "word": "理由",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Reason",
+    "translation": "(riyuu)",
+    "example": "理由",
+    "category": "abstract",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Причина",
+      "zh": "理由",
+      "ko": "이유"
+    }
+  },
+  {
+    "id": "vocab_n4_610f_898b",
+    "word": "意見",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Opinion",
+    "translation": "(iken)",
+    "example": "意見",
+    "category": "abstract",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Мнение",
+      "zh": "意见",
+      "ko": "의견"
+    }
+  },
+  {
+    "id": "vocab_n4_8cea_554f",
+    "word": "質問",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Question",
+    "translation": "(shitsumon)",
+    "example": "質問",
+    "category": "school",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Вопрос",
+      "zh": "提问",
+      "ko": "질문"
+    }
+  },
+  {
+    "id": "vocab_n4_8aac_660e",
+    "word": "説明",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Explanation",
+    "translation": "(setsumei)",
+    "example": "説明",
+    "category": "school",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Объяснение",
+      "zh": "说明",
+      "ko": "설명"
+    }
+  },
+  {
+    "id": "vocab_n4_9023_7d61",
+    "word": "連絡",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Contact / Notice",
+    "translation": "(renraku)",
+    "example": "連絡",
+    "category": "social",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Связь / сообщение",
+      "zh": "联系",
+      "ko": "연락"
+    }
+  },
+  {
+    "id": "vocab_n4_76f8_8ac7",
+    "word": "相談",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Consultation",
+    "translation": "(soudan)",
+    "example": "相談",
+    "category": "social",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Консультация / совет",
+      "zh": "商量",
+      "ko": "상담"
+    }
+  },
+  {
+    "id": "vocab_n4_62db_5f85",
+    "word": "招待",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Invitation",
+    "translation": "(shoutai)",
+    "example": "招待",
+    "category": "social",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Приглашение",
+      "zh": "邀请",
+      "ko": "초대"
+    }
+  },
+  {
+    "id": "vocab_n4_7d39_4ecb",
+    "word": "紹介",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Introduction",
+    "translation": "(shoukai)",
+    "example": "紹介",
+    "category": "social",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Представление / знакомство",
+      "zh": "介绍",
+      "ko": "소개"
+    }
+  },
+  {
+    "id": "vocab_n4_6848_5185",
+    "word": "案内",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Guidance / Guide",
+    "translation": "(annai)",
+    "example": "案内",
+    "category": "social",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Сопровождение / информация",
+      "zh": "向导 / 指引",
+      "ko": "안내"
+    }
+  },
+  {
+    "id": "vocab_n4_53c2_52a0",
+    "word": "参加",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Participation",
+    "translation": "(sanka)",
+    "example": "参加",
+    "category": "social",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Участие",
+      "zh": "参加",
+      "ko": "참가"
+    }
+  },
+  {
+    "id": "vocab_n4_5354_529b",
+    "word": "協力",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Cooperation",
+    "translation": "(kyouryoku)",
+    "example": "協力",
+    "category": "social",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Сотрудничество",
+      "zh": "合作",
+      "ko": "협력"
+    }
+  },
+  {
+    "id": "vocab_n4_8a08_753b",
+    "word": "計画",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Plan / Project",
+    "translation": "(keikaku)",
+    "example": "計画",
+    "category": "daily-life",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "План / проект",
+      "zh": "计划",
+      "ko": "계획"
+    }
+  },
+  {
+    "id": "vocab_n4_76ee_7684",
+    "word": "目的",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Purpose",
+    "translation": "(mokuteki)",
+    "example": "目的",
+    "category": "abstract",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Цель",
+      "zh": "目的",
+      "ko": "목적"
+    }
+  },
+  {
+    "id": "vocab_n4_7d50_679c",
+    "word": "結果",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Result",
+    "translation": "(kekka)",
+    "example": "結果",
+    "category": "abstract",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Результат",
+      "zh": "结果",
+      "ko": "결과"
+    }
+  },
+  {
+    "id": "vocab_n4_539f_56e0",
+    "word": "原因",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Cause",
+    "translation": "(genin)",
+    "example": "原因",
+    "category": "abstract",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Причина (источник)",
+      "zh": "原因",
+      "ko": "원인"
+    }
+  },
+  {
+    "id": "vocab_n4_7b54_3048",
+    "word": "答え",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Answer",
+    "translation": "(kotae)",
+    "example": "答え",
+    "category": "school",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Ответ",
+      "zh": "答案",
+      "ko": "대답"
+    }
+  },
+  {
+    "id": "vocab_n4_554f_984c",
+    "word": "問題",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Problem / Question",
+    "translation": "(mondai)",
+    "example": "問題",
+    "category": "school",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Проблема / задача",
+      "zh": "问题",
+      "ko": "문제"
+    }
+  },
+  {
+    "id": "vocab_n4_7fd2_6163",
+    "word": "習慣",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Habit / Custom",
+    "translation": "(shuukan)",
+    "example": "習慣",
+    "category": "daily-life",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Привычка / обычай",
+      "zh": "习惯",
+      "ko": "습관"
+    }
+  },
+  {
+    "id": "vocab_n4_6587_5316",
+    "word": "文化",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Culture",
+    "translation": "(bunka)",
+    "example": "文化",
+    "category": "society",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Культура",
+      "zh": "文化",
+      "ko": "문화"
+    }
+  },
+  {
+    "id": "vocab_n4_6b74_53f2",
+    "word": "歴史",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "History",
+    "translation": "(rekishi)",
+    "example": "歴史",
+    "category": "society",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "История",
+      "zh": "历史",
+      "ko": "역사"
+    }
+  },
+  {
+    "id": "vocab_n4_793e_4f1a",
+    "word": "社会",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Society",
+    "translation": "(shakai)",
+    "example": "社会",
+    "category": "society",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Общество",
+      "zh": "社会",
+      "ko": "사회"
+    }
+  },
+  {
+    "id": "vocab_n4_7d4c_6e08",
+    "word": "経済",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Economy",
+    "translation": "(keizai)",
+    "example": "経済",
+    "category": "society",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Экономика",
+      "zh": "经济",
+      "ko": "경제"
+    }
+  },
+  {
+    "id": "vocab_n4_74b0_5883",
+    "word": "環境",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Environment",
+    "translation": "(kankyou)",
+    "example": "環境",
+    "category": "society",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Окружающая среда",
+      "zh": "环境",
+      "ko": "환경"
+    }
+  },
+  {
+    "id": "vocab_n4_81ea_7136",
+    "word": "自然",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Nature",
+    "translation": "(shizen)",
+    "example": "自然",
+    "category": "nature",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Природа",
+      "zh": "自然",
+      "ko": "자연"
+    }
+  },
+  {
+    "id": "vocab_n4_5b63_7bc0",
+    "word": "季節",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Season",
+    "translation": "(kisetsu)",
+    "example": "季節",
+    "category": "nature",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Время года",
+      "zh": "季节",
+      "ko": "계절"
+    }
+  },
+  {
+    "id": "vocab_n4_666f_8272",
+    "word": "景色",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Scenery",
+    "translation": "(keshiki)",
+    "example": "景色",
+    "category": "nature",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Пейзаж",
+      "zh": "景色",
+      "ko": "경치"
+    }
+  },
+  {
+    "id": "vocab_n4_65c5_9928",
+    "word": "旅館",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Japanese inn",
+    "translation": "(ryokan)",
+    "example": "旅館",
+    "category": "places",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Рёкан (японская гостиница)",
+      "zh": "旅馆",
+      "ko": "여관"
+    }
+  },
+  {
+    "id": "vocab_n4_6e29_6cc9",
+    "word": "温泉",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Hot spring",
+    "translation": "(onsen)",
+    "example": "温泉",
+    "category": "places",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Горячий источник",
+      "zh": "温泉",
+      "ko": "온천"
+    }
+  },
+  {
+    "id": "vocab_n4_4e88_7d04",
+    "word": "予約",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Reservation",
+    "translation": "(yoyaku)",
+    "example": "予約",
+    "category": "service",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Бронирование",
+      "zh": "预约",
+      "ko": "예약"
+    }
+  },
+  {
+    "id": "vocab_n4_9045_523b",
+    "word": "遅刻",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Being late",
+    "translation": "(chikoku)",
+    "example": "遅刻",
+    "category": "school",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Опоздание",
+      "zh": "迟到",
+      "ko": "지각"
+    }
+  },
+  {
+    "id": "vocab_n4_6b20_5e2d",
+    "word": "欠席",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Absence",
+    "translation": "(kesseki)",
+    "example": "欠席",
+    "category": "school",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Отсутствие",
+      "zh": "缺席",
+      "ko": "결석"
+    }
+  },
+  {
+    "id": "vocab_n4_51fa_5e2d",
+    "word": "出席",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Attendance",
+    "translation": "(shusseki)",
+    "example": "出席",
+    "category": "school",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Присутствие",
+      "zh": "出席",
+      "ko": "출석"
+    }
+  },
+  {
+    "id": "vocab_n4_8a66_9a13",
+    "word": "試験",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Exam",
+    "translation": "(shiken)",
+    "example": "試験",
+    "category": "school",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Экзамен",
+      "zh": "考试",
+      "ko": "시험"
+    }
+  },
+  {
+    "id": "vocab_n4_5408_683c",
+    "word": "合格",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Passing (an exam)",
+    "translation": "(goukaku)",
+    "example": "合格",
+    "category": "school",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Сдача (экзамена)",
+      "zh": "合格",
+      "ko": "합격"
+    }
+  },
+  {
+    "id": "vocab_n4_5352_696d",
+    "word": "卒業",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Graduation",
+    "translation": "(sotsugyou)",
+    "example": "卒業",
+    "category": "school",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Выпуск / окончание",
+      "zh": "毕业",
+      "ko": "졸업"
+    }
+  },
+  {
+    "id": "vocab_n4_5165_5b66",
+    "word": "入学",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Enrollment",
+    "translation": "(nyuugaku)",
+    "example": "入学",
+    "category": "school",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Поступление",
+      "zh": "入学",
+      "ko": "입학"
+    }
+  },
+  {
+    "id": "vocab_n4_5c31_8077",
+    "word": "就職",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Getting a job",
+    "translation": "(shuushoku)",
+    "example": "就職",
+    "category": "work",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Трудоустройство",
+      "zh": "就业",
+      "ko": "취직"
+    }
+  },
+  {
+    "id": "vocab_n4_5f15_3063_8d8a_3057",
+    "word": "引っ越し",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Moving house",
+    "translation": "(hikkoshi)",
+    "example": "引っ越し",
+    "category": "daily-life",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Переезд",
+      "zh": "搬家",
+      "ko": "이사"
+    }
+  },
+  {
+    "id": "vocab_n4_7247_4ed8_3051_308b",
+    "word": "片付ける",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To tidy up",
+    "translation": "(katazukeru)",
+    "example": "片付ける",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Убирать / приводить в порядок",
+      "zh": "收拾",
+      "ko": "치우다"
+    }
+  },
+  {
+    "id": "vocab_n4_5fd8_308c_308b",
+    "word": "忘れる",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To forget",
+    "translation": "(wasureru)",
+    "example": "忘れる",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Забывать",
+      "zh": "忘记",
+      "ko": "잊다"
+    }
+  },
+  {
+    "id": "vocab_n4_899a_3048_308b",
+    "word": "覚える",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To memorize / To learn",
+    "translation": "(oboeru)",
+    "example": "覚える",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Запоминать",
+      "zh": "记住",
+      "ko": "외우다"
+    }
+  },
+  {
+    "id": "vocab_n4_9593_306b_5408_3046",
+    "word": "間に合う",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To be in time",
+    "translation": "(maniau)",
+    "example": "間に合う",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Успевать",
+      "zh": "赶得上",
+      "ko": "시간에 맞추다"
+    }
+  },
+  {
+    "id": "vocab_n4_6163_308c_308b",
+    "word": "慣れる",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To get used to",
+    "translation": "(nareru)",
+    "example": "慣れる",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Привыкать",
+      "zh": "习惯",
+      "ko": "익숙해지다"
+    }
+  },
+  {
+    "id": "vocab_n4_6c7a_3081_308b",
+    "word": "決める",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To decide",
+    "translation": "(kimeru)",
+    "example": "決める",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Решать",
+      "zh": "决定",
+      "ko": "정하다"
+    }
+  },
+  {
+    "id": "vocab_n4_9078_3076",
+    "word": "選ぶ",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To choose",
+    "translation": "(erabu)",
+    "example": "選ぶ",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Выбирать",
+      "zh": "选择",
+      "ko": "고르다"
+    }
+  },
+  {
+    "id": "vocab_n4_96c6_3081_308b",
+    "word": "集める",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To collect / To gather",
+    "translation": "(atsumeru)",
+    "example": "集める",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Собирать",
+      "zh": "收集",
+      "ko": "모으다"
+    }
+  },
+  {
+    "id": "vocab_n4_898b_3064_3051_308b",
+    "word": "見つける",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To find",
+    "translation": "(mitsukeru)",
+    "example": "見つける",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Находить",
+      "zh": "找到",
+      "ko": "찾아내다"
+    }
+  },
+  {
+    "id": "vocab_n4_8fce_3048_308b",
+    "word": "迎える",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To welcome / To pick up",
+    "translation": "(mukaeru)",
+    "example": "迎える",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Встречать",
+      "zh": "迎接",
+      "ko": "맞이하다"
+    }
+  },
+  {
+    "id": "vocab_n4_9001_308b",
+    "word": "送る",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To send",
+    "translation": "(okuru)",
+    "example": "送る",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Отправлять",
+      "zh": "寄 / 送",
+      "ko": "보내다"
+    }
+  },
+  {
+    "id": "vocab_n4_6255_3046",
+    "word": "払う",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To pay",
+    "translation": "(harau)",
+    "example": "払う",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Платить",
+      "zh": "付",
+      "ko": "내다 / 지불하다"
+    }
+  },
+  {
+    "id": "vocab_n4_9810_3051_308b",
+    "word": "預ける",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To deposit / To leave in care",
+    "translation": "(azukeru)",
+    "example": "預ける",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Сдавать на хранение",
+      "zh": "寄存",
+      "ko": "맡기다"
+    }
+  },
+  {
+    "id": "vocab_n4_6bd4_3079_308b",
+    "word": "比べる",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To compare",
+    "translation": "(kuraberu)",
+    "example": "比べる",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Сравнивать",
+      "zh": "比较",
+      "ko": "비교하다"
+    }
+  },
+  {
+    "id": "vocab_n4_8abf_3079_308b",
+    "word": "調べる",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To look into / To check",
+    "translation": "(shiraberu)",
+    "example": "調べる",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Изучать / проверять",
+      "zh": "调查",
+      "ko": "조사하다"
+    }
+  },
+  {
+    "id": "vocab_n4_8a2a_306d_308b",
+    "word": "訪ねる",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To visit",
+    "translation": "(tazuneru)",
+    "example": "訪ねる",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Навещать",
+      "zh": "拜访",
+      "ko": "방문하다"
+    }
+  },
+  {
+    "id": "vocab_n4_7b11_3046",
+    "word": "笑う",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To laugh",
+    "translation": "(warau)",
+    "example": "笑う",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Смеяться",
+      "zh": "笑",
+      "ko": "웃다"
+    }
+  },
+  {
+    "id": "vocab_n4_6ce3_304f",
+    "word": "泣く",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To cry",
+    "translation": "(naku)",
+    "example": "泣く",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Плакать",
+      "zh": "哭",
+      "ko": "울다"
+    }
+  },
+  {
+    "id": "vocab_n4_6012_308b",
+    "word": "怒る",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To get angry",
+    "translation": "(okoru)",
+    "example": "怒る",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Сердиться",
+      "zh": "生气",
+      "ko": "화내다"
+    }
+  },
+  {
+    "id": "vocab_n4_9a5a_304f",
+    "word": "驚く",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To be surprised",
+    "translation": "(odoroku)",
+    "example": "驚く",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Удивляться",
+      "zh": "吃惊",
+      "ko": "놀라다"
+    }
+  },
+  {
+    "id": "vocab_n4_559c_3076",
+    "word": "喜ぶ",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "verb",
+    "definition": "To be glad",
+    "translation": "(yorokobu)",
+    "example": "喜ぶ",
+    "category": "verbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Радоваться",
+      "zh": "高兴",
+      "ko": "기뻐하다"
+    }
+  },
+  {
+    "id": "vocab_n4_60b2_3057_3044",
+    "word": "悲しい",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adjective",
+    "definition": "Sad",
+    "translation": "(kanashii)",
+    "example": "悲しい",
+    "category": "emotions",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Грустный",
+      "zh": "悲伤的",
+      "ko": "슬프다"
+    }
+  },
+  {
+    "id": "vocab_n4_512a_3057_3044",
+    "word": "優しい",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adjective",
+    "definition": "Gentle / Kind",
+    "translation": "(yasashii)",
+    "example": "優しい",
+    "category": "emotions",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Добрый / мягкий",
+      "zh": "温柔的",
+      "ko": "상냥하다"
+    }
+  },
+  {
+    "id": "vocab_n4_53b3_3057_3044",
+    "word": "厳しい",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adjective",
+    "definition": "Strict / Severe",
+    "translation": "(kibishii)",
+    "example": "厳しい",
+    "category": "adjectives",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Строгий / суровый",
+      "zh": "严格的",
+      "ko": "엄하다"
+    }
+  },
+  {
+    "id": "vocab_n4_73cd_3057_3044",
+    "word": "珍しい",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adjective",
+    "definition": "Rare / Unusual",
+    "translation": "(mezurashii)",
+    "example": "珍しい",
+    "category": "adjectives",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Редкий / необычный",
+      "zh": "稀罕的",
+      "ko": "드물다"
+    }
+  },
+  {
+    "id": "vocab_n4_6016_3044",
+    "word": "怖い",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adjective",
+    "definition": "Scary / Afraid",
+    "translation": "(kowai)",
+    "example": "怖い",
+    "category": "emotions",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Страшный",
+      "zh": "可怕的",
+      "ko": "무섭다"
+    }
+  },
+  {
+    "id": "vocab_n4_7720_3044",
+    "word": "眠い",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adjective",
+    "definition": "Sleepy",
+    "translation": "(nemui)",
+    "example": "眠い",
+    "category": "states",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Сонный",
+      "zh": "困的",
+      "ko": "졸리다"
+    }
+  },
+  {
+    "id": "vocab_n4_75db_3044",
+    "word": "痛い",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adjective",
+    "definition": "Painful",
+    "translation": "(itai)",
+    "example": "痛い",
+    "category": "medical",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Больно",
+      "zh": "疼的",
+      "ko": "아프다"
+    }
+  },
+  {
+    "id": "vocab_n4_7c21_5358",
+    "word": "簡単",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adjective",
+    "definition": "Simple / Easy",
+    "translation": "(kantan)",
+    "example": "簡単",
+    "category": "adjectives",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Простой",
+      "zh": "简单",
+      "ko": "간단하다"
+    }
+  },
+  {
+    "id": "vocab_n4_8907_96d1",
+    "word": "複雑",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adjective",
+    "definition": "Complicated",
+    "translation": "(fukuzatsu)",
+    "example": "複雑",
+    "category": "adjectives",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Сложный",
+      "zh": "复杂",
+      "ko": "복잡하다"
+    }
+  },
+  {
+    "id": "vocab_n4_5fc5_8981",
+    "word": "必要",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adjective",
+    "definition": "Necessary",
+    "translation": "(hitsuyou)",
+    "example": "必要",
+    "category": "adjectives",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Необходимый",
+      "zh": "必要",
+      "ko": "필요하다"
+    }
+  },
+  {
+    "id": "vocab_n4_5927_5909",
+    "word": "大変",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adjective",
+    "definition": "Hard / Serious",
+    "translation": "(taihen)",
+    "example": "大変",
+    "category": "adjectives",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Тяжело / серьёзно",
+      "zh": "辛苦 / 严重",
+      "ko": "힘들다"
+    }
+  },
+  {
+    "id": "vocab_n4_5341_5206",
+    "word": "十分",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adjective",
+    "definition": "Enough",
+    "translation": "(juubun)",
+    "example": "十分",
+    "category": "adjectives",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Достаточно",
+      "zh": "足够",
+      "ko": "충분하다"
+    }
+  },
+  {
+    "id": "vocab_n4_666e_901a",
+    "word": "普通",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adjective",
+    "definition": "Ordinary / Usual",
+    "translation": "(futsuu)",
+    "example": "普通",
+    "category": "adjectives",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Обычный",
+      "zh": "普通",
+      "ko": "보통"
+    }
+  },
+  {
+    "id": "vocab_n4_7279_306b",
+    "word": "特に",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adverb",
+    "definition": "Especially",
+    "translation": "(tokuni)",
+    "example": "特に",
+    "category": "adverbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Особенно",
+      "zh": "特别",
+      "ko": "특히"
+    }
+  },
+  {
+    "id": "vocab_n4_5fc5_305a",
+    "word": "必ず",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adverb",
+    "definition": "Surely / Without fail",
+    "translation": "(kanarazu)",
+    "example": "必ず",
+    "category": "adverbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Обязательно",
+      "zh": "一定",
+      "ko": "반드시"
+    }
+  },
+  {
+    "id": "vocab_n4_4f8b_3048_3070",
+    "word": "例えば",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adverb",
+    "definition": "For example",
+    "translation": "(tatoeba)",
+    "example": "例えば",
+    "category": "adverbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Например",
+      "zh": "例如",
+      "ko": "예를 들면"
+    }
+  },
+  {
+    "id": "vocab_n4_7d50_5c40",
+    "word": "結局",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adverb",
+    "definition": "In the end",
+    "translation": "(kekkyoku)",
+    "example": "結局",
+    "category": "adverbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "В итоге",
+      "zh": "结果",
+      "ko": "결국"
+    }
+  },
+  {
+    "id": "vocab_n4_5168_7136",
+    "word": "全然",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adverb",
+    "definition": "Not at all",
+    "translation": "(zenzen)",
+    "example": "全然",
+    "category": "adverbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Совсем (не)",
+      "zh": "完全(不)",
+      "ko": "전혀"
+    }
+  },
+  {
+    "id": "vocab_n4_305a_3063_3068",
+    "word": "ずっと",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adverb",
+    "definition": "All along / Much more",
+    "translation": "(zutto)",
+    "example": "ずっと",
+    "category": "adverbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Всё время / гораздо",
+      "zh": "一直",
+      "ko": "계속"
+    }
+  },
+  {
+    "id": "vocab_n4_3060_3093_3060_3093",
+    "word": "だんだん",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adverb",
+    "definition": "Gradually",
+    "translation": "(dandan)",
+    "example": "だんだん",
+    "category": "adverbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Постепенно",
+      "zh": "渐渐",
+      "ko": "점점"
+    }
+  },
+  {
+    "id": "vocab_n4_305d_308d_305d_308d",
+    "word": "そろそろ",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adverb",
+    "definition": "Soon / About time",
+    "translation": "(sorosoro)",
+    "example": "そろそろ",
+    "category": "adverbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Скоро / пора",
+      "zh": "差不多该",
+      "ko": "슬슬"
+    }
+  },
+  {
+    "id": "vocab_n4_6025_306b",
+    "word": "急に",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "adverb",
+    "definition": "Suddenly",
+    "translation": "(kyuu ni)",
+    "example": "急に",
+    "category": "adverbs",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "Внезапно",
+      "zh": "突然",
+      "ko": "갑자기"
+    }
+  },
+  {
+    "id": "vocab_n4_5b9f_969b",
+    "word": "実際",
+    "level": "intermediate",
+    "cefrLevel": "A2",
+    "partOfSpeech": "noun",
+    "definition": "Actually / In reality",
+    "translation": "(jissai)",
+    "example": "実際",
+    "category": "abstract",
+    "tags": [
+      "N4",
+      "vocab2"
+    ],
+    "tr": {
+      "ru": "На самом деле",
+      "zh": "实际",
+      "ko": "실제"
+    }
+  }
+]

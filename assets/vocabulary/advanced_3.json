@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "vocab_n3_8ee2_8077",
+    "word": "転職",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Changing jobs",
+    "translation": "(tenshoku)",
+    "example": "転職",
+    "category": "work",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Смена работы",
+      "zh": "换工作",
+      "ko": "이직"
+    }
+  },
+  {
+    "id": "vocab_n3_6b8b_696d",
+    "word": "残業",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Overtime",
+    "translation": "(zangyou)",
+    "example": "残業",
+    "category": "work",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Сверхурочная работа",
+      "zh": "加班",
+      "ko": "야근"
+    }
+  },
+  {
+    "id": "vocab_n3_51fa_5f35",
+    "word": "出張",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Business trip",
+    "translation": "(shucchou)",
+    "example": "出張",
+    "category": "work",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Командировка",
+      "zh": "出差",
+      "ko": "출장"
+    }
+  },
+  {
+    "id": "vocab_n3_4f1a_8b70",
+    "word": "会議",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Meeting",
+    "translation": "(kaigi)",
+    "example": "会議",
+    "category": "work",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Совещание",
+      "zh": "会议",
+      "ko": "회의"
+    }
+  },
+  {
+    "id": "vocab_n3_8cc7_6599",
+    "word": "資料",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Materials / Documents",
+    "translation": "(shiryou)",
+    "example": "資料",
+    "category": "work",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Материалы / документы",
+      "zh": "资料",
+      "ko": "자료"
+    }
+  },
+  {
+    "id": "vocab_n3_4f01_753b",
+    "word": "企画",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Planning / Proposal",
+    "translation": "(kikaku)",
+    "example": "企画",
+    "category": "work",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Планирование / проект",
+      "zh": "策划",
+      "ko": "기획"
+    }
+  },
+  {
+    "id": "vocab_n3_62c5_5f53",
+    "word": "担当",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "In charge of",
+    "translation": "(tantou)",
+    "example": "担当",
+    "category": "work",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Ответственный / курирование",
+      "zh": "负责",
+      "ko": "담당"
+    }
+  },
+  {
+    "id": "vocab_n3_4e0a_53f8",
+    "word": "上司",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Boss / Superior",
+    "translation": "(joushi)",
+    "example": "上司",
+    "category": "work",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Начальник",
+      "zh": "上司",
+      "ko": "상사"
+    }
+  },
+  {
+    "id": "vocab_n3_90e8_4e0b",
+    "word": "部下",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Subordinate",
+    "translation": "(buka)",
+    "example": "部下",
+    "category": "work",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Подчинённый",
+      "zh": "下属",
+      "ko": "부하"
+    }
+  },
+  {
+    "id": "vocab_n3_540c_50da",
+    "word": "同僚",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Colleague",
+    "translation": "(douryou)",
+    "example": "同僚",
+    "category": "work",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Коллега",
+      "zh": "同事",
+      "ko": "동료"
+    }
+  },
+  {
+    "id": "vocab_n3_5148_8f29",
+    "word": "先輩",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Senior (at school or work)",
+    "translation": "(senpai)",
+    "example": "先輩",
+    "category": "social",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Старший (по учёбе / работе)",
+      "zh": "前辈",
+      "ko": "선배"
+    }
+  },
+  {
+    "id": "vocab_n3_5f8c_8f29",
+    "word": "後輩",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Junior (at school or work)",
+    "translation": "(kouhai)",
+    "example": "後輩",
+    "category": "social",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Младший (по учёбе / работе)",
+      "zh": "后辈",
+      "ko": "후배"
+    }
+  },
+  {
+    "id": "vocab_n3_53d6_5f15_5148",
+    "word": "取引先",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Business partner / Client",
+    "translation": "(torihikisaki)",
+    "example": "取引先",
+    "category": "work",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Деловой партнёр / клиент",
+      "zh": "客户",
+      "ko": "거래처"
+    }
+  },
+  {
+    "id": "vocab_n3_5951_7d04",
+    "word": "契約",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Contract",
+    "translation": "(keiyaku)",
+    "example": "契約",
+    "category": "work",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Контракт",
+      "zh": "合同",
+      "ko": "계약"
+    }
+  },
+  {
+    "id": "vocab_n3_7d66_6599",
+    "word": "給料",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Salary",
+    "translation": "(kyuuryou)",
+    "example": "給料",
+    "category": "work",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Зарплата",
+      "zh": "工资",
+      "ko": "급료"
+    }
+  },
+  {
+    "id": "vocab_n3_4f11_6687",
+    "word": "休暇",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Vacation / Leave",
+    "translation": "(kyuuka)",
+    "example": "休暇",
+    "category": "work",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Отпуск",
+      "zh": "休假",
+      "ko": "휴가"
+    }
+  },
+  {
+    "id": "vocab_n3_7d4c_55b6",
+    "word": "経営",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Management (of a business)",
+    "translation": "(keiei)",
+    "example": "経営",
+    "category": "work",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Управление (бизнесом)",
+      "zh": "经营",
+      "ko": "경영"
+    }
+  },
+  {
+    "id": "vocab_n3_5546_54c1",
+    "word": "商品",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Product / Goods",
+    "translation": "(shouhin)",
+    "example": "商品",
+    "category": "work",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Товар",
+      "zh": "商品",
+      "ko": "상품"
+    }
+  },
+  {
+    "id": "vocab_n3_58f2_308a_4e0a_3052",
+    "word": "売り上げ",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Sales (revenue)",
+    "translation": "(uriage)",
+    "example": "売り上げ",
+    "category": "work",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Выручка / продажи",
+      "zh": "销售额",
+      "ko": "매출"
+    }
+  },
+  {
+    "id": "vocab_n3_5229_76ca",
+    "word": "利益",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Profit",
+    "translation": "(rieki)",
+    "example": "利益",
+    "category": "work",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Прибыль",
+      "zh": "利润",
+      "ko": "이익"
+    }
+  },
+  {
+    "id": "vocab_n3_5ba3_4f1d",
+    "word": "宣伝",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Advertising / Publicity",
+    "translation": "(senden)",
+    "example": "宣伝",
+    "category": "work",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Реклама / пропаганда",
+      "zh": "宣传",
+      "ko": "선전"
+    }
+  },
+  {
+    "id": "vocab_n3_5e83_544a",
+    "word": "広告",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Advertisement",
+    "translation": "(koukoku)",
+    "example": "広告",
+    "category": "work",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Реклама (объявление)",
+      "zh": "广告",
+      "ko": "광고"
+    }
+  },
+  {
+    "id": "vocab_n3_8abf_67fb",
+    "word": "調査",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Survey / Investigation",
+    "translation": "(chousa)",
+    "example": "調査",
+    "category": "society",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Исследование / опрос",
+      "zh": "调查",
+      "ko": "조사"
+    }
+  },
+  {
+    "id": "vocab_n3_7814_7a76",
+    "word": "研究",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Research",
+    "translation": "(kenkyuu)",
+    "example": "研究",
+    "category": "school",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Исследование",
+      "zh": "研究",
+      "ko": "연구"
+    }
+  },
+  {
+    "id": "vocab_n3_767a_8868",
+    "word": "発表",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Presentation / Announcement",
+    "translation": "(happyou)",
+    "example": "発表",
+    "category": "school",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Доклад / объявление",
+      "zh": "发表",
+      "ko": "발표"
+    }
+  },
+  {
+    "id": "vocab_n3_767a_898b",
+    "word": "発見",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Discovery",
+    "translation": "(hakken)",
+    "example": "発見",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Открытие",
+      "zh": "发现",
+      "ko": "발견"
+    }
+  },
+  {
+    "id": "vocab_n3_767a_5c55",
+    "word": "発展",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Development / Growth",
+    "translation": "(hatten)",
+    "example": "発展",
+    "category": "society",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Развитие",
+      "zh": "发展",
+      "ko": "발전"
+    }
+  },
+  {
+    "id": "vocab_n3_6280_8853",
+    "word": "技術",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Technology / Skill",
+    "translation": "(gijutsu)",
+    "example": "技術",
+    "category": "society",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Технология / мастерство",
+      "zh": "技术",
+      "ko": "기술"
+    }
+  },
+  {
+    "id": "vocab_n3_6a5f_68b0",
+    "word": "機械",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Machine",
+    "translation": "(kikai)",
+    "example": "機械",
+    "category": "society",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Машина / механизм",
+      "zh": "机器",
+      "ko": "기계"
+    }
+  },
+  {
+    "id": "vocab_n3_60c5_5831",
+    "word": "情報",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Information",
+    "translation": "(jouhou)",
+    "example": "情報",
+    "category": "media",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Информация",
+      "zh": "信息",
+      "ko": "정보"
+    }
+  },
+  {
+    "id": "vocab_n3_901a_4fe1",
+    "word": "通信",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Communication",
+    "translation": "(tsuushin)",
+    "example": "通信",
+    "category": "technology",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Связь",
+      "zh": "通信",
+      "ko": "통신"
+    }
+  },
+  {
+    "id": "vocab_n3_653e_9001",
+    "word": "放送",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Broadcast",
+    "translation": "(housou)",
+    "example": "放送",
+    "category": "media",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Вещание / трансляция",
+      "zh": "广播",
+      "ko": "방송"
+    }
+  },
+  {
+    "id": "vocab_n3_5831_9053",
+    "word": "報道",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "News report",
+    "translation": "(houdou)",
+    "example": "報道",
+    "category": "media",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Новостной репортаж",
+      "zh": "报道",
+      "ko": "보도"
+    }
+  },
+  {
+    "id": "vocab_n3_4e8b_4ef6",
+    "word": "事件",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Incident / Case",
+    "translation": "(jiken)",
+    "example": "事件",
+    "category": "society",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Происшествие / дело",
+      "zh": "事件",
+      "ko": "사건"
+    }
+  },
+  {
+    "id": "vocab_n3_4e8b_5b9f",
+    "word": "事実",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Fact",
+    "translation": "(jijitsu)",
+    "example": "事実",
+    "category": "abstract",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Факт",
+      "zh": "事实",
+      "ko": "사실"
+    }
+  },
+  {
+    "id": "vocab_n3_5642",
+    "word": "噂",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Rumor",
+    "translation": "(uwasa)",
+    "example": "噂",
+    "category": "social",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Слух",
+      "zh": "传闻",
+      "ko": "소문"
+    }
+  },
+  {
+    "id": "vocab_n3_8a71_984c",
+    "word": "話題",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Topic of conversation",
+    "translation": "(wadai)",
+    "example": "話題",
+    "category": "social",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Тема для разговора",
+      "zh": "话题",
+      "ko": "화제"
+    }
+  },
+  {
+    "id": "vocab_n3_6d41_884c",
+    "word": "流行",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Trend / Fashion",
+    "translation": "(ryuukou)",
+    "example": "流行",
+    "category": "society",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Мода / тренд",
+      "zh": "流行",
+      "ko": "유행"
+    }
+  },
+  {
+    "id": "vocab_n3_4eba_6c17",
+    "word": "人気",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Popularity",
+    "translation": "(ninki)",
+    "example": "人気",
+    "category": "society",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Популярность",
+      "zh": "人气",
+      "ko": "인기"
+    }
+  },
+  {
+    "id": "vocab_n3_8a55_5224",
+    "word": "評判",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Reputation",
+    "translation": "(hyouban)",
+    "example": "評判",
+    "category": "society",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Репутация",
+      "zh": "口碑",
+      "ko": "평판"
+    }
+  },
+  {
+    "id": "vocab_n3_4e16_4ee3",
+    "word": "世代",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Generation",
+    "translation": "(sedai)",
+    "example": "世代",
+    "category": "society",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Поколение",
+      "zh": "一代",
+      "ko": "세대"
+    }
+  },
+  {
+    "id": "vocab_n3_5730_65b9",
+    "word": "地方",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Region / Countryside",
+    "translation": "(chihou)",
+    "example": "地方",
+    "category": "places",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Регион / провинция",
+      "zh": "地方",
+      "ko": "지방"
+    }
+  },
+  {
+    "id": "vocab_n3_90fd_4f1a",
+    "word": "都会",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "City / Urban area",
+    "translation": "(tokai)",
+    "example": "都会",
+    "category": "places",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Большой город",
+      "zh": "都市",
+      "ko": "도회지"
+    }
+  },
+  {
+    "id": "vocab_n3_90ca_5916",
+    "word": "郊外",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Suburbs",
+    "translation": "(kougai)",
+    "example": "郊外",
+    "category": "places",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Пригород",
+      "zh": "郊外",
+      "ko": "교외"
+    }
+  },
+  {
+    "id": "vocab_n3_8fd1_6240",
+    "word": "近所",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Neighborhood",
+    "translation": "(kinjo)",
+    "example": "近所",
+    "category": "places",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Соседство / окрестности",
+      "zh": "附近",
+      "ko": "이웃 / 근처"
+    }
+  },
+  {
+    "id": "vocab_n3_4ea4_901a",
+    "word": "交通",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Traffic / Transportation",
+    "translation": "(koutsuu)",
+    "example": "交通",
+    "category": "transport",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Транспорт / движение",
+      "zh": "交通",
+      "ko": "교통"
+    }
+  },
+  {
+    "id": "vocab_n3_6e0b_6ede",
+    "word": "渋滞",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Traffic jam",
+    "translation": "(juutai)",
+    "example": "渋滞",
+    "category": "transport",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Пробка",
+      "zh": "堵车",
+      "ko": "정체"
+    }
+  },
+  {
+    "id": "vocab_n3_6df7_96d1",
+    "word": "混雑",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Congestion / Crowdedness",
+    "translation": "(konzatsu)",
+    "example": "混雑",
+    "category": "transport",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Скопление людей / давка",
+      "zh": "拥挤",
+      "ko": "혼잡"
+    }
+  },
+  {
+    "id": "vocab_n3_6e80_54e1",
+    "word": "満員",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Full (no room)",
+    "translation": "(man'in)",
+    "example": "満員",
+    "category": "transport",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Переполнено",
+      "zh": "客满",
+      "ko": "만원"
+    }
+  },
+  {
+    "id": "vocab_n3_9045_308c_308b",
+    "word": "遅れる",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To be late / To be delayed",
+    "translation": "(okureru)",
+    "example": "遅れる",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Опаздывать / задерживаться",
+      "zh": "迟到 / 延误",
+      "ko": "늦다"
+    }
+  },
+  {
+    "id": "vocab_n3_4e57_308a_63db_3048_308b",
+    "word": "乗り換える",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "verb",
+    "definition": "To transfer (trains)",
+    "translation": "(norikaeru)",
+    "example": "乗り換える",
+    "category": "verbs",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Пересаживаться",
+      "zh": "换乘",
+      "ko": "갈아타다"
+    }
+  },
+  {
+    "id": "vocab_n3_5230_7740",
+    "word": "到着",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Arrival",
+    "translation": "(touchaku)",
+    "example": "到着",
+    "category": "transport",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Прибытие",
+      "zh": "到达",
+      "ko": "도착"
+    }
+  },
+  {
+    "id": "vocab_n3_51fa_767a",
+    "word": "出発",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Departure",
+    "translation": "(shuppatsu)",
+    "example": "出発",
+    "category": "transport",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Отправление",
+      "zh": "出发",
+      "ko": "출발"
+    }
+  },
+  {
+    "id": "vocab_n3_89b3_5149",
+    "word": "観光",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Sightseeing",
+    "translation": "(kankou)",
+    "example": "観光",
+    "category": "places",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Туризм / осмотр достопримечательностей",
+      "zh": "观光",
+      "ko": "관광"
+    }
+  },
+  {
+    "id": "vocab_n3_540d_6240",
+    "word": "名所",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "noun",
+    "definition": "Famous place",
+    "translation": "(meisho)",
+    "example": "名所",
+    "category": "places",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Известное место",
+      "zh": "名胜",
+      "ko": "명소"
+    }
+  },
+  {
+    "id": "vocab_n3_6848_5916",
+    "word": "案外",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "adverb",
+    "definition": "Unexpectedly",
+    "translation": "(angai)",
+    "example": "案外",
+    "category": "adverbs",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Неожиданно",
+      "zh": "意外地",
+      "ko": "의외로"
+    }
+  },
+  {
+    "id": "vocab_n3_610f_5916",
+    "word": "意外",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "adjective",
+    "definition": "Unexpected",
+    "translation": "(igai)",
+    "example": "意外",
+    "category": "adjectives",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Неожиданный",
+      "zh": "意外",
+      "ko": "의외"
+    }
+  },
+  {
+    "id": "vocab_n3_5f53_7136",
+    "word": "当然",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "adverb",
+    "definition": "Naturally / Of course",
+    "translation": "(touzen)",
+    "example": "当然",
+    "category": "adverbs",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Естественно / разумеется",
+      "zh": "当然",
+      "ko": "당연히"
+    }
+  },
+  {
+    "id": "vocab_n3_78ba_304b",
+    "word": "確か",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "adverb",
+    "definition": "If I remember correctly",
+    "translation": "(tashika)",
+    "example": "確か",
+    "category": "adverbs",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Если не ошибаюсь",
+      "zh": "好像 / 确实",
+      "ko": "분명히"
+    }
+  },
+  {
+    "id": "vocab_n3_78ba_5b9f",
+    "word": "確実",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "adjective",
+    "definition": "Certain / Sure",
+    "translation": "(kakujitsu)",
+    "example": "確実",
+    "category": "adjectives",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Надёжный / достоверный",
+      "zh": "确实",
+      "ko": "확실하다"
+    }
+  },
+  {
+    "id": "vocab_n3_7a81_7136",
+    "word": "突然",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "adverb",
+    "definition": "Suddenly",
+    "translation": "(totsuzen)",
+    "example": "突然",
+    "category": "adverbs",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Внезапно",
+      "zh": "突然",
+      "ko": "갑자기"
+    }
+  },
+  {
+    "id": "vocab_n3_6b21_7b2c_306b",
+    "word": "次第に",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "adverb",
+    "definition": "Gradually",
+    "translation": "(shidai ni)",
+    "example": "次第に",
+    "category": "adverbs",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Постепенно",
+      "zh": "逐渐",
+      "ko": "차츰"
+    }
+  },
+  {
+    "id": "vocab_n3_5f90_3005_306b",
+    "word": "徐々に",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "adverb",
+    "definition": "Little by little",
+    "translation": "(jojo ni)",
+    "example": "徐々に",
+    "category": "adverbs",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Мало-помалу",
+      "zh": "渐渐地",
+      "ko": "서서히"
+    }
+  },
+  {
+    "id": "vocab_n3_76f8_5909_308f_3089_305a",
+    "word": "相変わらず",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "adverb",
+    "definition": "As usual / Still",
+    "translation": "(aikawarazu)",
+    "example": "相変わらず",
+    "category": "adverbs",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "По-прежнему",
+      "zh": "依然",
+      "ko": "변함없이"
+    }
+  },
+  {
+    "id": "vocab_n3_601d_308f_305a",
+    "word": "思わず",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "adverb",
+    "definition": "Unintentionally / Involuntarily",
+    "translation": "(omowazu)",
+    "example": "思わず",
+    "category": "adverbs",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Невольно",
+      "zh": "不由得",
+      "ko": "저도 모르게"
+    }
+  },
+  {
+    "id": "vocab_n3_3064_3044",
+    "word": "つい",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "adverb",
+    "definition": "Unintentionally / Just",
+    "translation": "(tsui)",
+    "example": "つい",
+    "category": "adverbs",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Нечаянно / невзначай",
+      "zh": "不知不觉",
+      "ko": "그만"
+    }
+  },
+  {
+    "id": "vocab_n3_3046_3063_304b_308a",
+    "word": "うっかり",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "adverb",
+    "definition": "Carelessly / Absent-mindedly",
+    "translation": "(ukkari)",
+    "example": "うっかり",
+    "category": "adverbs",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "По невнимательности",
+      "zh": "不留神",
+      "ko": "깜빡"
+    }
+  },
+  {
+    "id": "vocab_n3_308f_3056_3068",
+    "word": "わざと",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "adverb",
+    "definition": "On purpose",
+    "translation": "(wazato)",
+    "example": "わざと",
+    "category": "adverbs",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Нарочно",
+      "zh": "故意",
+      "ko": "일부러"
+    }
+  },
+  {
+    "id": "vocab_n3_305b_3063_304b_304f",
+    "word": "せっかく",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "adverb",
+    "definition": "Specially / After going to the trouble",
+    "translation": "(sekkaku)",
+    "example": "せっかく",
+    "category": "adverbs",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Специально / раз уж",
+      "zh": "好不容易",
+      "ko": "모처럼"
+    }
+  },
+  {
+    "id": "vocab_n3_3064_3044_306b",
+    "word": "ついに",
+    "level": "advanced",
+    "cefrLevel": "B1",
+    "partOfSpeech": "adverb",
+    "definition": "Finally / At last",
+    "translation": "(tsuini)",
+    "example": "ついに",
+    "category": "adverbs",
+    "tags": [
+      "N3",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Наконец-то",
+      "zh": "终于",
+      "ko": "드디어"
+    }
+  }
+]

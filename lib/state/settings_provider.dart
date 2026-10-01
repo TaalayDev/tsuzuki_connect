@@ -1,6 +1,9 @@
+import 'dart:ui' show PlatformDispatcher;
+
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../services/audio_service.dart';
+import '../services/device_language.dart';
 import '../services/save_service.dart';
 import '../services/tts_service.dart';
 import 'i18n_provider.dart';
@@ -70,7 +73,8 @@ class AppSettings {
       fontSize: fontSize ?? this.fontSize,
       showSubtitles: showSubtitles ?? this.showSubtitles,
       showTranscription: showTranscription ?? this.showTranscription,
-      showChoiceTranslation: showChoiceTranslation ?? this.showChoiceTranslation,
+      showChoiceTranslation:
+          showChoiceTranslation ?? this.showChoiceTranslation,
       masterVolume: masterVolume ?? this.masterVolume,
       musicVolume: musicVolume ?? this.musicVolume,
       sfxVolume: sfxVolume ?? this.sfxVolume,
@@ -129,7 +133,16 @@ class SettingsNotifier extends Notifier<AppSettings> {
     _ttsService = ref.read(ttsServiceProvider);
     _audioService = ref.read(audioServiceProvider);
     final stored = _saveService.settings;
-    final settings = stored.isEmpty ? const AppSettings() : AppSettings.fromJson(stored);
+    var settings = stored.isEmpty
+        ? const AppSettings()
+        : AppSettings.fromJson(stored);
+    final language = DeviceLanguage.normalize(
+      settings.language,
+      PlatformDispatcher.instance.locales,
+    );
+    if (language != settings.language) {
+      settings = settings.copyWith(language: language);
+    }
     _applyToServices(settings);
     return settings;
   }
@@ -147,7 +160,10 @@ class SettingsNotifier extends Notifier<AppSettings> {
       ..setRate(settings.ttsRate)
       ..setPitch(settings.ttsPitch)
       ..setVolume(settings.masterVolume);
-    _audioService.setVolumes(master: settings.masterVolume, music: settings.musicVolume);
+    _audioService.setVolumes(
+      master: settings.masterVolume,
+      music: settings.musicVolume,
+    );
     ref.read(i18nProvider).setLanguage(settings.language);
   }
 }
@@ -158,4 +174,6 @@ final saveServiceProvider = Provider<SaveService>((ref) {
 
 final ttsServiceProvider = Provider<TtsService>((ref) => TtsService());
 
-final settingsProvider = NotifierProvider<SettingsNotifier, AppSettings>(SettingsNotifier.new);
+final settingsProvider = NotifierProvider<SettingsNotifier, AppSettings>(
+  SettingsNotifier.new,
+);

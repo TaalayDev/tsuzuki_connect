@@ -3446,5 +3446,68 @@
     "ko": "그것으로 충분합니다.",
     "ja": "それだけで、十分だった。",
     "romaji": "Sore dake de, juubun datta."
+  },
+  "s5.b001": {
+    "en": "Yes... I would like that. Thank you.",
+    "ru": "Да… с удовольствием. Спасибо.",
+    "zh": "好的……那就麻烦您了。谢谢。",
+    "ja": "はい…お願いします。ありがとうございます。",
+    "romaji": "Hai... onegai shimasu. Arigatou gozaimasu."
+  },
+  "s5.b002": {
+    "en": "Wonderful! Come by after the pharmacy.",
+    "ru": "Замечательно! Заходите после аптеки.",
+    "zh": "太好了！去完药局后，请过来坐坐。",
+    "ja": "よかった！薬局のあと、寄ってくださいね。",
+    "romaji": "Yokatta! Yakkyoku no ato, yotte kudasai ne."
+  },
+  "s5.b003": {
+    "en": "Thank you, but... maybe another time.",
+    "ru": "Спасибо, но… может быть, в другой раз.",
+    "zh": "谢谢您，不过……下次吧。",
+    "ja": "ありがとうございます。でも、また今度にします。",
+    "romaji": "Arigatou gozaimasu. Demo, mata kondo ni shimasu."
+  },
+  "s5.b004": {
+    "en": "Of course. The offer stays open.",
+    "ru": "Конечно. Приглашение остаётся в силе.",
+    "zh": "当然。随时都可以哦。",
+    "ja": "もちろん。いつでもいいですよ。",
+    "romaji": "Mochiron. Itsu demo ii desu yo."
+  },
+  "s5.b005": {
+    "en": "I was a teacher. For thirty years. Maybe I can help.",
+    "ru": "Я была учителем. Тридцать лет. Возможно, я смогу помочь.",
+    "zh": "我当了三十年的老师。也许我能帮上忙。",
+    "ja": "私は先生でした。三十年間。お手伝いできるかもしれません。",
+    "romaji": "Watashi wa sensei deshita. Sanjuunenkan. Otetsudai dekiru kamoshiremasen."
+  },
+  "s5.b006": {
+    "en": "Really?! Oh, that is wonderful news!",
+    "ru": "Правда?! Какая замечательная новость!",
+    "zh": "真的吗！那太好了！",
+    "ja": "本当ですか！それは、すばらしい！",
+    "romaji": "Hontou desu ka! Sore wa, subarashii!"
+  },
+  "s5.b007": {
+    "en": "I wouldn't want to impose...",
+    "ru": "Не хотелось бы вам мешать…",
+    "zh": "我怕会给你们添麻烦……",
+    "ja": "ご迷惑では、ないでしょうか…",
+    "romaji": "Gomeiwaku de wa, nai deshou ka..."
+  },
+  "s5.b008": {
+    "en": "It is no trouble at all. Please, just come and see.",
+    "ru": "Это совсем не хлопотно. Просто приходите и посмотрите.",
+    "zh": "一点也不麻烦。先来看看吧。",
+    "ja": "ご迷惑じゃありませんよ。とにかく、見に来てください。",
+    "romaji": "Gomeiwaku ja arimasen yo. Tonikaku, mi ni kite kudasai."
+  },
+  "s5.b009": {
+    "en": "That's fine. Listening is also a way to learn.",
+    "ru": "Хорошо. Слушать — тоже способ учиться.",
+    "zh": "没关系。倾听也是一种学习。",
+    "ja": "いいですよ。聞くことも、学びのひとつです。",
+    "romaji": "Ii desu yo. Kiku koto mo, manabi no hitotsu desu."
   }
 }

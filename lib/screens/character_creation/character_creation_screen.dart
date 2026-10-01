@@ -11,7 +11,7 @@ import '../../widgets/glass_panel.dart';
 /// Port of `#character-creation` — shown (via [showAdaptiveModal], like the
 /// rest of this port's "modal" screens) the first time the player opens a
 /// Story/Sentences/Vocabulary topic without a saved profile
-/// (`settings.profileInitialized`). Collects a name, an English level
+/// (`settings.profileInitialized`). Collects a name, a Japanese level
 /// (`beginner`/`some`/`intermediate`, matching `data-level` in the JS
 /// markup), and the same three language-support toggles Settings has,
 /// then writes them straight to `settingsProvider` — mirroring

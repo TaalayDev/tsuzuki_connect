@@ -183,8 +183,14 @@ class ContentService {
 
     final files = [
       'assets/vocabulary/beginner_1.json',
+      'assets/vocabulary/beginner_2.json',
+      'assets/vocabulary/beginner_3.json',
       'assets/vocabulary/intermediate_1.json',
+      'assets/vocabulary/intermediate_2.json',
+      'assets/vocabulary/intermediate_3.json',
       'assets/vocabulary/advanced_1.json',
+      'assets/vocabulary/advanced_2.json',
+      'assets/vocabulary/advanced_3.json',
     ];
 
     final words = <VocabWord>[];

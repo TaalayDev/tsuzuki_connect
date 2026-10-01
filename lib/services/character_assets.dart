@@ -30,18 +30,6 @@ class CharacterAssets {
       'speaking': 'mei_speaking.png',
       'silhouette': 'mei_silhouette.png',
     },
-    'alex': {
-      'neutral': 'alex_neutral.png',
-      'happy': 'alex_smile.png',
-      'laugh': 'alex_laugh.png',
-      'surprised': 'alex_surprised.png',
-      'angry': 'alex_annoyed.png',
-      'annoyed': 'alex_annoyed.png',
-      'sad': 'alex_concerned.png',
-      'concerned': 'alex_concerned.png',
-      'serious': 'alex_serious.png',
-      'speaking': 'alex_speaking.png',
-    },
     'tanaka': {
       'neutral': 'tanaka_neutral.png',
       'happy': 'tanaka_smile.png',
@@ -89,7 +77,7 @@ class CharacterAssets {
     'freya': 'mei',
     'aisha': 'yuki',
     'tom': 'ken',
-    'interviewer': 'alex',
+    'interviewer': 'father',
     'kana': 'yuki',
     'grandfather': 'grandpa',
     'grandmother': 'grandma',
@@ -111,6 +99,33 @@ class CharacterAssets {
     'teacher': 'mei',
     'daughter': 'little_girl',
     'james': 'ken',
+    'junko': 'mother',
+    'junko_young': 'mei',
+    'mimi': 'yuki',
+    'tetsu': 'grandpa',
+    'saito': 'father',
+    'yamamoto': 'grandma',
+    'pharmacist': 'mei',
+    'obaa': 'grandma',
+    'tanaka_toru': 'father',
+    'david': 'ken',
+    'yuko': 'yuki',
+    'kenta': 'little_boy',
+    'fujita': 'father',
+    'nurse_akemi': 'mei',
+    'dr_ito': 'grandpa',
+    'ueda': 'mother',
+    'ishii': 'father',
+    'rachel': 'mei',
+    'nakamura_child': 'little_girl',
+    'sota': 'ken',
+    'nishimura': 'father',
+    'bartender_yuna': 'yuki',
+    'reading_woman': 'mother',
+    'yamamoto_curry': 'grandpa',
+    'sora': 'yuki',
+    'yamada': 'father',
+    'class_members': 'mei',
   };
 
   /// `heightRatio` per renderer class (`js/graphics/characters/*.js`) —
@@ -119,7 +134,6 @@ class CharacterAssets {
   /// 'tanaka' keeps `Tanaka.js`'s 0.88 even though it now draws
   /// `hartley_*.png`). Falls back to `CharacterBase`'s default of 0.9.
   static const Map<String, double> _heightRatios = {
-    'alex': 0.85,
     'ken': 0.95,
     'mei': 0.88,
     'yuki': 0.82,
@@ -133,7 +147,8 @@ class CharacterAssets {
   };
 
   static double heightRatio(String characterId) {
-    final resolvedId = aliases[characterId.toLowerCase()] ?? characterId.toLowerCase();
+    final resolvedId =
+        aliases[characterId.toLowerCase()] ?? characterId.toLowerCase();
     return _heightRatios[resolvedId] ?? 0.9;
   }
 
@@ -141,9 +156,9 @@ class CharacterAssets {
   /// use the same canvas size, so the renderer can reserve the sprite's real
   /// width before applying the hip-up crop.
   static double aspectRatio(String characterId) {
-    final resolvedId = aliases[characterId.toLowerCase()] ?? characterId.toLowerCase();
+    final resolvedId =
+        aliases[characterId.toLowerCase()] ?? characterId.toLowerCase();
     return switch (resolvedId) {
-      'alex' => 400 / 1300,
       'ken' => 400 / 1100,
       'mei' || 'tanaka' => 500 / 1100,
       _ => 400 / 1050,
@@ -155,7 +170,8 @@ class CharacterAssets {
   /// (e.g. any expression containing "smile" falls back to 'happy' if
   /// there's no exact match). Returns null if the character id is unknown.
   static String? path(String characterId, String expression) {
-    final resolvedId = aliases[characterId.toLowerCase()] ?? characterId.toLowerCase();
+    final resolvedId =
+        aliases[characterId.toLowerCase()] ?? characterId.toLowerCase();
     final charMap = _mappings[resolvedId];
     if (charMap == null) return null;
 

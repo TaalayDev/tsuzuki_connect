@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "vocab_n5_4f55",
+    "word": "何",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "What",
+    "translation": "(nani)",
+    "example": "何",
+    "category": "question",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Что",
+      "zh": "什么",
+      "ko": "무엇"
+    }
+  },
+  {
+    "id": "vocab_n5_8ab0",
+    "word": "誰",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Who",
+    "translation": "(dare)",
+    "example": "誰",
+    "category": "question",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Кто",
+      "zh": "谁",
+      "ko": "누구"
+    }
+  },
+  {
+    "id": "vocab_n5_4f55_6642",
+    "word": "何時",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "What time",
+    "translation": "(nanji)",
+    "example": "何時",
+    "category": "question",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Который час",
+      "zh": "几点",
+      "ko": "몇 시"
+    }
+  },
+  {
+    "id": "vocab_n5_4eca_6708",
+    "word": "今月",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "This month",
+    "translation": "(kongetsu)",
+    "example": "今月",
+    "category": "time",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "В этом месяце",
+      "zh": "这个月",
+      "ko": "이번 달"
+    }
+  },
+  {
+    "id": "vocab_n5_304a_91d1",
+    "word": "お金",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Money",
+    "translation": "(okane)",
+    "example": "お金",
+    "category": "shopping",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Деньги",
+      "zh": "钱",
+      "ko": "돈"
+    }
+  },
+  {
+    "id": "vocab_n5_5186",
+    "word": "円",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Yen",
+    "translation": "(en)",
+    "example": "円",
+    "category": "shopping",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Иена",
+      "zh": "日元",
+      "ko": "엔"
+    }
+  },
+  {
+    "id": "vocab_n5_5929_6c17",
+    "word": "天気",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Weather",
+    "translation": "(tenki)",
+    "example": "天気",
+    "category": "weather",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Погода",
+      "zh": "天气",
+      "ko": "날씨"
+    }
+  },
+  {
+    "id": "vocab_n5_96e8",
+    "word": "雨",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Rain",
+    "translation": "(ame)",
+    "example": "雨",
+    "category": "weather",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Дождь",
+      "zh": "雨",
+      "ko": "비"
+    }
+  },
+  {
+    "id": "vocab_n5_96ea",
+    "word": "雪",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Snow",
+    "translation": "(yuki)",
+    "example": "雪",
+    "category": "weather",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Снег",
+      "zh": "雪",
+      "ko": "눈"
+    }
+  },
+  {
+    "id": "vocab_n5_7a7a",
+    "word": "空",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Sky",
+    "translation": "(sora)",
+    "example": "空",
+    "category": "nature",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Небо",
+      "zh": "天空",
+      "ko": "하늘"
+    }
+  },
+  {
+    "id": "vocab_n5_5c71",
+    "word": "山",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Mountain",
+    "translation": "(yama)",
+    "example": "山",
+    "category": "nature",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Гора",
+      "zh": "山",
+      "ko": "산"
+    }
+  },
+  {
+    "id": "vocab_n5_6d77",
+    "word": "海",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Sea",
+    "translation": "(umi)",
+    "example": "海",
+    "category": "nature",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Море",
+      "zh": "海",
+      "ko": "바다"
+    }
+  },
+  {
+    "id": "vocab_n5_5ddd",
+    "word": "川",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "River",
+    "translation": "(kawa)",
+    "example": "川",
+    "category": "nature",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Река",
+      "zh": "河",
+      "ko": "강"
+    }
+  },
+  {
+    "id": "vocab_n5_6728",
+    "word": "木",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Tree",
+    "translation": "(ki)",
+    "example": "木",
+    "category": "nature",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Дерево",
+      "zh": "树",
+      "ko": "나무"
+    }
+  },
+  {
+    "id": "vocab_n5_6625",
+    "word": "春",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Spring",
+    "translation": "(haru)",
+    "example": "春",
+    "category": "seasons",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Весна",
+      "zh": "春天",
+      "ko": "봄"
+    }
+  },
+  {
+    "id": "vocab_n5_590f",
+    "word": "夏",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Summer",
+    "translation": "(natsu)",
+    "example": "夏",
+    "category": "seasons",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Лето",
+      "zh": "夏天",
+      "ko": "여름"
+    }
+  },
+  {
+    "id": "vocab_n5_79cb",
+    "word": "秋",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Autumn",
+    "translation": "(aki)",
+    "example": "秋",
+    "category": "seasons",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Осень",
+      "zh": "秋天",
+      "ko": "가을"
+    }
+  },
+  {
+    "id": "vocab_n5_51ac",
+    "word": "冬",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Winter",
+    "translation": "(fuyu)",
+    "example": "冬",
+    "category": "seasons",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Зима",
+      "zh": "冬天",
+      "ko": "겨울"
+    }
+  },
+  {
+    "id": "vocab_n5_6771",
+    "word": "東",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "East",
+    "translation": "(higashi)",
+    "example": "東",
+    "category": "directions",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Восток",
+      "zh": "东",
+      "ko": "동쪽"
+    }
+  },
+  {
+    "id": "vocab_n5_897f",
+    "word": "西",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "West",
+    "translation": "(nishi)",
+    "example": "西",
+    "category": "directions",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Запад",
+      "zh": "西",
+      "ko": "서쪽"
+    }
+  },
+  {
+    "id": "vocab_n5_5357",
+    "word": "南",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "South",
+    "translation": "(minami)",
+    "example": "南",
+    "category": "directions",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Юг",
+      "zh": "南",
+      "ko": "남쪽"
+    }
+  },
+  {
+    "id": "vocab_n5_5317",
+    "word": "北",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "North",
+    "translation": "(kita)",
+    "example": "北",
+    "category": "directions",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Север",
+      "zh": "北",
+      "ko": "북쪽"
+    }
+  },
+  {
+    "id": "vocab_n5_53f3",
+    "word": "右",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Right",
+    "translation": "(migi)",
+    "example": "右",
+    "category": "directions",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Право / справа",
+      "zh": "右",
+      "ko": "오른쪽"
+    }
+  },
+  {
+    "id": "vocab_n5_5de6",
+    "word": "左",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Left",
+    "translation": "(hidari)",
+    "example": "左",
+    "category": "directions",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Лево / слева",
+      "zh": "左",
+      "ko": "왼쪽"
+    }
+  },
+  {
+    "id": "vocab_n5_524d",
+    "word": "前",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Front / Before",
+    "translation": "(mae)",
+    "example": "前",
+    "category": "directions",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Перед / раньше",
+      "zh": "前面 / 以前",
+      "ko": "앞 / 전"
+    }
+  },
+  {
+    "id": "vocab_n5_5f8c_308d",
+    "word": "後ろ",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Behind",
+    "translation": "(ushiro)",
+    "example": "後ろ",
+    "category": "directions",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Сзади",
+      "zh": "后面",
+      "ko": "뒤"
+    }
+  },
+  {
+    "id": "vocab_n5_4e0a",
+    "word": "上",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Above / Top",
+    "translation": "(ue)",
+    "example": "上",
+    "category": "directions",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Верх / над",
+      "zh": "上面",
+      "ko": "위"
+    }
+  },
+  {
+    "id": "vocab_n5_4e0b",
+    "word": "下",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Below / Bottom",
+    "translation": "(shita)",
+    "example": "下",
+    "category": "directions",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Низ / под",
+      "zh": "下面",
+      "ko": "아래"
+    }
+  },
+  {
+    "id": "vocab_n5_4e2d",
+    "word": "中",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Inside",
+    "translation": "(naka)",
+    "example": "中",
+    "category": "directions",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Внутри",
+      "zh": "里面",
+      "ko": "안"
+    }
+  },
+  {
+    "id": "vocab_n5_5916",
+    "word": "外",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Outside",
+    "translation": "(soto)",
+    "example": "外",
+    "category": "directions",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Снаружи",
+      "zh": "外面",
+      "ko": "밖"
+    }
+  },
+  {
+    "id": "vocab_n5_96a3",
+    "word": "隣",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Next to / Neighbor",
+    "translation": "(tonari)",
+    "example": "隣",
+    "category": "directions",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Рядом / сосед",
+      "zh": "旁边 / 邻居",
+      "ko": "옆 / 이웃"
+    }
+  },
+  {
+    "id": "vocab_n5_672c",
+    "word": "本",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Book",
+    "translation": "(hon)",
+    "example": "本",
+    "category": "objects",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Книга",
+      "zh": "书",
+      "ko": "책"
+    }
+  },
+  {
+    "id": "vocab_n5_8f9e_66f8",
+    "word": "辞書",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Dictionary",
+    "translation": "(jisho)",
+    "example": "辞書",
+    "category": "objects",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Словарь",
+      "zh": "词典",
+      "ko": "사전"
+    }
+  },
+  {
+    "id": "vocab_n5_9784",
+    "word": "鞄",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Bag",
+    "translation": "(kaban)",
+    "example": "鞄",
+    "category": "objects",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Сумка",
+      "zh": "包",
+      "ko": "가방"
+    }
+  },
+  {
+    "id": "vocab_n5_5098",
+    "word": "傘",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Umbrella",
+    "translation": "(kasa)",
+    "example": "傘",
+    "category": "objects",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Зонт",
+      "zh": "伞",
+      "ko": "우산"
+    }
+  },
+  {
+    "id": "vocab_n5_9774",
+    "word": "靴",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Shoes",
+    "translation": "(kutsu)",
+    "example": "靴",
+    "category": "objects",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Обувь",
+      "zh": "鞋",
+      "ko": "신발"
+    }
+  },
+  {
+    "id": "vocab_n5_670d",
+    "word": "服",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Clothes",
+    "translation": "(fuku)",
+    "example": "服",
+    "category": "objects",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Одежда",
+      "zh": "衣服",
+      "ko": "옷"
+    }
+  },
+  {
+    "id": "vocab_n5_773c_93e1",
+    "word": "眼鏡",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Glasses",
+    "translation": "(megane)",
+    "example": "眼鏡",
+    "category": "objects",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Очки",
+      "zh": "眼镜",
+      "ko": "안경"
+    }
+  },
+  {
+    "id": "vocab_n5_6642_8a08",
+    "word": "時計",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Clock / Watch",
+    "translation": "(tokei)",
+    "example": "時計",
+    "category": "objects",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Часы",
+      "zh": "钟表",
+      "ko": "시계"
+    }
+  },
+  {
+    "id": "vocab_n5_96fb_8a71",
+    "word": "電話",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Telephone",
+    "translation": "(denwa)",
+    "example": "電話",
+    "category": "objects",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Телефон",
+      "zh": "电话",
+      "ko": "전화"
+    }
+  },
+  {
+    "id": "vocab_n5_30c6_30ec_30d3",
+    "word": "テレビ",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Television",
+    "translation": "(terebi)",
+    "example": "テレビ",
+    "category": "objects",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Телевизор",
+      "zh": "电视",
+      "ko": "텔레비전"
+    }
+  },
+  {
+    "id": "vocab_n5_5199_771f",
+    "word": "写真",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Photograph",
+    "translation": "(shashin)",
+    "example": "写真",
+    "category": "objects",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Фотография",
+      "zh": "照片",
+      "ko": "사진"
+    }
+  },
+  {
+    "id": "vocab_n5_97f3_697d",
+    "word": "音楽",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Music",
+    "translation": "(ongaku)",
+    "example": "音楽",
+    "category": "hobbies",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Музыка",
+      "zh": "音乐",
+      "ko": "음악"
+    }
+  },
+  {
+    "id": "vocab_n5_6620_753b",
+    "word": "映画",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Movie",
+    "translation": "(eiga)",
+    "example": "映画",
+    "category": "hobbies",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Фильм",
+      "zh": "电影",
+      "ko": "영화"
+    }
+  },
+  {
+    "id": "vocab_n5_624b_7d19",
+    "word": "手紙",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Letter",
+    "translation": "(tegami)",
+    "example": "手紙",
+    "category": "objects",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Письмо",
+      "zh": "信",
+      "ko": "편지"
+    }
+  },
+  {
+    "id": "vocab_n5_8377_7269",
+    "word": "荷物",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Luggage / Baggage",
+    "translation": "(nimotsu)",
+    "example": "荷物",
+    "category": "objects",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Багаж / вещи",
+      "zh": "行李",
+      "ko": "짐"
+    }
+  },
+  {
+    "id": "vocab_n5_8a95_751f_65e5",
+    "word": "誕生日",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Birthday",
+    "translation": "(tanjoubi)",
+    "example": "誕生日",
+    "category": "daily-life",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "День рождения",
+      "zh": "生日",
+      "ko": "생일"
+    }
+  },
+  {
+    "id": "vocab_n5_65c5_884c",
+    "word": "旅行",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Travel / Trip",
+    "translation": "(ryokou)",
+    "example": "旅行",
+    "category": "daily-life",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Путешествие",
+      "zh": "旅行",
+      "ko": "여행"
+    }
+  },
+  {
+    "id": "vocab_n5_6563_6b69",
+    "word": "散歩",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Walk / Stroll",
+    "translation": "(sanpo)",
+    "example": "散歩",
+    "category": "daily-life",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Прогулка",
+      "zh": "散步",
+      "ko": "산책"
+    }
+  },
+  {
+    "id": "vocab_n5_8cb7_3044_7269",
+    "word": "買い物",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Shopping",
+    "translation": "(kaimono)",
+    "example": "買い物",
+    "category": "daily-life",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Покупки",
+      "zh": "购物",
+      "ko": "쇼핑"
+    }
+  },
+  {
+    "id": "vocab_n5_6383_9664",
+    "word": "掃除",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Cleaning",
+    "translation": "(souji)",
+    "example": "掃除",
+    "category": "daily-life",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Уборка",
+      "zh": "打扫",
+      "ko": "청소"
+    }
+  },
+  {
+    "id": "vocab_n5_6d17_6fef",
+    "word": "洗濯",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Laundry",
+    "translation": "(sentaku)",
+    "example": "洗濯",
+    "category": "daily-life",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Стирка",
+      "zh": "洗衣服",
+      "ko": "세탁"
+    }
+  },
+  {
+    "id": "vocab_n5_96fb_6c17",
+    "word": "電気",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Electricity / Light",
+    "translation": "(denki)",
+    "example": "電気",
+    "category": "daily-life",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Электричество / свет",
+      "zh": "电 / 电灯",
+      "ko": "전기"
+    }
+  },
+  {
+    "id": "vocab_n5_7a93",
+    "word": "窓",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Window",
+    "translation": "(mado)",
+    "example": "窓",
+    "category": "home",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Окно",
+      "zh": "窗户",
+      "ko": "창문"
+    }
+  },
+  {
+    "id": "vocab_n5_30c9_30a2",
+    "word": "ドア",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Door",
+    "translation": "(doa)",
+    "example": "ドア",
+    "category": "home",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Дверь",
+      "zh": "门",
+      "ko": "문"
+    }
+  },
+  {
+    "id": "vocab_n5_673a",
+    "word": "机",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Desk",
+    "translation": "(tsukue)",
+    "example": "机",
+    "category": "home",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Письменный стол",
+      "zh": "桌子",
+      "ko": "책상"
+    }
+  },
+  {
+    "id": "vocab_n5_6905_5b50",
+    "word": "椅子",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Chair",
+    "translation": "(isu)",
+    "example": "椅子",
+    "category": "home",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Стул",
+      "zh": "椅子",
+      "ko": "의자"
+    }
+  },
+  {
+    "id": "vocab_n5_7d19",
+    "word": "紙",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Paper",
+    "translation": "(kami)",
+    "example": "紙",
+    "category": "objects",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Бумага",
+      "zh": "纸",
+      "ko": "종이"
+    }
+  },
+  {
+    "id": "vocab_n5_30da_30f3",
+    "word": "ペン",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Pen",
+    "translation": "(pen)",
+    "example": "ペン",
+    "category": "objects",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Ручка",
+      "zh": "钢笔",
+      "ko": "펜"
+    }
+  },
+  {
+    "id": "vocab_n5_925b_7b46",
+    "word": "鉛筆",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Pencil",
+    "translation": "(enpitsu)",
+    "example": "鉛筆",
+    "category": "objects",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Карандаш",
+      "zh": "铅笔",
+      "ko": "연필"
+    }
+  },
+  {
+    "id": "vocab_n5_5144",
+    "word": "兄",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Older brother (own)",
+    "translation": "(ani)",
+    "example": "兄",
+    "category": "family",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Старший брат (мой)",
+      "zh": "哥哥",
+      "ko": "형 / 오빠"
+    }
+  },
+  {
+    "id": "vocab_n5_59c9",
+    "word": "姉",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Older sister (own)",
+    "translation": "(ane)",
+    "example": "姉",
+    "category": "family",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Старшая сестра (моя)",
+      "zh": "姐姐",
+      "ko": "누나 / 언니"
+    }
+  },
+  {
+    "id": "vocab_n5_5f1f",
+    "word": "弟",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Younger brother (own)",
+    "translation": "(otouto)",
+    "example": "弟",
+    "category": "family",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Младший брат (мой)",
+      "zh": "弟弟",
+      "ko": "남동생"
+    }
+  },
+  {
+    "id": "vocab_n5_59b9",
+    "word": "妹",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Younger sister (own)",
+    "translation": "(imouto)",
+    "example": "妹",
+    "category": "family",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Младшая сестра (моя)",
+      "zh": "妹妹",
+      "ko": "여동생"
+    }
+  },
+  {
+    "id": "vocab_n5_5144_5f1f",
+    "word": "兄弟",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Siblings",
+    "translation": "(kyoudai)",
+    "example": "兄弟",
+    "category": "family",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Братья и сёстры",
+      "zh": "兄弟姐妹",
+      "ko": "형제"
+    }
+  },
+  {
+    "id": "vocab_n5_5b50_3069_3082",
+    "word": "子ども",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Child",
+    "translation": "(kodomo)",
+    "example": "子ども",
+    "category": "family",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Ребёнок",
+      "zh": "孩子",
+      "ko": "아이"
+    }
+  },
+  {
+    "id": "vocab_n5_7537",
+    "word": "男",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Man / Male",
+    "translation": "(otoko)",
+    "example": "男",
+    "category": "people",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Мужчина",
+      "zh": "男人",
+      "ko": "남자"
+    }
+  },
+  {
+    "id": "vocab_n5_5973",
+    "word": "女",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "Woman / Female",
+    "translation": "(onna)",
+    "example": "女",
+    "category": "people",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Женщина",
+      "zh": "女人",
+      "ko": "여자"
+    }
+  },
+  {
+    "id": "vocab_n5_597d_304d",
+    "word": "好き",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
+    "definition": "Like / Fond",
+    "translation": "(suki)",
+    "example": "好き",
+    "category": "adjectives",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Нравиться / любимый",
+      "zh": "喜欢",
+      "ko": "좋아하다"
+    }
+  },
+  {
+    "id": "vocab_n5_5acc_3044",
+    "word": "嫌い",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
+    "definition": "Dislike",
+    "translation": "(kirai)",
+    "example": "嫌い",
+    "category": "adjectives",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Не нравиться",
+      "zh": "讨厌",
+      "ko": "싫어하다"
+    }
+  },
+  {
+    "id": "vocab_n5_6709_540d",
+    "word": "有名",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
+    "definition": "Famous",
+    "translation": "(yuumei)",
+    "example": "有名",
+    "category": "adjectives",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Известный",
+      "zh": "有名",
+      "ko": "유명하다"
+    }
+  },
+  {
+    "id": "vocab_n5_5143_6c17",
+    "word": "元気",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
+    "definition": "Healthy / Energetic",
+    "translation": "(genki)",
+    "example": "元気",
+    "category": "adjectives",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Здоровый / бодрый",
+      "zh": "健康 / 有精神",
+      "ko": "건강하다"
+    }
+  },
+  {
+    "id": "vocab_n5_9759_304b",
+    "word": "静か",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
+    "definition": "Quiet",
+    "translation": "(shizuka)",
+    "example": "静か",
+    "category": "adjectives",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Тихий",
+      "zh": "安静",
+      "ko": "조용하다"
+    }
+  },
+  {
+    "id": "vocab_n5_8cd1_3084_304b",
+    "word": "賑やか",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
+    "definition": "Lively",
+    "translation": "(nigiyaka)",
+    "example": "賑やか",
+    "category": "adjectives",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Оживлённый",
+      "zh": "热闹",
+      "ko": "번화하다"
+    }
+  },
+  {
+    "id": "vocab_n5_4fbf_5229",
+    "word": "便利",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
+    "definition": "Convenient",
+    "translation": "(benri)",
+    "example": "便利",
+    "category": "adjectives",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Удобный",
+      "zh": "方便",
+      "ko": "편리하다"
+    }
+  },
+  {
+    "id": "vocab_n5_89aa_5207",
+    "word": "親切",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "adjective",
+    "definition": "Kind",
+    "translation": "(shinsetsu)",
+    "example": "親切",
+    "category": "adjectives",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Любезный",
+      "zh": "亲切",
+      "ko": "친절하다"
+    }
+  },
+  {
+    "id": "vocab_n5_3044_3064_3082",
+    "word": "いつも",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
+    "definition": "Always",
+    "translation": "(itsumo)",
+    "example": "いつも",
+    "category": "adverbs",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Всегда",
+      "zh": "总是",
+      "ko": "항상"
+    }
+  },
+  {
+    "id": "vocab_n5_3088_304f",
+    "word": "よく",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
+    "definition": "Often / Well",
+    "translation": "(yoku)",
+    "example": "よく",
+    "category": "adverbs",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Часто / хорошо",
+      "zh": "经常 / 好好地",
+      "ko": "자주 / 잘"
+    }
+  },
+  {
+    "id": "vocab_n5_5c11_3057",
+    "word": "少し",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
+    "definition": "A little",
+    "translation": "(sukoshi)",
+    "example": "少し",
+    "category": "adverbs",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Немного",
+      "zh": "一点",
+      "ko": "조금"
+    }
+  },
+  {
+    "id": "vocab_n5_305f_304f_3055_3093",
+    "word": "たくさん",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
+    "definition": "A lot",
+    "translation": "(takusan)",
+    "example": "たくさん",
+    "category": "adverbs",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Много",
+      "zh": "很多",
+      "ko": "많이"
+    }
+  },
+  {
+    "id": "vocab_n5_3059_3050",
+    "word": "すぐ",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
+    "definition": "Immediately",
+    "translation": "(sugu)",
+    "example": "すぐ",
+    "category": "adverbs",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Сразу",
+      "zh": "马上",
+      "ko": "곧바로"
+    }
+  },
+  {
+    "id": "vocab_n5_3068_3066_3082",
+    "word": "とても",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
+    "definition": "Very",
+    "translation": "(totemo)",
+    "example": "とても",
+    "category": "adverbs",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Очень",
+      "zh": "很",
+      "ko": "매우"
+    }
+  },
+  {
+    "id": "vocab_n5_3082_3063_3068",
+    "word": "もっと",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "adverb",
+    "definition": "More",
+    "translation": "(motto)",
+    "example": "もっと",
+    "category": "adverbs",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Ещё больше",
+      "zh": "更",
+      "ko": "더"
+    }
+  },
+  {
+    "id": "vocab_n5_5168_90e8",
+    "word": "全部",
+    "level": "beginner",
+    "cefrLevel": "A1",
+    "partOfSpeech": "noun",
+    "definition": "All / Everything",
+    "translation": "(zenbu)",
+    "example": "全部",
+    "category": "adverbs",
+    "tags": [
+      "N5",
+      "vocab3"
+    ],
+    "tr": {
+      "ru": "Всё / целиком",
+      "zh": "全部",
+      "ko": "전부"
+    }
+  }
+]

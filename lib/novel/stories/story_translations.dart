@@ -6,14 +6,7 @@ import 'package:flutter/services.dart' show AssetBundle, rootBundle;
 /// modules. JSON files use the same pivoted shape:
 /// `{ "translation.key": { "en": "...", "ru": "..." } }`.
 class StoryTranslations {
-  static const supportedLanguages = <String>{
-    'en',
-    'ru',
-    'zh',
-    'ko',
-    'ja',
-    'romaji',
-  };
+  static const supportedLanguages = <String>{'en', 'ru', 'zh', 'ja', 'romaji'};
   static const fallbackLanguage = 'en';
   static const assetPaths = <String>[
     'assets/translations/Story0.json',

@@ -1,0 +1,1258 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tsuzuki Connect · Screenshot Studio</title>
+<!-- Fonts are optional: if you are offline the studio falls back to system fonts. -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@600;800&family=Noto+Sans+JP:wght@500;700;900&display=swap" rel="stylesheet">
+<style>
+  :root { --bg:#17131f; --panel:#211b2e; --panel2:#2a2339; --line:#3a3150; --text:#f3eefc; --muted:#a79fba; --accent:#f0a868; --accent2:#8c6fd1; --ok:#8fb49f; color-scheme: dark; }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; margin: 0; }
+  body { background: var(--bg); color: var(--text); font: 14px/1.4 system-ui, -apple-system, "Segoe UI", sans-serif; display: flex; flex-direction: column; }
+  header { display: flex; align-items: center; gap: 12px; padding: 10px 16px; border-bottom: 1px solid var(--line); background: var(--panel); flex-wrap: wrap; }
+  header h1 { font-size: 16px; margin: 0; font-weight: 700; }
+  header h1 span { color: var(--accent); }
+  .spacer { flex: 1; }
+  #banner { display: none; padding: 9px 16px; background: #3b2a1e; border-bottom: 1px solid #6b4a2e; color: #ffd9b3; font-size: 13px; align-items: center; gap: 12px; flex-wrap: wrap; }
+  #banner code { background: #0004; padding: 1px 6px; border-radius: 5px; }
+  main { flex: 1; min-height: 0; display: grid; grid-template-columns: 200px minmax(0, 1fr) 360px; }
+  aside { background: var(--panel); overflow: auto; }
+  #slides { border-right: 1px solid var(--line); padding: 12px; }
+  #inspector { border-left: 1px solid var(--line); padding: 14px; }
+  #stage { display: flex; flex-direction: column; min-width: 0; min-height: 0; }
+  #stageBar { display: flex; gap: 8px; align-items: center; padding: 10px 14px; flex-wrap: wrap; }
+  #canvasWrap { flex: 1; min-height: 0; display: flex; align-items: center; justify-content: center; padding: 14px; overflow: hidden; position: relative;
+    background: repeating-conic-gradient(#1d1827 0% 25%, #191420 0% 50%) 50% / 24px 24px; }
+  #canvasWrap.drag::after { content: "Drop screenshot"; position: absolute; inset: 12px; border: 3px dashed var(--accent); border-radius: 16px; display: grid; place-items: center; font-size: 22px; color: var(--accent); background: #17131fcc; }
+  #preview { max-width: 100%; max-height: 100%; box-shadow: 0 20px 60px #0009; border-radius: 4px; background: #222; }
+  button, select, input, textarea { font: inherit; color: inherit; }
+  button { background: var(--panel2); border: 1px solid var(--line); border-radius: 8px; padding: 7px 12px; cursor: pointer; }
+  button:hover { border-color: var(--accent2); }
+  button.primary { background: linear-gradient(135deg, #f7d488, #f0a868); color: #4a2e1a; border: 0; font-weight: 700; }
+  button.small { padding: 4px 8px; font-size: 12px; }
+  button.danger:hover { border-color: #e8706f; color: #ff9b9b; }
+  select, input[type=text], textarea { background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 7px 9px; width: 100%; }
+  textarea { resize: vertical; min-height: 56px; }
+  input[type=range] { width: 100%; accent-color: var(--accent); }
+  input[type=color] { width: 36px; height: 28px; padding: 0; border: 1px solid var(--line); border-radius: 6px; background: none; cursor: pointer; }
+  label { display: block; color: var(--muted); font-size: 12px; margin: 12px 0 4px; }
+  .row { display: flex; gap: 8px; align-items: center; }
+  .row > * { flex: 1; min-width: 0; }
+  .row > .fit { flex: none; }
+  h3 { font-size: 11px; text-transform: uppercase; letter-spacing: 1px; color: var(--accent); margin: 20px 0 0; padding-top: 14px; border-top: 1px solid var(--line); }
+  h3:first-child { border-top: 0; margin-top: 0; padding-top: 0; }
+  .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+  .seg button { border: 0; border-radius: 0; background: transparent; padding: 6px 14px; }
+  .seg button.on { background: var(--accent2); color: #fff; }
+  .slide { position: relative; border: 2px solid transparent; border-radius: 10px; padding: 6px; margin-bottom: 10px; background: var(--panel2); cursor: pointer; }
+  .slide.on { border-color: var(--accent); }
+  .slide canvas { width: 100%; display: block; border-radius: 6px; background: #222; }
+  .slide .num { position: absolute; top: 10px; left: 10px; background: #000a; border-radius: 999px; font-size: 11px; padding: 1px 7px; }
+  .slide .tools { display: flex; gap: 4px; margin-top: 6px; }
+  .slide .tools button { flex: 1; padding: 2px 0; font-size: 12px; }
+  .bgGrid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; max-height: 190px; overflow: auto; padding: 2px; }
+  .bgGrid img { width: 100%; aspect-ratio: 16/9; object-fit: cover; border-radius: 6px; border: 2px solid transparent; cursor: pointer; display: block; background: #000; }
+  .bgGrid img.on { border-color: var(--accent); }
+  .hint { color: var(--muted); font-size: 12px; margin-top: 4px; }
+  .desktopOnly { display: none; }
+  #inspector.is-mac .desktopOnly { display: block; }
+  .featureNote { margin-top: 8px; padding: 9px 10px; border: 1px solid #4b3e65; border-radius: 9px; background: linear-gradient(135deg, #332746, #292139); color: #d7ccec; font-size: 12px; }
+  .check { display: flex; align-items: center; gap: 8px; color: var(--text); font-size: 13px; margin: 8px 0 0; }
+  .check input { width: auto; accent-color: var(--accent); }
+  .val { float: right; color: var(--text); }
+  .charRow { display: grid; grid-template-columns: 1.1fr 1.1fr 1fr; gap: 6px; margin-bottom: 6px; }
+  dialog { background: var(--panel); color: var(--text); border: 1px solid var(--line); border-radius: 16px; padding: 22px; width: min(640px, 92vw); }
+  dialog::backdrop { background: #000a; }
+  dialog h2 { margin: 0 0 4px; font-size: 18px; }
+  .cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 4px 16px; margin: 6px 0 0; }
+  #progress { color: var(--ok); min-height: 20px; margin-top: 12px; }
+  .sceneOnly, .shotOnly { display: none; }
+  .mode-scene .sceneOnly { display: block; }
+  .mode-shot .shotOnly { display: block; }
+  @media (max-width: 1100px) {
+    main { grid-template-columns: 1fr; grid-auto-rows: auto; overflow: auto; }
+    #slides { display: flex; gap: 10px; overflow-x: auto; border-right: 0; border-bottom: 1px solid var(--line); }
+    #slides .slide { flex: none; width: 140px; margin: 0; }
+    #canvasWrap { min-height: 60vh; }
+    #inspector { border-left: 0; border-top: 1px solid var(--line); }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Tsuzuki Connect <span>· Screenshot Studio</span></h1>
+  <div class="seg" id="kindSeg"></div>
+  <div class="spacer"></div>
+  <button id="btnSave">Save project</button>
+  <button id="btnLoad">Load project</button>
+  <button id="btnExportOne">Export this slide</button>
+  <button id="btnExportAll" class="primary">Export all…</button>
+  <input type="file" id="fileProject" accept="application/json" hidden>
+  <input type="file" id="fileShot" accept="image/*" hidden>
+  <input type="file" id="fileLib" accept="image/*" multiple hidden>
+  <input type="file" id="fileAssets" webkitdirectory directory multiple hidden>
+</header>
+<div id="banner">
+  <span id="bannerText"></span>
+  <button id="btnAssets" class="small">Pick the “assets” folder…</button>
+</div>
+
+<main>
+  <aside id="slides"></aside>
+
+  <section id="stage">
+    <div id="stageBar">
+      <label style="margin:0">Size</label>
+      <select id="formatSel" style="width:auto"></select>
+      <label class="check" id="landscapeWrap" style="margin:0"><input type="checkbox" id="landscape"> Landscape</label>
+      <span class="hint" id="sizeInfo" style="margin:0 0 0 auto"></span>
+    </div>
+    <div id="canvasWrap"><canvas id="preview"></canvas></div>
+  </section>
+
+  <aside id="inspector" class="mode-scene">
+    <h3>Slide content</h3>
+    <div class="seg" style="margin-top:8px" id="modeSeg">
+      <button data-m="scene">Generated scene</button>
+      <button data-m="shot">Own screenshot</button>
+    </div>
+
+    <div class="shotOnly">
+      <div class="desktopOnly">
+        <label>Desktop presentation</label>
+        <select id="desktopLayout">
+          <option value="showcase">Framed showcase</option>
+          <option value="full">Full-bleed screenshot</option>
+        </select>
+        <div class="featureNote">Framed showcase adds a softly blurred backdrop, a polished app window, and a dedicated marketing-text area. It keeps the game UI crisp and readable.</div>
+      </div>
+      <div class="row" style="margin-top:12px">
+        <button id="btnPick">Choose image…</button>
+        <button id="btnClear" class="danger fit">Clear</button>
+      </div>
+      <div class="hint">Drop or paste (Ctrl/⌘+V) an image anywhere. It fills the whole picture; each device type keeps its own image.</div>
+      <label>Desktop screenshots from <code>tools/</code></label>
+      <div class="bgGrid" id="libGrid"></div>
+      <div class="row" style="margin-top:8px"><button id="btnLib" class="small">Add screenshots…</button></div>
+      <div class="hint" id="libHint">Click a thumbnail to use it for this slide on the current device.</div>
+      <label>Crop position X <span class="val" id="vFx"></span></label>
+      <input type="range" id="shotFx" min="0" max="1" step="0.01">
+      <label>Crop position Y <span class="val" id="vFy"></span></label>
+      <input type="range" id="shotFy" min="0" max="1" step="0.01">
+      <label>Zoom <span class="val" id="vZoom"></span></label>
+      <input type="range" id="shotZoom" min="1" max="2.5" step="0.01">
+    </div>
+
+    <div class="sceneOnly">
+      <label>Scene type</label>
+      <select id="type">
+        <option value="menu">Main menu</option>
+        <option value="dialogue">Dialogue</option>
+        <option value="choices">Choices (practice)</option>
+        <option value="title">Lesson title card</option>
+        <option value="vocab">Vocabulary card</option>
+        <option value="premium">Unlock premium</option>
+      </select>
+
+      <label>Background</label>
+      <div class="bgGrid" id="bgGrid"></div>
+      <label>Background position <span class="val" id="vFocus"></span></label>
+      <input type="range" id="focus" min="0" max="1" step="0.01">
+      <div class="row">
+        <div><label>Blur <span class="val" id="vBlur"></span></label><input type="range" id="blur" min="0" max="1" step="0.02"></div>
+        <div><label>Darken <span class="val" id="vDim"></span></label><input type="range" id="dim" min="0" max="0.8" step="0.02"></div>
+      </div>
+
+      <div id="grpChars">
+        <label>Characters</label>
+        <div id="chars"></div>
+        <label class="check" style="margin-top:2px"><input type="checkbox" id="charsBig"> Larger characters</label>
+      </div>
+
+      <div id="grpDialogue">
+        <label>Speaker name <span class="hint" style="display:inline">(this language)</span></label>
+        <input type="text" id="speaker">
+        <label>Line <span class="hint" style="display:inline">(this language)</span></label>
+        <textarea id="line" rows="3"></textarea>
+      </div>
+      <div id="grpChoices">
+        <label>Choices <span class="hint" style="display:inline">(one per line)</span></label>
+        <textarea id="choices" rows="4"></textarea>
+      </div>
+      <div id="grpTitle">
+        <label>Chip</label><input type="text" id="chip">
+        <label>Card title</label><textarea id="cardTitle" rows="2"></textarea>
+        <label>Card subtitle</label><input type="text" id="cardSub">
+      </div>
+      <div id="grpVocab">
+        <label>Words <span class="hint" style="display:inline">(word | reading | meaning — one per line)</span></label>
+        <textarea id="words" rows="5"></textarea>
+      </div>
+      <div id="grpPremium">
+        <label>Price label</label><input type="text" id="price">
+        <div class="hint">Texts come from the game's <code>ui_translations.json</code> when the assets are available.</div>
+      </div>
+      <div class="hint" id="grpMenu">The menu uses the game's own translated menu texts when the assets are available.</div>
+    </div>
+
+    <h3>Marketing caption</h3>
+    <label>Language</label>
+    <select id="localeSel"></select>
+    <div class="hint" id="localeHint"></div>
+    <label>Headline</label>
+    <textarea id="headline" rows="2"></textarea>
+    <label>Subheadline</label>
+    <textarea id="sub" rows="2"></textarea>
+    <label>Position <span class="hint" style="display:inline">(corners and sides apply to wide screens)</span></label>
+    <select id="capPos">
+      <option value="top">Top</option>
+      <option value="bottom">Bottom</option>
+      <option value="topleft">Top left</option>
+      <option value="topright">Top right</option>
+      <option value="bottomleft">Bottom left</option>
+      <option value="bottomright">Bottom right</option>
+      <option value="left">Left, centered</option>
+      <option value="right">Right, centered</option>
+    </select>
+    <label>Style</label>
+    <select id="capStyle">
+      <option value="scrim">White text on a soft dark fade</option>
+      <option value="glass">Dark text on a frosted card</option>
+      <option value="plain">White text with shadow only</option>
+    </select>
+    <label>Font</label>
+    <select id="font"></select>
+    <label>Headline size <span class="val" id="vFont"></span></label>
+    <input type="range" id="fontScale" min="0.6" max="1.6" step="0.02">
+    <div class="row">
+      <div><label>Headline color</label><input type="color" id="textColor"></div>
+      <div><label>Subheadline color</label><input type="color" id="subColor"></div>
+    </div>
+
+    <h3>Slides</h3>
+    <div class="row" style="margin-top:8px">
+      <button id="btnAdd">+ Add slide</button>
+      <button id="btnApplyLook">Apply caption look to all</button>
+    </div>
+  </aside>
+</main>
+
+<dialog id="exportDlg">
+  <h2>Export screenshots</h2>
+  <div class="hint">Everything is rendered in your browser at the exact App Store pixel size and packed into one ZIP.</div>
+  <label>Sizes</label>
+  <div class="cols" id="expFormats"></div>
+  <label>Languages</label>
+  <div class="cols" id="expLocales"></div>
+  <div class="hint" id="expCount"></div>
+  <div id="progress"></div>
+  <div class="row" style="margin-top:16px; justify-content:flex-end">
+    <button id="expCancel" class="fit">Close</button>
+    <button id="expGo" class="primary fit">Download ZIP</button>
+  </div>
+</dialog>
+
+<script>
+"use strict";
+/* ───────────────────────── configuration ───────────────────────── */
+const FORMATS = {
+  iphone: [
+    { id: "iphone-69",  label: 'iPhone 6.9"  1320 × 2868', w: 1320, h: 2868 },
+    { id: "iphone-69b", label: 'iPhone 6.9"  1290 × 2796', w: 1290, h: 2796 },
+    { id: "iphone-65",  label: 'iPhone 6.5"  1284 × 2778', w: 1284, h: 2778 },
+    { id: "iphone-65b", label: 'iPhone 6.5"  1242 × 2688', w: 1242, h: 2688 },
+    { id: "iphone-55",  label: 'iPhone 5.5"  1242 × 2208', w: 1242, h: 2208 },
+  ],
+  ipad: [
+    { id: "ipad-13",  label: 'iPad 13"  2064 × 2752', w: 2064, h: 2752 },
+    { id: "ipad-129", label: 'iPad 12.9"  2048 × 2732', w: 2048, h: 2732 },
+    { id: "ipad-11",  label: 'iPad 11"  1668 × 2388', w: 1668, h: 2388 },
+    { id: "ipad-11b", label: 'iPad 11"  1640 × 2360', w: 1640, h: 2360 },
+    { id: "ipad-83",  label: 'iPad mini 8.3"  1488 × 2266', w: 1488, h: 2266 },
+  ],
+  mac: [
+    { id: "mac-2880", label: "Mac  2880 × 1800", w: 2880, h: 1800 },
+    { id: "mac-2560", label: "Mac  2560 × 1600", w: 2560, h: 1600 },
+    { id: "mac-1440", label: "Mac  1440 × 900",  w: 1440, h: 900 },
+    { id: "mac-1280", label: "Mac  1280 × 800",  w: 1280, h: 800 },
+  ],
+};
+const KIND_LABEL = { iphone: "iPhone", ipad: "iPad", mac: "Mac / Desktop" };
+const LOCALES = { en: "English", ja: "日本語", ru: "Русский", "zh-Hans": "简体中文", ko: "한국어", de: "Deutsch", fr: "Français", es: "Español", "pt-BR": "Português (BR)", ar: "العربية" };
+const I18N_CODE = { "zh-Hans": "zh", "pt-BR": "pt" };
+const FONTS = {
+  rounded: { label: "Rounded (Fredoka)", css: "'Fredoka','SF Pro Rounded',ui-rounded,'Hiragino Maru Gothic ProN','Noto Sans JP',system-ui,sans-serif" },
+  friendly: { label: "Friendly (Nunito)", css: "'Nunito','Noto Sans JP','Hiragino Sans',system-ui,sans-serif" },
+  japanese: { label: "Japanese (Noto Sans JP)", css: "'Noto Sans JP','Hiragino Sans','Yu Gothic',system-ui,sans-serif" },
+  system: { label: "System", css: "system-ui,-apple-system,'Segoe UI',sans-serif" },
+};
+const POSITIONS = { "far-left": 0.15, left: 0.25, center: 0.5, right: 0.75, "far-right": 0.85 };
+const CHAR_NAMES = { none: "— none —", tanaka: "Tanaka", ken: "Ken", mei: "Mei", yuki: "Yuki", grandma: "Grandma", grandpa: "Grandpa", father: "Father", mother: "Mother", little_boy: "Little boy", little_girl: "Little girl" };
+const SPEAKER = {
+  tanaka: { en: "Tanaka-sensei", ja: "田中先生", ru: "Танака-сэнсэй", "zh-Hans": "田中老师" },
+  ken: { en: "Ken", ja: "ケン", ru: "Кен", "zh-Hans": "健" },
+  mei: { en: "Mei", ja: "メイ", ru: "Мэй", "zh-Hans": "梅" },
+  yuki: { en: "Yuki", ja: "ユキ", ru: "Юки", "zh-Hans": "由纪" },
+};
+
+/* default asset manifest (replaced by the real file list when you pick the assets folder) */
+let MANIFEST = {
+  backgrounds: ["sakura_background.png", "Classroom_Day.webp", "School_Hallway_Day.webp", "Restaurant_A.webp", "Restaurant_B.webp", "Cafeteria_Day.webp",
+    "Street_Spring_Day.webp", "Street_Spring_Evening.webp", "Street_Spring_Night.webp", "Street_Summer_Day.webp", "Street_Summer_Evening.webp", "Street_Autumn_Day.webp", "Street_Autumn_Evening.webp",
+    "Park_Summer.webp", "Park_Autumn.webp", "Park_Winter.webp", "Backstreet_Spring_Day.webp", "Backstreet_Spring_Afternoon.webp", "Backstreet_Spring_Night.webp", "Backstreet_Summer_Day.webp",
+    "BusStop_Spring_Day.webp", "BusStop_Spring_Afternoon.webp", "BusStop_Spring_Night.webp", "Train_Day.webp", "Train_Evening.webp", "Train_Night.webp",
+    "Temple_Spring_Day.webp", "Temple_Spring_Afternoon.webp", "Temple_Spring_Night.webp", "Temple_Summer_Day.webp",
+    "Livingroom_Day.webp", "Livingroom_Night.webp", "Bedroom_Day.webp", "Kitchen_Day.webp", "Sitting_Room.webp", "Apartment_Exterior_Night.webp",
+    "City_Morning.webp", "City_Afternoon.webp", "City_Night.webp", "Outdoor_Stairs.webp", "Onsen_Building.webp"],
+  characters: ["tanaka_neutral", "tanaka_smile", "tanaka_speaking", "tanaka_laugh", "tanaka_serious", "tanaka_concerned", "tanaka_surprised", "tanaka_annoyed",
+    "ken_neutral", "ken_smile", "ken_speaking", "ken_laugh", "ken_serious", "ken_concerned", "ken_surprised", "ken_annoyed",
+    "mei_neutral", "mei_smile", "mei_speaking", "mei_laugh", "mei_serious", "mei_concerned", "mei_surprised", "mei_annoyed",
+    "yuki_neutral", "yuki_happy", "yuki_speaking", "yuki_cheerful_laugh", "yuki_gentle_content", "yuki_playful_smile", "yuki_serious", "yuki_worried", "yuki_confused", "yuki_surprised", "yuki_shocked", "yuki_subtle_surprise",
+    "grandma_neutral", "grandpa_neutral", "father_neutral", "mother_neutral", "little_boy_neutral", "little_girl_neutral"],
+};
+const exprOf = name => MANIFEST.characters.filter(c => c.startsWith(name + "_")).map(c => c.slice(name.length + 1));
+
+/* ───────────────────────── default slide content ───────────────────────── */
+/* Real desktop screenshots that live next to this file (tools/). Add more with the “Add screenshots…” button. */
+const LIB_FILES = [
+  "Screenshot 2026-10-01 at 14.39.58.png", // main menu
+  "Screenshot 2026-10-01 at 14.47.59.png", // bus stop dialogue
+  "Screenshot 2026-10-01 at 15.21.07.png", // Mei greeting phrases
+  "Screenshot 2026-10-01 at 14.45.56.png", // classroom + vocab popup
+  "Screenshot 2026-10-01 at 15.05.53.png", // living room + vocab popup
+  "Screenshot 2026-10-01 at 14.40.18.png", // premium dialog
+];
+const LIB = { names: [...LIB_FILES], urls: Object.fromEntries(LIB_FILES.map(n => [n, encodeURI(n)])) };
+function libLoad(rec) {
+  rec.src = LIB.urls[rec.lib]; rec.el = null;
+  rec.ready = new Promise(res => { const i = new Image(); i.onload = () => { rec.el = i; res(i); schedule(); }; i.onerror = () => res(null); i.src = rec.src; });
+}
+function libRef(name) { const rec = { lib: name }; libLoad(rec); return rec; }
+
+const C = (en, ja, ru, zh) => ({ en, ja, ru, "zh-Hans": zh });
+const DEFAULT_SLIDES = [
+  { desk: [LIB_FILES[0], 0.08], type: "menu", bg: "sakura_background.png", focus: 0.5, blur: 0, dim: 0, chars: [],
+    cap: C(["Learn Japanese Through Stories", "A cozy, character-driven path into Japanese"], ["物語で日本語を学ぼう", "登場人物と一緒に、楽しく日本語の世界へ"], ["Учите японский через истории", "Уютный путь в японский вместе с героями"], ["通过故事学习日语", "和故事角色一起轻松走进日语世界"]) },
+  { desk: [LIB_FILES[3], 0.45], type: "dialogue", bg: "Restaurant_A.webp", focus: 0.35, blur: 0, dim: 0, chars: [{ n: "tanaka", e: "speaking", p: "right" }, { n: "ken", e: "smile", p: "left" }],
+    content: { speaker: "tanaka", line: C("Let's order together! Say “抹茶ラテを、ひとつ、お願いします。”", "いっしょに注文しましょう！「抹茶ラテを、ひとつ、お願いします。」", "Закажем вместе! Скажите «抹茶ラテを、ひとつ、お願いします。»", "一起点餐吧！说“抹茶ラテを、ひとつ、お願いします。”") },
+    cap: C(["Learn Words in Context", "Vocabulary appears exactly where it matters"], ["文脈の中で言葉を学ぼう", "必要な場面で、その場で語彙を理解"], ["Учите слова в контексте", "Новые слова появляются именно там, где нужны"], ["在语境中学习词汇", "词汇会在最需要的地方及时出现"]) },
+  { desk: [LIB_FILES[4], 0.47], type: "choices", bg: "BusStop_Spring_Afternoon.webp", focus: 0.45, blur: 0, dim: 0, chars: [{ n: "mei", e: "smile", p: "center" }],
+    content: { speaker: "mei",
+      line: C("How do you ask where the station is?", "駅の場所を、どう聞きますか？", "Как спросить, где находится станция?", "怎样询问车站在哪里？"),
+      choices: ["すみません、駅は、どこですか？", "恐れ入りますが、駅への道順を…", "すみません、駅が、どこですか？", "駅…どこ…"] },
+    cap: C(["Understand Every Sentence", "Japanese, romaji and English—together"], ["一文ずつ、しっかり理解", "日本語・ローマ字・英語を一緒に表示"], ["Понимайте каждое предложение", "Японский, ромадзи и английский — вместе"], ["理解每一个句子", "日语、罗马字和英语同步呈现"]) },
+  { desk: [LIB_FILES[2], 0.7], type: "title", bg: "Backstreet_Spring_Afternoon.webp", focus: 0.5, blur: 0.45, dim: 0.25, chars: [],
+    content: { chip: C("Vocabulary Lesson 12", "語彙レッスン12", "Урок лексики 12", "词汇课 12"), title: C("カフェで、日本語で注文", "カフェで、日本語で注文", "カフェで、日本語で注文", "カフェで、日本語で注文"), sub: C("Ordering in Japanese at the Café", "カウンターで、注文と、おかわりの練習", "Заказ на японском в кафе", "在咖啡馆用日语点餐") },
+    cap: C(["Practice Natural Conversations", "Learn how Japanese sounds in real life"], ["自然な会話を練習しよう", "リアルな日本語の話し方を身につける"], ["Практикуйте естественные диалоги", "Узнайте, как японский звучит в жизни"], ["练习自然对话", "学习现实生活中的日语表达"]) },
+  { desk: [LIB_FILES[1], 0.55], type: "vocab", bg: "Park_Summer.webp", focus: 0.5, blur: 0.5, dim: 0.18, chars: [],
+    content: { chip: C("Advanced · N3", "上級 · N3", "Продвинутый · N3", "高级 · N3"), words: [
+      ["懐かしい|なつかしい|nostalgic", "懐かしい|なつかしい|ностальгичный", "懐かしい|なつかしい|怀念的"], ["面影|おもかげ|trace of the past", "面影|おもかげ|след прошлого", "面影|おもかげ|往昔的模样"],
+      ["切ない|せつない|wistful", "切ない|せつない|щемящий", "切ない|せつない|心酸怀念"], ["感慨深い|かんがいぶかい|deeply moving", "感慨深い|かんがいぶかい|глубоко трогательный", "感慨深い|かんがいぶかい|感慨万千"] ] },
+    cap: C(["Explore Everyday Japanese", "From bus stops to everyday Tokyo"], ["日常の日本語を探検しよう", "バス停から東京の日常まで"], ["Откройте повседневный японский", "От автобусных остановок до повседневного Токио"], ["探索日常日语", "从公交站到东京的日常生活"]) },
+  { desk: [LIB_FILES[5], 0.5, "topright"], type: "premium", bg: "Street_Spring_Evening.webp", focus: 0.5, blur: 0.55, dim: 0.22, chars: [], content: { price: "$9.99" },
+    cap: C(["One Purchase. Unlock Everything.", "All lessons. No subscription."], ["一度の購入で、すべてをアンロック", "全レッスン収録。サブスクリプションなし"], ["Одна покупка. Откройте всё.", "Все уроки. Без подписки."], ["一次购买，解锁全部内容", "全部课程，无需订阅"]) },
+];
+const VOCAB_I = { en: 0, ja: 1, ru: 1, "zh-Hans": 2 };
+
+/* ───────────────────────── state ───────────────────────── */
+let uid = 1;
+function makeSlide(src) {
+  const cap = {}, content = {};
+  const L = Object.keys(LOCALES);
+  for (const loc of L) if (src.cap && src.cap[loc]) cap[loc] = { h: src.cap[loc][0], s: src.cap[loc][1] };
+  if (!cap.en) cap.en = { h: "Your headline", s: "A short supporting line" };
+  const c = src.content || {};
+  for (const loc of ["en", "ja", "ru", "zh-Hans"]) {
+    const o = {};
+    if (c.speaker) o.speaker = SPEAKER[c.speaker][loc];
+    if (c.line) o.line = c.line[loc];
+    if (c.choices) o.choices = loc === "en" || true ? c.choices.join("\n") : "";
+    if (c.chip) o.chip = c.chip[loc];
+    if (c.title) o.title = c.title[loc];
+    if (c.sub) o.sub = c.sub[loc];
+    if (c.words) o.words = c.words.map(w => w[loc === "ru" ? 1 : loc === "zh-Hans" ? 2 : 0]).join("\n");
+    if (Object.keys(o).length) content[loc] = o;
+  }
+  return {
+    id: uid++, mode: { iphone: "scene", ipad: "scene", mac: src.desk ? "shot" : "scene" }, capPos: { iphone: "top", ipad: "top", mac: (src.desk && src.desk[2]) || "topleft" }, desktopLayout: "full",
+    shotFx: src.desk ? src.desk[1] : 0.5, shotFy: 0.5, shotZoom: 1, type: src.type, bg: src.bg, focus: src.focus ?? 0.5, blur: src.blur ?? 0, dim: src.dim ?? 0,
+    chars: (src.chars || []).map(x => ({ ...x })), charsBig: false, price: (c.price) || "$9.99",
+    cap, content, imgs: src.desk ? { mac: libRef(src.desk[0]) } : {},
+    capStyle: "scrim", font: "rounded", fontScale: 1, textColor: "#ffffff", subColor: "#ffe9d6",
+  };
+}
+const state = {
+  kind: "mac", locale: "en", sel: 0, landscape: false,
+  fmt: { iphone: 0, ipad: 0, mac: 0 },
+  slides: DEFAULT_SLIDES.map(makeSlide),
+};
+const cur = () => state.slides[state.sel];
+const curFormat = () => FORMATS[state.kind][state.fmt[state.kind]];
+function canvasSize(kind = state.kind, fmt = curFormat(), landscape = state.landscape) {
+  return (kind === "ipad" && landscape) ? { w: fmt.h, h: fmt.w } : { w: fmt.w, h: fmt.h };
+}
+function capFor(slide, loc) {
+  const t = slide.cap[loc], en = slide.cap.en || { h: "", s: "" };
+  return { h: (t && t.h) || en.h || "", s: (t && t.s) || en.s || "", fallback: !(t && (t.h || t.s)) };
+}
+function contentFor(slide, loc) {
+  const en = slide.content.en || {}, t = slide.content[loc] || {};
+  const pick = k => (t[k] !== undefined && t[k] !== "") ? t[k] : (en[k] ?? "");
+  return { speaker: pick("speaker"), line: pick("line"), choices: pick("choices"), chip: pick("chip"), title: pick("title"), sub: pick("sub"), words: pick("words"), own: t };
+}
+
+/* ───────────────────────── assets ───────────────────────── */
+const assets = { base: "../assets/", files: null, cache: new Map(), i18n: null };
+const assetUrl = p => assets.files ? (assets.files.get(p) || "") : assets.base + p;
+function loadAsset(path) {
+  if (assets.cache.has(path)) return assets.cache.get(path).promise;
+  const rec = { img: null, failed: false };
+  rec.promise = new Promise(res => {
+    const url = assetUrl(path);
+    if (!url) { rec.failed = true; return res(null); }
+    const i = new Image();
+    i.onload = () => { rec.img = i; res(i); schedule(); };
+    i.onerror = () => { rec.failed = true; res(null); };
+    i.src = url;
+  });
+  assets.cache.set(path, rec);
+  return rec.promise;
+}
+function imgOf(path) { const r = assets.cache.get(path); if (!r) { loadAsset(path); return null; } return r.img; }
+function neededAssets(slide) {
+  if (!Object.values(slide.mode).includes("scene")) return [];
+  const out = ["backgrounds/" + slide.bg];
+  slide.chars.forEach(c => { if (c.n !== "none") out.push(`characters/${c.n}_${c.e}.png`); });
+  return out;
+}
+async function ensureAssets(slides) {
+  await Promise.all([...slides.flatMap(neededAssets).map(loadAsset), ...slides.flatMap(s => Object.values(s.imgs).map(r => r.ready).filter(Boolean))]);
+}
+async function loadI18n() {
+  try {
+    let text;
+    if (assets.files) { const u = assets.files.get("i18n/ui_translations.json"); if (!u) return; text = await (await fetch(u)).text(); }
+    else text = await (await fetch(assets.base + "i18n/ui_translations.json")).text();
+    assets.i18n = JSON.parse(text);
+  } catch (_) { assets.i18n = null; }
+  schedule();
+}
+const UI_FALLBACK = { "menu.story": "Story", "menu.lesson_select": "Sentences", "menu.vocab_select": "Vocabulary", "menu.vocab_log": "Vocabulary Log", "menu.premium": "Unlock Premium", "menu.settings": "Settings",
+  "menu.subtitle": "Learn Japanese. Connect. Belong.", "menu.tagline": "A cozy story of learning Japanese.",
+  "runtime.iap.headline": "Unlock everything. Pay once.", "runtime.iap.badge_one_time": "ONE-TIME PURCHASE", "runtime.iap.benefit_sentences": "All Sentence lessons from lesson 11 onward",
+  "runtime.iap.benefit_vocab": "All Vocabulary lessons from lesson 11 onward — Intermediate & Advanced", "runtime.iap.benefit_stories": "Intermediate & Advanced story chapters",
+  "runtime.iap.benefit_future": "Every future lesson and update — included, free", "runtime.iap.price_caption": "One-time payment. No subscription, no recurring charges.", "runtime.iap.unlock": "Unlock", "runtime.iap.free_note": "Beginner lessons stay free forever." };
+function ui(key, loc) {
+  const code = I18N_CODE[loc] || loc;
+  return (assets.i18n && assets.i18n[code] && assets.i18n[code][key]) || (assets.i18n && assets.i18n.en && assets.i18n.en[key]) || UI_FALLBACK[key] || key;
+}
+
+/* ───────────────────────── drawing helpers ───────────────────────── */
+const HAS_FILTER = typeof CanvasRenderingContext2D !== "undefined" && "filter" in CanvasRenderingContext2D.prototype;
+function rr(ctx, x, y, w, h, r) {
+  r = Math.max(0, Math.min(r, w / 2, h / 2));
+  ctx.beginPath(); ctx.moveTo(x + r, y);
+  ctx.arcTo(x + w, y, x + w, y + h, r); ctx.arcTo(x + w, y + h, x, y + h, r);
+  ctx.arcTo(x, y + h, x, y, r); ctx.arcTo(x, y, x + w, y, r); ctx.closePath();
+}
+function rng(seed) { let a = seed * 2654435761 >>> 0; return () => { a |= 0; a = a + 0x6D2B79F5 | 0; let t = Math.imul(a ^ a >>> 15, 1 | a); t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t; return ((t ^ t >>> 14) >>> 0) / 4294967296; }; }
+const CJK = "\\u3040-\\u30ff\\u3400-\\u9fff\\uff00-\\uffef";
+const TOKEN = new RegExp(`[${CJK}]|[^\\s${CJK}]+|\\s+`, "g");
+function wrapText(ctx, text, maxW) {
+  const lines = [];
+  for (const para of String(text).split("\n")) {
+    let line = "";
+    for (const tok of (para.match(TOKEN) || [])) {
+      const test = line + tok;
+      if (line && ctx.measureText(test.trimEnd()).width > maxW) { lines.push(line.trimEnd()); line = tok.trimStart(); } else line = test;
+    }
+    lines.push(line.trimEnd());
+  }
+  return lines;
+}
+const F = (w, s, fam) => `${w} ${s}px ${fam}`;
+
+function drawCoverImg(ctx, img, W, H, focus, extra = 0) {
+  const tw = W + extra * 2, th = H + extra * 2;
+  const s = Math.max(tw / img.width, th / img.height), dw = img.width * s, dh = img.height * s;
+  ctx.drawImage(img, -extra - (dw - tw) * focus, -extra - (dh - th) / 2, dw, dh);
+}
+function drawCoverZoom(ctx, img, W, H, fx, fy, zoom, extra = 0) {
+  const tw = W + extra * 2, th = H + extra * 2;
+  const s = Math.max(tw / img.width, th / img.height) * zoom, dw = img.width * s, dh = img.height * s;
+  ctx.drawImage(img, -extra - (dw - tw) * fx, -extra - (dh - th) * fy, dw, dh);
+}
+function drawCoverZoomRect(ctx, img, x, y, w, h, fx, fy, zoom = 1) {
+  const s = Math.max(w / img.width, h / img.height) * zoom, dw = img.width * s, dh = img.height * s;
+  ctx.drawImage(img, x - (dw - w) * fx, y - (dh - h) * fy, dw, dh);
+}
+function drawBg(ctx, W, H, slide, k, extraBlur = 0) {
+  const img = imgOf("backgrounds/" + slide.bg);
+  ctx.save();
+  if (!img) {
+    const g = ctx.createLinearGradient(0, 0, W, H); g.addColorStop(0, "#fdede3"); g.addColorStop(1, "#cfe8da");
+    ctx.fillStyle = g; ctx.fillRect(0, 0, W, H);
+  } else {
+    const blur = slide.blur * 38 * k + extraBlur;
+    let extra = 0;
+    if (blur > 0 && HAS_FILTER) { ctx.filter = `blur(${blur}px)`; extra = blur * 2.2; }
+    drawCoverImg(ctx, img, W, H, slide.focus, extra);
+  }
+  ctx.restore();
+  if (slide.dim > 0) { ctx.fillStyle = `rgba(30,20,45,${slide.dim})`; ctx.fillRect(0, 0, W, H); }
+}
+/* frosted glass panel (blurs the background underneath when the browser supports canvas filters) */
+function glass(ctx, info, x, y, w, h, r, alpha = 0.72) {
+  const { W, H, slide, k } = info;
+  ctx.save();
+  ctx.shadowColor = "rgba(111,82,181,.28)"; ctx.shadowBlur = 40 * k; ctx.shadowOffsetY = 14 * k;
+  rr(ctx, x, y, w, h, r); ctx.fillStyle = "rgba(255,255,255,.5)"; ctx.fill();
+  ctx.restore();
+  ctx.save(); rr(ctx, x, y, w, h, r); ctx.clip();
+  if (HAS_FILTER && (info.isScene || info.shotIm)) {
+    if (!info.blurred) {   // blurred copy of what is behind the panel, built once per render
+      const oc = document.createElement("canvas"); oc.width = Math.round(W * info.scale); oc.height = Math.round(H * info.scale);
+      const octx = oc.getContext("2d"); octx.setTransform(info.scale, 0, 0, info.scale, 0, 0);
+      if (info.isScene) drawBg(octx, W, H, slide, k, 26 * k);
+      else { octx.filter = `blur(${26 * k}px)`; drawCoverZoom(octx, info.shotIm, W, H, slide.shotFx, slide.shotFy, slide.shotZoom, 60 * k); }
+      info.blurred = oc;
+    }
+    ctx.drawImage(info.blurred, 0, 0, W, H);
+  }
+  ctx.fillStyle = `rgba(255,255,255,${alpha})`; ctx.fillRect(x, y, w, h);
+  ctx.restore();
+  ctx.strokeStyle = "rgba(255,255,255,.75)"; ctx.lineWidth = Math.max(1.5, 2 * k);
+  rr(ctx, x, y, w, h, r); ctx.stroke();
+}
+function pill(ctx, x, y, w, h, grad, shadowColor, k) {
+  ctx.save();
+  if (shadowColor) { ctx.shadowColor = shadowColor; ctx.shadowBlur = 24 * k; ctx.shadowOffsetY = 10 * k; }
+  const g = ctx.createLinearGradient(x, y, x + w, y + h); g.addColorStop(0, grad[0]); g.addColorStop(1, grad[1]);
+  rr(ctx, x, y, w, h, h / 2); ctx.fillStyle = g; ctx.fill(); ctx.restore();
+}
+function drawPetals(ctx, W, H, seed, n, k) {
+  const r = rng(seed);
+  for (let i = 0; i < n; i++) {
+    const x = r() * W, y = r() * H, s = (18 + r() * 30) * k, rot = r() * 6.28;
+    ctx.save(); ctx.translate(x, y); ctx.rotate(rot);
+    ctx.fillStyle = `rgba(255,190,215,${0.35 + r() * 0.4})`; ctx.beginPath(); ctx.ellipse(0, 0, s * 0.55, s, 0, 0, 7); ctx.fill();
+    ctx.restore();
+  }
+}
+
+/* ───────────────────────── scene rendering ───────────────────────── */
+function capPosFor(slide, kind, land) {
+  const p = (slide.capPos && slide.capPos[kind]) || (land ? "topleft" : "top");
+  if (land) return p;
+  return p.startsWith("bottom") ? "bottom" : "top";   // portrait only has a top and a bottom
+}
+function drawCaption(ctx, info, loc, phase = "all") {
+  const { W, H, slide, land, kind } = info;
+  const cap = capFor(slide, loc), fam = FONTS[slide.font].css, rtl = loc === "ar";
+  const pos = capPosFor(slide, kind, land);
+  const narrow = land && pos !== "top" && pos !== "bottom";
+  const unit = land ? Math.min(W * 0.34, H * 0.62) / 0.9 : W;
+  const hS = unit * 0.074 * slide.fontScale, sS = hS * 0.5;
+  const maxW = land ? (narrow ? W * 0.30 : W * 0.62) : W * 0.86;
+  ctx.direction = rtl ? "rtl" : "ltr"; ctx.textBaseline = "top";
+  ctx.font = F(700, hS, fam); const hL = cap.h ? wrapText(ctx, cap.h, maxW) : [];
+  ctx.font = F(500, sS, fam); const sL = cap.s ? wrapText(ctx, cap.s, maxW) : [];
+  const hLH = hS * 1.16, sLH = sS * 1.3, gap = hL.length && sL.length ? hS * 0.3 : 0;
+  const textH = hL.length * hLH + gap + sL.length * sLH;
+  const pad = hS * 0.55;
+  const isBottom = pos.startsWith("bottom"), isRight = pos.endsWith("right"), isTopBottom = pos === "top" || pos === "bottom";
+  let tx, ty, align;
+  if (!narrow) { tx = W / 2; align = "center"; ty = isBottom ? H - H * 0.065 - textH : H * 0.062; }
+  else {
+    align = rtl ? "right" : "left";
+    tx = isRight ? W - W * 0.045 - maxW : W * 0.045;
+    ty = (pos === "left" || pos === "right") ? (H - textH) / 2 : (isBottom ? H - H * 0.06 - textH : H * 0.06);
+  }
+  const anchor = align === "center" ? tx : align === "left" ? tx : tx + maxW;
+  const done = isBottom && !narrow ? H * 0.03 : ty + textH + pad;
+
+  if (!hL.length && !sL.length) return done;
+  if (phase !== "text") {
+    if (slide.capStyle === "scrim") {
+      const dark = "rgba(25,15,40,.72)", clear = "rgba(25,15,40,0)";
+      if (!narrow) {
+        const y0 = isBottom ? H : 0, y1 = isBottom ? ty - H * 0.07 : ty + textH + H * 0.07;
+        const g = ctx.createLinearGradient(0, y0, 0, y1); g.addColorStop(0, dark); g.addColorStop(1, clear);
+        ctx.fillStyle = g; ctx.fillRect(0, Math.min(y0, y1), W, Math.abs(y1 - y0));
+      } else if (pos === "left" || pos === "right") {
+        const x0 = isRight ? W : 0, x1 = isRight ? W * 0.5 : W * 0.5;
+        const g = ctx.createLinearGradient(x0, 0, x1, 0); g.addColorStop(0, dark); g.addColorStop(1, clear);
+        ctx.fillStyle = g; ctx.fillRect(Math.min(x0, x1), 0, W * 0.5, H);
+      } else {   // corner: soft round fade from the corner the text sits in
+        const cx = isRight ? W : 0, cy = isBottom ? H : 0, R = Math.max(maxW * 1.5, textH * 2.6);
+        const g = ctx.createRadialGradient(cx, cy, 0, cx, cy, R);
+        g.addColorStop(0, dark); g.addColorStop(0.6, "rgba(25,15,40,.38)"); g.addColorStop(1, clear);
+        ctx.save(); ctx.beginPath(); ctx.rect(isRight ? W - R : 0, isBottom ? H - R : 0, R, R); ctx.clip();
+        ctx.fillStyle = g; ctx.fillRect(0, 0, W, H); ctx.restore();
+      }
+    } else if (slide.capStyle === "glass") {
+      let tw = 1;
+      ctx.font = F(700, hS, fam); hL.forEach(l => tw = Math.max(tw, ctx.measureText(l).width));
+      ctx.font = F(500, sS, fam); sL.forEach(l => tw = Math.max(tw, ctx.measureText(l).width));
+      const bw = Math.min(narrow ? maxW + pad * 2 : W * 0.94, tw + pad * 2.6);
+      glass(ctx, info, narrow ? tx - pad : (W - bw) / 2, ty - pad, bw, textH + pad * 2, hS * 0.55, 0.78);
+    }
+  }
+  if (phase === "backdrop") return done;
+  ctx.save();
+  if (slide.capStyle !== "glass") { ctx.shadowColor = "rgba(20,10,35,.55)"; ctx.shadowBlur = hS * 0.18; ctx.shadowOffsetY = hS * 0.05; }
+  ctx.textAlign = align;
+  ctx.fillStyle = slide.textColor; ctx.font = F(700, hS, fam);
+  hL.forEach((l, i) => ctx.fillText(l, anchor, ty + i * hLH));
+  ctx.fillStyle = slide.subColor; ctx.font = F(500, sS, fam);
+  sL.forEach((l, i) => ctx.fillText(l, anchor, ty + hL.length * hLH + gap + i * sLH));
+  ctx.restore();
+  return done;
+}
+
+/* A desktop screenshot has enough room to preserve the app UI instead of placing
+   marketing copy over it. This composition uses the source image as ambient
+   color, then presents a crisp, uncropped app window beside the caption. */
+function drawDesktopShowcase(ctx, info, loc) {
+  const { W, H, slide, shotIm, k } = info;
+  const cap = capFor(slide, loc), fam = FONTS[slide.font].css, rtl = loc === "ar";
+  const pos = capPosFor(slide, "mac", true);
+  const textRight = pos.endsWith("right") || pos === "right";
+
+  ctx.save();
+  if (HAS_FILTER) ctx.filter = `blur(${52 * k}px) saturate(.82)`;
+  drawCoverZoom(ctx, shotIm, W, H, slide.shotFx, slide.shotFy, Math.max(1.04, slide.shotZoom), 90 * k);
+  ctx.restore();
+  const veil = ctx.createLinearGradient(0, 0, W, H);
+  veil.addColorStop(0, textRight ? "rgba(24,17,36,.55)" : "rgba(24,17,36,.94)");
+  veil.addColorStop(.5, "rgba(43,29,55,.76)");
+  veil.addColorStop(1, textRight ? "rgba(24,17,36,.94)" : "rgba(24,17,36,.55)");
+  ctx.fillStyle = veil; ctx.fillRect(0, 0, W, H);
+  const glow = ctx.createRadialGradient(textRight ? W * .18 : W * .82, H * .16, 0, textRight ? W * .18 : W * .82, H * .16, W * .5);
+  glow.addColorStop(0, "rgba(240,168,104,.24)"); glow.addColorStop(.48, "rgba(140,111,209,.13)"); glow.addColorStop(1, "rgba(140,111,209,0)");
+  ctx.fillStyle = glow; ctx.fillRect(0, 0, W, H);
+  drawPetals(ctx, W, H, slide.id + 41, 18, k * .72);
+
+  const fw = W * .625, chrome = 54 * k;
+  const imageH = fw * shotIm.height / shotIm.width;
+  const fh = imageH + chrome;
+  const fx = textRight ? W * .045 : W - W * .045 - fw;
+  const fy = (H - fh) / 2 + H * .018;
+  const radius = 26 * k;
+  ctx.save();
+  ctx.shadowColor = "rgba(5,2,12,.62)"; ctx.shadowBlur = 72 * k; ctx.shadowOffsetY = 30 * k;
+  rr(ctx, fx, fy, fw, fh, radius); ctx.fillStyle = "rgba(21,17,30,.96)"; ctx.fill();
+  ctx.restore();
+  rr(ctx, fx, fy, fw, fh, radius); ctx.strokeStyle = "rgba(255,255,255,.32)"; ctx.lineWidth = Math.max(2, 2 * k); ctx.stroke();
+  ctx.save(); rr(ctx, fx, fy, fw, fh, radius); ctx.clip();
+  const chromeGrad = ctx.createLinearGradient(fx, fy, fx, fy + chrome);
+  chromeGrad.addColorStop(0, "rgba(255,255,255,.18)"); chromeGrad.addColorStop(1, "rgba(255,255,255,.07)");
+  ctx.fillStyle = chromeGrad; ctx.fillRect(fx, fy, fw, chrome);
+  const dotY = fy + chrome / 2, dotR = 7 * k;
+  ["#ff8279", "#f7c867", "#70cf87"].forEach((color, i) => { ctx.fillStyle = color; ctx.beginPath(); ctx.arc(fx + 28 * k + i * 25 * k, dotY, dotR, 0, Math.PI * 2); ctx.fill(); });
+  ctx.fillStyle = "rgba(255,255,255,.46)"; rr(ctx, fx + fw / 2 - 105 * k, fy + 18 * k, 210 * k, 18 * k, 9 * k); ctx.fill();
+  ctx.beginPath(); ctx.rect(fx, fy + chrome, fw, imageH); ctx.clip();
+  drawCoverZoomRect(ctx, shotIm, fx, fy + chrome, fw, imageH, slide.shotFx, slide.shotFy, slide.shotZoom);
+  ctx.restore();
+
+  const textX = textRight ? W * .705 : W * .055;
+  const textW = W * .25;
+  const hS = 74 * k * slide.fontScale, sS = 33 * k * slide.fontScale;
+  const textAnchor = rtl ? textX + textW : textX;
+  ctx.direction = rtl ? "rtl" : "ltr"; ctx.textAlign = rtl ? "right" : "left"; ctx.textBaseline = "top";
+  ctx.font = F(700, hS, fam); const hL = wrapText(ctx, cap.h, textW);
+  ctx.font = F(500, sS, fam); const sL = wrapText(ctx, cap.s, textW);
+  const hLH = hS * 1.08, sLH = sS * 1.38;
+  const contentH = 42 * k + 38 * k + hL.length * hLH + 30 * k + sL.length * sLH;
+  let ty = (H - contentH) / 2;
+  ctx.save(); ctx.shadowColor = "rgba(0,0,0,.42)"; ctx.shadowBlur = 20 * k; ctx.shadowOffsetY = 5 * k;
+  ctx.fillStyle = "rgba(255,255,255,.72)"; ctx.font = F(700, 20 * k, fam); ctx.letterSpacing = `${3 * k}px`;
+  ctx.fillText("TSUZUKI CONNECT", textAnchor, ty); ty += 42 * k;
+  const accent = ctx.createLinearGradient(textX, 0, textX + 92 * k, 0); accent.addColorStop(0, "#f0a868"); accent.addColorStop(.5, "#e89aaa"); accent.addColorStop(1, "#8c6fd1");
+  ctx.fillStyle = accent; rr(ctx, textX, ty, 92 * k, 7 * k, 4 * k); ctx.fill(); ty += 38 * k;
+  ctx.fillStyle = slide.capStyle === "glass" ? "#fffaf4" : slide.textColor; ctx.font = F(700, hS, fam);
+  hL.forEach((line, i) => ctx.fillText(line, textAnchor, ty + i * hLH)); ty += hL.length * hLH + 30 * k;
+  ctx.fillStyle = slide.capStyle === "glass" ? "#eadcf5" : slide.subColor; ctx.font = F(500, sS, fam);
+  sL.forEach((line, i) => ctx.fillText(line, textAnchor, ty + i * sLH));
+  ctx.restore();
+}
+
+function drawCharacters(ctx, info, topY) {
+  const { H, stage, slide, land } = info;
+  const chars = slide.chars.filter(c => c.n !== "none");
+  const items = chars.map(c => ({ c, img: imgOf(`characters/${c.n}_${c.e}.png`) })).filter(o => o.img)
+    .sort((a, b) => POSITIONS[a.c.p] - POSITIONS[b.c.p]);
+  const charH = (H - topY) * (slide.charsBig ? 1.28 : 1.12);
+  items.forEach(({ c, img }) => {
+    const w = charH * img.width / img.height;
+    const cx = stage.x + POSITIONS[c.p] * stage.w;
+    ctx.save(); ctx.shadowColor = "rgba(30,15,50,.35)"; ctx.shadowBlur = 40 * info.k; ctx.shadowOffsetY = 10 * info.k;
+    ctx.drawImage(img, cx - w / 2, topY, w, charH); ctx.restore();
+  });
+}
+
+function drawDialogueBox(ctx, info, speaker, text) {
+  const { W, H, stage, k, slide, loc } = info, fam = FONTS[slide.font].css, rtl = loc === "ar";
+  const fs = 50 * k, lh = fs * 1.45, pad = 46 * k, bw = stage.w * 0.92;
+  ctx.direction = rtl ? "rtl" : "ltr"; ctx.font = F(600, fs, fam);
+  const lines = wrapText(ctx, text, bw - pad * 2 - 30 * k);
+  const bh = Math.max(220 * k, pad * 2 + lines.length * lh + 20 * k);
+  const bx = stage.x + (stage.w - bw) / 2, by = H - bh - (info.land ? H * 0.05 : H * 0.045);
+  glass(ctx, info, bx, by, bw, bh, 38 * k, 0.76);
+  ctx.textBaseline = "top"; ctx.fillStyle = "#3a2e4d"; ctx.textAlign = rtl ? "right" : "left"; ctx.font = F(600, fs, fam);
+  lines.forEach((l, i) => ctx.fillText(l, rtl ? bx + bw - pad : bx + pad, by + pad + 14 * k + i * lh));
+  if (speaker) {
+    ctx.font = F(700, 40 * k, fam); ctx.textAlign = "left";
+    const nw = ctx.measureText(speaker).width + 70 * k, nx = bx + 40 * k, ny = by - 38 * k;
+    pill(ctx, nx, ny, nw, 76 * k, ["#f2af8c", "#e8946f"], "rgba(232,148,111,.4)", k);
+    ctx.fillStyle = "#fff"; ctx.textBaseline = "middle"; ctx.fillText(speaker, nx + 35 * k, ny + 40 * k);
+  }
+  ctx.fillStyle = "#e8946f"; ctx.beginPath();
+  ctx.moveTo(bx + bw - 70 * k, by + bh - 52 * k); ctx.lineTo(bx + bw - 40 * k, by + bh - 52 * k); ctx.lineTo(bx + bw - 55 * k, by + bh - 34 * k); ctx.fill();
+  return by;
+}
+
+function drawChoices(ctx, info, list, boxTop) {
+  const { stage, k, slide, loc } = info, fam = FONTS[slide.font].css;
+  const bw = stage.w * 0.92, bx = stage.x + (stage.w - bw) / 2, bh = 118 * k, gap = 24 * k;
+  const total = list.length * bh + (list.length - 1) * gap;
+  let y = boxTop - 70 * k - total;
+  ctx.direction = loc === "ar" ? "rtl" : "ltr";
+  list.forEach((t, i) => {
+    glass(ctx, info, bx, y, bw, bh, bh / 2, i === 0 ? 0.9 : 0.8);
+    ctx.fillStyle = i === 0 ? "#e8946f" : "#8c6fd1"; ctx.beginPath(); ctx.arc(bx + 62 * k, y + bh / 2, 26 * k, 0, 7); ctx.fill();
+    ctx.fillStyle = "#fff"; ctx.font = F(700, 30 * k, fam); ctx.textAlign = "center"; ctx.textBaseline = "middle"; ctx.fillText(String(i + 1), bx + 62 * k, y + bh / 2 + 1 * k);
+    ctx.fillStyle = "#3a2e4d"; ctx.font = F(600, 42 * k, fam); ctx.textAlign = "left";
+    let tt = t; while (ctx.measureText(tt).width > bw - 150 * k && tt.length > 2) tt = tt.slice(0, -2);
+    ctx.fillText(tt === t ? t : tt + "…", bx + 112 * k, y + bh / 2 + 1 * k);
+    y += bh + gap;
+  });
+}
+
+function drawMenu(ctx, info, topY) {
+  const { W, H, stage, k, slide, loc, land } = info, fam = FONTS.rounded.css;
+  const g = ctx.createLinearGradient(0, 0, W * 0.9, H * 0.4);
+  g.addColorStop(0, "rgba(42,33,24,.78)"); g.addColorStop(0.5, "rgba(42,33,24,.4)"); g.addColorStop(1, "rgba(42,33,24,.18)");
+  ctx.fillStyle = g; ctx.fillRect(0, 0, W, H);
+  const cx = stage.x + stage.w / 2;
+  let y = land ? H * 0.12 : Math.max(topY + H * 0.03, H * 0.25);
+  ctx.textAlign = "center"; ctx.textBaseline = "top"; ctx.direction = "ltr";
+  ctx.save(); ctx.shadowColor = "rgba(0,0,0,.5)"; ctx.shadowBlur = 24 * k; ctx.shadowOffsetY = 6 * k;
+  ctx.fillStyle = "#fdede3"; ctx.font = F(700, 118 * k, fam); ctx.fillText("TSUZUKI", cx, y); y += 128 * k;
+  ctx.fillText("CONNECT", cx, y); ctx.restore(); y += 150 * k;
+  const bar = ctx.createLinearGradient(cx - 70 * k, 0, cx + 70 * k, 0); bar.addColorStop(0, "#e8946f"); bar.addColorStop(0.5, "#8c6fd1"); bar.addColorStop(1, "#8fb49f");
+  rr(ctx, cx - 70 * k, y, 140 * k, 7 * k, 4 * k); ctx.fillStyle = bar; ctx.fill(); y += 34 * k;
+  ctx.direction = loc === "ar" ? "rtl" : "ltr";
+  ctx.fillStyle = "#fff"; ctx.font = F(600, 44 * k, fam);
+  const sub = wrapText(ctx, ui("menu.subtitle", loc), stage.w * 0.86); sub.forEach(l => { ctx.fillText(l, cx, y); y += 56 * k; });
+  ctx.fillStyle = "rgba(255,255,255,.78)"; ctx.font = F(500, 36 * k, fam);
+  wrapText(ctx, ui("menu.tagline", loc), stage.w * 0.86).forEach(l => { ctx.fillText(l, cx, y); y += 48 * k; });
+  y += 60 * k;
+  const bw = Math.min(stage.w * 0.78, 880 * k), bh = 124 * k, gap = 26 * k;
+  const btns = [["menu.story", "primary"], ["menu.lesson_select"], ["menu.vocab_select"], ["menu.vocab_log"], ["menu.premium", "gold"], ["menu.settings"]];
+  btns.forEach(([key, kind]) => {
+    if (y + bh > H - 40 * k) return;
+    const x = cx - bw / 2;
+    if (kind === "primary") pill(ctx, x, y, bw, bh, ["#ffd9c0", "#f7c7da"], "rgba(232,148,111,.35)", k);
+    else if (kind === "gold") pill(ctx, x, y, bw, bh, ["#f7d488", "#f0a868"], "rgba(216,148,63,.35)", k);
+    else { rr(ctx, x, y, bw, bh, bh / 2); ctx.fillStyle = "rgba(255,255,255,.16)"; ctx.fill(); ctx.strokeStyle = "rgba(255,255,255,.45)"; ctx.lineWidth = 2 * k; ctx.stroke(); }
+    ctx.fillStyle = kind === "primary" ? "#5a3a2e" : kind === "gold" ? "#4a2e1a" : "#fff";
+    ctx.font = F(600, 44 * k, fam); ctx.textBaseline = "middle"; ctx.fillText(ui(key, loc), cx, y + bh / 2 + 2 * k); ctx.textBaseline = "top";
+    y += bh + gap;
+  });
+}
+
+function drawTitleCard(ctx, info, c, topY) {
+  const { H, stage, k, slide, loc, land } = info, fam = FONTS[slide.font === "system" ? "rounded" : slide.font].css;
+  const cx = stage.x + stage.w / 2, rtl = loc === "ar";
+  ctx.direction = rtl ? "rtl" : "ltr"; ctx.textAlign = "center"; ctx.textBaseline = "top";
+  ctx.font = F(700, 86 * k, fam); const tl = wrapText(ctx, c.title, stage.w * 0.84);
+  ctx.font = F(500, 46 * k, fam); const sl = wrapText(ctx, c.sub, stage.w * 0.8);
+  const chipH = 70 * k, total = (c.chip ? chipH + 50 * k : 0) + tl.length * 100 * k + 60 * k + sl.length * 62 * k;
+  const room = land ? H : H - topY, mid = land ? H / 2 : topY + room / 2 + H * 0.02;
+  let y = mid - total / 2;
+  if (c.chip) {
+    ctx.font = F(700, 34 * k, fam); const w = ctx.measureText(c.chip).width + 80 * k;
+    pill(ctx, cx - w / 2, y, w, chipH, ["#f2af8c", "#e8946f"], "rgba(232,148,111,.4)", k);
+    ctx.fillStyle = "#fff"; ctx.textBaseline = "middle"; ctx.fillText(c.chip, cx, y + chipH / 2 + 2 * k); ctx.textBaseline = "top"; y += chipH + 50 * k;
+  }
+  ctx.save(); ctx.shadowColor = "rgba(20,10,35,.55)"; ctx.shadowBlur = 24 * k; ctx.shadowOffsetY = 6 * k;
+  ctx.fillStyle = "#fff"; ctx.font = F(700, 86 * k, fam); tl.forEach(l => { ctx.fillText(l, cx, y); y += 100 * k; });
+  ctx.restore(); y += 20 * k;
+  const bar = ctx.createLinearGradient(cx - 90 * k, 0, cx + 90 * k, 0); bar.addColorStop(0, "#e8946f"); bar.addColorStop(0.5, "#8c6fd1"); bar.addColorStop(1, "#8fb49f");
+  rr(ctx, cx - 90 * k, y, 180 * k, 8 * k, 4 * k); ctx.fillStyle = bar; ctx.fill(); y += 40 * k;
+  ctx.fillStyle = "rgba(255,255,255,.92)"; ctx.font = F(500, 46 * k, fam); sl.forEach(l => { ctx.fillText(l, cx, y); y += 62 * k; });
+}
+
+function drawVocab(ctx, info, c, topY) {
+  const { H, stage, k, slide, loc, land } = info, fam = FONTS[slide.font === "system" ? "rounded" : slide.font].css;
+  const rows = c.words.split("\n").map(s => s.split("|").map(x => x.trim())).filter(r => r[0]).slice(0, 5);
+  const bw = stage.w * 0.9, bx = stage.x + (stage.w - bw) / 2, pad = 54 * k, rowH = 190 * k, headH = c.chip ? 110 * k : 0;
+  const bh = pad * 2 + headH + rows.length * rowH;
+  const room = land ? H : H - topY, by = Math.max((land ? 0 : topY) + 10 * k, (land ? 0 : topY) + (room - bh) / 2 + H * 0.02);
+  glass(ctx, info, bx, by, bw, bh, 44 * k, 0.8);
+  ctx.direction = loc === "ar" ? "rtl" : "ltr"; ctx.textBaseline = "top"; ctx.textAlign = "left";
+  let y = by + pad;
+  if (c.chip) {
+    ctx.font = F(700, 32 * k, fam); const w = ctx.measureText(c.chip).width + 70 * k;
+    pill(ctx, bx + pad, y, w, 64 * k, ["#8c6fd1", "#6f52b5"], "rgba(111,82,181,.35)", k);
+    ctx.fillStyle = "#fff"; ctx.textBaseline = "middle"; ctx.fillText(c.chip, bx + pad + 35 * k, y + 34 * k); ctx.textBaseline = "top"; y += headH;
+  }
+  rows.forEach((r, i) => {
+    if (i) { ctx.fillStyle = "rgba(58,46,77,.12)"; ctx.fillRect(bx + pad, y - 12 * k, bw - pad * 2, 2 * k); }
+    ctx.fillStyle = "#4a3d6b"; ctx.font = F(700, 74 * k, FONTS.japanese.css); ctx.textAlign = "left"; ctx.fillText(r[0], bx + pad, y + 2 * k);
+    ctx.fillStyle = "#8c6fd1"; ctx.font = F(500, 34 * k, FONTS.japanese.css); ctx.fillText(r[1] || "", bx + pad, y + 100 * k);
+    ctx.fillStyle = "#3a2e4d"; ctx.font = F(600, 40 * k, fam); ctx.textAlign = "right";
+    wrapText(ctx, r[2] || "", bw * 0.4).slice(0, 2).forEach((l, j) => ctx.fillText(l, bx + bw - pad, y + 24 * k + j * 52 * k));
+    y += rowH;
+  });
+}
+
+function drawPremium(ctx, info, topY) {
+  const { H, stage, k, slide, loc, land } = info, fam = FONTS[slide.font === "system" ? "rounded" : slide.font].css;
+  const bw = stage.w * 0.9, bx = stage.x + (stage.w - bw) / 2, pad = 50 * k;
+  ctx.direction = loc === "ar" ? "rtl" : "ltr";
+  ctx.font = F(700, 62 * k, fam); const head = wrapText(ctx, ui("runtime.iap.headline", loc), bw - pad * 2);
+  const benefits = ["runtime.iap.benefit_sentences", "runtime.iap.benefit_vocab", "runtime.iap.benefit_stories", "runtime.iap.benefit_future"];
+  ctx.font = F(500, 38 * k, fam);
+  const bl = benefits.map(b => wrapText(ctx, ui(b, loc), bw - pad * 2 - 190 * k).slice(0, 2));
+  const rowsH = bl.reduce((s, l) => s + Math.max(96 * k, l.length * 48 * k + 36 * k) + 16 * k, 0);
+  const bh = pad + 130 * k + 60 * k + head.length * 74 * k + 30 * k + rowsH + 36 * k + 88 * k + 40 * k + 128 * k + pad;
+  const room = land ? H : H - topY, by = Math.max((land ? 0 : topY) + 10 * k, (land ? 0 : topY) + (room - bh) / 2 + H * 0.01);
+  glass(ctx, info, bx, by, bw, bh, 48 * k, 0.84);
+  const cx = bx + bw / 2; let y = by + pad;
+  const hero = ctx.createLinearGradient(cx - 65 * k, y, cx + 65 * k, y + 130 * k); hero.addColorStop(0, "#f7d488"); hero.addColorStop(1, "#f0a868");
+  ctx.save(); ctx.shadowColor = "rgba(216,148,63,.45)"; ctx.shadowBlur = 30 * k; ctx.shadowOffsetY = 12 * k;
+  ctx.fillStyle = hero; ctx.beginPath(); ctx.arc(cx, y + 65 * k, 65 * k, 0, 7); ctx.fill(); ctx.restore();
+  ctx.fillStyle = "#4a2e1a"; ctx.beginPath();
+  for (let i = 0; i < 10; i++) { const a = -Math.PI / 2 + i * Math.PI / 5, r = (i % 2 ? 17 : 38) * k; ctx.lineTo(cx + Math.cos(a) * r, y + 65 * k + Math.sin(a) * r); }
+  ctx.closePath(); ctx.fill(); y += 130 * k + 24 * k;
+  ctx.textAlign = "center"; ctx.textBaseline = "top"; ctx.font = F(700, 28 * k, fam);
+  const chip = ui("runtime.iap.badge_one_time", loc), cw = ctx.measureText(chip).width + 56 * k;
+  rr(ctx, cx - cw / 2, y, cw, 52 * k, 26 * k); ctx.fillStyle = "rgba(78,138,108,.16)"; ctx.fill();
+  ctx.fillStyle = "#4e8a6c"; ctx.textBaseline = "middle"; ctx.fillText(chip, cx, y + 27 * k); ctx.textBaseline = "top"; y += 52 * k + 24 * k;
+  ctx.fillStyle = "#3a2e4d"; ctx.font = F(700, 62 * k, fam); head.forEach(l => { ctx.fillText(l, cx, y); y += 74 * k; }); y += 30 * k;
+  const colors = ["#6f52b5", "#e8946f", "#4e8a6c", "#d8943f"];
+  bl.forEach((lines, i) => {
+    const h = Math.max(96 * k, lines.length * 48 * k + 36 * k), x = bx + pad;
+    if (i === 3) { rr(ctx, x - 14 * k, y - 6 * k, bw - pad * 2 + 28 * k, h + 12 * k, 28 * k); ctx.fillStyle = "rgba(216,148,63,.14)"; ctx.fill(); }
+    rr(ctx, x, y + (h - 70 * k) / 2, 70 * k, 70 * k, 22 * k); ctx.fillStyle = colors[i] + "2a"; ctx.fill();
+    ctx.fillStyle = colors[i]; ctx.beginPath(); ctx.arc(x + 35 * k, y + h / 2, 13 * k, 0, 7); ctx.fill();
+    ctx.fillStyle = "#3a2e4d"; ctx.font = F(i === 3 ? 700 : 500, 38 * k, fam); ctx.textAlign = "left";
+    lines.forEach((l, j) => ctx.fillText(l, x + 100 * k, y + (h - lines.length * 48 * k) / 2 + j * 48 * k));
+    if (i === 3) { ctx.fillStyle = colors[i]; ctx.beginPath(); ctx.arc(bx + bw - pad - 24 * k, y + h / 2, 22 * k, 0, 7); ctx.fill();
+      ctx.strokeStyle = "#fff"; ctx.lineWidth = 5 * k; ctx.beginPath(); ctx.moveTo(bx + bw - pad - 34 * k, y + h / 2); ctx.lineTo(bx + bw - pad - 26 * k, y + h / 2 + 8 * k); ctx.lineTo(bx + bw - pad - 12 * k, y + h / 2 - 8 * k); ctx.stroke(); }
+    y += h + 16 * k;
+  });
+  y += 20 * k; ctx.textAlign = "center";
+  ctx.fillStyle = "#4a3d6b"; ctx.font = F(700, 80 * k, fam); ctx.fillText(slide.price || "", cx, y); y += 92 * k;
+  ctx.fillStyle = "rgba(58,46,77,.7)"; ctx.font = F(500, 30 * k, fam);
+  wrapText(ctx, ui("runtime.iap.price_caption", loc), bw - pad * 2).slice(0, 2).forEach(l => { ctx.fillText(l, cx, y); y += 40 * k; });
+  y += 24 * k;
+  pill(ctx, bx + pad, y, bw - pad * 2, 112 * k, ["#f7d488", "#f0a868"], "rgba(216,148,63,.4)", k);
+  ctx.fillStyle = "#4a2e1a"; ctx.font = F(700, 46 * k, fam); ctx.textBaseline = "middle"; ctx.fillText(ui("runtime.iap.unlock", loc), cx, y + 58 * k);
+}
+
+/* the main renderer — coordinates are export pixels, `scale` only shrinks the canvas for previews */
+function render(canvas, slide, kind, loc, W, H, landscapeFlag, scale = 1) {
+  canvas.width = Math.round(W * scale); canvas.height = Math.round(H * scale);
+  const ctx = canvas.getContext("2d");
+  ctx.setTransform(scale, 0, 0, scale, 0, 0); ctx.clearRect(0, 0, W, H);
+  const land = W > H;
+  const k = land ? H / 1250 : W / 1300;
+  const stage = land ? { x: W * 0.43, w: W * 0.57 } : { x: 0, w: W };
+  const mode = slide.mode[kind], rec = slide.imgs[kind];
+  const info = { W, H, k, land, stage, slide, loc, scale, kind, blurred: null, isScene: mode === "scene", shotIm: mode === "shot" && rec && rec.el ? rec.el : null };
+  ctx.textBaseline = "top";
+
+  if (mode === "shot") {
+    const im = info.shotIm;
+    if (im && kind === "mac" && (slide.desktopLayout || "showcase") === "showcase") {
+      drawDesktopShowcase(ctx, info, loc);
+      return;
+    }
+    if (im) drawCoverZoom(ctx, im, W, H, slide.shotFx, slide.shotFy, slide.shotZoom);
+    else {
+      const g = ctx.createLinearGradient(0, 0, W, H); g.addColorStop(0, "#f4eefc"); g.addColorStop(1, "#dbe9ff"); ctx.fillStyle = g; ctx.fillRect(0, 0, W, H);
+      ctx.fillStyle = "#6f52b5"; ctx.textAlign = "center"; ctx.textBaseline = "middle"; ctx.font = F(600, Math.min(W, H) * 0.05, "system-ui,sans-serif");
+      ctx.fillText("Drop your " + KIND_LABEL[kind] + " screenshot here", W / 2, H / 2);
+    }
+    drawCaption(ctx, info, loc);
+    return;
+  }
+
+  drawBg(ctx, W, H, slide, k);
+  const c = contentFor(slide, loc);
+  if (slide.type === "title" || slide.type === "vocab" || slide.type === "premium") drawPetals(ctx, W, H, slide.id + 3, Math.round(W * H / 400000), k);
+  const capBottom = drawCaption(ctx, info, loc, "backdrop");
+  const topY = land ? H * 0.1 : Math.max(capBottom + H * 0.01, H * 0.2);
+
+  switch (slide.type) {
+    case "dialogue":
+    case "choices": {
+      drawCharacters(ctx, info, topY);
+      const speaker = c.speaker;
+      const top = drawDialogueBox(ctx, info, speaker, c.line);
+      if (slide.type === "choices") drawChoices(ctx, info, c.choices.split("\n").filter(Boolean).slice(0, 5), top);
+      break;
+    }
+    case "menu": drawMenu(ctx, info, capBottom); break;
+    case "title": drawTitleCard(ctx, info, c, capBottom); break;
+    case "vocab": drawVocab(ctx, info, c, capBottom); break;
+    case "premium": drawPremium(ctx, info, capBottom); break;
+  }
+  // the caption sits on top of everything so the scene never hides it
+  drawCaption(ctx, info, loc, "text");
+}
+/* ───────────────────────── minimal ZIP writer ───────────────────────── */
+const CRC_TABLE = (() => { const t = new Uint32Array(256); for (let n = 0; n < 256; n++) { let c = n; for (let k = 0; k < 8; k++) c = c & 1 ? 0xEDB88320 ^ (c >>> 1) : c >>> 1; t[n] = c >>> 0; } return t; })();
+function crc32(buf) { let c = 0xFFFFFFFF; for (let i = 0; i < buf.length; i++) c = CRC_TABLE[(c ^ buf[i]) & 255] ^ (c >>> 8); return (c ^ 0xFFFFFFFF) >>> 0; }
+function makeZip(files) {
+  const enc = new TextEncoder(), parts = [], central = []; let offset = 0;
+  const u16 = n => new Uint8Array([n & 255, n >> 8 & 255]);
+  const u32 = n => new Uint8Array([n & 255, n >> 8 & 255, n >> 16 & 255, n >>> 24 & 255]);
+  const cat = arr => { const out = new Uint8Array(arr.reduce((s, a) => s + a.length, 0)); let o = 0; for (const a of arr) { out.set(a, o); o += a.length; } return out; };
+  for (const f of files) {
+    const name = enc.encode(f.name), crc = crc32(f.data), size = f.data.length;
+    const local = cat([u32(0x04034b50), u16(20), u16(0x0800), u16(0), u16(0), u16(0x21), u32(crc), u32(size), u32(size), u16(name.length), u16(0), name]);
+    parts.push(local, f.data);
+    central.push(cat([u32(0x02014b50), u16(20), u16(20), u16(0x0800), u16(0), u16(0), u16(0x21), u32(crc), u32(size), u32(size), u16(name.length), u16(0), u16(0), u16(0), u16(0), u32(0), u32(offset), name]));
+    offset += local.length + size;
+  }
+  const cd = cat(central);
+  return new Blob([...parts, cd, cat([u32(0x06054b50), u16(0), u16(0), u16(files.length), u16(files.length), u32(cd.length), u32(offset), u16(0)])], { type: "application/zip" });
+}
+
+/* ───────────────────────── UI wiring ───────────────────────── */
+const $ = id => document.getElementById(id);
+const preview = $("preview");
+let raf = 0;
+function schedule() { cancelAnimationFrame(raf); raf = requestAnimationFrame(redraw); }
+const slugify = s => (s || "slide").toLowerCase().replace(/[^\p{L}\p{N}]+/gu, "-").replace(/^-|-$/g, "").slice(0, 40) || "slide";
+
+function redraw() {
+  const { w, h } = canvasSize();
+  render(preview, cur(), state.kind, state.locale, w, h, state.landscape, Math.min(1, 1100 / Math.max(w, h)));
+  $("sizeInfo").textContent = `${w} × ${h}px`;
+  renderThumbs();
+}
+function renderThumbs() {
+  const box = $("slides"), { w, h } = canvasSize();
+  if (box.children.length !== state.slides.length) { buildSlideList(); return; }
+  state.slides.forEach((sl, i) => {
+    const el = box.children[i]; el.classList.toggle("on", i === state.sel);
+    render(el.querySelector("canvas"), sl, state.kind, state.locale, w, h, state.landscape, Math.min(0.12, 260 / Math.max(w, h)));
+  });
+}
+function buildSlideList() {
+  const box = $("slides"); box.innerHTML = "";
+  state.slides.forEach((sl, i) => {
+    const el = document.createElement("div"); el.className = "slide";
+    el.innerHTML = `<canvas></canvas><span class="num">${i + 1}</span>
+      <div class="tools"><button class="small" data-a="up" title="Move up">↑</button><button class="small" data-a="down" title="Move down">↓</button><button class="small" data-a="dup" title="Duplicate">⧉</button><button class="small danger" data-a="del" title="Delete">✕</button></div>`;
+    el.addEventListener("click", e => {
+      const a = e.target.dataset && e.target.dataset.a;
+      if (a) { e.stopPropagation(); slideAction(a, i); return; }
+      state.sel = i; syncInspector(); schedule();
+    });
+    box.appendChild(el);
+  });
+  renderThumbs();
+}
+function slideAction(a, i) {
+  const L = state.slides;
+  if (a === "up" && i > 0) { [L[i - 1], L[i]] = [L[i], L[i - 1]]; state.sel = i - 1; }
+  else if (a === "down" && i < L.length - 1) { [L[i + 1], L[i]] = [L[i], L[i + 1]]; state.sel = i + 1; }
+  else if (a === "dup") { const c = JSON.parse(JSON.stringify({ ...L[i], imgs: {} })); c.id = uid++; c.imgs = { ...L[i].imgs }; L.splice(i + 1, 0, c); state.sel = i + 1; }
+  else if (a === "del" && L.length > 1) { L.splice(i, 1); state.sel = Math.min(state.sel, L.length - 1); }
+  buildSlideList(); syncInspector(); schedule();
+}
+
+function buildBgGrid() {
+  const g = $("bgGrid"); g.innerHTML = "";
+  MANIFEST.backgrounds.forEach(name => {
+    const im = document.createElement("img"); im.loading = "lazy"; im.title = name; im.dataset.n = name; im.src = assetUrl("backgrounds/" + name);
+    im.onclick = () => { cur().bg = name; syncInspector(); schedule(); };
+    g.appendChild(im);
+  });
+}
+function buildChars() {
+  const box = $("chars"); box.innerHTML = "";
+  const s = cur();
+  for (let i = 0; i < 3; i++) {
+    const c = s.chars[i] || { n: "none", e: "", p: "center" };
+    const row = document.createElement("div"); row.className = "charRow";
+    const selN = document.createElement("select"), selE = document.createElement("select"), selP = document.createElement("select");
+    Object.entries(CHAR_NAMES).forEach(([k, v]) => selN.add(new Option(v, k)));
+    selN.value = c.n;
+    const fillE = () => { selE.innerHTML = ""; (selN.value === "none" ? [] : exprOf(selN.value)).forEach(e => selE.add(new Option(e, e))); selE.value = c.e || selE.options[0]?.value || ""; selE.disabled = selN.value === "none"; };
+    fillE();
+    Object.keys(POSITIONS).forEach(p => selP.add(new Option(p, p))); selP.value = c.p;
+    const commit = () => { s.chars[i] = { n: selN.value, e: selE.value, p: selP.value }; schedule(); };
+    selN.onchange = () => { c.e = ""; fillE(); commit(); loadAsset(`characters/${selN.value}_${selE.value}.png`); };
+    selE.onchange = commit; selP.onchange = commit;
+    row.append(selN, selE, selP); box.appendChild(row);
+  }
+}
+
+function syncInspector() {
+  const s = cur(), loc = state.locale;
+  $("inspector").className = "mode-" + s.mode[state.kind] + (state.kind === "mac" ? " is-mac" : "");
+  document.querySelectorAll("#kindSeg button").forEach(b => b.classList.toggle("on", b.dataset.k === state.kind));
+  document.querySelectorAll("#modeSeg button").forEach(b => b.classList.toggle("on", b.dataset.m === s.mode[state.kind]));
+  const fs = $("formatSel"); fs.innerHTML = ""; FORMATS[state.kind].forEach((f, i) => fs.add(new Option(f.label, i))); fs.value = state.fmt[state.kind];
+  $("landscapeWrap").style.display = state.kind === "ipad" ? "flex" : "none"; $("landscape").checked = state.landscape;
+  $("localeSel").value = loc;
+  $("type").value = s.type;
+  document.querySelectorAll("#bgGrid img").forEach(i => i.classList.toggle("on", i.dataset.n === s.bg));
+  $("focus").value = s.focus; $("vFocus").textContent = Math.round(s.focus * 100) + "%";
+  $("blur").value = s.blur; $("vBlur").textContent = Math.round(s.blur * 100) + "%";
+  $("dim").value = s.dim; $("vDim").textContent = Math.round(s.dim * 100) + "%";
+  $("charsBig").checked = !!s.charsBig;
+  const t = s.type, show = (id, on) => $(id).style.display = on ? "block" : "none";
+  show("grpChars", t === "dialogue" || t === "choices"); show("grpDialogue", t === "dialogue" || t === "choices"); show("grpChoices", t === "choices");
+  show("grpTitle", t === "title"); show("grpVocab", t === "vocab"); show("grpPremium", t === "premium"); show("grpMenu", t === "menu");
+  buildChars();
+  const own = s.content[loc] || {}, c = contentFor(s, loc);
+  const setF = (id, key) => { $(id).value = own[key] ?? ""; $(id).placeholder = loc !== "en" ? (c[key] || "") : ""; };
+  setF("speaker", "speaker"); setF("line", "line"); setF("choices", "choices"); setF("chip", "chip"); setF("cardTitle", "title"); setF("cardSub", "sub"); setF("words", "words");
+  $("price").value = s.price || "";
+  const cp = capFor(s, loc);
+  $("headline").value = (s.cap[loc] && s.cap[loc].h) || ""; $("sub").value = (s.cap[loc] && s.cap[loc].s) || "";
+  $("headline").placeholder = cp.fallback ? cp.h : ""; $("sub").placeholder = cp.fallback ? cp.s : "";
+  $("localeHint").textContent = cp.fallback ? "No caption for this language yet — the English text is used as a fallback." : "";
+  $("capStyle").value = s.capStyle; $("font").value = s.font;
+  $("capPos").value = (s.capPos && s.capPos[state.kind]) || (state.kind === "mac" ? "topleft" : "top");
+  $("shotFx").value = s.shotFx; $("vFx").textContent = Math.round(s.shotFx * 100) + "%";
+  $("shotFy").value = s.shotFy; $("vFy").textContent = Math.round(s.shotFy * 100) + "%";
+  $("shotZoom").value = s.shotZoom; $("vZoom").textContent = s.shotZoom.toFixed(2) + "×";
+  $("desktopLayout").value = s.desktopLayout || "showcase";
+  document.querySelectorAll("#libGrid img").forEach(i => i.classList.toggle("on", !!(s.imgs[state.kind] && s.imgs[state.kind].lib === i.dataset.n)));
+  $("fontScale").value = s.fontScale; $("vFont").textContent = Math.round(s.fontScale * 100) + "%";
+  $("textColor").value = s.textColor; $("subColor").value = s.subColor;
+}
+
+function init() {
+  Object.keys(KIND_LABEL).forEach(k => {
+    const b = document.createElement("button"); b.textContent = KIND_LABEL[k]; b.dataset.k = k;
+    b.onclick = () => { state.kind = k; syncInspector(); schedule(); }; $("kindSeg").appendChild(b);
+  });
+  Object.entries(LOCALES).forEach(([k, v]) => $("localeSel").add(new Option(v, k)));
+  Object.entries(FONTS).forEach(([k, v]) => $("font").add(new Option(v.label, k)));
+  buildBgGrid();
+
+  $("formatSel").onchange = e => { state.fmt[state.kind] = +e.target.value; schedule(); };
+  $("landscape").onchange = e => { state.landscape = e.target.checked; schedule(); };
+  $("localeSel").onchange = e => { state.locale = e.target.value; syncInspector(); schedule(); };
+  document.querySelectorAll("#modeSeg button").forEach(b => b.onclick = () => { cur().mode[state.kind] = b.dataset.m; syncInspector(); schedule(); });
+
+  const bind = (id, fn, valId, fmt) => $(id).addEventListener("input", e => {
+    const v = e.target.type === "checkbox" ? e.target.checked : e.target.type === "range" ? +e.target.value : e.target.value;
+    fn(cur(), v); if (valId) $(valId).textContent = fmt(v); schedule();
+  });
+  const cap = key => (s, v) => { s.cap[state.locale] = s.cap[state.locale] || { h: "", s: "" }; s.cap[state.locale][key] = v; };
+  bind("headline", cap("h")); bind("sub", cap("s"));
+  const con = key => (s, v) => { s.content[state.locale] = s.content[state.locale] || {}; s.content[state.locale][key] = v; };
+  bind("speaker", con("speaker")); bind("line", con("line")); bind("choices", con("choices")); bind("chip", con("chip"));
+  bind("cardTitle", con("title")); bind("cardSub", con("sub")); bind("words", con("words"));
+  bind("price", (s, v) => s.price = v);
+  bind("type", (s, v) => { s.type = v; syncInspector(); });
+  bind("focus", (s, v) => s.focus = v, "vFocus", v => Math.round(v * 100) + "%");
+  bind("blur", (s, v) => s.blur = v, "vBlur", v => Math.round(v * 100) + "%");
+  bind("dim", (s, v) => s.dim = v, "vDim", v => Math.round(v * 100) + "%");
+  bind("charsBig", (s, v) => s.charsBig = v);
+  bind("capPos", (s, v) => { s.capPos = s.capPos || {}; s.capPos[state.kind] = v; });
+  bind("shotFx", (s, v) => s.shotFx = v, "vFx", v => Math.round(v * 100) + "%");
+  bind("shotFy", (s, v) => s.shotFy = v, "vFy", v => Math.round(v * 100) + "%");
+  bind("shotZoom", (s, v) => s.shotZoom = v, "vZoom", v => (+v).toFixed(2) + "×");
+  bind("desktopLayout", (s, v) => s.desktopLayout = v);
+  buildLibGrid();
+  $("btnLib").onclick = () => $("fileLib").click();
+  $("fileLib").onchange = e => { useLibFiles([...e.target.files]); e.target.value = ""; };
+  bind("font", (s, v) => s.font = v);
+  bind("fontScale", (s, v) => s.fontScale = v, "vFont", v => Math.round(v * 100) + "%");
+  bind("textColor", (s, v) => s.textColor = v); bind("subColor", (s, v) => s.subColor = v);
+  $("capStyle").addEventListener("input", e => {
+    const s = cur(); s.capStyle = e.target.value;
+    if (s.capStyle === "glass") { s.textColor = "#3a2e4d"; s.subColor = "#6f52b5"; } else { s.textColor = "#ffffff"; s.subColor = "#ffe9d6"; }
+    syncInspector(); schedule();
+  });
+
+  $("btnAdd").onclick = () => {
+    const s = makeSlide({ type: "dialogue", bg: "Classroom_Day.webp", chars: [{ n: "tanaka", e: "smile", p: "center" }], content: { speaker: "tanaka", line: C("Hello! Let's study Japanese together.", "こんにちは！いっしょに日本語を勉強しましょう。", "Здравствуйте! Давайте учить японский вместе.", "你好！一起学日语吧。") } });
+    s.cap = { en: { h: "New headline", s: "Supporting line" } };
+    state.slides.push(s); state.sel = state.slides.length - 1; buildSlideList(); syncInspector(); schedule();
+  };
+  $("btnApplyLook").onclick = () => { const a = cur(); state.slides.forEach(s => { s.capStyle = a.capStyle; s.font = a.font; s.fontScale = a.fontScale; s.textColor = a.textColor; s.subColor = a.subColor; }); schedule(); };
+
+  $("btnPick").onclick = () => $("fileShot").click();
+  $("fileShot").onchange = e => { if (e.target.files[0]) loadShots([e.target.files[0]]); e.target.value = ""; };
+  $("btnClear").onclick = () => { delete cur().imgs[state.kind]; schedule(); };
+  const wrap = $("canvasWrap");
+  ["dragenter", "dragover"].forEach(ev => wrap.addEventListener(ev, e => { e.preventDefault(); wrap.classList.add("drag"); }));
+  ["dragleave", "drop"].forEach(ev => wrap.addEventListener(ev, e => { e.preventDefault(); wrap.classList.remove("drag"); }));
+  wrap.addEventListener("drop", e => { const f = [...e.dataTransfer.files].filter(f => f.type.startsWith("image/")); if (f.length) loadShots(f); });
+  window.addEventListener("paste", e => { const f = [...(e.clipboardData?.files || [])].filter(f => f.type.startsWith("image/")); if (f.length) loadShots(f); });
+
+  $("btnAssets").onclick = () => $("fileAssets").click();
+  $("fileAssets").onchange = e => useAssetFolder([...e.target.files]);
+
+  $("btnSave").onclick = () => {
+    const data = { v: 3, state: { kind: state.kind, locale: state.locale, fmt: state.fmt, landscape: state.landscape },
+      slides: state.slides.map(s => ({ ...s, imgs: Object.fromEntries(Object.entries(s.imgs).map(([k, v]) => [k, v.lib ? { lib: v.lib, url: LIB.urls[v.lib] && !LIB.urls[v.lib].startsWith('blob:') ? LIB.urls[v.lib] : null } : v.src])) })) };
+    download(new Blob([JSON.stringify(data)], { type: "application/json" }), "tsuzuki-screenshot-project.json");
+  };
+  $("btnLoad").onclick = () => $("fileProject").click();
+  $("fileProject").onchange = async e => {
+    const f = e.target.files[0]; e.target.value = ""; if (!f) return;
+    try {
+      const d = JSON.parse(await f.text());
+      if (d.v !== 3) throw new Error("this project was made with an older version of the studio");
+      Object.assign(state, d.state);
+      state.slides = await Promise.all(d.slides.map(async s => {
+        const imgs = {}; for (const [k, v] of Object.entries(s.imgs || {})) imgs[k] = typeof v === "object" ? libRef(v.lib) : { src: v, el: await loadImage(v), ready: Promise.resolve() };
+        uid = Math.max(uid, (s.id || 0) + 1); return { ...s, imgs };
+      }));
+      state.sel = 0; await ensureAssets(state.slides); buildSlideList(); syncInspector(); schedule();
+    } catch (err) { alert("Could not load the project: " + err.message); }
+  };
+
+  $("btnExportOne").onclick = async () => {
+    try {
+      await ensureAssets([cur()]);
+      const { w, h } = canvasSize(), c = document.createElement("canvas");
+      render(c, cur(), state.kind, state.locale, w, h, state.landscape, 1);
+      download(await toBlob(c), `${state.kind}-${w}x${h}-${String(state.sel + 1).padStart(2, "0")}-${slugify(capFor(cur(), state.locale).h)}.png`);
+    } catch (err) { exportError(err); }
+  };
+  $("btnExportAll").onclick = openExport;
+  $("expCancel").onclick = () => $("exportDlg").close();
+  $("expGo").onclick = runExport;
+
+  setupBanner();
+  buildSlideList(); syncInspector(); schedule(); loadI18n();
+  (document.fonts && document.fonts.ready || Promise.resolve()).then(schedule);
+  window.addEventListener("resize", schedule);
+}
+
+function buildLibGrid() {
+  const g = $("libGrid"); g.innerHTML = "";
+  LIB.names.forEach(name => {
+    const im = document.createElement("img"); im.loading = "lazy"; im.title = name; im.dataset.n = name; im.src = LIB.urls[name];
+    im.onclick = () => { const s = cur(); s.imgs[state.kind] = libRef(name); s.mode[state.kind] = "shot"; syncInspector(); schedule(); };
+    g.appendChild(im);
+  });
+}
+/* screenshots chosen with the file picker replace/extend the library (and work even when the page is opened from file://) */
+function useLibFiles(files) {
+  files.filter(f => f.type.startsWith("image/")).forEach(f => {
+    LIB.urls[f.name] = URL.createObjectURL(f);
+    if (!LIB.names.includes(f.name)) LIB.names.push(f.name);
+    state.slides.forEach(sl => Object.values(sl.imgs).forEach(rec => { if (rec.lib === f.name) libLoad(rec); }));
+  });
+  buildLibGrid(); syncInspector(); schedule();
+}
+
+function setupBanner() {
+  const file = location.protocol === "file:";
+  if (!file) return;
+  $("banner").style.display = "flex";
+  $("bannerText").innerHTML = "Opened from a file: the browser can show the game assets but won't let the studio export them. Either run <code>python3 -m http.server</code> in the project folder and open <code>http://localhost:8000/tools/screenshot_studio.html</code>, or pick the project's <b>assets</b> folder (and use “Add screenshots…” for the desktop screenshots):";
+}
+function useAssetFolder(files) {
+  const map = new Map(); const bgs = [], chars = [];
+  files.forEach(f => {
+    const rel = f.webkitRelativePath.split("/").slice(1).join("/");
+    map.set(rel, URL.createObjectURL(f));
+    if (/^backgrounds\/[^/]+\.(webp|png|jpe?g)$/i.test(rel)) bgs.push(rel.slice(12));
+    const m = rel.match(/^characters\/([^/]+)\.png$/i); if (m) chars.push(m[1]);
+  });
+  if (!map.size) return;
+  assets.files = map; assets.cache.clear();
+  if (bgs.length) MANIFEST.backgrounds = bgs.sort();
+  if (chars.length) MANIFEST.characters = chars.sort();
+  $("banner").style.display = "none";
+  buildBgGrid(); loadI18n(); syncInspector(); schedule();
+}
+function exportError(err) {
+  const msg = (err && err.name === "SecurityError")
+    ? "The browser blocked the export because the game assets were loaded from file://. Open the studio through a local server or pick the assets folder (banner at the top)."
+    : "Export failed: " + (err && err.message);
+  alert(msg);
+}
+
+function loadImage(src) { return new Promise((res, rej) => { const i = new Image(); i.onload = () => res(i); i.onerror = rej; i.src = src; }); }
+function readFile(f) { return new Promise((res, rej) => { const r = new FileReader(); r.onload = () => res(r.result); r.onerror = rej; r.readAsDataURL(f); }); }
+async function loadShots(files) {
+  // several images dropped at once fill consecutive slides starting from the selected one
+  for (let i = 0; i < files.length; i++) {
+    const idx = state.sel + i;
+    if (idx >= state.slides.length) { const s = makeSlide({ type: "dialogue", bg: "Classroom_Day.webp", chars: [] }); s.cap = { en: { h: "New headline", s: "Supporting line" } }; state.slides.push(s); }
+    const sl = state.slides[idx]; sl.mode[state.kind] = "shot";
+    const src = await readFile(files[i]); sl.imgs[state.kind] = { src, el: await loadImage(src), ready: Promise.resolve() };
+  }
+  buildSlideList(); syncInspector(); schedule();
+}
+const toBlob = c => new Promise((res, rej) => { try { c.toBlob(b => b ? res(b) : rej(new Error("empty image")), "image/png"); } catch (e) { rej(e); } });
+function download(blob, name) {
+  const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = name;
+  document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(a.href), 4000);
+}
+
+/* export dialog */
+function openExport() {
+  const f = $("expFormats"); f.innerHTML = "";
+  Object.entries(FORMATS).forEach(([kind, list]) => list.forEach((fm, i) => {
+    const l = document.createElement("label"); l.className = "check"; l.style.margin = "2px 0";
+    l.innerHTML = `<input type="checkbox" data-kind="${kind}" data-i="${i}" ${i === 0 ? "checked" : ""}> ${fm.label}`; f.appendChild(l);
+  }));
+  const lo = $("expLocales"); lo.innerHTML = "";
+  Object.entries(LOCALES).forEach(([k, v]) => {
+    const l = document.createElement("label"); l.className = "check"; l.style.margin = "2px 0";
+    l.innerHTML = `<input type="checkbox" data-loc="${k}" ${k === state.locale ? "checked" : ""}> ${v}`; lo.appendChild(l);
+  });
+  $("exportDlg").addEventListener("change", updateCount); updateCount();
+  $("progress").textContent = ""; $("exportDlg").showModal();
+}
+function selected() {
+  return {
+    fm: [...document.querySelectorAll("#expFormats input:checked")].map(i => ({ kind: i.dataset.kind, fmt: FORMATS[i.dataset.kind][+i.dataset.i] })),
+    lo: [...document.querySelectorAll("#expLocales input:checked")].map(i => i.dataset.loc),
+  };
+}
+function updateCount() {
+  const { fm, lo } = selected(), missing = new Set();
+  fm.forEach(({ kind }) => state.slides.forEach((s, i) => { if (s.mode[kind] === "shot" && !s.imgs[kind]) missing.add(`${KIND_LABEL[kind]} slide ${i + 1}`); }));
+  $("expCount").textContent = `${fm.length * lo.length * state.slides.length} images` + (missing.size ? ` · ⚠ ${missing.size} “own screenshot” slide(s) have no image for that device and will show a placeholder` : "");
+}
+async function runExport() {
+  const { fm, lo } = selected();
+  if (!fm.length || !lo.length) { $("progress").textContent = "Select at least one size and one language."; return; }
+  const files = [], total = fm.length * lo.length * state.slides.length; let n = 0;
+  $("expGo").disabled = true;
+  try {
+    await ensureAssets(state.slides);
+    const c = document.createElement("canvas");
+    for (const loc of lo) for (const { kind, fmt } of fm) {
+      const ls = kind === "ipad" && state.landscape, { w, h } = canvasSize(kind, fmt, ls);
+      for (let i = 0; i < state.slides.length; i++) {
+        render(c, state.slides[i], kind, loc, w, h, ls, 1);
+        const blob = await toBlob(c);
+        files.push({ name: `${loc}/${kind}-${w}x${h}/${String(i + 1).padStart(2, "0")}-${slugify(capFor(state.slides[i], loc).h)}.png`, data: new Uint8Array(await blob.arrayBuffer()) });
+        $("progress").textContent = `Rendering ${++n} / ${total}…`;
+        await new Promise(r => setTimeout(r));
+      }
+    }
+    download(makeZip(files), "tsuzuki-connect-appstore-screenshots.zip");
+    $("progress").textContent = `Done — ${files.length} images saved to the ZIP.`;
+  } catch (err) { $("progress").textContent = ""; exportError(err); }
+  $("expGo").disabled = false;
+}
+
+init();
+</script>
+</body>
+</html>

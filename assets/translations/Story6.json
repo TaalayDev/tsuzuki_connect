@@ -3526,5 +3526,47 @@
     "ko": "일본어로는 이를 '여백(yohaku)'이라고 부릅니다. 말하지 않은 곳에 깃든 의미라는 뜻입니다.",
     "ja": "日本語ではこれを「余白」と呼ぶ。語られぬものの中に宿る意味のことだ。",
     "romaji": "Nihongo de wa kore o \"yohaku\" to yobu. Katararenu mono no naka ni yadoru imi no koto da."
+  },
+  "s6.b101": {
+    "en": "The source material is more complex than I expected. I'll need a little more time.",
+    "ru": "Исходный текст сложнее, чем я ожидал. Мне нужно немного больше времени.",
+    "zh": "原文比我预想的复杂。我需要多一点时间。",
+    "ja": "原文が思ったより複雑です。もう少し時間をください。",
+    "romaji": "Genbun ga omotta yori fukuzatsu desu. Mou sukoshi jikan o kudasai."
+  },
+  "s6.b102": {
+    "en": "I see. Please keep me informed.",
+    "ru": "Понятно. Держите меня в курсе.",
+    "zh": "明白了。请随时告诉我进展。",
+    "ja": "分かりました。進み具合を、教えてくださいね。",
+    "romaji": "Wakarimashita. Susumigai o, oshiete kudasai ne."
+  },
+  "s6.b103": {
+    "en": "Yes. Before, it was just a sentence. Now it's something I know.",
+    "ru": "Да. Раньше это было просто предложение. Теперь я это знаю.",
+    "zh": "是的。以前只是一句话。现在它是我所了解的事。",
+    "ja": "はい。前は、ただの文でした。今は、知っていることです。",
+    "romaji": "Hai. Mae wa, tada no bun deshita. Ima wa, shitte iru koto desu."
+  },
+  "s6.b104": {
+    "en": "Now I can name more of the ways it's true.",
+    "ru": "Теперь я могу назвать больше причин, почему это правда.",
+    "zh": "现在我能说出更多它为何成立的方式。",
+    "ja": "今は、それが本当である理由を、もっと言えます。",
+    "romaji": "Ima wa, sore ga hontou de aru riyuu o, motto iemasu."
+  },
+  "s6.b105": {
+    "en": "That's not a problem. That's knowing where you actually live.",
+    "ru": "Это не проблема. Это значит знать, где ты на самом деле живёшь.",
+    "zh": "那不是问题。那是知道自己真正的归属在哪里。",
+    "ja": "それは問題じゃありません。本当の居場所を知っているということです。",
+    "romaji": "Sore wa mondai ja arimasen. Hontou no ibasho o shitte iru to iu koto desu."
+  },
+  "s6.b106": {
+    "en": "Your real feelings live there. And your reach keeps growing.",
+    "ru": "Твои настоящие чувства живут там. И твой кругозор продолжает расти.",
+    "zh": "你真正的感受就在那里。而你的世界也在不断扩大。",
+    "ja": "本当の気持ちはそこにあります。そして、あなたの世界は広がり続けています。",
+    "romaji": "Hontou no kimochi wa soko ni arimasu. Soshite, anata no sekai wa hirogari tsuzukete imasu."
   }
 }
