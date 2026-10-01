@@ -9,7 +9,6 @@ import '../../models/vocab_word.dart';
 import '../../novel/vocabulary_lessons/vocabulary_lessons.dart';
 import '../../services/access_policy.dart';
 import '../../services/audio_service.dart';
-import '../../services/background_video_config.dart';
 import '../../services/character_assets.dart';
 import '../../services/content_service.dart';
 import '../../services/i18n_service.dart';
@@ -23,7 +22,7 @@ import '../../state/scene_player_provider.dart';
 import '../../state/settings_provider.dart';
 import '../../theme/app_theme.dart';
 import '../../widgets/adaptive_modal.dart';
-import '../../widgets/background_video.dart';
+import '../../widgets/scene_background.dart';
 import '../../widgets/confirm_dialog.dart';
 import '../../widgets/game_notification.dart';
 import '../../widgets/glass_panel.dart';
@@ -564,8 +563,10 @@ class _DialogueScreenState extends ConsumerState<DialogueScreen> {
                         fit: StackFit.expand,
                         children: [
                           Container(color: _backgroundColor(state.background)),
-                          if (BackgroundVideoConfig.hasVideo(state.background))
-                            BackgroundVideoLoop(backgroundId: state.background),
+                          SceneBackground(
+                            backgroundId: state.background,
+                            time: state.backgroundTime,
+                          ),
                         ],
                       ),
                     ),
@@ -702,12 +703,10 @@ class _DialogueScreenState extends ConsumerState<DialogueScreen> {
                                   Container(
                                     color: _backgroundColor(state.background),
                                   ),
-                                  if (BackgroundVideoConfig.hasVideo(
-                                    state.background,
-                                  ))
-                                    BackgroundVideoLoop(
-                                      backgroundId: state.background,
-                                    ),
+                                  SceneBackground(
+                                    backgroundId: state.background,
+                                    time: state.backgroundTime,
+                                  ),
                                 ],
                               ),
                             ),
